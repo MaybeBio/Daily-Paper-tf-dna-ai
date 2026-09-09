@@ -1,22 +1,15 @@
-# tf-dna-ai — 转录因子–DNA 互作 × AI/分子模拟
+# 🔍 TF-DNA-AI —— 转录因子–DNA 互作 × AI/分子模拟
 
-追踪 **TF–DNA 结合与结合位点**方向的计算方法文献：结合/结合位点的预测、建模与分子机理，方法限定为深度学习等 AI、结构方法（AlphaFold / ESMFold / Rosetta）与分子动力学/模拟/对接。
-
-对象用**互作中心词**驱动，但 PubMed 与预印本腿口径不同（本仓主题即 TF，裸 TF 只在 PubMed 用；预印本腿防越界）：
-
-- **PubMed 腿** — `Transcription Factors` / `DNA-Binding Proteins` / `Zinc Fingers` 等 MeSH + `transcription factor*`、`TF binding`、`TFBS`、`DNA binding`、`DNA-binding protein*`、`protein-DNA binding` 等 tiab；
-- **预印本腿**（arXiv/bioRxiv/medRxiv/chemRxiv）— 只收**锚定短语**：transcription factor binding (site)、TF binding/TFBS、DNA binding、DNA-binding protein/site、protein-DNA binding/interaction、zinc finger（补 MeSH）——**不收裸 `transcription factor`**，预印本引擎上裸 TF × AI 会把 enhancer/regulatory-element 类 ML 预后文拉进本腿。
-
-两类腿都**不收** `gene regulation` / `enhancer` / `promoter` / cis-regulatory / regulatory element / 染色质可及性 / enhancer-promoter 等**调控基因组侧词**——它们会带入多组学+ML 预后、天然产物网络药理等噪声，且该侧已独立为 `3d-genome-ai`。
+追踪 **TF–DNA 结合与互作机制** 方向的计算方法文献：结合/结合位点的预测、互作建模与分子机理，方法限定为深度学习，与分子动力学/模拟/对接。
 
 每周从 PubMed / arXiv / bioRxiv / medRxiv / chemRxiv 抓取最新元数据并提交回本仓库，同时开一条 Issue 汇总；本地用 Zotero 按 `_ids.txt` 批量导入人工筛选。
 
 ## 平台与量级
 
-- **PubMed** — 主工作腿（TIAB + MeSH）。
-- **bioRxiv** — 预印本主力（TF–DNA 计算预印本大多在此）。
-- **arXiv** — 精确短语精查腿：周命中通常 0–5，无噪声；空属正常。
-- **medRxiv / chemRxiv** — 本方向稀疏，常空，空属正常。
+- **PubMed** — 主力（TIAB + MeSH）
+- **bioRxiv** — 预印本主力
+- **arXiv** — 偏计算view
+- **medRxiv / chemRxiv** — 偏生化view
 
 ## 仓库结构
 
