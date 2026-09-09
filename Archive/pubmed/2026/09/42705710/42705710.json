@@ -1,0 +1,298 @@
+{
+  "identity": {
+    "pmid": "42705710",
+    "doi": "10.1016/j.foodres.2026.120190",
+    "title": "An antioxidant and hepatoprotective peptide derived from peony seed meal: Dual mechanisms through activation of the Keap1/Nrf2/HO-1 pathway and inhibition of mitochondrial apoptosis."
+  },
+  "content": {
+    "abstract": "Peony seed meal (PSM), a byproduct of peony seed oil processing, is rich in protein but is currently used primarily as animal feed in the livestock industry, leaving its protein resources largely underutilized. Herein, PSM was used as the raw material, and a combination of ultrasound-assisted enzymatic hydrolysis and ultrafiltration was employed to prepare a naturally active peptide fraction (PSMPH) from PSM protein (PSMP). Compared with PSMP, PSMPH demonstrated superior structural characteristics and antioxidant activity. Using liquid chromatography-tandem mass spectrometry, bioactivity prediction, and molecular docking analyses, the peptide AT-8 (APGGYGGT) was identified as a potential antioxidant candidate from PSMPH and subsequently synthesized using solid-phase synthesis. Safety evaluation further confirmed that AT-8 produced no cytotoxic side effects in five normal somatic cell lines. In H(2)O(2)-induced oxidative damage in LO2 hepatocytes, AT-8 significantly reduced alanine aminotransferase, aspartate aminotransferase, and malondialdehyde levels while upregulating the activities of superoxide dismutase, catalase, and glutathione peroxidase compared with PSMPH. Pathway-specific validation further demonstrated that AT-8 exerts hepatoprotective effects through a cascade mechanism involving Nrf2-HO-1 activation, enhanced antioxidant defense, and indirect inhibition of Bax/caspase-3. This study identified AT-8 as an antioxidant hepatoprotective peptide derived from PSM and systematically elucidated its molecular mechanism of action, thereby providing a scientific basis for the high-value utilization of PSM.",
+    "keywords": [
+      "Antioxidant peptide",
+      "Hepatocyte protection",
+      "Molecular docking",
+      "Nrf2 signaling pathway",
+      "Peony seed meal"
+    ],
+    "mesh_terms": [
+      "*NF-E2-Related Factor 2/metabolism",
+      "*Antioxidants/pharmacology",
+      "*Apoptosis/drug effects",
+      "*Seeds/chemistry",
+      "*Kelch-Like ECH-Associated Protein 1/metabolism",
+      "Hepatocytes/drug effects/metabolism",
+      "Humans",
+      "*Heme Oxygenase-1/metabolism",
+      "Oxidative Stress/drug effects",
+      "Signal Transduction/drug effects",
+      "Bioactive Peptides, Dietary",
+      "*Mitochondria/drug effects/metabolism",
+      "Animals",
+      "Molecular Docking Simulation",
+      "*Peptides/pharmacology",
+      "Cell Line"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Bing",
+        "Fei, Bo",
+        "Yan, Xueshan",
+        "Xiao, Zhenxiang",
+        "Dong, Yingying",
+        "Jiang, Ting",
+        "Shao, Shuai",
+        "Yan, Mingming"
+      ],
+      "short_names": [
+        "Wang B",
+        "Fei B",
+        "Yan X",
+        "Xiao Z",
+        "Dong Y",
+        "Jiang T",
+        "Shao S",
+        "Yan M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Changchun University of Chinese Medicine, Changchun, Jilin, China; Jilin Provincial Science and Technology Innovation Center of Health Food of Chinese Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China. Electronic address: ss36038612@163.com.",
+        "Changchun University of Chinese Medicine, Changchun, Jilin, China; Jilin Provincial Science and Technology Innovation Center of Health Food of Chinese Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China. Electronic address: 386759102@qq.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Bing",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Fei, Bo",
+        "short_name": "Fei B",
+        "identifiers": [],
+        "affiliations": [
+          "Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Xueshan",
+        "short_name": "Yan X",
+        "identifiers": [],
+        "affiliations": [
+          "Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Zhenxiang",
+        "short_name": "Xiao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Yingying",
+        "short_name": "Dong Y",
+        "identifiers": [],
+        "affiliations": [
+          "Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Ting",
+        "short_name": "Jiang T",
+        "identifiers": [],
+        "affiliations": [
+          "Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Shuai",
+        "short_name": "Shao S",
+        "identifiers": [],
+        "affiliations": [
+          "Changchun University of Chinese Medicine, Changchun, Jilin, China; Jilin Provincial Science and Technology Innovation Center of Health Food of Chinese Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China. Electronic address: ss36038612@163.com."
+        ]
+      },
+      {
+        "full_name": "Yan, Mingming",
+        "short_name": "Yan M",
+        "identifiers": [],
+        "affiliations": [
+          "Changchun University of Chinese Medicine, Changchun, Jilin, China; Jilin Provincial Science and Technology Innovation Center of Health Food of Chinese Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China. Electronic address: 386759102@qq.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 23:34",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42705710",
+      "40058928",
+      "39706064",
+      "41505276",
+      "41828583",
+      "41455169",
+      "33101585",
+      "33406386",
+      "41494610",
+      "38750475",
+      "42270250",
+      "33434705",
+      "38664646",
+      "41794516",
+      "31214283",
+      "39275137",
+      "31737162",
+      "41887383",
+      "40344592",
+      "31599006",
+      "33496711",
+      "39871436",
+      "41252784",
+      "39233848",
+      "28188924",
+      "40505314",
+      "41110982",
+      "39779560",
+      "39054709",
+      "30662338",
+      "36819782",
+      "33405053",
+      "42042215",
+      "34685615",
+      "32654377",
+      "41055715",
+      "34226415",
+      "31654068",
+      "42184520",
+      "39449772",
+      "39855833",
+      "29094331",
+      "28103505",
+      "36184550",
+      "34630847",
+      "35673910",
+      "41047055",
+      "41363052",
+      "38775936",
+      "38078849",
+      "32830535",
+      "39392363",
+      "31176653",
+      "29879626",
+      "37853837",
+      "31112588",
+      "42000414",
+      "40801636",
+      "36646010",
+      "38837798",
+      "39442745",
+      "41944909",
+      "42134124",
+      "24231097",
+      "39417305",
+      "28035409",
+      "41683227",
+      "41014668",
+      "41469678",
+      "42019124",
+      "39367100",
+      "39961757",
+      "31810119",
+      "35761579",
+      "40163430",
+      "40436344",
+      "33640343",
+      "40738354",
+      "35669855",
+      "32219872",
+      "33226392",
+      "31131946",
+      "38104880",
+      "37955318",
+      "42654213",
+      "33359640",
+      "40058266",
+      "38458086",
+      "40019253",
+      "41916685",
+      "30342186",
+      "31310828",
+      "22948038",
+      "32064027",
+      "42046251",
+      "38108309",
+      "41599969",
+      "41812974",
+      "40394800",
+      "34416627"
+    ],
+    "review": [
+      "42705710"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)01876-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/antioxidants.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antioxidants"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CASP3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1491",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

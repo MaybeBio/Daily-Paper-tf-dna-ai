@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "42703773",
+    "doi": "10.1155/mi/3190064",
+    "title": "Identification of Integrated Stress Response-Related Biomarkers in Sepsis-Induced Acute Respiratory Distress Syndrome."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Sepsis-induced acute respiratory distress syndrome (ARDS) is a fatal inflammatory lung injury. The integrated stress response (ISR) may play stage-dependent roles in lung injury, but its clinical relevance in sepsis-induced ARDS remains unclear. We aimed to identify ISR-related biomarkers and explore their potential mechanisms. METHODS: Public transcriptomic datasets of sepsis-induced ARDS were analyzed. Peripheral blood mononuclear cell (PBMC) single-cell RNA sequencing (scRNA-seq) was used to define key immune cell populations and intercellular communication. Differential expression analyses combined with machine learning were applied to screen ISR-associated biomarkers, and a nomogram was developed as an exploratory tool for ARDS risk stratification. Biomarker expression was validated in a cecal ligation and puncture (CLP)-based rat model representing early sepsis and ARDS-like lung injury. Lung injury was assessed by light and electron microscopy, histological scoring, lung wet/dry weight ratio, and BALF total protein measurement. Gene expression was quantified by qPCR and protein levels by Western blotting. Functional enrichment, immune infiltration, and trajectory analyses were performed to investigate underlying pathways and immune dynamics. The biomarkers were further validated in an independent external dataset. RESULTS: Nuclear factor erythroid 2-like 2 (NFE2L2) and ZFP36L1 were identified as potential ISR-associated biomarkers in sepsis-induced ARDS, and the two-gene nomogram showed good predictive performance. In vivo, peripheral blood Tnf and Il6 mRNA expression increased after CLP, while rats with ARDS-like lung injury exhibited marked lung injury and reduced tight junction markers. Nfe2l2 and Zfp36l1 mRNA levels were elevated in early sepsis but decreased in established ARDS-like lung injury, while their protein levels were generally reduced in established ARDS-like lung injury compared with early sepsis. Canonical ISR activation markers, including the p-eukaryotic translation initiation factor 2alpha (eIF2alpha)/total eIF2alpha ratio and Atf4, Ddit3/Chop, and Ppp1r15 a/Gadd34 expression, progressively increased from early sepsis to ARDS-like lung injury. Enrichment analyses implicated multiple ISR-related pathways. Immune infiltration analysis revealed altered immune cell composition, with NFE2L2 negatively correlated with activated B cell infiltration. Single-cell trajectory analysis demonstrated dynamic expression of these biomarkers during differentiation of key immune cell subsets. CONCLUSION: NFE2L2 and ZFP36L1 are potential ISR-associated biomarkers in sepsis-induced ARDS and may contribute to disease progression through stress-response regulation and immune modulation, supporting biomarker-driven risk stratification and providing a foundation for future mechanistic and interventional studies.",
+    "keywords": [
+      "acute respiratory distress syndrome (ARDS)",
+      "integrated stress response",
+      "machine learning",
+      "sepsis",
+      "single-cell RNA sequencing"
+    ],
+    "mesh_terms": [
+      "*Respiratory Distress Syndrome/metabolism/etiology",
+      "Animals",
+      "*Sepsis/complications/metabolism",
+      "*Biomarkers/metabolism",
+      "Rats",
+      "*Integrated Stress Response/physiology",
+      "Male",
+      "Rats, Sprague-Dawley",
+      "NF-E2-Related Factor 2/metabolism",
+      "Leukocytes, Mononuclear/metabolism",
+      "Disease Models, Animal",
+      "Lung/metabolism/pathology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Ye",
+        "Wang, Ni",
+        "Xiao, Zhaoyang"
+      ],
+      "short_names": [
+        "Gao Y",
+        "Wang N",
+        "Xiao Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8125-339X",
+        "ORCID: 0000-0003-4308-864X",
+        "ORCID: 0000-0001-7129-1341"
+      ],
+      "affiliations": [
+        "Department of Anesthesiology, The Second Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116000, China, dlmedu.edu.cn.",
+        "Department of Anesthesiology, The Second Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116000, China, dlmedu.edu.cn.",
+        "Department of Anesthesiology, The Second Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116000, China, dlmedu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Ye",
+        "short_name": "Gao Y",
+        "identifiers": [
+          "0000-0001-8125-339X"
+        ],
+        "affiliations": [
+          "Department of Anesthesiology, The Second Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116000, China, dlmedu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Ni",
+        "short_name": "Wang N",
+        "identifiers": [
+          "0000-0003-4308-864X"
+        ],
+        "affiliations": [
+          "Department of Anesthesiology, The Second Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116000, China, dlmedu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xiao, Zhaoyang",
+        "short_name": "Xiao Z",
+        "identifiers": [
+          "0000-0001-7129-1341"
+        ],
+        "affiliations": [
+          "Department of Anesthesiology, The Second Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116000, China, dlmedu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Mediators of inflammation"
+    ],
+    "journal_abbrev": [
+      "Mediators Inflamm"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 11:37",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42703773",
+      "35844622",
+      "36567558",
+      "36916375",
+      "41221285",
+      "42398170",
+      "40375981",
+      "40634559",
+      "41580845",
+      "41706425",
+      "22381171",
+      "29545858",
+      "42208328",
+      "40898483",
+      "35354111",
+      "41491575",
+      "32866783",
+      "33148285",
+      "42234716",
+      "16960438",
+      "39453486",
+      "40892227",
+      "40055592",
+      "40946659",
+      "42250009",
+      "39170019",
+      "38646480",
+      "42445172",
+      "39223886",
+      "42563678",
+      "26152793",
+      "38865000",
+      "39945893",
+      "39099357",
+      "40086004",
+      "41917427",
+      "42218858",
+      "38649840",
+      "35609679",
+      "37139806",
+      "34808102",
+      "36169246",
+      "40849369",
+      "30013453",
+      "41110296",
+      "37805755",
+      "36882272",
+      "42495636",
+      "42305536",
+      "41225313",
+      "36916335",
+      "42447185",
+      "37592717",
+      "40591166",
+      "42329827",
+      "24612782",
+      "40849045",
+      "40486522",
+      "42394490",
+      "32003020",
+      "39481313",
+      "40263316",
+      "30771687",
+      "37308195",
+      "41840716",
+      "42701775",
+      "41890760",
+      "37301835",
+      "40607951",
+      "16317391",
+      "42099630",
+      "41482772",
+      "38656728",
+      "36070121",
+      "35222683",
+      "40133025",
+      "36224681",
+      "33049802",
+      "36086972",
+      "41286844",
+      "42492262",
+      "37528797",
+      "41482636",
+      "40553253",
+      "41802381",
+      "39191344",
+      "39663675",
+      "36734635",
+      "38321908",
+      "34246059",
+      "31632392",
+      "25454976",
+      "42024670",
+      "37489855",
+      "41182312",
+      "35871648",
+      "30645707",
+      "42265520",
+      "33605699",
+      "22959885"
+    ],
+    "review": [
+      "42703773",
+      "42495636"
+    ],
+    "pmc": [
+      "13548138"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/sepsis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Sepsis"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/mi/3190064",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-DDIT3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3778",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

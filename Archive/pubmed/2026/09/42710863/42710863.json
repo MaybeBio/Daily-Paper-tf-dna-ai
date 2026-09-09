@@ -1,0 +1,213 @@
+{
+  "identity": {
+    "pmid": "42710863",
+    "doi": "10.1093/biostatistics/kxag029",
+    "title": "transfactor: transcription factor activity estimation via probabilistic gene expression deconvolution."
+  },
+  "content": {
+    "abstract": "Gene expression is a primary modality being studied to differentiate between biological cells. Contemporary single-cell studies simultaneously measure genome-wide transcription levels for thousands of individual cells in a single experiment. While the characterization of cell population differences has often occurred through differential gene expression analysis, tiny effect sizes become statistically significant when thousands of cells are available for each population, compromising biological interpretation. Moreover, these large studies have spurred the development of methods to infer gene regulatory networks (GRNs) directly from the data, and GRN databases are becoming more comprehensive. In this work, we propose a statistical model for gene expression measures and an inference method that leverage GRNs to deconvolve transcription factor (TF) activity from gene expression, by probabilistically assigning mRNA molecules to TFs. This shifts the paradigm from investigating gene expression differences to regulatory differences at the level of TF activity, aiding interpretation and allowing prioritization of a limited number of TFs responsible for significant contributions to the observed gene expression differences. The inferred TF activities result in intuitive prioritization of TFs in terms of the (difference in) estimated number of molecules they produce, in contrast to other widely used methods relying on arbitrary enrichment scores. Our model allows the incorporation of prior information on the regulatory potential between each TF and target gene and is able to deal with both repressing and activating interactions. We compare our approach to other TF activity estimation methods using two simulation experiments and two case studies. Single-cell RNA-sequencing; TF activity; bioinformatics; GRN.",
+    "keywords": [
+      "bioinformatics",
+      "gene regulatory network",
+      "single-cell RNA-sequencing",
+      "transcription factor activity"
+    ],
+    "mesh_terms": [
+      "*Transcription Factors/metabolism/genetics",
+      "*Gene Regulatory Networks/genetics",
+      "*Models, Statistical",
+      "Humans",
+      "Single-Cell Gene Expression Analysis",
+      "*Gene Expression/genetics",
+      "*Gene Expression Profiling/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Van den Berge, Koen",
+        "Bickel, Peter",
+        "Dudoit, Sandrine"
+      ],
+      "short_names": [
+        "Van den Berge K",
+        "Bickel P",
+        "Dudoit S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1833-8478"
+      ],
+      "affiliations": [
+        "Department of Statistics, University of California, Berkeley, Barbara and Gerson Bakar Gateway, #3860, 2300 Hearst Avenue, Berkeley, CA 94720-3860, United States.",
+        "Department of Applied Mathematics, Computer Science and Statistics, Ghent University, Krijgslaan 281, Ghent, Belgium.",
+        "Department of Statistics, University of California, Berkeley, Barbara and Gerson Bakar Gateway, #3860, 2300 Hearst Avenue, Berkeley, CA 94720-3860, United States.",
+        "Department of Statistics, University of California, Berkeley, Barbara and Gerson Bakar Gateway, #3860, 2300 Hearst Avenue, Berkeley, CA 94720-3860, United States.",
+        "Division of Biostatistics, School of Public Health, University of California, Berkeley, 2121 Berkeley Way, Berkeley, CA 94270-7360, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Van den Berge, Koen",
+        "short_name": "Van den Berge K",
+        "identifiers": [
+          "0000-0002-1833-8478"
+        ],
+        "affiliations": [
+          "Department of Statistics, University of California, Berkeley, Barbara and Gerson Bakar Gateway, #3860, 2300 Hearst Avenue, Berkeley, CA 94720-3860, United States.",
+          "Department of Applied Mathematics, Computer Science and Statistics, Ghent University, Krijgslaan 281, Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Bickel, Peter",
+        "short_name": "Bickel P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Statistics, University of California, Berkeley, Barbara and Gerson Bakar Gateway, #3860, 2300 Hearst Avenue, Berkeley, CA 94720-3860, United States."
+        ]
+      },
+      {
+        "full_name": "Dudoit, Sandrine",
+        "short_name": "Dudoit S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Statistics, University of California, Berkeley, Barbara and Gerson Bakar Gateway, #3860, 2300 Hearst Avenue, Berkeley, CA 94720-3860, United States.",
+          "Division of Biostatistics, School of Public Health, University of California, Berkeley, 2121 Berkeley Way, Berkeley, CA 94270-7360, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biostatistics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Biostatistics"
+    ],
+    "pub_date": "2026 Jan 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 23:35",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42710863",
+      "42059479",
+      "24228871",
+      "41288963",
+      "18426580",
+      "23497388",
+      "17319944",
+      "33631799",
+      "34251625",
+      "41518505",
+      "29879919",
+      "21172055",
+      "37889053",
+      "39833103",
+      "40654959",
+      "22849367",
+      "16766556",
+      "32019417",
+      "37085776",
+      "33002527",
+      "36418514",
+      "30547796",
+      "38980373",
+      "42475469",
+      "32054475",
+      "18769540",
+      "35961023",
+      "29226599",
+      "38609714",
+      "25162401",
+      "22784627",
+      "29769331",
+      "36307979",
+      "20704747",
+      "27794550",
+      "39535258",
+      "31985403",
+      "28254369",
+      "20942926",
+      "39161769",
+      "36168811",
+      "16131521",
+      "19476620",
+      "37803124",
+      "17825013",
+      "24039560",
+      "40251476",
+      "30844478",
+      "35757392",
+      "21496241",
+      "18586698",
+      "39519201",
+      "31140835",
+      "31399483",
+      "16632490",
+      "34864886",
+      "38652750",
+      "41489955",
+      "37365273",
+      "32174324",
+      "38950180",
+      "40409400",
+      "41093852",
+      "38521929",
+      "40832173",
+      "38744843",
+      "38754366",
+      "40607808",
+      "23822978",
+      "37788349",
+      "27295045",
+      "38589899",
+      "16403793",
+      "41498638",
+      "33135076",
+      "27723775",
+      "18021409",
+      "28710010",
+      "37843125",
+      "30961611",
+      "28961802",
+      "41314178",
+      "36114445",
+      "31099391",
+      "18366607",
+      "38653489",
+      "38238840",
+      "39679439",
+      "29990003",
+      "40633682",
+      "17688426",
+      "23758851",
+      "22456606",
+      "38949092",
+      "14555624",
+      "26526635",
+      "39062480",
+      "41984780",
+      "42006143",
+      "30445760"
+    ],
+    "review": [
+      "42710863",
+      "37365273"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

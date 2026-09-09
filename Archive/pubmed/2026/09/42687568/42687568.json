@@ -1,0 +1,275 @@
+{
+  "identity": {
+    "pmid": "42687568",
+    "doi": "10.1111/ede.70059",
+    "title": "Cross-Kingdom Structural Conservation and Diversification of Homeodomains Across Major Eukaryotic Lineages."
+  },
+  "content": {
+    "abstract": "Homeodomain transcription factors share an ancient helix-turn-helix DNA-binding core yet regulate diverse developmental and reproductive programs across eukaryotes. We curated 355 nonredundant homeodomain structures spanning fungi, animals, and plants, including 118 experimental PDB entries and 237 high-confidence AlphaFold2 models, and performed large-scale structural comparisons using DaliLite5. Structural distances were summarized as a clustering tree visualized in iTOL and interpreted through topology-guided PyMOL superpositions and sequence-logo mapping of conserved positions. Across kingdoms, the canonical three-helix HTH geometry and the recognition-helix framework were strongly conserved, whereas structural diversification was concentrated in interhelical loops, terminal regions, linker segments, and lineage-specific auxiliary modules. Fungal mating-type homeodomains and major animal classes retained conserved recognition-helix architecture despite sequence divergence, while plant WOX, ZF-HD, PHD-associated, and SAWADEE-associated architectures illustrated modular expansion for developmental and chromatin-context integration.",
+    "keywords": [
+      "AlphaFold2",
+      "DaliLite",
+      "homeodomain",
+      "structural evolution",
+      "transcription factors"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Homeodomain Proteins/genetics/chemistry/metabolism",
+      "*Evolution, Molecular",
+      "Plants/genetics",
+      "Conserved Sequence",
+      "Phylogeny",
+      "Fungi/genetics",
+      "Models, Molecular",
+      "Amino Acid Sequence",
+      "*Eukaryota/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Buarante, Gloria Elisabeth",
+        "Damayanti, Ema",
+        "Kurniatin, Popi Asri",
+        "Setyawati, Inda",
+        "Riffiani, Rini"
+      ],
+      "short_names": [
+        "Buarante GE",
+        "Damayanti E",
+        "Kurniatin PA",
+        "Setyawati I",
+        "Riffiani R"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-4911-7742",
+        "ORCID: 0000-0002-4017-0499",
+        "ORCID: 0000-0002-9522-2129",
+        "ORCID: 0000-0001-9861-1755",
+        "ORCID: 0000-0002-0783-0483"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, Indonesia.",
+        "Research Center for Food Technology and Processing, BRIN, Yogyakarta, Indonesia.",
+        "Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, Indonesia.",
+        "Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, Indonesia.",
+        "Bioinformatics Study Program, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, Indonesia.",
+        "Research Center for Applied Microbiology, National Research and Innovation Agency (BRIN), Cibinong, Indonesia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Buarante, Gloria Elisabeth",
+        "short_name": "Buarante GE",
+        "identifiers": [
+          "0009-0000-4911-7742"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Damayanti, Ema",
+        "short_name": "Damayanti E",
+        "identifiers": [
+          "0000-0002-4017-0499"
+        ],
+        "affiliations": [
+          "Research Center for Food Technology and Processing, BRIN, Yogyakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Kurniatin, Popi Asri",
+        "short_name": "Kurniatin PA",
+        "identifiers": [
+          "0000-0002-9522-2129"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Setyawati, Inda",
+        "short_name": "Setyawati I",
+        "identifiers": [
+          "0000-0001-9861-1755"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, Indonesia.",
+          "Bioinformatics Study Program, Faculty of Mathematics and Natural Sciences, IPB University, Bogor, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Riffiani, Rini",
+        "short_name": "Riffiani R",
+        "identifiers": [
+          "0000-0002-0783-0483"
+        ],
+        "affiliations": [
+          "Research Center for Applied Microbiology, National Research and Innovation Agency (BRIN), Cibinong, Indonesia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Evolution & development"
+    ],
+    "journal_abbrev": [
+      "Evol Dev"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 05:37",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42687568",
+      "12419257",
+      "10605826",
+      "7623378",
+      "22186017",
+      "18950478",
+      "9419235",
+      "11302705",
+      "10026784",
+      "9336443",
+      "20472752",
+      "11470884",
+      "30616529",
+      "8692913",
+      "32374732",
+      "21371298",
+      "23634722",
+      "9391098",
+      "15186492",
+      "8831795",
+      "19416520",
+      "11169970",
+      "20509910",
+      "26831906",
+      "18585359",
+      "24869856",
+      "10642882",
+      "28879231",
+      "12466527",
+      "21324123",
+      "19734295",
+      "35524943",
+      "31603924",
+      "11289511",
+      "12956953",
+      "10556324",
+      "15808743",
+      "24055174",
+      "8875863",
+      "9604773",
+      "42076836",
+      "17501745",
+      "26587879",
+      "11851335",
+      "23261709",
+      "10494623",
+      "15356280",
+      "21680890",
+      "7999763",
+      "17949725",
+      "22103894",
+      "7758585",
+      "10329173",
+      "11867548",
+      "15257761",
+      "22920570",
+      "41117958",
+      "8563623",
+      "41308989",
+      "11083943",
+      "23950697",
+      "10545119",
+      "32125369",
+      "38243636",
+      "16151182",
+      "42074329",
+      "8491172",
+      "10473770",
+      "10541438",
+      "9254921",
+      "1350195",
+      "25483602",
+      "17900877",
+      "11264400",
+      "11264412",
+      "41606170",
+      "11471237",
+      "12702327",
+      "7671301",
+      "15886395",
+      "10331279",
+      "8524040",
+      "14580198",
+      "41465416",
+      "2469937",
+      "19481089",
+      "17130173",
+      "10805792",
+      "8649375",
+      "27030733",
+      "8696974",
+      "23584027",
+      "16151185",
+      "21347612",
+      "42413931",
+      "42397744",
+      "21595937",
+      "8787739",
+      "20141168",
+      "10375352"
+    ],
+    "review": [
+      "42687568",
+      "10026784",
+      "8831795",
+      "11169970",
+      "15808743",
+      "10494623",
+      "17949725",
+      "1350195",
+      "12702327",
+      "8696974",
+      "23584027"
+    ],
+    "pmc": [
+      "13539291"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42687568/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1111/ede.70059",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

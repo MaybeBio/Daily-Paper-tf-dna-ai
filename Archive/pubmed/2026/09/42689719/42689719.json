@@ -1,0 +1,364 @@
+{
+  "identity": {
+    "pmid": "42689719",
+    "doi": "10.1021/acsnano.6c09358",
+    "title": "Layered Lipid Nanoparticle Adjuvants Coordinate Toll-Like Receptor 4 and Toll-Like Receptor 9 Activation with Enhanced Immunity and Improved Tolerability."
+  },
+  "content": {
+    "abstract": "Vaccines rely on adjuvants to stimulate the immune system, but achieving strong immune activation together with acceptable tolerability remains a major challenge. Lipid nanoparticles are widely used as delivery platforms, yet how their internal organization can be engineered to coordinate multiple innate immune signals remains poorly understood. Here, we designed a hybrid lipid nanoparticle adjuvant that coformulates two clinically relevant immune stimulators targeting toll-like receptor 4 (TLR4) and TLR9. By blending two ionizable lipids, the nanoparticles self-assemble into a layered structure with a raft-associated ordered outer shell and an inner core, with apparent enrichment of monophosphoryl lipid A (MPLA) toward the particle surface and CpG toward the interior, as suggested by our experimental and simulation analyses. This organization is consistent with a relay-like activation pattern that may contribute to strong immune responses while potentially reducing early inflammatory reactions. The hybrid adjuvant enhances antibody quality, cellular immunity, and protective efficacy under the tested conditions, across multiple vaccine antigens and animal models, with performance comparable to or exceeding benchmark adjuvants. These findings suggest that controlling nanoscale lipid organization provides a useful strategy for improving vaccine adjuvant performance.",
+    "keywords": [
+      "immune programming",
+      "lipid nanoparticulate adjuvants",
+      "raft-like membrane domains",
+      "toll-like receptors",
+      "vaccines"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Nanoparticles/chemistry",
+      "*Adjuvants, Immunologic/chemistry/pharmacology",
+      "*Toll-Like Receptor 4/immunology",
+      "*Lipids/chemistry",
+      "*Toll-Like Receptor 9/immunology",
+      "Lipid A/chemistry/analogs & derivatives",
+      "Mice",
+      "Toll-Like Receptor Agonists",
+      "Liposomes"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Haolin",
+        "Wang, Ruifeng",
+        "Zhang, Zhihui",
+        "Yang, Zeyu",
+        "Wen, Zhenfu",
+        "Li, Liyan",
+        "Liu, Zhijia",
+        "Fan, Dang",
+        "Xu, Yuhua",
+        "Li, Ming",
+        "Liu, Hong",
+        "Liu, Lixin",
+        "Chen, Yongming"
+      ],
+      "short_names": [
+        "Chen H",
+        "Wang R",
+        "Zhang Z",
+        "Yang Z",
+        "Wen Z",
+        "Li L",
+        "Liu Z",
+        "Fan D",
+        "Xu Y",
+        "Li M",
+        "Liu H",
+        "Liu L",
+        "Chen Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-3055-6042",
+        "ORCID: 0000-0002-9764-8027",
+        "ORCID: 0000-0002-8438-6961",
+        "ORCID: 0000-0003-0350-7475",
+        "ORCID: 0000-0001-6133-4977",
+        "ORCID: 0000-0003-2843-5543"
+      ],
+      "affiliations": [
+        "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+        "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China.",
+        "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+        "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+        "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+        "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+        "State Key Laboratory of Antiviral Drugs, Henan University, Zhengzhou450046, China.",
+        "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+        "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China.",
+        "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China.",
+        "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China.",
+        "State Key Laboratory of Antiviral Drugs, Henan University, Zhengzhou450046, China.",
+        "Translational Medical Center of Huaihe Hospital, Henan University, Kaifeng475000, China.",
+        "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+        "Guangxi Academy of Medical Sciences, The People's Hospital of Guangxi Zhuang Autonomous Region, Nanning530021, China.",
+        "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+        "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China.",
+        "State Key Laboratory of Antiviral Drugs, Henan University, Zhengzhou450046, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Haolin",
+        "short_name": "Chen H",
+        "identifiers": [
+          "0009-0003-3055-6042"
+        ],
+        "affiliations": [
+          "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruifeng",
+        "short_name": "Wang R",
+        "identifiers": [
+          "0000-0002-9764-8027"
+        ],
+        "affiliations": [
+          "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhihui",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zeyu",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Zhenfu",
+        "short_name": "Wen Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China."
+        ]
+      },
+      {
+        "full_name": "Li, Liyan",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+          "State Key Laboratory of Antiviral Drugs, Henan University, Zhengzhou450046, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhijia",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0000-0002-8438-6961"
+        ],
+        "affiliations": [
+          "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Dang",
+        "short_name": "Fan D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yuhua",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ming",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Hong",
+        "short_name": "Liu H",
+        "identifiers": [
+          "0000-0003-0350-7475"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Antiviral Drugs, Henan University, Zhengzhou450046, China.",
+          "Translational Medical Center of Huaihe Hospital, Henan University, Kaifeng475000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Lixin",
+        "short_name": "Liu L",
+        "identifiers": [
+          "0000-0001-6133-4977"
+        ],
+        "affiliations": [
+          "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+          "Guangxi Academy of Medical Sciences, The People's Hospital of Guangxi Zhuang Autonomous Region, Nanning530021, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yongming",
+        "short_name": "Chen Y",
+        "identifiers": [
+          "0000-0003-2843-5543"
+        ],
+        "affiliations": [
+          "School of Materials Science and Engineering, Key Laboratory for Polymeric Composite and Functional Materials of Ministry of Education, Guangdong Functional Biomaterials Engineering Technology Research Center, Sun Yat-sen University, Guangzhou510006, China.",
+          "College of Chemistry and Molecular Science, Henan University, Kaifeng475004, China.",
+          "State Key Laboratory of Antiviral Drugs, Henan University, Zhengzhou450046, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS nano"
+    ],
+    "journal_abbrev": [
+      "ACS Nano"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689719",
+      "39494905",
+      "41043736",
+      "29702142",
+      "41653941",
+      "40281311",
+      "35577151",
+      "40570747",
+      "29179132",
+      "28487429",
+      "42218860",
+      "39111597",
+      "12377566",
+      "15268679",
+      "35773119",
+      "27928002",
+      "40401447",
+      "28963929",
+      "28686452",
+      "28724768",
+      "25045815",
+      "39083930",
+      "24593999",
+      "41795437",
+      "38215338",
+      "25568203",
+      "27187797",
+      "30098441",
+      "35302764",
+      "40660065",
+      "38634150",
+      "38386282",
+      "22470545",
+      "30366662",
+      "31489613",
+      "28228587",
+      "33497574",
+      "41998713",
+      "42475333",
+      "29278302",
+      "39632208",
+      "41762585",
+      "29861179",
+      "17059695",
+      "37324951",
+      "30868883",
+      "20665204",
+      "26555351",
+      "37854858",
+      "24984067",
+      "26862758",
+      "26921522",
+      "18272264",
+      "42314330",
+      "38155525",
+      "40310259",
+      "40129118",
+      "33117374",
+      "27016652",
+      "39258393",
+      "41067087",
+      "26897363",
+      "42582202",
+      "24712905",
+      "40907461",
+      "29541075",
+      "41859102",
+      "39924738",
+      "31654684",
+      "42534944",
+      "41978258",
+      "34852943",
+      "33767689",
+      "39037263",
+      "37772637",
+      "21612239",
+      "26149936",
+      "12704121",
+      "28955328",
+      "42534843",
+      "38885198",
+      "26811064",
+      "11805229",
+      "34650551",
+      "34561306",
+      "38711520",
+      "41101205",
+      "12871139",
+      "29793957",
+      "40414893",
+      "26312747",
+      "19864596",
+      "33815382",
+      "31191528",
+      "28056837",
+      "23499594",
+      "37993870",
+      "28069554",
+      "39363106",
+      "28077440"
+    ],
+    "review": [
+      "42689719",
+      "40570747",
+      "12377566",
+      "15268679",
+      "30366662",
+      "38155525",
+      "42582202",
+      "42534843",
+      "12871139",
+      "31191528"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ancac3/article-lookup/doi/10.1021/acsnano.6c09358",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

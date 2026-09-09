@@ -1,0 +1,314 @@
+{
+  "identity": {
+    "pmid": "42701775",
+    "doi": "10.2147/COPD.S615813",
+    "title": "Bioinformatics Screening and Preliminary Experimental Verification of Integrated Stress Response-Associated MYC and BAG3 in Chronic Obstructive Pulmonary Disease."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Chronic obstructive pulmonary disease (COPD) has high morbidity and mortality, and integrated stress response (ISR) participates in its progression. Traditional COPD diagnosis relies mainly on GOLD criteria, while ISR-based auxiliary molecular markers are still lacking. This study aimed to comprehensively analyze and identify ISR-related biomarkers in COPD, and to uncover their underlying molecular mechanisms. METHODS: COPD data were obtained from the GEO database. Biomarkers were identified and validated through a comprehensive approach, including differential expression analysis, machine learning algorithms, expression level verification, and receiver operating characteristic (ROC) curve analysis. Moreover, a nomogram was applied to construct an ISR-related predictive model for COPD. Enrichment analysis, immune infiltration analysis, molecular regulatory network, and drug prediction were performed to further confirm the regulatory roles of biomarkers. Furthermore, the expression patterns of biomarkers in core cells were investigated using dataset GSE173896. Furthermore, Western blotting was employed to detect the protein expression levels of biomarkers in clinical samples. RESULTS: Overall, 2 biomarkers (MYC and BAG3) were identified as significantly associated with ISR in COPD. A predictive nomogram constructed based on MYC and BAG3 demonstrated excellent diagnostic performance, with an area under the curve (AUC) value of 0.799. The biomarkers were significantly enriched in the MAPK signaling pathway and cell cycle. Notably, biomarkers were positively correlated with effector memory CD4 T cells and eosinophils. Subsequently, 36 microRNAs (miRNAs) (like hsa-miR-4699-3p), 260 transcription factors (TFs) (like SNAI2, ZBTB43, and ZNF395) and 9 drugs (like staurosporine and N-acetyl-L-cysteine) were associated with the biomarkers. Moreover, significant changes in MYC and BAG3 expression were observed during T cell differentiation. Clinically, MYC and BAG3 were significantly upregulated in COPD tissues, with protein levels increased by 58.4% and 252.2% respectively. CONCLUSION: This study identified and preliminarily verified ISR-associated MYC and BAG3, offering novel molecular references to complement conventional COPD clinical assessment.",
+    "keywords": [
+      "biomarkers",
+      "chronic obstructive pulmonary disease",
+      "integrated stress response",
+      "machine learning",
+      "single-cell RNA sequencing"
+    ],
+    "mesh_terms": [
+      "*Pulmonary Disease, Chronic Obstructive/metabolism/genetics/diagnosis/physiopathology",
+      "Humans",
+      "*Computational Biology",
+      "*Apoptosis Regulatory Proteins/genetics/metabolism",
+      "*Adaptor Proteins, Signal Transducing/genetics/metabolism",
+      "*Integrated Stress Response",
+      "*Proto-Oncogene Proteins c-myc/genetics/metabolism",
+      "Databases, Genetic",
+      "Gene Expression Profiling",
+      "Biomarkers/metabolism",
+      "Gene Regulatory Networks",
+      "Signal Transduction",
+      "Predictive Value of Tests"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Xueping",
+        "Wang, Lu",
+        "Tang, Ting",
+        "Qian, Hang",
+        "He, Binfeng",
+        "Xu, Zhi",
+        "Wang, Guansong",
+        "Zhang, Mingzhou"
+      ],
+      "short_names": [
+        "Liu X",
+        "Wang L",
+        "Tang T",
+        "Qian H",
+        "He B",
+        "Xu Z",
+        "Wang G",
+        "Zhang M"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9548-8894",
+        "ORCID: 0000-0002-5184-0777",
+        "ORCID: 0000-0001-8879-6426"
+      ],
+      "affiliations": [
+        "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China.",
+        "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China.",
+        "Department of Respiratory Disease, Chongqing Public Health Emergency Medical Center, Chongqing, People's Republic of China.",
+        "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China.",
+        "Department of General Practice, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China.",
+        "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China.",
+        "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China.",
+        "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Xueping",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lu",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Tang, Ting",
+        "short_name": "Tang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Disease, Chongqing Public Health Emergency Medical Center, Chongqing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Qian, Hang",
+        "short_name": "Qian H",
+        "identifiers": [
+          "0000-0001-9548-8894"
+        ],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "He, Binfeng",
+        "short_name": "He B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Practice, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Zhi",
+        "short_name": "Xu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Guansong",
+        "short_name": "Wang G",
+        "identifiers": [
+          "0000-0002-5184-0777"
+        ],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Mingzhou",
+        "short_name": "Zhang M",
+        "identifiers": [
+          "0000-0001-8879-6426"
+        ],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Xinqiao Hospital, Third Military Medical University, Chongqing, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of chronic obstructive pulmonary disease"
+    ],
+    "journal_abbrev": [
+      "Int J Chron Obstruct Pulmon Dis"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 05:40",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42701775",
+      "40161396",
+      "41340627",
+      "39346628",
+      "42306043",
+      "42602962",
+      "40093012",
+      "40617086",
+      "29713155",
+      "40332792",
+      "38873611",
+      "42099899",
+      "42631563",
+      "40787468",
+      "34250093",
+      "40453984",
+      "35350787",
+      "41181152",
+      "41706425",
+      "39512836",
+      "40747360",
+      "41137279",
+      "40078927",
+      "42166424",
+      "41739808",
+      "41620539",
+      "41479901",
+      "41052072",
+      "41316541",
+      "40826767",
+      "40927188",
+      "39845878",
+      "41132649",
+      "38957709",
+      "42292533",
+      "39950319",
+      "39962573",
+      "38609925",
+      "42703773",
+      "41328289",
+      "42565562",
+      "35281477",
+      "36937804",
+      "41816328",
+      "40274954",
+      "41516150",
+      "41158511",
+      "38802460",
+      "41723200",
+      "42536689",
+      "41285222",
+      "41239605",
+      "40374866",
+      "35975032",
+      "39691970",
+      "32982206",
+      "40964458",
+      "41436831",
+      "38448858",
+      "39344484",
+      "42333375",
+      "41350988",
+      "42183235",
+      "41320661",
+      "36217332",
+      "38162988",
+      "41326474",
+      "34797299",
+      "40830558",
+      "40754871",
+      "34536521",
+      "40307363",
+      "40374840",
+      "40860289",
+      "39375405",
+      "42302029",
+      "42577419",
+      "41872824",
+      "40923741",
+      "40868258",
+      "39893187",
+      "41185886",
+      "42123445",
+      "41940395",
+      "41703488",
+      "40655182",
+      "37650285",
+      "40196107",
+      "39509434",
+      "39142001",
+      "40967560",
+      "33469280",
+      "38863714",
+      "42024670",
+      "39391879",
+      "41044520",
+      "42695583",
+      "40244418",
+      "26089660",
+      "31632001"
+    ],
+    "review": [
+      "42701775"
+    ],
+    "pmc": [
+      "13546016"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/copd.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COPD"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42701775/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-317",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.2147/COPD.S615813",
+        "provider": "Dove Medical Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

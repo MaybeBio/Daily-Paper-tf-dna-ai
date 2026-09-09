@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42692752",
+    "doi": "10.1016/bs.mie.2026.06.011",
+    "title": "Identification of 2,4-dihydroxy-azaflavanone as an allosteric activator of SIRT1 and its potential role in cellular models of Parkinson's disease."
+  },
+  "content": {
+    "abstract": "Mitochondrial dysfunction is one of the significant aspects of Parkinson's disease (PD) pathophysiology, marked by a gradual decline in oxidative phosphorylation, an abnormal increase in free radical species, dysfunctional mitochondrial quality control, and faulty mitochondrial biogenesis. Sirtuin 1 (SIRT1), a NAD(+)-dependent class-III deacetylase, acts as a crucial metabolic sensor that orchestrates transcriptional programs related to mitochondrial biogenesis, respiratory chain assembly, and stress resilience, mainly by way of deacetylation and activation of peroxisome proliferator-activated receptor gamma coactivator-1 alpha (PGC-1alpha). While screening for the small molecule activators, we have identified that 2,4-dihydroxy-Azaflavanone allosterically activates SIRT1. This chapter outlines a detailed, multi-layered methodological framework for assessing the allosteric activation of SIRT1 by 2,4-dihydroxy-azaflavanone and its downstream effects in a cellular models of PD. The validation process involves synthesis of small molecules, molecular docking studies utilizing crystallographic SIRT1 coordinates (PDB: 5BTR), in vitro fluorometric deacetylase assays with recombinant enzyme, and cellular thermal shift assays (CETSA) to confirm direct, isoform-selective target engagement. The activation of downstream pathways is evaluated by immunoblotting and quantitative PCR for PGC-1alpha, TFAM, and quantification of mitochondrial DNA (mtDNA) copy number. Functional restoration of mitochondria in cells is analyzed by assessing the overall mitochondrial bioenergetics parameters using Seahorse extracellular flux analyzer. Overall, this integrated approach offers robust, reproducible results for exploring SIRT1-activators in the mechanisms mediating neurodegenerative disease models.",
+    "keywords": [
+      "Azaflavanone",
+      "CETSA",
+      "Mitochondrial biogenesis",
+      "Mitochondrial membrane potential",
+      "MtDNA copy number",
+      "PGC-1alpha",
+      "Parkinson's disease",
+      "SIRT1",
+      "Seahorse assay"
+    ],
+    "mesh_terms": [
+      "*Sirtuin 1/metabolism/chemistry/genetics",
+      "Humans",
+      "Allosteric Regulation/drug effects",
+      "*Parkinson Disease/metabolism/drug therapy",
+      "*Flavanones/pharmacology/chemistry",
+      "Molecular Docking Simulation",
+      "Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha/metabolism/genetics",
+      "Mitochondria/drug effects/metabolism",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pant, Chitrakshi",
+        "Alli, Vidya Jyothi",
+        "Sukumar, Genji",
+        "Mohapatra, Abhijit",
+        "Jadav, Surender Singh",
+        "Pabbaraja, Srihari",
+        "Kalivendi, Shasi V"
+      ],
+      "short_names": [
+        "Pant C",
+        "Alli VJ",
+        "Sukumar G",
+        "Mohapatra A",
+        "Jadav SS",
+        "Pabbaraja S",
+        "Kalivendi SV"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Applied Biology, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India. Electronic address: chitrakshi428@gmail.com.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India; Department of Natural Products and Medicinal Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India.",
+        "Department of Natural Products and Medicinal Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Department of Organic Synthesis and Process Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India.",
+        "Department of Applied Biology, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India; Department of Natural Products and Medicinal Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India.",
+        "Department of Natural Products and Medicinal Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Department of Organic Synthesis and Process Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India.",
+        "Department of Applied Biology, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India. Electronic address: kalivendi@iict.res.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pant, Chitrakshi",
+        "short_name": "Pant C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Biology, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India. Electronic address: chitrakshi428@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Alli, Vidya Jyothi",
+        "short_name": "Alli VJ",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India; Department of Natural Products and Medicinal Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "Sukumar, Genji",
+        "short_name": "Sukumar G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Natural Products and Medicinal Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Department of Organic Synthesis and Process Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "Mohapatra, Abhijit",
+        "short_name": "Mohapatra A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Biology, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India."
+        ]
+      },
+      {
+        "full_name": "Jadav, Surender Singh",
+        "short_name": "Jadav SS",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India; Department of Natural Products and Medicinal Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "Pabbaraja, Srihari",
+        "short_name": "Pabbaraja S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Natural Products and Medicinal Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Department of Organic Synthesis and Process Chemistry, CSIR-Indian Institute of Chemical Technology, Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "Kalivendi, Shasi V",
+        "short_name": "Kalivendi SV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Biology, CSIR-Indian Institute of Chemical Technology, Hyderabad, India; Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India. Electronic address: kalivendi@iict.res.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in enzymology"
+    ],
+    "journal_abbrev": [
+      "Methods Enzymol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42692752",
+      "39074306",
+      "32835596",
+      "27613156",
+      "24582596",
+      "42002934",
+      "39273653",
+      "24606795",
+      "21757760",
+      "20448046",
+      "41454214",
+      "41400900",
+      "38622810",
+      "32308752",
+      "35240662",
+      "34251648",
+      "28770830",
+      "40320116",
+      "31072928",
+      "35146598",
+      "29185343",
+      "41268687",
+      "31340436",
+      "39482340",
+      "26923269",
+      "30765684",
+      "35240708",
+      "39947344",
+      "34214916",
+      "27998274",
+      "31208524",
+      "20929977",
+      "39871297",
+      "40595858",
+      "37098490",
+      "26631533",
+      "25940958",
+      "33810216",
+      "42431351",
+      "37989471",
+      "39341266",
+      "39641138",
+      "32880686",
+      "28339017",
+      "42068872",
+      "30835941",
+      "31487495",
+      "28456571",
+      "40932644",
+      "26650960",
+      "39428026",
+      "31830513",
+      "31907336",
+      "34905594",
+      "26055049",
+      "22648295",
+      "29369849",
+      "26831453",
+      "42430091",
+      "41344517",
+      "36379180",
+      "29383690",
+      "40403939",
+      "21984601",
+      "40228677",
+      "23430617",
+      "39571696",
+      "32967762",
+      "30071860",
+      "39620434",
+      "25789761",
+      "28473468",
+      "41186656",
+      "42298968",
+      "21888529",
+      "41759420",
+      "31916911",
+      "41168246",
+      "29742127",
+      "26141122",
+      "28712868",
+      "30187480",
+      "28656548",
+      "33070082",
+      "23583953",
+      "22052865",
+      "34530866",
+      "31085209",
+      "20517466",
+      "34923943",
+      "38181935",
+      "23874150",
+      "41866086",
+      "35174626",
+      "27793739",
+      "35051560",
+      "33561745",
+      "19542216",
+      "38647114",
+      "40019682"
+    ],
+    "review": [
+      "42692752",
+      "41454214",
+      "41268687",
+      "26923269",
+      "31208524",
+      "26831453",
+      "42430091",
+      "39620434",
+      "21888529",
+      "23583953"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0076-6879(26)00199-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/parkinsonsdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Parkinson's Disease"
+      }
+    ],
+    "text_mined": []
+  }
+}

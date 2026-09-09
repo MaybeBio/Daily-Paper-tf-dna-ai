@@ -1,0 +1,321 @@
+{
+  "identity": {
+    "pmid": "42682403",
+    "doi": "10.1097/JS9.0000000000005112",
+    "title": "Potential of RAD51C as a hub gene and therapeutic target in bladder cancer: insights from bioinformatics and experimental analysis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The global incidence of tumors is rising sharply. Immune checkpoint inhibitors (ICIs) represent the mainstream of immunotherapeutic approaches. Despite the remarkable clinical benefits of immunotherapy in various tumors, ICIs resistance remains an urgent challenge to be addressed. The transcription factors cAMP response element-binding protein 1(CREB1) and c-Jun converge to regulate oncogenesis and immune modulation. METHODS: Based on the 'CREBP1CJUN_01' gene set from the Molecular Signatures Database and single-cell RNA sequencing data, we identified 116 CREB-c-Jun transcription factor target-related differential genes (CR.Sig) and refined to 20 CREB-c-Jun transcription factor target-related important feature genes (Hub-CR.Sig) through multi-algorithm machine learning. This Hub-CR.Sig enabled prognostic risk modeling, molecular subtyping of bladder cancer, and somatic mutation stratification. RESULTS: Among these 20 signatures, RAD51C emerged as a top-ranked driver that was correlated with advanced T/N/M stages, associated with poor survival outcomes and is highly expressed in bladder cancer tissues. Functional assessment revealed that RAD51C knockdown suppressed bladder cancer cell proliferation, invasion, migration, and DNA repair capacity in vitro, while also reducing tumor formation in vivo. RNA sequencing analysis implicated the enrichment of JAK-STAT signaling pathways. Meanwhile, we identified an additional type of RAD51C(+) fibroblast that was significantly associated with the depth of tumor invasion. CONCLUSIONS: The study establishes the Hub-CR.Sig as an immunotherapy response classifier and nominates RAD51C targeting as a promising therapeutic strategy for bladder cancer.",
+    "keywords": [
+      "CREB-c-jun",
+      "RAD51C",
+      "bladder cancer",
+      "machine learning",
+      "single-cell sequencing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiao, Ying",
+        "Zhang, Xiang",
+        "Xie, Zhe",
+        "Tao, Li",
+        "Jin, Xingwei",
+        "Wang, Xianjin",
+        "Liu, Boke",
+        "Zhou, Xuejian",
+        "Pan, Junwei",
+        "Shao, Yuan"
+      ],
+      "short_names": [
+        "Xiao Y",
+        "Zhang X",
+        "Xie Z",
+        "Tao L",
+        "Jin X",
+        "Wang X",
+        "Liu B",
+        "Zhou X",
+        "Pan J",
+        "Shao Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-0000-0874"
+      ],
+      "affiliations": [
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, The Affiliated Hospital of Nantong University, Nantong, China.",
+        "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiao, Ying",
+        "short_name": "Xiao Y",
+        "identifiers": [
+          "0009-0001-0000-0874"
+        ],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Department of Urology, The Affiliated Hospital of Nantong University, Nantong, China.",
+          "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiang",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Zhe",
+        "short_name": "Xie Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Li",
+        "short_name": "Tao L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Xingwei",
+        "short_name": "Jin X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xianjin",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Boke",
+        "short_name": "Liu B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xuejian",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Ruijin Innovation Center Open Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Junwei",
+        "short_name": "Pan J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Yuan",
+        "short_name": "Shao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of surgery (London, England)"
+    ],
+    "journal_abbrev": [
+      "Int J Surg"
+    ],
+    "pub_date": "2026 Jul",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 11:39",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42682403",
+      "41263399",
+      "41436831",
+      "41882633",
+      "42486346",
+      "40574864",
+      "41080584",
+      "42477639",
+      "40771813",
+      "41624768",
+      "39234248",
+      "39367493",
+      "38759695",
+      "41716413",
+      "35488273",
+      "40777041",
+      "41233664",
+      "41394854",
+      "41085154",
+      "40460484",
+      "41202314",
+      "40058104",
+      "39532830",
+      "40347832",
+      "40616092",
+      "40423850",
+      "39034722",
+      "42353827",
+      "42236612",
+      "41234880",
+      "38570787",
+      "37740762",
+      "42244292",
+      "40226609",
+      "41872824",
+      "42192326",
+      "42016541",
+      "35958598",
+      "41371106",
+      "41208987",
+      "39749345",
+      "39048164",
+      "41658456",
+      "41656832",
+      "37790935",
+      "35581606",
+      "41726702",
+      "41859299",
+      "41233804",
+      "40607387",
+      "40764361",
+      "42630362",
+      "42087164",
+      "41535649",
+      "37740761",
+      "40382612",
+      "41112295",
+      "42493450",
+      "42032729",
+      "37776237",
+      "30719168",
+      "41191606",
+      "39806429",
+      "42642681",
+      "42195052",
+      "42096959",
+      "36914422",
+      "39735553",
+      "41266833",
+      "39874886",
+      "42471730",
+      "42444900",
+      "40816003",
+      "41164195",
+      "42164400",
+      "39033098",
+      "39251231",
+      "42158856",
+      "41132349",
+      "42233387",
+      "42220482",
+      "38824904",
+      "39107713",
+      "41505248",
+      "40376515",
+      "41689016",
+      "41798945",
+      "36902193",
+      "41432972",
+      "34733851",
+      "34893046",
+      "38430268",
+      "41674991",
+      "39562405",
+      "41971137",
+      "40568593",
+      "40462856",
+      "41947260",
+      "41342434",
+      "41383634"
+    ],
+    "review": [
+      "42682403"
+    ],
+    "pmc": [
+      "13336610"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42682403/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-OTUB1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-807",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.ovid.com/10.1097/JS9.0000000000005112",
+        "provider": "Wolters Kluwer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

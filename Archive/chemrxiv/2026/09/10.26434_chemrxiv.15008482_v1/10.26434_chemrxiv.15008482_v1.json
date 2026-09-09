@@ -1,0 +1,262 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15008482/v1",
+  "title": "Explainable ML force-field for evaluating protein–ligand binding energy using SO3LR",
+  "doi": "10.26434/chemrxiv.15008482/v1",
+  "abstract": "Accurate estimation of protein–ligand binding affinities remains central to structure-based drug design. Classical force fields neglect important quantum-mechanical effects, while quantum mechanical and semi-empirical methods remain impractical for large biomolecular systems. Machine-learned force fields (MLFFs) offer an alternative, but their performance may be inflated by training on protein–ligand complexes. Here, we introduce SO3LR-SF, a physics-based scoring function built on the pretrained SO3LR MLFF, combining an equivariant message-passing network for semi-local interactions with physically motivated terms for short-range repulsion, electrostatics, and long-range dispersion. Built on an MLFF that was not trained on protein–ligand complexes, SO3LR-SF provides a stringent test of transferability. On PLA15 (15 active-site models), SO3LR-SF attains a relative interaction error of 5.8% against DLPNO-CCSD(T) references, the lowest of all tested methods. On the FEP benchmark (8 targets, 264 ligands), SO3LR-SF achieves an average Spearman correlation of 0.51, on par with the best semi-empirical quantum-mechanical method tested (0.47, GFN-FF) and with MMGBSA (0.44), and surpassing Glide (0.27). On the Wang dataset (8 targets, 199 ligands), it reaches 0.51, approaching the 0.60 average of molecular dynamics-based free-energy methods at a fraction of their cost. Each complex is scored in 1–10 seconds on 12 CPU cores, an 80- to 300-fold speedup over comparable MLFFs. An 8 Å trimming protocol reduces runtime threefold without loss of accuracy, and a restrained geometry optimization recovers ranking accuracy for targets with strained input structures. A multi-level explainability framework adds energy decomposition, per-atom energy contributions reported either for ligand or as 2D protein–ligand interaction maps, and 3D binding site visualization. We identified two pocket descriptors that flag applicability before scoring, e.g. polar solvent accessible surface area (SASA) ratio correlating strongly (r = 0.81) with performance. Together, SO3LR-SF presents a fast, interpretable, and competitive scoring function for drug discovery that requires no domain-specific training data.",
+  "authors": [
+    "Hamza Agha",
+    "Sergio Suárez-Dou",
+    "Adil Kabylda",
+    "Alexandre Tkatchenko",
+    "Andrea Volkamer"
+  ],
+  "published_date": "2026-09-08",
+  "updated_date": "2026-09-08T09:11:22Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15008482/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15008482/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T10:09:19Z",
+        "timestamp": 1788862159914,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Accurate estimation of protein–ligand binding affinities remains central to structure-based drug design. Classical force fields neglect important quantum-mechanical effects, while quantum mechanical and semi-empirical methods remain impractical for large biomolecular systems. Machine-learned force fields (MLFFs) offer an alternative, but their performance may be inflated by training on protein–ligand complexes. Here, we introduce SO3LR-SF, a physics-based scoring function built on the pretrained SO3LR MLFF, combining an equivariant message-passing network for semi-local interactions with physically motivated terms for short-range repulsion, electrostatics, and long-range dispersion. Built on an MLFF that was not trained on protein–ligand complexes, SO3LR-SF provides a stringent test of transferability. On PLA15 (15 active-site models), SO3LR-SF attains a relative interaction error of 5.8% against DLPNO-CCSD(T) references, the lowest of all tested methods. On the FEP benchmark (8 targets, 264 ligands), SO3LR-SF achieves an average Spearman correlation of 0.51, on par with the best semi-empirical quantum-mechanical method tested (0.47, GFN-FF) and with MMGBSA (0.44), and surpassing Glide (0.27). On the Wang dataset (8 targets, 199 ligands), it reaches 0.51, approaching the 0.60 average of molecular dynamics-based free-energy methods at a fraction of their cost. Each complex is scored in 1–10 seconds on 12 CPU cores, an 80- to 300-fold speedup over comparable MLFFs. An 8 Å trimming protocol reduces runtime threefold without loss of accuracy, and a restrained geometry optimization recovers ranking accuracy for targets with strained input structures. A multi-level explainability framework adds energy decomposition, per-atom energy contributions reported either for ligand or as 2D protein–ligand interaction maps, and 3D binding site visualization. We identified two pocket descriptors that flag applicability before scoring, e.g. polar solvent accessible surface area (SASA) ratio correlating strongly (r = 0.81) with performance. Together, SO3LR-SF presents a fast, interpretable, and competitive scoring function for drug discovery that requires no domain-specific training data.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15008482/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T09:11:22Z",
+        "timestamp": 1788858682000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Explainable ML force-field for evaluating protein–ligand binding energy using SO3LR"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0002-7902-199X",
+          "authenticated-orcid": false,
+          "given": "Hamza",
+          "family": "Agha",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Data-Driven Drug Design",
+              "place": [
+                "Saarbrücken, Germany"
+              ]
+            },
+            {
+              "name": "Saarland University",
+              "place": [
+                "Saarbrücken, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7929-9468",
+          "authenticated-orcid": false,
+          "given": "Sergio",
+          "family": "Suárez-Dou",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physics and Materials Science",
+              "place": [
+                "Luxembourg"
+              ]
+            },
+            {
+              "name": "University of Luxembourg",
+              "place": [
+                "Luxembourg"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8620-6135",
+          "authenticated-orcid": false,
+          "given": "Adil",
+          "family": "Kabylda",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physics and Materials Science",
+              "place": [
+                "Luxembourg"
+              ]
+            },
+            {
+              "name": "University of Luxembourg",
+              "place": [
+                "Luxembourg"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexandre",
+          "family": "Tkatchenko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physics and Materials Science",
+              "place": [
+                "Luxembourg"
+              ]
+            },
+            {
+              "name": "University of Luxembourg",
+              "place": [
+                "Luxembourg"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3760-580X",
+          "authenticated-orcid": false,
+          "given": "Andrea",
+          "family": "Volkamer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Data-Driven Drug Design",
+              "place": [
+                "Saarbrücken, Germany"
+              ]
+            },
+            {
+              "name": "Saarland University",
+              "place": [
+                "Saarbrücken, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15008482/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T09:11:22Z",
+        "timestamp": 1788858682000
+      },
+      "score": 96.048775,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008482/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15008482/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

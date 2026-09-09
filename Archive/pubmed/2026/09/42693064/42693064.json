@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "42693064",
+    "doi": "10.19540/j.cnki.cjcmm.20260330.704",
+    "title": "[Mechanism study on baicalein inhibiting cervical cancer driven by persistent HPV infection via restoring MAVS-IRF3-IFN-beta mitochondrial antiviral signal]."
+  },
+  "content": {
+    "abstract": "This study aims to investigate the inhibitory effect of baicalein on cervical cancer driven by persistent human papillomavirus(HPV) infection and clarify its regulatory mechanism on the mitochondrial antiviral signaling protein(MAVS)-interferon regulatory factor 3(IRF3)-interferon-beta(IFN-beta) signaling pathway, so as to provide experimental evidence for the clinical transformation of baicalein. AutoDock Vina software was used for molecular docking to predict the binding modes and binding energies of baicalein with MAVS and HPV16 E6 proteins. HPV18-positive HeLa cells and HPV16-positive CaSki cells were cultured in vitro. They were divided into the control group and baicalein groups with low dose(10 mumol.L~(-1)) and high dose(40 mumol.L~(-1)). Meanwhile, the silent MAVS cell model was constructed and divided into the negative control small interfering RNA group(siNC) group, MAVS small interfering RNA(siMAVS) group, siNC + baicalein with high dose(H) group, and siMAVS + baicalein-H group. Cell proliferation and apoptosis were detected by colony formation assay, CCK-8 assay, and flow cytometry. The protein expressions of the MAVS-IRF3-IFN-beta pathway and HPV16 E6 were detected by Western blot. A nude mouse model bearing CaSki cell xenografts of cervical cancer was established and randomly divided into five groups with six mice in each group: model group, baicalein with low dose(L) group(10 mg.kg~(-1)), baicalein-H group(40 mg.kg~(-1)), siMAVS + baicalein-H group, and siMAVS + model group. Modeling and administration were completed after anesthesia with pentobarbital sodium. Tumor volume was detected every three days; tumor tissues were stripped and weighed at the end of the experiment; the expressions of pathway-related proteins and oncoproteins in tumor tissues were detected by immunohistochemistry. The results show that the binding energies of baicalein with MAVS and HPV16 E6 proteins are-6.65 and-8.82 kcal.mol~(-1), respectively, with good binding activity. In in vitro experiments, baicalein inhibits the proliferation of HeLa and CaSki cells and promotes their apoptosis in a dose-dependent manner, significantly up-regulating the protein expressions of MAVS, p-IRF3/IRF3, and IFN-beta, as well as down-regulating the protein expression of HPV16 E6. After MAVS silencing, the in vitro anti-tumor effect and regulatory pathway effect of baicalein are significantly reversed. In in vivo experiments, there are statistically significant differences in tumor volume, tumor weight, and the expression of related proteins among all groups. The tumor volume and weight in the baicalein-L and baicalein-H groups are significantly lower than those in the model group, with the tumor inhibition rates of 47.22% and 73.61%, respectively. The expressions of MAVS, p-IRF3, and IFN-beta in tumor tissues are increased, while the expressions of HPV16 E6 and Ki67 proliferation antigen(Ki67) are decreased. After MAVS silencing, the in vivo tumor inhibition rate of baicalein decreases to 22.22%, and its regulatory pathway effect is significantly weakened. In conclusion, baicalein can directly bind to MAVS and HPV16 E6 proteins and exert an anti-cervical cancer effect driven by persistent HPV infection via activating the MAVS-IRF3-IFN-beta mitochondrial antiviral signaling pathway and inhibiting the function of HPV16 E6 oncoprotein. MAVS is a key target for baicalein to exert its anti-tumor effect.",
+    "keywords": [
+      "baicalein",
+      "cervical cancer",
+      "human papillomavirus",
+      "mitochondrial antiviral signaling protein",
+      "molecular docking"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "*Flavanones/administration & dosage/chemistry",
+      "*Uterine Cervical Neoplasms/virology/drug therapy/genetics/metabolism/physiopathology",
+      "Animals",
+      "*Interferon-beta/genetics/metabolism",
+      "Signal Transduction/drug effects",
+      "Mice",
+      "*Papillomavirus Infections/virology/genetics/complications/drug therapy/metabolism",
+      "*Interferon Regulatory Factor-3/genetics/metabolism",
+      "*Adaptor Proteins, Signal Transducing/genetics/metabolism",
+      "Oncogene Proteins, Viral/genetics/metabolism",
+      "Mitochondria/drug effects/metabolism/virology/genetics",
+      "Mice, Nude",
+      "HeLa Cells",
+      "Human Papillomavirus Viruses/physiology/genetics/drug effects",
+      "Antiviral Agents/administration & dosage",
+      "Molecular Docking Simulation",
+      "Repressor Proteins"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Jin",
+        "Kang, Heng-Yuan",
+        "Jiang, Yu-Han",
+        "Chen, Chen-Chen"
+      ],
+      "short_names": [
+        "Chen J",
+        "Kang HY",
+        "Jiang YH",
+        "Chen CC"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Gynecology,Affiliated Hospital of Jining Medical University Jining 272029,China.",
+        "Pharmacy Department,Affiliated Hospital of Jining Medical University Jining 272029,China.",
+        "Department of Gynecology,Affiliated Hospital of Jining Medical University Jining 272029,China.",
+        "Department of Gynecology,Affiliated Hospital of Jining Medical University Jining 272029,China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Jin",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology,Affiliated Hospital of Jining Medical University Jining 272029,China."
+        ]
+      },
+      {
+        "full_name": "Kang, Heng-Yuan",
+        "short_name": "Kang HY",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmacy Department,Affiliated Hospital of Jining Medical University Jining 272029,China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yu-Han",
+        "short_name": "Jiang YH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology,Affiliated Hospital of Jining Medical University Jining 272029,China."
+        ]
+      },
+      {
+        "full_name": "Chen, Chen-Chen",
+        "short_name": "Chen CC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology,Affiliated Hospital of Jining Medical University Jining 272029,China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica"
+    ],
+    "journal_abbrev": [
+      "Zhongguo Zhong Yao Za Zhi"
+    ],
+    "pub_date": "2026 Aug",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42693064",
+      "35475668",
+      "16681755",
+      "21609578",
+      "25304375",
+      "25717103",
+      "40313056",
+      "37516391",
+      "24096085",
+      "32298665",
+      "25633640",
+      "41419149",
+      "35002506",
+      "25987069",
+      "26093522",
+      "42200670",
+      "19015633",
+      "34666670",
+      "18478926",
+      "33468698",
+      "39039663",
+      "30230542",
+      "37157900",
+      "39411320",
+      "40238841",
+      "25265013",
+      "19887612",
+      "40330484",
+      "23955116",
+      "31597772",
+      "40582471",
+      "24925218",
+      "25142606",
+      "28851173",
+      "21680517",
+      "16468632",
+      "27365376",
+      "42000628",
+      "35038914",
+      "12479064",
+      "38001389",
+      "38363779",
+      "32301035",
+      "15522169",
+      "14766263",
+      "42693028",
+      "22245994",
+      "29263274",
+      "30606718",
+      "42298561",
+      "29339538",
+      "16681752",
+      "28944962",
+      "32555725",
+      "18060502",
+      "22056554",
+      "16269171",
+      "27143851",
+      "20215420",
+      "31989837",
+      "42667494",
+      "20885450",
+      "23523766",
+      "31477279",
+      "30536701",
+      "17616526",
+      "30728257",
+      "26560046",
+      "33076322",
+      "38967656",
+      "30074178",
+      "40789376",
+      "27364926",
+      "28260046",
+      "26067630",
+      "32546626",
+      "37988232",
+      "17803852",
+      "15790460",
+      "38679464",
+      "30077625",
+      "16526022",
+      "33760214",
+      "40162781",
+      "36694079",
+      "42618504",
+      "31006210",
+      "41499346",
+      "33549834",
+      "30410495",
+      "41392379",
+      "37875424",
+      "20943973",
+      "40264759",
+      "29710555",
+      "25336692",
+      "41017179",
+      "39366917",
+      "42036379",
+      "14766255"
+    ],
+    "review": [
+      "42693064"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cervicalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cervical Cancer"
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-977",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cervicalcancer.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cervical Cancer"
+      }
+    ],
+    "text_mined": []
+  }
+}

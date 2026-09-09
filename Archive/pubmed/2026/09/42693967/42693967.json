@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "42693967",
+    "doi": "10.3760/cma.j.cn121430-20260107-00016",
+    "title": "[Study on the mechanism of N-acetylcysteine in alleviating oxidative stress by inhibiting the mTOR/HIF-1alpha pathway in chronic obstructive pulmonary disease rats]."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: To explore the mechanism by which N-acetylcysteine (NAC) regulates the mammalian target of rapamycin/hypoxia-inducible factor-1alpha (mTOR/HIF-1alpha) pathway to intervene in oxidative stress in rats with chronic obstructive pulmonary disease (COPD). METHODS: Thirty-six SD rats were divided into the normal group, COPD model group and NAC treatment group by random number table method, with 12 rats in each group. The COPD rat model was established by cigarette smoke exposure combined with Klebsiella pneumoniae infection for 8 weeks. After the model was prepared, NAC was administered by oral gavage at a dose of 54 mg/kg once daily for 8 weeks. The normal group and the COPD model group were given the same amount of pure water by gavage. The effect of NAC on the pathological changes of lung tissue was observed by hematoxylin-eosin (HE) staining. The content of malondialdehyde (MDA) in serum and lung tissue was detected by the thiobarbituric acid method (TBA), the activity of total superoxide dismutase (T-SOD) in serum and lung tissue was detected by the hydroxylamine method, and the levels of lipid peroxide (LPO) and total antioxidant capacity (T-AOC) in serum and lung tissue were detected by colorimetry. Transcriptomic sequencing was used to analyze differentially expressed genes and predict the potential mechanism by which NAC inhibits oxidative stress in COPD. Molecular docking was used to observe the binding degree of NAC with the key proteins of the mTOR/HIF-1alpha pathway. Western blotting was used to detect the expression of proteins related to the mTOR/HIF-1alpha pathway in the lung tissue. RESULTS: Compared with the normal group, the mean alveolar number (MAN) in lung tissue decreased, the mean linear intercept (MLI) increased, the levels of MDA and LPO in serum and lung tissue increased, the level of T-SOD in serum decreased, and the T-AOC in lung tissue decreased in the COPD model group. Compared with the COPD model group, NAC could improve lung tissue damage in COPD rats, and reduce the levels of MDA and LPO in serum and lung tissue [serum MDA (nmol/mg): 4.10+/-2.27 vs. 8.06+/-1.92, serum LPO (mumol/L): 1.88+/-0.59 vs. 2.88+/-0.82, lung tissue MDA (nmol/mg): 2.58+/-1.11 vs. 4.03+/-1.05, lung tissue LPO (mumol/L): 5.98+/-1.30 vs. 9.74+/-3.58, all P<0.05], increased T-SOD activity in serum (U/mg: 10.80+/-0.53 vs. 9.66+/-0.46, P<0.05). The results of transcriptomic analysis showed that the inhibition of antioxidant stress in COPD by NAC was related to the regulation of the HIF-1alpha pathway. The results of molecular docking showed that NAC had potential binding activity with mTOR, p70 ribosomal protein S6 kinase (p70S6K), and HIF-1alpha. The Western blotting data showed that NAC treatment could reduce the phosphorylation levels of mTOR at Ser2448 and p70S6K at Ser371 in the lung tissue of COPD model rats [p-mTOR/mTOR (relative expression level): 1.46+/-0.31 vs. 2.62+/-0.30, p-p70S6K/p70S6K (relative expression level): 2.15+/-0.25 vs. 3.80+/-0.73, both P<0.05], decreased the expression of HIF-1alpha [HIF-1alpha/GAPDH (relative expression level): 0.82+/-0.22 vs. 1.37+/-0.25, P<0.05]. CONCLUSIONS: NAC can alleviate oxidative stress in COPD rats by inhibiting the mTOR/HIF-1alpha pathway.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Oxidative Stress/drug effects",
+      "*Pulmonary Disease, Chronic Obstructive/metabolism",
+      "*Hypoxia-Inducible Factor 1, alpha Subunit/metabolism",
+      "*Acetylcysteine/pharmacology",
+      "Rats",
+      "*TOR Serine-Threonine Kinases/metabolism",
+      "Rats, Sprague-Dawley",
+      "Signal Transduction/drug effects",
+      "Male",
+      "Disease Models, Animal",
+      "Lung/metabolism",
+      "Malondialdehyde/metabolism"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Bofei",
+        "Song, Yuwei",
+        "Wang, Xixi",
+        "Zhang, Lanxi",
+        "Qin, Yanqin"
+      ],
+      "short_names": [
+        "Yang B",
+        "Song Y",
+        "Wang X",
+        "Zhang L",
+        "Qin Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+        "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com.",
+        "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+        "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com.",
+        "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+        "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com.",
+        "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+        "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com.",
+        "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+        "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Bofei",
+        "short_name": "Yang B",
+        "identifiers": [],
+        "affiliations": [
+          "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+          "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com."
+        ]
+      },
+      {
+        "full_name": "Song, Yuwei",
+        "short_name": "Song Y",
+        "identifiers": [],
+        "affiliations": [
+          "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+          "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com."
+        ]
+      },
+      {
+        "full_name": "Wang, Xixi",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+          "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lanxi",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+          "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com."
+        ]
+      },
+      {
+        "full_name": "Qin, Yanqin",
+        "short_name": "Qin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Henan University of Chinese Medicine, Academy of Chinese Medical Sciences, Zhengzhou 450046, China.",
+          "Henan University of Chinese Medicine, Henan Key Laboratory of Chinese Medicine for Respiratory Disease, Collaborative Innovation Center for Chinese Medicine and Respiratory Disease Co-Constructed by Henan Province and Education Ministry of P.R. China, Zhengzhou 450046, China. Corresponding author: Qin Yanqin, Email: qinyanqin1990@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zhonghua wei zhong bing ji jiu yi xue"
+    ],
+    "journal_abbrev": [
+      "Zhonghua Wei Zhong Bing Ji Jiu Yi Xue"
+    ],
+    "pub_date": "2026 Aug",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 05:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42693967",
+      "38621731",
+      "41840883",
+      "37308195",
+      "39472133",
+      "39579541",
+      "37282950",
+      "39929629",
+      "30219159",
+      "38615654",
+      "39697018",
+      "42021886",
+      "38983965",
+      "31378917",
+      "27562320",
+      "38253248",
+      "40350824",
+      "36153449",
+      "39206144",
+      "28895883",
+      "39059100",
+      "36036097",
+      "31366881",
+      "28100332",
+      "41508238",
+      "36397226",
+      "40415428",
+      "41508216",
+      "42173417",
+      "42200246",
+      "39380228",
+      "39099359",
+      "30918132",
+      "41856614",
+      "38850481",
+      "38149395",
+      "39981906",
+      "40109471",
+      "32130427",
+      "41184109",
+      "42688597",
+      "39968588",
+      "39719353",
+      "42324107",
+      "32344236",
+      "39401813",
+      "24694971",
+      "36916373",
+      "35128864",
+      "31173323",
+      "33931989",
+      "37366125",
+      "32164488",
+      "40916805",
+      "41543188",
+      "29151411",
+      "23324150",
+      "30280794",
+      "30220278",
+      "23592126",
+      "23811213",
+      "27998433",
+      "36068741",
+      "36484920",
+      "41136496",
+      "39433361",
+      "27765089",
+      "25108440",
+      "40369923",
+      "40599285",
+      "15355665",
+      "33906713",
+      "42281538",
+      "39936394",
+      "40433398",
+      "36916335",
+      "41839601",
+      "35869722",
+      "17441351",
+      "22316545",
+      "41672117",
+      "40461200",
+      "30585452",
+      "36153450",
+      "39307771",
+      "39929611",
+      "40729908",
+      "38788361",
+      "30309413",
+      "22490538",
+      "39401830",
+      "39523094",
+      "35599418",
+      "20705587",
+      "42565444",
+      "36075597",
+      "25335336",
+      "34698459",
+      "36618788",
+      "40551643"
+    ],
+    "review": [
+      "42693967"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/copd.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COPD"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GAPDH-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1360",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

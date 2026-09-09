@@ -1,0 +1,234 @@
+{
+  "identity": {
+    "pmid": "42694440",
+    "doi": "10.3389/fbinf.2026.1890219",
+    "title": "Network-based integrative analysis of multi-level regulatory mechanisms associated with glyphosate exposure."
+  },
+  "content": {
+    "abstract": "Understanding the molecular effects associated with glyphosate exposure remains challenging due to the fragmentation of available evidence across heterogeneous data sources. This study aimed to integrate heterogeneous molecular evidence related to glyphosate exposure through a reproducible systems biology workflow in order to prioritize human genes, regulatory networks, and biological processes associated with glyphosate. Multiple platforms, including the Comparative Toxicogenomics Database (CTD), GeneShot, and GeneCards, were queried and complemented with artificial intelligence-assisted information retrieval. Genes present in at least two independent sources were selected, and additional candidates were obtained from transcriptomic datasets using GEO2R. Gene identifiers were standardized according to the HUGO Gene Nomenclature Committee (HGNC). Functional enrichment and protein-protein interaction (PPI) network analyses were performed using STRING and Cytoscape, and hub genes were identified using the cytoHubba plugin. In addition, upstream transcription factor analysis was conducted to identify potential regulatory drivers of the gene network. The resulting consensus dataset was subsequently analyzed using protein-protein interaction networks, functional enrichment, and upstream regulatory inference. The integrative workflow prioritized a core set of 50 genes was identified, with key hub genes including TP53, BCL2, IL6, CASP3, ALB, and TNF. Enrichment analyses revealed a consistent overrepresentation of pathways related to cellular stress response, apoptosis, endocrine signaling, and cancer, along with a specific epigenetic signal associated with DNA methylation. Upstream regulatory analysis identified key transcription factors linked to hormonal signaling, cellular stress response, and transcriptional control, further supporting the hierarchical organization of the gene network. Gene-disease and phenotype associations further highlighted links with hepatobiliary disorders, neoplastic processes, and endocrine alterations. Overall, this integrative systems biology framework provides a comprehensive view of the molecular architecture associated with glyphosate exposure, prioritizing candidate genes, regulatory networks, and biological processes for hypothesis generation and future experimental and epidemiological validation.",
+    "keywords": [
+      "biomarkers",
+      "epigenetic regulation",
+      "hub genes",
+      "network biology",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Consuegra-Mayor, Claudia",
+        "Arroyo-Salgado, Barbara",
+        "Olivero-Verbel, Jesus"
+      ],
+      "short_names": [
+        "Consuegra-Mayor C",
+        "Arroyo-Salgado B",
+        "Olivero-Verbel J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Environmental and Computational Chemistry Group, School of Pharmaceutical Sciences, Zaragocilla Campus, University of Cartagena, Cartagena, Colombia.",
+        "Biomedical, Toxicological and Environmental Sciences Group, School of Medicine, Zaragocilla Campus, University of Cartagena, Cartagena, Colombia.",
+        "School of Health Sciences, University of San Buenaventura, Cartagena, Colombia.",
+        "Biomedical, Toxicological and Environmental Sciences Group, School of Medicine, Zaragocilla Campus, University of Cartagena, Cartagena, Colombia.",
+        "Environmental and Computational Chemistry Group, School of Pharmaceutical Sciences, Zaragocilla Campus, University of Cartagena, Cartagena, Colombia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Consuegra-Mayor, Claudia",
+        "short_name": "Consuegra-Mayor C",
+        "identifiers": [],
+        "affiliations": [
+          "Environmental and Computational Chemistry Group, School of Pharmaceutical Sciences, Zaragocilla Campus, University of Cartagena, Cartagena, Colombia.",
+          "Biomedical, Toxicological and Environmental Sciences Group, School of Medicine, Zaragocilla Campus, University of Cartagena, Cartagena, Colombia.",
+          "School of Health Sciences, University of San Buenaventura, Cartagena, Colombia."
+        ]
+      },
+      {
+        "full_name": "Arroyo-Salgado, Barbara",
+        "short_name": "Arroyo-Salgado B",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical, Toxicological and Environmental Sciences Group, School of Medicine, Zaragocilla Campus, University of Cartagena, Cartagena, Colombia."
+        ]
+      },
+      {
+        "full_name": "Olivero-Verbel, Jesus",
+        "short_name": "Olivero-Verbel J",
+        "identifiers": [],
+        "affiliations": [
+          "Environmental and Computational Chemistry Group, School of Pharmaceutical Sciences, Zaragocilla Campus, University of Cartagena, Cartagena, Colombia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Front Bioinform"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 11:39",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42694440",
+      "42263869",
+      "42475469",
+      "42053674",
+      "41847139",
+      "41898791",
+      "41714375",
+      "42630798",
+      "39375405",
+      "40574839",
+      "41006883",
+      "42233387",
+      "42421348",
+      "42113191",
+      "38524085",
+      "42653779",
+      "41511918",
+      "41849332",
+      "42265520",
+      "39780215",
+      "42486346",
+      "41288681",
+      "37993790",
+      "41291892",
+      "40943141",
+      "38062833",
+      "41562054",
+      "42260332",
+      "31233342",
+      "42074497",
+      "41483318",
+      "42473438",
+      "41415264",
+      "36104591",
+      "42348043",
+      "39712025",
+      "40676786",
+      "33578541",
+      "41699549",
+      "34844599",
+      "42123445",
+      "41801512",
+      "40406126",
+      "42024670",
+      "36316672",
+      "42616073",
+      "30542696",
+      "35378210",
+      "22784618",
+      "42298726",
+      "41751506",
+      "42554796",
+      "34975885",
+      "41779288",
+      "38296899",
+      "41591671",
+      "41300749",
+      "42255489",
+      "39911278",
+      "29845250",
+      "41444522",
+      "40728954",
+      "37081847",
+      "32271791",
+      "39111872",
+      "42180604",
+      "40898538",
+      "41372957",
+      "42642681",
+      "42289108",
+      "41824870",
+      "41044520",
+      "35749386",
+      "33217867",
+      "41150817",
+      "42146949",
+      "41739945",
+      "40419032",
+      "42693463",
+      "42410224",
+      "42634507",
+      "42599654",
+      "42257259",
+      "42330854",
+      "41751534",
+      "42511535",
+      "39442187",
+      "42450069",
+      "42109727",
+      "30602391",
+      "41492010",
+      "39410900",
+      "42327749",
+      "41226680",
+      "35957838",
+      "42653145",
+      "41388523",
+      "40826767",
+      "35713363",
+      "42414355"
+    ],
+    "review": [
+      "42694440",
+      "37993790",
+      "42146949"
+    ],
+    "pmc": [
+      "13538855"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42694440/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CASP3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1160",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fbinf.2026.1890219",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

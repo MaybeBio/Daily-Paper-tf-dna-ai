@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42699651",
+    "doi": "10.1177/2997979x261472562",
+    "title": "Single cell transcriptomic analysis by deep learning identifies novel microglial transcription regulations in Alzheimer's Disease."
+  },
+  "content": {
+    "abstract": "Artificial Intelligence (AI) has been increasingly applied to investigate genetic irregularities associated with Alzheimer's Disease (AD). However, its potential to uncover deeper, more detailed molecular and cellular mechanisms remains underexplored, primarily due to limitations in integrating large-scale data and capturing the complex, cell-type-specific dynamics involved in AD pathology. Single-cell RNA sequencing (scRNA-seq) has emerged as a powerful tool in transcriptomics, offering high-resolution, cell-specific insights into complex biological systems. Despite this advancement, a significant gap remains in identifying both common and cell-type-specific transcriptomic signatures that define AD-related cellular and molecular processes. To address this, we propose a deep learning framework leveraging a Multi-Layer Perceptron (MLP) to classify AD versus control nuclei using scRNA-seq data from the Religious Orders Study/Memory and Aging Project (ROSMAP). We focus on microglial subclusters, particularly those representing homeostatic and activated states, to train the MLP model for optimal classification performance. We utilize the predicted embeddings from the MLP to model a disease progression trajectory for each of the datasets. Our model demonstrates strong performance in both classification and disease trajectory inference. To enhance interpretability, SHapley Additive exPlanations (SHAP) are applied to identify key AD-associated genes. Based on the most salient genes implicated in AD, we built transcription gene regulatory networks, revealing novel transcription factors and regulons for AD pathogenesis. These regulons highlight profound impacts of dysregulations of proteostasis, endoplasmic reticulum (ER) stress responses, and circadian rhythm on synaptic plasticity and neuronal survival in AD, offering a more holistic approach to drug target discovery compared to conventional single-target strategies, potentially leading to greater efficacy in slowing or reversing disease progression. This work demonstrates the transformative potential of AI in elucidating the molecular mechanisms of AD, offering improvements over traditional methods and uncovering novel insights into disease pathogenesis and potential therapeutic targets.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Trivedi, Maitry Ronakbhai",
+        "Shah, Jay",
+        "Su, Yi",
+        "Reiman, Eric M",
+        "Wu, Teresa",
+        "Wang, Qi"
+      ],
+      "short_names": [
+        "Trivedi MR",
+        "Shah J",
+        "Su Y",
+        "Reiman EM",
+        "Wu T",
+        "Wang Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ, 85287, USA.",
+        "ASU-Mayo Center for Innovative Imaging, Tempe, AZ, 85287, USA.",
+        "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ, 85287, USA.",
+        "ASU-Mayo Center for Innovative Imaging, Tempe, AZ, 85287, USA.",
+        "ASU-Mayo Center for Innovative Imaging, Tempe, AZ, 85287, USA.",
+        "BANNER Alzheimer's Institute, Phoenix, AZ, 85006, USA.",
+        "BANNER Alzheimer's Institute, Phoenix, AZ, 85006, USA.",
+        "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ, 85287, USA.",
+        "ASU-Mayo Center for Innovative Imaging, Tempe, AZ, 85287, USA.",
+        "ASU-BANNER Neurodegenerative Disease Research Center, Arizona State University, Tempe, AZ, 85281, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Trivedi, Maitry Ronakbhai",
+        "short_name": "Trivedi MR",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ, 85287, USA.",
+          "ASU-Mayo Center for Innovative Imaging, Tempe, AZ, 85287, USA."
+        ]
+      },
+      {
+        "full_name": "Shah, Jay",
+        "short_name": "Shah J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ, 85287, USA.",
+          "ASU-Mayo Center for Innovative Imaging, Tempe, AZ, 85287, USA."
+        ]
+      },
+      {
+        "full_name": "Su, Yi",
+        "short_name": "Su Y",
+        "identifiers": [],
+        "affiliations": [
+          "ASU-Mayo Center for Innovative Imaging, Tempe, AZ, 85287, USA.",
+          "BANNER Alzheimer's Institute, Phoenix, AZ, 85006, USA."
+        ]
+      },
+      {
+        "full_name": "Reiman, Eric M",
+        "short_name": "Reiman EM",
+        "identifiers": [],
+        "affiliations": [
+          "BANNER Alzheimer's Institute, Phoenix, AZ, 85006, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Teresa",
+        "short_name": "Wu T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ, 85287, USA.",
+          "ASU-Mayo Center for Innovative Imaging, Tempe, AZ, 85287, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Qi",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "ASU-BANNER Neurodegenerative Disease Research Center, Arizona State University, Tempe, AZ, 85281, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "AI in neuroscience"
+    ],
+    "journal_abbrev": [
+      "AI Neurosci"
+    ],
+    "pub_date": "2026 Jul 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42699651",
+      "42475469",
+      "40670382",
+      "40740481",
+      "41390089",
+      "39507054",
+      "41993387",
+      "40021385",
+      "39834440",
+      "41146472",
+      "37833700",
+      "41677026",
+      "34993477",
+      "40311462",
+      "41035073",
+      "40971318",
+      "40277064",
+      "40919531",
+      "38453894",
+      "39068182",
+      "40631452",
+      "38249960",
+      "41716413",
+      "40336141",
+      "41404291",
+      "41033661",
+      "39868232",
+      "41132791",
+      "41648350",
+      "41040299",
+      "40166228",
+      "40653482",
+      "40297324",
+      "39415193",
+      "40787447",
+      "39959647",
+      "39543008",
+      "42382038",
+      "37340466",
+      "41867210",
+      "41777739",
+      "40585083",
+      "39822590",
+      "35236372",
+      "39830273",
+      "41350740",
+      "42372471",
+      "39977580",
+      "39650656",
+      "41684520",
+      "42396292",
+      "40414555",
+      "42395345",
+      "40600033",
+      "42681526",
+      "40520536",
+      "42633094",
+      "39142391",
+      "31736866",
+      "41758187",
+      "38995776",
+      "41957161",
+      "41189021",
+      "34953465",
+      "35143967",
+      "40993718",
+      "27799057",
+      "41314550",
+      "38699303",
+      "37712202",
+      "40790613",
+      "42273366",
+      "39605544",
+      "36297287",
+      "40976895",
+      "41892599",
+      "42288847",
+      "40553344",
+      "38631462",
+      "37735671",
+      "39975195",
+      "38167548",
+      "42236612",
+      "29482603",
+      "39826482",
+      "41580850",
+      "35623983",
+      "39812331",
+      "39975342",
+      "40470298",
+      "41113932",
+      "39428563",
+      "41972591",
+      "39737748",
+      "37790454",
+      "36153535",
+      "41962595",
+      "40136454",
+      "40389089",
+      "42463036"
+    ],
+    "review": [
+      "42699651",
+      "35236372",
+      "39977580",
+      "42681526",
+      "39142391",
+      "39826482"
+    ],
+    "pmc": [
+      "13544018"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42699651/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

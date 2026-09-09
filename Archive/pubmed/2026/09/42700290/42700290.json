@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42700290",
+    "doi": "10.1007/s11033-026-12687-w",
+    "title": "Binding analysis of the response regulator NarL protein to the promoter of the O(6)-methylguanine-DNA methyltransferase (ogt) gene in Salmonella Typhimurium."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Salmonella Typhimurium (STM) is a gram-negative bacterium that causes severe gastrointestinal disorders in both animals and humans. The regulation of DNA repair genes is critical for maintaining genomic stability of the bacteria. O(6)-methylguanine DNA methyltransferase (Ogt), plays a vital role in repairing alkylated DNA in STM; however, the transcriptional regulation of ogt gene remains poorly characterized. Furthermore, NarL is a transcriptional regulator, involved in the pathogenesis of STM under anaerobic condition. Therefore, this study investigated the interaction between NarL protein and the promoter region of the ogt gene. METHODS: In this study, narl gene was cloned in pET32a vector and NarL protein was expressed in Escherichia coli BL21 (DE3). Subsequently, the ogt gene promoter (pogt) was selected, amplified, cloned and its activity was evaluated. Electrophoretic mobility shift assay (EMSA), isothermal titration calorimetry (ITC), molecular docking were employed to elucidate the interaction between NarL protein and ogt promoter. Furthermore, the regulatory role of NarL in ogt gene expression was validated in vivo using RT-qPCR and beta-galactosidase assay. RESULTS: This study resulted that NarL protein interacts specifically with the ogt promoter, as confirmed by EMSA and ITC, with DeltaG of - 9.42 kcal mol(-)(1). Furthermore, RT-qPCR and beta-galactosidase assays demonstrated that deletion of narl significantly (P </= 0.01) decreased ogt transcript levels and promoter activity than wild Salmonella Typhimurium, whereas exogenous supplementation of recombinant NarL protein restored the expression. These findings suggest that NarL plays a potential regulatory role in ogt gene expression in response to environmental signals. CONCLUSION: These findings highlight an interaction between NarL protein and the promoter region of ogt gene in Salmonella Typhimurium, linking nitrogen metabolism with the DNA repair pathway in STM, which may contribute to the bacterial survival under nitrosative stress.",
+    "keywords": [
+      "Salmonella Typhimurium",
+      "Electrophoretic mobility shift assay",
+      "Molecular docking",
+      "O6-methylguanine DNA methyltransferase",
+      "beta-galactosidase assay"
+    ],
+    "mesh_terms": [
+      "*Salmonella typhimurium/genetics/metabolism",
+      "Promoter Regions, Genetic/genetics",
+      "Molecular Docking Simulation",
+      "Gene Expression Regulation, Bacterial",
+      "*Bacterial Proteins/metabolism/genetics",
+      "*O(6)-Methylguanine-DNA Methyltransferase/genetics/metabolism",
+      "Protein Binding",
+      "Escherichia coli/genetics",
+      "DNA-Binding Proteins/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sahoo, Pravas Ranjan",
+        "Kumar, Ajay",
+        "Pashupathi, M",
+        "Sahoo, Jyochhna Rani"
+      ],
+      "short_names": [
+        "Sahoo PR",
+        "Kumar A",
+        "Pashupathi M",
+        "Sahoo JR"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Veterinary Biochemistry, Odisha University of Agriculture & Technology, Bhubaneswar, 751003, Odisha, India. prsahoo@ouat.ac.in.",
+        "Division of Biochemistry, ICAR-Indian Veterinary Research Institute, Bareilly, 243122, Uttar Pradesh, India. prsahoo@ouat.ac.in.",
+        "Division of Biochemistry, ICAR-Indian Veterinary Research Institute, Bareilly, 243122, Uttar Pradesh, India. ajayivri@gmail.com.",
+        "Department of Veterinary Biochemistry, Rani Lakshmi Bai Central Agricultural University, Jhansi, 284001, Uttar Pradesh, India.",
+        "Department of Public Health Dentistry, Bareilly International University, Bareilly, 243122, Uttar Pradesh, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sahoo, Pravas Ranjan",
+        "short_name": "Sahoo PR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary Biochemistry, Odisha University of Agriculture & Technology, Bhubaneswar, 751003, Odisha, India. prsahoo@ouat.ac.in.",
+          "Division of Biochemistry, ICAR-Indian Veterinary Research Institute, Bareilly, 243122, Uttar Pradesh, India. prsahoo@ouat.ac.in."
+        ]
+      },
+      {
+        "full_name": "Kumar, Ajay",
+        "short_name": "Kumar A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Biochemistry, ICAR-Indian Veterinary Research Institute, Bareilly, 243122, Uttar Pradesh, India. ajayivri@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Pashupathi, M",
+        "short_name": "Pashupathi M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary Biochemistry, Rani Lakshmi Bai Central Agricultural University, Jhansi, 284001, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Sahoo, Jyochhna Rani",
+        "short_name": "Sahoo JR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Public Health Dentistry, Bareilly International University, Bareilly, 243122, Uttar Pradesh, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology reports"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Rep"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42700290",
+      "19245365",
+      "11004173",
+      "41222697",
+      "1904855",
+      "7643383",
+      "32662815",
+      "16936015",
+      "7883708",
+      "12144778",
+      "18483064",
+      "41075010",
+      "31383745",
+      "38059734",
+      "26307095",
+      "12079504",
+      "35404111",
+      "2050626",
+      "24603618",
+      "8419352",
+      "22123696",
+      "17906148",
+      "24462182",
+      "37732772",
+      "30201777",
+      "9393431",
+      "27246574",
+      "11133935",
+      "3139888",
+      "38625018",
+      "17220229",
+      "18227264",
+      "27987384",
+      "8455562",
+      "9780001",
+      "12107132",
+      "25080967",
+      "28290506",
+      "1569008",
+      "8320229",
+      "1435253",
+      "8437517",
+      "11525913",
+      "22545862",
+      "30510144",
+      "39487264",
+      "41934244",
+      "11733072",
+      "12511488",
+      "11489123",
+      "1729233",
+      "11673432",
+      "7601827",
+      "29378886",
+      "8057356",
+      "7862094",
+      "11673423",
+      "7854119",
+      "1629213",
+      "12057949",
+      "10816478",
+      "25345029",
+      "11911183",
+      "19246758",
+      "30455279",
+      "9484902",
+      "9696769",
+      "7616563",
+      "12517410",
+      "2493448",
+      "10101186",
+      "12085181",
+      "27956522",
+      "22674304",
+      "9613574",
+      "7713936",
+      "7934818",
+      "39546505",
+      "2691838",
+      "18062222",
+      "23715499",
+      "8501030",
+      "30448437",
+      "10540292",
+      "26944841",
+      "30903387",
+      "1909324",
+      "15978080",
+      "35003279",
+      "14553927",
+      "9464319",
+      "42478824",
+      "11929525",
+      "20545866",
+      "15657354",
+      "30992361",
+      "31832871",
+      "36593205",
+      "8636018",
+      "10942771"
+    ],
+    "review": [
+      "42700290",
+      "1435253"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11033-026-12687-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MGMT-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1261",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "identity": {
+    "pmid": "42691770",
+    "doi": "10.1016/j.identj.2026.111096",
+    "title": "Single-Cell Atlas of Human Temporomandibular Joint Condyle Identifies MXD4 as a Regulator of Chondrogenesis."
+  },
+  "content": {
+    "abstract": "INTRODUCTION AND AIMS: The temporomandibular joint condyle (TMJC) is essential for mandibular and temporomandibular joint (TMJ) development. However, its cellular and molecular dynamics during human embryogenesis remain poorly understood. METHODS: We constructed a single-cell transcriptomic atlas of the human TMJC spanning five embryonic stages from 12 to 25 gestational weeks (GW12-25). Single-cell RNA sequencing was performed to identify cell types, and Monocle 3 and SCENIC analyses were used to infer developmental trajectories and identify key transcriptional regulators. Candidate regulators were functionally validated using zebrafish models. RESULTS: Single-cell RNA sequencing identified 20 major cell types within the TMJC. Immune cells were sparse at GW19 but expanded markedly by GW22. Trajectory analysis revealed a differentiation pathway from mesenchymal stem cells to chondrocytes. SCENIC analysis highlighted multiple transcription factors regulating distinct cell populations, among which MXD4 was identified for the first time as a candidate transcriptional regulator of cartilage development. Functional studies showed that mxd4 knockout in zebrafish led to craniofacial developmental abnormalities. CONCLUSION: This single-cell atlas provides a comprehensive resource for understanding the cellular and molecular mechanisms underlying TMJC development. MXD4 is identified as a candidate regulator in condylar morphogenesis. CLINICAL RELEVANCE: Preliminary investigation of the potential regulatory role of MXD4 in condylar cartilage formation may provide a theoretical basis for diagnostic, therapeutic, and translational studies of craniofacial malformations associated with condylar hypoplasia.",
+    "keywords": [
+      "Chondrocytes",
+      "Embryonic development",
+      "Endochondral ossification",
+      "RNA sequencing",
+      "Transcription factors",
+      "Zebrafish"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Liang",
+        "Chen, Yiyi",
+        "Zhang, Yuxin",
+        "Zhao, Nan",
+        "Xu, Teng",
+        "Liu, Xinmei",
+        "Zheng, Jisi",
+        "Liu, Dong",
+        "Feng, Xingmei"
+      ],
+      "short_names": [
+        "Wang L",
+        "Chen Y",
+        "Zhang Y",
+        "Zhao N",
+        "Xu T",
+        "Liu X",
+        "Zheng J",
+        "Liu D",
+        "Feng X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Stomatology, Affiliated Hospital of Nantong University, Institute of Special Environmental Medicine, Nantong University, Nantong, China.",
+        "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China.",
+        "Department of Oral Surgery, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai Research Institute of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China.",
+        "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China.",
+        "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China.",
+        "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China.",
+        "Department of Oral Surgery, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai Research Institute of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China. Electronic address: 237111641@qq.com.",
+        "School of Life Science, Nantong Laboratory of Development and Diseases, and Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, China. Electronic address: liudongtom@gmail.com.",
+        "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China. Electronic address: xingmeifeng@ntu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Liang",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Stomatology, Affiliated Hospital of Nantong University, Institute of Special Environmental Medicine, Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yiyi",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuxin",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oral Surgery, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai Research Institute of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Nan",
+        "short_name": "Zhao N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Teng",
+        "short_name": "Xu T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xinmei",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Jisi",
+        "short_name": "Zheng J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oral Surgery, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai Research Institute of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China. Electronic address: 237111641@qq.com."
+        ]
+      },
+      {
+        "full_name": "Liu, Dong",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science, Nantong Laboratory of Development and Diseases, and Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, China. Electronic address: liudongtom@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Feng, Xingmei",
+        "short_name": "Feng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Stomatology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China. Electronic address: xingmeifeng@ntu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International dental journal"
+    ],
+    "journal_abbrev": [
+      "Int Dent J"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42691770",
+      "37468984",
+      "42531128",
+      "41808446",
+      "40837199",
+      "42587306",
+      "42475469",
+      "40598380",
+      "40898171",
+      "31747713",
+      "37867837",
+      "40345612",
+      "22427063",
+      "42060618",
+      "40251915",
+      "32147536",
+      "41014753",
+      "42605496",
+      "41764220",
+      "17518722",
+      "42534826",
+      "30387127",
+      "40362273",
+      "42007493",
+      "42210302",
+      "42040898",
+      "41192306",
+      "38656923",
+      "41948100",
+      "41824220",
+      "40496864",
+      "38058151",
+      "31847127",
+      "41827033",
+      "42218498",
+      "39241251",
+      "42491502",
+      "42411605",
+      "30890399",
+      "42074555",
+      "42412240",
+      "41208987",
+      "39461490",
+      "40903061",
+      "42678990",
+      "42274576",
+      "42517863",
+      "39362448",
+      "41771574",
+      "41327293",
+      "41601671",
+      "40712580",
+      "42079653",
+      "34638972",
+      "39567793",
+      "20035055",
+      "31722692",
+      "29262782",
+      "37727896",
+      "42025819",
+      "41953397",
+      "39868299",
+      "31117954",
+      "40323328",
+      "17191253",
+      "42531047",
+      "41467951",
+      "40771586",
+      "41133254",
+      "25192899",
+      "41510074",
+      "41998662",
+      "40154730",
+      "42249421",
+      "42510824",
+      "38868774",
+      "40764361",
+      "36790146",
+      "42248342",
+      "40096606",
+      "33949768",
+      "35218985",
+      "32030828",
+      "42294500",
+      "36891610",
+      "38739758",
+      "38745274",
+      "28647646",
+      "42486346",
+      "37995681",
+      "41378855",
+      "41261231",
+      "29447948",
+      "27534536",
+      "24929453",
+      "39953712",
+      "27908786",
+      "34737845",
+      "30070692",
+      "35733854"
+    ],
+    "review": [
+      "42691770",
+      "40251915",
+      "31847127"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0020-6539(26)01688-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0020-6539(26)01688-6",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

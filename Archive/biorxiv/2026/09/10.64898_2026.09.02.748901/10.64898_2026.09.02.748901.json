@@ -1,0 +1,722 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.02.748901",
+  "title": "SOX2 can associate with chromatin directly by binding to DNA or indirectly via association with other chromatin-bound proteins",
+  "doi": "10.64898/2026.09.02.748901",
+  "abstract": "It is widely assumed that SOX2 regulates gene expression and facilitates the opening of chromatin by binding directly at SOX motifs. To test this assumption, we created a SOX2 DNA binding mutant to determine whether other regions of SOX2 contribute to gene target specificity. When exogenously expressed in cells, this SOX2 mutant [SOX2(G76P)], like elevated unmodified SOX2, dramatically alters the transcriptome, but it does so by regulating vastly different gene sets and gene networks than SOX2. Consistent with their differential effects on the transcriptome, ChIP-seq analysis demonstrates that SOX2 and SOX2(G76P) associate primarily with different genomic loci, and motif analysis indicates that SOX2 binds primarily at SOX motifs, whereas SOX2(G76P) associates with chromatin at non-SOX motifs, including AP-1 motifs. Additionally, ATAC-seq analysis indicates that SOX2 substantially increases chromatin accessibility, but SOX2(G76P) does not. The findings presented lead to the conclusion that SOX2(G76P) associates with chromatin indirectly by a “piggyback” mechanism through its association with other chromatin-associated proteins, including AP-1 complexes. Remarkably, we also show that SOX2 and SOX2(G76P) each associate with a subset of the same gene loci that contain several different DNA motifs, including AP-1 motifs, but no high confidence SOX motifs. Overall, our findings provide new perspectives on SOX2 and lead to two important conclusions: 1) selection of gene targets by SOX2 is not solely determined by its DNA binding domain, and 2) SOX2 not only associates with chromatin directly by binding to SOX motifs but can also associate with a subset of gene loci indirectly through its association with other chromatin-associated proteins.",
+  "authors": [
+    "Briana D. Ormsbee Golden",
+    "Kabhilan Mohan",
+    "Ethan P Metz",
+    "Phillip J Wilder",
+    "Jimmie Persinger",
+    "Soumi Basu",
+    "Daisy V. Gonzalez",
+    "Tahir H. Tahirov",
+    "Donald W. Coulter",
+    "Sandipan Brahma",
+    "Angie Rizzino"
+  ],
+  "published_date": "2026-09-03",
+  "updated_date": "2026-09-03T19:55:16Z",
+  "journal": "bioRxiv",
+  "category": "Molecular Biology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748901",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748901.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Molecular Biology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Molecular Biology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            5
+          ]
+        ],
+        "date-time": "2026-09-05T21:12:08Z",
+        "timestamp": 1788642728271,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            3
+          ]
+        ]
+      },
+      "group-title": "Molecular Biology",
+      "reference-count": 57,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                3
+              ]
+            ],
+            "date-time": "2026-09-03T00:00:00Z",
+            "timestamp": 1788393600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>It is widely assumed that SOX2 regulates gene expression and facilitates the opening of chromatin by binding directly at SOX motifs. To test this assumption, we created a SOX2 DNA binding mutant to determine whether other regions of SOX2 contribute to gene target specificity. When exogenously expressed in cells, this SOX2 mutant [SOX2(G76P)], like elevated unmodified SOX2, dramatically alters the transcriptome, but it does so by regulating vastly different gene sets and gene networks than SOX2. Consistent with their differential effects on the transcriptome, ChIP-seq analysis demonstrates that SOX2 and SOX2(G76P) associate primarily with different genomic loci, and motif analysis indicates that SOX2 binds primarily at SOX motifs, whereas SOX2(G76P) associates with chromatin at non-SOX motifs, including AP-1 motifs. Additionally, ATAC-seq analysis indicates that SOX2 substantially increases chromatin accessibility, but SOX2(G76P) does not. The findings presented lead to the conclusion that SOX2(G76P) associates with chromatin indirectly by a “piggyback” mechanism through its association with other chromatin-associated proteins, including AP-1 complexes. Remarkably, we also show that SOX2 and SOX2(G76P) each associate with a subset of the same gene loci that contain several different DNA motifs, including AP-1 motifs, but no high confidence SOX motifs. Overall, our findings provide new perspectives on SOX2 and lead to two important conclusions: 1) selection of gene targets by SOX2 is not solely determined by its DNA binding domain, and 2) SOX2 not only associates with chromatin directly by binding to SOX motifs but can also associate with a subset of gene loci indirectly through its association with other chromatin-associated proteins.</jats:p>",
+      "DOI": "10.64898/2026.09.02.748901",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            3
+          ]
+        ],
+        "date-time": "2026-09-03T19:55:16Z",
+        "timestamp": 1788465316000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "SOX2 can associate with chromatin directly by binding to DNA or indirectly via association with other chromatin-bound proteins"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Briana D. Ormsbee",
+          "family": "Golden",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0006-2281-8809",
+          "authenticated-orcid": false,
+          "given": "Kabhilan",
+          "family": "Mohan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6276-7528",
+          "authenticated-orcid": false,
+          "given": "Ethan P",
+          "family": "Metz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Phillip J",
+          "family": "Wilder",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jimmie",
+          "family": "Persinger",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Genetics, Cell Biology and Anatomy, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Soumi",
+          "family": "Basu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Genetics, Cell Biology and Anatomy, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daisy V.",
+          "family": "Gonzalez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1238-0069",
+          "authenticated-orcid": false,
+          "given": "Tahir H.",
+          "family": "Tahirov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            },
+            {
+              "name": "Fred & Pamela Buffett Cancer Center, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Donald W.",
+          "family": "Coulter",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Fred & Pamela Buffett Cancer Center, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            },
+            {
+              "name": "Department of Pediatrics, Hematology and Oncology Division, Nebraska Medical Center, Omaha, NE 68198, United States"
+            },
+            {
+              "name": "Child Health Research Institute, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7511-5409",
+          "authenticated-orcid": false,
+          "given": "Sandipan",
+          "family": "Brahma",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Genetics, Cell Biology and Anatomy, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            },
+            {
+              "name": "Fred & Pamela Buffett Cancer Center, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9209-4467",
+          "authenticated-orcid": false,
+          "given": "Angie",
+          "family": "Rizzino",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            },
+            {
+              "name": "Fred & Pamela Buffett Cancer Center, University of Nebraska Medical Center, Omaha, NE 68198, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.1",
+          "doi-asserted-by": "crossref",
+          "first-page": "eaeb6487",
+          "DOI": "10.1126/science.aeb6487",
+          "article-title": "Unstructured transcription factor interactions enable emergent specificity",
+          "volume": "392",
+          "year": "2026",
+          "journal-title": "Science"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0102140"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "351",
+          "DOI": "10.3390/ph17030351",
+          "article-title": "The Current Therapeutic Landscape for Metastatic Prostate Cancer",
+          "volume": "17",
+          "year": "2024",
+          "journal-title": "Pharmaceuticals"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2005.08.020"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Brahma S , Henikoff S . 2022. CUTCRUN Profiling of the Budding Yeast Epigenome. In Yeast Functional Genomics (ed. F. Devaux ), Vol. 2477 of Methods in Molecular Biology, pp. 129–147, Springer US, New York, NY https://link.springer.com/10.1007/978-1-0716-2257-5_9 (Accessed February 3, 2026).",
+          "DOI": "10.1007/978-1-0716-2257-5_9"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.molcel.2018.10.046"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.molcel.2020.05.032"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ng1901"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0015486"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1242/jcs.083238"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0044087"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0062857"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "DeCaprio J , Kohl TO . 2020. Chromatin Immunoprecipitation. Cold Spring Harb Protoc 2020: pdb.prot098665.",
+          "DOI": "10.1101/pdb.prot098665"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-020-2195-y"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18632/oncotarget.16244"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M111.320143"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.17",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Gillotin S . 2018. Isolation of Chromatin-bound Proteins from Subcellular Fractions for Biochemical Analysis. BIO-PROTOCOL 8. https://bio-protocol.org/e3035 (Accessed February 3, 2026).",
+          "DOI": "10.21769/BioProtoc.3035"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/346245a0"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1007224",
+          "DOI": "10.1371/journal.pgen.1007224",
+          "article-title": "SOX2 regulates common and specific stem cell features in the CNS and endoderm derived organs ed. H. Kondoh",
+          "volume": "14",
+          "year": "2018",
+          "journal-title": "PLoS Genet"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1908",
+          "DOI": "10.1016/j.celrep.2014.11.013",
+          "article-title": "Sox2 Acts in a Dose-Dependent Fashion to Regulate Proliferation of Cortical Progenitors",
+          "volume": "9",
+          "year": "2014",
+          "journal-title": "Cell Reports"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/22.8.1500"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.molcel.2010.05.004"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M008384200"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41576-025-00816-3"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-021-03819-2"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1128/MCB.19.1.107"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1634/stemcells.2007-0951"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aah4199"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bbi.2015.1011.1004"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0012-1606(92)90046-J"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/stem.494"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.32",
+          "doi-asserted-by": "crossref",
+          "first-page": "19298",
+          "DOI": "10.1002/jcp.28610",
+          "article-title": "Sox2 dosage: A critical determinant in the functions of Sox2 in both normal and tumor cells",
+          "volume": "234",
+          "year": "2019",
+          "journal-title": "Journal Cellular Physiology"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.33",
+          "doi-asserted-by": "crossref",
+          "first-page": "3731",
+          "DOI": "10.1002/jcp.29267",
+          "article-title": "Elevating SOX2 in prostate tumor cells upregulates expression of neuroendocrine genes, but does not reduce the inhibitory effects of enzalutamide",
+          "volume": "235",
+          "year": "2020",
+          "journal-title": "Journal Cellular Physiology"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.34",
+          "doi-asserted-by": "crossref",
+          "first-page": "1946",
+          "DOI": "10.3390/cancers14081946",
+          "article-title": "Elevating SOX2 Downregulates MYC through a SOX2:MYC Signaling Axis and Induces a Slowly Cycling Proliferative State in Human Tumor Cells",
+          "volume": "14",
+          "year": "2022",
+          "journal-title": "Cancers"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.35",
+          "doi-asserted-by": "crossref",
+          "first-page": "941",
+          "DOI": "10.1186/s12885-020-07370-7",
+          "article-title": "Tumor quiescence: elevating SOX2 in diverse tumor cell types downregulates a broad spectrum of the cell cycle machinery and inhibits tumor growth",
+          "volume": "20",
+          "year": "2020",
+          "journal-title": "BMC Cancer"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.mce.2013.03.002"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aah4307"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.38",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Myers R . 2012. ENCSR000BTE. https://www.encodeproject.org/experiments/ENCSR000BTE/ (Accessed February 3, 2026).",
+          "DOI": "10.17989/ENCSR000BTE"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.275.6.3810"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.40",
+          "doi-asserted-by": "crossref",
+          "first-page": "107642",
+          "DOI": "10.1016/j.jbc.2024.107642",
+          "article-title": "SOX2 represses c-MYC transcription by altering the co-activator landscape of the c-MYC super-enhancer and promoter regions",
+          "volume": "300",
+          "year": "2024",
+          "journal-title": "Journal of Biological Chemistry"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkw257"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/gad.269303"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.43",
+          "doi-asserted-by": "crossref",
+          "first-page": "780",
+          "DOI": "10.1016/j.bbagrm.2016.03.006",
+          "article-title": "Sox2/Oct4: A delicately balanced partnership in pluripotent stem cells and embryogenesis",
+          "volume": "1859",
+          "year": "2016",
+          "journal-title": "Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature10730"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/346240a0"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.21856"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2015.03.017"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.48",
+          "doi-asserted-by": "crossref",
+          "first-page": "1575",
+          "DOI": "10.1038/s41374-020-00479-0",
+          "article-title": "Distinct transcriptional programs of SOX2 in different types of small cell lung cancers",
+          "volume": "100",
+          "year": "2020",
+          "journal-title": "Laboratory Investigation"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature11247"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ccr.2014.05.005"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.51",
+          "doi-asserted-by": "crossref",
+          "first-page": "e585",
+          "DOI": "10.1002/cpz1.585",
+          "article-title": "Exploring Epigenomic Datasets by ChIPseeker",
+          "volume": "2",
+          "year": "2022",
+          "journal-title": "Current Protocols"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.21105/joss.01686"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M212211200"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/biom10081097"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/jmbi.1999.3110"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18632/oncotarget.16570"
+        },
+        {
+          "key": "2026090513450735000_2026.09.02.748901v1.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18632/oncotarget.8994"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.02.748901",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            5
+          ]
+        ],
+        "date-time": "2026-09-05T20:45:15Z",
+        "timestamp": 1788641115000
+      },
+      "score": 100.01984,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.02.748901"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            3
+          ]
+        ]
+      },
+      "references-count": 57,
+      "URL": "https://doi.org/10.64898/2026.09.02.748901",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            3
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

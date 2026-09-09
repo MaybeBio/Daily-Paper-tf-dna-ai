@@ -1,0 +1,342 @@
+{
+  "identity": {
+    "pmid": "42689139",
+    "doi": "10.3389/fpls.2026.1924558",
+    "title": "Hormone priming and metabolic engineering of phytohormone crosstalk in rice under combined biotic and abiotic stresses: a multi-omics perspective for climate-resilient crop development."
+  },
+  "content": {
+    "abstract": "Rice (Oryza sativa L.) is the caloric backbone for more than half of humanity, yet it remains one of the most vulnerable crops to the simultaneous biotic and abiotic stresses exacerbated by climate change. Phytohormone priming and the complex crosstalk networks governed by transcription factor hubs like WRKY, MYB, and NAC serve as the central adaptive mechanism for stress resilience. This review synthesizes how multi-omics integration, including spatial and single-cell transcriptomics, is resolving the molecular architecture of hormonal priming and epigenetic stress memory. We critically evaluate advanced metabolic engineering and genome-editing strategies such as CRISPR-Cas9, base/prime editing, and synthetic gene circuits that enable precision modifications to decouple stress tolerance from historical yield penalties. Furthermore, we discuss the emerging roles of microbiome-assisted priming via synthetic consortia and the application of artificial intelligence and digital twins (continuously updated computational models of crop physiology) for predictive stress management. By integrating these diverse technological pillars, we propose a systems-level roadmap for developing climate-resilient rice cultivars capable of maintaining yield stability across a volatile combinatorial stress landscape. This synthesis provides a framework for translating mechanistic hormonal insights into field-applicable cultivars to ensure global food security.",
+    "keywords": [
+      "CRISPR",
+      "Oryza sativa",
+      "climate-resilient breeding",
+      "hormone priming",
+      "multi-omics",
+      "phytohormone crosstalk"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shuixing, Zhu",
+        "Jing, Zhu",
+        "Alshehri, Dikhnah",
+        "Al-Amrah, Hadba",
+        "Manzoor, Irfan",
+        "Aiying, Yu"
+      ],
+      "short_names": [
+        "Shuixing Z",
+        "Jing Z",
+        "Alshehri D",
+        "Al-Amrah H",
+        "Manzoor I",
+        "Aiying Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Xianju Agricultural Technology Extension Center, Xianju, Zhejiang, China.",
+        "Xianju Agricultural Technology Extension Center, Xianju, Zhejiang, China.",
+        "Department of Biology, Faculty of Science, University of Tabuk, Tabuk, Saudi Arabia.",
+        "Department of Biological Sciences, Faculty of Science, King Abdulaziz University, Jeddah, Saudi Arabia.",
+        "Department of Bioinformatics and Biotechnology, Government College University Faisalabad (GCUF), Faisalabad, Pakistan.",
+        "Xianju Agricultural Technology Extension Center, Xianju, Zhejiang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shuixing, Zhu",
+        "short_name": "Shuixing Z",
+        "identifiers": [],
+        "affiliations": [
+          "Xianju Agricultural Technology Extension Center, Xianju, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Jing, Zhu",
+        "short_name": "Jing Z",
+        "identifiers": [],
+        "affiliations": [
+          "Xianju Agricultural Technology Extension Center, Xianju, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Alshehri, Dikhnah",
+        "short_name": "Alshehri D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Faculty of Science, University of Tabuk, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Al-Amrah, Hadba",
+        "short_name": "Al-Amrah H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Faculty of Science, King Abdulaziz University, Jeddah, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Manzoor, Irfan",
+        "short_name": "Manzoor I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics and Biotechnology, Government College University Faisalabad (GCUF), Faisalabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Aiying, Yu",
+        "short_name": "Aiying Y",
+        "identifiers": [],
+        "affiliations": [
+          "Xianju Agricultural Technology Extension Center, Xianju, Zhejiang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 12:09",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689139",
+      "42278532",
+      "40526281",
+      "42603438",
+      "42464962",
+      "42405245",
+      "42197671",
+      "42589116",
+      "42402524",
+      "40612601",
+      "42494486",
+      "37294468",
+      "41009726",
+      "42475469",
+      "41546796",
+      "42334519",
+      "41756647",
+      "42469498",
+      "42122827",
+      "41594895",
+      "39752243",
+      "41219913",
+      "42064300",
+      "42600524",
+      "42690503",
+      "40947921",
+      "40129518",
+      "42035969",
+      "42197608",
+      "42075403",
+      "41125905",
+      "42313198",
+      "41467558",
+      "40918304",
+      "42651791",
+      "41127082",
+      "37810398",
+      "42340370",
+      "42511801",
+      "41665762",
+      "41064763",
+      "40265800",
+      "36326904",
+      "42002409",
+      "42267128",
+      "41524271",
+      "42477308",
+      "40553877",
+      "42563405",
+      "34367194",
+      "42211476",
+      "37372461",
+      "41304596",
+      "41810388",
+      "34859329",
+      "42386493",
+      "39376239",
+      "34068886",
+      "31644801",
+      "42197638",
+      "42197609",
+      "39855404",
+      "42178738",
+      "40431027",
+      "42343960",
+      "37688677",
+      "41304643",
+      "40941864",
+      "27499678",
+      "42231884",
+      "30904092",
+      "42602771",
+      "41463573",
+      "42514610",
+      "42245112",
+      "41589633",
+      "31055134",
+      "40805671",
+      "41470599",
+      "40356303",
+      "42010761",
+      "40622492",
+      "41011981",
+      "41751548",
+      "40559408",
+      "40822724",
+      "41829854",
+      "40872081",
+      "42199236",
+      "40759066",
+      "42643124",
+      "42193079",
+      "40373187",
+      "40725465",
+      "34889892",
+      "41031613",
+      "34925418",
+      "38371406",
+      "42609926",
+      "31575043"
+    ],
+    "review": [
+      "42689139",
+      "42278532",
+      "40526281",
+      "42603438",
+      "42464962",
+      "42405245",
+      "42197671",
+      "42589116",
+      "42402524",
+      "40612601",
+      "37294468",
+      "41009726",
+      "41546796",
+      "42334519",
+      "41756647",
+      "42469498",
+      "42122827",
+      "41594895",
+      "39752243",
+      "41219913",
+      "42064300",
+      "42600524",
+      "42690503",
+      "40947921",
+      "40129518",
+      "42035969",
+      "42197608",
+      "42075403",
+      "41125905",
+      "42313198",
+      "41467558",
+      "40918304",
+      "42651791",
+      "37810398",
+      "42340370",
+      "42511801",
+      "41665762",
+      "41064763",
+      "40265800",
+      "36326904",
+      "42002409",
+      "42267128",
+      "41524271",
+      "42477308",
+      "40553877",
+      "42563405",
+      "34367194",
+      "42211476",
+      "37372461",
+      "41304596",
+      "34859329",
+      "42386493",
+      "39376239",
+      "34068886",
+      "42197638",
+      "42197609",
+      "39855404",
+      "42178738",
+      "40431027",
+      "42343960",
+      "37688677",
+      "41304643",
+      "40941864",
+      "42231884",
+      "30904092",
+      "42602771",
+      "41463573",
+      "42514610",
+      "42245112",
+      "41589633",
+      "31055134",
+      "40805671",
+      "41470599",
+      "40356303",
+      "42010761",
+      "40622492",
+      "41011981",
+      "41751548",
+      "40559408",
+      "40822724",
+      "41829854",
+      "40872081",
+      "42199236",
+      "40759066",
+      "42643124",
+      "42193079",
+      "40373187",
+      "40725465",
+      "34889892",
+      "41031613",
+      "34925418",
+      "42609926",
+      "31575043"
+    ],
+    "pmc": [
+      "13536998"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42689139/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1924558",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

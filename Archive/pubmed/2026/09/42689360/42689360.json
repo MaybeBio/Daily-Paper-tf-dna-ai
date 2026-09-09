@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42689360",
+    "doi": "10.1002/cbdv.71668",
+    "title": "Iron(II) and Copper(II) Ions Modulating Binding Interaction of Sugar-Based Silatrane With DNA: Analytical and Theoretical Validation."
+  },
+  "content": {
+    "abstract": "Research on molecular systems capable of interacting with DNA through binding, modification, or cleavage remains important in medicinal chemistry. In this study, we report the design and synthesis of a new D-glucamine-based Schiff base containing a triazolyl silatrane probe (6) and its Fe(II) and Cu(II) complexes, followed by investigation of their interactions with calf thymus DNA (CT-DNA). The synthesized ligand and its metal complexes were characterized by elemental analysis, FT-IR, UV-vis spectroscopy, ESI-MS, and NMR spectroscopy ((1)H and (13)C for the free ligand). DNA-binding properties were evaluated by UV-vis absorption spectroscopy, ethidium bromide (EtBr) displacement fluorescence assays, and molecular docking studies. The combined experimental and computational results indicate that ligand 6 interacts predominantly with CT-DNA through groove binding, whereas complexation with Fe(II) or Cu(II) enhances DNA-binding affinity and modulates the interaction toward a mixed groove-binding/intercalative mode. The higher binding constants, enhanced fluorescence quenching, and favorable docking interactions observed for the metal complexes support this metal-induced modulation of DNA-binding behavior. Overall, the findings demonstrate that metal complexation can tune both the strength and mode of DNA binding, highlighting a potential strategy for designing silatrane-based metal complexes with DNA-targeting applications.",
+    "keywords": [
+      "DNA",
+      "D-glucamine",
+      "copper(II)",
+      "groove binding",
+      "intercalation",
+      "iron(II)",
+      "molecular docking",
+      "silatrane"
+    ],
+    "mesh_terms": [
+      "*Copper/chemistry",
+      "*DNA/chemistry/metabolism",
+      "Molecular Docking Simulation",
+      "Cattle",
+      "*Coordination Complexes/chemistry/chemical synthesis",
+      "Animals",
+      "*Iron/chemistry",
+      "Binding Sites/drug effects",
+      "Molecular Structure",
+      "*Sugars/chemistry",
+      "Ligands",
+      "*Ferrous Compounds/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Singh, Gurjaspreet",
+        "Pawan",
+        "Mohan, Brij"
+      ],
+      "short_names": [
+        "Singh G",
+        "Pawan",
+        "Mohan B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8627-420X",
+        "ORCID: 0000-0002-9462-4193",
+        "ORCID: 0000-0003-2414-9152"
+      ],
+      "affiliations": [
+        "Department of Chemistry & Centre for Advanced Studies in Chemistry, Panjab University, Chandigarh, India.",
+        "Department of Chemistry, University School of Sciences, Rayat-Bahra University, Mohali, India.",
+        "Centro De Quimica Estrutural, Instituto Superior Tecnico, Universidade De Lisboa (ULisboa), Lisbon, Portugal."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Singh, Gurjaspreet",
+        "short_name": "Singh G",
+        "identifiers": [
+          "0000-0002-8627-420X"
+        ],
+        "affiliations": [
+          "Department of Chemistry & Centre for Advanced Studies in Chemistry, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Pawan",
+        "short_name": "Pawan",
+        "identifiers": [
+          "0000-0002-9462-4193"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University School of Sciences, Rayat-Bahra University, Mohali, India."
+        ]
+      },
+      {
+        "full_name": "Mohan, Brij",
+        "short_name": "Mohan B",
+        "identifiers": [
+          "0000-0003-2414-9152"
+        ],
+        "affiliations": [
+          "Centro De Química Estrutural, Instituto Superior Técnico, Universidade De Lisboa (ULisboa), Lisbon, Portugal."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemistry & biodiversity"
+    ],
+    "journal_abbrev": [
+      "Chem Biodivers"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 12:09",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689360",
+      "42470536",
+      "25238802",
+      "38791321",
+      "27155593",
+      "28097460",
+      "30101692",
+      "28886569",
+      "38502407",
+      "39470017",
+      "32936064",
+      "40460287",
+      "19403328",
+      "33846920",
+      "24892525",
+      "27043870",
+      "33606116",
+      "28456118",
+      "41406516",
+      "24001978",
+      "34521304",
+      "37375332",
+      "41406517",
+      "26690017",
+      "24781660",
+      "22297390",
+      "34379029",
+      "30422758",
+      "41915791",
+      "33719900",
+      "30990358",
+      "28247070",
+      "29510357",
+      "24835939",
+      "33402026",
+      "34268603",
+      "27236046",
+      "42049795",
+      "23831943",
+      "38593611",
+      "27458761",
+      "41386043",
+      "30033272",
+      "26057019",
+      "28763458",
+      "37021479",
+      "24522514",
+      "40974122",
+      "24858353",
+      "25548074",
+      "34182310",
+      "19200776",
+      "28892754",
+      "24815057",
+      "30616168",
+      "29119261",
+      "29505940",
+      "21671566",
+      "31721562",
+      "26315729",
+      "23988527",
+      "34477468",
+      "30172817",
+      "41670665",
+      "27179300",
+      "41367345",
+      "40175799",
+      "40126855",
+      "29676660",
+      "27295415",
+      "16039720",
+      "27794220",
+      "30767624",
+      "32141470",
+      "27696010",
+      "27333575",
+      "42247874",
+      "38484588",
+      "39365845",
+      "36106987",
+      "25247349",
+      "32329409",
+      "31735357",
+      "25663196",
+      "29961205",
+      "37651843",
+      "26002539",
+      "28849726",
+      "35599165",
+      "38967860",
+      "39215911",
+      "27568403",
+      "22446784",
+      "30942140",
+      "24854148",
+      "31148514",
+      "33512301",
+      "33380278",
+      "27933484",
+      "22559171"
+    ],
+    "review": [
+      "42689360"
+    ],
+    "pmc": [
+      "13539469"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/iron.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Iron"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42689360/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/cbdv.71668",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42683046",
+    "doi": "10.1039/d6sc04510c",
+    "title": "Creating a non-native bio-amidation activity in asparagine synthetase via biosensor-guided directed evolution for the synthesis of (S)-2-aminobutyramide."
+  },
+  "content": {
+    "abstract": "The direct asymmetric synthesis of chiral amides remains a focal point in green manufacturing, particularly for (S)-2-aminobutyramide whose traditional production is often hampered by low atom economy and arduous chiral resolution steps. Here, we report the creation of a non-native bio-amidation activity in Escherichia coli asparagine synthetase A (AsnA) for the proof-of-concept one-step biosynthesis of (S)-2-aminobutyramide, a critical intermediate for anti-epileptic drugs. To overcome the bottleneck of high-throughput screening, we engineered the AmiC-AmiR transcription factor into a highly sensitive biosensor (RC-4-Y83H) by remodeling its ligand-binding pocket, achieving a 23-fold induction response specifically toward (S)-2-AB. Utilizing this biosensor to screen saturation mutagenesis libraries, we identified an evolved variant (K77L/E120L/R255W) that showed a reversed substrate preference between the two substrates tested, converting (S)-2-aminobutyric acid to (S)-2-AB with retention of configuration. Molecular dynamics simulations and free-energy landscape analysis reveal that the mutations fundamentally remodel the active site, inducing a 180 degrees  flip of the substrate binding mode. This structural reorientation positions the non-native carboxyl group in a catalytically productive geometry relative to ATP, a conformation inaccessible in the wild-type enzyme. As a proof of concept, this work does not aim to deliver an industrially competitive biocatalyst; instead, it shows that the specificity of a native amide-forming enzyme can be reprogrammed toward a non-native alpha-amino acid, and it provides a generalizable, biosensor-guided framework for such reprogramming.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lai, Qianpeng",
+        "Meng, Yiwei",
+        "Liu, Zhongmei",
+        "Han, Laichuang",
+        "Guo, Junling",
+        "Peplowski, Lukasz",
+        "Cheng, Zhongyi",
+        "Zhou, Zhemin"
+      ],
+      "short_names": [
+        "Lai Q",
+        "Meng Y",
+        "Liu Z",
+        "Han L",
+        "Guo J",
+        "Peplowski L",
+        "Cheng Z",
+        "Zhou Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2997-7937",
+        "ORCID: 0000-0001-6825-5374",
+        "ORCID: 0000-0003-0604-1885"
+      ],
+      "affiliations": [
+        "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+        "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+        "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+        "Key Laboratory of Industrial Synthetic Biology of Jiangsu Province, Jiangnan University Wuxi Jiangsu China.",
+        "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+        "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+        "Key Laboratory of Industrial Synthetic Biology of Jiangsu Province, Jiangnan University Wuxi Jiangsu China.",
+        "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Torun Grudziadzka 5 87100 Torun Poland.",
+        "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+        "Key Laboratory of Industrial Synthetic Biology of Jiangsu Province, Jiangnan University Wuxi Jiangsu China.",
+        "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+        "Key Laboratory of Industrial Synthetic Biology of Jiangsu Province, Jiangnan University Wuxi Jiangsu China.",
+        "Shandong Nuer Biotechnology Co., Ltd Dongying Shandong China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lai, Qianpeng",
+        "short_name": "Lai Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Meng, Yiwei",
+        "short_name": "Meng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhongmei",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+          "Key Laboratory of Industrial Synthetic Biology of Jiangsu Province, Jiangnan University Wuxi Jiangsu China."
+        ]
+      },
+      {
+        "full_name": "Han, Laichuang",
+        "short_name": "Han L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Guo, Junling",
+        "short_name": "Guo J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+          "Key Laboratory of Industrial Synthetic Biology of Jiangsu Province, Jiangnan University Wuxi Jiangsu China."
+        ]
+      },
+      {
+        "full_name": "Peplowski, Lukasz",
+        "short_name": "Peplowski L",
+        "identifiers": [
+          "0000-0002-2997-7937"
+        ],
+        "affiliations": [
+          "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Torun Grudziadzka 5 87100 Torun Poland."
+        ]
+      },
+      {
+        "full_name": "Cheng, Zhongyi",
+        "short_name": "Cheng Z",
+        "identifiers": [
+          "0000-0001-6825-5374"
+        ],
+        "affiliations": [
+          "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+          "Key Laboratory of Industrial Synthetic Biology of Jiangsu Province, Jiangnan University Wuxi Jiangsu China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zhemin",
+        "short_name": "Zhou Z",
+        "identifiers": [
+          "0000-0003-0604-1885"
+        ],
+        "affiliations": [
+          "Key Laboratory of Industrial Biotechnology (Ministry of Education), School of Biotechnology, Jiangnan University Wuxi Jiangsu China zyCheng@jiangnan.edu.cn zhmzhou@jiangnan.edu.cn.",
+          "Key Laboratory of Industrial Synthetic Biology of Jiangsu Province, Jiangnan University Wuxi Jiangsu China.",
+          "Shandong Nuer Biotechnology Co., Ltd Dongying Shandong China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical science"
+    ],
+    "journal_abbrev": [
+      "Chem Sci"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 11:39",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42683046",
+      "42475469",
+      "27557723",
+      "24673815",
+      "38864627",
+      "42484100",
+      "7629147",
+      "41650555",
+      "40299030",
+      "9182530",
+      "8950270",
+      "11237602",
+      "22316217",
+      "42600855",
+      "42526569",
+      "21867669",
+      "40258541",
+      "17381075",
+      "37851522",
+      "27767080",
+      "15966725",
+      "21820443",
+      "1429724",
+      "31307578",
+      "17176071",
+      "21545173",
+      "22112564",
+      "21317292",
+      "41537603",
+      "10712619",
+      "18076053",
+      "37261425",
+      "35714535",
+      "41941911",
+      "41767825",
+      "30888147",
+      "11669617",
+      "17329242",
+      "1526981",
+      "9125495",
+      "10769129",
+      "1993168",
+      "11478880",
+      "21827797",
+      "35750945",
+      "7797500",
+      "9772178",
+      "41551743",
+      "8660663",
+      "34699108",
+      "40859624",
+      "12831838",
+      "11722565",
+      "26804479",
+      "30341164",
+      "24012599",
+      "15079895",
+      "41083092",
+      "18342970",
+      "26822136",
+      "28389544",
+      "41676621",
+      "41946398",
+      "42405165",
+      "11329260",
+      "26115233",
+      "25711934",
+      "41802478",
+      "20506522",
+      "29752270",
+      "11114249",
+      "41503063",
+      "39208264",
+      "25738880",
+      "38733437",
+      "25248440",
+      "8688430",
+      "23848432",
+      "12135357",
+      "7669756",
+      "12855677",
+      "30035356",
+      "3063392",
+      "41775304",
+      "33518604",
+      "26142822",
+      "15159406",
+      "15766267",
+      "19862811",
+      "38150159",
+      "9843428",
+      "10642515",
+      "24949900",
+      "39504884",
+      "15842167",
+      "27613682",
+      "25765309",
+      "14756557",
+      "20382812",
+      "29318252"
+    ],
+    "review": [
+      "42683046",
+      "24012599"
+    ],
+    "pmc": [
+      "13531289"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42683046/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1039/d6sc04510c",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

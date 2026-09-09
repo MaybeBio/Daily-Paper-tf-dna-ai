@@ -1,0 +1,327 @@
+{
+  "identity": {
+    "pmid": "42692680",
+    "doi": "10.1016/j.foodres.2026.120266",
+    "title": "Identification and structural characterization of a novel antioxidant tripeptide RGW from Rubing whey and its protective effect against oxidative stress."
+  },
+  "content": {
+    "abstract": "Rubing whey is a by-product of traditional acid-coagulated goat milk processing in Yunnan and represents a potential source of bioactive peptides, although its low-molecular-weight peptide composition and functional value remain unclear. LC-MS/MS was used to characterize the low-molecular-weight peptide profile of Rubing whey, together with bioinformatics screening, activity validation, structural characterization, stability evaluation, cell-based assays and computational analyses to identify functional short peptides. A total of 2316 peptides were identified. RGW exhibited the strongest radical-scavenging activity among the candidate peptides, with IC(5)(0) values of 0.275 mg/mL and 18.96 mug/mL for DPPH and ABTS(+) radicals, respectively. RGW retained high antioxidant activity after heat, pH and simulated gastrointestinal digestion treatments, showed hemolysis rates below 5%, and alleviated H(2)O(2)-induced decreases in RAW264.7 cell viability and ROS accumulation. Circular dichroism spectroscopy and quantum chemical calculations suggested that the high conformational flexibility of RGW, the electron-donating properties of the Trp indole ring and the exposure of polar sites may contribute to its antioxidant activity. Network pharmacology, molecular docking and molecular dynamics simulations suggested that MAPK1 may be a candidate core node associated with the oxidative stress-protective and inflammation-related effects of RGW, while NFE2L2/Nrf2- and JUN/c-Jun/AP-1-related signaling may be involved in this putative process. These findings provide a candidate sequence for identifying antioxidant short peptides from Rubing whey and for the valorization of this dairy by-product.",
+    "keywords": [
+      "Antioxidant peptide",
+      "By-product valorization",
+      "Molecular simulation",
+      "Oxidative stress",
+      "Rubing whey"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Oxidative Stress/drug effects",
+      "*Antioxidants/chemistry/pharmacology/isolation & purification",
+      "Mice",
+      "RAW 264.7 Cells",
+      "Bioactive Peptides, Dietary",
+      "Tandem Mass Spectrometry",
+      "Goats",
+      "Cell Survival/drug effects",
+      "*Whey/chemistry",
+      "NF-E2-Related Factor 2/metabolism",
+      "Reactive Oxygen Species/metabolism",
+      "Hemolysis/drug effects",
+      "*Whey Proteins/chemistry",
+      "Hydrogen Peroxide",
+      "*Oligopeptides/chemistry/pharmacology",
+      "Molecular Docking Simulation",
+      "Chromatography, Liquid"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Yanzhengyuan",
+        "Shi, Chongying",
+        "Dai, Xingying",
+        "Ye, Xiaoqin",
+        "Zhang, Junlei",
+        "Zhao, Cunchao",
+        "Aaqil, Muhammad",
+        "Xiong, Siwei",
+        "Li, Yufang",
+        "Wei, Guangqiang",
+        "Huang, Aixiang"
+      ],
+      "short_names": [
+        "Zhou Y",
+        "Shi C",
+        "Dai X",
+        "Ye X",
+        "Zhang J",
+        "Zhao C",
+        "Aaqil M",
+        "Xiong S",
+        "Li Y",
+        "Wei G",
+        "Huang A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China. Electronic address: yufangfangli@126.com.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China. Electronic address: 1134131384@qq.com.",
+        "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Yanzhengyuan",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Chongying",
+        "short_name": "Shi C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Xingying",
+        "short_name": "Dai X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Xiaoqin",
+        "short_name": "Ye X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Junlei",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Cunchao",
+        "short_name": "Zhao C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Aaqil, Muhammad",
+        "short_name": "Aaqil M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Siwei",
+        "short_name": "Xiong S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yufang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China. Electronic address: yufangfangli@126.com."
+        ]
+      },
+      {
+        "full_name": "Wei, Guangqiang",
+        "short_name": "Wei G",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China. Electronic address: 1134131384@qq.com."
+        ]
+      },
+      {
+        "full_name": "Huang, Aixiang",
+        "short_name": "Huang A",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science & Technology, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42692680",
+      "42184520",
+      "42270250",
+      "37853837",
+      "39392363",
+      "42349559",
+      "36737967",
+      "41539815",
+      "41606864",
+      "39986787",
+      "36292968",
+      "40983012",
+      "41794539",
+      "40552091",
+      "41819897",
+      "41933643",
+      "40010189",
+      "40196985",
+      "36557946",
+      "39519487",
+      "40651143",
+      "40752598",
+      "32447138",
+      "33406386",
+      "38823827",
+      "42019124",
+      "40220441",
+      "40347820",
+      "39706064",
+      "41794516",
+      "40505314",
+      "40649755",
+      "40992442",
+      "40344592",
+      "33065254",
+      "32070709",
+      "37803604",
+      "37690095",
+      "39357311",
+      "40436585",
+      "41534749",
+      "39922038",
+      "29973491",
+      "40876165",
+      "31817866",
+      "36461408",
+      "38537858",
+      "40356101",
+      "35840253",
+      "41067126",
+      "38343291",
+      "41794522",
+      "31112588",
+      "38629202",
+      "40482480",
+      "41738522",
+      "41609079",
+      "41174394",
+      "41505276",
+      "40817841",
+      "39327238",
+      "35761579",
+      "32164197",
+      "33405053",
+      "38358942",
+      "40467217",
+      "41360536",
+      "42108975",
+      "29864924",
+      "42419399",
+      "42302941",
+      "41599969",
+      "34100502",
+      "34553258",
+      "39495599",
+      "38762209",
+      "29605324",
+      "30820141",
+      "30096394",
+      "37049715",
+      "30339007",
+      "42581011",
+      "31812751",
+      "39871436",
+      "42344921",
+      "42665779",
+      "42219072",
+      "41511542",
+      "41828583",
+      "40058928",
+      "41111884",
+      "27320783",
+      "35003522",
+      "41679630",
+      "40368256",
+      "41504373",
+      "42653049",
+      "39614489",
+      "40012285",
+      "25934285"
+    ],
+    "review": [
+      "42692680",
+      "29605324"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)01953-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/antioxidants.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antioxidants"
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-870",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

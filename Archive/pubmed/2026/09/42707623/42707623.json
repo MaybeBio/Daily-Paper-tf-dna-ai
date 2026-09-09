@@ -1,0 +1,253 @@
+{
+  "identity": {
+    "pmid": "42707623",
+    "doi": "10.1002/fsn3.72326",
+    "title": "Integrative Transcriptomic Analysis and Functional Validation Implicate GPT2 in Glycolytic Regulation in Polycystic Ovary Syndrome."
+  },
+  "content": {
+    "abstract": "Polycystic ovary syndrome (PCOS) is a heterogeneous endocrine-metabolic disorder characterized by profound disturbances in energy metabolism, yet the molecular mechanisms underlying glycolytic dysfunction remain incompletely understood. Given the essential role of glycolysis in ovarian function and endocrine homeostasis, this study aimed to systematically characterize glycolysis-associated molecular alterations in PCOS and identify key metabolic regulators involved in disease pathogenesis. Transcriptomic datasets GSE34526 and GSE6798 were integrated to identify glycolysis-related differentially expressed genes (GRDEGs). Functional enrichment, immune infiltration, and regulatory network analyzes were performed to characterize the biological features associated with glycolytic dysregulation. Machine learning algorithms, including support vector machine, random forest, logistic regression, and LASSO regression, were applied to prioritize key glycolysis-associated regulators for downstream biological characterization. The functional role of GPT2 was further examined in KGN granulosa cells under PCOS-like conditions. Twelve GRDEGs were consistently dysregulated in PCOS and were predominantly enriched in glycolytic metabolism, ATP generation, and transcriptional regulatory processes. Integrative machine learning analyzes prioritized four key glycolysis-related genes (AMPD3, C5AR1, MLXIPL, and PDLIM7) associated with glycolytic remodeling in PCOS. Immune infiltration analyzes further revealed coordinated metabolic and immune remodeling, while regulatory network analyzes highlighted extensive interactions between hub genes and miRNA-, transcription factor-, and RNA-binding protein-mediated regulatory networks. Functional experiments demonstrated that GPT2 knockdown impaired glycolytic activity, reduced ATP production and aromatase activity, disrupted steroid hormone homeostasis, and exacerbated metabolic dysfunction in granulosa cells, whereas pharmacological activation of glycolysis partially reversed these alterations. Our findings provide a comprehensive characterization of glycolytic dysregulation in PCOS and identify GPT2 as a potential metabolic regulator linking altered energy metabolism to ovarian dysfunction. These findings provide a molecular framework for future studies investigating metabolism- and nutrition-based intervention strategies in PCOS.",
+    "keywords": [
+      "GPT2",
+      "energy metabolism",
+      "glycolysis",
+      "polycystic ovary syndrome"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xi, Meili",
+        "Luo, Rongkui",
+        "Zhang, Jiarong",
+        "Huang, Weihong",
+        "Ma, Li",
+        "Sun, Yunyan",
+        "Ren, Aimin"
+      ],
+      "short_names": [
+        "Xi M",
+        "Luo R",
+        "Zhang J",
+        "Huang W",
+        "Ma L",
+        "Sun Y",
+        "Ren A"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7021-1901",
+        "ORCID: 0009-0001-5644-9478"
+      ],
+      "affiliations": [
+        "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China.",
+        "Department of Obstetrics and Gynecology, Shanghai Medical College Fudan University Shanghai China.",
+        "Department of Pathology Zhongshan Hospital, Fudan University Shanghai China.",
+        "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China.",
+        "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China.",
+        "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China.",
+        "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China.",
+        "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xi, Meili",
+        "short_name": "Xi M",
+        "identifiers": [
+          "0000-0001-7021-1901"
+        ],
+        "affiliations": [
+          "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China.",
+          "Department of Obstetrics and Gynecology, Shanghai Medical College Fudan University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Luo, Rongkui",
+        "short_name": "Luo R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology Zhongshan Hospital, Fudan University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jiarong",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Huang, Weihong",
+        "short_name": "Huang W",
+        "identifiers": [],
+        "affiliations": [
+          "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Ma, Li",
+        "short_name": "Ma L",
+        "identifiers": [],
+        "affiliations": [
+          "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yunyan",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Ren, Aimin",
+        "short_name": "Ren A",
+        "identifiers": [
+          "0009-0001-5644-9478"
+        ],
+        "affiliations": [
+          "Obstetrics and Gynecology Zhongshan Hospital, Fudan University Shanghai China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food science & nutrition"
+    ],
+    "journal_abbrev": [
+      "Food Sci Nutr"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42707623",
+      "41019094",
+      "41847139",
+      "41006883",
+      "41214666",
+      "41595448",
+      "41721342",
+      "41747841",
+      "41652498",
+      "41731522",
+      "41146316",
+      "40715316",
+      "41847445",
+      "42232754",
+      "42123445",
+      "42265520",
+      "42326009",
+      "39048886",
+      "41462288",
+      "40884580",
+      "41703156",
+      "41393260",
+      "41192647",
+      "40781325",
+      "30092830",
+      "42371343",
+      "42482193",
+      "39754246",
+      "40555906",
+      "40486908",
+      "40546660",
+      "39396400",
+      "40860051",
+      "41719982",
+      "39313041",
+      "42051446",
+      "40594186",
+      "40446578",
+      "42250792",
+      "35534864",
+      "40499496",
+      "36523600",
+      "40813744",
+      "39448886",
+      "42398205",
+      "38184636",
+      "42075118",
+      "42233387",
+      "42546664",
+      "42628813",
+      "39281527",
+      "42292364",
+      "42348093",
+      "42642681",
+      "42475469",
+      "41985712",
+      "39538292",
+      "40927774",
+      "41895505",
+      "36653385",
+      "42034028",
+      "41088367",
+      "37537636",
+      "42363518",
+      "42109727",
+      "38390208",
+      "40199656",
+      "41065836",
+      "42616073",
+      "41978723",
+      "39421991",
+      "41611834",
+      "39773546",
+      "42338983",
+      "41268541",
+      "42565562",
+      "36223608",
+      "42302377",
+      "41664201",
+      "41826854",
+      "40170064",
+      "40083347",
+      "42600058",
+      "35370991",
+      "39717045",
+      "36593322",
+      "41114485",
+      "39398336",
+      "40764361",
+      "41792142",
+      "40795623",
+      "42288165",
+      "42631563",
+      "41578404",
+      "42486346",
+      "39143634",
+      "37261354",
+      "41716790",
+      "41053392",
+      "35032287"
+    ],
+    "review": [
+      "42707623",
+      "40546660",
+      "42051446"
+    ],
+    "pmc": [
+      "13547747"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

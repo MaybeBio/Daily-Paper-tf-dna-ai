@@ -1,0 +1,385 @@
+{
+  "identity": {
+    "pmid": "42689976",
+    "doi": "10.31083/FBL53391",
+    "title": "Targeting the HIF-1alpha/IL-1beta Axis in Macrophages With the Novel Inhibitor LJ-6 Mitigates Adipose Tissue Inflammation in Cellular and Ex Vivo Models."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Sustained activation of adipose tissue macrophages (ATMs) drives metabolic dysfunction in obesity, with the hypoxia-inducible factor-1alpha (HIF-1alpha)/interleukin-1beta (IL-1beta) axis being a core signaling pathway. However, specific strategies targeting this axis are still lacking. Here, we aimed to identify novel compounds capable of disrupting this pathway. METHODS: We screened a natural product library for inhibitors of IL-1beta expression in macrophages. The hit compound LJ-6 was then evaluated in lipopolysaccharide (LPS)-stimulated bone marrow-derived macrophages (BMDMs) and in a physiologically relevant model using conditioned medium from obese adipose tissue. Mechanism of action was investigated via Western blotting, molecular docking, dynamics simulations, and hypoxia-response element (HRE)-luciferase reporter assays with site-directed mutagenesis. RESULTS: LJ-6 was identified as a potent inhibitor of IL-1beta. It dose-dependently suppressed IL-1beta in both LPS-induced and obese adipose tissue-conditioned medium-induced macrophage inflammation. Mechanistically, LJ-6 reduced HIF-1alpha protein stability. Molecular docking and mutagenesis studies supported an interaction involving the Tyr92 and His197 residues of HIF-1alpha, and suggested that this interaction is critical for its inhibitory function on the HIF-1alpha/IL-1beta axis. CONCLUSIONS: This study identifies the natural compound LJ-6 as a novel direct inhibitor of HIF-1alpha. By binding to HIF-1alpha, LJ-6 effectively suppresses the HIF-1alpha/IL-1beta axis in macrophages, thereby reducing IL-1beta-driven inflammatory responses in cellular and ex vivo models of obesity-associated adipose tissue inflammation, and thus represents a promising lead compound for therapeutic development.",
+    "keywords": [
+      "LJ-6",
+      "adipose tissue",
+      "hypoxia-inducible factor 1, alpha subunit",
+      "inflammation",
+      "interleukin-1beta",
+      "macrophages"
+    ],
+    "mesh_terms": [
+      "*Interleukin-1beta/metabolism/antagonists & inhibitors",
+      "Animals",
+      "*Hypoxia-Inducible Factor 1, alpha Subunit/metabolism/antagonists & inhibitors",
+      "*Macrophages/drug effects/metabolism",
+      "Mice",
+      "*Adipose Tissue/drug effects/metabolism/pathology",
+      "*Inflammation/metabolism/drug therapy/pathology",
+      "Obesity/metabolism/drug therapy",
+      "Signal Transduction/drug effects",
+      "Molecular Docking Simulation",
+      "Humans",
+      "Lipopolysaccharides",
+      "Mice, Inbred C57BL",
+      "Male"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Min",
+        "Liu, Mengyuan",
+        "Chu, Anran",
+        "Deng, Sisi",
+        "Gao, Jingsong",
+        "Li, Shasha",
+        "Jiang, Dongsheng",
+        "Shen, Yuqing",
+        "Wang, Xinyue",
+        "Lei, Saifei",
+        "Wu, Rui",
+        "Jiang, Haowen",
+        "Li, Jia",
+        "Li, Jinlong",
+        "Wang, Xinyi",
+        "Peng, Chang"
+      ],
+      "short_names": [
+        "Gao M",
+        "Liu M",
+        "Chu A",
+        "Deng S",
+        "Gao J",
+        "Li S",
+        "Jiang D",
+        "Shen Y",
+        "Wang X",
+        "Lei S",
+        "Wu R",
+        "Jiang H",
+        "Li J",
+        "Li J",
+        "Wang X",
+        "Peng C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China.",
+        "State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203 Shanghai, China.",
+        "University of Chinese Academy of Sciences, 100049 Beijing, China.",
+        "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China.",
+        "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China.",
+        "College of Integrated Traditional Chinese and Western Medicine, Hunan University of Chinese Medicine, 410128 Changsha, Hunan, China.",
+        "Key Laboratory of Hunan Province for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Traditional Chinese and Western Medicine, Hunan University of Chinese Medicine, 410128 Changsha, Hunan, China.",
+        "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China.",
+        "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China.",
+        "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China.",
+        "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China.",
+        "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China.",
+        "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China.",
+        "University of Chinese Academy of Sciences, 100049 Beijing, China.",
+        "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China.",
+        "University of Chinese Academy of Sciences, 100049 Beijing, China.",
+        "State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203 Shanghai, China.",
+        "University of Chinese Academy of Sciences, 100049 Beijing, China.",
+        "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China.",
+        "State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203 Shanghai, China.",
+        "University of Chinese Academy of Sciences, 100049 Beijing, China.",
+        "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China.",
+        "State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203 Shanghai, China.",
+        "University of Chinese Academy of Sciences, 100049 Beijing, China.",
+        "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Min",
+        "short_name": "Gao M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China.",
+          "State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203 Shanghai, China.",
+          "University of Chinese Academy of Sciences, 100049 Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Mengyuan",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Chu, Anran",
+        "short_name": "Chu A",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Sisi",
+        "short_name": "Deng S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Integrated Traditional Chinese and Western Medicine, Hunan University of Chinese Medicine, 410128 Changsha, Hunan, China.",
+          "Key Laboratory of Hunan Province for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Traditional Chinese and Western Medicine, Hunan University of Chinese Medicine, 410128 Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jingsong",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shasha",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Dongsheng",
+        "short_name": "Jiang D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Yuqing",
+        "short_name": "Shen Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xinyue",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Lei, Saifei",
+        "short_name": "Lei S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China.",
+          "University of Chinese Academy of Sciences, 100049 Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Rui",
+        "short_name": "Wu R",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China.",
+          "University of Chinese Academy of Sciences, 100049 Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Haowen",
+        "short_name": "Jiang H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203 Shanghai, China.",
+          "University of Chinese Academy of Sciences, 100049 Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jia",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China.",
+          "State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203 Shanghai, China.",
+          "University of Chinese Academy of Sciences, 100049 Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jinlong",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Nantong University, 226001 Nantong, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xinyi",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203 Shanghai, China.",
+          "University of Chinese Academy of Sciences, 100049 Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Chang",
+        "short_name": "Peng C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Glyco-drug Research of Zhejiang Province, School of Pharmaceutical Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 310024 Hangzhou, Zhejiang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioscience (Landmark edition)"
+    ],
+    "journal_abbrev": [
+      "Front Biosci (Landmark Ed)"
+    ],
+    "pub_date": "2026 Aug 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689976",
+      "32221369",
+      "25537494",
+      "29333574",
+      "40195021",
+      "30710049",
+      "30813930",
+      "23494472",
+      "40587235",
+      "28238855",
+      "37584647",
+      "39041136",
+      "42534616",
+      "26578520",
+      "30071127",
+      "42372812",
+      "32154744",
+      "41903585",
+      "33028985",
+      "41013704",
+      "39287855",
+      "29171040",
+      "34789920",
+      "41038145",
+      "41687943",
+      "30828970",
+      "39006190",
+      "39054710",
+      "37257708",
+      "40172736",
+      "26714835",
+      "27625023",
+      "27059094",
+      "42112343",
+      "41660626",
+      "41857767",
+      "41183969",
+      "42200246",
+      "39287857",
+      "40456494",
+      "32778144",
+      "25565206",
+      "42134621",
+      "39632389",
+      "42259237",
+      "41800106",
+      "28585206",
+      "31055848",
+      "41747790",
+      "40729891",
+      "26586659",
+      "40591075",
+      "39096131",
+      "41653621",
+      "42641155",
+      "26556104",
+      "41866771",
+      "25823386",
+      "30840308",
+      "40524292",
+      "40812222",
+      "31462074",
+      "39929097",
+      "38762213",
+      "42074103",
+      "41780617",
+      "34929172",
+      "20023228",
+      "42071169",
+      "31255694",
+      "38863009",
+      "22249478",
+      "39433361",
+      "27016382",
+      "41375167",
+      "37223093",
+      "41311552",
+      "23341960",
+      "39267003",
+      "31996026",
+      "28415686",
+      "22637723",
+      "30102772",
+      "30083155",
+      "32627897",
+      "41544903",
+      "32130427",
+      "26388235",
+      "21515850",
+      "39360990",
+      "39642710",
+      "30185770",
+      "27999195",
+      "23603149",
+      "12958148",
+      "40110637",
+      "41485290",
+      "41395663",
+      "23935964",
+      "40580693"
+    ],
+    "review": [
+      "42689976",
+      "39287855",
+      "30828970",
+      "39287857"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.imrpress.com/journal/FBL/31/8/10.31083/FBL53391",
+        "provider": "IMR Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

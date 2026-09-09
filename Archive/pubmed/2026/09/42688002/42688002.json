@@ -1,0 +1,289 @@
+{
+  "identity": {
+    "pmid": "42688002",
+    "doi": "10.3389/fcimb.2026.1860417",
+    "title": "Cutaneous papillomaviruses infection rewires fatty-acid metabolism."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Cutaneous warts are common HPV-induced lesions with limited treatments for recalcitrant cases. Fatty-acid metabolism (FAM) maintains epidermal homeostasis, but whether papillomavirus infection actively suppresses FAM programs and whether restoring FAM-related regulators can modulate keratinocyte dysfunction remain unclear. METHODS: We established a murine MmuPV1 wart model and performed bulk RNA-seq. FAM-related DEGs were identified via network analysis and machine learning. Immune infiltration was assessed by CIBERSORT. In vitro validation used HPV16 E6/E7-transfected HaCaT cells. RESULTS: Transcriptome analysis revealed significant suppression of FAM pathways in wart lesions. Four key FAM-related differentially expressed genes (Nr1h3, Dgat1, Scd1, and Fabp4) were identified from RNA-seq-based bioinformatic analyses and further supported by in vitro E6/E7-related expression assays. In vitro, HPV16 E6/E7 expression reduced these genes in HaCaT keratinocytes. NR1H3 overexpression partially attenuated E6/E7-induced proliferation and differentiation abnormalities, lipid-droplet accumulation, and IL-6/CCL2 secretion, with partial restoration of ABCA1 expression and inhibition of NF-kB activation. CONCLUSIONS: Papillomavirus infection is associated with coordinated suppression of FAM-related programs. NR1H3, Dgat1, Scd1, and Fabp4 represent candidate metabolic regulatory nodes; their therapeutic relevance requires further in vivo validation.",
+    "keywords": [
+      "cutaneous warts",
+      "fatty-acid metabolism",
+      "immune cell infiltration",
+      "papillomavirus infection",
+      "transcriptome analysis"
+    ],
+    "mesh_terms": [
+      "*Fatty Acids/metabolism",
+      "Animals",
+      "Humans",
+      "*Papillomavirus Infections/metabolism/virology",
+      "Keratinocytes/virology/metabolism",
+      "Mice",
+      "Oncogene Proteins, Viral/metabolism/genetics",
+      "Gene Expression Profiling",
+      "Liver X Receptors/genetics/metabolism",
+      "Diacylglycerol O-Acyltransferase/genetics/metabolism",
+      "Disease Models, Animal",
+      "*Human Papillomavirus Viruses",
+      "Stearoyl-CoA Desaturase/genetics/metabolism",
+      "Repressor Proteins/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Xiaoyan",
+        "Li, Dan",
+        "Cai, Fangzhou",
+        "Li, Yan",
+        "Wang, Wei",
+        "Liao, Junhua",
+        "Shan, Shijun"
+      ],
+      "short_names": [
+        "Liu X",
+        "Li D",
+        "Cai F",
+        "Li Y",
+        "Wang W",
+        "Liao J",
+        "Shan S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Dermatology, Xiang'an Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian, China.",
+        "National Center of Technology Innovation for animal model. State Key Laboratory of Respiratory Health and Multimorbidity. Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education. NHC Key Laboratory of Comparative Medicine. Institute of Laboratory Animal Science, CAMS & PUMC, Beijing, China.",
+        "National Center of Technology Innovation for animal model. State Key Laboratory of Respiratory Health and Multimorbidity. Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education. NHC Key Laboratory of Comparative Medicine. Institute of Laboratory Animal Science, CAMS & PUMC, Beijing, China.",
+        "Department of Rheumatology and Clinical Immunology, the First Affiliated Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian, China.",
+        "National Center of Technology Innovation for animal model. State Key Laboratory of Respiratory Health and Multimorbidity. Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education. NHC Key Laboratory of Comparative Medicine. Institute of Laboratory Animal Science, CAMS & PUMC, Beijing, China.",
+        "Universite Paris Dauphine, Paris, France.",
+        "Department of Dermatology, Xiang'an Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian, China.",
+        "College of Mathematical Medicine, Zhejiang Normal University, Jinhua, Zhejiang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Xiaoyan",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xiang'an Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Li, Dan",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "National Center of Technology Innovation for animal model. State Key Laboratory of Respiratory Health and Multimorbidity. Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education. NHC Key Laboratory of Comparative Medicine. Institute of Laboratory Animal Science, CAMS & PUMC, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Fangzhou",
+        "short_name": "Cai F",
+        "identifiers": [],
+        "affiliations": [
+          "National Center of Technology Innovation for animal model. State Key Laboratory of Respiratory Health and Multimorbidity. Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education. NHC Key Laboratory of Comparative Medicine. Institute of Laboratory Animal Science, CAMS & PUMC, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yan",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Clinical Immunology, the First Affiliated Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wei",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "National Center of Technology Innovation for animal model. State Key Laboratory of Respiratory Health and Multimorbidity. Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education. NHC Key Laboratory of Comparative Medicine. Institute of Laboratory Animal Science, CAMS & PUMC, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Liao, Junhua",
+        "short_name": "Liao J",
+        "identifiers": [],
+        "affiliations": [
+          "Universite Paris Dauphine, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Shan, Shijun",
+        "short_name": "Shan S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xiang'an Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian, China.",
+          "College of Mathematical Medicine, Zhejiang Normal University, Jinhua, Zhejiang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cellular and infection microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Infect Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 12:09",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42688002",
+      "39411320",
+      "41165329",
+      "34465025",
+      "41507992",
+      "34098875",
+      "35019722",
+      "39572025",
+      "31748387",
+      "41190800",
+      "31396215",
+      "34669519",
+      "36016386",
+      "25488293",
+      "30518656",
+      "9395236",
+      "30381489",
+      "30728257",
+      "28049151",
+      "35002506",
+      "42079630",
+      "25717103",
+      "28056059",
+      "30918060",
+      "42378452",
+      "34169395",
+      "22333115",
+      "30445982",
+      "42626072",
+      "33779957",
+      "37516391",
+      "42384270",
+      "42301768",
+      "23497302",
+      "35665406",
+      "32298665",
+      "39095779",
+      "30696738",
+      "20943973",
+      "21205295",
+      "33468698",
+      "42693064",
+      "24314651",
+      "19398117",
+      "7933087",
+      "10945644",
+      "25633640",
+      "26508030",
+      "11287578",
+      "41088306",
+      "32669468",
+      "28107544",
+      "42347260",
+      "29494681",
+      "32488868",
+      "27859058",
+      "38370412",
+      "38241590",
+      "31915229",
+      "40829900",
+      "34112111",
+      "19276448",
+      "26093522",
+      "16438903",
+      "16038965",
+      "25295350",
+      "25070710",
+      "28415759",
+      "29546304",
+      "41235661",
+      "40468102",
+      "37379354",
+      "19386711",
+      "28260046",
+      "29021401",
+      "23523766",
+      "34452350",
+      "11325860",
+      "22662279",
+      "18438663",
+      "37905801",
+      "27845045",
+      "41419149",
+      "27602489",
+      "22655088",
+      "25304375",
+      "24577089",
+      "19174559",
+      "24752734",
+      "18060502",
+      "18004565",
+      "26497405",
+      "42200671",
+      "20105547",
+      "27818285",
+      "22056554",
+      "24983759",
+      "1651408",
+      "9420282",
+      "42647117"
+    ],
+    "review": [
+      "42688002"
+    ],
+    "pmc": [
+      "13533699"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/hpv.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "HPV"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42688002/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-FABP4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcimb.2026.1860417",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

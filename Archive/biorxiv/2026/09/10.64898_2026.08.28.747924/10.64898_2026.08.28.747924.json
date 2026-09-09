@@ -1,0 +1,174 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.28.747924",
+  "title": "ABF2 and bZIP2 remodel root system architecture under combined phosphate deficiency and salinity in Arabidopsis",
+  "doi": "10.64898/2026.08.28.747924",
+  "abstract": "Climate change is degrading arable soils and imposing chronic abiotic stress on plants. As the primary interface with the soil, the root system is especially vulnerable, and plants respond by remodelling their root system architecture (RSA). Most studies have examined single stresses in isolation and so fail to capture the multifactorial environments in which plants actually grow. Rising salinity impairs development by compromising cellular integrity and triggering cytotoxic responses, and it simultaneously restricts uptake of phosphorus, a macronutrient required for nucleic acid and protein synthesis. Combined stresses can amplify these effects, yet how plants adjust RSA to cope with them remains poorly understood. Here we performed a meta-analysis of public transcriptomic datasets for salinity and phosphate deficiency in Arabidopsis thaliana. Integrating these data with protein-protein interaction modelling and DNA-binding (DAP-seq) analyses, we identified two basic leucine zipper transcription factors, ABF2 and bZIP2, as candidate integrators of the combined-stress response. Characterization of abf2 , bzip2 and double mutants revealed RSA alterations and allowed us to identify downstream targets of each factor. Our findings offer new insight into root adaptation under combined stress and represent one of the few comprehensive analyses of how multiple abiotic stressors jointly shape root development and plant fitness. <h4>Highlight</h4> Data mining of public transcriptomes, network inference and AlphaFold-Multimer screening identify ABF2 and bZIP2 as interacting regulators of root remodelling under combined stress.",
+  "authors": [
+    "Salinas-Grenet H",
+    "Johnson N",
+    "Ibeas M",
+    "Moyano T",
+    "Pérez-Díaz J",
+    "Achá-Escobar R",
+    "Ahumada-Langer L",
+    "Kim A",
+    "Berdion Gabarain V",
+    "Vásquez-Marambio G",
+    "Perrimon N",
+    "Álvarez J",
+    "Estevez J"
+  ],
+  "published_date": "2026-09-03",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.28.747924",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.28.747924.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1312698",
+    "raw_record": {
+      "id": "PPR1312698",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.28.747924",
+      "title": "ABF2 and bZIP2 remodel root system architecture under combined phosphate deficiency and salinity in  <i>Arabidopsis</i>",
+      "authorString": "Salinas-Grenet H, Johnson N, Ibeas M, Moyano T, Pérez-Díaz J, Achá-Escobar R, Ahumada-Langer L, Kim A, Berdion Gabarain V, Vásquez-Marambio G, Perrimon N, Álvarez J, Estevez J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Salinas-Grenet H",
+            "lastName": "Salinas-Grenet",
+            "initials": "H"
+          },
+          {
+            "fullName": "Johnson N",
+            "firstName": "N.R.",
+            "lastName": "Johnson",
+            "initials": "N"
+          },
+          {
+            "fullName": "Ibeas M",
+            "firstName": "M.A.",
+            "lastName": "Ibeas",
+            "initials": "M"
+          },
+          {
+            "fullName": "Moyano T",
+            "firstName": "T.C.",
+            "lastName": "Moyano",
+            "initials": "T"
+          },
+          {
+            "fullName": "Pérez-Díaz J",
+            "lastName": "Pérez-Díaz",
+            "initials": "J"
+          },
+          {
+            "fullName": "Achá-Escobar R",
+            "lastName": "Achá-Escobar",
+            "initials": "R"
+          },
+          {
+            "fullName": "Ahumada-Langer L",
+            "lastName": "Ahumada-Langer",
+            "initials": "L"
+          },
+          {
+            "fullName": "Kim A",
+            "firstName": "AR",
+            "lastName": "Kim",
+            "initials": "A"
+          },
+          {
+            "fullName": "Berdion Gabarain V",
+            "lastName": "Berdion Gabarain",
+            "initials": "V",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9597-6759"
+            }
+          },
+          {
+            "fullName": "Vásquez-Marambio G",
+            "lastName": "Vásquez-Marambio",
+            "initials": "G"
+          },
+          {
+            "fullName": "Perrimon N",
+            "lastName": "Perrimon",
+            "initials": "N"
+          },
+          {
+            "fullName": "Álvarez J",
+            "firstName": "J.M.",
+            "lastName": "Álvarez",
+            "initials": "J"
+          },
+          {
+            "fullName": "Estevez J",
+            "firstName": "J.M.",
+            "lastName": "Estevez",
+            "initials": "J"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9597-6759"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Climate change is degrading arable soils and imposing chronic abiotic stress on plants. As the primary interface with the soil, the root system is especially vulnerable, and plants respond by remodelling their root system architecture (RSA). Most studies have examined single stresses in isolation and so fail to capture the multifactorial environments in which plants actually grow. Rising salinity impairs development by compromising cellular integrity and triggering cytotoxic responses, and it simultaneously restricts uptake of phosphorus, a macronutrient required for nucleic acid and protein synthesis. Combined stresses can amplify these effects, yet how plants adjust RSA to cope with them remains poorly understood. Here we performed a meta-analysis of public transcriptomic datasets for salinity and phosphate deficiency in Arabidopsis thaliana. Integrating these data with protein-protein interaction modelling and DNA-binding (DAP-seq) analyses, we identified two basic leucine zipper transcription factors, ABF2 and bZIP2, as candidate integrators of the combined-stress response. Characterization of  abf2 ,  bzip2 and double mutants revealed RSA alterations and allowed us to identify downstream targets of each factor. Our findings offer new insight into root adaptation under combined stress and represent one of the few comprehensive analyses of how multiple abiotic stressors jointly shape root development and plant fitness.  <h4>Highlight</h4>  Data mining of public transcriptomes, network inference and AlphaFold-Multimer screening identify ABF2 and bZIP2 as interacting regulators of root remodelling under combined stress.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.28.747924"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-05",
+      "firstIndexDate": "2026-09-05",
+      "firstPublicationDate": "2026-09-03"
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42703251",
+    "doi": "10.1007/s40203-026-00679-4",
+    "title": "Structure-based design of peptide ligands targeting transcription in Helicobacter pylori."
+  },
+  "content": {
+    "abstract": "Helicobacter pylori colonize the gastric epithelial cells and poses a strong risk factor for gastric complications like chronic gastritis, ulcer diseases, and gastric cancer. Despite the complex treatment regimens, antibiotic resistance is the primary cause of eradication failure and calls for alternate treatment strategy. This study aims to design peptide ligands that specifically target protein-protein interactions in the transcription machinery of H. pylori. The dissociable sigma-factor known as SigA, which binds with the RNA polymerase (RNAP) core beta-prime subunit (RpoC). This interacting region has been targeted to design specific peptide ligands using structure-based computational methods. The lack of experimental structures necessitated generating structural models for Hp RpoC, Hp SigA and Hp RpoC-SigA complex structure. The complex was built based on hybrid template-based modeling (TBM) techniques. The RpoC-SigA interface has been exploited to design five suitable peptides-three peptides from H. pylori SigA (P1, P2, and P3) and two peptides from the SigA-interacting regions of H. pylori RpoC (P4 and P5). Investigation of the binding affinity of all five peptides suggests that P1, P3, and P5 exhibit significant affinity, indicating a potential hindrance to RNAP interaction with transcription factors prior to holoenzyme formation. These peptides may serve as promising inhibitors against H. pylori infection. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40203-026-00679-4.",
+    "keywords": [
+      "Antimicrobial peptides (AMPs)",
+      "Molecular dynamics",
+      "Protein-protein interface",
+      "RNA polymerase",
+      "Sigma factor",
+      "Template based modelling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gracia, Judith",
+        "Nagarajan, Balaji",
+        "Manikam, Vyshnavi",
+        "Ragunathan, Preethi"
+      ],
+      "short_names": [
+        "Gracia J",
+        "Nagarajan B",
+        "Manikam V",
+        "Ragunathan P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center of Advanced Studies in Crystallography and Biophysics, University of Madras, Chennai, Tamil Nadu India. ROR: https://ror.org/04jmt9361. GRID: grid.413015.2. ISNI: 0000 0004 0505 215X",
+        "Institute for Structural Biology, Drug Discovery and Development, 800 E. Leigh Street, Suite 212, Richmond, VA 23219 USA.",
+        "Department of Medicinal Chemistry, University in Richmond, 800 E. Leigh Street, Suite 205, Richmond, VA 23298 USA. ROR: https://ror.org/03y71xh61. GRID: grid.267065.0. ISNI: 0000 0000 9609 8938",
+        "Center of Advanced Studies in Crystallography and Biophysics, University of Madras, Chennai, Tamil Nadu India. ROR: https://ror.org/04jmt9361. GRID: grid.413015.2. ISNI: 0000 0004 0505 215X",
+        "Center of Advanced Studies in Crystallography and Biophysics, University of Madras, Chennai, Tamil Nadu India. ROR: https://ror.org/04jmt9361. GRID: grid.413015.2. ISNI: 0000 0004 0505 215X"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gracia, Judith",
+        "short_name": "Gracia J",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Advanced Studies in Crystallography and Biophysics, University of Madras, Chennai, Tamil Nadu India."
+        ]
+      },
+      {
+        "full_name": "Nagarajan, Balaji",
+        "short_name": "Nagarajan B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Structural Biology, Drug Discovery and Development, 800 E. Leigh Street, Suite 212, Richmond, VA 23219 USA.",
+          "Department of Medicinal Chemistry, University in Richmond, 800 E. Leigh Street, Suite 205, Richmond, VA 23298 USA."
+        ]
+      },
+      {
+        "full_name": "Manikam, Vyshnavi",
+        "short_name": "Manikam V",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Advanced Studies in Crystallography and Biophysics, University of Madras, Chennai, Tamil Nadu India."
+        ]
+      },
+      {
+        "full_name": "Ragunathan, Preethi",
+        "short_name": "Ragunathan P",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Advanced Studies in Crystallography and Biophysics, University of Madras, Chennai, Tamil Nadu India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "In silico pharmacology"
+    ],
+    "journal_abbrev": [
+      "In Silico Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 05:35",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42703251",
+      "31358613",
+      "41931732",
+      "38533069",
+      "23330640",
+      "39816929",
+      "41394553",
+      "40553920",
+      "41846446",
+      "41900101",
+      "24067461",
+      "40157455",
+      "29904244",
+      "11218236",
+      "39493576",
+      "40596880",
+      "40264290",
+      "42475469",
+      "38274095",
+      "1341068",
+      "28811347",
+      "15309509",
+      "33786292",
+      "40348207",
+      "27499105",
+      "25124036",
+      "38376163",
+      "28194462",
+      "38693868",
+      "35951774",
+      "31255726",
+      "25846576",
+      "29273450",
+      "27216839",
+      "33368895",
+      "34454316",
+      "19452583",
+      "39988708",
+      "41905430",
+      "27196595",
+      "41280492",
+      "28879170",
+      "40622083",
+      "41028278",
+      "35293845",
+      "38419635",
+      "15187157",
+      "37587906",
+      "34576300",
+      "11489132",
+      "18938748",
+      "36705412",
+      "37298385",
+      "23876852",
+      "28473630",
+      "33014990",
+      "37740192",
+      "38835850",
+      "42008939",
+      "12171956",
+      "32790220",
+      "25053783",
+      "39741515",
+      "34363898",
+      "12645788",
+      "24778119",
+      "15904475",
+      "40912906",
+      "36613542",
+      "41759624",
+      "36620343",
+      "9541490",
+      "22565637",
+      "39637960",
+      "12925139",
+      "38388872",
+      "32132302",
+      "14724813",
+      "32722876",
+      "41262253",
+      "42013568",
+      "25001211",
+      "1307646",
+      "34250014",
+      "22885668",
+      "19692643",
+      "40507876",
+      "42614336",
+      "10235197",
+      "16127019",
+      "37748019",
+      "11559643",
+      "30612517",
+      "38418852",
+      "25901741",
+      "38318189",
+      "11192319",
+      "28839434",
+      "40945526",
+      "21873821"
+    ],
+    "review": [
+      "42703251",
+      "41931732",
+      "29904244",
+      "1341068",
+      "40348207",
+      "35951774",
+      "27216839",
+      "33368895",
+      "41905430",
+      "37298385",
+      "23876852",
+      "39741515",
+      "40912906",
+      "36613542",
+      "22565637",
+      "38388872",
+      "25001211",
+      "1307646"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s40203-026-00679-4",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-DLC1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-671",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42710050",
+    "doi": "10.1093/plcell/koag263",
+    "title": "Regulatory Network Unveils the Molecular Architecture Governing Seed Vigor in Watermelon (Citrullus lanatus)."
+  },
+  "content": {
+    "abstract": "Seed vigor, a determinant of agricultural productivity, diminishes during ageing but can be restored through priming. We integrated multi-omics approaches to dissect molecular mechanisms governing watermelon seed vigor under controlled deterioration and priming. Controlled deterioration (CD) progressively impaired germination speed (t50) and uniformity (AUC) before reducing maximum germination (Gmax), whereas priming reversed these effects even under ageing conditions. Transcriptome analyses revealed that ageing upregulated oxidative-stress genes (e.g., cytochrome c oxidase) and suppressed translation machinery. Priming activated stress-response pathways and ribosomal proteins through DOF/ERF-mediated transcriptional reprogramming via cis-element recognition, and molecular docking and yeast one-hybrid assays confirmed this interaction. Two biomarkers, Cla97C04G070560 (cytochrome c oxidase) and Cla97C03G062270 (ribosomal protein), were identified as quantitative predictors of germination decline. Machine-learning-based proteomic models and a regulatory network, SeedWatermelonNet (SWN), were constructed. These analyses uncovered hub genes (e.g., OHCU_decarbox, HSPs, LIM, NADPH-dependent aldehyde reductase 1, RPL32) coordinating uric acid metabolism, stress responses, energy metabolism, and translation. Experimental validation confirmed the regulatory roles of these candidates, including physical interactions mediating seed-vigor transduction cascades and their predicted function as direct regulators of seed vigor via SWN. Maternal alleles dominated transcriptional regulation of stored mRNAs, with ageing reducing maternal-specific gene expression. Promoter SNPs in these genes implicated BPC and DOF transcription factors in maternal bias. These findings establish molecular thresholds for vigor loss, validate priming as a resilience strategy, and provide biomarkers for seed quality assessment. Integrating transcriptomic, proteomic, and allele-specific insights advances precision breeding and storage practices, offering targets to enhance seed resilience against climate-driven agricultural challenges.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Xinyi",
+        "Cheng, Mengxue",
+        "Li, Xuyang",
+        "Zhang, Chunyu",
+        "Zhou, Yingying",
+        "Bai, Bing"
+      ],
+      "short_names": [
+        "Wu X",
+        "Cheng M",
+        "Li X",
+        "Zhang C",
+        "Zhou Y",
+        "Bai B"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-7694-7764",
+        "ORCID: 0000-0003-4432-8019"
+      ],
+      "affiliations": [
+        "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs  P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101, China.",
+        "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs  P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101, China.",
+        "Department of Chemistry, National university of Singapore, Science Drive 2, 117544, Singapore.",
+        "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs  P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101, China.",
+        "Institute of Crop Science, Zhejiang Key Laboratory of Crop Germplasm, Zhejiang University, Hangzhou 310058, China.",
+        "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs  P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101, China.",
+        "College of Advanced Agricultural Sciences, Zhejiang Wanli University, Ningbo 315101, P R China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Xinyi",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs  P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Mengxue",
+        "short_name": "Cheng M",
+        "identifiers": [
+          "0009-0005-7694-7764"
+        ],
+        "affiliations": [
+          "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs  P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuyang",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, National university of Singapore, Science Drive 2, 117544, Singapore."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chunyu",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs  P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yingying",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Crop Science, Zhejiang Key Laboratory of Crop Germplasm, Zhejiang University, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Bing",
+        "short_name": "Bai B",
+        "identifiers": [
+          "0000-0003-4432-8019"
+        ],
+        "affiliations": [
+          "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs  P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101, China.",
+          "College of Advanced Agricultural Sciences, Zhejiang Wanli University, Ningbo 315101, P R China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Plant cell"
+    ],
+    "journal_abbrev": [
+      "Plant Cell"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 17:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42710050",
+      "39919063",
+      "27632285",
+      "42301476",
+      "42115945",
+      "41714958",
+      "41801512",
+      "41225779",
+      "29331924",
+      "42333093",
+      "42289463",
+      "39145574",
+      "42372828",
+      "40898053",
+      "39403620",
+      "40171893",
+      "41630199",
+      "41457369",
+      "42475469",
+      "41665764",
+      "42054392",
+      "31092208",
+      "41591671",
+      "35217598",
+      "34335643",
+      "42588879",
+      "40610855",
+      "41166523",
+      "41754267",
+      "40604443",
+      "33281848",
+      "24651614",
+      "40990345",
+      "32344775",
+      "21668981",
+      "42589674",
+      "42123445",
+      "41419818",
+      "39492760",
+      "42558367",
+      "41683668",
+      "30635606",
+      "38390302",
+      "34116632",
+      "39725006",
+      "41157679",
+      "41104800",
+      "38203695",
+      "42565562",
+      "42510719",
+      "42024670",
+      "34531883",
+      "41988416",
+      "41455431",
+      "38789698",
+      "40983805",
+      "36706487",
+      "40406126",
+      "35084595",
+      "42126743",
+      "42537253",
+      "42509823",
+      "39000350",
+      "33961327",
+      "41483212",
+      "40508405",
+      "32216758",
+      "42389128",
+      "42122823",
+      "42278532",
+      "40869926",
+      "41764430",
+      "42151539",
+      "21707636",
+      "39512836",
+      "39830943",
+      "41901413",
+      "35755645",
+      "42696930",
+      "36525364",
+      "42348123",
+      "41653590",
+      "41290793",
+      "40582277",
+      "40325369",
+      "40488763",
+      "34681749",
+      "42277708",
+      "38116956",
+      "42710869",
+      "41941488",
+      "39125982",
+      "40512874",
+      "41714375",
+      "11402211",
+      "42306424",
+      "32193449",
+      "38337133",
+      "37968658",
+      "41225350"
+    ],
+    "review": [
+      "42710050",
+      "42289463",
+      "41457369",
+      "34335643",
+      "42589674",
+      "41683668",
+      "36706487",
+      "40508405",
+      "42278532"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

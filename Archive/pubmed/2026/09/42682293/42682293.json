@@ -1,0 +1,326 @@
+{
+  "identity": {
+    "pmid": "42682293",
+    "doi": "10.1097/JS9.0000000000004270",
+    "title": "Single-cell mapping of tumor-driven macrophage reprogramming via ETV4-MC1R underlies immunotherapy resistance in colorectal cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Immunotherapy resistance remains a major clinical challenge in advanced microsatellite instability-high (MSI-H) colorectal cancer (CRC), and the underlying gene regulatory networks (GRNs) distinguishing PD-1-resistant from PD-1-sensitive tumors are poorly defined. METHODS: We performed single-cell RNA sequencing on tumor samples from three PD-1-resistant and three PD-1-sensitive MSI-H metastatic CRC patients. Resistance-associated transcription factors were identified by integrating machine learning-based prognostic modeling with GRN reconstruction. Bioinformatic findings were functionally validated using dual-luciferase reporter assays, chromatin immunoprecipitation, and in vitro co-culture experiments. Furthermore, the therapeutic efficacy of co-targeting the ETV4-MC1R axis with anti-PD-1 treatment was evaluated in vivo. RESULTS: Several transcriptional regulators were highly active in resistant tumors, among which the transcription factor ETV4 was markedly upregulated in malignant epithelial cells and played a central role. A prognostic model based on ETV4 downstream target genes effectively stratified CRC into subtypes with distinct outcomes. Transcriptome-wide correlation analysis revealed a strong positive association between ETV4 expression and macrophage markers. Mechanistically, we identified MC1R as a critical downstream target of ETV4 mediating resistance. Functional assays confirmed direct binding and activation of the MC1R promoter by ETV4. Co-culture experiments demonstrated that ETV4-high CRC cells promoted macrophage polarization toward an immunosuppressive M2 phenotype via the MC1R pathway. In vivo validation showed that combining ETV4-MC1R targeting with anti-PD-1 therapy significantly reduced tumor volume by 55.6% compared to anti-PD-1 monotherapy (P < 0.05). CONCLUSION: This study reconstructs the regulatory network underlying PD-1 resistance in CRC at single-cell resolution and reveals a novel tumor-intrinsic ETV4-MC1R signaling axis that drives M2 macrophage polarization and immune evasion. Targeting this pathway presents a promising combination strategy to overcome immunotherapy resistance in CRC.",
+    "keywords": [
+      "ETV4",
+      "MC1R",
+      "colorectal cancer (CRC)",
+      "immunotherapy resistance",
+      "tumor microenvironment (TME)"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liang, Rui",
+        "Zhang, Yang",
+        "Xing, Lu",
+        "Wang, Wenbin",
+        "Li, Yunfeng",
+        "Shen, Tao",
+        "Cai, Xinyi",
+        "Yang, Zhaoyu",
+        "Li, Jibiao",
+        "Yang, Xiaotao",
+        "Zhang, Xuan",
+        "Wu, Tao"
+      ],
+      "short_names": [
+        "Liang R",
+        "Zhang Y",
+        "Xing L",
+        "Wang W",
+        "Li Y",
+        "Shen T",
+        "Cai X",
+        "Yang Z",
+        "Li J",
+        "Yang X",
+        "Zhang X",
+        "Wu T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Bioengineering, College of Bioengineering, Chongqing University, Key Laboratory of Biorheological Science and Technology, Ministry of Education, Chongqing, China.",
+        "Department of Vascular Surgery, Affiliated Cardiovascular Hospital of Kunming Medical University, Kunming, Yunnan, China.",
+        "Department of Dermatology, Children's Hospital Affiliated to Kunming Medical University, Kunming, China.",
+        "Department of Bioengineering, College of Bioengineering, Chongqing University, Key Laboratory of Biorheological Science and Technology, Ministry of Education, Chongqing, China.",
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+        "Department of Public Health, School of Public Health, Kunming Medical University, Cheng Gong New City, Kunming, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liang, Rui",
+        "short_name": "Liang R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+          "Department of Bioengineering, College of Bioengineering, Chongqing University, Key Laboratory of Biorheological Science and Technology, Ministry of Education, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yang",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, Affiliated Cardiovascular Hospital of Kunming Medical University, Kunming, Yunnan, China."
+        ]
+      },
+      {
+        "full_name": "Xing, Lu",
+        "short_name": "Xing L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Children's Hospital Affiliated to Kunming Medical University, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wenbin",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, College of Bioengineering, Chongqing University, Key Laboratory of Biorheological Science and Technology, Ministry of Education, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yunfeng",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Tao",
+        "short_name": "Shen T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Xinyi",
+        "short_name": "Cai X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhaoyu",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jibiao",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiaotao",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xuan",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Tao",
+        "short_name": "Wu T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, Kunming, China.",
+          "Department of Public Health, School of Public Health, Kunming Medical University, Cheng Gong New City, Kunming, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of surgery (London, England)"
+    ],
+    "journal_abbrev": [
+      "Int J Surg"
+    ],
+    "pub_date": "2026 Apr",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42682293",
+      "41997046",
+      "40010765",
+      "41436831",
+      "41044625",
+      "40932376",
+      "41342434",
+      "37106440",
+      "42050706",
+      "41246306",
+      "41716413",
+      "42206267",
+      "42163252",
+      "41403876",
+      "42143164",
+      "39316306",
+      "41985081",
+      "42028950",
+      "40435908",
+      "40475762",
+      "42447566",
+      "41937416",
+      "41135953",
+      "42552060",
+      "39748408",
+      "41785601",
+      "41769787",
+      "38432446",
+      "40405491",
+      "42326870",
+      "41808828",
+      "41540625",
+      "41947260",
+      "39789407",
+      "42061086",
+      "41351014",
+      "40474298",
+      "40812610",
+      "42686373",
+      "40764361",
+      "40303328",
+      "41502516",
+      "42349108",
+      "42082463",
+      "40274385",
+      "41286470",
+      "41191606",
+      "41601657",
+      "33557837",
+      "42666044",
+      "42203639",
+      "41038145",
+      "42470494",
+      "42641461",
+      "39751692",
+      "40706744",
+      "42530712",
+      "41399129",
+      "42639041",
+      "42301510",
+      "41246334",
+      "41974235",
+      "39223929",
+      "41413544",
+      "41811476",
+      "41260904",
+      "41208987",
+      "39494327",
+      "42449595",
+      "34253638",
+      "35681225",
+      "42045486",
+      "41674966",
+      "40485064",
+      "40777041",
+      "41735002",
+      "38781935",
+      "42528596",
+      "41188869",
+      "35383115",
+      "40329330",
+      "41309249",
+      "42539625",
+      "41751172",
+      "42032729",
+      "40616092",
+      "41957788",
+      "42227003",
+      "41196020",
+      "40514069",
+      "42067922",
+      "41743703",
+      "40842027",
+      "42074506",
+      "39199281",
+      "41692233",
+      "42665792",
+      "41542227",
+      "41318472",
+      "38040421"
+    ],
+    "review": [
+      "42682293",
+      "41769787",
+      "42449595"
+    ],
+    "pmc": [
+      "13105694"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42682293/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3399",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.ovid.com/10.1097/JS9.0000000000004270",
+        "provider": "Wolters Kluwer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

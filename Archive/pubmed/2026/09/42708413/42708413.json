@@ -1,0 +1,289 @@
+{
+  "identity": {
+    "pmid": "42708413",
+    "doi": "10.1093/nar/gkag851",
+    "title": "Loss of SUMOylation drives aberrant PRC1 clustering and 3D genome rewiring independent of H3K27me3."
+  },
+  "content": {
+    "abstract": "Polycomb repressive complex 1 (PRC1) forms nuclear condensates that organize target chromatin domains. SUMOylation modulates PRC1 clustering, but its impact on condensate properties and 3D genome architecture remains unclear. Here, we show that depletion of small ubiquitin-like modifier (SUMO) in Drosophila wing imaginal discs transforms PRC1 condensates into large structures with reduced molecular dynamics. Biophysical modeling suggests that the changes in PRC1 self-interactions are responsible for the formation of large PRC1 condensates when SUMO is depleted. Interestingly, this biophysical reorganization occurs without global loss of the H3K27me3 mark. Instead, Hi-C reveals widespread rewiring of topologically associating domain (TAD) interactions. PRC1-bound TADs lose specific long-range contacts with each other while gaining ectopic interactions with active chromatin. These topological shifts correlate with gene misregulation independently of changes in Polycomb histone modifications. Our results establish SUMOylation as a critical regulator of PRC1 condensates, demonstrating that post-translational control of biomolecular condensation modulates 3D genome architecture and transcriptional output through mechanisms separable from histone mark deposition.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Sumoylation/genetics",
+      "*Histones/metabolism/genetics",
+      "*Polycomb Repressive Complex 1/metabolism/genetics/chemistry",
+      "*Drosophila Proteins/metabolism/genetics",
+      "Chromatin/metabolism/genetics",
+      "Drosophila melanogaster/genetics",
+      "Imaginal Discs/metabolism",
+      "Small Ubiquitin-Related Modifier Proteins/genetics/metabolism",
+      "Wings, Animal/metabolism/growth & development"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Akilli, Nazli",
+        "Puel, Paul-Swann",
+        "Stefano, Marco Di",
+        "Muzzopappa, Fernando",
+        "Fritsch, Lauriane",
+        "Erdel, Fabian",
+        "Jost, Daniel",
+        "Cheutin, Thierry",
+        "Cavalli, Giacomo"
+      ],
+      "short_names": [
+        "Akilli N",
+        "Puel PS",
+        "Stefano MD",
+        "Muzzopappa F",
+        "Fritsch L",
+        "Erdel F",
+        "Jost D",
+        "Cheutin T",
+        "Cavalli G"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6195-4754",
+        "ORCID: 0000-0003-2888-7777",
+        "ORCID: 0000-0002-9877-6864",
+        "ORCID: 0000-0003-3709-3469"
+      ],
+      "affiliations": [
+        "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France.",
+        "Laboratoire de Biologie et Modelisation de la Cellule, Ecole Normale Superieure de Lyon, CNRS, UMR5239, Inserm U1293, Universite Claude Bernard Lyon 1, 69364 Cedex 07,Lyon, France.",
+        "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France.",
+        "MCD, Center for Integrative Biology (CBI), University of Toulouse, CNRS, 31400,Toulouse, France.",
+        "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France.",
+        "MCD, Center for Integrative Biology (CBI), University of Toulouse, CNRS, 31400,Toulouse, France.",
+        "Laboratoire de Biologie et Modelisation de la Cellule, Ecole Normale Superieure de Lyon, CNRS, UMR5239, Inserm U1293, Universite Claude Bernard Lyon 1, 69364 Cedex 07,Lyon, France.",
+        "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France.",
+        "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Akilli, Nazli",
+        "short_name": "Akilli N",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France."
+        ]
+      },
+      {
+        "full_name": "Puel, Paul-Swann",
+        "short_name": "Puel PS",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratoire de Biologie et Modélisation de la Cellule, École Normale Supérieure de Lyon, CNRS, UMR5239, Inserm U1293, Université Claude Bernard Lyon 1, 69364 Cedex 07,Lyon, France."
+        ]
+      },
+      {
+        "full_name": "Stefano, Marco Di",
+        "short_name": "Stefano MD",
+        "identifiers": [
+          "0000-0001-6195-4754"
+        ],
+        "affiliations": [
+          "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France."
+        ]
+      },
+      {
+        "full_name": "Muzzopappa, Fernando",
+        "short_name": "Muzzopappa F",
+        "identifiers": [],
+        "affiliations": [
+          "MCD, Center for Integrative Biology (CBI), University of Toulouse, CNRS, 31400,Toulouse, France."
+        ]
+      },
+      {
+        "full_name": "Fritsch, Lauriane",
+        "short_name": "Fritsch L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France."
+        ]
+      },
+      {
+        "full_name": "Erdel, Fabian",
+        "short_name": "Erdel F",
+        "identifiers": [
+          "0000-0003-2888-7777"
+        ],
+        "affiliations": [
+          "MCD, Center for Integrative Biology (CBI), University of Toulouse, CNRS, 31400,Toulouse, France."
+        ]
+      },
+      {
+        "full_name": "Jost, Daniel",
+        "short_name": "Jost D",
+        "identifiers": [
+          "0000-0002-9877-6864"
+        ],
+        "affiliations": [
+          "Laboratoire de Biologie et Modélisation de la Cellule, École Normale Supérieure de Lyon, CNRS, UMR5239, Inserm U1293, Université Claude Bernard Lyon 1, 69364 Cedex 07,Lyon, France."
+        ]
+      },
+      {
+        "full_name": "Cheutin, Thierry",
+        "short_name": "Cheutin T",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France."
+        ]
+      },
+      {
+        "full_name": "Cavalli, Giacomo",
+        "short_name": "Cavalli G",
+        "identifiers": [
+          "0000-0003-3709-3469"
+        ],
+        "affiliations": [
+          "Institute of Human Genetics, UMR9002, Univ Montpellier, CNRS, 34396 Cedex 5,Montpellier, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42708413",
+      "40441156",
+      "32395866",
+      "32628956",
+      "37499944",
+      "30514760",
+      "33154383",
+      "32439634",
+      "37487640",
+      "27557709",
+      "38071364",
+      "22910904",
+      "38288743",
+      "30176245",
+      "31950077",
+      "27151979",
+      "36357125",
+      "37070946",
+      "29995890",
+      "26178786",
+      "41790891",
+      "40397729",
+      "31883950",
+      "40340859",
+      "38701218",
+      "23893515",
+      "41062290",
+      "36460465",
+      "27705745",
+      "40312364",
+      "31036804",
+      "42566522",
+      "30254245",
+      "40650574",
+      "29432187",
+      "24465219",
+      "38257239",
+      "33563969",
+      "20562097",
+      "29070704",
+      "20351181",
+      "31883952",
+      "27643538",
+      "28197905",
+      "37030288",
+      "30008320",
+      "42034057",
+      "27631795",
+      "41849748",
+      "38521066",
+      "28157505",
+      "42151415",
+      "37756159",
+      "42409769",
+      "28157500",
+      "39152239",
+      "33202645",
+      "22096074",
+      "24856970",
+      "20436459",
+      "28282436",
+      "39815045",
+      "36959757",
+      "35059633",
+      "25082344",
+      "16628213",
+      "22275876",
+      "32196702",
+      "34426021",
+      "42206359",
+      "28195188",
+      "23818863",
+      "34537242",
+      "41346180",
+      "29337181",
+      "42642739",
+      "34608337",
+      "31253095",
+      "37542070",
+      "21262819",
+      "31484080",
+      "40053453",
+      "28202673",
+      "40971955",
+      "15386022",
+      "34465381",
+      "30082786",
+      "18216170",
+      "36738766",
+      "10412979",
+      "27002220",
+      "30597065",
+      "15314179",
+      "34620850",
+      "26063573",
+      "34186021",
+      "41021627",
+      "16628226",
+      "31029541",
+      "27723458"
+    ],
+    "review": [
+      "42708413",
+      "38288743",
+      "28197905",
+      "27631795",
+      "33202645",
+      "35059633",
+      "32196702",
+      "34426021",
+      "28202673"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

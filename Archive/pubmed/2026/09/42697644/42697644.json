@@ -1,0 +1,316 @@
+{
+  "identity": {
+    "pmid": "42697644",
+    "doi": "10.1016/j.pestbp.2026.107266",
+    "title": "Chlorpyrifos exposure induces inflammatory and immune dysregulation: An integrative in silico and in vitro analysis."
+  },
+  "content": {
+    "abstract": "Chlorpyrifos (CPF) is a widely used organophosphate insecticide that has been associated with chronic inflammatory and immune-related health effects. However, the molecular mechanisms underlying CPF-induced immune-inflammatory dysregulation remain incompletely defined. In this study, an integrated in silico and in vitro strategy was employed to elucidate the signaling pathways involved in CPF-mediated macrophage inflammatory activation. Network-based target prediction and pathway enrichment analysis identified MAPK14, which encodes p38 MAPK, and RELA, which encodes the NF-kappaB p65 subunit, as central regulatory nodes potentially involved in CPF-mediated inflammatory responses. These computational findings guided subsequent mechanistic validation in RAW264.7 macrophages. Consistent with the in silico predictions, CPF exposure selectively increased the activation of MAPK14 (which encodes the p38 MAPK) and RELA (which represents p65) in RAW264.7 macrophages, whereas other MAPK family members showed no obvious activation. Molecular docking and molecular dynamics simulations further demonstrated stable interactions between CPF and both predicted targets, supporting their potential involvement in CPF-responsive signaling regulation. Functionally, CPF treatment increased phosphorylation of p38 MAPK and p65, promoted the production of inflammatory mediators, and upregulated co-stimulatory and antigen-presenting molecules in macrophages. Collectively, these findings suggest that CPF is associated with macrophage-mediated inflammatory activation involving the p38 MAPK and NF-kappaB signaling pathways. This study provides mechanistic insight into CPF-associated immune-inflammatory dysregulation and supports the relevance of macrophage inflammatory activation in environmental CPF exposure.",
+    "keywords": [
+      "Chlorpyrifos",
+      "In silico assay",
+      "Inflammation",
+      "Macrophage",
+      "NF-kappaB",
+      "p38 MAPK"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "*Chlorpyrifos/toxicity",
+      "*Inflammation/chemically induced",
+      "*Insecticides/toxicity",
+      "RAW 264.7 Cells",
+      "Macrophages/drug effects/immunology/metabolism",
+      "p38 Mitogen-Activated Protein Kinases/metabolism",
+      "Molecular Docking Simulation",
+      "Transcription Factor RelA/metabolism",
+      "Signal Transduction/drug effects",
+      "Molecular Dynamics Simulation",
+      "Mitogen-Activated Protein Kinase 14/metabolism",
+      "Computer Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chiang, Chen-Yu",
+        "Chen, Shih-Pin",
+        "Luo, Ci-Wen",
+        "Su, Chun-Hung",
+        "Lee, Shiuan-Shinn",
+        "Chen, Wen-Ying",
+        "Chen, Chun-Jung",
+        "Tseng, Ching-Chi",
+        "Chen, Pin-Tzu",
+        "Lu, Yin-Che",
+        "Kuan, Yu-Hsiang"
+      ],
+      "short_names": [
+        "Chiang CY",
+        "Chen SP",
+        "Luo CW",
+        "Su CH",
+        "Lee SS",
+        "Chen WY",
+        "Chen CJ",
+        "Tseng CC",
+        "Chen PT",
+        "Lu YC",
+        "Kuan YH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pharmacology, School of Medicine, Chung Shan Medical University, Taichung, Taiwan; Department of Pharmacy, Chung Shan Medical University Hospital, Taichung, Taiwan.",
+        "Department of Internal Medicine, Chung Shan Medical University Hospital, Taichung, Taiwan; Department of Internal Medicine, School of Medicine, Chung Shan Medical University, Taichung, Taiwan.",
+        "Department of Medical Research, Tungs' Taichung Metro Harbor Hospital, Taichung, Taiwan.",
+        "Department of Internal Medicine, Chung Shan Medical University Hospital, Taichung, Taiwan; Department of Internal Medicine, School of Medicine, Chung Shan Medical University, Taichung, Taiwan.",
+        "School of Public Health, Chung Shan Medical University, Taichung, Taiwan.",
+        "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, Taichung, Taiwan.",
+        "Department of Education and Research, Taichung Veterans General Hospital, Taichung, Taiwan.",
+        "Department of Dermatology, The Wilshire Lab and Aesthetic Clinic, Shenzhen, China; Department of Dermatology, Shiso Municipal Hospital, Hyogo, Japan.",
+        "Division of Hematology-Oncology, Ditmanson Medical Foundation Chia-Yi Christian Hospital, Chiayi, Taiwan.",
+        "Division of Hematology-Oncology, Ditmanson Medical Foundation Chia-Yi Christian Hospital, Chiayi, Taiwan.",
+        "Department of Pharmacology, School of Medicine, Chung Shan Medical University, Taichung, Taiwan; Department of Pharmacy, Chung Shan Medical University Hospital, Taichung, Taiwan. Electronic address: kuanyh@csmu.edu.tw."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chiang, Chen-Yu",
+        "short_name": "Chiang CY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, School of Medicine, Chung Shan Medical University, Taichung, Taiwan; Department of Pharmacy, Chung Shan Medical University Hospital, Taichung, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Shih-Pin",
+        "short_name": "Chen SP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Chung Shan Medical University Hospital, Taichung, Taiwan; Department of Internal Medicine, School of Medicine, Chung Shan Medical University, Taichung, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Luo, Ci-Wen",
+        "short_name": "Luo CW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Research, Tungs' Taichung Metro Harbor Hospital, Taichung, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Su, Chun-Hung",
+        "short_name": "Su CH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Chung Shan Medical University Hospital, Taichung, Taiwan; Department of Internal Medicine, School of Medicine, Chung Shan Medical University, Taichung, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lee, Shiuan-Shinn",
+        "short_name": "Lee SS",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Chung Shan Medical University, Taichung, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Wen-Ying",
+        "short_name": "Chen WY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, Taichung, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Chun-Jung",
+        "short_name": "Chen CJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Education and Research, Taichung Veterans General Hospital, Taichung, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Tseng, Ching-Chi",
+        "short_name": "Tseng CC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, The Wilshire Lab and Aesthetic Clinic, Shenzhen, China; Department of Dermatology, Shiso Municipal Hospital, Hyogo, Japan."
+        ]
+      },
+      {
+        "full_name": "Chen, Pin-Tzu",
+        "short_name": "Chen PT",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology-Oncology, Ditmanson Medical Foundation Chia-Yi Christian Hospital, Chiayi, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lu, Yin-Che",
+        "short_name": "Lu YC",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology-Oncology, Ditmanson Medical Foundation Chia-Yi Christian Hospital, Chiayi, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Kuan, Yu-Hsiang",
+        "short_name": "Kuan YH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, School of Medicine, Chung Shan Medical University, Taichung, Taiwan; Department of Pharmacy, Chung Shan Medical University Hospital, Taichung, Taiwan. Electronic address: kuanyh@csmu.edu.tw."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pesticide biochemistry and physiology"
+    ],
+    "journal_abbrev": [
+      "Pestic Biochem Physiol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 23:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42697644",
+      "35970313",
+      "42302947",
+      "41795298",
+      "23416140",
+      "42276151",
+      "40199407",
+      "26973239",
+      "28848097",
+      "31229505",
+      "32590114",
+      "42477744",
+      "42176149",
+      "29199487",
+      "24023826",
+      "17074860",
+      "42554914",
+      "18434625",
+      "27261558",
+      "32795901",
+      "28192731",
+      "29932926",
+      "42361996",
+      "20674992",
+      "42537462",
+      "30319603",
+      "31931867",
+      "40345124",
+      "14742634",
+      "26412258",
+      "23735482",
+      "28338974",
+      "42297765",
+      "32470884",
+      "40683208",
+      "26491301",
+      "31529146",
+      "20238486",
+      "26560439",
+      "25577342",
+      "32503416",
+      "39447411",
+      "22965302",
+      "41687945",
+      "26215101",
+      "27394658",
+      "28812425",
+      "22234926",
+      "21465277",
+      "23807148",
+      "24793810",
+      "41129534",
+      "16797002",
+      "22758221",
+      "16765938",
+      "18596216",
+      "25007875",
+      "35008520",
+      "19162159",
+      "25695672",
+      "29378573",
+      "30223923",
+      "26714752",
+      "42336198",
+      "10051531",
+      "30195331",
+      "31171272",
+      "40818185",
+      "24070708",
+      "34217843",
+      "30460722",
+      "24727577",
+      "42011618",
+      "42112357",
+      "30834779",
+      "34575918",
+      "16431847",
+      "31645122",
+      "41309362",
+      "41988197",
+      "42035977",
+      "30395976",
+      "19369446",
+      "25661072",
+      "39566757",
+      "30045725",
+      "42694414",
+      "36115602",
+      "38415803",
+      "25536376",
+      "24378531",
+      "16793190",
+      "42377801",
+      "42675601",
+      "23810444",
+      "21327328",
+      "42031287",
+      "28223354",
+      "40865347",
+      "32915501"
+    ],
+    "review": [
+      "42697644"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0048-3575(26)00327-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-878",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

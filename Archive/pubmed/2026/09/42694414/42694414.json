@@ -1,0 +1,292 @@
+{
+  "identity": {
+    "pmid": "42694414",
+    "doi": "10.3389/fimmu.2026.1934610",
+    "title": "Salvia miltiorrhiza ultrafine powder improves ileal barrier function and health of hens during late laying period via TLR4/NF-kappaB-mediated macrophage polarization."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Declining laying performance and egg quality during the late laying period are closely associated with intestinal barrier dysfunction, chronic inflammation, and gut microbiota dysbiosis. In our previous study, dietary supplementation with 15 g/kg Salvia miltiorrhiza ultrafine powder (SMUP) exhibited the greatest improvement in laying performance and egg quality of hens during late laying period. However, the underlying mechanisms remain unclear. Therefore, the present study further investigate the effects of dietary SMUP on ileal morphology, barrier function, immune response, and gut microbiota, combined with in silico analyses to elucidate the potential molecular mechanisms. METHODS: A two-group feeding trial with late-laying hens was conducted to evaluate ileal histomorphology, tight junction protein expression, plasma and ileal inflammatory cytokine levels, and ileal microbial community composition through 16S rRNA sequencing. Transcriptomic data from LPS-stimulated chicken HD11 macrophages (GSE278197) were analyzed by differential expression and weighted gene co-expression network analysis (WGCNA) to identify macrophage polarization hub genes. Network pharmacology, molecular docking and 100 ns molecular dynamics simulations were sequentially performed to identify the key bioactive compound of SMUP and its target protein related to intestinal immune regulation. RESULTS: Dietary SMUP (15 g/kg) reduced ileal crypt depth (CD), increased villus height/CD ratio, upregulated tight junction proteins (claudin-1, occludin, and ZO-1), and inhibited the TLR4/NF-kappaB signaling pathway by downregulating TLR4 and NF-kappaB p65 expressions (P < 0.05). Additionally, SMUP downregulated pro-inflammatory cytokines (IL-1beta, IL-6, TNF-alpha, IFN-gamma, and iNOS), elevated anti-inflammatory cytokines (IL-4 and IL-10) expressions in the ileum, and increased plasma IL-10 level (P < 0.05). Dietary SMUP also modulated gut microbiota by reducing the Tenericutes abundance and enriching predicted ansamycin biosynthesis. Furthermore, network pharmacology, molecular docking, and molecular dynamics simulations identified tanshinone IIA as a core compound directly targeting NFKBIA (encoding IkappaBalpha), suggesting that SMUP stabilizes IkappaBalpha, thereby blocking its phosphorylation-dependent degradation and subsequent NF-kappaB nuclear translocation. Through inhibition of the TLR4/NF-kappaB pathway, SMUP promoted the polarization of intestinal macrophages from the pro-inflammatory M1 toward the anti-inflammatory M2 phenotype, which was consistent with the reciprocal changes in M1/M2-related gene expression. CONCLUSION: Dietary SMUP improves intestinal health of late-laying hens by strengthening the intestinal barrier, alleviating inflammation (via inhibiting the TLR4/NF-kappaB pathway and promoting M2-type macrophage polarization), and modulating the gut microbiota. These improvements in intestinal health supported SMUP as a promising natural plant-derived feed additive for hens during late laying period.",
+    "keywords": [
+      "Salvia miltiorrhiza ultrafine powder",
+      "TLR4/NF-kappaB pathway",
+      "gut microbiota",
+      "laying hens",
+      "macrophage polarization",
+      "network pharmacology",
+      "tanshinone IIA"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Chickens",
+      "Female",
+      "*NF-kappa B/metabolism",
+      "*Toll-Like Receptor 4/metabolism",
+      "*Macrophages/immunology/metabolism/drug effects",
+      "*Salvia miltiorrhiza/chemistry",
+      "*Ileum/drug effects/metabolism/immunology",
+      "Intestinal Barrier Function/drug effects",
+      "Signal Transduction/drug effects",
+      "Cytokines/metabolism",
+      "Powders",
+      "Macrophage Activation/drug effects",
+      "Gastrointestinal Microbiome/drug effects",
+      "Dietary Supplements",
+      "Animal Feed"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Meng, Chengwen",
+        "Azad, Md Abul Kalam",
+        "Lin, Wenchao",
+        "Gui, Jue",
+        "Cui, Yadong",
+        "Lan, Wei",
+        "Kong, Xiangfeng"
+      ],
+      "short_names": [
+        "Meng C",
+        "Azad MAK",
+        "Lin W",
+        "Gui J",
+        "Cui Y",
+        "Lan W",
+        "Kong X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China.",
+        "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China.",
+        "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China.",
+        "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China.",
+        "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China.",
+        "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China.",
+        "School of Biology and Food Engineering, Fuyang Normal University, Fuyang, China.",
+        "School of Biology and Food Engineering, Fuyang Normal University, Fuyang, China.",
+        "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China.",
+        "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China.",
+        "School of Biology and Food Engineering, Fuyang Normal University, Fuyang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Meng, Chengwen",
+        "short_name": "Meng C",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China.",
+          "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Azad, Md Abul Kalam",
+        "short_name": "Azad MAK",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Wenchao",
+        "short_name": "Lin W",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Gui, Jue",
+        "short_name": "Gui J",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China.",
+          "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Yadong",
+        "short_name": "Cui Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biology and Food Engineering, Fuyang Normal University, Fuyang, China."
+        ]
+      },
+      {
+        "full_name": "Lan, Wei",
+        "short_name": "Lan W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biology and Food Engineering, Fuyang Normal University, Fuyang, China."
+        ]
+      },
+      {
+        "full_name": "Kong, Xiangfeng",
+        "short_name": "Kong X",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Provincial Key Laboratory of Animal Nutritional Physiology and Metabolic Process, National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan, China.",
+          "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China.",
+          "School of Biology and Food Engineering, Fuyang Normal University, Fuyang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 11:39",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42694414",
+      "40570464",
+      "39447411",
+      "42696233",
+      "41265260",
+      "41930813",
+      "41905071",
+      "42287931",
+      "42322763",
+      "41641273",
+      "42442028",
+      "42025932",
+      "42294648",
+      "40010048",
+      "40708063",
+      "41693711",
+      "37221568",
+      "39879705",
+      "38367470",
+      "40243180",
+      "40330488",
+      "41592396",
+      "40158133",
+      "41056663",
+      "41951765",
+      "42052827",
+      "41694373",
+      "40449268",
+      "39991674",
+      "41980519",
+      "41480318",
+      "41494226",
+      "30789669",
+      "40640887",
+      "40706488",
+      "40294553",
+      "41763137",
+      "40252436",
+      "38621947",
+      "42576455",
+      "42520528",
+      "41453546",
+      "41265501",
+      "41985849",
+      "35917674",
+      "35837771",
+      "41534756",
+      "40437375",
+      "39787954",
+      "39041129",
+      "39337442",
+      "40599271",
+      "41564978",
+      "39133675",
+      "40907407",
+      "41248567",
+      "42112357",
+      "40120702",
+      "41242519",
+      "41175586",
+      "42196377",
+      "41380855",
+      "37268931",
+      "32687156",
+      "40602310",
+      "41145081",
+      "40714424",
+      "41313694",
+      "35874106",
+      "38713986",
+      "41163030",
+      "38692075",
+      "41436494",
+      "42242172",
+      "41508269",
+      "40712280",
+      "40090429",
+      "39423789",
+      "38688144",
+      "41253025",
+      "37769487",
+      "34915325",
+      "39507974",
+      "39458546",
+      "36691639",
+      "42076830",
+      "42398385",
+      "42391936",
+      "41961352",
+      "36743916",
+      "40499803",
+      "40946653",
+      "40706204",
+      "38813622",
+      "38157786",
+      "31008545",
+      "38518665",
+      "39755761",
+      "36287951",
+      "39819414"
+    ],
+    "review": [
+      "42694414"
+    ],
+    "pmc": [
+      "13538885"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42694414/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1934610",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

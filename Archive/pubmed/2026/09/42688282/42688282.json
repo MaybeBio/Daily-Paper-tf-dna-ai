@@ -1,0 +1,290 @@
+{
+  "identity": {
+    "pmid": "42688282",
+    "doi": "10.12182/20260760105",
+    "title": "[Systemic Reprogramming of Cellular Senescence: Coordinated Regulation of Metabolism, Epigenetics, and Proteostasis]."
+  },
+  "content": {
+    "abstract": "Cellular senescence has long been considered an irreversible process. However, recent breakthroughs in partial cellular reprogramming have demonstrated that senescent cells maintain a metastable state amenable to resetting. This review outlines a systemic framework for anti-aging interventions that integrate three core dimensions. First, metabolic reprogramming through the elevation of nicotinamide adenine dinucleotide (NAD(+)) levels provides the energetic and coenzymatic foundation necessary for a systemic reset. Second, spatiotemporally controlled epigenetic resetting, mediated by Oct4-Sox2-Klf4-c-Myc (OSKM) factors or small molecules, restores youthful transcriptional programs without compromising cellular identity. Third, the restoration of proteostasis via the autophagy-lysosome and ubiquitin-proteasome systems serves as the critical execution mechanism that eliminates damaged biomaterials and ensures the proper folding of newly synthesized proteins. Despite these advances, the research field still faces major challenges, including the lack of a clearly defined therapeutic window for safe reprogramming, limited efficiency of tissue-specific delivery, and insufficient evidence regarding the long-term safety of therapeutic interventions. Future studies should focus on integrating single-cell omics, DNA methylation clocks, and artificial intelligence-assisted analyses to establish precision-based evaluation metrics for evaluating cellular rejuvenation. In addition, the development of next-generation delivery platforms, including lipid nanoparticles (LNPs) and engineered exosomes, will facilitate precision-based regulation of multi-level synergistic interventions. Ultimately, anti-aging medicine is evolving from single-pathway interventions toward a comprehensive paradigm of systemic reprogramming driven by the multi-axial synergy of metabolism, epigenetics, and proteostasis.",
+    "keywords": [
+      "Aging",
+      "Cellular reprogramming",
+      "Epigenetics",
+      "Nicotinamide adenine dinucleotide",
+      "Proteostasis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Cellular Senescence/genetics/physiology",
+      "*Proteostasis/genetics",
+      "Kruppel-Like Factor 4",
+      "*Epigenesis, Genetic",
+      "*Cellular Reprogramming/genetics",
+      "Metabolic Reprogramming",
+      "Animals",
+      "NAD/metabolism"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zheng, Yulin",
+        "Liu, Qian",
+        "Wang, Ruihong",
+        "Sun, Chongkui"
+      ],
+      "short_names": [
+        "Zheng Y",
+        "Liu Q",
+        "Wang R",
+        "Sun C"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-1287-6475",
+        "ORCID: 0000-0003-0362-4129"
+      ],
+      "affiliations": [
+        "*（） （ 610072）Department of Geriatric Cardiology, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China.",
+        "*（） （ 610072）Department of Geriatric Cardiology, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China.",
+        "*（） （ 610072）Department of Geriatric Cardiology, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China.",
+        "*（） （ 610072）Department of Geriatric Cardiology, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zheng, Yulin",
+        "short_name": "Zheng Y",
+        "identifiers": [
+          "0009-0002-1287-6475"
+        ],
+        "affiliations": [
+          "•（） （ 610072）Department of Geriatric Cardiology, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qian",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "•（） （ 610072）Department of Geriatric Cardiology, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruihong",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "•（） （ 610072）Department of Geriatric Cardiology, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Chongkui",
+        "short_name": "Sun C",
+        "identifiers": [
+          "0000-0003-0362-4129"
+        ],
+        "affiliations": [
+          "•（） （ 610072）Department of Geriatric Cardiology, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition"
+    ],
+    "journal_abbrev": [
+      "Sichuan Da Xue Xue Bao Yi Xue Ban"
+    ],
+    "pub_date": "2026 Jul 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 12:09",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42688282",
+      "42212384",
+      "42475469",
+      "40354373",
+      "40735996",
+      "41490578",
+      "37437248",
+      "40075068",
+      "28314379",
+      "38272265",
+      "29989289",
+      "36871150",
+      "31578938",
+      "34488874",
+      "41114535",
+      "39684245",
+      "42398771",
+      "41667860",
+      "33200494",
+      "42155210",
+      "40122394",
+      "38768583",
+      "29280266",
+      "42205070",
+      "40311172",
+      "39390356",
+      "30554962",
+      "27884981",
+      "41721930",
+      "35235716",
+      "37874086",
+      "22052357",
+      "41313318",
+      "27426043",
+      "41528804",
+      "42543123",
+      "27984723",
+      "32210226",
+      "29353456",
+      "31197818",
+      "33190371",
+      "40560729",
+      "27428041",
+      "37118377",
+      "40540718",
+      "36918530",
+      "21909390",
+      "40489332",
+      "37401274",
+      "29301845",
+      "39684837",
+      "31475896",
+      "27419933",
+      "36533424",
+      "27790870",
+      "41443352",
+      "23974095",
+      "19696146",
+      "39072888",
+      "24526120",
+      "35269453",
+      "41577329",
+      "41697908",
+      "30450724",
+      "41107828",
+      "34019296",
+      "40448624",
+      "41693061",
+      "40356604",
+      "35266272",
+      "33203179",
+      "29925040",
+      "39399899",
+      "18724799",
+      "42144205",
+      "33268865",
+      "33036834",
+      "39259812",
+      "37648593",
+      "29476819",
+      "25097266",
+      "39858413",
+      "22959961",
+      "36927767",
+      "40904701",
+      "42608167",
+      "40897279",
+      "39587064",
+      "40650041",
+      "40362564",
+      "42337937",
+      "30146411",
+      "40588563",
+      "41978397",
+      "41746442",
+      "29138277",
+      "41864756",
+      "37769039",
+      "42249421",
+      "36383700"
+    ],
+    "review": [
+      "42688282",
+      "42212384",
+      "40354373",
+      "40735996",
+      "41490578",
+      "28314379",
+      "38272265",
+      "29989289",
+      "36871150",
+      "31578938",
+      "34488874",
+      "41114535",
+      "42398771",
+      "33200494",
+      "42155210",
+      "40122394",
+      "38768583",
+      "42205070",
+      "40311172",
+      "39390356",
+      "41721930",
+      "37874086",
+      "22052357",
+      "27426043",
+      "41528804",
+      "42543123",
+      "29353456",
+      "31197818",
+      "33190371",
+      "40540718",
+      "36918530",
+      "29301845",
+      "31475896",
+      "27419933",
+      "35269453",
+      "41577329",
+      "41693061",
+      "40356604",
+      "29925040",
+      "39399899",
+      "42144205",
+      "37648593",
+      "29476819",
+      "39858413",
+      "22959961",
+      "40904701",
+      "42608167",
+      "40897279",
+      "40650041",
+      "42337937",
+      "41978397",
+      "41746442"
+    ],
+    "pmc": [
+      "13534517"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42688282/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

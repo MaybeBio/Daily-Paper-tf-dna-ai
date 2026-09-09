@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42682498",
+    "doi": "10.3389/fendo.2026.1903580",
+    "title": "Empagliflozin attenuates AGE-BSA/high-glucose-induced inflammation in C2C12 myotubes associated with suppression of the RAGE/NF-kappaB pathway."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Empagliflozin is an established sodium-glucose cotransporter 2 inhibitor with reported anti-inflammatory activity, but its effects on advanced glycation end product/high-glucose-induced inflammatory injury in skeletal muscle cells remain unclear. METHODS: A GEO-derived transcriptomic dataset from gastrocnemius muscle of type 2 diabetes mellitus rats was analyzed to screen pathways associated with diabetes-related skeletal muscle injury, and molecular docking was performed to explore the possible structural compatibility between empagliflozin and RAGE. Differentiated C2C12 myotubes were exposed to AGE-BSA under high-glucose conditions and treated with empagliflozin. Cell viability was assessed using CCK-8, and RAGE, NF-kappaB, IL-6, and TNF-alpha were evaluated by qRT-PCR, Western blotting, immunofluorescence, and ELISA. RESULTS: Bioinformatic enrichment highlighted AGE-RAGE signaling and inflammation-related NF-kappaB pathways in diabetic skeletal muscle. Molecular docking provided a computational structural hypothesis suggesting possible compatibility between empagliflozin and human RAGE involving Asp160. In AGE-BSA/high-glucose-stimulated C2C12 myotubes, empagliflozin improved cell viability and was accompanied by reduced RAGE expression, lower NF-kappaB phosphorylation and immunofluorescence-based nuclear accumulation, and lower IL-6 and TNF-alpha expression and secretion. DISCUSSION: Empagliflozin attenuates AGE-BSA/high-glucose-induced inflammatory injury in C2C12 myotubes, and this effect is associated with reduced activation of RAGE/NF-kappaB-related inflammatory signaling. Further gain- or loss-of-function experiments and validation in diabetic animal models are required to determine whether this pathway is causally involved and whether the observed cell-based effect can be translated into an in vivo setting.",
+    "keywords": [
+      "AGE-RAGE signaling",
+      "C2C12 myotubes",
+      "NF-kappaB",
+      "diabetes-related skeletal muscle injury",
+      "empagliflozin",
+      "inflammation"
+    ],
+    "mesh_terms": [
+      "*Glucosides/pharmacology",
+      "Animals",
+      "*NF-kappa B/metabolism",
+      "*Muscle Fibers, Skeletal/drug effects/metabolism/pathology",
+      "*Glycation End Products, Advanced",
+      "*Glucose",
+      "*Receptor for Advanced Glycation End Products/metabolism",
+      "Signal Transduction/drug effects",
+      "*Inflammation/metabolism/chemically induced/pathology/drug therapy",
+      "*Benzhydryl Compounds/pharmacology",
+      "Mice",
+      "Rats",
+      "*Serum Albumin, Bovine",
+      "Cell Line",
+      "Molecular Docking Simulation",
+      "Cell Survival/drug effects",
+      "Diabetes Mellitus, Type 2/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Xiaoying",
+        "Mao, Yu",
+        "Wu, Jiaxing",
+        "Deng, Xinyu",
+        "Wang, Huanhuan",
+        "Kang, Zhiqiang"
+      ],
+      "short_names": [
+        "Zhang X",
+        "Mao Y",
+        "Wu J",
+        "Deng X",
+        "Wang H",
+        "Kang Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China.",
+        "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China.",
+        "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China.",
+        "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China.",
+        "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China.",
+        "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Xiaoying",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Yu",
+        "short_name": "Mao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiaxing",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Xinyu",
+        "short_name": "Deng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Huanhuan",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Kang, Zhiqiang",
+        "short_name": "Kang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Zhengzhou Central Hospital Affiliated to Zhengzhou University, Zhengzhou, Henan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in endocrinology"
+    ],
+    "journal_abbrev": [
+      "Front Endocrinol (Lausanne)"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 11:39",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42682498",
+      "40644858",
+      "41825171",
+      "38117373",
+      "41207786",
+      "39299095",
+      "41461121",
+      "40050708",
+      "38110133",
+      "34124273",
+      "41022603",
+      "27939576",
+      "25611208",
+      "31862399",
+      "38697555",
+      "31696501",
+      "41507702",
+      "29903983",
+      "42009627",
+      "40089686",
+      "33054814",
+      "27002409",
+      "40058471",
+      "26851631",
+      "38845211",
+      "21172926",
+      "38840067",
+      "36766855",
+      "39244173",
+      "41443915",
+      "26646068",
+      "24215713",
+      "25402275",
+      "31629953",
+      "32307890",
+      "29778537",
+      "37716489",
+      "38626646",
+      "42458541",
+      "29080256",
+      "28214842",
+      "31825949",
+      "41692111",
+      "40850356",
+      "39971016",
+      "31272030",
+      "29193068",
+      "31492153",
+      "41369400",
+      "25710281",
+      "39354758",
+      "40882313",
+      "35628567",
+      "39307808",
+      "21131443",
+      "38057485",
+      "39561439",
+      "20955633",
+      "30101366",
+      "26248341",
+      "41121478",
+      "39505345",
+      "39127117",
+      "42250616",
+      "31441598",
+      "34951223",
+      "30132524",
+      "29241180",
+      "20963565",
+      "34497344",
+      "41462424",
+      "24740410",
+      "21143336",
+      "18539754",
+      "26497299",
+      "33217691",
+      "33806572",
+      "41470863",
+      "39447411",
+      "39303537",
+      "42302947",
+      "26130066",
+      "41391695",
+      "42116781",
+      "41707664",
+      "26751764",
+      "26950148",
+      "28059488",
+      "36661241",
+      "41612801",
+      "31398417",
+      "39791170",
+      "28081450",
+      "33412153",
+      "37023955",
+      "22229442",
+      "19159557",
+      "42197115",
+      "22982228",
+      "42044573"
+    ],
+    "review": [
+      "42682498"
+    ],
+    "pmc": [
+      "13529554"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42682498/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fendo.2026.1903580",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

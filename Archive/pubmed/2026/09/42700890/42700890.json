@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "42700890",
+    "doi": "10.1016/j.plantsci.2026.113406",
+    "title": "BpCYCD3;1 regulates organ growth by activating the cell cycle module in white birch."
+  },
+  "content": {
+    "abstract": "Cyclin D proteins are key regulators of cell cycle progression and plant growth. Here, we identified BpCYCD3;1, a CYCD3 family member in birch, and investigated its function. Phylogenetic and sequence analyses showed that BpCYCD3;1 is evolutionarily conserved and contains canonical cell cycle-related domains. Promoter and expression analyses suggested responsiveness to environmental and hormonal signals, with preferential expression in leaves. BpCYCD3;1 overexpression promoted leaf expansion and and biomass accumulation, whereas CRISPR/Cas9 knockout reduced vegetative growth. Cytological analyses revealed increased cell density and epidermal cell number in overexpression lines, indicating enhanced cell proliferation. At the molecular level, BpCYCD3;1 upregulated G1/S transition regulators and DNA replication-related genes. Yeast two-hybrid and docking analyses suggested interaction between BpCYCD3;1 and CDKA;1, as well as the interaction between RBR and E2F transcription factors, and binding of E2FA/E2FB to downstream promoters. Together, these results indicate that BpCYCD3;1 promotes vegetative growth by activating the CDKA-RBR-E2F regulatory module, providing a potential target for improving tree growth and biomass production.",
+    "keywords": [
+      "1",
+      "Betula platyphylla",
+      "BpCYCD3",
+      "cell cycle",
+      "vegetative growth"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yue, Linan",
+        "Wang, Xinyu",
+        "Zheng, Zhimin"
+      ],
+      "short_names": [
+        "Yue L",
+        "Wang X",
+        "Zheng Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China; The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China; The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China; The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China. Electronic address: zmzheng@nefu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yue, Linan",
+        "short_name": "Yue L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China; The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xinyu",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China; The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Zhimin",
+        "short_name": "Zheng Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China; The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China. Electronic address: zmzheng@nefu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant science : an international journal of experimental plant biology"
+    ],
+    "journal_abbrev": [
+      "Plant Sci"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42700890",
+      "38640971",
+      "19662336",
+      "31694902",
+      "11669580",
+      "22307083",
+      "21441245",
+      "33525476",
+      "19937368",
+      "8723352",
+      "8876167",
+      "8552092",
+      "10504464",
+      "18650403",
+      "8628255",
+      "29162040",
+      "16179649",
+      "10594784",
+      "16126853",
+      "34513325",
+      "16514015",
+      "30918972",
+      "34859915",
+      "17637753",
+      "9774682",
+      "10082561",
+      "12060226",
+      "17003378",
+      "26464187",
+      "8376397",
+      "11355576",
+      "8567748",
+      "42374588",
+      "39216584",
+      "21771121",
+      "8021288",
+      "25627688",
+      "27047502",
+      "20732881",
+      "9620273",
+      "12913157",
+      "31666236",
+      "7958837",
+      "42386616",
+      "40459000",
+      "42447825",
+      "7478568",
+      "8575210",
+      "32787836",
+      "15604736",
+      "10577392",
+      "10577389",
+      "9569018",
+      "23531690",
+      "8642262",
+      "21221633",
+      "9808153",
+      "23940755",
+      "10488103",
+      "8622649",
+      "33649863",
+      "39357199",
+      "12015319",
+      "10439043",
+      "7734951",
+      "7958836",
+      "8845306",
+      "12588705",
+      "12611887",
+      "10741459",
+      "29859040",
+      "25928155",
+      "10692433",
+      "9780003",
+      "37415334",
+      "15715965",
+      "22879821",
+      "30717766",
+      "7478595",
+      "15632311",
+      "12569402",
+      "10684646",
+      "9704927",
+      "27440937",
+      "42379397",
+      "41059766",
+      "42429233",
+      "23439917",
+      "8853893",
+      "11491305",
+      "12665581",
+      "16508013",
+      "17513485",
+      "10327050",
+      "25909886",
+      "10634932",
+      "41714859",
+      "12812137",
+      "9307976",
+      "19648231"
+    ],
+    "review": [
+      "42700890",
+      "21441245",
+      "10504464",
+      "30918972",
+      "11355576",
+      "8575210",
+      "10577392",
+      "10577389"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0168-9452(26)00434-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

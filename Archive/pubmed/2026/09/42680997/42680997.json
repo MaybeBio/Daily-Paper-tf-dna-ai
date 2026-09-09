@@ -1,0 +1,238 @@
+{
+  "identity": {
+    "pmid": "42680997",
+    "doi": "10.1007/978-1-0716-5408-8_12",
+    "title": "A Dynamic Boolean Model of the Mammalian Cell Cycle: Enhanced Robustness and Mutational Analysis."
+  },
+  "content": {
+    "abstract": "The mammalian cell cycle is a tightly regulated process driven by cyclins, their regulators. While previous Boolean models captured certain aspects of cell cycle dynamics, they suffered from incomplete coverage of key regulatory proteins and limited temporal realism. Here, we present an improved Boolean model of the mammalian cell cycle core control system. The model incorporates a complete set of 13 essential elements, including cyclins (D, E, A, B), their transcription factors (Myc, TFE, TFB), inhibitors (p27, Rb), ubiquitin-mediated degraders (SCF, CDH1, CDC20A, CDC20B). We also introduce synchronous, asynchronous updating schemes with realistic time delays for protein activation, enabling a more accurate temporal representation of cell cycle progression. Simulation results reveal two principal attractors: a stable G0 attractor, a 20-state limit cycle attractor representing realistic phase transitions of the cell cycle. Robustness, sensitivity analyses demonstrate that the system is highly resilient, while mutation studies highlight vulnerabilities-particularly that overexpression of certain regulators halts cell cycle progression more frequently than knockouts. This chapter provides detailed modeling steps, Boolean logic formulations, simulation procedures, and mutation experiments. Possible extensions of the model are also provided, along with some guidance on implementing and troubleshooting Boolean models for cell cycle analysis.",
+    "keywords": [
+      "Attractors",
+      "Boolean networks",
+      "Cell cycle modeling",
+      "Computational modeling",
+      "Cyclins",
+      "Mutation analysis",
+      "Robustness",
+      "Sensitivity",
+      "Systems biology",
+      "Temporal realism"
+    ],
+    "mesh_terms": [
+      "*Cell Cycle/genetics",
+      "Animals",
+      "*Models, Biological",
+      "Humans",
+      "*Mutation",
+      "Computer Simulation",
+      "Cyclins/metabolism/genetics",
+      "Cell Cycle Proteins/metabolism/genetics",
+      "Mammals",
+      "DNA Mutational Analysis/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alsharaiah, Mohammad Abdallah",
+        "Samarasinghe, Sandhya",
+        "Kulasiri, Don"
+      ],
+      "short_names": [
+        "Alsharaiah MA",
+        "Samarasinghe S",
+        "Kulasiri D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "King Abdullah II School for Information Technology, Department of Information Technology, The University of Jordan, Amman, Jordan.",
+        "Complex Systems, Big Data, Informatics Initiative (CSBII), Lincoln University, Christchurch, New Zealand. sandhya.samarasinghe@lincoln.ac.nz.",
+        "Complex Systems, Big Data, Informatics Initiative (CSBII), Lincoln University, Christchurch, New Zealand.",
+        "Department of Wine, Food, Molecular Biosciences, Lincoln University, Christchurch, New Zealand."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Alsharaiah, Mohammad Abdallah",
+        "short_name": "Alsharaiah MA",
+        "identifiers": [],
+        "affiliations": [
+          "King Abdullah II School for Information Technology, Department of Information Technology, The University of Jordan, Amman, Jordan."
+        ]
+      },
+      {
+        "full_name": "Samarasinghe, Sandhya",
+        "short_name": "Samarasinghe S",
+        "identifiers": [],
+        "affiliations": [
+          "Complex Systems, Big Data, Informatics Initiative (CSBII), Lincoln University, Christchurch, New Zealand. sandhya.samarasinghe@lincoln.ac.nz."
+        ]
+      },
+      {
+        "full_name": "Kulasiri, Don",
+        "short_name": "Kulasiri D",
+        "identifiers": [],
+        "affiliations": [
+          "Complex Systems, Big Data, Informatics Initiative (CSBII), Lincoln University, Christchurch, New Zealand.",
+          "Department of Wine, Food, Molecular Biosciences, Lincoln University, Christchurch, New Zealand."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42680997",
+      "42475469",
+      "24212100",
+      "32142804",
+      "11355576",
+      "36610587",
+      "24564942",
+      "40504255",
+      "22161326",
+      "16873462",
+      "19828076",
+      "21631139",
+      "22458764",
+      "21347318",
+      "39420008",
+      "17678529",
+      "27587700",
+      "15363676",
+      "39357105",
+      "26761860",
+      "24824602",
+      "28647496",
+      "12391153",
+      "30656504",
+      "15175253",
+      "22932419",
+      "42648628",
+      "9697172",
+      "36434030",
+      "25723815",
+      "26708052",
+      "25723523",
+      "21198121",
+      "20007375",
+      "11593424",
+      "26340681",
+      "17936309",
+      "9620273",
+      "9704929",
+      "10735620",
+      "19158303",
+      "36222263",
+      "21464507",
+      "8916036",
+      "20126540",
+      "26821940",
+      "20659480",
+      "15004027",
+      "19561645",
+      "23017186",
+      "22192526",
+      "24091393",
+      "7813445",
+      "9154817",
+      "15281339",
+      "19185585",
+      "27448301",
+      "25725640",
+      "24055261",
+      "12429941",
+      "15686519",
+      "16146805",
+      "41998018",
+      "23912807",
+      "15576929",
+      "14729352",
+      "34535069",
+      "32334991",
+      "19025648",
+      "11360190",
+      "10022926",
+      "29879983",
+      "22929591",
+      "19168076",
+      "18301750",
+      "8633069",
+      "10373516",
+      "23518505",
+      "10712520",
+      "9811456",
+      "12855747",
+      "21635899",
+      "22132067",
+      "16243906",
+      "16903215",
+      "8760794",
+      "25080304",
+      "21778527",
+      "9191053",
+      "20866846",
+      "18321983",
+      "11896535",
+      "8208548",
+      "22936984",
+      "18692073",
+      "24162518",
+      "9163430",
+      "23469179",
+      "24069138",
+      "9572495"
+    ],
+    "review": [
+      "42680997",
+      "11355576",
+      "36222263",
+      "19561645",
+      "15281339",
+      "12429941",
+      "16146805",
+      "15576929",
+      "32334991"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5408-8_12",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1599",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

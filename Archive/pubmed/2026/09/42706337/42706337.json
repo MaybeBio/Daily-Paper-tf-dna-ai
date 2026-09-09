@@ -1,0 +1,246 @@
+{
+  "identity": {
+    "pmid": "42706337",
+    "doi": "10.1038/s41598-026-63671-0",
+    "title": "Integrated network pharmacology, molecular docking, and experimental validation to reveal the potential mechanism of Ginsenoside Rg1 on chronic obstructive pulmonary disease."
+  },
+  "content": {
+    "abstract": "Ginsenoside Rg1 (GS Rg1), a natural flavonoid exhibiting anti-inflammatory and antioxidant properties, holds significant potential for treatment chronic obstructive pulmonary disease (COPD). Nevertheless, the precise mechanisms underlying its therapeutic effects remain to be fully elucidated. This study aimed to explore the role and potential mechanism of GS Rg1 in the treatment of COPD using network pharmacology, molecular docking, and experimental validation.Targets related to GS Rg1 and COPD were screened from public databases, and the potential common targets were then imported into the STRING database to construct a protein-protein interaction (PPI) network. Gene ontology (GO) and Kyoto encyclopedia of genes and genomes (KEGG) enrichment analysis were performed to identify key signaling pathways. Molecular docking was employed to predict the binding interactions between GS Rg1 and core targets. A BEAS-2B cell model induced by lipopolysaccharide(LPS) and cigarette smoke extract(CSE) was used to explore the protective mechanisms of GS Rg1. Western blot analysis was conducted to validate the critical targets and pathways involved in the anti-COPD effects of GS Rg1. Network pharmacology analysis revealed 105 common targets between GS Rg1 and COPD. The EGFR/PI3K/AKT and EGFR/STAT3 signaling pathways were selected for further validation. GS Rg1 was demonstrated to effectively inhibit inflammation and mucus hypersecretion in vitro models of COPD. Western blot results showed that GS Rg1 treatment significantly downregulated the expression of proteins involved in the EGFR/PI3K/AKT and EGFR/STAT3 signaling pathway, consistent with the network pharmacology findings. CSE/LPS exposure induces inflammation and oxidative stress in COPD by disrupting the EGFR/PI3K/AKT and EGFR/STAT3 signaling pathways, and GS Rg1 significantly alleviates these effects, which may be partially through regulating the EGFR/PI3K/AKT and EGFR/STAT3 signaling pathway.",
+    "keywords": [
+      "Chronic obstructive pulmonary disease",
+      "EGFR/PI3K/AKT signaling pathway",
+      "Ginsenoside Rg1",
+      "Molecular docking",
+      "Network pharmacology"
+    ],
+    "mesh_terms": [
+      "*Ginsenosides/pharmacology/chemistry",
+      "*Molecular Docking Simulation",
+      "*Pulmonary Disease, Chronic Obstructive/drug therapy/metabolism/pathology",
+      "Humans",
+      "*Network Pharmacology/methods",
+      "Signal Transduction/drug effects",
+      "ErbB Receptors/metabolism",
+      "Protein Interaction Maps/drug effects",
+      "Cell Line",
+      "Phosphatidylinositol 3-Kinases/metabolism",
+      "STAT3 Transcription Factor/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Xinpeng",
+        "Xiang, Dandan",
+        "Hu, Lingling",
+        "Lin, Lingdan",
+        "Wang, Guoqiang",
+        "Xu, Jing"
+      ],
+      "short_names": [
+        "Li X",
+        "Xiang D",
+        "Hu L",
+        "Lin L",
+        "Wang G",
+        "Xu J"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-5586-4088"
+      ],
+      "affiliations": [
+        "Department of Respiratory and Critical Care Medicine, Qilu Hospital of Shandong University Dezhou Hospital, No.1166, Dongfanghong West Road, Decheng District, Dezhou, 253000, Shandong, P.R. China.",
+        "Department of Respiratory and Critical Care Medicine, Qilu Hospital of Shandong University Dezhou Hospital, No.1166, Dongfanghong West Road, Decheng District, Dezhou, 253000, Shandong, P.R. China.",
+        "Department of Respiratory and Critical Care Medicine, Qilu Hospital of Shandong University Dezhou Hospital, No.1166, Dongfanghong West Road, Decheng District, Dezhou, 253000, Shandong, P.R. China.",
+        "Department of Internal Medicine, Qilu Hospital of Shandong University Dezhou Hospital East Campus, Dezhou, 253000, Shandong, P.R. China.",
+        "School of Basic Medical Sciences, Shandong University, Jinan, 274000, Shandong, P.R. China.",
+        "Department of Respiratory and Critical Care Medicine, Qilu Hospital of Shandong University Dezhou Hospital, No.1166, Dongfanghong West Road, Decheng District, Dezhou, 253000, Shandong, P.R. China. xujing20223@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Xinpeng",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Qilu Hospital of Shandong University Dezhou Hospital, No.1166, Dongfanghong West Road, Decheng District, Dezhou, 253000, Shandong, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Dandan",
+        "short_name": "Xiang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Qilu Hospital of Shandong University Dezhou Hospital, No.1166, Dongfanghong West Road, Decheng District, Dezhou, 253000, Shandong, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Hu, Lingling",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Qilu Hospital of Shandong University Dezhou Hospital, No.1166, Dongfanghong West Road, Decheng District, Dezhou, 253000, Shandong, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Lin, Lingdan",
+        "short_name": "Lin L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Qilu Hospital of Shandong University Dezhou Hospital East Campus, Dezhou, 253000, Shandong, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Guoqiang",
+        "short_name": "Wang G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong University, Jinan, 274000, Shandong, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jing",
+        "short_name": "Xu J",
+        "identifiers": [
+          "0009-0009-5586-4088"
+        ],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Qilu Hospital of Shandong University Dezhou Hospital, No.1166, Dongfanghong West Road, Decheng District, Dezhou, 253000, Shandong, P.R. China. xujing20223@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Scientific reports"
+    ],
+    "journal_abbrev": [
+      "Sci Rep"
+    ],
+    "pub_date": "2026 Jul 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 05:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42706337",
+      "40164657",
+      "39066538",
+      "41261300",
+      "40350871",
+      "41871911",
+      "41492010",
+      "41207347",
+      "39279134",
+      "40466880",
+      "38038388",
+      "40255473",
+      "40128040",
+      "42421348",
+      "39499411",
+      "41593745",
+      "40452077",
+      "42405402",
+      "39440778",
+      "39192652",
+      "37879505",
+      "40129983",
+      "40716635",
+      "39396715",
+      "42595923",
+      "36403742",
+      "39140079",
+      "39307810",
+      "37799727",
+      "37827295",
+      "40023967",
+      "39259410",
+      "41490553",
+      "40350911",
+      "40133026",
+      "40615101",
+      "41791616",
+      "39577218",
+      "40347881",
+      "39701786",
+      "40986607",
+      "34246740",
+      "38822913",
+      "39504983",
+      "38941043",
+      "34994139",
+      "41504045",
+      "41184109",
+      "39278295",
+      "42551761",
+      "39326136",
+      "38845538",
+      "38381309",
+      "41203698",
+      "41261616",
+      "37282941",
+      "35442463",
+      "42323571",
+      "42085848",
+      "42011617",
+      "42661803",
+      "40522420",
+      "37287284",
+      "40461235",
+      "38916485",
+      "40594966",
+      "37833363",
+      "39991083",
+      "38114219",
+      "39955364",
+      "34808299",
+      "38086608",
+      "41101549",
+      "42205105",
+      "39222242",
+      "41365176",
+      "39490433",
+      "37247682",
+      "41603923",
+      "41542898",
+      "38342020",
+      "39392030",
+      "39531905",
+      "39343107",
+      "42227387",
+      "38432578",
+      "40388786",
+      "39855310",
+      "39151493",
+      "38670393",
+      "40725959",
+      "41418734",
+      "35970314",
+      "40013962",
+      "38403323",
+      "37080367",
+      "37990309",
+      "42233527",
+      "38759074",
+      "36576506"
+    ],
+    "review": [
+      "42706337"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

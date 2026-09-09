@@ -1,0 +1,335 @@
+{
+  "identity": {
+    "pmid": "42694095",
+    "doi": "10.3389/fimmu.2026.1932788",
+    "title": "Shared Treg dysregulation underlies psoriasis vulgaris and atopic dermatitis through the PHF19-PRC2 epigenetic axis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Psoriasis vulgaris (PV) and atopic dermatitis (AD) are chronic inflammatory skin diseases characterized by distinct dominant T cell subsets, yet emerging evidence suggests overlapping immune mechanisms. Whether a shared Treg abnormality underlies both diseases remains unclear. METHODS: Single-cell RNA sequencing data from lesional T cells of 8 PV, 7 AD, and 7 healthy controls were analyzed. Treg subset identification, trajectory, communication, and enrichment analyses were conducted. Differentially expressed genes from both diseases were intersected and subjected to Mendelian randomization to screen for shared causal genes, followed by interaction mapping, drug prediction, and molecular docking. Findings were validated in Foxp3-tdTomato reporter mouse models of imiquimod-induced psoriasis-like and MC903-induced AD-like dermatitis by flow cytometry and quantitative PCR. RESULTS: A shared Treg triad remodeling pattern was identified: central memory Treg (cmTreg) was almost completely depleted, cycling Treg (Treg-c) expanded, and effector Treg (eTreg) accumulated in both diseases. Pseudotemporal analysis revealed a differentiation coordination defect, with upstream Treg-c shifting prematurely while effector Treg failed terminal maturation. Cell communication analysis identified enhanced MIF-(CD74+CXCR4/CD44) signaling as a shared intercellular remodeling axis, with the network shifting from a cmTreg-centric topology to one jointly centered on Treg-c and eTreg. Mendelian randomization identified seven shared causal genes (PDCD5, PHF19, GNAQ, LRR1, DHX36, TMEM107, FAM200B), with PHF19 serving as a core accessory subunit of PRC2. Molecular docking and in vivo experiments demonstrated that resveratrol binds PHF19, is predicted to activate the PHF19-PRC2-H3K27me3 axis, restores Treg subset homeostasis, and ameliorates skin lesions in both models. CONCLUSIONS: Treg subset remodeling is a shared pathogenic feature, nominating PHF19-targeted activation as a tolerance-restoring therapeutic strategy.",
+    "keywords": [
+      "PHF19",
+      "PRC2",
+      "atopic dermatitis",
+      "psoriasis vulgaris",
+      "regulatory T cell",
+      "resveratrol"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Dermatitis, Atopic/immunology/genetics/metabolism",
+      "*T-Lymphocytes, Regulatory/immunology/metabolism",
+      "Humans",
+      "*Psoriasis/immunology/genetics/metabolism",
+      "Mice",
+      "*Epigenesis, Genetic",
+      "*Polycomb Repressive Complex 2/metabolism/genetics",
+      "*DNA-Binding Proteins/metabolism/genetics",
+      "Disease Models, Animal",
+      "Molecular Docking Simulation",
+      "Female",
+      "*Transcription Factors/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lin, Yiting",
+        "Su, Xiaolei",
+        "Jin, Mingzhu",
+        "Wang, Yuqi",
+        "Li, Yaoyao",
+        "Zong, Bingquan",
+        "Song, Haoran",
+        "Lv, Yajie",
+        "Liu, Zhenhua",
+        "Wang, Gang",
+        "Wu, Shengxi"
+      ],
+      "short_names": [
+        "Lin Y",
+        "Su X",
+        "Jin M",
+        "Wang Y",
+        "Li Y",
+        "Zong B",
+        "Song H",
+        "Lv Y",
+        "Liu Z",
+        "Wang G",
+        "Wu S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurobiology, School of Basic Medicine, Fourth Military Medical University, Xi'an, China.",
+        "Department of Dermatology, Tangdu Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Tangdu Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "School of Basic Medicine, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "School of Basic Medicine, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "School of Basic Medicine, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Tangdu Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Neurobiology, School of Basic Medicine, Fourth Military Medical University, Xi'an, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lin, Yiting",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, School of Basic Medicine, Fourth Military Medical University, Xi'an, China.",
+          "Department of Dermatology, Tangdu Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Su, Xiaolei",
+        "short_name": "Su X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Mingzhu",
+        "short_name": "Jin M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Tangdu Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuqi",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yaoyao",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Zong, Bingquan",
+        "short_name": "Zong B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Song, Haoran",
+        "short_name": "Song H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Yajie",
+        "short_name": "Lv Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Tangdu Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhenhua",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Gang",
+        "short_name": "Wang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Shengxi",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, School of Basic Medicine, Fourth Military Medical University, Xi'an, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 11:39",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42694095",
+      "42406119",
+      "31383640",
+      "41699408",
+      "39689661",
+      "39088121",
+      "42666328",
+      "42088505",
+      "41556698",
+      "38766834",
+      "38845244",
+      "32709423",
+      "33358580",
+      "41795196",
+      "30197310",
+      "22920495",
+      "38556434",
+      "37473822",
+      "42362092",
+      "41813518",
+      "42164085",
+      "40803325",
+      "31089138",
+      "42093619",
+      "41825614",
+      "31683543",
+      "42009143",
+      "40609281",
+      "31087793",
+      "42471046",
+      "40406126",
+      "23273982",
+      "41580564",
+      "32155117",
+      "30510991",
+      "28456618",
+      "17530636",
+      "41088531",
+      "40155813",
+      "38331120",
+      "21949809",
+      "29686529",
+      "42235317",
+      "42433347",
+      "35586812",
+      "41224720",
+      "40186900",
+      "40995370",
+      "41174821",
+      "21704361",
+      "41572692",
+      "27593872",
+      "42001837",
+      "41747595",
+      "38325579",
+      "41931959",
+      "26931745",
+      "40042804",
+      "28218721",
+      "23958114",
+      "41660613",
+      "42397430",
+      "41495845",
+      "30154801",
+      "42219068",
+      "31264977",
+      "42231444",
+      "15611238",
+      "20548030",
+      "18363755",
+      "41418349",
+      "32022254",
+      "41785726",
+      "40159643",
+      "24304358",
+      "30323224",
+      "32449434",
+      "28738533",
+      "32186120",
+      "42509698",
+      "42265520",
+      "32640256",
+      "37895228",
+      "40803430",
+      "31937752",
+      "40210183",
+      "41066230",
+      "32869745",
+      "41793700",
+      "22402436",
+      "32509883",
+      "24767879",
+      "19432936",
+      "16029329",
+      "24608112",
+      "42600913",
+      "26228301",
+      "18523683",
+      "41081460",
+      "38653920"
+    ],
+    "review": [
+      "42694095",
+      "31683543",
+      "32022254"
+    ],
+    "pmc": [
+      "13538097"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/psoriasis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Psoriasis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42694095/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3842",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1932788",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

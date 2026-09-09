@@ -1,0 +1,286 @@
+{
+  "identity": {
+    "pmid": "42708302",
+    "doi": "10.2174/0113862073491675260817100248",
+    "title": "Transcriptome Analysis and Experimental Validation of Palmitoylation- Related Biomarkers in Atherosclerosis."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Protein palmitoylation contributes to membrane localisation, signal transduction, and cell-fate regulation. It is closely associated with lipid metabolic dysfunction, immune inflammation, and vascular remodelling in atherosclerosis (AS). However, key palmitoylation-related transcriptomic markers and their potential causal associations with AS remain incompletely defined. METHODS: The Gene Expression Omnibus (GEO) dataset GSE100927 was used as the training cohort, and GSE43292 was used as an external validation cohort. Differentially expressed genes were identified using limma and intersected with palmitoylation-related genes to obtain palmitoylation-related differentially expressed genes (PRDEGs). Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses were then performed using clusterProfiler. Two-sample Mendelian randomisation was used to evaluate potential causal relationships between characteristic genes and AS. Feature selection was conducted using random forest and support vector machine recursive feature elimination (SVM-RFE), and the overlapping genes selected by both methods were retained. Receiver operating characteristic (ROC) curves were used to assess diagnostic performance. A five-gene nomogram was constructed, and its clinical utility was evaluated using calibration curves and decision curve analysis (DCA). Gene set variation analysis (GSVA) was applied to compare pathway activity between high- and low-expression groups for each core gene. Single-cell analysis using Seurat and expression-based cell-cell communication analysis using CellChat were conducted with GSE159677, and upstream transcription factors were predicted using NetworkAnalyst. For in vivo validation, an AS model was established in ApoE(8)/(8) mice fed a high-fat diet, and aortic gene and protein expression were assessed by RT-qPCR and western blotting. RESULTS: In GSE100927, 51 PRDEGs were identified. GO and KEGG enrichment analyses highlighted pathways associated with regulation of monoatomic ion transport, sarcomere and myofibril organisation, and immune inflammation. Mendelian randomisation suggested a potential protective causal association between SLC7A7 and AS. By integrating MR with random forest and SVM-RFE feature selection, we prioritised five core genes: PLCB2, GMIP, NEXN, PLN, and SLC7A7. These genes showed good diagnostic performance in GSE43292. The resulting nomogram was well calibrated and demonstrated stable net benefit in decision curve and clinical impact curve analyses. Single-gene GSVA identified consistently activated pathways across multiple genes, including innate and adaptive immune recognition, calcium signalling and myocardial contraction/cardiomyopathy, extracellular matrix-receptor interaction, cell junction pathways, autophagy-lysosome pathways, and several metabolic programmes. At the single-cell level, PLCB2 and GMIP were predominantly expressed in T cells and macrophages, NEXN and PLN were enriched in vascular smooth muscle cells, and SLC7A7 was mainly expressed in macrophages. CellChat analysis indicated increased signals for immune-related ligand-receptor interactions. In ApoE(8)/(8) mice fed a high-fat diet, PLCB2, GMIP, and SLC7A7 were upregulated, whereas NEXN and PLN were downregulated; protein-level changes were concordant with the transcriptomic trends. DISCUSSION: These findings indicate that palmitoylation-related dysregulation in AS converges on immune inflammation, calcium signalling/contractile programmes, ECM remodelling, and autophagy-linked metabolism. The five-gene panel is supported by external validation, single-cell localisation to immune and vascular compartments, and concordant results in ApoE(8)/(8) mice. CONCLUSION: This study identified and validated five palmitoylation-related genes associated with AS. SLC7A7 showed a potential protective causal signal in MR analysis. The enriched pathway patterns linked these genes to immune inflammation, calcium signalling-contraction coupling, ECM remodelling, cell adhesion, and autophagy- associated metabolic reprogramming. The five-gene nomogram showed potential utility for diagnostic classification and decision support, nominating candidate biomarkers and pathway targets for AS molecular subtyping, diagnosis, and mechanistic investigation.",
+    "keywords": [
+      "Atherosclerosis (AS)",
+      "bioinformatics",
+      "machine learning algorithms",
+      "palmitoylation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Song, Zhijian",
+        "Ma, Yirong",
+        "Liu, Yanhong",
+        "Lai, Junyu",
+        "Sun, Liqiang",
+        "Li, Qiming",
+        "Fan, Yaguo",
+        "Huang, Yingying",
+        "Ding, Doukun",
+        "Wu, Jianguang"
+      ],
+      "short_names": [
+        "Song Z",
+        "Ma Y",
+        "Liu Y",
+        "Lai J",
+        "Sun L",
+        "Li Q",
+        "Fan Y",
+        "Huang Y",
+        "Ding D",
+        "Wu J"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-2885-9069",
+        "ORCID: 0009-0007-0356-4118",
+        "ORCID: 0009-0003-5591-6198",
+        "ORCID: 0009-0000-3117-9486"
+      ],
+      "affiliations": [
+        "Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Song, Zhijian",
+        "short_name": "Song Z",
+        "identifiers": [
+          "0009-0000-2885-9069"
+        ],
+        "affiliations": [
+          "Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Yirong",
+        "short_name": "Ma Y",
+        "identifiers": [
+          "0009-0007-0356-4118"
+        ],
+        "affiliations": [
+          "Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yanhong",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0009-0003-5591-6198"
+        ],
+        "affiliations": [
+          "Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Junyu",
+        "short_name": "Lai J",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Liqiang",
+        "short_name": "Sun L",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qiming",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Yaguo",
+        "short_name": "Fan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yingying",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Doukun",
+        "short_name": "Ding D",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jianguang",
+        "short_name": "Wu J",
+        "identifiers": [
+          "0009-0000-3117-9486"
+        ],
+        "affiliations": [
+          "Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Combinatorial chemistry & high throughput screening"
+    ],
+    "journal_abbrev": [
+      "Comb Chem High Throughput Screen"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42708302",
+      "42642681",
+      "41822387",
+      "40916281",
+      "41415264",
+      "42565562",
+      "41200172",
+      "42326009",
+      "41044520",
+      "41760060",
+      "41388523",
+      "42520089",
+      "41324863",
+      "39586719",
+      "42597971",
+      "41146237",
+      "41132349",
+      "41611834",
+      "41257259",
+      "36532015",
+      "36660690",
+      "42024670",
+      "41656832",
+      "42553137",
+      "42363518",
+      "41858783",
+      "41583295",
+      "40406620",
+      "39509434",
+      "39396400",
+      "42107160",
+      "41667698",
+      "42164373",
+      "38951833",
+      "41872824",
+      "41508240",
+      "39263286",
+      "42511975",
+      "42233387",
+      "39351239",
+      "38518057",
+      "38867322",
+      "42568355",
+      "41006883",
+      "42123756",
+      "42216376",
+      "41465893",
+      "40312440",
+      "39588003",
+      "42650150",
+      "41378005",
+      "42431430",
+      "42265520",
+      "40360670",
+      "39142001",
+      "38260098",
+      "40860289",
+      "39270557",
+      "41536554",
+      "41080564",
+      "38291374",
+      "41151411",
+      "36148059",
+      "40832467",
+      "42056344",
+      "41164411",
+      "42558367",
+      "41716413",
+      "41895505",
+      "42564306",
+      "41064491",
+      "38283345",
+      "42113191",
+      "42015036",
+      "41988156",
+      "41924281",
+      "42225708",
+      "41826854",
+      "40983575",
+      "39375405",
+      "39351221",
+      "42569390",
+      "40630623",
+      "41188996",
+      "39697326",
+      "40532306",
+      "42694321",
+      "42510870",
+      "42039143",
+      "42367122",
+      "35713363",
+      "41367897",
+      "42292668",
+      "42509823",
+      "39507054",
+      "35709926",
+      "39805933",
+      "42609119",
+      "42147232",
+      "40642528"
+    ],
+    "review": [
+      "42708302"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

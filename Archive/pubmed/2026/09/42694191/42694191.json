@@ -1,0 +1,334 @@
+{
+  "identity": {
+    "pmid": "42694191",
+    "doi": "10.3389/fimmu.2026.1919175",
+    "title": "A regulatory network underlying idiopathic pulmonary fibrosis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Idiopathic pulmonary fibrosis (IPF) is a progressive interstitial lung disease in which genetic susceptibility interacts with epithelial, immune, and mesenchymal remodeling. Although the chromosome 11p15.5 locus contains established IPF susceptibility signals near MUC5B and TOLLIP, the broader regulatory architecture of this region remains incompletely resolved. METHODS: We integrated IPF genome-wide association study summary statistics with methylation, expression, and protein quantitative trait loci using summary-data-based Mendelian randomization (SMR). SMR-prioritized candidates were evaluated in independent transcriptomic and methylation cohorts and further contextualized using microRNA, transcription-factor, protein-interaction, machine-learning, single-cell, and spatial transcriptomic analyses. Fibrosis-associated expression patterns were assessed in a bleomycin-induced pulmonary fibrosis rat model. RESULTS: The analyses recovered the established MUC5B and TOLLIP signals and prioritized BRSK2 as a comparatively underexplored candidate supported by eQTL-based SMR and independent molecular evidence. The BRSK2 pQTL association did not pass the HEIDI test and was therefore not interpreted as convergent protein-level genetic evidence. Network analyses linked BRSK2 to cell-cycle, metabolic-stress, and senescence-related programs, while cross-cohort machine learning prioritized FOXA2, CDC25B, and NFE2 as informative network features. Single-cell and spatial analyses localized BRSK2 preferentially to fibroblast and myofibroblast compartments and to regions with greater histological fibrosis severity. In fibrotic rat lungs, BRSK2 expression increased, whereas FOXA2 and CDC25B decreased at the transcript and protein levels. CONCLUSIONS: These findings refine the molecular landscape of the chromosome 11p15.5 IPF susceptibility locus and prioritize BRSK2 as a candidate component of an IPF-associated profibrotic fibroblast state. Its causal contribution, direct regulatory relationships, and therapeutic tractability require targeted mechanistic validation.",
+    "keywords": [
+      "idiopathic pulmonary fibrosis",
+      "mendelian randomization",
+      "multi-omics integration",
+      "regulatory network",
+      "single-cell and spatial transcriptomics"
+    ],
+    "mesh_terms": [
+      "*Idiopathic Pulmonary Fibrosis/genetics/metabolism/pathology/chemically induced",
+      "Animals",
+      "Humans",
+      "*Gene Regulatory Networks",
+      "Rats",
+      "Genome-Wide Association Study",
+      "Quantitative Trait Loci",
+      "Genetic Predisposition to Disease",
+      "Mucin-5B/genetics",
+      "Disease Models, Animal",
+      "Intracellular Signaling Peptides and Proteins/genetics",
+      "Bleomycin",
+      "DNA Methylation",
+      "Transcriptome"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Ganggang",
+        "Pan, Xiaochuan",
+        "Wang, Yuanyuan",
+        "Lan, Peishu",
+        "Li, Jie",
+        "Wu, Xuanyu",
+        "He, Yanyun",
+        "Wen, Hongdan",
+        "Cheng, Zhitian",
+        "Du, Quanyu",
+        "Wu, Wenbin"
+      ],
+      "short_names": [
+        "Li G",
+        "Pan X",
+        "Wang Y",
+        "Lan P",
+        "Li J",
+        "Wu X",
+        "He Y",
+        "Wen H",
+        "Cheng Z",
+        "Du Q",
+        "Wu W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Affiliated Tumor Hospital of Xinjiang Medical University, Urumqi, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Ganggang",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Xiaochuan",
+        "short_name": "Pan X",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuanyuan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Tumor Hospital of Xinjiang Medical University, Urumqi, China."
+        ]
+      },
+      {
+        "full_name": "Lan, Peishu",
+        "short_name": "Lan P",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jie",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xuanyu",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "He, Yanyun",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Hongdan",
+        "short_name": "Wen H",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Zhitian",
+        "short_name": "Cheng Z",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Du, Quanyu",
+        "short_name": "Du Q",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Wenbin",
+        "short_name": "Wu W",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Chengdu University of Traditional Chinese Medicine, School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 11:39",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42694191",
+      "39838395",
+      "41939867",
+      "41699549",
+      "42024670",
+      "40091050",
+      "41438766",
+      "40592928",
+      "42327717",
+      "41562054",
+      "35816432",
+      "24429156",
+      "31339356",
+      "38783236",
+      "41787499",
+      "33714028",
+      "39425105",
+      "41972152",
+      "41772215",
+      "41868721",
+      "39844246",
+      "42120750",
+      "41632363",
+      "42533188",
+      "39876559",
+      "41516127",
+      "42260332",
+      "39174688",
+      "42196408",
+      "36108173",
+      "42074286",
+      "42558367",
+      "39190377",
+      "42566402",
+      "29066090",
+      "21506741",
+      "41287581",
+      "40045304",
+      "42600058",
+      "31710517",
+      "42682427",
+      "41832569",
+      "26331942",
+      "42174588",
+      "41254784",
+      "41896191",
+      "40514687",
+      "39952317",
+      "29565179",
+      "42394584",
+      "39329706",
+      "39896814",
+      "41693713",
+      "41788971",
+      "41664201",
+      "35986225",
+      "42642720",
+      "40619039",
+      "41801343",
+      "41955235",
+      "40826382",
+      "24853416",
+      "31034279",
+      "23321605",
+      "42694092",
+      "38309995",
+      "42001075",
+      "37170220",
+      "42629724",
+      "25275363",
+      "42516377",
+      "42446678",
+      "42693724",
+      "32596871",
+      "33784491",
+      "41731859",
+      "37523715",
+      "28066036",
+      "40675771",
+      "41126804",
+      "28272906",
+      "42249421",
+      "41174273",
+      "42223712",
+      "33639995",
+      "41965819",
+      "40653482",
+      "42219961",
+      "42500538",
+      "41192648",
+      "34873597",
+      "41815121",
+      "42051535",
+      "40670650",
+      "41314550",
+      "37559532",
+      "40544884",
+      "30560893",
+      "37977320",
+      "41616791"
+    ],
+    "review": [
+      "42694191",
+      "39174688",
+      "41287581",
+      "37170220"
+    ],
+    "pmc": [
+      "13537991"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42694191/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CDC25B-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1253",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1919175",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

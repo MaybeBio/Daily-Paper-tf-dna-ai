@@ -1,0 +1,239 @@
+{
+  "identity": {
+    "pmid": "42707507",
+    "doi": "10.1093/bioadv/vbag235",
+    "title": "Interpretable prediction of nucleic acid-binding proteins using a protein language model."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Accurate identification of DNA-binding proteins (DBPs) and RNA-binding proteins (RBPs) is critical for elucidating transcriptional and post-transcriptional regulatory mechanisms. However, existing computational approaches often rely on inferred labels or domain-specific annotations, which limit the subsequent generalizability. RESULTS: This study aimed to introduce transformer-based classifiers for human DBPs and RBPs that rely solely on protein sequence information without engineered features or domain constraints. The models were implemented using ESM-2 with low-rank adaptation (LoRA) fine-tuning and trained on experimentally validated datasets, including chromatin immunoprecipitation sequencing (ChIP-seq) annotations for DBPs and eCLIP annotations for RBPs. Next, to evaluate biological relevance, we computed value-aware attention (VAT) scores aggregated across transformer layers to interpret model focus. In 20-fold cross-validation, the DBP model achieved an area under the receiver operating characteristic curve (AUROC) of 0.84 with a Matthews correlation coefficient (MCC) of 0.40, while the RBP model achieved an AUROC of 0.92 with an MCC of 0.46. Proteins predicted as nucleic acid-binding were enriched for known binding domains, and inspection of attention distributions revealed preferential focus on annotated functional regions rather than non-binding segments. These results demonstrate that attention-based protein language models can accurately identify nucleic acid-binding proteins directly from sequence data. Moreover, these models reveal biologically meaningful sequence determinants of binding, establishing an interpretable and scalable framework for proteome-wide characterization of protein-nucleic acid interactions. AVAILABILITY AND IMPLEMENTATION: Code is available on GitHub (https://github.com/CSB-hub/DRBP).",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Hanjin",
+        "Lee, Sung-Gwon",
+        "Oh, Jooseong",
+        "Kim, Kee K",
+        "Kim, Eun-Mi",
+        "Park, Chungoo"
+      ],
+      "short_names": [
+        "Kim H",
+        "Lee SG",
+        "Oh J",
+        "Kim KK",
+        "Kim EM",
+        "Park C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1088-3383",
+        "ORCID: 0000-0002-9545-6654"
+      ],
+      "affiliations": [
+        "School of Biological Science and Technology, Chonnam National University, Gwangju 61186, Republic of Korea.",
+        "Institute of Systems Biology and Life Science Informatics, Chonnam National University, Gwangju 61186, Republic of Korea.",
+        "School of Biological Science and Technology, Chonnam National University, Gwangju 61186, Republic of Korea.",
+        "School of Biological Science and Technology, Chonnam National University, Gwangju 61186, Republic of Korea.",
+        "Department of Biochemistry, College of Natural Sciences, Chungnam National University, Daejeon 34134, Republic of Korea.",
+        "Department of Bio and Environmental Technology, College of Science and Convergence Technology, Seoul Women's University, Seoul 01797, Republic of Korea.",
+        "School of Biological Science and Technology, Chonnam National University, Gwangju 61186, Republic of Korea.",
+        "Institute of Systems Biology and Life Science Informatics, Chonnam National University, Gwangju 61186, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Hanjin",
+        "short_name": "Kim H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Science and Technology, Chonnam National University, Gwangju 61186, Republic of Korea.",
+          "Institute of Systems Biology and Life Science Informatics, Chonnam National University, Gwangju 61186, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Sung-Gwon",
+        "short_name": "Lee SG",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Science and Technology, Chonnam National University, Gwangju 61186, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Oh, Jooseong",
+        "short_name": "Oh J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Science and Technology, Chonnam National University, Gwangju 61186, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Kee K",
+        "short_name": "Kim KK",
+        "identifiers": [
+          "0000-0002-1088-3383"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, College of Natural Sciences, Chungnam National University, Daejeon 34134, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Eun-Mi",
+        "short_name": "Kim EM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bio and Environmental Technology, College of Science and Convergence Technology, Seoul Women's University, Seoul 01797, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Chungoo",
+        "short_name": "Park C",
+        "identifiers": [
+          "0000-0002-9545-6654"
+        ],
+        "affiliations": [
+          "School of Biological Science and Technology, Chonnam National University, Gwangju 61186, Republic of Korea.",
+          "Institute of Systems Biology and Life Science Informatics, Chonnam National University, Gwangju 61186, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42707507",
+      "42412843",
+      "36699410",
+      "42100742",
+      "41172803",
+      "42475469",
+      "32920048",
+      "40439671",
+      "35150250",
+      "38830995",
+      "42635213",
+      "42015301",
+      "40646507",
+      "37824738",
+      "42441082",
+      "26467480",
+      "41596767",
+      "40391089",
+      "32573679",
+      "37651627",
+      "41687774",
+      "40919912",
+      "32252787",
+      "28334975",
+      "28245811",
+      "42683100",
+      "40102719",
+      "33685590",
+      "35649392",
+      "41045511",
+      "41962361",
+      "32808039",
+      "38856168",
+      "39990254",
+      "35039821",
+      "42353306",
+      "42099803",
+      "40146403",
+      "42289971",
+      "41883144",
+      "39520544",
+      "38524500",
+      "22574904",
+      "39804669",
+      "42013456",
+      "42180430",
+      "36416116",
+      "40957717",
+      "39693053",
+      "35521556",
+      "41977286",
+      "33517359",
+      "29028926",
+      "36321557",
+      "31888461",
+      "34415301",
+      "41902287",
+      "27993780",
+      "42012716",
+      "39399375",
+      "39357703",
+      "28336542",
+      "40795814",
+      "29970003",
+      "41959628",
+      "41020638",
+      "42412822",
+      "35189638",
+      "31323206",
+      "40795032",
+      "29529991",
+      "40848288",
+      "30165373",
+      "38281252",
+      "33685397",
+      "33238837",
+      "37158175",
+      "39833102",
+      "40569190",
+      "41714110",
+      "31742324",
+      "28361677",
+      "35389869",
+      "42245005",
+      "42057294",
+      "40662818",
+      "29753757",
+      "34571539",
+      "29596423",
+      "37254800",
+      "42409279",
+      "35641157",
+      "42323855",
+      "20677174",
+      "38175787",
+      "34932484",
+      "42177353",
+      "31026297",
+      "28274760",
+      "39276905"
+    ],
+    "review": [
+      "42707507",
+      "36321557",
+      "39833102"
+    ],
+    "pmc": [
+      "13548431"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

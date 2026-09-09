@@ -1,0 +1,347 @@
+{
+  "identity": {
+    "pmid": "42686781",
+    "doi": "10.1038/s41467-026-76393-8",
+    "title": "Truncated Gpr114-based ultrasound-hypersensitive gene circuit for controlled expression of therapeutics."
+  },
+  "content": {
+    "abstract": "Sonogenetic holds great potential for modulating cellular functions and behaviors. However, developing hypersensitive ultrasound (US)-responsive receptors remains a substantial challenge. Here, we combine AlphaFold3 prediction with molecular dynamics simulations to identify a hypersensitive Gpr114 protein variant (T-Gpr114) that responds to short-pulse US stimulation for activation. We further design sonogenetic macrophages (MPhi) by fusing T-Gpr114 to a synthetic genetic circuit, this circuit initiates expression of the transcription factor ID3 upon short-pulse US treatment. In vivo assays using female tumor-bearing mice demonstrate that sonogenetic-MPhi suppress tumor growth with no obvious systemic toxicity, and exhibit enhanced anti-tumor efficacy relative to cells with constitutive ID3 expression. Single-cell RNA sequencing reveals that sonogentic-MPhi potentiate the recruitment recruitment of CD8(+) T cells compared with constitutive ID3-overexpressing macrophages. In this work, this T-Gpr114-based US-hypersensitive gene circuit extends the scope of remote control over the activation of diverse cell types, thereby facilitating the programming of therapeutic cells.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Receptors, G-Protein-Coupled/genetics/metabolism",
+      "Female",
+      "Macrophages/metabolism",
+      "Mice",
+      "Humans",
+      "*Gene Regulatory Networks",
+      "Molecular Dynamics Simulation",
+      "Inhibitor of Differentiation Proteins/genetics/metabolism",
+      "*Ultrasonic Waves",
+      "CD8-Positive T-Lymphocytes/immunology",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Pengying",
+        "Lai, Yubo",
+        "Liu, Yang",
+        "Li, Zihang",
+        "Liu, Zhaoyou",
+        "Wang, Lantian",
+        "An, Jieyuan",
+        "Liu, Yunnan",
+        "Wei, Shuzhe",
+        "Sun, Yue",
+        "Yang, Guodong",
+        "Yuan, Lijun"
+      ],
+      "short_names": [
+        "Wu P",
+        "Lai Y",
+        "Liu Y",
+        "Li Z",
+        "Liu Z",
+        "Wang L",
+        "An J",
+        "Liu Y",
+        "Wei S",
+        "Sun Y",
+        "Yang G",
+        "Yuan L"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-3747-4209",
+        "ORCID: 0000-0003-3800-2493",
+        "ORCID: 0009-0003-3586-5557",
+        "ORCID: 0009-0002-2609-5477",
+        "ORCID: 0000-0002-6307-2963",
+        "ORCID: 0000-0001-5651-2564"
+      ],
+      "affiliations": [
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "Department of Hematology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.",
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "Translational Research on Cell and Gene Therapy for Higher Education Institutions for Shaanxi Key Laboratory of Higher Education Institutions, Xi'an Medical University, Xi'an, China. sunyue@xiyi.edu.cn.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biochemistry and Molecular Biology, Fourth Military Medical University, Xi'an, China. yanggd@fmmu.edu.cn.",
+        "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China. yuanlj@fmmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Pengying",
+        "short_name": "Wu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Yubo",
+        "short_name": "Lai Y",
+        "identifiers": [
+          "0009-0007-3747-4209"
+        ],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zihang",
+        "short_name": "Li Z",
+        "identifiers": [
+          "0000-0003-3800-2493"
+        ],
+        "affiliations": [
+          "Department of Hematology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhaoyou",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lantian",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "An, Jieyuan",
+        "short_name": "An J",
+        "identifiers": [
+          "0009-0003-3586-5557"
+        ],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yunnan",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Shuzhe",
+        "short_name": "Wei S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yue",
+        "short_name": "Sun Y",
+        "identifiers": [
+          "0009-0002-2609-5477"
+        ],
+        "affiliations": [
+          "Translational Research on Cell and Gene Therapy for Higher Education Institutions for Shaanxi Key Laboratory of Higher Education Institutions, Xi'an Medical University, Xi'an, China. sunyue@xiyi.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Guodong",
+        "short_name": "Yang G",
+        "identifiers": [
+          "0000-0002-6307-2963"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biochemistry and Molecular Biology, Fourth Military Medical University, Xi'an, China. yanggd@fmmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yuan, Lijun",
+        "short_name": "Yuan L",
+        "identifiers": [
+          "0000-0001-5651-2564"
+        ],
+        "affiliations": [
+          "Department of Ultrasound Medicine, Tangdu Hospital, Fourth Military Medical University, Xi'an, China. yuanlj@fmmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 05:37",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42686781",
+      "22057288",
+      "26232435",
+      "40208940",
+      "30578645",
+      "38484626",
+      "34872976",
+      "24973820",
+      "42144099",
+      "22057289",
+      "39216001",
+      "38326607",
+      "20174563",
+      "35219016",
+      "39888981",
+      "25691468",
+      "21131965",
+      "40783744",
+      "39146780",
+      "40083936",
+      "31771616",
+      "40114374",
+      "32433949",
+      "41571298",
+      "28652395",
+      "32536579",
+      "31678303",
+      "41868885",
+      "35983064",
+      "41484641",
+      "30012846",
+      "33537094",
+      "34380645",
+      "30518568",
+      "31201238",
+      "33273801",
+      "18802087",
+      "41389669",
+      "31417255",
+      "30811474",
+      "30679180",
+      "29899446",
+      "26322481",
+      "25644253",
+      "27974197",
+      "37031362",
+      "25808106",
+      "40241108",
+      "41840629",
+      "31227606",
+      "21056086",
+      "33879600",
+      "40316484",
+      "29229677",
+      "24379125",
+      "40425012",
+      "40874580",
+      "41382107",
+      "17114496",
+      "41972154",
+      "32303618",
+      "40138318",
+      "11313821",
+      "40446696",
+      "40174816",
+      "40081947",
+      "21106849",
+      "39904774",
+      "31281532",
+      "41127787",
+      "42189863",
+      "41444923",
+      "40102789",
+      "42321758",
+      "41112305",
+      "41280919",
+      "42409948",
+      "41608561",
+      "33859041",
+      "41591489",
+      "42688372",
+      "39033271",
+      "31848656",
+      "22585759",
+      "33692218",
+      "23042815",
+      "40211230",
+      "26661515",
+      "40087599",
+      "40045365",
+      "26384138",
+      "16272361",
+      "24455753",
+      "34416901",
+      "34861191",
+      "41729934",
+      "33414263",
+      "26431276",
+      "42467615",
+      "34592230"
+    ],
+    "review": [
+      "42686781",
+      "35983064"
+    ],
+    "pmc": [
+      "13538470"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76393-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42686781/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

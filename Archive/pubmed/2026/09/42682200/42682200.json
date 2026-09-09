@@ -1,0 +1,225 @@
+{
+  "identity": {
+    "pmid": "42682200",
+    "doi": "10.1093/g3journal/jkag230",
+    "title": "Leveraging human-trained neural networks for cross-species chromatin regulation annotations."
+  },
+  "content": {
+    "abstract": "Analogous to the Encyclopedia of DNA Elements (ENCODE) project, the Functional Annotation of ANimal Genomes (FAANG) consortium has produced chromatin annotations for domesticated animals, albeit in smaller amounts. Although acquiring experimental data is more accessible and affordable for many species, human and mouse organisms will remain the reference. Classical methods based on sequence conservation can be used to infer missing annotations, but are inappropriate for non-conserved sequences. While regulatory sequences share low to moderate conservation, they have retained their regulatory function during the evolution process. Here, we take advantage of three neural networks (DeepBind, DeepSEA, and Enformer) trained with human and mouse ENCODE data to infer chromatin annotations (transcription factors binding, chromatin accessibility, and histone marks) in cattle, pig, chicken, and European seabass. For this purpose, we comprehensively assessed the quality of predictions using experimental data from FAANG, through AUC-ROC and AUC-PR metrics. Our results showed low variability between tissues and similar performances for various annotations in mammals and chicken, with AUC-PR ranging from 0.663 +/- 0.010 (chicken) to 0.765 +/- 0.009 (pig) for the best predicted experiment, H3K4me3 (all tissues grouped), but lower (0.238 +/- 0.005) in fish. Further analyses focused on pigs highlighted (i) accurate predictions even for non-conserved sequences, and (ii) variable predictions depending on genomic feature annotations. Our results advocate the widespread use of human-trained neural networks as a first step in cross-species genome annotation before training species-specific models.",
+    "keywords": [
+      "chromatin accessibility",
+      "histone marks",
+      "livestock species",
+      "transcription factors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Maillard, Noemien",
+        "Demars, Julie",
+        "Mourad, Raphael"
+      ],
+      "short_names": [
+        "Maillard N",
+        "Demars J",
+        "Mourad R"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-8840-6939",
+        "ORCID: 0000-0003-2451-0059",
+        "ORCID: 0000-0001-6700-5728"
+      ],
+      "affiliations": [
+        "GenPhySE, Universite de Toulouse, INRAE, ENVT, F-31326, Castanet Tolosan, France.",
+        "GenPhySE, Universite de Toulouse, INRAE, ENVT, F-31326, Castanet Tolosan, France.",
+        "MIAT, INRAE, F-31326 Castanet-Tolosan, France.",
+        "University of Toulouse, UPS, 31062 Toulouse, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Maillard, Noémien",
+        "short_name": "Maillard N",
+        "identifiers": [
+          "0009-0002-8840-6939"
+        ],
+        "affiliations": [
+          "GenPhySE, Université de Toulouse, INRAE, ENVT, F-31326, Castanet Tolosan, France."
+        ]
+      },
+      {
+        "full_name": "Demars, Julie",
+        "short_name": "Demars J",
+        "identifiers": [
+          "0000-0003-2451-0059"
+        ],
+        "affiliations": [
+          "GenPhySE, Université de Toulouse, INRAE, ENVT, F-31326, Castanet Tolosan, France."
+        ]
+      },
+      {
+        "full_name": "Mourad, Raphaël",
+        "short_name": "Mourad R",
+        "identifiers": [
+          "0000-0001-6700-5728"
+        ],
+        "affiliations": [
+          "MIAT, INRAE, F-31326 Castanet-Tolosan, France.",
+          "University of Toulouse, UPS, 31062 Toulouse, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "G3 (Bethesda, Md.)"
+    ],
+    "journal_abbrev": [
+      "G3 (Bethesda)"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42682200",
+      "31884969",
+      "33028202",
+      "30227846",
+      "32543792",
+      "33001599",
+      "37569400",
+      "33816929",
+      "33758196",
+      "31419979",
+      "41310253",
+      "41984952",
+      "34548076",
+      "36317479",
+      "35410163",
+      "15478601",
+      "34425870",
+      "30427726",
+      "30286077",
+      "32728248",
+      "34093640",
+      "31462275",
+      "33978703",
+      "31067820",
+      "36862752",
+      "34615879",
+      "30598689",
+      "31861495",
+      "31595288",
+      "23815359",
+      "35997258",
+      "16452803",
+      "24797614",
+      "25409824",
+      "31006511",
+      "41576119",
+      "17201929",
+      "24063302",
+      "37600946",
+      "37063486",
+      "37425760",
+      "37010293",
+      "18021451",
+      "21430782",
+      "22115494",
+      "42271487",
+      "26818008",
+      "39326643",
+      "42167226",
+      "24964727",
+      "25765714",
+      "22955616",
+      "27490187",
+      "21106904",
+      "19094206",
+      "23613676",
+      "21873635",
+      "24967590",
+      "35397520",
+      "23221638",
+      "36342464",
+      "24846964",
+      "22763441",
+      "33191916",
+      "42631547",
+      "34234809",
+      "38773546",
+      "41514301",
+      "38514204",
+      "17571346",
+      "22955984",
+      "25319995",
+      "20122241",
+      "33239788",
+      "30755522",
+      "18485226",
+      "31672653",
+      "14962988",
+      "27965291",
+      "29361190",
+      "23511541",
+      "22951037",
+      "32728240",
+      "32728249",
+      "41256458",
+      "25764973",
+      "37361042",
+      "19128492",
+      "42465479",
+      "35895229",
+      "32879011",
+      "41309006",
+      "37845780",
+      "37287538",
+      "36510136",
+      "39090688",
+      "22272293",
+      "24565409",
+      "25326329",
+      "35924336"
+    ],
+    "review": [
+      "42682200",
+      "30427726",
+      "36862752"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PGR-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/g3journal/article-lookup/doi/10.1093/g3journal/jkag230",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

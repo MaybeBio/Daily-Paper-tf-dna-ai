@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42702944",
+    "doi": "10.1002/biof.70149",
+    "title": "Immune-Like Malignant Epithelial Programs Shape Tumor-Immune Interactions and Inform Prognostic Stratification in Lung Adenocarcinoma."
+  },
+  "content": {
+    "abstract": "Lung adenocarcinoma (LUAD) is characterized by marked cellular heterogeneity, yet how malignant epithelial states contribute to immune regulation and clinical outcomes remains incompletely defined. We integrated single-cell RNA-sequencing data to map the cellular landscape of LUAD and identify malignant epithelial cells based on inferred copy-number alterations. Epithelial states were further examined through trajectory inference, transcription factor analysis, and cell-cell communication profiling. Single-cell-derived genes were subsequently integrated with TCGA and independent GEO cohorts to construct and validate a machine learning-based prognostic signature. Malignant epithelial cells displayed distinct functional programs, including an immune-like state associated with genomic instability, immune-related transcriptional activity, tumor-immune communication, and patient outcomes. The resulting immune-like malignant epithelial cell signature (IMEC-Sig) consistently stratified survival across multiple cohorts. Low IMEC-Sig scores were accompanied by greater immune infiltration, higher immune checkpoint expression, and increased immunophenoscore, whereas high scores were linked to a comparatively immunosuppressive phenotype. Pan-cancer analyses further identified KRT8 as a gene associated with unfavorable prognosis, and functional experiments showed that KRT8 silencing suppressed proliferation, migration, invasion, and colony formation in LUAD cells. Together, these findings connect malignant epithelial heterogeneity with the immune context and clinical outcomes, support IMEC-Sig as a biologically informed prognostic tool, and nominate KRT8 as a potential therapeutic target in LUAD.",
+    "keywords": [
+      "LUAD",
+      "TME",
+      "epithelial cells",
+      "immunotherapy",
+      "scRNA-seq"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Adenocarcinoma of Lung/genetics/immunology/pathology",
+      "Prognosis",
+      "*Lung Neoplasms/genetics/immunology/pathology",
+      "Gene Expression Regulation, Neoplastic/genetics",
+      "Epithelial Cells/immunology/pathology",
+      "Biomarkers, Tumor/genetics/immunology",
+      "Cell Line, Tumor",
+      "Cell Proliferation/genetics",
+      "Single-Cell Gene Expression Analysis",
+      "Cell Communication/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Wei",
+        "Sheng, Hongmei",
+        "Zhang, Yazheng",
+        "Yu, Qihong",
+        "Peng, Haiying"
+      ],
+      "short_names": [
+        "Zhang W",
+        "Sheng H",
+        "Zhang Y",
+        "Yu Q",
+        "Peng H"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-8091-2924"
+      ],
+      "affiliations": [
+        "Tianjin Chest Hospital, Tianjin University, Tianjin, China.",
+        "Tianjin Chest Hospital, Tianjin University, Tianjin, China.",
+        "Tianjin Chest Hospital, Tianjin University, Tianjin, China.",
+        "Tianjin Chest Hospital, Tianjin University, Tianjin, China.",
+        "Tianjin Chest Hospital, Tianjin University, Tianjin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Wei",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Chest Hospital, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Sheng, Hongmei",
+        "short_name": "Sheng H",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Chest Hospital, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yazheng",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Chest Hospital, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Qihong",
+        "short_name": "Yu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Chest Hospital, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Haiying",
+        "short_name": "Peng H",
+        "identifiers": [
+          "0009-0006-8091-2924"
+        ],
+        "affiliations": [
+          "Tianjin Chest Hospital, Tianjin University, Tianjin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BioFactors (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Biofactors"
+    ],
+    "pub_date": "2026 Sep-Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 05:35",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42702944",
+      "41164195",
+      "42136962",
+      "42089585",
+      "42495647",
+      "40787454",
+      "42079738",
+      "42288924",
+      "42209795",
+      "41567189",
+      "40496864",
+      "42469385",
+      "41341805",
+      "41383634",
+      "42180849",
+      "42003422",
+      "40552290",
+      "38616208",
+      "41326474",
+      "40993741",
+      "40936758",
+      "39987127",
+      "41836411",
+      "41663460",
+      "41948338",
+      "41979566",
+      "41514669",
+      "39267056",
+      "42674820",
+      "42611083",
+      "42112349",
+      "42220487",
+      "41583466",
+      "41613113",
+      "40316986",
+      "39046884",
+      "40396179",
+      "41663976",
+      "41540361",
+      "39850883",
+      "42206269",
+      "41312363",
+      "41634895",
+      "41415280",
+      "41345972",
+      "39478862",
+      "41985273",
+      "41074434",
+      "40486872",
+      "39953119",
+      "40308576",
+      "40352269",
+      "40474806",
+      "42391672",
+      "39735553",
+      "41938520",
+      "39516442",
+      "40976828",
+      "40766320",
+      "41776080",
+      "42051516",
+      "39780110",
+      "39267750",
+      "41862916",
+      "42358820",
+      "32714316",
+      "37728413",
+      "41246332",
+      "42625168",
+      "40672941",
+      "41710887",
+      "42664787",
+      "41208987",
+      "38886907",
+      "38355636",
+      "37507593",
+      "40547013",
+      "42238572",
+      "42450135",
+      "42079599",
+      "41239716",
+      "40469299",
+      "41436831",
+      "41249682",
+      "40705084",
+      "41491011",
+      "41342545",
+      "40475775",
+      "33434533",
+      "41318120",
+      "41447883",
+      "38537539",
+      "41429196",
+      "42270842",
+      "42402362",
+      "41339815",
+      "41652128",
+      "39539551",
+      "38862217",
+      "39148731"
+    ],
+    "review": [
+      "42702944"
+    ],
+    "pmc": [
+      "13547769"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1002/biof.70149",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1524",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

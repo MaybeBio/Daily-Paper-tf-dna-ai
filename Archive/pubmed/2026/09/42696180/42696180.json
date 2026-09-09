@@ -1,0 +1,259 @@
+{
+  "identity": {
+    "pmid": "42696180",
+    "doi": "10.1186/s43046-026-00407-1",
+    "title": "Computationally guided multi-epitope vaccine design targeting oncoprotein BZLF1, EBNA1, LMP1, and LMP2 for of EBV associated gastric cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Epstein-Barr virus (EBV)-associated gastric cancer (EBVaGC) is distinct molecular subtype of gastric cancer for which effective preventive and targeted therapeutic strategies remain limited. This study aimed to design and evaluate multiepitope vaccine candidates targeting four EBV proteins critically involved in this disease, namely BZLF1, EBNA1, LMP1, and LMP2. METHODS: An integrated immunoinformatics and reverse vaccinology approach was employed to predict and screen MHC-I (CTL), MHC-II (HTL), and B-cell epitopes. Selected epitopes were assembled into multiepitope vaccine constructs, which were then evaluated for physicochemical properties, potential interactions with immune receptors, and post-injection immune responses using computational simulations. RESULTS: A total of 20 immunodominant epitopes in each CTL, HTL and LBL were identified and selected based on their predicted antigenicity, immunogenicity, non-allergenicity, and non-toxicity, while the selected MHC-II epitopes were additionally predicted to induce IFN-gamma, IL-2, IL-4, and IL-10 responses. Global population coverage analysis estimated worldwide coverage of 98.74%. The final vaccine construct comprised 1,091 amino acids and exhibited favorable physicochemical properties with acceptable structural quality, as indicated by a ProSA Z-score of - 2.28 and 79.1% of residues located in the most favored regions of the Ramachandran plot. Disulfide engineering identified six residue pairs with the potential to enhance structural stability. Molecular docking demonstrated favorable binding of the vaccine construct to TLR9, with a HADDOCK score of - 165.4 +/- 0.7 kcal/mol. Molecular dynamics simulations further supported the structural feasibility of the vaccine-TLR9 complex, yielding an average RMSD of 1.253 nm; 963.3 hydrogen bonds, and SASA of 911.3 nm(2). Meanwhile, normal mode analysis corroborated the dynamic stability of the complex. Codon optimization in the pET-28a(+) vector resulted an optimal codon adaptation index (CAI = 1.0) and GC content of 57.86%, suggesting high potential for recombinant expression in Escherichia coli. Immune simulations further predicted coordinated humoral and cellular immune responses, accompanied by immunological memory formation following simulated vaccination regimen. CONCLUSION: The study proposed multiepitope vaccine candidate targeting crucial antigen of EBVaGC based immunoinformatics-based approach. The construct predicted to have favorable in silico immunological and structural properties. However, further experimental validation is required to confirm its safety and immunogenic potential.",
+    "keywords": [
+      "Epstein-Barr virus",
+      "Gastric cancer",
+      "Immunoinformatics",
+      "Multiepitope vaccine",
+      "TLR9"
+    ],
+    "mesh_terms": [
+      "*Stomach Neoplasms/virology/immunology/prevention & control",
+      "Humans",
+      "*Viral Matrix Proteins/immunology/chemistry",
+      "*Herpesvirus 4, Human/immunology",
+      "*Epstein-Barr Virus Nuclear Antigens/immunology/chemistry",
+      "Immunoinformatics",
+      "*Trans-Activators/immunology/chemistry",
+      "*Epstein-Barr Virus Infections/virology/complications/immunology",
+      "*Cancer Vaccines/immunology",
+      "*Oncogene Proteins, Viral/immunology/chemistry",
+      "Epitopes, T-Lymphocyte/immunology",
+      "Epitopes, B-Lymphocyte/immunology",
+      "Protein Subunit Vaccines",
+      "Reverse Vaccinology",
+      "Epitopes/immunology",
+      "Toll-Like Receptor 9",
+      "Molecular Docking Simulation",
+      "Cysteine Endopeptidases"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Delonio, Elvin",
+        "Ysrafil, Ysrafil",
+        "Shinta, Herlina Eka",
+        "Pratiwi, Sari Eka"
+      ],
+      "short_names": [
+        "Delonio E",
+        "Ysrafil Y",
+        "Shinta HE",
+        "Pratiwi SE"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-8712-2317",
+        "ORCID: 0000-0002-5980-7525",
+        "ORCID: 0000-0003-4577-8863"
+      ],
+      "affiliations": [
+        "Medical Study Program, Faculty of Medicine, Universitas Palangka Raya, University of Palangka Raya, Palangkaraya, 73111, Indonesia.",
+        "Department of Pharmacotherapy, Faculty of Medicine, Universitas Palangka Raya, University of Palangka Raya, Palangkaraya, 73111, Indonesia. ysrafil@med.upr.ac.id.",
+        "Department of pathological Anatomy, Faculty of Medicine, Universitas Palangka Raya, University of Palangka Raya, Palangkaraya, 73111, Indonesia.",
+        "Department of Biology and Pathobiology Faculty of Medicine, Universitas Tanjungpura, Pontianak Tenggara, Tanjungpura University, Pontianak, West Kalimantan, 78124, Indonesia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Delonio, Elvin",
+        "short_name": "Delonio E",
+        "identifiers": [
+          "0009-0003-8712-2317"
+        ],
+        "affiliations": [
+          "Medical Study Program, Faculty of Medicine, Universitas Palangka Raya, University of Palangka Raya, Palangkaraya, 73111, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Ysrafil, Ysrafil",
+        "short_name": "Ysrafil Y",
+        "identifiers": [
+          "0000-0002-5980-7525"
+        ],
+        "affiliations": [
+          "Department of Pharmacotherapy, Faculty of Medicine, Universitas Palangka Raya, University of Palangka Raya, Palangkaraya, 73111, Indonesia. ysrafil@med.upr.ac.id."
+        ]
+      },
+      {
+        "full_name": "Shinta, Herlina Eka",
+        "short_name": "Shinta HE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of pathological Anatomy, Faculty of Medicine, Universitas Palangka Raya, University of Palangka Raya, Palangkaraya, 73111, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Pratiwi, Sari Eka",
+        "short_name": "Pratiwi SE",
+        "identifiers": [
+          "0000-0003-4577-8863"
+        ],
+        "affiliations": [
+          "Department of Biology and Pathobiology Faculty of Medicine, Universitas Tanjungpura, Pontianak Tenggara, Tanjungpura University, Pontianak, West Kalimantan, 78124, Indonesia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the Egyptian National Cancer Institute"
+    ],
+    "journal_abbrev": [
+      "J Egypt Natl Canc Inst"
+    ],
+    "pub_date": "2026 Sep 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 17:40",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42696180",
+      "42436212",
+      "42192530",
+      "41444309",
+      "42237149",
+      "41949632",
+      "41629588",
+      "40698087",
+      "41381008",
+      "41727457",
+      "42380441",
+      "42676359",
+      "41083417",
+      "42148102",
+      "40610881",
+      "34425197",
+      "41915177",
+      "42463798",
+      "42445188",
+      "42417153",
+      "40830404",
+      "41897006",
+      "42284765",
+      "41888661",
+      "41559260",
+      "39441880",
+      "41023772",
+      "41905024",
+      "41674438",
+      "40739488",
+      "36094198",
+      "38938443",
+      "41791311",
+      "41134838",
+      "41112949",
+      "42151414",
+      "42064452",
+      "42013568",
+      "41929236",
+      "41457476",
+      "41699076",
+      "41252394",
+      "41028278",
+      "42250659",
+      "42424695",
+      "41196893",
+      "41593466",
+      "41599631",
+      "41792674",
+      "40589333",
+      "41706189",
+      "40463368",
+      "42365117",
+      "41593501",
+      "42274768",
+      "40226615",
+      "42168870",
+      "39521154",
+      "40957351",
+      "41239337",
+      "41534429",
+      "41343928",
+      "40401430",
+      "41901750",
+      "41467395",
+      "40594603",
+      "41757946",
+      "41274916",
+      "39936152",
+      "39611932",
+      "39325755",
+      "32938504",
+      "40433372",
+      "37423939",
+      "39840071",
+      "40265107",
+      "42236804",
+      "40688509",
+      "41686297",
+      "42696893",
+      "34611250",
+      "40641013",
+      "42154343",
+      "37874075",
+      "42333966",
+      "38486475",
+      "42323435",
+      "30362500",
+      "40320394",
+      "42420440",
+      "42137845",
+      "41526444",
+      "39621646",
+      "41449186",
+      "40854630",
+      "41730794",
+      "39703502",
+      "39792829",
+      "42025584",
+      "42663966"
+    ],
+    "review": [
+      "42696180"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/stomachcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Stomach Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

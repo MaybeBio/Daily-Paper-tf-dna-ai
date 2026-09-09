@@ -1,0 +1,297 @@
+{
+  "identity": {
+    "pmid": "42691527",
+    "doi": "10.1016/j.intimp.2026.117339",
+    "title": "The active ingredient madecassoside in Huyan no. 1 formula ameliorates D-gal-induced renal aging through the AMPK/MAPK/AP-1 signaling pathway."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Renal aging accelerates overall organismal aging. The traditional Chinese medicine formula Huyan I (HY-1) has been shown to slow the decline in kidney function, but its pharmacological mechanism is unclear. This study focuses on its active component, madecassoside (MA), aiming to elucidate how it delays renal aging. METHODS: HY-1 was evaluated in a D-galactose-induced mouse model using renal functional, histopathological, inflammatory, and molecular assessments. Serum-absorbed constituents were characterized by UHPLC-MS/MS and analyzed using network pharmacology, molecular docking, MM/GBSA binding free-energy calculations, and molecular dynamics simulations. The anti-senescent effects of madecassoside (MA) were validated in vivo and in D-galactose-treated HK-2 cells. Transcriptomic sequencing and pharmacological pathway modulation were used to investigate the involvement and hierarchical relationship of the AMPK and MAPK/AP-1 signaling axes. RESULTS: Both HY-1 and MA ameliorated renal pathological injury, improved the expression levels of aging-related proteins (p53, p21, p16), promoted AMPK phosphorylation, and reduced senescence-associated secretory phenotype (SASP) factors (IL-1beta, IL-6, TNF-alpha) in mouse serum, thereby slowing overall aging. MA also reduced intracellular peroxide accumulation in HK-2 cells, restored mitochondrial membrane potential, and improved mitochondrial function. Transcriptomic analysis revealed that MA may exert anti-aging effects by suppressing the MAPK signaling pathway (inhibiting phosphorylation of p38, ERK, JNK) and reducing nuclear phosphorylation of c-Fos and c-Jun, affecting AP-1 transcription factor formation. When AMPK phosphorylation was inhibited, MA's anti-aging effect was abrogated, and MAPK pathway activation was enhanced. CONCLUSION: As the one of the principal active ingredients of HY-1, MA delays renal aging by promoting AMPK phosphorylation to maintain mitochondrial function and reduce peroxide accumulation, while inhibiting the MAPK signaling pathway to decrease AP-1 transcription factor synthesis.",
+    "keywords": [
+      "AMPK",
+      "MAPK/AP-1",
+      "Madecassoside",
+      "Network pharmacology",
+      "Renal aging",
+      "Transcriptomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Liyan",
+        "Yu, Siyao",
+        "He, Yining",
+        "Fang, Yunyu",
+        "Yan, Weiyi",
+        "Wen, Kaizhi",
+        "Yin, Xiaofan",
+        "Han, Chao",
+        "Zhu, Xiaolin",
+        "He, Weiming"
+      ],
+      "short_names": [
+        "Huang L",
+        "Yu S",
+        "He Y",
+        "Fang Y",
+        "Yan W",
+        "Wen K",
+        "Yin X",
+        "Han C",
+        "Zhu X",
+        "He W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China.",
+        "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China.",
+        "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China.",
+        "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China.",
+        "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China.",
+        "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China.",
+        "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China.",
+        "The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China; Yancheng dafeng Hospital of Tranditional Chinese Medicine, Teaching Hospital of Nanjing University of Chinese Medicine, Yancheng 224199, China.",
+        "Department of Nephrology, The Second Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing 210017, China. Electronic address: 376586755@qq.com.",
+        "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China. Electronic address: yfy0019@njucm.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Liyan",
+        "short_name": "Huang L",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Siyao",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "He, Yining",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Yunyu",
+        "short_name": "Fang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Weiyi",
+        "short_name": "Yan W",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Kaizhi",
+        "short_name": "Wen K",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Xiaofan",
+        "short_name": "Yin X",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Han, Chao",
+        "short_name": "Han C",
+        "identifiers": [],
+        "affiliations": [
+          "The First College of Clinical Medicine, Nanjing University of Chinese Medicine, Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing 210023, China; Yancheng dafeng Hospital of Tranditional Chinese Medicine, Teaching Hospital of Nanjing University of Chinese Medicine, Yancheng 224199, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Xiaolin",
+        "short_name": "Zhu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The Second Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing 210017, China. Electronic address: 376586755@qq.com."
+        ]
+      },
+      {
+        "full_name": "He, Weiming",
+        "short_name": "He W",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Nephrology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China. Electronic address: yfy0019@njucm.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International immunopharmacology"
+    ],
+    "journal_abbrev": [
+      "Int Immunopharmacol"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42691527",
+      "42035996",
+      "41421277",
+      "33496141",
+      "42173417",
+      "40827228",
+      "41672117",
+      "40916281",
+      "42329338",
+      "42202914",
+      "41508087",
+      "39306212",
+      "40204052",
+      "39603038",
+      "42011618",
+      "42302941",
+      "39547363",
+      "40972726",
+      "41421060",
+      "41075516",
+      "41740333",
+      "40615099",
+      "37257328",
+      "30989992",
+      "37852337",
+      "40239880",
+      "38880400",
+      "41172919",
+      "42216030",
+      "36561604",
+      "37170155",
+      "40543693",
+      "41297726",
+      "41344517",
+      "42097338",
+      "42336114",
+      "40020626",
+      "40109455",
+      "39547099",
+      "40315640",
+      "41475625",
+      "42034026",
+      "41619865",
+      "42382600",
+      "42462419",
+      "40250634",
+      "42456908",
+      "35718494",
+      "39733799",
+      "39887553",
+      "39577223",
+      "42305913",
+      "40754029",
+      "36115602",
+      "41814794",
+      "42064800",
+      "41892314",
+      "40461235",
+      "38909496",
+      "39149067",
+      "42394490",
+      "40435578",
+      "40835195",
+      "38812238",
+      "41747788",
+      "41840525",
+      "39490711",
+      "30585174",
+      "38342020",
+      "36634726",
+      "42421348",
+      "40355334",
+      "40020795",
+      "35367574",
+      "41831735",
+      "42175651",
+      "36909862",
+      "41485625",
+      "37087747",
+      "39402613",
+      "40122318",
+      "42377801",
+      "40966589",
+      "40250323",
+      "41696102",
+      "42259235",
+      "40684819",
+      "35779819",
+      "40812556",
+      "41764514",
+      "42434133",
+      "40350822",
+      "41802508",
+      "42059427",
+      "42392806",
+      "35692206",
+      "42508544",
+      "41380857",
+      "34648903",
+      "29715757"
+    ],
+    "review": [
+      "42691527"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1567-5769(26)01186-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MAPK8-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

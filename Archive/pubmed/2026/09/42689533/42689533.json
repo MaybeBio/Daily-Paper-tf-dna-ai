@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42689533",
+    "doi": "10.1021/acs.biochem.6c00048",
+    "title": "Designed NIR-I Emissive and Selective G-Quadruplex DNA Binder with Altered Organelle Specificity."
+  },
+  "content": {
+    "abstract": "In this work, we report the discovery of a G-quadruplex DNA-selective and near-infrared (NIR-I) emissive G-quadruplex binder derived from a known styryl-quinolinium-based compound. This molecule is unique in its class, with an emission wavelength above 800 nm, and displays selective G-quadruplex binding. Among the synthesized molecules, compound 2 emerged as a selective and the best G-quadruplex binder through comparative studies and exhibited strong thermal stabilization on Pu22 G-quadruplex with a DeltaTm of 21.7  degrees C (at a 1:3 DNA to ligand ratio). G-quadruplex DNA-binding studies showed that thermal stabilization was topology-dependent. CD, UV-vis, and docking studies were performed to confirm the binding of these compounds to the different G-quadruplexes. Solution NMR studies confirmed the binding of compound 2 to the Pu22 G-quadruplex DNA. Cell-based studies showed that compound 2 was significantly cytotoxic to MCF-7 cancer cells and was readily taken up by the cells. However, cell internalization studies showed contrasting changes in the internalization properties, with compound 2 displaying a significant population on the nuclear periphery, which was altogether different from its parent compound 1, which did not show such changes.",
+    "keywords": [],
+    "mesh_terms": [
+      "*G-Quadruplexes",
+      "Humans",
+      "MCF-7 Cells",
+      "*DNA/chemistry/metabolism",
+      "*Quinolinium Compounds/chemistry/pharmacology/metabolism/chemical synthesis",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Metangle, Sachin",
+        "Gupta, Harikesh Kumar",
+        "Das, Nabanita",
+        "Tiwari, Ratnesh",
+        "Ranjan, Nihar"
+      ],
+      "short_names": [
+        "Metangle S",
+        "Gupta HK",
+        "Das N",
+        "Tiwari R",
+        "Ranjan N"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3581-4605"
+      ],
+      "affiliations": [
+        "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India.",
+        "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India.",
+        "Department of Pharmacology and Toxicology, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India.",
+        "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India.",
+        "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India.",
+        "Department of Pharmaceutical Analysis, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Metangle, Sachin",
+        "short_name": "Metangle S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India."
+        ]
+      },
+      {
+        "full_name": "Gupta, Harikesh Kumar",
+        "short_name": "Gupta HK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India."
+        ]
+      },
+      {
+        "full_name": "Das, Nabanita",
+        "short_name": "Das N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Toxicology, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India."
+        ]
+      },
+      {
+        "full_name": "Tiwari, Ratnesh",
+        "short_name": "Tiwari R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India."
+        ]
+      },
+      {
+        "full_name": "Ranjan, Nihar",
+        "short_name": "Ranjan N",
+        "identifiers": [
+          "0000-0003-3581-4605"
+        ],
+        "affiliations": [
+          "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India.",
+          "Department of Pharmaceutical Analysis, National Institute of Pharmaceutical Education and Research-Raebareli, New Transit Campus, Lucknow, Uttar Pradesh226002, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemistry"
+    ],
+    "journal_abbrev": [
+      "Biochemistry"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689533",
+      "37926689",
+      "30088300",
+      "36103341",
+      "31718971",
+      "39466599",
+      "35566347",
+      "21036049",
+      "37229607",
+      "24356977",
+      "35726630",
+      "29458089",
+      "30703662",
+      "23244447",
+      "40554207",
+      "22126189",
+      "30611633",
+      "26997208",
+      "36973917",
+      "30287371",
+      "32302880",
+      "31631705",
+      "36476719",
+      "38174595",
+      "36054116",
+      "30758965",
+      "27836755",
+      "18343231",
+      "18022967",
+      "33594142",
+      "21377506",
+      "23335983",
+      "34638964",
+      "25096593",
+      "35335261",
+      "37778448",
+      "41955936",
+      "15740131",
+      "42669457",
+      "37210661",
+      "27021281",
+      "23776031",
+      "27624081",
+      "9730808",
+      "29607778",
+      "29581003",
+      "30218500",
+      "24939133",
+      "25563680",
+      "21808792",
+      "25388435",
+      "24457934",
+      "19354252",
+      "21431154",
+      "40576743",
+      "31202994",
+      "26994364",
+      "29747481",
+      "23880070",
+      "40780343",
+      "25822852",
+      "25053846",
+      "41144940",
+      "25924729",
+      "20712380",
+      "18439430",
+      "41386043",
+      "27838396",
+      "33360205",
+      "32279036",
+      "24192912",
+      "32095985",
+      "31982241",
+      "25452213",
+      "36161519",
+      "15480456",
+      "27422118",
+      "25497213",
+      "29878408",
+      "35727077",
+      "27226253",
+      "33780044",
+      "25495750",
+      "17586599",
+      "23333713",
+      "36041576",
+      "36398697",
+      "38946104",
+      "37821013",
+      "33502401",
+      "21333628",
+      "24858349",
+      "40262296",
+      "30759259",
+      "25911217",
+      "30173518",
+      "40403170",
+      "33000836",
+      "22280460",
+      "30871220"
+    ],
+    "review": [
+      "42689533",
+      "42669457"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1744",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/bichaw/article-lookup/doi/10.1021/acs.biochem.6c00048",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

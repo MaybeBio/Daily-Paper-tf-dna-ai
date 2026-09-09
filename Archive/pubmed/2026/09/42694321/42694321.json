@@ -1,0 +1,278 @@
+{
+  "identity": {
+    "pmid": "42694321",
+    "doi": "10.3389/fimmu.2026.1868468",
+    "title": "Integrated single-cell transcriptomic and machine-learning analyses identify a CD36-associated macrophage state in diabetic nephropathy."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Diabetic nephropathy (DN) is the leading cause of end-stage renal disease worldwide and is characterized by progressive glomerulosclerosis, tubulointerstitial fibrosis, and a chronic inflammatory microenvironment. Although macrophage infiltration and immune dysregulation are recognized as central pathological features, the cell-type-specific transcriptional programs that drive inflammatory amplification in DN remain incompletely understood, particularly at single-cell resolution. OBJECTIVE: To identify macrophage-associated transcriptional biomarkers and delineate intercellular communication networks in DN using an integrated workflow combining urine single-cell RNA sequencing, multi-algorithm machine learning, and tissue-level experimental validation. METHODS: Urine scRNA-seq data from 17 healthy-control libraries (GSE157640 and GSE165396) and 8 diabetic nephropathy (DN) libraries (GSE266146) were processed using Seurat and integrated using Harmony. IL6-JAK-STAT3 pathway activity was quantified using AUCell. The GSE30122 cohort was stratified by disease status and randomly divided into training and held-out internal validation sets. Candidate-gene selection using LASSO, random forest, and Boruta was performed exclusively in the training set, and the discriminatory performance of the consensus genes was subsequently evaluated in the held-out internal validation set using receiver-operating-characteristic analysis. Cell-cell communication was computationally inferred using CellChat. Renal CD36 expression and its spatial association with F4/80-positive macrophages were assessed in an STZ-induced mouse model. RESULTS: Single-cell analysis identified major epithelial and immune cell populations in the urine of patients with DN and controls. IL6-JAK-STAT3 pathway activity was significantly elevated in DN, with macrophages showing the highest enrichment. Machine learning identified CD36 as a consensus biomarker with an AUC of 0.894 in the external validation cohort. CD36 was predominantly expressed in macrophages, and CellChat analysis predicted inflammatory and profibrotic ligand-receptor communication patterns associated with CD36-detected macrophages. In DN mice, CD36 was significantly upregulated at both the mRNA and protein levels and co-localized with F4/80-positive macrophages in renal tissue. CONCLUSIONS: CD36 represents a macrophage-enriched candidate molecular marker associated with an IL6-JAK-STAT3-high transcriptional state and predicted intercellular communication patterns in DN. These findings support further investigation of CD36, although its clinical utility and therapeutic relevance require independent clinical and functional validation.",
+    "keywords": [
+      "CD36",
+      "diabetic nephropathy",
+      "lipid metabolism",
+      "lipid-associated inflammation",
+      "macrophages"
+    ],
+    "mesh_terms": [
+      "*Diabetic Nephropathies/genetics/immunology/metabolism/urine/pathology",
+      "*Macrophages/metabolism/immunology",
+      "Animals",
+      "*Machine Learning",
+      "*CD36 Antigens/metabolism/genetics",
+      "Mice",
+      "Humans",
+      "Single-Cell Analysis",
+      "Single-Cell Gene Expression Analysis",
+      "Male",
+      "*Transcriptome",
+      "Biomarkers",
+      "STAT3 Transcription Factor/metabolism",
+      "Diabetes Mellitus, Experimental",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Xin",
+        "Li, Jiangying",
+        "Zeng, Ying",
+        "Wang, Gao",
+        "Zeng, Jilan",
+        "Liu, Dehui"
+      ],
+      "short_names": [
+        "Yang X",
+        "Li J",
+        "Zeng Y",
+        "Wang G",
+        "Zeng J",
+        "Liu D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Nephrology, Ganzhou People's Hospital, Ganzhou, Jiangxi, China.",
+        "Department of Pathology, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi, China.",
+        "Department of Nephrology, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi, China.",
+        "Nanchang University Fuzhou Medical College, Fuzhou, Jiangxi, China.",
+        "Department of Nephrology, Ganzhou People's Hospital, Ganzhou, Jiangxi, China.",
+        "Department of Nephrology, Ganzhou People's Hospital, Ganzhou, Jiangxi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Xin",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Ganzhou People's Hospital, Ganzhou, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiangying",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Ying",
+        "short_name": "Zeng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Gao",
+        "short_name": "Wang G",
+        "identifiers": [],
+        "affiliations": [
+          "Nanchang University Fuzhou Medical College, Fuzhou, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Jilan",
+        "short_name": "Zeng J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Ganzhou People's Hospital, Ganzhou, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dehui",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Ganzhou People's Hospital, Ganzhou, Jiangxi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 11:39",
+    "fetched_at": "2026-09-09 15:44:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42694321",
+      "41479901",
+      "38951833",
+      "40374840",
+      "42642681",
+      "40948769",
+      "40742465",
+      "42694848",
+      "42024670",
+      "41042607",
+      "41242266",
+      "40969366",
+      "42123756",
+      "42242331",
+      "41601657",
+      "41878449",
+      "40612944",
+      "42650150",
+      "42265520",
+      "41503644",
+      "39370621",
+      "42429909",
+      "41065575",
+      "39923303",
+      "41716413",
+      "39364414",
+      "41680947",
+      "38851464",
+      "41656832",
+      "42233387",
+      "42136644",
+      "41436831",
+      "42459332",
+      "41107929",
+      "42435052",
+      "42531047",
+      "42098867",
+      "42305536",
+      "42579211",
+      "38968594",
+      "42326009",
+      "40312440",
+      "40764361",
+      "42433374",
+      "42510881",
+      "40641111",
+      "41766913",
+      "41798945",
+      "39916957",
+      "41711656",
+      "41735888",
+      "41438111",
+      "40820457",
+      "42631563",
+      "42526578",
+      "41545818",
+      "40046045",
+      "41172679",
+      "42558367",
+      "41583446",
+      "42597971",
+      "41388523",
+      "41438766",
+      "41489721",
+      "42553137",
+      "40775242",
+      "42698543",
+      "41246346",
+      "41978270",
+      "42263871",
+      "39319258",
+      "41126838",
+      "42123445",
+      "42079609",
+      "41940383",
+      "42404897",
+      "42461218",
+      "41789108",
+      "42650131",
+      "39557806",
+      "30862474",
+      "41857149",
+      "42486346",
+      "40555691",
+      "42040898",
+      "41733593",
+      "40470717",
+      "42147114",
+      "41608614",
+      "42317364",
+      "41382137",
+      "40835195",
+      "39265357",
+      "40615901",
+      "41901341",
+      "41665627",
+      "37622120",
+      "41924281",
+      "38107383",
+      "42059276"
+    ],
+    "review": [
+      "42694321",
+      "41665627"
+    ],
+    "pmc": [
+      "13538110"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/diabetickidneyproblems.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Diabetic Kidney Problems"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42694321/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1868468",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
