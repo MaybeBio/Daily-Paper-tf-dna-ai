@@ -124,8 +124,7 @@ platforms:
       OR "protein-DNA binding site"
       OR "zinc finger")
       AND
-      ("artificial intelligence"
-      OR "deep learning"
+      ("deep learning"
       OR "machine learning"
       OR "neural network"
       OR "graph neural network"
@@ -163,8 +162,7 @@ platforms:
       OR "protein-DNA binding site"
       OR "zinc finger")
       AND
-      ("artificial intelligence"
-      OR "deep learning"
+      ("deep learning"
       OR "machine learning"
       OR "neural network"
       OR "graph neural network"
@@ -201,8 +199,7 @@ platforms:
       OR "protein-DNA binding site"
       OR "zinc finger")
       AND
-      ("artificial intelligence"
-      OR "deep learning"
+      ("deep learning"
       OR "machine learning"
       OR "neural network"
       OR "graph neural network"
