@@ -1,0 +1,221 @@
+# 课题短名，用于产出文件名与 Issue 标题
+# 蛋白质–DNA 互作 × 计算（AI ∪ 分子模拟）——三维基因组/染色质组织背景下，侧重转录因子
+# 对象 = DNA–蛋白质互作/转录调控
+# 方法 = 深度学习等 AI ∪ 分子动力学/模拟
+# ⚠️ 一些调整：DNA-蛋白质互作 我们更关注「结合/结合位点/cis-regulatory/调控元件/可及性/regulatory genomics/enhancer-promoter」等互作中心词，而不是裸 transcription factor*/gene regulation/enhancer*/promoter*，因为后者会把多组学+ML 预后、天然产物网络药理学拉进来，噪声大
+# 至于方法层面：docking 和 molecular dynamics/模拟 都有专门的mesh词汇，可以参考 https://meshb.nlm.nih.gov/, 但是我们以ai为主，所以docking和模拟就简单tiab不搞mesh
+topic: tf-dna-ai
+
+# 抓取时间窗口（天），每周自动跑默认 7；手动跑可改 1
+# PubMed 用 [edat]（收录日期）过滤，每篇只在收录周出现一次，无需重叠窗口/去重
+window_days: 7
+
+# PubMed 的 ENTREZ_EMAIL（必填）/ NCBI_API_KEY（可选）从环境变量读，不写进文件
+#   GitHub Actions：repo Settings → Secrets and variables → Actions
+#   本地：export ENTREZ_EMAIL=you@example.com ，export NCBI_API_KEY=...
+
+platforms:
+  pubmed:
+    # 对象 × 方法，两段式。Mesh 受标引时滞影响（最新文献不及时），周窗召回主要靠 tiab firing
+    # TF–DNA 互作/转录调控：仅收「结合/结合位点/cis-regulatory等互作中心词，不装 调控元件/可及性/regulatory genomics/enhancer-promoter/CTCF」等词
+    query: >
+      ( "Transcription Factors"[Mesh]
+      OR "DNA-Binding Proteins"[Mesh]
+      OR "Zinc Fingers"[Mesh]
+      OR "CYS2-HIS2 Zinc Fingers"[Mesh]
+      OR "transcription factor*"[tiab]
+      OR "transcription factor binding"[tiab]
+      OR "transcription factor binding site*"[tiab]
+      OR "TF binding"[tiab]
+      OR TFBS[tiab]
+      OR "DNA binding"[tiab]
+      OR "DNA-binding"[tiab]
+      OR "DNA-binding protein*"[tiab]
+      OR "DNA protein interaction*"[tiab]
+      OR "DNA protein binding"[tiab]
+      OR "DNA-binding factor*"[tiab]
+      OR "DNA-binding site*"[tiab]                                                                                                                                
+      OR "DNA binding site*"[tiab]                                                                                                                                
+      OR "protein-DNA binding"[tiab]                                                                                                                              
+      OR "protein-DNA binding site*"[tiab]
+      )
+      AND
+      ( "Artificial Intelligence"[Mesh]
+      OR "Deep Learning"[Mesh]
+      OR "Machine Learning"[Mesh]
+      OR "Neural Networks, Computer"[Mesh]
+      OR "artificial intelligence"[tiab]
+      OR "deep learning"[tiab]
+      OR "machine learning"[tiab]
+      OR "neural network*"[tiab]
+      OR "graph neural network*"[tiab]
+      OR "convolutional neural network*"[tiab]
+      OR transformer*[tiab]
+      OR "language model*"[tiab]
+      OR "foundation model*"[tiab]
+      OR "diffusion model*"[tiab]
+      OR "generative*"[tiab]
+      OR "flow matching"[tiab]
+      OR alphafold*[tiab]
+      OR esmfold*[tiab]
+      OR rosetta*[tiab]
+      OR "molecular dynamics"[tiab]
+      OR simulation*[tiab]
+      OR docking[tiab])
+  arxiv:
+    # arXiv 原生布尔：写 all: 字段形式原样透传（无 : 的纯词会被强制全 AND，OR 失效）
+    # 对象短语与 tf-dna-ai pubmed tiab 同源（TF–DNA 结合/结合位点锚定短语 + zinc finger 补 MeSH），不收裸 transcription factor
+    #   ——裸 TF 会把 enhancer/regulatory-element 类 ML 预后带进 tf 腿，越界到 3d-genome-ai
+    # max_results：native 后端不加会翻整周全部命中 → 限速挂起；精确腿周 ~0-5，100 足够
+    max_results: 100
+    query: >
+      (all:"transcription factor binding"
+      OR all:"transcription factor binding site"
+      OR all:"TF binding"
+      OR all:TFBS
+      OR all:"DNA binding"
+      OR all:"DNA-binding"
+      OR all:"DNA-binding protein"
+      OR all:"protein-DNA interaction"
+      OR all:"protein-DNA binding"
+      OR all:"DNA-binding factor"
+      OR all:"DNA-binding site"
+      OR all:"DNA binding site"
+      OR all:"protein-DNA binding site"
+      OR all:"zinc finger")
+      AND
+      (all:"deep learning"
+      OR all:"machine learning"
+      OR all:"neural network"
+      OR all:"graph neural network"
+      OR all:"convolutional neural network"
+      OR all:transformer
+      OR all:"language model"
+      OR all:"foundation model"
+      OR all:"diffusion model"
+      OR all:generative
+      OR all:"flow matching"
+      OR all:alphafold
+      OR all:esmfold
+      OR all:rosetta
+      OR all:"molecular dynamics"
+      OR all:docking
+      OR all:simulation)
+  biorxiv:
+    # 括号两段式（对象 × 方法；纯短语、无字段前缀）。实测（2026-09-07，见 idp-interaction-ai）：
+    #   为什么必须保留括号、不能改平铺 DNF：Europe PMC（Lucene）对无括号的 AND/OR 混排会拍平错乱
+    #   → 括号两段式 = 把正确性押在 Europe PMC 上，是最优解
+    #   Europe PMC 严格 + Crossref 超集 + 每周 Zotero 筛 = 最优，维持括号两段式
+    # 对象短语与 tf-dna-ai pubmed tiab 同源（TF–DNA 结合/结合位点锚定短语 + zinc finger 补 MeSH），方法 = AI ∪ 模拟
+    # 不收裸 transcription factor（避免 enhancer/regulatory-element ML 预后越界到 3d-genome-ai）
+    query: >
+      ("transcription factor binding"
+      OR "transcription factor binding site"
+      OR "TF binding"
+      OR TFBS
+      OR "DNA binding"
+      OR "DNA-binding"
+      OR "DNA-binding protein"
+      OR "protein-DNA interaction"
+      OR "protein-DNA binding"
+      OR "DNA-binding factor"
+      OR "DNA-binding site"
+      OR "DNA binding site"
+      OR "protein-DNA binding site"
+      OR "zinc finger")
+      AND
+      ("artificial intelligence"
+      OR "deep learning"
+      OR "machine learning"
+      OR "neural network"
+      OR "graph neural network"
+      OR "convolutional neural network"
+      OR transformer
+      OR "language model"
+      OR "foundation model"
+      OR "diffusion model"
+      OR generative
+      OR "flow matching"
+      OR alphafold
+      OR esmfold
+      OR rosetta
+      OR "molecular dynamics"
+      OR simulation
+      OR docking)
+  medrxiv:
+    # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）
+    # 混合：Europe PMC 严格 + Crossref 超集，
+    # 每周 Zotero 筛（详见 bioRxiv 注释：为何不能改平铺 DNF、边界短语如何补齐）
+    # TF–DNA 计算在 medRxiv 本就稀疏，空属正常
+    query: >
+      ("transcription factor binding"
+      OR "transcription factor binding site"
+      OR "TF binding"
+      OR TFBS
+      OR "DNA binding"
+      OR "DNA-binding"
+      OR "DNA-binding protein"
+      OR "protein-DNA interaction"
+      OR "protein-DNA binding"
+      OR "DNA-binding factor"
+      OR "DNA-binding site"
+      OR "DNA binding site"
+      OR "protein-DNA binding site"
+      OR "zinc finger")
+      AND
+      ("artificial intelligence"
+      OR "deep learning"
+      OR "machine learning"
+      OR "neural network"
+      OR "graph neural network"
+      OR "convolutional neural network"
+      OR transformer
+      OR "language model"
+      OR "foundation model"
+      OR "diffusion model"
+      OR generative
+      OR "flow matching"
+      OR alphafold
+      OR esmfold
+      OR rosetta
+      OR "molecular dynamics"
+      OR simulation
+      OR docking)
+  chemrxiv:
+    # 与 bioRxiv 同串（ChemRxiv Crossref prefix 10.26434）。chemRxiv 只有 Crossref，Europe PMC 不收录
+    # （实测前缀 10.26434 无命中）→ 括号两段式无法严格。是唯一无 Europe PMC 覆盖的，
+    # 接受噪声，每周 Zotero 筛。不能改平铺 DNF（Europe PMC 会拍平错乱）
+    query: >
+      ("transcription factor binding"
+      OR "transcription factor binding site"
+      OR "TF binding"
+      OR TFBS
+      OR "DNA binding"
+      OR "DNA-binding"
+      OR "DNA-binding protein"
+      OR "protein-DNA interaction"
+      OR "protein-DNA binding"
+      OR "DNA-binding factor"
+      OR "DNA-binding site"
+      OR "DNA binding site"
+      OR "protein-DNA binding site"
+      OR "zinc finger")
+      AND
+      ("artificial intelligence"
+      OR "deep learning"
+      OR "machine learning"
+      OR "neural network"
+      OR "graph neural network"
+      OR "convolutional neural network"
+      OR transformer
+      OR "language model"
+      OR "foundation model"
+      OR "diffusion model"
+      OR generative
+      OR "flow matching"
+      OR alphafold
+      OR esmfold
+      OR rosetta
+      OR "molecular dynamics"
+      OR simulation
+      OR docking)
