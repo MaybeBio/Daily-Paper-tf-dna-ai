@@ -163,7 +163,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/08 12:33",
-    "fetched_at": "2026-09-09 15:44:16"
+    "fetched_at": "2026-09-13 12:55:55"
   },
   "links": {
     "cites": [],
@@ -258,14 +258,14 @@
       "30082786",
       "18216170",
       "36738766",
-      "10412979",
       "27002220",
+      "10412979",
       "30597065",
       "15314179",
       "34620850",
       "26063573",
-      "34186021",
       "41021627",
+      "34186021",
       "16628226",
       "31029541",
       "27723458"
@@ -281,9 +281,26 @@
       "34426021",
       "28202673"
     ],
-    "pmc": [],
+    "pmc": [
+      "13551046"
+    ],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42708413/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag851",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }

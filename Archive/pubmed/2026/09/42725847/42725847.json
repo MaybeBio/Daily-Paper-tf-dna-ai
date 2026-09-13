@@ -1,0 +1,255 @@
+{
+  "identity": {
+    "pmid": "42725847",
+    "doi": "10.1002/iid3.70497",
+    "title": "Exploring the Mechanism of Action of Danggui Buxue Decoction in Treating Chronic Glomerulonephritis Based on UPLC-MS/MS and Network Pharmacology."
+  },
+  "content": {
+    "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: According to Chinese medicine theory, chronic glomerulonephritis (CGN) is characterized by dampness-heat and blood stasis. Danggui Buxue Decoction (DBD) has shown good efficacy in the treatment of diseases associated with qi deficiency and blood stasis (such as CGN). However, the molecular mechanisms behind its therapeutic effects are unclear. AIM OF THE STUDY: This study aims to elucidate the role and mechanism of action of DBD in the treatment of CGN. MATERIALS AND METHODS: The chemical composition of DBD was identified using UPLC-MS/MS, and network pharmacology, bioinformatics, and molecular-docking techniques were employed to predict the core targets and key signaling pathways of DBD in the treatment of CGN. At the same time, we established an LPS-induced rat glomerular mesangial (HBZY-1) cell model and a CGN rat model for in vitro and in vivo validation. We used MTT and Transwell assays to assess the viability, migration, and invasion capabilities of HBZY-1 cells, and also measured inflammatory cytokine levels via ELISA. A preliminary evaluation of the regulatory effects of DBD on key proteins in the TLR4/NF-kappaB signaling pathway in HBZY-1 cells using immunofluorescence. Biochemical analyses of urine and serum were performed to measure 24-h urinary protein, Serum Creatinine (SCr), Blood Urea Nitrogen (BUN), and levels of inflammatory factors in rats. Pathological changes in kidney tissue were examined using HE, Masson, and PAS staining. The extent of apoptosis in kidney tissue cells was assessed using TUNEL and JC-1 staining assays. Immunohistochemistry, immunofluorescence, RT-qPCR, and Western blotting were used to detect the expression of relevant mRNAs and proteins in kidney tissue. RESULTS: The UPLC-MS/MS method was used to identify 104 chemical components and 499 potential targets of action in DBD. The 166 potential target genes in DBD are associated with the therapeutic mechanism of CGN. Results from network pharmacology and bioinformatics suggest that the NF-kappaB signaling pathway may be a potential mechanism underlying the treatment of CGN with DBD. In vitro experiments demonstrated that DBD suppressed the survival rate of HBZY-1 cells, upregulated the secretion of Interleukin- 4 (IL-4) and Interleukin- 10 (IL-10), and downregulated the expression of Toll-Like Receptor 4 (TLR4) and Nuclear Factor kappa-B (NF-kappaB) proteins. In vivo, DBD downregulated 24-h urinary protein, SCr, BUN, Tumor Necrosis Factor-alpha (TNF-alpha), and Interleukin- 6 (IL-6) levels in CGN rats, while upregulating IL-4 and IL-10 levels. At the same time, DBD exerts its therapeutic effect on CGN by inducing apoptosis through a reduction in mitochondrial membrane potential and by alleviating the inflammatory response via inhibition of the TLR4/NF-kappaB pathway. CONCLUSIONS: In summary, DBD may exert a therapeutic effect on CGN by regulating the TLR4/NF-kappaB signaling pathway, thereby suppressing the inflammatory response and modulating apoptosis.",
+    "keywords": [
+      "CGN",
+      "DBD",
+      "HBZY-1",
+      "UPLC-MS/MS",
+      "network pharmacology"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Drugs, Chinese Herbal/pharmacology/therapeutic use/chemistry",
+      "Network Pharmacology",
+      "Rats",
+      "Tandem Mass Spectrometry",
+      "*Glomerulonephritis/drug therapy/metabolism/pathology",
+      "Signal Transduction/drug effects",
+      "Male",
+      "Chromatography, High Pressure Liquid",
+      "Chronic Disease",
+      "Rats, Sprague-Dawley",
+      "Toll-Like Receptor 4/metabolism",
+      "NF-kappa B/metabolism",
+      "Cell Line",
+      "Disease Models, Animal",
+      "Humans",
+      "Cytokines/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Qiao",
+        "Wang, Yinghang",
+        "Wang, Xinyue",
+        "Yang, Hongmei",
+        "Pan, Zhi",
+        "Guo, Di"
+      ],
+      "short_names": [
+        "Liu Q",
+        "Wang Y",
+        "Wang X",
+        "Yang H",
+        "Pan Z",
+        "Guo D"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-8565-7041",
+        "ORCID: 0000-0002-9048-2546"
+      ],
+      "affiliations": [
+        "Fangzheng Research Laboratory, Jilin Ginseng Academy, Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "College of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Fangzheng Research Laboratory, Jilin Ginseng Academy, Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Public Experimental Center, Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Fangzheng Research Laboratory, Jilin Ginseng Academy, Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "College of Basic Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Qiao",
+        "short_name": "Liu Q",
+        "identifiers": [
+          "0009-0000-8565-7041"
+        ],
+        "affiliations": [
+          "Fangzheng Research Laboratory, Jilin Ginseng Academy, Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yinghang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xinyue",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Fangzheng Research Laboratory, Jilin Ginseng Academy, Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Hongmei",
+        "short_name": "Yang H",
+        "identifiers": [
+          "0000-0002-9048-2546"
+        ],
+        "affiliations": [
+          "Public Experimental Center, Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Zhi",
+        "short_name": "Pan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Fangzheng Research Laboratory, Jilin Ginseng Academy, Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Di",
+        "short_name": "Guo D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Immunity, inflammation and disease"
+    ],
+    "journal_abbrev": [
+      "Immun Inflamm Dis"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42725847",
+      "40955790",
+      "42386087",
+      "38996953",
+      "41814794",
+      "41389887",
+      "38621947",
+      "41724289",
+      "41814740",
+      "37652195",
+      "42421348",
+      "39369919",
+      "42173415",
+      "41508081",
+      "39879705",
+      "40684492",
+      "38159820",
+      "38216101",
+      "39089660",
+      "38417244",
+      "38670405",
+      "40675106",
+      "42543266",
+      "38286158",
+      "41866004",
+      "42543283",
+      "42294648",
+      "38964626",
+      "33444723",
+      "39374881",
+      "38972239",
+      "40916281",
+      "41791616",
+      "42696233",
+      "39701711",
+      "40499803",
+      "40316153",
+      "42092476",
+      "39245241",
+      "38181931",
+      "42302946",
+      "38697555",
+      "42335406",
+      "41508268",
+      "40020626",
+      "40915376",
+      "41881321",
+      "41031496",
+      "38184025",
+      "42398656",
+      "41655547",
+      "42435523",
+      "40619666",
+      "42424752",
+      "40769441",
+      "40086050",
+      "41780614",
+      "39270884",
+      "42085848",
+      "41213440",
+      "38972238",
+      "37827295",
+      "40041755",
+      "40350886",
+      "33850093",
+      "42276391",
+      "40918953",
+      "40902813",
+      "39004032",
+      "41508247",
+      "42543350",
+      "39075002",
+      "41678939",
+      "40553825",
+      "40360040",
+      "39923228",
+      "40204248",
+      "36646160",
+      "41956165",
+      "41265260",
+      "40599271",
+      "41819508",
+      "40885503",
+      "38914151",
+      "40570565",
+      "41864553",
+      "39788168",
+      "41192695",
+      "41260550",
+      "42431281",
+      "39961424",
+      "38113990",
+      "39219696",
+      "40754029",
+      "40571230",
+      "42392751",
+      "40435578",
+      "40889599",
+      "38583728",
+      "36332760"
+    ],
+    "review": [
+      "42725847"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

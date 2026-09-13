@@ -102,7 +102,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/07 11:37",
-    "fetched_at": "2026-09-09 15:44:16"
+    "fetched_at": "2026-09-13 12:55:55"
   },
   "links": {
     "cites": [],
@@ -224,6 +224,13 @@
         "category": "Medical",
         "attribute": "free resource",
         "linkname": "Sepsis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42703773/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
       },
       {
         "url": "https://onlinelibrary.wiley.com/doi/10.1155/mi/3190064",

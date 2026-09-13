@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42716906",
+    "doi": "10.1016/j.joim.2026.08.008",
+    "title": "Xiaobanxia decoction, a compound Chinese herbal medicine, attenuates chemotherapy-induced nausea and vomiting via restoring AMPK/TFEB-mediated BNIP3/NIX mitophagy."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: Xiaobanxia decoction (XBXD), a classical Chinese antiemetic formula, has potential benefits for treating chemotherapy-induced nausea and vomiting (CINV). The present study investigates its antiemetic effect and explores the possible mechanisms. METHODS: Network pharmacology and molecular docking were used to predict potential therapeutic targets and pathways. The efficacy and mechanism of XBXD were evaluated using a cisplatin-induced rat pica model and an intestinal epithelial cell line-6 (IEC-6) cell injury model. Antiemetic effects were assessed by measuring kaolin intake, food consumption, and body weight. Gastric antrum and ileum pathological changes were examined by hematoxylin and eosin staining. Enzyme-linked immunosorbent assays were used to assess tissue levels of interleukin-1beta (IL-1beta), interleukin-18 (IL-18), and reactive oxygen species (ROS). Mitochondrial injury and mitochondrial ROS were evaluated using transmission electron microscopy and fluorescence microscopy. Mitophagy and adenosine monophosphate-activated protein kinase (AMPK)/transcription factor EB (TFEB) pathway activation were assessed using Western blotting and immunofluorescence. RESULTS: Compared with the model group, XBXD significantly reduced kaolin consumption, alleviated gastric antrum and ileum pathological damage, and decreased IL-1beta, IL-18 and ROS levels in both gastric antrum and ileum tissues. XBXD also improved mitochondrial ultrastructural morphology, reduced mitochondrial ROS, and restored mitochondrial membrane potential in vivo and in vitro. Furthermore, XBXD increased the microtubule-associated protein 1 light chain 3-II/-I (LC3-II/LC3-I) ratio, reduced sequestosome-1 (p62) accumulation, and upregulated BCL2/adenovirus E1B 19 kDa interacting protein 3 (BNIP3) and Nip3-like protein X (NIX) expression, indicating restoration of mitophagy. Mechanistically, the AMPK/TFEB signaling pathway was triggered by the XBXD treatment. CONCLUSION: XBXD ameliorates CINV in association with activation of the AMPK/TFEB pathway and the restoration of BNIP3/NIX-mediated mitophagy. Please cite this article as: Feng L, Zhai YR, Liang W, Kan SJ, Nie K. Xiaobanxia decoction, a compound Chinese herbal medicine, attenuates chemotherapy-induced nausea and vomiting via restoring AMPK/TFEB-mediated BNIP3/NIX mitophagy. J Integr Med. 2026; Epub ahead of print.",
+    "keywords": [
+      "AMPK/TFEB signaling axis",
+      "Chemotherapy-induced nausea and vomiting",
+      "Cisplatin",
+      "Mitophagy",
+      "Xiaobanxia decoction"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Feng, Lei",
+        "Zhai, Ya-Rong",
+        "Liang, Wan",
+        "Kan, Shao-Jun",
+        "Nie, Ke"
+      ],
+      "short_names": [
+        "Feng L",
+        "Zhai YR",
+        "Liang W",
+        "Kan SJ",
+        "Nie K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China.",
+        "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China.",
+        "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China.",
+        "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China.",
+        "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China. Electronic address: knie@gdpu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Feng, Lei",
+        "short_name": "Feng L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhai, Ya-Rong",
+        "short_name": "Zhai YR",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Wan",
+        "short_name": "Liang W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Kan, Shao-Jun",
+        "short_name": "Kan SJ",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Nie, Ke",
+        "short_name": "Nie K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chinese Materia Medica, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China. Electronic address: knie@gdpu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of integrative medicine"
+    ],
+    "journal_abbrev": [
+      "J Integr Med"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716906",
+      "37422100",
+      "37516392",
+      "39501722",
+      "42693057",
+      "34392655",
+      "41344517",
+      "38983802",
+      "40524293",
+      "37338733",
+      "42184497",
+      "32308708",
+      "31816386",
+      "39217313",
+      "39889489",
+      "42402967",
+      "39245438",
+      "36463946",
+      "41814823",
+      "38237645",
+      "41539633",
+      "41207786",
+      "41482082",
+      "39426573",
+      "41876239",
+      "30078345",
+      "42173417",
+      "42011616",
+      "40195021",
+      "42542064",
+      "34800646",
+      "42097338",
+      "41554453",
+      "33345685",
+      "40801961",
+      "32048886",
+      "39694431",
+      "41958127",
+      "40020794",
+      "34589395",
+      "41038144",
+      "40461227",
+      "36592823",
+      "40659140",
+      "41116986",
+      "41619865",
+      "42533617",
+      "30859901",
+      "41620782",
+      "42052839",
+      "41197270",
+      "33404293",
+      "40252436",
+      "39733799",
+      "40796901",
+      "41469250",
+      "39832686",
+      "35678504",
+      "41508079",
+      "30951392",
+      "40461228",
+      "42108748",
+      "42639763",
+      "41508083",
+      "40708834",
+      "37610095",
+      "39461872",
+      "35032588",
+      "41696578",
+      "39986226",
+      "36061858",
+      "36655371",
+      "42302946",
+      "40441663",
+      "40109481",
+      "38149563",
+      "31066324",
+      "40916281",
+      "32890970",
+      "41814737",
+      "42543313",
+      "41177854",
+      "41335238",
+      "42470453",
+      "42011617",
+      "39099363",
+      "42323821",
+      "41904987",
+      "38141408",
+      "40408943",
+      "36777359",
+      "38996953",
+      "33719895",
+      "39986233",
+      "41814794",
+      "35132348",
+      "40316154",
+      "36206870",
+      "42521001",
+      "41962727"
+    ],
+    "review": [
+      "42716906",
+      "32048886",
+      "34589395"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2095-4964(26)00115-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-OTUB1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-705",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

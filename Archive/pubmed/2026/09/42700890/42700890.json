@@ -5,13 +5,13 @@
     "title": "BpCYCD3;1 regulates organ growth by activating the cell cycle module in white birch."
   },
   "content": {
-    "abstract": "Cyclin D proteins are key regulators of cell cycle progression and plant growth. Here, we identified BpCYCD3;1, a CYCD3 family member in birch, and investigated its function. Phylogenetic and sequence analyses showed that BpCYCD3;1 is evolutionarily conserved and contains canonical cell cycle-related domains. Promoter and expression analyses suggested responsiveness to environmental and hormonal signals, with preferential expression in leaves. BpCYCD3;1 overexpression promoted leaf expansion and and biomass accumulation, whereas CRISPR/Cas9 knockout reduced vegetative growth. Cytological analyses revealed increased cell density and epidermal cell number in overexpression lines, indicating enhanced cell proliferation. At the molecular level, BpCYCD3;1 upregulated G1/S transition regulators and DNA replication-related genes. Yeast two-hybrid and docking analyses suggested interaction between BpCYCD3;1 and CDKA;1, as well as the interaction between RBR and E2F transcription factors, and binding of E2FA/E2FB to downstream promoters. Together, these results indicate that BpCYCD3;1 promotes vegetative growth by activating the CDKA-RBR-E2F regulatory module, providing a potential target for improving tree growth and biomass production.",
+    "abstract": "Cyclin D proteins are key regulators of cell cycle progression and plant growth. Here, we identified BpCYCD3;1, a CYCD3 family member in birch, and investigated its function. Phylogenetic and sequence analyses showed that BpCYCD3;1 is evolutionarily conserved and contains canonical cell cycle-related domains. Promoter and expression analyses suggested responsiveness to environmental and hormonal signals, with preferential expression in leaves. BpCYCD3;1 overexpression promoted leaf expansion and biomass accumulation, whereas CRISPR/Cas9 knockout reduced vegetative growth. Cytological analyses revealed increased cell density and epidermal cell number in overexpression lines, indicating enhanced cell proliferation. At the molecular level, BpCYCD3;1 upregulated G1/S transition regulators and DNA replication-related genes. Yeast two-hybrid and docking analyses suggested interaction between BpCYCD3;1 and CDKA;1, as well as the interaction between RBR and E2F transcription factors, and binding of E2FA/E2FB to downstream promoters. Together, these results indicate that BpCYCD3;1 promotes vegetative growth by activating the CDKA-RBR-E2F regulatory module, providing a potential target for improving tree growth and biomass production.",
     "keywords": [
       "1",
       "Betula platyphylla",
       "BpCYCD3",
-      "cell cycle",
-      "vegetative growth"
+      "Cell cycle",
+      "Vegetative growth"
     ],
     "mesh_terms": [],
     "pub_types": [
@@ -79,7 +79,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/06 01:18",
-    "fetched_at": "2026-09-09 15:44:16"
+    "fetched_at": "2026-09-13 12:55:55"
   },
   "links": {
     "cites": [],
@@ -90,6 +90,7 @@
       "19662336",
       "31694902",
       "11669580",
+      "42709230",
       "22307083",
       "21441245",
       "33525476",
@@ -144,14 +145,14 @@
       "9808153",
       "23940755",
       "10488103",
-      "8622649",
       "33649863",
+      "8622649",
       "39357199",
       "12015319",
       "10439043",
       "7734951",
-      "7958836",
       "8845306",
+      "7958836",
       "12588705",
       "12611887",
       "10741459",
@@ -173,8 +174,8 @@
       "41059766",
       "42429233",
       "23439917",
-      "8853893",
       "11491305",
+      "8853893",
       "12665581",
       "16508013",
       "17513485",
@@ -183,8 +184,7 @@
       "10634932",
       "41714859",
       "12812137",
-      "9307976",
-      "19648231"
+      "9307976"
     ],
     "review": [
       "42700890",

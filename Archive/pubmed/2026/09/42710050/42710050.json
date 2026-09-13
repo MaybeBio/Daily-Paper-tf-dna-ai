@@ -115,7 +115,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/08 17:36",
-    "fetched_at": "2026-09-09 15:44:16"
+    "fetched_at": "2026-09-13 12:55:55"
   },
   "links": {
     "cites": [],
@@ -235,7 +235,15 @@
     ],
     "pmc": [],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://academic.oup.com/plcell/article-lookup/doi/10.1093/plcell/koag263",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }

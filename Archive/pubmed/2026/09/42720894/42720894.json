@@ -1,0 +1,289 @@
+{
+  "identity": {
+    "pmid": "42720894",
+    "doi": "10.1007/s12010-026-05917-1",
+    "title": "Production of Anti-melanogenic Glucosides via Molecular Docking-guided Biotransformation of p-hydroxyphenethyl anisate."
+  },
+  "content": {
+    "abstract": "p-Hydroxyphenethyl anisate (HP) has been identified as a natural compound with whitening activity in melanoma cells and zebrafish. Considering that glycosylation can enhance the solubility, stability, and bioactivity of natural products, we investigated whether HP could serve as a substrate for glycosylation enzymes. Molecular docking predicted favorable interactions between HP and amylosucrase as well as glycosyltransferases, suggesting the potential formation of alpha- and beta-glucosides. Enzymatic reactions confirmed the production of phenethylanisate-4'-O-alpha-glucoside (HP-alpha-glc) and phenethylanisate-4'-O-beta-glucoside (HP-beta-glc). The structures were validated by mass spectrometry, enzymatic digestion (HP-alpha-glc), or nuclear magnetic resonance spectroscopy (HP-beta-glc). Biological evaluation revealed that both glucosides suppressed melanogenesis in murine B16-F1 melanoma cells at non-cytotoxic concentrations. Mechanistic studies demonstrated that HP-beta-glc not only inhibited tyrosinase activity but also downregulated the expression of the microphthalmia-associated transcription factor (MITF) and tyrosinase at both the protein and mRNA levels, thereby attenuating melanogenesis through transcriptional regulation. Consistently, in vivo assays demonstrated that HP-beta-glc effectively inhibited pigmentation in zebrafish embryos without inducing developmental toxicity, and its effect was comparable to that of the positive control, raspberry ketone. These findings highlight the enzymatic glycosylation of HP as a viable strategy to generate bioactive derivatives with improved functional properties. In particular, HP-beta-glc retains the anti-melanogenic activity of HP, providing mechanistic evidence and preclinical validation for its potential application as a safe and effective skin-whitening agent.",
+    "keywords": [
+      "p-Hydroxyphenethyl anisate",
+      "Enzymatic glycosylation",
+      "Glucoside",
+      "Melanogenesis",
+      "Tyrosinase"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chang, Te-Sheng",
+        "Wu, Jiumn-Yih",
+        "Ding, Hsiou-Yu",
+        "Cho, Shu-Chi",
+        "Wang, Tzi-Yuan",
+        "Tsao, Che-Chia",
+        "Chen, Jou-Yi",
+        "Wu, Chien-Yu",
+        "Ting, Huei-Ju"
+      ],
+      "short_names": [
+        "Chang TS",
+        "Wu JY",
+        "Ding HY",
+        "Cho SC",
+        "Wang TY",
+        "Tsao CC",
+        "Chen JY",
+        "Wu CY",
+        "Ting HJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3709-5755"
+      ],
+      "affiliations": [
+        "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan.",
+        "Department of Food Science, National Quemoy University, Kinmen, Taiwan.",
+        "Department of Cosmetic Science, Chia Nan University of Pharmacy and Science, Tainan, Taiwan.",
+        "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan.",
+        "Biodiversity Research Center, Academia Sinica, Taipei, Taiwan.",
+        "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan.",
+        "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan.",
+        "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan.",
+        "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan. hting@mail.nutn.edu.tw."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chang, Te-Sheng",
+        "short_name": "Chang TS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiumn-Yih",
+        "short_name": "Wu JY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science, National Quemoy University, Kinmen, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Ding, Hsiou-Yu",
+        "short_name": "Ding HY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cosmetic Science, Chia Nan University of Pharmacy and Science, Tainan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Cho, Shu-Chi",
+        "short_name": "Cho SC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Wang, Tzi-Yuan",
+        "short_name": "Wang TY",
+        "identifiers": [],
+        "affiliations": [
+          "Biodiversity Research Center, Academia Sinica, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Tsao, Che-Chia",
+        "short_name": "Tsao CC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Jou-Yi",
+        "short_name": "Chen JY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Wu, Chien-Yu",
+        "short_name": "Wu CY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Ting, Huei-Ju",
+        "short_name": "Ting HJ",
+        "identifiers": [
+          "0000-0003-3709-5755"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences and Technology, National University of Tainan, Tainan, Taiwan. hting@mail.nutn.edu.tw."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Applied biochemistry and biotechnology"
+    ],
+    "journal_abbrev": [
+      "Appl Biochem Biotechnol"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 17:42",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42720894",
+      "41237013",
+      "38394730",
+      "33474761",
+      "42124427",
+      "33628291",
+      "30347330",
+      "28390782",
+      "39765875",
+      "31906440",
+      "39315794",
+      "19013771",
+      "21745488",
+      "39449153",
+      "19527735",
+      "34314818",
+      "35890509",
+      "31936771",
+      "40869042",
+      "32245029",
+      "41373883",
+      "40350048",
+      "28584573",
+      "37703186",
+      "23876066",
+      "42197239",
+      "32731323",
+      "35733058",
+      "30510908",
+      "42373055",
+      "37049801",
+      "39377873",
+      "33917915",
+      "24016750",
+      "28915638",
+      "34584041",
+      "33268318",
+      "34049220",
+      "21954327",
+      "38794376",
+      "38892131",
+      "30030001",
+      "29614034",
+      "36145089",
+      "33545118",
+      "28695326",
+      "35163281",
+      "35840473",
+      "28669590",
+      "38382653",
+      "38393043",
+      "36902210",
+      "30263674",
+      "37794194",
+      "40158648",
+      "33923988",
+      "31612825",
+      "37393867",
+      "35716437",
+      "39730661",
+      "41976540",
+      "39300161",
+      "30579288",
+      "32226536",
+      "35752787",
+      "39596485",
+      "25298661",
+      "40003988",
+      "40005265",
+      "28165370",
+      "36834475",
+      "29302212",
+      "33572083",
+      "40554513",
+      "29191393",
+      "30858693",
+      "42380416",
+      "42515810",
+      "27378491",
+      "36614262",
+      "24853321",
+      "32527040",
+      "30322121",
+      "29486182",
+      "10537210",
+      "21946069",
+      "41633701",
+      "38786597",
+      "41848961",
+      "42646151",
+      "36734267",
+      "28626485",
+      "31288940",
+      "34803425",
+      "33260669",
+      "28753056",
+      "34299326",
+      "28872626",
+      "40736668",
+      "41226788"
+    ],
+    "review": [
+      "42720894"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s12010-026-05917-1",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-DLC1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-671",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

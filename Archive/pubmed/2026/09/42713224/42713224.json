@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42713224",
+    "doi": "10.1039/d6sc03808e",
+    "title": "Multivalent cations stabilize DNA duplexes beyond charge neutralization."
+  },
+  "content": {
+    "abstract": "Multivalent cations are abundant in cells and play essential roles in DNA duplex stability, genome packaging, and DNA-protein interactions. They can also condense DNA, making it challenging to determine their influence on DNA duplex stability. To overcome this challenge, we studied DNA unpeeling at equilibrium under high tension using magnetic tweezers, thereby preventing condensation. Experiments show that DNA duplex stability first increases and then decreases as cation concentration increases and the maximum DNA duplex stability increases with cation valence. The maximum free energy change of DNA was 3.33 k (B) T/bp for Na(+) and increased to 3.98 k (B) T/bp for protamine, which is a small arginine-rich protein with a highly positive charge ( approximately 21 for salmon sperm), corresponding to a relative increase of 19.5%. Consistently, all-atom molecular dynamics simulations show that higher-valent cations preferentially embed in the minor groove of DNA and clamp the minor groove, in contrast to the major-groove clamping reported for RNA, thereby stabilizing the helix more efficiently. These findings establish a single-molecule framework for quantifying DNA thermodynamics in complex ionic environments, which contributes to understanding ionic control of genome stability and to designing ion-tunable DNA-based nanostructures and delivery systems.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Yun-Long",
+        "Zheng, Chen-Chen",
+        "Zhang, Yan",
+        "Tan, Zhi-Jie",
+        "Zhang, Xing-Hua"
+      ],
+      "short_names": [
+        "Chen YL",
+        "Zheng CC",
+        "Zhang Y",
+        "Tan ZJ",
+        "Zhang XH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9487-191X"
+      ],
+      "affiliations": [
+        "Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, School of Physics and Technology, Women and Children's Hospital, Renmin Hospital of Wuhan University, Wuhan University Wuhan 430072 China zjtan@whu.edu.cn zhxh@whu.edu.cn.",
+        "Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, School of Physics and Technology, Women and Children's Hospital, Renmin Hospital of Wuhan University, Wuhan University Wuhan 430072 China zjtan@whu.edu.cn zhxh@whu.edu.cn.",
+        "School of Physics and Optical Engineering, Zhejiang University of Technology Hangzhou 310023 China.",
+        "Department of Clinical Laboratory, Renmin Hospital of Wuhan University Wuhan China peneyyan@whu.edu.cn.",
+        "Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, School of Physics and Technology, Women and Children's Hospital, Renmin Hospital of Wuhan University, Wuhan University Wuhan 430072 China zjtan@whu.edu.cn zhxh@whu.edu.cn.",
+        "Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, School of Physics and Technology, Women and Children's Hospital, Renmin Hospital of Wuhan University, Wuhan University Wuhan 430072 China zjtan@whu.edu.cn zhxh@whu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Yun-Long",
+        "short_name": "Chen YL",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, School of Physics and Technology, Women and Children's Hospital, Renmin Hospital of Wuhan University, Wuhan University Wuhan 430072 China zjtan@whu.edu.cn zhxh@whu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zheng, Chen-Chen",
+        "short_name": "Zheng CC",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, School of Physics and Technology, Women and Children's Hospital, Renmin Hospital of Wuhan University, Wuhan University Wuhan 430072 China zjtan@whu.edu.cn zhxh@whu.edu.cn.",
+          "School of Physics and Optical Engineering, Zhejiang University of Technology Hangzhou 310023 China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Renmin Hospital of Wuhan University Wuhan China peneyyan@whu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Tan, Zhi-Jie",
+        "short_name": "Tan ZJ",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, School of Physics and Technology, Women and Children's Hospital, Renmin Hospital of Wuhan University, Wuhan University Wuhan 430072 China zjtan@whu.edu.cn zhxh@whu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xing-Hua",
+        "short_name": "Zhang XH",
+        "identifiers": [
+          "0000-0002-9487-191X"
+        ],
+        "affiliations": [
+          "Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, School of Physics and Technology, Women and Children's Hospital, Renmin Hospital of Wuhan University, Wuhan University Wuhan 430072 China zjtan@whu.edu.cn zhxh@whu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical science"
+    ],
+    "journal_abbrev": [
+      "Chem Sci"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 11:38",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42713224",
+      "42475469",
+      "41577971",
+      "24490755",
+      "11124028",
+      "8744321",
+      "8519768",
+      "11501992",
+      "2275792",
+      "11478909",
+      "39747043",
+      "40631816",
+      "14754230",
+      "35333091",
+      "9376359",
+      "30307229",
+      "27389241",
+      "10479730",
+      "42018748",
+      "30553268",
+      "24131376",
+      "10497024",
+      "9860822",
+      "30966279",
+      "23016894",
+      "7691177",
+      "9391066",
+      "9635768",
+      "12666173",
+      "22639785",
+      "24443090",
+      "24171395",
+      "37728274",
+      "1321445",
+      "36260822",
+      "37815107",
+      "7632695",
+      "1731941",
+      "26254870",
+      "21524066",
+      "22796627",
+      "3707889",
+      "11781106",
+      "10869190",
+      "31840998",
+      "35540047",
+      "20232937",
+      "11162114",
+      "15038726",
+      "32083903",
+      "11562205",
+      "9020982",
+      "33754735",
+      "42430502",
+      "22963740",
+      "35857829",
+      "25268896",
+      "9298961",
+      "8703959",
+      "10373369",
+      "23181803",
+      "32845610",
+      "21947063",
+      "40560404",
+      "2251285",
+      "11031620",
+      "10966796",
+      "39505325",
+      "19873433",
+      "7918365",
+      "7556105",
+      "35640616",
+      "7756526",
+      "19482035",
+      "18048417",
+      "25046432",
+      "20215439",
+      "30635125",
+      "10390539",
+      "24871086",
+      "18422348",
+      "29744501",
+      "28815856",
+      "25770562",
+      "10964562",
+      "37960891",
+      "15941392",
+      "23013198",
+      "14971952",
+      "10387087",
+      "2043751",
+      "39478017",
+      "10824973",
+      "10388744",
+      "17434745",
+      "12228927",
+      "30037988",
+      "19708201",
+      "21787015",
+      "19905154"
+    ],
+    "review": [
+      "42713224"
+    ],
+    "pmc": [
+      "13552422"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42713224/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1039/d6sc03808e",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

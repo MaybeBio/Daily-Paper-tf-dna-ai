@@ -128,7 +128,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/08 05:36",
-    "fetched_at": "2026-09-09 15:44:16"
+    "fetched_at": "2026-09-13 12:55:55"
   },
   "links": {
     "cites": [],
@@ -213,12 +213,12 @@
       "39490433",
       "37247682",
       "41603923",
-      "41542898",
       "38342020",
+      "41542898",
       "39392030",
       "39531905",
-      "39343107",
       "42227387",
+      "39343107",
       "38432578",
       "40388786",
       "39855310",
@@ -238,9 +238,47 @@
     "review": [
       "42706337"
     ],
-    "pmc": [],
+    "pmc": [
+      "13550585"
+    ],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://medlineplus.gov/copd.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COPD"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41598-026-63671-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42706337/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-11",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-802",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }

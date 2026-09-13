@@ -1,0 +1,319 @@
+{
+  "identity": {
+    "pmid": "42715328",
+    "doi": "10.1126/sciadv.aeg1097",
+    "title": "GSK3beta and Plk1 sequentially phosphorylate ATP-citrate lyase to promote homologous recombination."
+  },
+  "content": {
+    "abstract": "Accurate repair of DNA double-strand breaks (DSBs) by homologous recombination (HR) is essential for genome stability. Nuclear production of acetyl-coenzyme A (acetyl-CoA) by ATP-citrate lyase (ACLY) promotes HR, yet how ACLY is regulated during the DNA damage response (DDR) remains unclear. Here, we identify a phosphorylation-dependent signaling axis in which glycogen synthase kinase 3beta (GSK3beta) and Polo-like kinase 1 (Plk1) act sequentially on ACLY to facilitate HR-mediated repair of DSBs induced by ionizing radiation. Following AKT-dependent phosphorylation of ACLY at Ser(455), GSK3beta phosphorylates ACLY at Thr(447), generating a docking site for Plk1, which in turn phosphorylates ACLY at Ser(442). This phosphorylation cascade, enhanced by radiation, sustains histone acetylation, supports the accumulation of BRCA1 and RAD51 at DSBs, and confers cellular resistance to poly(ADP-ribose) polymerase (PARP) inhibition. Together, our findings define an AKT-GSK3beta-Plk1-ACLY signaling module that links the DDR to nuclear metabolism, revealing a critical mechanism by which kinase signaling facilitates acetyl-CoA-dependent chromatin remodeling to preserve genome integrity.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Protein Serine-Threonine Kinases/metabolism/genetics",
+      "*Glycogen Synthase Kinase 3 beta/metabolism/genetics",
+      "Polo-Like Kinase 1",
+      "Humans",
+      "*Cell Cycle Proteins/metabolism/genetics",
+      "Phosphorylation",
+      "*Proto-Oncogene Proteins/metabolism/genetics",
+      "*ATP Citrate (pro-S)-Lyase/metabolism/genetics",
+      "*Homologous Recombination",
+      "DNA Breaks, Double-Stranded",
+      "Signal Transduction",
+      "Proto-Oncogene Proteins c-akt/metabolism",
+      "Histones/metabolism",
+      "Acetylation",
+      "BRCA1 Protein/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Shinan",
+        "Zhou, Xinyu",
+        "Chen, Qinfu",
+        "Yuan, Xueying",
+        "Zhu, Shukai",
+        "Huang, Jun",
+        "Wang, Fangwei",
+        "Yan, Haiyan"
+      ],
+      "short_names": [
+        "Zhou S",
+        "Zhou X",
+        "Chen Q",
+        "Yuan X",
+        "Zhu S",
+        "Huang J",
+        "Wang F",
+        "Yan H"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-1238-0441",
+        "ORCID: 0000-0003-2620-7360",
+        "ORCID: 0000-0003-4581-5329",
+        "ORCID: 0009-0003-7455-3265",
+        "ORCID: 0009-0005-8248-3521",
+        "ORCID: 0000-0002-7837-653X",
+        "ORCID: 0000-0001-5617-282X",
+        "ORCID: 0009-0000-4778-7902"
+      ],
+      "affiliations": [
+        "Department of Gynecologic Oncology, Women's Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "School of Medicine, Hangzhou City University, Hangzhou, China.",
+        "MOE Laboratory of Biosystems Homeostasis and Protection, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+        "Department of Gynecologic Oncology, Women's Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "MOE Laboratory of Biosystems Homeostasis and Protection, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+        "MOE Laboratory of Biosystems Homeostasis and Protection, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Geriatrics and Geriatrics Institute of Zhejiang Province, Affiliated Zhejiang Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Department of Gynecologic Oncology, Women's Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "MOE Laboratory of Biosystems Homeostasis and Protection, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Geriatrics and Geriatrics Institute of Zhejiang Province, Affiliated Zhejiang Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "State Key Laboratory of Transvascular Implantation Devices, Hangzhou, China.",
+        "School of Medicine, Hangzhou City University, Hangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Shinan",
+        "short_name": "Zhou S",
+        "identifiers": [
+          "0009-0007-1238-0441"
+        ],
+        "affiliations": [
+          "Department of Gynecologic Oncology, Women's Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "School of Medicine, Hangzhou City University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xinyu",
+        "short_name": "Zhou X",
+        "identifiers": [
+          "0000-0003-2620-7360"
+        ],
+        "affiliations": [
+          "MOE Laboratory of Biosystems Homeostasis and Protection, Life Sciences Institute, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Qinfu",
+        "short_name": "Chen Q",
+        "identifiers": [
+          "0000-0003-4581-5329"
+        ],
+        "affiliations": [
+          "Department of Gynecologic Oncology, Women's Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Xueying",
+        "short_name": "Yuan X",
+        "identifiers": [
+          "0009-0003-7455-3265"
+        ],
+        "affiliations": [
+          "MOE Laboratory of Biosystems Homeostasis and Protection, Life Sciences Institute, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Shukai",
+        "short_name": "Zhu S",
+        "identifiers": [
+          "0009-0005-8248-3521"
+        ],
+        "affiliations": [
+          "MOE Laboratory of Biosystems Homeostasis and Protection, Life Sciences Institute, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jun",
+        "short_name": "Huang J",
+        "identifiers": [
+          "0000-0002-7837-653X"
+        ],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Geriatrics and Geriatrics Institute of Zhejiang Province, Affiliated Zhejiang Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Fangwei",
+        "short_name": "Wang F",
+        "identifiers": [
+          "0000-0001-5617-282X"
+        ],
+        "affiliations": [
+          "Department of Gynecologic Oncology, Women's Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "MOE Laboratory of Biosystems Homeostasis and Protection, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+          "Zhejiang Key Laboratory of Geriatrics and Geriatrics Institute of Zhejiang Province, Affiliated Zhejiang Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "State Key Laboratory of Transvascular Implantation Devices, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Haiyan",
+        "short_name": "Yan H",
+        "identifiers": [
+          "0009-0000-4778-7902"
+        ],
+        "affiliations": [
+          "School of Medicine, Hangzhou City University, Hangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 17:47",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42715328",
+      "28689661",
+      "26745677",
+      "34197606",
+      "34437813",
+      "34573442",
+      "36439127",
+      "29929979",
+      "22325354",
+      "39732958",
+      "25607646",
+      "23355489",
+      "41354716",
+      "30202980",
+      "39657788",
+      "37674080",
+      "33450211",
+      "41243969",
+      "20205745",
+      "39475274",
+      "40470746",
+      "25483079",
+      "42066427",
+      "35546066",
+      "35037047",
+      "21623170",
+      "24067368",
+      "34155695",
+      "40023583",
+      "26438599",
+      "39844055",
+      "2176822",
+      "21676867",
+      "38959179",
+      "31996678",
+      "41243967",
+      "29377106",
+      "30568658",
+      "38461549",
+      "25367309",
+      "16388597",
+      "18615013",
+      "30877197",
+      "23887393",
+      "14638868",
+      "42475434",
+      "29976560",
+      "26811421",
+      "30297459",
+      "21956113",
+      "18174154",
+      "41608586",
+      "39150482",
+      "23468639",
+      "41261855",
+      "22219182",
+      "29191835",
+      "39196175",
+      "25799992",
+      "32034077",
+      "24413556",
+      "24844881",
+      "29954437",
+      "20126263",
+      "23449221",
+      "19910469",
+      "23974106",
+      "23285190",
+      "20479123",
+      "41298353",
+      "20679239",
+      "15132987",
+      "35597237",
+      "39039067",
+      "38494608",
+      "40849432",
+      "30944476",
+      "39356727",
+      "15662032",
+      "15572521",
+      "18957422",
+      "27662907",
+      "31830561",
+      "30401777",
+      "21103343",
+      "41045302",
+      "24501426",
+      "26915799",
+      "15792956",
+      "15611664",
+      "23695676",
+      "20624918",
+      "31197036",
+      "23825154",
+      "2873035",
+      "23648481",
+      "11278964",
+      "25830382",
+      "12107176",
+      "18922930"
+    ],
+    "review": [
+      "42715328",
+      "34437813",
+      "38959179"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeg1097?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-RAD51C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-916",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

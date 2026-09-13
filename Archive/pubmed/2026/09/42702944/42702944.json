@@ -117,7 +117,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/07 05:35",
-    "fetched_at": "2026-09-09 15:44:16"
+    "fetched_at": "2026-09-13 12:55:55"
   },
   "links": {
     "cites": [],
@@ -238,6 +238,13 @@
         "category": "Medical",
         "attribute": "free resource",
         "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42702944/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
       },
       {
         "url": "https://doi.org/10.1002/biof.70149",

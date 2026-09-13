@@ -1,0 +1,485 @@
+{
+  "identity": {
+    "pmid": "42722432",
+    "doi": "10.1101/gad.353898.126",
+    "title": "A HUWE1 regulatory helix gates ASCL1 degradation through its C-terminal phospho-degron in small cell lung cancer."
+  },
+  "content": {
+    "abstract": "Lineage-defining transcription factors are key oncogenic drivers but remain difficult to target pharmacologically due to the absence of ligandable pockets. The molecular rules governing substrate recognition by large HECT ubiquitin ligases also remain incompletely understood, limiting efforts to exploit these enzymes for targeted protein degradation. Here we combine genome-wide CRISPR knockout screening with base editor tiling screens at amino acid resolution, both coupled to an endogenous knock-in reporter of the SCLC lineage oncogenic transcription factor ASCL1, to systematically interrogate the mechanisms governing its degradation. These complementary screens unbiasedly identify the HECT ubiquitin ligase HUWE1 as the dominant regulator of ASCL1 stability in small cell lung cancer (SCLC) and resolve a conserved C-terminal phospho-degron centered on Ser207 and terminal Trp/Phe residues that are required for HUWE1 docking and ubiquitin-mediated degradation. Unexpectedly, base editor screening further uncovers a previously unrecognized regulatory module within HUWE1: a short negatively charged helix that functions as an autoinhibitory gate controlling access of phospho-degron substrates to HUWE1. Charge-flipping mutations within this regulatory helix relieve autoinhibition and accelerate degradation of multiple HUWE1 phospho-degron substrates, including ASCL1 and the canonical HUWE1 substrate DDIT4. Stabilization of ASCL1 through degron disruption paradoxically impairs SCLC proliferation, revealing that dynamic proteasome-coupled turnover is required for transcription factor function. Together, these findings reveal molecular rules governing HUWE1 phospho-degron recognition and identify a regulatory gate controlling substrate engagement. They also illustrate a generalizable strategy for resolving degradation mechanisms of undruggable transcription factors in their endogenous cellular context.",
+    "keywords": [
+      "ASCL1",
+      "HUWE1",
+      "base editor screens",
+      "protein degradation",
+      "small cell lung cancer"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Masuzawa, Keita",
+        "Dong, Kevin D",
+        "XiaoYang Hu, Calvin",
+        "Peng, Ting",
+        "Myung, Yoochan",
+        "Singh, Shilpa",
+        "Li, Xinyue",
+        "Wang, Tianchu",
+        "Jin, Cyrus",
+        "Paulo, Joao A",
+        "Yang, Ka",
+        "Schmid, Ernst W",
+        "Booker, Matthew A",
+        "Li, Yixiang",
+        "Hong, Deli",
+        "Lazo, Suzan",
+        "Tolstorukov, Michael Y",
+        "Doench, John G",
+        "Duplaquet, Leslie",
+        "Donovan, Katherine A",
+        "Iqbal, Sumaiya",
+        "Fischer, Eric S",
+        "Liau, Brian B",
+        "Gygi, Steven P",
+        "Oser, Matthew G"
+      ],
+      "short_names": [
+        "Masuzawa K",
+        "Dong KD",
+        "XiaoYang Hu C",
+        "Peng T",
+        "Myung Y",
+        "Singh S",
+        "Li X",
+        "Wang T",
+        "Jin C",
+        "Paulo JA",
+        "Yang K",
+        "Schmid EW",
+        "Booker MA",
+        "Li Y",
+        "Hong D",
+        "Lazo S",
+        "Tolstorukov MY",
+        "Doench JG",
+        "Duplaquet L",
+        "Donovan KA",
+        "Iqbal S",
+        "Fischer ES",
+        "Liau BB",
+        "Gygi SP",
+        "Oser MG"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4291-413X",
+        "ORCID: 0000-0002-2985-462X",
+        "ORCID: 0000-0003-2047-0969"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Department of Chemistry and Chemical Biology, Harvard University Cambridge Massachusetts 02138 USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Chemistry and Chemical Biology, Harvard University Cambridge Massachusetts 02138 USA.",
+        "Bioinformatics and Machine Learning, Ladders to Cures Accelerator, Broad Institute of Massachusetts Institute of Technology and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA.",
+        "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Department of Informatics and Analytics, Dana-Farber Cancer Institute, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Informatics and Analytics, Dana-Farber Cancer Institute, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of Harvard University and Massachusetts Institute of Technology, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA.",
+        "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Bioinformatics and Machine Learning, Ladders to Cures Accelerator, Broad Institute of Massachusetts Institute of Technology and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Cancer Data Sciences, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA.",
+        "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA.",
+        "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Department of Chemistry and Chemical Biology, Harvard University Cambridge Massachusetts 02138 USA.",
+        "Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA; matthew_oser@dfci.harvard.edu.",
+        "Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Masuzawa, Keita",
+        "short_name": "Masuzawa K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Dong, Kevin D",
+        "short_name": "Dong KD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "XiaoYang Hu, Calvin",
+        "short_name": "XiaoYang Hu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, Harvard University Cambridge Massachusetts 02138 USA."
+        ]
+      },
+      {
+        "full_name": "Peng, Ting",
+        "short_name": "Peng T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Myung, Yoochan",
+        "short_name": "Myung Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, Harvard University Cambridge Massachusetts 02138 USA.",
+          "Bioinformatics and Machine Learning, Ladders to Cures Accelerator, Broad Institute of Massachusetts Institute of Technology and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Singh, Shilpa",
+        "short_name": "Singh S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Xinyue",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Tianchu",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Jin, Cyrus",
+        "short_name": "Jin C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA.",
+          "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Paulo, Joao A",
+        "short_name": "Paulo JA",
+        "identifiers": [
+          "0000-0002-4291-413X"
+        ],
+        "affiliations": [
+          "Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Ka",
+        "short_name": "Yang K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Schmid, Ernst W",
+        "short_name": "Schmid EW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Booker, Matthew A",
+        "short_name": "Booker MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Informatics and Analytics, Dana-Farber Cancer Institute, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Yixiang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Hong, Deli",
+        "short_name": "Hong D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Lazo, Suzan",
+        "short_name": "Lazo S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Tolstorukov, Michael Y",
+        "short_name": "Tolstorukov MY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Informatics and Analytics, Dana-Farber Cancer Institute, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Doench, John G",
+        "short_name": "Doench JG",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of Harvard University and Massachusetts Institute of Technology, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Duplaquet, Leslie",
+        "short_name": "Duplaquet L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Donovan, Katherine A",
+        "short_name": "Donovan KA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA.",
+          "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Iqbal, Sumaiya",
+        "short_name": "Iqbal S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics and Machine Learning, Ladders to Cures Accelerator, Broad Institute of Massachusetts Institute of Technology and Harvard, Cambridge, Massachusetts 02142, USA.",
+          "Cancer Data Sciences, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Fischer, Eric S",
+        "short_name": "Fischer ES",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA.",
+          "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Liau, Brian B",
+        "short_name": "Liau BB",
+        "identifiers": [
+          "0000-0002-2985-462X"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, Harvard University Cambridge Massachusetts 02138 USA."
+        ]
+      },
+      {
+        "full_name": "Gygi, Steven P",
+        "short_name": "Gygi SP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Oser, Matthew G",
+        "short_name": "Oser MG",
+        "identifiers": [
+          "0000-0003-2047-0969"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02215, USA; matthew_oser@dfci.harvard.edu.",
+          "Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes & development"
+    ],
+    "journal_abbrev": [
+      "Genes Dev"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 23:36",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42722432",
+      "35748745",
+      "25147182",
+      "34314700",
+      "38512021",
+      "29545540",
+      "27542412",
+      "38241363",
+      "34502089",
+      "24472556",
+      "39543712",
+      "23209776",
+      "24342616",
+      "41509443",
+      "27867533",
+      "42574471",
+      "36961408",
+      "29964046",
+      "35867826",
+      "32378766",
+      "29738775",
+      "28742165",
+      "37167062",
+      "37844242",
+      "37578983",
+      "31713291",
+      "31404287",
+      "25653450",
+      "40424469",
+      "34016693",
+      "25267614",
+      "30176860",
+      "35836176",
+      "35848447",
+      "32008177",
+      "42573687",
+      "40595415",
+      "37290064",
+      "37753472",
+      "35489038",
+      "27068744",
+      "27172186",
+      "37398461",
+      "29413762",
+      "41942468",
+      "34294896",
+      "40992841",
+      "36701892",
+      "37398419",
+      "18488021",
+      "28193319",
+      "28972164",
+      "38233864",
+      "35789143",
+      "31231131",
+      "40897715",
+      "26253517",
+      "38410441",
+      "41124365",
+      "32801334",
+      "30026863",
+      "33974913",
+      "32523091",
+      "35199132",
+      "31068386",
+      "37644667",
+      "41648430",
+      "21790016",
+      "32692156",
+      "33405091",
+      "20007713",
+      "35860655",
+      "34767800",
+      "37532405",
+      "23530560",
+      "29945888",
+      "27581931",
+      "32669118",
+      "31782890",
+      "25253726",
+      "33398170",
+      "41389145",
+      "37201526",
+      "32627813",
+      "24157661",
+      "39039081",
+      "40659789",
+      "12391316",
+      "42490384",
+      "39216628",
+      "42226266",
+      "39548056",
+      "34931456",
+      "42040208",
+      "35937685",
+      "36805027",
+      "42207853",
+      "38649976",
+      "37735597",
+      "36224405"
+    ],
+    "review": [
+      "42722432",
+      "30176860",
+      "32008177",
+      "41124365",
+      "35860655",
+      "32627813",
+      "24157661",
+      "40659789",
+      "42226266",
+      "35937685"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://www.genesdev.org/cgi/pmidlookup?view=long&pmid=42722432",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-217",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

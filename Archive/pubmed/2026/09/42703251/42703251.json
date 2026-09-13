@@ -93,7 +93,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/07 05:35",
-    "fetched_at": "2026-09-09 15:44:16"
+    "fetched_at": "2026-09-13 12:55:55"
   },
   "links": {
     "cites": [],
@@ -238,7 +238,7 @@
         "linkname": ""
       },
       {
-        "url": "https://assays.cancer.gov/CPTAC-671",
+        "url": "https://assays.cancer.gov/CPTAC-250",
         "provider": "NCI CPTAC Assay Portal",
         "category": "Miscellaneous",
         "attribute": "free resource",

@@ -1,0 +1,322 @@
+{
+  "identity": {
+    "pmid": "42719677",
+    "doi": "10.2147/DDDT.S594483",
+    "title": "Matrine Alleviates Sepsis-Induced Acute Lung Injury by Reinforcing NQO1/SLC7A11/GPX4-Associated Anti-Ferroptotic Defenses and Attenuating NF-kappaB-Driven Inflammation."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Sepsis triggers dysregulated systemic inflammation and multiple-organ dysfunction, with the lungs being particularly susceptible to injury. Sepsis-induced acute respiratory distress syndrome (ARDS) is mainly driven by TLR4/NF-kappaB-mediated hyperinflammation and alveolar macrophage activation. Matrine, a bioactive alkaloid derived from Sophora flavescens, has been reported to modulate redox homeostasis and ferroptosis-associated lipid peroxidation. However, the target-specific mechanisms underlying its effects on ferroptosis and inflammatory signaling in sepsis-induced acute lung injury (SALI) remain incompletely understood. PURPOSE: This study aimed to evaluate the therapeutic effects of matrine in a cecal ligation and puncture (CLP)-induced SALI model and to determine whether its protective effects involve reinforcement of NQO1/SLC7A11/GPX4-associated anti-ferroptotic defenses and suppression of NF-kappaB-driven inflammation. METHODS: We analyzed the single-cell RNA-sequencing (scRNA-seq) dataset GSE273924 to characterize CD45-enriched pulmonary immune-cell subsets in sham mice and mice with intratracheal Escherichia coli-induced pneumonia. Network pharmacology and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses were performed to predict Kushen (KS)-related targets and pathways associated with SALI. Differential expression analysis and weighted gene co-expression network analysis (WGCNA) of GSE245013 were used to identify candidate targets. Matrine-NQO1 binding and intracellular target engagement were evaluated using molecular docking, molecular dynamics simulations, surface plasmon resonance (SPR), and the cellular thermal shift assay (CETSA). The therapeutic effects of matrine were assessed in mice with CLP-induced SALI and in lipopolysaccharide (LPS)-stimulated MH-S cells. Lung histopathology, inflammatory cytokine production, target protein expression, ferroptosis-associated indicators, and NF-kappaB activation were evaluated using molecular, biochemical, and histological assays. The functional contribution of NQO1 was further examined using the NQO1 inhibitor ES936. RESULTS: scRNA-seq analysis of GSE273924 revealed substantial remodeling of the CD45-enriched pulmonary immune-cell landscape in mice with intratracheal E. coli-induced pneumonia, including macrophage transcriptional programs associated with ferroptosis and inflammatory signaling. Integrated network pharmacology and bioinformatics analyses prioritized NQO1 as a candidate target of matrine and identified NF-kappaB signaling as a potentially relevant pathway. Molecular docking, molecular dynamics simulations, SPR, and CETSA supported matrine-NQO1 binding and intracellular target engagement. Functionally, matrine improved survival, attenuated lung injury, reinforced NQO1/SLC7A11/GPX4-associated anti-ferroptotic defenses, and suppressed NF-kappaB activation in CLP mice. Similar protective effects were observed in LPS-stimulated MH-S cells. ES936 partially attenuated the matrine-mediated improvements in cell viability, redox homeostasis, ferroptosis-associated indicators, and NF-kappaB p65 phosphorylation, supporting a functional contribution of NQO1 to the protective effects of matrine. CONCLUSION: Matrine alleviates SALI by reinforcing NQO1/SLC7A11/GPX4-associated anti-ferroptotic defenses and attenuating NF-kappaB-driven inflammation.",
+    "keywords": [
+      "NF-kappaB signaling",
+      "NQO1",
+      "ferroptosis",
+      "matrine",
+      "sepsis-induced acute lung injury"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Acute Lung Injury/drug therapy/metabolism/pathology",
+      "Matrines",
+      "Mice",
+      "*Alkaloids/pharmacology/administration & dosage",
+      "*Quinolizines/pharmacology/administration & dosage/chemistry",
+      "Male",
+      "*NF-kappa B/metabolism/antagonists & inhibitors",
+      "Mice, Inbred C57BL",
+      "*Sepsis/drug therapy/metabolism/complications",
+      "*Inflammation/drug therapy/metabolism",
+      "*NAD(P)H Dehydrogenase (Quinone)/metabolism/antagonists & inhibitors",
+      "*Ferroptosis/drug effects",
+      "Molecular Docking Simulation",
+      "Disease Models, Animal",
+      "Dose-Response Relationship, Drug"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Xue",
+        "Yuan, Min",
+        "Huang, Ting",
+        "Wang, Yuxuan",
+        "Lei, Zihan",
+        "Qing, Jingxue",
+        "Gong, Hailong",
+        "Aidebaike, Delida",
+        "Zhang, Zhengyu",
+        "Wu, Xiaojing"
+      ],
+      "short_names": [
+        "Chen X",
+        "Yuan M",
+        "Huang T",
+        "Wang Y",
+        "Lei Z",
+        "Qing J",
+        "Gong H",
+        "Aidebaike D",
+        "Zhang Z",
+        "Wu X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "Research Center of Anesthesiology and Critical Care Medicine, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "Research Center of Anesthesiology and Critical Care Medicine, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "School of Pharmaceutical Sciences, Wuhan University, Wuhan, Hubei, People's Republic of China.",
+        "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Xue",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Min",
+        "short_name": "Yuan M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Huang, Ting",
+        "short_name": "Huang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuxuan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lei, Zihan",
+        "short_name": "Lei Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Qing, Jingxue",
+        "short_name": "Qing J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Gong, Hailong",
+        "short_name": "Gong H",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Anesthesiology and Critical Care Medicine, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Aidebaike, Delida",
+        "short_name": "Aidebaike D",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Anesthesiology and Critical Care Medicine, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhengyu",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaojing",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan, Hubei, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Drug design, development and therapy"
+    ],
+    "journal_abbrev": [
+      "Drug Des Devel Ther"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:54",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42719677",
+      "42208328",
+      "41903814",
+      "41475687",
+      "39447411",
+      "42703728",
+      "41038141",
+      "39839500",
+      "40516289",
+      "42052827",
+      "42445172",
+      "36219938",
+      "41063422",
+      "40319834",
+      "40425070",
+      "42552263",
+      "40553825",
+      "41519458",
+      "42447185",
+      "41135271",
+      "40700928",
+      "41344522",
+      "41641273",
+      "41365193",
+      "39544009",
+      "41151450",
+      "41478537",
+      "42173177",
+      "41423162",
+      "41680950",
+      "42176509",
+      "40133025",
+      "31576113",
+      "38845211",
+      "42235787",
+      "40133026",
+      "41966024",
+      "42107750",
+      "38837857",
+      "36583372",
+      "41389851",
+      "40644858",
+      "42290103",
+      "39922147",
+      "41667967",
+      "42462527",
+      "40865655",
+      "39825692",
+      "22019524",
+      "40784326",
+      "40967330",
+      "40822455",
+      "39428183",
+      "42055494",
+      "40849045",
+      "40090625",
+      "40447183",
+      "33341669",
+      "42361996",
+      "42391815",
+      "40616736",
+      "40865347",
+      "33857805",
+      "42713857",
+      "41889065",
+      "42134291",
+      "42300107",
+      "41895086",
+      "42143323",
+      "42019124",
+      "42362738",
+      "41988197",
+      "39914836",
+      "41052684",
+      "40991986",
+      "39236479",
+      "29156532",
+      "38739343",
+      "42298577",
+      "41899484",
+      "41711841",
+      "42501548",
+      "40791017",
+      "40754029",
+      "41687318",
+      "40220405",
+      "30055150",
+      "42576487",
+      "29324628",
+      "39541844",
+      "42409347",
+      "38692075",
+      "39550922",
+      "42178009",
+      "33577850",
+      "41443148",
+      "39042216",
+      "41692111",
+      "42350800",
+      "39956265"
+    ],
+    "review": [
+      "42719677"
+    ],
+    "pmc": [
+      "13555525"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/sepsis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Sepsis"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PTPRC-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3778",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.2147/DDDT.S594483",
+        "provider": "Dove Medical Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

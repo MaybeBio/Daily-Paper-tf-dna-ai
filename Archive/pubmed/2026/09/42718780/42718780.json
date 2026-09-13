@@ -1,0 +1,287 @@
+{
+  "identity": {
+    "pmid": "42718780",
+    "doi": "10.3389/fimmu.2026.1891212",
+    "title": "Secoisolariciresinol diglucoside alleviates inflammatory injury in osteoarthritis chondrocytes through ERBB2-associated JAK2/STAT3 signaling: network pharmacology and experimental validation."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Cartilage injury is a hallmark of osteoarthritis (OA). erb-B2 receptor tyrosine kinase 2 (ERBB2) has been reported to be involved in mediating the therapeutic effects of polyphenols in orthopedic diseases. This study aimed to investigate the protective effects and underlying mechanisms of action of ERBB2 in OA chondrocytes. METHODS: Bioinformatics analysis and molecular docking were used to predict the binding relationship between ERBB2 and the polyphenolic compound, secoisolariciresinol diglucoside (SDG). ATDC5 cells were induced with insulin-transferrin-selenium (ITS), followed by lipopolysaccharide (LPS) exposure to mimic OA inflammation, and treated with SDG. Cell viability, collagen II expression, apoptosis, interleukin 6 (IL-6)/Tumor Necrosis Factor-alpha (TNF-alpha) secretion, and malondialdehyde (MDA)/superoxide dismutase (SOD) levels were evaluated using cell counting kit-8 (CCK-8), immunofluorescence, flow cytometry, enzyme-linked immunosorbent assay (ELISA), and commercial kits. Matrix metalloproteinase 13 (MMP13) and ERBB2 mRNA levels were assessed by quantitative real-time polymerase chain reaction (qRT-PCR). Extracellular matrix integrity was assessed by toluidine blue staining. The predicted SDG-ERBB2 interaction was validated using a cellular thermal shift assay (CETSA). Western blotting was performed to assess the expression of ERBB2 and JAK2/STAT3. Rescue experiments with ERBB2 overexpression or colivelin (a JAK/STAT activator) treatment confirmed the involvement of this pathway. RESULTS: SDG dose-dependently reversed the LPS-induced reduction in cell viability and collagen II expression, while suppressing apoptosis, IL-6/TNF-alpha secretion, and MDA levels, and increasing SOD activity. SDG significantly reduced MMP13 mRNA levels and enhanced extracellular matrix proteoglycan deposition, indicating the preservation of matrix integrity. ERBB2 has been identified as a candidate target for SDG. SDG inhibits ERBB2 protein expression and reduces JAK2 and STAT3 phosphorylation ERBB2 overexpression and colivelin treatment abrogated the protective effects of SDG on cell viability, collagen II expression, apoptosis, inflammation, and oxidative stress, as well as its suppression of MMP13 and preservation of matrix integrity. CONCLUSION: SDG protects chondrocytes against LPS-induced inflammatory injury by targeting ERBB2 and suppressing the downstream JAK2/STAT3 signaling pathway. These findings provide mechanistic evidence supporting the chondroprotective potential of SDG under inflammatory conditions and suggest that ERBB2/JAK2/STAT3 signaling may represent a potential therapeutic target in OA.",
+    "keywords": [
+      "ERBB2",
+      "JAK/STAT signaling",
+      "chondrocyte",
+      "osteoarthritis",
+      "secoisolariciresinol diglucoside"
+    ],
+    "mesh_terms": [
+      "*Glucosides/pharmacology",
+      "*Chondrocytes/drug effects/metabolism/pathology",
+      "*STAT3 Transcription Factor/metabolism",
+      "*Butylene Glycols/pharmacology",
+      "Signal Transduction/drug effects",
+      "*Erb-b2 Receptor Tyrosine Kinases/metabolism",
+      "*Janus Kinase 2/metabolism",
+      "Animals",
+      "Humans",
+      "*Osteoarthritis/drug therapy/pathology/metabolism",
+      "Cell Line",
+      "Mice",
+      "Inflammation/drug therapy/metabolism",
+      "Apoptosis/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Haibei",
+        "Li, Gaoshan",
+        "Wang, Yangxu",
+        "Xie, Suyu",
+        "Cao, Feng",
+        "Li, Huanyu",
+        "Gao, Xubin"
+      ],
+      "short_names": [
+        "Hu H",
+        "Li G",
+        "Wang Y",
+        "Xie S",
+        "Cao F",
+        "Li H",
+        "Gao X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China.",
+        "Department of Orthopaedics, 968 Hospital of Joint Service Support Force of Chinese People's Liberation Army, Jinzhou, China.",
+        "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China.",
+        "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China.",
+        "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China.",
+        "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China.",
+        "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Haibei",
+        "short_name": "Hu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Gaoshan",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, 968 Hospital of Joint Service Support Force of Chinese People's Liberation Army, Jinzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yangxu",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Suyu",
+        "short_name": "Xie S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Feng",
+        "short_name": "Cao F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Huanyu",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Xubin",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The First Affiliated Hospital of Bengbu Medical University, Bengbu Medical University, Anhui Key Laboratory of Tissue Transplantation, Bengbu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:54",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42718780",
+      "29568942",
+      "42272246",
+      "39696562",
+      "32045921",
+      "29521586",
+      "39673685",
+      "41720004",
+      "39354427",
+      "42316286",
+      "42102611",
+      "42302946",
+      "33675175",
+      "40197110",
+      "42043457",
+      "40378435",
+      "40778537",
+      "39794700",
+      "39308109",
+      "31563117",
+      "29174854",
+      "39775470",
+      "39706062",
+      "37269815",
+      "42241977",
+      "41957683",
+      "39448419",
+      "32948212",
+      "32684834",
+      "42543340",
+      "42097338",
+      "32615888",
+      "40686116",
+      "41823093",
+      "34284715",
+      "42240907",
+      "37788787",
+      "32560815",
+      "42410693",
+      "42159331",
+      "20828402",
+      "39702223",
+      "28087904",
+      "39121926",
+      "34192661",
+      "40818538",
+      "41928291",
+      "21482542",
+      "42011617",
+      "41431146",
+      "34590152",
+      "39757542",
+      "30361290",
+      "39489359",
+      "33819576",
+      "40109468",
+      "40319261",
+      "42045320",
+      "37049677",
+      "42666957",
+      "42399461",
+      "32248560",
+      "42462475",
+      "41581577",
+      "40170451",
+      "40380246",
+      "32705795",
+      "41684158",
+      "42341886",
+      "33283483",
+      "41586567",
+      "34174266",
+      "42543346",
+      "41694337",
+      "39789715",
+      "33378042",
+      "30218608",
+      "36531454",
+      "41071219",
+      "40323359",
+      "35191523",
+      "39054715",
+      "41917427",
+      "39260675",
+      "41110175",
+      "41722125",
+      "41315587",
+      "30557884",
+      "41797217",
+      "30145831",
+      "41621767",
+      "30521964",
+      "38500425",
+      "38621908",
+      "30861394",
+      "26936086",
+      "31111559",
+      "40186216",
+      "40316154",
+      "41477983"
+    ],
+    "review": [
+      "42718780"
+    ],
+    "pmc": [
+      "13553418"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/osteoarthritis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Osteoarthritis"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERBB2-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1252",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1891212",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

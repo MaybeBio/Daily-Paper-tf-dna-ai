@@ -1,0 +1,104 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.03.749171",
+  "title": "Structural basis for P-TEFb association with BRD4",
+  "doi": "10.64898/2026.09.03.749171",
+  "abstract": "<h4>ABSTRACT</h4> Cyclin-dependent kinases (CDK) dynamically regulate RNA Polymerase (Pol) II during each stage of transcription. Phosphorylation of RNA Pol II and associated transcription factors by CDKs enables stage-specific exchange of factors. CDK9 and a cyclin partner (CYCT1, T2 or K) comprise the Positive Transcription Elongation Factor-b (P-TEFb) complex, which is responsible for releasing RNA Pol II from promoter proximal pausing into processive elongation. P-TEFb activity is stimulated by bromodomain-containing Protein 4 (BRD4); however, the structural basis for BRD4 association with P-TEFb has remained unclear. Using cryogenic-electron microscopy, AlphaFold modeling, and biochemical probing, we show that the P-TEFb interacting domain of BRD4 (BRD4-PID) interacts with P-TEFb via the C-lobe of CDK9 and the second cyclin domain of CYCT1. The BRD4 binding surface on CDK9 is also used by super elongation complex component AFF4. Our analysis indicates that BRD4 may stimulate P-TEFb activity by remodeling the kinase αC helix relative to previous structures. Finally, P-TEFb activity is restricted when bound to the 7SK RNP complex. We show that in addition to BRD4-PID, the AFF4 N-terminus can release P-TEFb from the 7SK RNP complex. Together, these findings define how P-TEFb activity is regulated by its incorporation into distinct complexes. <h4>SIGNIFICANCE STATEMENT</h4> The exquisite control of gene expression is required for proper development and cellular response to environmental stress. Positive transcription elongation factor b (P-TEFb) is required for the phosphorylation of RNA Pol II and leads to the coordinated release of RNA Pol II from pause sites near the promoter. P-TEFb is bound to bromo-domain containing protein 4 (BRD4), which stimulates P-TEFb activity; however, it is unknown how BRD4 associates with P-TEFb. Here we report a cryo-EM structure of P-TEFb bound to BRD4, revealing how BRD4 interacts with P-TEFb. Comparison of our structure with previously reported P-TEFb structures shows how P-TEFb is regulated by different transcription factor binding partners.",
+  "authors": [
+    "Mohamed AA",
+    "Vos SM"
+  ],
+  "published_date": "2026-09-07",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.03.749171",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.03.749171.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1313894",
+    "raw_record": {
+      "id": "PPR1313894",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.03.749171",
+      "title": "Structural basis for P-TEFb association with BRD4",
+      "authorString": "Mohamed AA, Vos SM.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Mohamed AA",
+            "firstName": "Abdallah",
+            "lastName": "Mohamed",
+            "initials": "AA"
+          },
+          {
+            "fullName": "Vos SM",
+            "firstName": "Seychelle",
+            "lastName": "Vos",
+            "initials": "SM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1985-2994"
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1985-2994"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>ABSTRACT</h4>  Cyclin-dependent kinases (CDK) dynamically regulate RNA Polymerase (Pol) II during each stage of transcription. Phosphorylation of RNA Pol II and associated transcription factors by CDKs enables stage-specific exchange of factors. CDK9 and a cyclin partner (CYCT1, T2 or K) comprise the Positive Transcription Elongation Factor-b (P-TEFb) complex, which is responsible for releasing RNA Pol II from promoter proximal pausing into processive elongation. P-TEFb activity is stimulated by bromodomain-containing Protein 4 (BRD4); however, the structural basis for BRD4 association with P-TEFb has remained unclear. Using cryogenic-electron microscopy, AlphaFold modeling, and biochemical probing, we show that the P-TEFb interacting domain of BRD4 (BRD4-PID) interacts with P-TEFb via the C-lobe of CDK9 and the second cyclin domain of CYCT1. The BRD4 binding surface on CDK9 is also used by super elongation complex component AFF4. Our analysis indicates that BRD4 may stimulate P-TEFb activity by remodeling the kinase αC helix relative to previous structures. Finally, P-TEFb activity is restricted when bound to the 7SK RNP complex. We show that in addition to BRD4-PID, the AFF4 N-terminus can release P-TEFb from the 7SK RNP complex. Together, these findings define how P-TEFb activity is regulated by its incorporation into distinct complexes. <h4>SIGNIFICANCE STATEMENT</h4>  The exquisite control of gene expression is required for proper development and cellular response to environmental stress. Positive transcription elongation factor b (P-TEFb) is required for the phosphorylation of RNA Pol II and leads to the coordinated release of RNA Pol II from pause sites near the promoter. P-TEFb is bound to bromo-domain containing protein 4 (BRD4), which stimulates P-TEFb activity; however, it is unknown how BRD4 associates with P-TEFb. Here we report a cryo-EM structure of P-TEFb bound to BRD4, revealing how BRD4 interacts with P-TEFb. Comparison of our structure with previously reported P-TEFb structures shows how P-TEFb is regulated by different transcription factor binding partners.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.03.749171"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-08",
+      "firstIndexDate": "2026-09-08",
+      "firstPublicationDate": "2026-09-07"
+    }
+  }
+}

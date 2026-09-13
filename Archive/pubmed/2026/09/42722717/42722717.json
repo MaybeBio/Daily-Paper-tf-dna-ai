@@ -1,0 +1,263 @@
+{
+  "identity": {
+    "pmid": "42722717",
+    "doi": "10.1038/s41598-026-70626-y",
+    "title": "ZUP1 contributes to cisplatin resistance and treg-related signaling in non-small cell lung cancer."
+  },
+  "content": {
+    "abstract": "Acquired cisplatin resistance limits platinum chemotherapy efficacy in non-small cell lung cancer (NSCLC) and is accompanied by tumor immune microenvironment (TME) remodeling. We integrated public NSCLC single-cell RNA-seq datasets to compare cellular composition and CellChat-inferred communication between post-chemotherapy remission and relapse/resistant tumors, and validated ZUP1 expression and prognostic relevance in TCGA and external cohorts. In cisplatin-resistant A549/R and SK-MES-1/R cells, we generated stable ZUP1 knockdown and assessed proliferation, tumorsphere growth and formation, apoptosis (Annexin V/PI) and BAX/BCL2 expression, and xenograft growth. Tumor cell-peripheral Treg co-cultures were used to quantify the proportion of FOXP3(+) cells within the gated CD4(+) population. Natural-product screening was guided by molecular docking, and ZUP1-compound binding was evaluated by surface plasmon resonance (SPR). Peimisine responses were compared between parental and cisplatin-resistant cells. In A549/R cells, experimentally measured viability across a peimisine-cisplatin concentration matrix and cisplatin dose-response curves at fixed peimisine concentrations were used to evaluate changes in cisplatin sensitivity. Resistant tumors exhibited remodeled cellular composition and enhanced intercellular communication, including increased epithelial-to-Treg signaling. ZUP1 was upregulated in resistant models and associated with unfavorable prognosis. ZUP1 knockdown suppressed growth and tumorsphere formation, increased apoptosis, reduced tumorigenicity in vivo, and reduced the proportion of CD4(+)FOXP3(+) Treg-like cells in co-culture. Peimisine directly bound ZUP1 by SPR, inhibited resistant cell growth, and was associated with lower estimated cisplatin IC(5)(0) values in A549/R cells at fixed peimisine concentrations. ZUP1 contributes to the maintenance of cisplatin-resistant growth and is associated with enhanced Treg-related immunosuppressive signaling in NSCLC. Peimisine directly binds ZUP1 and may serve as a preliminary natural-product lead for further target-validation and combination studies.",
+    "keywords": [
+      "Cisplatin resistance",
+      "Non-small cell lung cancer (NSCLC)",
+      "Peimisine",
+      "Regulatory T cells (Tregs)",
+      "ZUP1 (ZUFSP)"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Cisplatin/pharmacology/therapeutic use",
+      "*Carcinoma, Non-Small-Cell Lung/drug therapy/pathology/metabolism/genetics/immunology",
+      "*Drug Resistance, Neoplasm/genetics",
+      "*Lung Neoplasms/drug therapy/pathology/metabolism/genetics/immunology",
+      "Animals",
+      "*T-Lymphocytes, Regulatory/metabolism/immunology",
+      "Signal Transduction/drug effects",
+      "Mice",
+      "Apoptosis/drug effects",
+      "Antineoplastic Agents/pharmacology",
+      "*Repressor Proteins/metabolism/genetics",
+      "Cell Proliferation/drug effects",
+      "Gene Expression Regulation, Neoplastic",
+      "Xenograft Model Antitumor Assays",
+      "Female",
+      "Cell Line, Tumor",
+      "A549 Cells",
+      "COP9 Signalosome Complex",
+      "Peptide Hydrolases",
+      "Intracellular Signaling Peptides and Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiong, Wanyan",
+        "Deng, Zhixuan",
+        "Ding, Fang",
+        "Xiao, Zhike",
+        "Shi, Wang",
+        "Gu, Gang",
+        "Yan, Nan"
+      ],
+      "short_names": [
+        "Xiong W",
+        "Deng Z",
+        "Ding F",
+        "Xiao Z",
+        "Shi W",
+        "Gu G",
+        "Yan N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China.",
+        "Institute of Cell Biology, Hengyang Medical School, University of South China, Hengyang, 421000, Hunan, China.",
+        "The Second Affiliated Hospital, University of South China, Hengyang, Hunan, China.",
+        "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China.",
+        "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China.",
+        "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China.",
+        "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China. 1021594605@qq.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiong, Wanyan",
+        "short_name": "Xiong W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Zhixuan",
+        "short_name": "Deng Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Cell Biology, Hengyang Medical School, University of South China, Hengyang, 421000, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Fang",
+        "short_name": "Ding F",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Affiliated Hospital, University of South China, Hengyang, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Zhike",
+        "short_name": "Xiao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Wang",
+        "short_name": "Shi W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Gang",
+        "short_name": "Gu G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Nan",
+        "short_name": "Yan N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, The Affiliated Nanhua Hospital, University of South China, Hengyang, Hunan, China. 1021594605@qq.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Scientific reports"
+    ],
+    "journal_abbrev": [
+      "Sci Rep"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42722717",
+      "41833771",
+      "32342201",
+      "41406834",
+      "41807497",
+      "40155472",
+      "41865688",
+      "28886730",
+      "32945379",
+      "33197518",
+      "41614410",
+      "31659146",
+      "27411790",
+      "40195058",
+      "40324967",
+      "27581532",
+      "29067469",
+      "39890166",
+      "42031983",
+      "28350100",
+      "28686074",
+      "35883026",
+      "31160576",
+      "39020302",
+      "32767026",
+      "34537072",
+      "30981205",
+      "28746345",
+      "32854746",
+      "30589033",
+      "29287202",
+      "28202053",
+      "29344640",
+      "39521757",
+      "40369444",
+      "27607580",
+      "30664195",
+      "40216870",
+      "38704830",
+      "22609235",
+      "33658304",
+      "34055989",
+      "38732265",
+      "25213670",
+      "33276753",
+      "42392776",
+      "33781830",
+      "42087187",
+      "33771522",
+      "42472515",
+      "29207165",
+      "28677094",
+      "38587027",
+      "32746878",
+      "40505482",
+      "32165307",
+      "32271431",
+      "32878625",
+      "41832968",
+      "27472460",
+      "30064446",
+      "28074905",
+      "33753110",
+      "40801328",
+      "32778129",
+      "30302523",
+      "27207836",
+      "27922681",
+      "31486493",
+      "39422070",
+      "39256686",
+      "30291867",
+      "28459375",
+      "30070323",
+      "25394854",
+      "33537094",
+      "33715980",
+      "38588931",
+      "30522099",
+      "40011884",
+      "39523104",
+      "33617838",
+      "41592891",
+      "23349823",
+      "32602212",
+      "26517520",
+      "41379278",
+      "39192653",
+      "28518145",
+      "27780929",
+      "40055838",
+      "27270317",
+      "38818906",
+      "40278288",
+      "32815556",
+      "27697601",
+      "30718500",
+      "39340992",
+      "22197230",
+      "40645461"
+    ],
+    "review": [
+      "42722717"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

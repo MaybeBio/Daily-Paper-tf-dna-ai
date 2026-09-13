@@ -1,0 +1,285 @@
+{
+  "identity": {
+    "pmid": "42712103",
+    "doi": "10.1177/15330338261488956",
+    "title": "An MRI-Based Intratumoral and Peritumoral 2.5D Deep Learning Model for Predicting P53-Mutated Hepatocellular Carcinoma: A Two-Center Study."
+  },
+  "content": {
+    "abstract": "IntroductionHepatocellular carcinoma (HCC) is the most common primary liver cancer with high mortality. TP53 is the most frequently mutated tumor-suppressor gene in HCC, and P53 mutations are associated with poor differentiation, vascular invasion, and lower survival. Preoperative noninvasive detection of P53-mutated HCC is critical for treatment planning and prognostic assessment. This study aimed to develop and validate a deep learning (DL) model for predicting P53 mutation status in HCC.MethodsIn this retrospective two-center study, 373 patients with pathologically confirmed HCC were enrolled from two institutions (Center 1: n=320; Center 2: n=53). The Center 1 cohort was randomly partitioned into a training cohort (n=256) and an internal test cohort (n=64). Patients from Center 2 constituted an independent external test cohort (n=53). We employed a 2.5D ResNet34 architecture to process three-channel dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI). Separate deep learning models were constructed for intratumoral and peritumoral regions using both single-phase and multiphase (arterial, portal venous, and delayed) fusion sequences. Significant clinical variables were selected to build a Clinical model, which was subsequently integrated with the optimal deep learning model to create a Combined model. Model performance was assessed by the area under the curve (AUC), calibration curves, and decision curve analysis (DCA).ResultsMultiphase fusion models consistently outperformed their single-phase models. The peritumoral (5mm) fusion model (IntraPeri5mm_Fusion) outperformed the intratumoral fusion model, achieving AUCs of 0.881 (95% CI: 0.836-0.926), 0.772 (95% CI: 0.651-0.893), and 0.757 (95% CI: 0.624-0.891) on the training cohort, internal test cohort, and external test cohort, respectively. The Combined model yielded further incremental improvement, with AUCs reaching 0.886 (95% CI: 0.842-0.930), 0.805 (95% CI: 0.691-0.918), and 0.793 (95% CI: 0.668-0.918) across the respective cohorts.ConclusionsThe proposed 2.5D DL model based on DCE-MRI effectively predicts P53-mutated HCC. Integrating peritumoral features with clinical variables yields the best performance, offering a promising noninvasive tool for prognostic stratification and individualized therapeutic planning.",
+    "keywords": [
+      "2.5D deep learning",
+      "P53 mutation",
+      "dynamic contrast-enhanced MRI",
+      "hepatocellular carcinoma"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Deep Learning",
+      "*Liver Neoplasms/genetics/diagnostic imaging/pathology/diagnosis",
+      "*Tumor Suppressor Protein p53/genetics",
+      "*Carcinoma, Hepatocellular/genetics/diagnostic imaging/pathology/diagnosis",
+      "Female",
+      "Male",
+      "*Mutation",
+      "Middle Aged",
+      "*Magnetic Resonance Imaging/methods",
+      "Prognosis",
+      "Retrospective Studies",
+      "Aged",
+      "ROC Curve",
+      "Radiomics",
+      "Dynamic Contrast Enhanced Magnetic Resonance Imaging",
+      "Predictive Learning Models",
+      "Adult"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Multicenter Study"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Weng, Jingfei",
+        "Li, Pinxiong",
+        "Yao, Dinghua",
+        "He, Yuqing",
+        "Yang, Chun",
+        "Yang, Bin"
+      ],
+      "short_names": [
+        "Weng J",
+        "Li P",
+        "Yao D",
+        "He Y",
+        "Yang C",
+        "Yang B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9759-6984"
+      ],
+      "affiliations": [
+        "Department of Radiology, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, China. RINGGOLD: 609846",
+        "Department of Radiology, The Affiliated Hospital, Southwest Medical University, Luzhou, China. RINGGOLD: 556508",
+        "Department of Radiology, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, China. RINGGOLD: 609846",
+        "Department of Radiology, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, China. RINGGOLD: 609846",
+        "Department of Radiology, Zhongshan Hospital, Fudan University, Shanghai, China. RINGGOLD: 92323",
+        "Department of Radiology, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, China. RINGGOLD: 609846"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Weng, Jingfei",
+        "short_name": "Weng J",
+        "identifiers": [
+          "0000-0002-9759-6984"
+        ],
+        "affiliations": [
+          "Department of Radiology, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Pinxiong",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The Affiliated Hospital, Southwest Medical University, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Dinghua",
+        "short_name": "Yao D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "He, Yuqing",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Chun",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, Zhongshan Hospital, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Bin",
+        "short_name": "Yang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Technology in cancer research & treatment"
+    ],
+    "journal_abbrev": [
+      "Technol Cancer Res Treat"
+    ],
+    "pub_date": "2026 Jan-Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Multicenter Study"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 11:38",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42712103",
+      "42169905",
+      "40624579",
+      "41430161",
+      "40899931",
+      "41723042",
+      "42637179",
+      "38749868",
+      "41558394",
+      "41126066",
+      "40165094",
+      "41619313",
+      "41237121",
+      "42150387",
+      "33839938",
+      "42373437",
+      "40595796",
+      "40933208",
+      "40084948",
+      "40274548",
+      "41882552",
+      "41545974",
+      "42285781",
+      "40338065",
+      "37875815",
+      "41953399",
+      "40460947",
+      "37078470",
+      "39972270",
+      "30666445",
+      "41341387",
+      "39472207",
+      "40830494",
+      "40702274",
+      "40862800",
+      "41173217",
+      "40167646",
+      "41053269",
+      "42632855",
+      "41023894",
+      "39675785",
+      "38536542",
+      "40389920",
+      "41714223",
+      "42500825",
+      "41814400",
+      "41219899",
+      "40102774",
+      "38690027",
+      "40730778",
+      "37888871",
+      "41161266",
+      "41924546",
+      "39333413",
+      "38997242",
+      "41761127",
+      "42137165",
+      "42709358",
+      "41435687",
+      "39631483",
+      "42724750",
+      "41612257",
+      "42413246",
+      "38875748",
+      "42608639",
+      "39690384",
+      "40767869",
+      "34480625",
+      "41366360",
+      "41289056",
+      "39658681",
+      "40328536",
+      "41913156",
+      "39025700",
+      "41793183",
+      "34130644",
+      "40926527",
+      "40849993",
+      "39992060",
+      "40627133",
+      "40707767",
+      "40771390",
+      "32002645",
+      "41790668",
+      "41723043",
+      "41814215",
+      "41130881",
+      "40329236",
+      "38199902",
+      "41290425",
+      "41367005",
+      "42020230",
+      "39181825",
+      "41102694",
+      "42157135",
+      "41134139",
+      "42164573",
+      "41735109",
+      "41661434",
+      "38853169"
+    ],
+    "review": [
+      "42712103"
+    ],
+    "pmc": [
+      "13558934"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.sagepub.com/doi/10.1177/15330338261488956?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/livercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

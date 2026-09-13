@@ -1,0 +1,238 @@
+{
+  "identity": {
+    "pmid": "42724740",
+    "doi": "10.21037/jtd-2026-0900",
+    "title": "Single-cell and machine learning identify a trihydroxybutyrylation-related prognostic signature in esophageal cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Esophageal squamous cell carcinoma (ESCC) is a highly aggressive malignancy with a poor prognosis. This study identifies malignant epithelial subtypes and establishes prognostic biomarkers through single-cell transcriptomics and integrative machine learning approaches. METHODS: We re-analyzed the single-cell RNA sequencing data (GSE188900) and identified malignant epithelial cells using inferCNV. Differentially expressed genes (DEGs) among malignant epithelial subtypes were identified and intersected with lysine beta-hydroxybutyrylation (Kbhb)-related genes. Candidate genes were screened using Cox, least absolute shrinkage and selection operator (LASSO), and extreme gradient boosting (XGBoost) to construct a random survival forest (RSF) prognostic model. Model performance was validated in GSE53625, TCGA-ESCC, and GSE53624 cohorts. Finally, the expression of prognostic genes was detected by quantitative polymerase chain reaction (qPCR). RESULTS: Single-cell RNA sequencing identified three distinct malignant epithelial cells in ESCC. Among them, the Malignant2 subtype exhibited stemness-related characteristics, initiated tumor differentiation, and was potentially regulated by the transcription factor (TF) SOX11. There were 659 genes identified by intersecting Malignant2-related DEGs with Kbhb-related genes. Based on these genes, a seven-gene prognostic model was constructed, and a corresponding risk score was calculated. Correlation analysis showed that the risk score was positively associated with tumor stage. qPCR results confirmed that the expression patterns of the prognostic genes were consistent with the computational analysis. The enrichment of Kbhb-related genes in the Malignant2 subtype suggests a potential link between metabolic reprogramming and epigenetic regulation in ESCC progression. CONCLUSIONS: We identified distinct malignant epithelial subtypes in ESCC and developed a seven-gene prognostic signature based on Kbhb-related genes. This model demonstrated robust predictive performance and was significantly associated with tumor stages.",
+    "keywords": [
+      "Lysine beta-hydroxybutyrylation (Kbhb)",
+      "esophageal squamous cell carcinoma (ESCC)",
+      "machine learning",
+      "single-cell RNA sequencing",
+      "tumor heterogeneity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Qun",
+        "Li, Duojie",
+        "Yin, Hongmei",
+        "Zhu, Chaomang",
+        "Huang, Jie",
+        "Zhou, Shixiang"
+      ],
+      "short_names": [
+        "Zhang Q",
+        "Li D",
+        "Yin H",
+        "Zhu C",
+        "Huang J",
+        "Zhou S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Anhui Provincial Key Laboratory of Tumor Evolution and Intelligent Diagnosis and Treatment, Bengbu Medical University, Bengbu, China.",
+        "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Anhui Provincial Key Laboratory of Tumor Evolution and Intelligent Diagnosis and Treatment, Bengbu Medical University, Bengbu, China.",
+        "Joint Research Center for Regional Diseases of IHM, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Qun",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+          "Anhui Provincial Key Laboratory of Tumor Evolution and Intelligent Diagnosis and Treatment, Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Duojie",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+          "Anhui Provincial Key Laboratory of Tumor Evolution and Intelligent Diagnosis and Treatment, Bengbu Medical University, Bengbu, China.",
+          "Joint Research Center for Regional Diseases of IHM, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Hongmei",
+        "short_name": "Yin H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Chaomang",
+        "short_name": "Zhu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jie",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Shixiang",
+        "short_name": "Zhou S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiotherapy, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of thoracic disease"
+    ],
+    "journal_abbrev": [
+      "J Thorac Dis"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 11:38",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42724740",
+      "40496864",
+      "41613113",
+      "41208974",
+      "42591770",
+      "38559590",
+      "42263482",
+      "42292425",
+      "34926275",
+      "42287557",
+      "41703614",
+      "38515748",
+      "41313509",
+      "42724419",
+      "40918133",
+      "42182752",
+      "37313409",
+      "36479114",
+      "42364031",
+      "42434274",
+      "42037647",
+      "41969446",
+      "40034693",
+      "41957879",
+      "42539530",
+      "38098487",
+      "41584451",
+      "34372798",
+      "42337781",
+      "42261153",
+      "40281492",
+      "41924732",
+      "37942473",
+      "40303412",
+      "41716413",
+      "42192326",
+      "38903709",
+      "41972154",
+      "42469385",
+      "42105179",
+      "41940976",
+      "41425595",
+      "31748958",
+      "37383713",
+      "42212140",
+      "41694488",
+      "42477639",
+      "39516222",
+      "41234880",
+      "42284987",
+      "41832427",
+      "42392347",
+      "38404059",
+      "40821701",
+      "39697710",
+      "40460484",
+      "40504362",
+      "39604874",
+      "40375794",
+      "41162922",
+      "42600038",
+      "37081402",
+      "39344350",
+      "41761968",
+      "41813383",
+      "41164195",
+      "41731722",
+      "39948301",
+      "41234865",
+      "42715652",
+      "40740774",
+      "40438115",
+      "39966857",
+      "42495647",
+      "42180849",
+      "41208987",
+      "42370567",
+      "35121801",
+      "41798945",
+      "42164400",
+      "41201701",
+      "40337768",
+      "34054840",
+      "41917876",
+      "41382084",
+      "41815152",
+      "42343374",
+      "37561524",
+      "41601657",
+      "40016772",
+      "41089329",
+      "42180956",
+      "31803536",
+      "41013841",
+      "40792153",
+      "41436831",
+      "42471772",
+      "42445408",
+      "34409040",
+      "42035196"
+    ],
+    "review": [
+      "42724740"
+    ],
+    "pmc": [
+      "13559392"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

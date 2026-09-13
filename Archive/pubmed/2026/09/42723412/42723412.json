@@ -1,0 +1,219 @@
+{
+  "identity": {
+    "pmid": "42723412",
+    "doi": "10.1111/gbb.70059",
+    "title": "An Integrated Analysis of Manganese Metabolism-Related Genes and Their Association With Biomarkers, Immune Infiltration, and Clinical Subtypes in Alzheimer's Disease."
+  },
+  "content": {
+    "abstract": "Alzheimer's disease (AD), a neurodegenerative condition marked by amyloid-beta plaques and tau protein neurofibrillary tangles, progresses against a backdrop of essential biological processes. Manganese, an indispensable trace element for vital functions including energy metabolism and antioxidant defense, is integral to neurological health. Its precise metabolic role throughout the course of AD pathogenesis is not fully elucidated. Four essential manganese metabolism-related genes were identified as diagnostic markers through a multi-omic framework. This approach integrated Weighted Gene Co-Expression Network Analysis with machine learning ensembles (Least Absolute Shrinkage and Selection Operator/Random Forest/Extreme Gradient Boosting), followed by rigorous testing in an independent dataset. Beyond identification, we utilized CIBERSORT and ssGSEA to characterize immune infiltration and leveraged GSEA/GO/KEGG for pathway elucidation. Finally, AD patients were stratified into molecular subgroups based on these hub genes, and their underlying regulatory networks involving miRNAs and transcription factors were reconstructed. An integrated bioinformatics framework identified 12 differentially expressed genes related to manganese metabolism in AD. Machine-learning-based feature selection further pinpointed four key diagnostic biomarkers (TSPO, PTBP1, GLO1, and ACACB) with high discriminative power (AUC: 0.831-0.905). Immune infiltration analysis revealed substantial immune remodeling in AD, including an elevation of naive B cells. Moreover, AD samples were classified into two molecular subtypes displaying distinct immune and metabolic characteristics, and regulatory miRNA/TF interaction networks were constructed for the core genes. Our results shed new light on the molecular mechanisms underlying AD and support future efforts toward early diagnosis and personalized therapeutic interventions based on molecular subtypes.",
+    "keywords": [
+      "Alzheimer's disease",
+      "biomarker",
+      "manganese metabolism-related genes",
+      "subtype identification"
+    ],
+    "mesh_terms": [
+      "*Alzheimer Disease/genetics/metabolism/immunology",
+      "Humans",
+      "*Manganese/metabolism",
+      "Biomarkers/metabolism",
+      "Gene Regulatory Networks"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shu, Shengnan",
+        "Hu, Jiahao",
+        "Hu, Shanshan",
+        "Yao, Yefeng"
+      ],
+      "short_names": [
+        "Shu S",
+        "Hu J",
+        "Hu S",
+        "Yao Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-3564-1838"
+      ],
+      "affiliations": [
+        "Department of Neurology, People's Hospital of Longyou County, Zhejiang, China.",
+        "Department of Internal Medicine, Longyou County Xikou Central Health Center, Zhejiang, China.",
+        "Department of Neurology, People's Hospital of Longyou County, Zhejiang, China.",
+        "Department of Hepatobiliary Surgery, People's Hospital of Longyou County, Zhejiang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shu, Shengnan",
+        "short_name": "Shu S",
+        "identifiers": [
+          "0009-0006-3564-1838"
+        ],
+        "affiliations": [
+          "Department of Neurology, People's Hospital of Longyou County, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Jiahao",
+        "short_name": "Hu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Longyou County Xikou Central Health Center, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Shanshan",
+        "short_name": "Hu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, People's Hospital of Longyou County, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Yefeng",
+        "short_name": "Yao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hepatobiliary Surgery, People's Hospital of Longyou County, Zhejiang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes, brain, and behavior"
+    ],
+    "journal_abbrev": [
+      "Genes Brain Behav"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42723412",
+      "39507054",
+      "41115648",
+      "39375405",
+      "41390089",
+      "41291841",
+      "41432483",
+      "39394418",
+      "42663999",
+      "38808722",
+      "42431430",
+      "39819531",
+      "42554796",
+      "39920860",
+      "42009747",
+      "40753530",
+      "40192032",
+      "39650656",
+      "39188714",
+      "36506471",
+      "41913032",
+      "41044520",
+      "42292668",
+      "37434203",
+      "42474555",
+      "37100862",
+      "41883400",
+      "37619853",
+      "36071897",
+      "42109201",
+      "40600526",
+      "37520121",
+      "41009659",
+      "42274933",
+      "39622968",
+      "38951833",
+      "41879435",
+      "37736681",
+      "42056344",
+      "38682214",
+      "41197132",
+      "36405716",
+      "37715200",
+      "39586719",
+      "42123756",
+      "41498558",
+      "41781900",
+      "41146237",
+      "41741571",
+      "42123445",
+      "38478169",
+      "41810197",
+      "36195955",
+      "41013556",
+      "37274215",
+      "39139563",
+      "39604273",
+      "38329682",
+      "42340574",
+      "40500570",
+      "39965013",
+      "41892599",
+      "41751608",
+      "41006883",
+      "40315768",
+      "39541897",
+      "42642681",
+      "39730451",
+      "40547214",
+      "41300833",
+      "37094463",
+      "42475469",
+      "41316541",
+      "40685632",
+      "35966794",
+      "39497294",
+      "34243818",
+      "40129981",
+      "40148430",
+      "42338983",
+      "40258895",
+      "40108056",
+      "40560886",
+      "40277064",
+      "39844282",
+      "40207815",
+      "37434738",
+      "36635346",
+      "37933012",
+      "38374756",
+      "41822387",
+      "41145553",
+      "40360670",
+      "35954209",
+      "40642087",
+      "38291374",
+      "36408104",
+      "41388523",
+      "42178007",
+      "40216809"
+    ],
+    "review": [
+      "42723412"
+    ],
+    "pmc": [
+      "13563062"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

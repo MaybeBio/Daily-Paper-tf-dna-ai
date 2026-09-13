@@ -1,0 +1,276 @@
+{
+  "identity": {
+    "pmid": "42718959",
+    "doi": "10.1177/11779322261488174",
+    "title": "In silico Identification of Key Genes and Repurposable Drugs for Triple-Negative Breast Cancer."
+  },
+  "content": {
+    "abstract": "Triple-negative breast cancer (TNBC) is a highly aggressive and treatment-resistant subtype, lacking HER2, progesterone, and estrogen receptors. Systemic chemotherapy remains the primary treatment due to the absence of molecular targets, often leading to poor prognosis and high recurrence. This study used an integrated in silico transcriptomic and network-based bioinformatics approach to identify TNBC key genes (TKGs) and explore potential therapeutic candidates. Four TNBC microarray datasets (GSE36295, GSE38959, GSE45827, and GSE65194) were analyzed with the LIMMA algorithm in GEO2R, revealing 315 TNBC-shared differentially expressed genes (TSDEGs). Eight strongly connected TKGs were identified via topological analysis and protein-protein interaction (PPI) network construction across the STRING and IMEx databases from TSDEGs: CDK1, TOP2A, CCNB1, CDK2, FN1, UBC, PRKDC, and PARP1. Enrichment analysis of biological processes, molecular functions, cellular components, and KEGG pathways, combined with regulatory network analysis involving transcription factors and microRNAs, identified pathogenic roles of these genes. CDK1 and CDK2 were identified as the top pharmacological targets for molecular docking studies. Finally, TKG-guided top-ranked two drug molecules (Alsterpaullone and BLU-222) emerged as promising repurposed therapeutic candidates for TNBC. The absorption, distribution, metabolism, excretion, and toxicity (ADMET) and drug-likeness analyses showed these molecules have favorable pharmacokinetic properties. Molecular dynamics simulations over 100 nanoseconds demonstrated stable binding interactions and favorable behavior for the complexes CDK1-Alsterpaullone and CDK2-BLU-222, as indicated by root mean square deviation, fluctuation, and molecular interactions generalized Born surface area. Overall, these findings may aid in diagnosing and treating TNBC, providing valuable resources for future therapeutic strategies.",
+    "keywords": [
+      "ADMET analysis",
+      "GEO2R",
+      "differentially expressed genes",
+      "key genes",
+      "molecular docking",
+      "molecular dynamics simulations",
+      "triple-negative breast cancer"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zarin, Nazia",
+        "Tanha, Tasnim Hosen",
+        "Nishad, Mimuna",
+        "Parvin, Rehana",
+        "Ashad, Redwan",
+        "Islam, Md Sajedul",
+        "Haque, Shaila"
+      ],
+      "short_names": [
+        "Zarin N",
+        "Tanha TH",
+        "Nishad M",
+        "Parvin R",
+        "Ashad R",
+        "Islam MS",
+        "Haque S"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-9344-2652"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh. RINGGOLD: 421974",
+        "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh. RINGGOLD: 421974",
+        "Department of Biochemistry and Molecular Biology, Faculty of Science and Engineering, Trust University, Barishal, Bangladesh.",
+        "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh. RINGGOLD: 421974",
+        "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh. RINGGOLD: 421974",
+        "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh. RINGGOLD: 421974",
+        "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh. RINGGOLD: 421974",
+        "School of Medicine and Dentistry, Griffith University, Gold Coast Campus, Southport, QLD, Australia.",
+        "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh. RINGGOLD: 421974"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zarin, Nazia",
+        "short_name": "Zarin N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Tanha, Tasnim Hosen",
+        "short_name": "Tanha TH",
+        "identifiers": [
+          "0009-0009-9344-2652"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh.",
+          "Department of Biochemistry and Molecular Biology, Faculty of Science and Engineering, Trust University, Barishal, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Nishad, Mimuna",
+        "short_name": "Nishad M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Parvin, Rehana",
+        "short_name": "Parvin R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Ashad, Redwan",
+        "short_name": "Ashad R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Islam, Md Sajedul",
+        "short_name": "Islam MS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh.",
+          "School of Medicine and Dentistry, Griffith University, Gold Coast Campus, Southport, QLD, Australia."
+        ]
+      },
+      {
+        "full_name": "Haque, Shaila",
+        "short_name": "Haque S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biotechnology, Faculty of Bio-Sciences, University of Barishal, Barishal, Bangladesh."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics and biology insights"
+    ],
+    "journal_abbrev": [
+      "Bioinform Biol Insights"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:53",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42718959",
+      "42483440",
+      "30140156",
+      "40092695",
+      "41342434",
+      "40252254",
+      "39674628",
+      "36567949",
+      "41392640",
+      "41168787",
+      "42316306",
+      "40370100",
+      "39698883",
+      "41751534",
+      "40135676",
+      "34797837",
+      "33747220",
+      "41664335",
+      "42028569",
+      "42603184",
+      "35474355",
+      "37824496",
+      "37093683",
+      "38809637",
+      "42352983",
+      "35409328",
+      "39843552",
+      "42206911",
+      "36998242",
+      "40676786",
+      "32338339",
+      "32821169",
+      "41016300",
+      "40353470",
+      "39834541",
+      "31197620",
+      "26103053",
+      "41048345",
+      "40798963",
+      "40287845",
+      "33757543",
+      "39342122",
+      "33688252",
+      "41727639",
+      "36204232",
+      "41337159",
+      "42624926",
+      "38609711",
+      "42421348",
+      "41533020",
+      "39911278",
+      "30302816",
+      "38524085",
+      "39350059",
+      "41487287",
+      "39454454",
+      "40406126",
+      "34053447",
+      "40834023",
+      "32358373",
+      "38421558",
+      "40356970",
+      "36836779",
+      "33708561",
+      "41465132",
+      "40604083",
+      "41552645",
+      "39145086",
+      "40843941",
+      "35627287",
+      "37534476",
+      "40860264",
+      "41469454",
+      "42224282",
+      "33358854",
+      "37099048",
+      "37893423",
+      "42675738",
+      "39323640",
+      "37351977",
+      "31974598",
+      "40421218",
+      "41492010",
+      "42580240",
+      "42310796",
+      "40627944",
+      "37713894",
+      "38618280",
+      "39108110",
+      "41495854",
+      "41483318",
+      "28739725",
+      "31297036",
+      "41171828",
+      "39927118",
+      "39689602",
+      "40739477",
+      "34078054",
+      "34858165",
+      "35447458"
+    ],
+    "review": [
+      "42718959",
+      "33358854"
+    ],
+    "pmc": [
+      "13554646"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.sagepub.com/doi/10.1177/11779322261488174?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERBB2-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1187",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

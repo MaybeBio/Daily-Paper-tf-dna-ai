@@ -1,0 +1,259 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.11.750838",
+  "title": "StIA is a Novel Nucleoid-Associated Protein of Streptococcus pneumoniae that Activates DNA Topoisomerase I",
+  "doi": "10.64898/2026.09.11.750838",
+  "abstract": "Topoisomerases are essential enzymes that maintain DNA topology. The activity of some of these enzymes is regulated by protein cofactors. Here, we identify a previously uncharacterized nucleoid-associated protein from the human pathogen Streptococcus pneumoniae that binds double-stranded DNA (dsDNA) in a sequence-independent manner both in vitro and in vivo and activates topoisomerase I (Topo I). This protein was named StIA (Streptococcal Topoisomerase I Activator). In vivo analyses showed that deletion of stIA impairs bacterial growth in the presence of the Topo I inhibitor seconeolitsine, whereas its overproduction decreases susceptibility to this compound. Consistent with these observations, StIA specifically stimulates Topo I activity without affecting DNA gyrase. StIA forms oligomers and assembles into higher-order nucleoprotein complexes upon DNA-binding. Mechanistic analyses revealed that StIA does not alter DNA cleavage by Topo I but specifically enhances the DNA religation step of its catalytic cycle. This activation is likely mediated through a direct protein-protein interaction, as StIA and Topo I physically associate in vitro. Structural modeling further supports the formation of a StIA-Topo I complex and identifies putative contact residues involved in the interaction. Collectively, these findings establish StIA as a novel nucleoid-associated with a dual function: promoting nucleoprotein complex assembly and stimulating Topo I activity through direct interaction with the enzyme. More broadly, our results suggest that the regulation of topoisomerase activity by accessory proteins may represent an important mechanism for fine-tuning DNA topological homeostasis and could provide new opportunities for the development of antibacterial therapies.",
+  "authors": [
+    "Antonio A de Vasconcelos Junior",
+    "Pablo Herrera",
+    "Adela G de la Campa",
+    "Monica Amblar"
+  ],
+  "published_date": "2026-09-11",
+  "updated_date": "2026-09-12T03:20:20Z",
+  "journal": "bioRxiv",
+  "category": "Microbiology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.11.750838",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.11.750838.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Microbiology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Microbiology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2026-09-12T04:07:17Z",
+        "timestamp": 1789186037340,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            11
+          ]
+        ]
+      },
+      "group-title": "Microbiology",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                11
+              ]
+            ],
+            "date-time": "2026-09-11T00:00:00Z",
+            "timestamp": 1789084800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Ministerio de Ciencia e Innovación of Spain and the Agencia y el Fondo Europeo de Desarrollo Regional (MCIN/AEI/10.13039/501100011033/FEDER, UE)",
+          "award": [
+            "PID2021-124738OB-100"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "PID2021-124738OB-100"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ministerio de Ciencia e Innovación of Spain and the Agencia y el Fondo Europeo de Desarrollo Regional (MCIN/AEI/10.13039/501100011033/FEDER, UE)",
+          "award": [
+            "PID2024-157350OB-I00"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "PID2024-157350OB-I00"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Topoisomerases are essential enzymes that maintain DNA topology. The activity of some of these enzymes is regulated by protein cofactors. Here, we identify a previously uncharacterized nucleoid-associated protein from the human pathogen Streptococcus pneumoniae that binds double-stranded DNA (dsDNA) in a sequence-independent manner both in vitro and in vivo and activates topoisomerase I (Topo I). This protein was named StIA (Streptococcal Topoisomerase I Activator). In vivo analyses showed that deletion of stIA impairs bacterial growth in the presence of the Topo I inhibitor seconeolitsine, whereas its overproduction decreases susceptibility to this compound. Consistent with these observations, StIA specifically stimulates Topo I activity without affecting DNA gyrase. StIA forms oligomers and assembles into higher-order nucleoprotein complexes upon DNA-binding. Mechanistic analyses revealed that StIA does not alter DNA cleavage by Topo I but specifically enhances the DNA religation step of its catalytic cycle. This activation is likely mediated through a direct protein-protein interaction, as StIA and Topo I physically associate in vitro. Structural modeling further supports the formation of a StIA-Topo I complex and identifies putative contact residues involved in the interaction. Collectively, these findings establish StIA as a novel nucleoid-associated with a dual function: promoting nucleoprotein complex assembly and stimulating Topo I activity through direct interaction with the enzyme. More broadly, our results suggest that the regulation of topoisomerase activity by accessory proteins may represent an important mechanism for fine-tuning DNA topological homeostasis and could provide new opportunities for the development of antibacterial therapies.</jats:p>",
+      "DOI": "10.64898/2026.09.11.750838",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2026-09-12T03:20:20Z",
+        "timestamp": 1789183220000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "StIA is a Novel Nucleoid-Associated Protein of Streptococcus pneumoniae that Activates DNA Topoisomerase I"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Antonio A",
+          "family": "de Vasconcelos Junior",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Centro Nacional de Microbiologia, Instituto de Salud Carlos III;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pablo",
+          "family": "Herrera",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centro Nacional de Microbiologia, Instituto de Salud Carlos III;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3598-2548",
+          "authenticated-orcid": false,
+          "given": "Adela G",
+          "family": "de la Campa",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centro Nacional de Microbiologia. Instituto de Salud Carlos III"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3530-615X",
+          "authenticated-orcid": false,
+          "given": "Monica",
+          "family": "Amblar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centro Nacional de Microbiologia, Instituto de Salud Carlos III;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.11.750838",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2026-09-12T03:20:20Z",
+        "timestamp": 1789183220000
+      },
+      "score": 71.97374,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.11.750838"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            11
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.11.750838",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            11
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

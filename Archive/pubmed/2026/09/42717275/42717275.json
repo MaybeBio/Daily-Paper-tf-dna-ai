@@ -1,0 +1,300 @@
+{
+  "identity": {
+    "pmid": "42717275",
+    "doi": "10.1111/nph.71535",
+    "title": "A C-repeat binding factor-salicylic acid (CBF-SA) module links wound-induced evaporative cooling to tissue repair in plants."
+  },
+  "content": {
+    "abstract": "Repairing damaged tissues is essential for the survival of all organisms. In plants, tissue injury rapidly triggers defense and repair programs. However, the molecular mechanisms linking early injury cues to the later stage of wound repair remain unclear. Here, we show that wounding of Arabidopsis leaves induces localized low temperature at the injury site, likely caused by evaporative cooling, which is accompanied by an activation of cold-responsive genes. Using thermal imaging combined with computer vision and deep learning, we developed a workflow to monitor the dynamics of wound healing in a quantitative, non-invasive, and real-time manner. Mechanistically, we show that C-repeat Binding Factor (CBF) transcription factors are required for the activation of the injury-associated cold response and downstream salicylic acid (SA) signaling. Our findings suggest that the CBF-SA pathway acts coordinately to promote lignin and callose deposition, thereby facilitating wound repair. Together, these findings reveal a link between a wound-induced biophysical cue and the tissue repair program.",
+    "keywords": [
+      "Arabidopsis thaliana",
+      "CBF",
+      "machine learning",
+      "salicylic acid",
+      "thermal imaging",
+      "wound healing",
+      "wound response"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Balem, Joseph Michael",
+        "Tan, Chenjiao",
+        "Dias, Nathalia Cassia Ferreira",
+        "Arnold, Mariah",
+        "Tran, Sorrel",
+        "Severns, Paul M",
+        "Teixeira, Paulo Jose Pereira Lima",
+        "Li, Changying",
+        "Yang, Li"
+      ],
+      "short_names": [
+        "Balem JM",
+        "Tan C",
+        "Dias NCF",
+        "Arnold M",
+        "Tran S",
+        "Severns PM",
+        "Teixeira PJPL",
+        "Li C",
+        "Yang L"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-0032-085X",
+        "ORCID: 0009-0009-6182-6037",
+        "ORCID: 0000-0002-2552-9635",
+        "ORCID: 0000-0001-8434-6532",
+        "ORCID: 0000-0002-8461-424X",
+        "ORCID: 0000-0003-2590-4797",
+        "ORCID: 0000-0003-3665-544X"
+      ],
+      "affiliations": [
+        "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA.",
+        "Department of Agricultural and Biological Engineering, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, FL, 32611, USA.",
+        "Luiz de Queiroz College of Agriculture, University of Sao Paulo, Piracicaba, SP, 13418-900, Brazil.",
+        "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA.",
+        "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA.",
+        "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA.",
+        "Luiz de Queiroz College of Agriculture, University of Sao Paulo, Piracicaba, SP, 13418-900, Brazil.",
+        "Department of Agricultural and Biological Engineering, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, FL, 32611, USA.",
+        "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA.",
+        "Department of Plant Biology, Franklin College of Arts and Sciences, University of Georgia, Athens, GA, 30602, USA.",
+        "The Plant Center, University of Georgia, Athens, GA, 30602, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Balem, Joseph Michael",
+        "short_name": "Balem JM",
+        "identifiers": [
+          "0009-0009-0032-085X"
+        ],
+        "affiliations": [
+          "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA."
+        ]
+      },
+      {
+        "full_name": "Tan, Chenjiao",
+        "short_name": "Tan C",
+        "identifiers": [
+          "0009-0009-6182-6037"
+        ],
+        "affiliations": [
+          "Department of Agricultural and Biological Engineering, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, FL, 32611, USA."
+        ]
+      },
+      {
+        "full_name": "Dias, Nathália Cássia Ferreira",
+        "short_name": "Dias NCF",
+        "identifiers": [
+          "0000-0002-2552-9635"
+        ],
+        "affiliations": [
+          "Luiz de Queiroz College of Agriculture, University of São Paulo, Piracicaba, SP, 13418-900, Brazil."
+        ]
+      },
+      {
+        "full_name": "Arnold, Mariah",
+        "short_name": "Arnold M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA."
+        ]
+      },
+      {
+        "full_name": "Tran, Sorrel",
+        "short_name": "Tran S",
+        "identifiers": [
+          "0000-0001-8434-6532"
+        ],
+        "affiliations": [
+          "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA."
+        ]
+      },
+      {
+        "full_name": "Severns, Paul M",
+        "short_name": "Severns PM",
+        "identifiers": [
+          "0000-0002-8461-424X"
+        ],
+        "affiliations": [
+          "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA."
+        ]
+      },
+      {
+        "full_name": "Teixeira, Paulo José Pereira Lima",
+        "short_name": "Teixeira PJPL",
+        "identifiers": [],
+        "affiliations": [
+          "Luiz de Queiroz College of Agriculture, University of São Paulo, Piracicaba, SP, 13418-900, Brazil."
+        ]
+      },
+      {
+        "full_name": "Li, Changying",
+        "short_name": "Li C",
+        "identifiers": [
+          "0000-0003-2590-4797"
+        ],
+        "affiliations": [
+          "Department of Agricultural and Biological Engineering, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, FL, 32611, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Li",
+        "short_name": "Yang L",
+        "identifiers": [
+          "0000-0003-3665-544X"
+        ],
+        "affiliations": [
+          "Department of Plant Pathology, College of Agricultural & Environmental Sciences, University of Georgia, Athens, GA, 30602, USA.",
+          "Department of Plant Biology, Franklin College of Arts and Sciences, University of Georgia, Athens, GA, 30602, USA.",
+          "The Plant Center, University of Georgia, Athens, GA, 30602, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The New phytologist"
+    ],
+    "journal_abbrev": [
+      "New Phytol"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 05:36",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42717275",
+      "40502075",
+      "23581962",
+      "20813832",
+      "11706173",
+      "33076265",
+      "39262116",
+      "34379362",
+      "36857386",
+      "15205481",
+      "25736223",
+      "41865766",
+      "19563440",
+      "36722843",
+      "38536743",
+      "19947982",
+      "24405987",
+      "38957969",
+      "28258553",
+      "42208705",
+      "12032361",
+      "41645486",
+      "31851376",
+      "26369909",
+      "31409630",
+      "25912720",
+      "27837094",
+      "35015469",
+      "34249065",
+      "40394855",
+      "14600834",
+      "28982964",
+      "28983312",
+      "34437813",
+      "23956128",
+      "26672068",
+      "15634197",
+      "15383661",
+      "27777580",
+      "24774834",
+      "9881163",
+      "30380128",
+      "24586453",
+      "15341633",
+      "22140578",
+      "18218976",
+      "41389240",
+      "42687200",
+      "31694900",
+      "42002116",
+      "34669427",
+      "39544094",
+      "22927419",
+      "14714866",
+      "21471455",
+      "27754653",
+      "8643534",
+      "37927069",
+      "40340256",
+      "25976917",
+      "40947544",
+      "12172015",
+      "24324742",
+      "38892085",
+      "40320726",
+      "23630533",
+      "35320706",
+      "31627263",
+      "33997916",
+      "32815479",
+      "14745450",
+      "30738965",
+      "15656984",
+      "16778014",
+      "32733519",
+      "32315441",
+      "40003636",
+      "40913711",
+      "35671166",
+      "34890459",
+      "24962049",
+      "41712403",
+      "17653269",
+      "30926656",
+      "12445117",
+      "31914927",
+      "20198573",
+      "23435661",
+      "34596247",
+      "31087367",
+      "9023378",
+      "30200233",
+      "41259731",
+      "14716563",
+      "23933884",
+      "26884488",
+      "25627252",
+      "17214894",
+      "38109831",
+      "25315322"
+    ],
+    "review": [
+      "42717275",
+      "34437813"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/nph.71535",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "identity": {
+    "pmid": "42721176",
+    "doi": "10.1109/TCBBIO.2026.3731227",
+    "title": "DMGRN: Enhancing Diffusion Models for Gene Regulatory Network Inference."
+  },
+  "content": {
+    "abstract": "Gene regulatory networks (GRNs) encode the intricate interactions between transcription factors (TFs) and their target genes, playing a pivotal role in orchestrating cellular metabolism, proliferation, and differentiation, thereby illuminating the molecular mechanisms underlying disease onset and progression. The increasing availability of single-cell RNA sequencing (scRNA-seq) data offers unprecedented opportunities for computational GRN inference. However, the inherent high noise and sparsity of scRNA-seq data considerably impair the performance of existing inference methods. To overcome these limitations, we propose DMGRN, a novel GRN inference frame work built upon an improved Denoising Diffusion Probabilistic Model (DDPM). Our approach first applies a forward diffusion process to progressively introduce Gaussian noise into the raw expression data, and subsequently employs a reverse process integrated with a structural equation model (SEM) to predict the noise, thereby accurately recovering gene regulatory relationships. To further enhance inference fidelity, we introduce a gene similarity alignment loss that encourages correlation consistency between the predicted noise and the perturbed data at the gene level, enabling the model to simultaneously capture cellular-level noise residuals and gene-level regulatory co-expression patterns. Experimental results on 28 BEELINE benchmark datasets demonstrate that DMGRN achieves the highest Early Precision Ratio (EPR) on 18 out of 28 BEELINE benchmark configurations, demonstrating superior stability and computational efficiency compared to state-of-the-art methods.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Rongyuan",
+        "Wu, Jingli",
+        "Chen, Chunfeng",
+        "Li, Gaoshi",
+        "Liu, Jiafei",
+        "Hu, Haize",
+        "Xuan, Junbo",
+        "Liu, Jinlu",
+        "Deng, Zheng",
+        "Gong, Daoqing"
+      ],
+      "short_names": [
+        "Li R",
+        "Wu J",
+        "Chen C",
+        "Li G",
+        "Liu J",
+        "Hu H",
+        "Xuan J",
+        "Liu J",
+        "Deng Z",
+        "Gong D"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Li, Rongyuan",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wu, Jingli",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, Chunfeng",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Gaoshi",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liu, Jiafei",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hu, Haize",
+        "short_name": "Hu H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xuan, Junbo",
+        "short_name": "Xuan J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liu, Jinlu",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Deng, Zheng",
+        "short_name": "Deng Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gong, Daoqing",
+        "short_name": "Gong D",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "IEEE transactions on computational biology and bioinformatics"
+    ],
+    "journal_abbrev": [
+      "IEEE Trans Comput Biol Bioinform"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 17:42",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42721176",
+      "37985457",
+      "41300707",
+      "40062616",
+      "30547796",
+      "42653305",
+      "39387266",
+      "41206950",
+      "40662821",
+      "37085776",
+      "39975293",
+      "39694856",
+      "35961023",
+      "41329984",
+      "41288963",
+      "38217125",
+      "41052197",
+      "38342857",
+      "40654959",
+      "41317402",
+      "38980373",
+      "41067887",
+      "35692809",
+      "37864293",
+      "39934680",
+      "38963312",
+      "39960893",
+      "40708222",
+      "38589899",
+      "42059479",
+      "41896196",
+      "40251476",
+      "39062480",
+      "41544912",
+      "41489955",
+      "37897702",
+      "35062026",
+      "39535258",
+      "42458246",
+      "40956752",
+      "42475469",
+      "38996550",
+      "42265576",
+      "41554051",
+      "36877552",
+      "38950180",
+      "42560939",
+      "40699953",
+      "40116659",
+      "41843506",
+      "41871930",
+      "32019417",
+      "42225598",
+      "37686146",
+      "40409400",
+      "38261340",
+      "39939367",
+      "41043336",
+      "33026066",
+      "39417321",
+      "36768917",
+      "41000795",
+      "30961611",
+      "40699807",
+      "35715748",
+      "38896510",
+      "38778003",
+      "41675529",
+      "42332576",
+      "36626328",
+      "41984780",
+      "38032470",
+      "37244909",
+      "39944798",
+      "42316003",
+      "41666195",
+      "36303726",
+      "38879931",
+      "35050715",
+      "42093817",
+      "37715282",
+      "42614561",
+      "41883144",
+      "39605181",
+      "40484997",
+      "19594874",
+      "35923701",
+      "34986805",
+      "27479082",
+      "39311699",
+      "39684451",
+      "33033579",
+      "41852496",
+      "41786602",
+      "37079737",
+      "42251185",
+      "40661601",
+      "40408160",
+      "36585783",
+      "38260386"
+    ],
+    "review": [
+      "42721176",
+      "39939367"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3399",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

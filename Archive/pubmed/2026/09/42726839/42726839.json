@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42726839",
+    "doi": "10.1371/journal.pone.0357755",
+    "title": "Stage-specific evolutionary dynamics in pediatric leukemia inferred using Bayesian stochastic modeling."
+  },
+  "content": {
+    "abstract": "Tumor evolution in pediatric leukemia is shaped by stochastic fluctuations and constraints imposed by developmental programs and therapeutic pressure. However, quantitative characterization of these dynamics remains challenging because of sparse longitudinal sampling and measurement noise in clinical data. In this study, we applied Bayesian calibration of stochastic Ornstein-Uhlenbeck (OU) models to characterize patient-specific tumor evolution trajectories in pediatric leukemia. Using a longitudinal cohort of KMT2A-rearranged leukemias (52 patients, 311 longitudinal observations corresponding to 294 unique patient-time points), we estimated parameters governing mean reversion and stochastic variability and assessed the stability and uncertainty of these estimates through simulation-based validation under empirically derived sampling conditions. A representative single-patient trajectory further illustrated patient-level evolutionary dynamics. Across the cohort, inferred OU parameters showed stage-associated tendencies, including higher average diffusion in refractory and very-early disease groups, although posterior intervals overlapped substantially and did not support sharply separated dynamical regimes. Simulation analyses indicated that Bayesian calibration provided stable posterior computation and interpretable uncertainty quantification under sparse sampling, although recovery remained parameter- and schedule-dependent and predictive performance was limited. These findings show that Bayesian-calibrated stochastic models provide a useful framework for interpreting longitudinal tumor evolution in pediatric leukemia. While not intended for clinical prediction, this approach offers a quantitative perspective on stage-dependent disease dynamics and highlights the importance of uncertainty-aware modeling in sparse clinical datasets.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Bayes Theorem",
+      "Stochastic Processes",
+      "Child",
+      "*Leukemia/pathology/genetics",
+      "Myeloid-Lymphoid Leukemia Protein/genetics",
+      "Child, Preschool",
+      "Histone-Lysine N-Methyltransferase"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Seung-Hwan"
+      ],
+      "short_names": [
+        "Kim SH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9397-3324"
+      ],
+      "affiliations": [
+        "Department of Biology, Fisher College, Boston, Massachusetts, United States of America.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, Massachusetts, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Seung-Hwan",
+        "short_name": "Kim SH",
+        "identifiers": [
+          "0000-0002-9397-3324"
+        ],
+        "affiliations": [
+          "Department of Biology, Fisher College, Boston, Massachusetts, United States of America.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, Massachusetts, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42726839",
+      "42475469",
+      "42564904",
+      "41783443",
+      "41310253",
+      "42430380",
+      "42579210",
+      "41355441",
+      "23912807",
+      "30381403",
+      "41559398",
+      "27282883",
+      "26333239",
+      "31596495",
+      "42495599",
+      "42085603",
+      "27840424",
+      "41979442",
+      "39379537",
+      "34843457",
+      "38892207",
+      "41849234",
+      "33135273",
+      "33150819",
+      "41320744",
+      "30203571",
+      "25245816",
+      "41126738",
+      "33045987",
+      "40737995",
+      "42000010",
+      "31707119",
+      "11515188",
+      "38858832",
+      "22838153",
+      "34048275",
+      "30624859",
+      "41062506",
+      "38174649",
+      "39823827",
+      "31867596",
+      "40803346",
+      "24288668",
+      "33078871",
+      "40441466",
+      "42044093",
+      "1637718",
+      "38905635",
+      "39428967",
+      "27005698",
+      "19064327",
+      "32239871",
+      "40814193",
+      "32398749",
+      "41279185",
+      "17597811",
+      "25473744",
+      "31325323",
+      "33712867",
+      "27351222",
+      "20971820",
+      "31919567",
+      "40570739",
+      "25105914",
+      "41824466",
+      "30707474",
+      "38621200",
+      "36751641",
+      "32248328",
+      "37019990",
+      "29133595",
+      "28108543",
+      "16135029",
+      "42190411",
+      "23628958",
+      "34663924",
+      "23865222",
+      "25077513",
+      "30728174",
+      "19262598",
+      "35583306",
+      "41485393",
+      "38964931",
+      "30869817",
+      "32391570",
+      "34384895",
+      "34148065",
+      "39793727",
+      "40802243",
+      "40749582",
+      "20349209",
+      "29720585",
+      "42320747",
+      "39863449",
+      "39760486",
+      "15978311",
+      "26881960",
+      "42587807",
+      "42405431",
+      "17195068"
+    ],
+    "review": [
+      "42726839",
+      "41320744",
+      "11515188",
+      "38174649",
+      "40441466",
+      "1637718",
+      "39428967",
+      "19064327",
+      "38964931",
+      "40749582"
+    ],
+    "pmc": [
+      "13568502"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

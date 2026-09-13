@@ -1,0 +1,286 @@
+{
+  "identity": {
+    "pmid": "42712908",
+    "doi": "10.3389/fchem.2026.1916222",
+    "title": "Repurposing of lansoprazole and nitazoxanide as NR2F2 inhibitors in the gastric cancer cell line GCIY: computational insights and siRNA-mediated in vitro tests."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Nuclear receptors (NRs) are a superfamily of ligand-activated transcription factors that mediate the cellular response to hormones, vitamins, and dietary lipids, thus orchestrating numerous physiological processes and influencing multiple disease states. Within this superfamily, NR2Fs, also known as Chicken Ovalbumin Upstream Promoter Transcription Factor (COUP-TF), are a family of nuclear orphan receptors, due to the lack of known endogenous ligands. Among them, NR2F2 transcription factor activities involve regulation of cell differentiation during organogenesis, maintenance of adult tissue homeostasis, and tumorigenesis. To date, only the CIA compounds have been identified as inhibitors of NR2F2 driven transcriptional activity in prostate cancer cell lines, with the IC50 of CIA1 falling in the lower muM range. METHODS: A comprehensive computational analysis has been conducted in order to gain insight into the inhibitory activity of the prototype CIA1 against NR2F2 at a molecular level. We leveraged the outputs of computational analysis to perform a virtual screening campaign to FDA compounds capable of binding to NR2F2. Luciferase reporter assay was used to functionally validate the interaction. RNA interference approaches were used to validate the specificity of NR2F2 activity on cell proliferation. RESULTS: We identified lapatinib, glyburide, nitazoxanide, and lansoprazole as modulators of NR2F2-dependent reporter activity. In the gastric cancer cell line GCIY, lansoprazole and nitazoxanide exert antiproliferative effects that are mitigated by NR2F2 silencing. The convergence between in silico predictions and LBD-dependent reporter modulation supports the interpretation that lapatinib, glyburide, nitazoxanide, and lansoprazole represent bona fide functional interactors of NR2F2. CONCLUSION: Taken together, our data extend current evidence that NR2F2 is a ligandable orphan receptor whose transcriptional output can be pharmacologically tuned. Moreover, our findings provide new chemical tools for probing NR2F2 biology and nominate clinically used molecules as starting points for therapeutic or repurposing strategies targeting NR2F2-dependent programs.",
+    "keywords": [
+      "COUP-TFII",
+      "NR2F2 nuclear receptor",
+      "binding pose metadynamics",
+      "blind docking",
+      "gastric cancer cell line GCIY",
+      "lansoprazole",
+      "molecular dynamics",
+      "nitazoxanide"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Culletta, Giulia",
+        "Roomi, Muhammad Sohaib",
+        "Caricasulo, Maria Azzurra",
+        "Zanetti, Adriana",
+        "Terao, Mineko",
+        "Paroni, Gabriela",
+        "Garattini, Enrico",
+        "Tutone, Marco"
+      ],
+      "short_names": [
+        "Culletta G",
+        "Roomi MS",
+        "Caricasulo MA",
+        "Zanetti A",
+        "Terao M",
+        "Paroni G",
+        "Garattini E",
+        "Tutone M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies (STEBICEF), University of Palermo, Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies (STEBICEF), University of Palermo, Palermo, Italy.",
+        "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy.",
+        "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy.",
+        "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy.",
+        "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy.",
+        "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies (STEBICEF), University of Palermo, Palermo, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Culletta, Giulia",
+        "short_name": "Culletta G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies (STEBICEF), University of Palermo, Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Roomi, Muhammad Sohaib",
+        "short_name": "Roomi MS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies (STEBICEF), University of Palermo, Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Caricasulo, Maria Azzurra",
+        "short_name": "Caricasulo MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Zanetti, Adriana",
+        "short_name": "Zanetti A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Terao, Mineko",
+        "short_name": "Terao M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Paroni, Gabriela",
+        "short_name": "Paroni G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Garattini, Enrico",
+        "short_name": "Garattini E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Tutone, Marco",
+        "short_name": "Tutone M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies (STEBICEF), University of Palermo, Palermo, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in chemistry"
+    ],
+    "journal_abbrev": [
+      "Front Chem"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 11:38",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42712908",
+      "41803880",
+      "24295738",
+      "31906104",
+      "10619353",
+      "42051516",
+      "31158411",
+      "36648143",
+      "23690307",
+      "20195529",
+      "25283503",
+      "28059499",
+      "32168782",
+      "34225363",
+      "22278040",
+      "18798693",
+      "12525252",
+      "18250317",
+      "11934895",
+      "17204145",
+      "42475469",
+      "38128789",
+      "12040019",
+      "26800338",
+      "24780841",
+      "25032732",
+      "22493443",
+      "9271371",
+      "10098492",
+      "15193450",
+      "9731707",
+      "14739255",
+      "41328346",
+      "31723721",
+      "24899578",
+      "10900149",
+      "23345397",
+      "9171235",
+      "35973717",
+      "9092518",
+      "8382695",
+      "18818749",
+      "18199540",
+      "39090159",
+      "35125087",
+      "11382775",
+      "23201680",
+      "20364082",
+      "38178246",
+      "22606236",
+      "11292834",
+      "42250787",
+      "9973254",
+      "31588232",
+      "16721029",
+      "23145053",
+      "21257780",
+      "17047084",
+      "36269529",
+      "8603050",
+      "15171724",
+      "31566058",
+      "11168401",
+      "30809650",
+      "15541767",
+      "19154418",
+      "7776979",
+      "19041640",
+      "12614160",
+      "9271383",
+      "9658405",
+      "9343308",
+      "12930829",
+      "15870086",
+      "28192117",
+      "35048354",
+      "9395481",
+      "24936658",
+      "24122412",
+      "39364872",
+      "21151097",
+      "7903949",
+      "16803904",
+      "37806058",
+      "8622679",
+      "10620335",
+      "8809736",
+      "27844448",
+      "7512261",
+      "37664846",
+      "22669823",
+      "17404209",
+      "7823919",
+      "38952161",
+      "25372459",
+      "41922632",
+      "9111350",
+      "10668629",
+      "32065070",
+      "8007945"
+    ],
+    "review": [
+      "42712908",
+      "24295738",
+      "31906104",
+      "25283503",
+      "15193450",
+      "42250787",
+      "21257780",
+      "8603050"
+    ],
+    "pmc": [
+      "13551882"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42712908/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fchem.2026.1916222",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

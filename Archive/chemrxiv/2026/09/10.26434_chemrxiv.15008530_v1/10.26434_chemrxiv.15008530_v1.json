@@ -1,0 +1,146 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15008530/v1",
+  "title": "Plasma Protein Binding Prediction under Scaffold Split: Tree Models, ChemBERTa, Graph Networks, and Late Fusion",
+  "doi": "10.26434/chemrxiv.15008530/v1",
+  "abstract": "From idea generation to testing, drug discovery is a lengthy and expensive process. Rather than chasing all of their molecule ideas, scientists prioritize certain molecules that are more likely to be successful, from synthesis to safety to therapeutic use. Machine learning and AI enable researchers to narrow their candidate choices by predicting important properties such as ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity). This study uses the Plasma Protein Binding (PPB) dataset from DeepChem’s MoleculeNet, with several graph neural networks (GNNs), ChemBERTa (a language model for SMILES strings of molecules), and fusions of these models. The performance of these neural models is compared against two standard tree-based models: Random Forest (RF) and XGBoost. Instead of random splitting of the dataset, this study evaluates the models based on scaffold splitting that separates molecules by the Bemis–Murcko scaffold and puts the entire group into only the training, validation, or test set. This study demonstrates that for the PPB dataset, GNNs and ChemBERTa models perform better than the tree models. On a mean basis, the fusion models perform better than the individual GNNs or ChemBERTa-only models. Random splitting on the RF model exhibits a better R2 score than on a scaffold-split dataset. Because under scaffold splitting the model predicts on unseen cores, the task becomes more difficult than under regular random splitting.",
+  "authors": [
+    "Pradyumna Kumar Pradhan"
+  ],
+  "published_date": "2026-09-09",
+  "updated_date": "2026-09-09T09:13:47Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15008530/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15008530/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2026-09-09T10:07:00Z",
+        "timestamp": 1788948420144,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>From idea generation to testing, drug discovery is a lengthy and expensive process. Rather than chasing all of their molecule ideas, scientists prioritize certain molecules that are more likely to be successful, from synthesis to safety to therapeutic use. Machine learning and AI enable researchers to narrow their candidate choices by predicting important properties such as ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity). This study uses the Plasma Protein Binding (PPB) dataset from DeepChem’s MoleculeNet, with several graph neural networks (GNNs), ChemBERTa (a language model for SMILES strings of molecules), and fusions of these models. The performance of these neural models is compared against two standard tree-based models: Random Forest (RF) and XGBoost. Instead of random splitting of the dataset, this study evaluates the models based on scaffold splitting that separates molecules by the Bemis–Murcko scaffold and puts the entire group into only the training, validation, or test set. This study demonstrates that for the PPB dataset, GNNs and ChemBERTa models perform better than the tree models. On a mean basis, the fusion models perform better than the individual GNNs or ChemBERTa-only models. Random splitting on the RF model exhibits a better R2 score than on a scaffold-split dataset. Because under scaffold splitting the model predicts on unseen cores, the task becomes more difficult than under regular random splitting.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15008530/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2026-09-09T09:13:47Z",
+        "timestamp": 1788945227000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Plasma Protein Binding Prediction under Scaffold Split: Tree Models, ChemBERTa, Graph Networks, and Late Fusion"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0005-3311-1270",
+          "authenticated-orcid": true,
+          "given": "Pradyumna Kumar",
+          "family": "Pradhan",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of North Carolina at Greensboro (UNC Greensboro",
+              "place": [
+                "Greensboro, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15008530/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2026-09-09T09:13:47Z",
+        "timestamp": 1788945227000
+      },
+      "score": 111.22886,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008530/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15008530/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "identity": {
+    "pmid": "42720357",
+    "doi": "10.1021/acs.jpcb.6c02456",
+    "title": "PTM-Driven Reshaping of the Peptide Translocation Landscape in Bilayer Graphene Nanopores."
+  },
+  "content": {
+    "abstract": "Post-translational modifications (PTMs) underpin much of protein regulation, yet their single-molecule readout remains a challenge in nanopore proteomics. While biological nanopores have shown exquisite PTM sensitivity, the microscopic mechanisms by which PTMs perturb signals in solid-state nanopores are largely unexplored. Here, we use all-atom molecular dynamics to investigate how three common PTMs, acetylation, phosphorylation, and methylation, modulate the translocation of a cancer-relevant p53 peptide fragment through a bilayer graphene nanopore. We find that PTMs remodel the translocation landscape far more strongly at the level of dwell-time statistics than at the level of mean current blockade. Acetylation enhances peptide-graphene adhesion and substantially slows transport, with adjacent acetylations producing the longest residence times due to cooperative interfacial interactions, while remotely spaced acetylations yield broader, heterogeneous dynamics. Phosphorylation introduces a negative charge that increases dwell time through an electrostatic tug-of-war. In contrast, methylation minimally perturbs translocation due to weak pore interactions and preserved charge. Combining dwell time with relative blockade features enables a simple linear SVM classifier to reliably distinguish unmodified, acetylated, and phosphorylated states. These results establish mechanistic design principles for PTM detection using solid-state nanopores and delineate which classes of PTMs are the most amenable to single-molecule detection with these devices.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Nanopores",
+      "*Graphite/chemistry",
+      "Molecular Dynamics Simulation",
+      "Methylation",
+      "*Protein Processing, Post-Translational",
+      "Phosphorylation",
+      "Acetylation",
+      "*Tumor Suppressor Protein p53/chemistry/metabolism",
+      "*Peptides/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Upadhyaya, Anurag",
+        "Sur, Pranjal",
+        "Varma, Manoj",
+        "Maiti, Prabal K"
+      ],
+      "short_names": [
+        "Upadhyaya A",
+        "Sur P",
+        "Varma M",
+        "Maiti PK"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-5307-0116",
+        "ORCID: 0000-0002-1218-1422",
+        "ORCID: 0000-0002-9956-1136"
+      ],
+      "affiliations": [
+        "Centre for Nano Science and Engineering, Indian Institute of Science, Bengaluru560012, India.",
+        "Centre for Condensed Matter Theory, Department of Physics, Indian Institute of Science, Bengaluru560012, India.",
+        "Centre for Nano Science and Engineering, Indian Institute of Science, Bengaluru560012, India.",
+        "Centre for Nano Science and Engineering, Indian Institute of Science, Bengaluru560012, India.",
+        "Centre for Condensed Matter Theory, Department of Physics, Indian Institute of Science, Bengaluru560012, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Upadhyaya, Anurag",
+        "short_name": "Upadhyaya A",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Nano Science and Engineering, Indian Institute of Science, Bengaluru560012, India.",
+          "Centre for Condensed Matter Theory, Department of Physics, Indian Institute of Science, Bengaluru560012, India."
+        ]
+      },
+      {
+        "full_name": "Sur, Pranjal",
+        "short_name": "Sur P",
+        "identifiers": [
+          "0009-0007-5307-0116"
+        ],
+        "affiliations": [
+          "Centre for Nano Science and Engineering, Indian Institute of Science, Bengaluru560012, India."
+        ]
+      },
+      {
+        "full_name": "Varma, Manoj",
+        "short_name": "Varma M",
+        "identifiers": [
+          "0000-0002-1218-1422"
+        ],
+        "affiliations": [
+          "Centre for Nano Science and Engineering, Indian Institute of Science, Bengaluru560012, India."
+        ]
+      },
+      {
+        "full_name": "Maiti, Prabal K",
+        "short_name": "Maiti PK",
+        "identifiers": [
+          "0000-0002-9956-1136"
+        ],
+        "affiliations": [
+          "Centre for Condensed Matter Theory, Department of Physics, Indian Institute of Science, Bengaluru560012, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:53",
+    "fetched_at": "2026-09-13 12:55:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42720357",
+      "41216751",
+      "34545670",
+      "38686913",
+      "38112538",
+      "28004567",
+      "40213903",
+      "39322788",
+      "42565752",
+      "37937769",
+      "42117569",
+      "39927545",
+      "41701909",
+      "39388343",
+      "39511871",
+      "41305924",
+      "42013577",
+      "31602979",
+      "41951141",
+      "36477179",
+      "21981556",
+      "37386295",
+      "42171186",
+      "30782363",
+      "28035832",
+      "24463372",
+      "36007197",
+      "39874178",
+      "29548294",
+      "42542535",
+      "26581231",
+      "25296960",
+      "34227362",
+      "30920011",
+      "33420984",
+      "30605305",
+      "30848871",
+      "29789295",
+      "39718375",
+      "26537824",
+      "32064571",
+      "25866995",
+      "40063886",
+      "31799536",
+      "22194010",
+      "21526788",
+      "24056736",
+      "42272425",
+      "30634172",
+      "37965826",
+      "42308124",
+      "41453616",
+      "35060726",
+      "25651062",
+      "33979327",
+      "42177925",
+      "28009170",
+      "40023514",
+      "24651263",
+      "39301609",
+      "40566945",
+      "33064482",
+      "25185959",
+      "22780094",
+      "42434936",
+      "39550035",
+      "24459097",
+      "26418581",
+      "35108006",
+      "42681945",
+      "30768898",
+      "42526211",
+      "23586585",
+      "32345711",
+      "24002012",
+      "35785960",
+      "40010635",
+      "34729571",
+      "41017597",
+      "41453614",
+      "22947645",
+      "41666392",
+      "41194469",
+      "31069350",
+      "33567070",
+      "26634811",
+      "31282934",
+      "34787057",
+      "28776058",
+      "29446423",
+      "27975226",
+      "20049863",
+      "41649809",
+      "42507018",
+      "27038437",
+      "27302890",
+      "41528884",
+      "25820729",
+      "31978537",
+      "27960493"
+    ],
+    "review": [
+      "42720357",
+      "22194010",
+      "42434936",
+      "42681945",
+      "24002012",
+      "41194469",
+      "33567070",
+      "31282934"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1532",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jpcbfk/article-lookup/doi/10.1021/acs.jpcb.6c02456",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
