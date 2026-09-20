@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42749264",
+    "doi": "10.1016/j.jbc.2026.113560",
+    "title": "Active-site arginines differentially control Cas12a DNA cleavage and specificity."
+  },
+  "content": {
+    "abstract": "Cas12a is a CRISPR-Cas nuclease with biochemical features that make it useful for genome editing and nucleic acid diagnostics. However, its off-target and non-specific trans and CRISPR RNA-independent DNA cleavages can reduce the accuracy and limit applications requiring high fidelity. Here, we analyzed the role of two conserved arginine residues, R918 and R921, found in the RuvC active site pocket of Francisella novicida Cas12a. Through amino acid substitutions, biochemical assays, kinetic analysis, and computational study, we establish that a positive charge at 921 is required for CRISPR RNA-dependent DNA cleavage (cis cleavage), whereas R918 primarily enhances cleavage efficiency. Replacing R918 with lysine or alanine eliminates trans activity while retaining cis cleavage, whereas replacing R921 with lysine eliminates trans activity and replacing with alanine abolishes cis and trans cleavages. Furthermore, these changes significantly decrease RNA-independent cleavage and improve mismatch discrimination during cis cleavage, especially at PAM-distal sites. Structural analysis shows that R918 assists in the conversion of the lid covering the RuvC active site to an alpha helical form, while R921 stabilizes the DNA in the active site. Molecular dynamics simulations reveal that while R921 is critical in supporting the positioning of scissile phosphate, R918 is essential in maintaining catalytic-site organization through lid's conformational change as well as in positioning DNA through its role in stabilizing the active site framework. Together, our results highlight the importance of R918 and R921 in Cas12a's activity and the potential of modifying active pocket residues to reduce unwanted DNA cleavage while increasing on-target specificity.",
+    "keywords": [
+      "CRISPR-Cas",
+      "Cas12a",
+      "DNA-protein interaction",
+      "RuvC",
+      "enzyme kinetics",
+      "high-fidelity variants",
+      "off-target DNA cleavage",
+      "protein engineering",
+      "substrate specificity",
+      "trans cleavage"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rostami, Saadi",
+        "Dos Santos, Alberto M",
+        "Van, Richard S",
+        "Long, Kole",
+        "Shao, Yihan",
+        "Rajan, Rakhi"
+      ],
+      "short_names": [
+        "Rostami S",
+        "Dos Santos AM",
+        "Van RS",
+        "Long K",
+        "Shao Y",
+        "Rajan R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Chemistry and Biochemistry, Price Family Foundation Institute of Structural Biology, Stephenson Life Sciences Research Center, The University of Oklahoma, Norman, Oklahoma, USA.",
+        "Department of Chemistry, Brandeis University, Waltham, MA, USA.",
+        "Department of Chemistry, Brandeis University, Waltham, MA, USA.",
+        "Department of Chemistry and Biochemistry, Price Family Foundation Institute of Structural Biology, Stephenson Life Sciences Research Center, The University of Oklahoma, Norman, Oklahoma, USA.",
+        "Department of Chemistry, Brandeis University, Waltham, MA, USA.",
+        "Department of Chemistry and Biochemistry, Price Family Foundation Institute of Structural Biology, Stephenson Life Sciences Research Center, The University of Oklahoma, Norman, Oklahoma, USA. Electronic address: r-rajan@ou.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rostami, Saadi",
+        "short_name": "Rostami S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Price Family Foundation Institute of Structural Biology, Stephenson Life Sciences Research Center, The University of Oklahoma, Norman, Oklahoma, USA."
+        ]
+      },
+      {
+        "full_name": "Dos Santos, Alberto M",
+        "short_name": "Dos Santos AM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Brandeis University, Waltham, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Van, Richard S",
+        "short_name": "Van RS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Brandeis University, Waltham, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Long, Kole",
+        "short_name": "Long K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Price Family Foundation Institute of Structural Biology, Stephenson Life Sciences Research Center, The University of Oklahoma, Norman, Oklahoma, USA."
+        ]
+      },
+      {
+        "full_name": "Shao, Yihan",
+        "short_name": "Shao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Brandeis University, Waltham, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Rajan, Rakhi",
+        "short_name": "Rajan R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Price Family Foundation Institute of Structural Biology, Stephenson Life Sciences Research Center, The University of Oklahoma, Norman, Oklahoma, USA. Electronic address: r-rajan@ou.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of biological chemistry"
+    ],
+    "journal_abbrev": [
+      "J Biol Chem"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749264",
+      "42143446",
+      "30639240",
+      "41521661",
+      "33523494",
+      "40222509",
+      "41605928",
+      "34757726",
+      "36682874",
+      "31671185",
+      "40334424",
+      "36107767",
+      "38368461",
+      "40754777",
+      "32161115",
+      "28431230",
+      "41913088",
+      "40716775",
+      "41063348",
+      "38955179",
+      "30763088",
+      "39183441",
+      "32687187",
+      "39829887",
+      "42045650",
+      "41814651",
+      "35388146",
+      "39426279",
+      "29281823",
+      "40196614",
+      "34853172",
+      "37522352",
+      "28562584",
+      "36537251",
+      "33107304",
+      "38483978",
+      "42648842",
+      "41154642",
+      "41759295",
+      "37035707",
+      "33987202",
+      "35958049",
+      "37292754",
+      "39566771",
+      "39315702",
+      "34928030",
+      "35308857",
+      "30078724",
+      "41555514",
+      "38284432",
+      "40344384",
+      "36400115",
+      "38477377",
+      "38108519",
+      "36117747",
+      "29735714",
+      "35236982",
+      "31821359",
+      "40966510",
+      "29123204",
+      "30357419",
+      "33764415",
+      "37058530",
+      "30252595",
+      "42065492",
+      "33520346",
+      "38573977",
+      "42549572",
+      "32519675",
+      "32233423",
+      "28602637",
+      "39409191",
+      "41800529",
+      "33517231",
+      "40895203",
+      "37877218",
+      "35062978",
+      "40617436",
+      "41851507",
+      "30018371",
+      "12196013",
+      "36917574",
+      "42441514",
+      "40610153",
+      "39637570",
+      "30503205",
+      "40419416",
+      "39693940",
+      "7983710",
+      "38811761",
+      "39258555",
+      "26841432",
+      "32858086",
+      "35670674",
+      "42610742",
+      "37252785",
+      "35836018",
+      "35822842",
+      "40157150",
+      "41783155"
+    ],
+    "review": [
+      "42749264",
+      "31671185",
+      "42045650",
+      "41759295",
+      "35062978"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(26)02432-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

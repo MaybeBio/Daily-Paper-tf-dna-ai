@@ -1,0 +1,273 @@
+{
+  "identity": {
+    "pmid": "42737516",
+    "doi": "10.3390/ijms27177616",
+    "title": "Genome-Wide Analysis of Triticum aestivum Root Meristem Growth Factor (RGF) Gene Family Highlights TaRGF5 as a Putative Component of Root-Associated Signaling."
+  },
+  "content": {
+    "abstract": "Wheat (Triticum aestivum), a key global crop, faces rising drought stress that limits root growth and water uptake. Root meristem growth factors (RGFs) are small peptides that regulate root stem cell maintenance, meristem activity, and lateral root formation in model plants, yet the RGF gene family remains unexplored in wheat. Here, we performed a comprehensive genome-wide analysis of the TaRGF gene family, identifying 15 genes distributed across the A, B, and D subgenomes and classified into five homeologous groups (TaRGF1-TaRGF5), predominantly located on chromosomes 2 and 6. All TaRGFs contained a characteristic RGF motif, with dibasic cleavage sites and Asp-Tyr motifs indicating conserved maturation mechanisms. Based on the phylogenetic analysis, the TaRGF5 homeologs showed the highest similarity to Arabidopsis thaliana RGF5. Tested RNA-seq data revealed predominantly root-enriched expression for all TaRGF genes, with TaRGF5 exhibiting the most root-preferential and downregulation under drought stress. Quantitative real-time PCR (qRT-PCR) confirmed that drought stress suppressed the expression of TaRGF5A, TaRGF5B, and TaRGF5D in roots of wheat cultivar Sids-13 across all time points, unlike the higher accumulation seen in controls. Promoter analysis predicted a unique BES1 transcription factor binding site exclusively in TaRGF5B, linking brassinosteroid signaling to peptide-mediated root regulation. Structural modeling and molecular docking predicted an interaction between wheat TaRGF5 homeologs and root growth factor-insensitive receptor kinase (TaRGI3), characterized by conserved sulfotyrosine-mediated binding and favorable interaction energetics. Based on this characterization of the wheat RGF gene family, particularly the potential role of TaRGF5 in root development and drought-adaptation signaling, we propose targeting this gene for functional analysis to improve wheat resilience under water-limited conditions.",
+    "keywords": [
+      "RNA-seq",
+      "Triticum aestivum",
+      "drought stress",
+      "molecular docking",
+      "molecular dynamics simulation",
+      "root development",
+      "root meristem growth factors",
+      "root system architecture"
+    ],
+    "mesh_terms": [
+      "*Triticum/genetics/metabolism/growth & development",
+      "*Plant Proteins/genetics/metabolism/chemistry",
+      "Gene Expression Regulation, Plant",
+      "*Signal Transduction",
+      "*Plant Roots/genetics/metabolism/growth & development",
+      "Phylogeny",
+      "*Meristem/genetics/metabolism",
+      "Multigene Family",
+      "Stress, Physiological",
+      "Genome-Wide Association Study",
+      "Drought Resistance"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Khalil, Hala B",
+        "Alsahoud, Haidar A",
+        "Mostafa, Abdulrahman Darwish",
+        "Alhassan, Fatimah A",
+        "Al-Helal, Norah",
+        "Ikeno, Shinya"
+      ],
+      "short_names": [
+        "Khalil HB",
+        "Alsahoud HA",
+        "Mostafa AD",
+        "Alhassan FA",
+        "Al-Helal N",
+        "Ikeno S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2714-2327",
+        "ORCID: 0009-0005-7133-5611",
+        "ORCID: 0000-0003-2937-4025"
+      ],
+      "affiliations": [
+        "Biological Sciences Department, College of Science, King Faisal University, Al-Ahsa 31982, Saudi Arabia.",
+        "Biological Sciences Department, College of Science, King Faisal University, Al-Ahsa 31982, Saudi Arabia.",
+        "Genetics Department, Faculty of Agriculture, Ain Shams University, 68 Hadayek Shoubra, Cairo 11241, Egypt.",
+        "Biological Sciences Department, College of Science, King Faisal University, Al-Ahsa 31982, Saudi Arabia.",
+        "Al-Anjal Private Schools, Al-Ahsa 36361, Saudi Arabia.",
+        "Department of Biological Functions and Engineering, Graduate School of Life Science and System Engineering, Kyushu Institute of Technology, 2-4 Hibikino, Wakamatsu Ward, Kitakyushu 808-0196, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Khalil, Hala B",
+        "short_name": "Khalil HB",
+        "identifiers": [
+          "0000-0003-2714-2327"
+        ],
+        "affiliations": [
+          "Biological Sciences Department, College of Science, King Faisal University, Al-Ahsa 31982, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alsahoud, Haidar A",
+        "short_name": "Alsahoud HA",
+        "identifiers": [
+          "0009-0005-7133-5611"
+        ],
+        "affiliations": [
+          "Biological Sciences Department, College of Science, King Faisal University, Al-Ahsa 31982, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Mostafa, Abdulrahman Darwish",
+        "short_name": "Mostafa AD",
+        "identifiers": [],
+        "affiliations": [
+          "Genetics Department, Faculty of Agriculture, Ain Shams University, 68 Hadayek Shoubra, Cairo 11241, Egypt."
+        ]
+      },
+      {
+        "full_name": "Alhassan, Fatimah A",
+        "short_name": "Alhassan FA",
+        "identifiers": [],
+        "affiliations": [
+          "Biological Sciences Department, College of Science, King Faisal University, Al-Ahsa 31982, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Al-Helal, Norah",
+        "short_name": "Al-Helal N",
+        "identifiers": [],
+        "affiliations": [
+          "Al-Anjal Private Schools, Al-Ahsa 36361, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ikeno, Shinya",
+        "short_name": "Ikeno S",
+        "identifiers": [
+          "0000-0003-2937-4025"
+        ],
+        "affiliations": [
+          "Department of Biological Functions and Engineering, Graduate School of Life Science and System Engineering, Kyushu Institute of Technology, 2-4 Hibikino, Wakamatsu Ward, Kitakyushu 808-0196, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42737516",
+      "41016480",
+      "42045993",
+      "41465400",
+      "39466433",
+      "24467344",
+      "35083611",
+      "39457430",
+      "34299014",
+      "37907517",
+      "38971763",
+      "28193162",
+      "38671351",
+      "33224986",
+      "38695649",
+      "33901628",
+      "34445448",
+      "41695714",
+      "39684375",
+      "24748053",
+      "34795369",
+      "35410124",
+      "39519206",
+      "32448297",
+      "40883672",
+      "34678428",
+      "41236082",
+      "31140145",
+      "28918554",
+      "39207505",
+      "29079898",
+      "27440550",
+      "41977447",
+      "27541276",
+      "32912142",
+      "30709338",
+      "39000298",
+      "33992092",
+      "27549916",
+      "41620694",
+      "38542373",
+      "39404907",
+      "41023608",
+      "32245398",
+      "39128403",
+      "39358686",
+      "42160837",
+      "41588326",
+      "40091016",
+      "33609188",
+      "31963482",
+      "42511617",
+      "34407757",
+      "33297327",
+      "26092253",
+      "42163033",
+      "35860467",
+      "34800231",
+      "30544665",
+      "32361896",
+      "41963793",
+      "30935363",
+      "42271227",
+      "40613268",
+      "41563599",
+      "28064119",
+      "40448022",
+      "27236332",
+      "28742823",
+      "42322845",
+      "42737686",
+      "42402700",
+      "34502234",
+      "41898798",
+      "17598077",
+      "38348504",
+      "32399658",
+      "40021992",
+      "36498828",
+      "41781855",
+      "40943578",
+      "36050643",
+      "24368329",
+      "28698232",
+      "30044519",
+      "39020295",
+      "32928120",
+      "40076978",
+      "39054416",
+      "24705986",
+      "40000659",
+      "31842737",
+      "34800975",
+      "41790272",
+      "34986172",
+      "32746866",
+      "41455314",
+      "38177998",
+      "41327029",
+      "35382737"
+    ],
+    "review": [
+      "42737516",
+      "33901628"
+    ],
+    "pmc": [
+      "13566265"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27177616",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42737516/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

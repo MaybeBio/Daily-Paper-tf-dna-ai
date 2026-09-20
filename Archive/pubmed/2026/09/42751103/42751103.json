@@ -1,0 +1,306 @@
+{
+  "identity": {
+    "pmid": "42751103",
+    "doi": "10.3389/fimmu.2026.1930591",
+    "title": "Calcitonin gene-related peptide promotes mast cell-mediated neuroimmune inflammation through the CALCRL/RAMP1-JAK3-STAT1 axis in rosacea."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Rosacea is a chronic inflammatory skin disorder characterized by neurovascular instability and dysregulated innate immunity. Although mast-cell activation is increasingly recognized as a central pathogenic feature, the neuroimmune mechanisms linking neuropeptide signaling to mast cell-mediated inflammation remain incompletely defined. This study investigated whether calcitonin gene-related peptide (CGRP) promotes mast cell-mediated inflammation in rosacea and explored the underlying signaling mechanism. METHODS: Bioinformatic analyses of the GSE65914 dataset were performed to characterize rosacea-associated molecular pathways and mast-cell signatures. Serum and skin samples from patients with rosacea and healthy controls were analyzed by ELISA, histological staining, and immunofluorescence. In vitro, CGRP-induced mast-cell activation and CALCRL/RAMP1-JAK3-STAT1 signaling were investigated in LUVA cells using RT-qPCR, western blotting, immunofluorescence, degranulation assays, ELISA, and pharmacological approaches, while the potential CALCRL-JAK3 association was assessed by molecular docking and reciprocal co-immunoprecipitation. In vivo, ACK2-mediated mast-cell depletion and pharmacological blockade of the CGRP receptor or JAK3 were evaluated in CGRP-aggravated LL37-induced rosacea-like mouse models. RESULTS: Rosacea lesions showed enrichment of immune-inflammatory pathways, JAK-STAT signaling, and mast cell-associated signatures. Serum CGRP levels were elevated in patients with rosacea and positively correlated with flushing and erythema severity. Lesional skin showed increased CGRP expression and enhanced localization of CALCRL, RAMP1, phosphorylated JAK3, and phosphorylated STAT1 in dermal CD117+ mast cells. In LUVA mast cells, CGRP upregulated CALCRL/RAMP1 expression, activated JAK3-STAT1 signaling, and promoted degranulation, histamine release, and inflammatory mediator production. Molecular docking and reciprocal co-immunoprecipitation supported a potential association between CALCRL and JAK3. Rimegepant or ritlecitinib attenuated CGRP-induced JAK3-STAT1 activation and mast-cell responses. Modulation of the canonical Galphas-cAMP-PKA pathway did not abolish CGRP-induced JAK3-STAT1 phosphorylation, indicating that this response is not primarily mediated by the cAMP-PKA cascade. In vivo, mast-cell lineage depletion attenuated CGRP-driven exacerbation of LL37-induced rosacea-like inflammation, while rimegepant or ritlecitinib alleviated inflammatory changes and reduced JAK3-STAT1 activation and mast-cell responses. CONCLUSION: These findings identify a CGRP-associated neuroimmune pathway in rosacea in which CALCRL/RAMP1-linked JAK3-STAT1 signaling promotes mast cell-mediated inflammatory amplification. Targeting the CGRP-CALCRL/RAMP1-JAK3-STAT1 axis may provide a mechanism-based therapeutic strategy for neurovascular-dominant or treatment-refractory rosacea.",
+    "keywords": [
+      "CALCRL/RAMP1",
+      "JAK-STAT signaling",
+      "calcitonin gene-related peptide",
+      "mast cells",
+      "neuroimmune inflammation",
+      "rosacea"
+    ],
+    "mesh_terms": [
+      "*Mast Cells/immunology/metabolism",
+      "*Rosacea/immunology/metabolism/pathology",
+      "*Calcitonin Gene-Related Peptide/metabolism/immunology",
+      "Humans",
+      "Animals",
+      "STAT1 Transcription Factor/metabolism",
+      "Signal Transduction/immunology",
+      "Mice",
+      "Janus Kinase 3/metabolism",
+      "Receptor Activity-Modifying Protein 1/metabolism",
+      "Female",
+      "Inflammation/immunology/metabolism",
+      "*Neuroimmunomodulation",
+      "Male",
+      "Cathelicidins",
+      "Skin/immunology/pathology/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Xiaojin",
+        "Fan, Huiping",
+        "Sun, Rui",
+        "Ma, Qingsong",
+        "Liu, Jiayun",
+        "Liu, Chengqi",
+        "Zhang, Dong",
+        "Ma, Weiyuan"
+      ],
+      "short_names": [
+        "Li X",
+        "Fan H",
+        "Sun R",
+        "Ma Q",
+        "Liu J",
+        "Liu C",
+        "Zhang D",
+        "Ma W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Xiaojin",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Huiping",
+        "short_name": "Fan H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Rui",
+        "short_name": "Sun R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Qingsong",
+        "short_name": "Ma Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiayun",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chengqi",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Dong",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Weiyuan",
+        "short_name": "Ma W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Shandong Second Medical University, School of Clinical Medicine, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 15:39",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42751103",
+      "41421415",
+      "41383625",
+      "39180702",
+      "40528180",
+      "41453541",
+      "41472747",
+      "41065943",
+      "27940069",
+      "30658871",
+      "38447867",
+      "38451947",
+      "25591908",
+      "41831623",
+      "20691540",
+      "39504351",
+      "39481654",
+      "41296102",
+      "39179539",
+      "25010197",
+      "40835085",
+      "22843730",
+      "39821787",
+      "27784654",
+      "35413847",
+      "41429063",
+      "23123709",
+      "17923674",
+      "41773812",
+      "42747144",
+      "41299075",
+      "38825686",
+      "41649670",
+      "21040789",
+      "39103072",
+      "36329130",
+      "23958278",
+      "40706973",
+      "41664378",
+      "42591656",
+      "31132668",
+      "35563897",
+      "39351216",
+      "16373421",
+      "23958840",
+      "41235218",
+      "38234748",
+      "20814003",
+      "38157815",
+      "18186028",
+      "37443709",
+      "35115501",
+      "41802370",
+      "21521205",
+      "42576205",
+      "33101278",
+      "27513455",
+      "41453246",
+      "42676591",
+      "31109903",
+      "22484227",
+      "39919329",
+      "31387196",
+      "40577521",
+      "40378103",
+      "27554772",
+      "40387439",
+      "33416962",
+      "40670220",
+      "41581244",
+      "30674976",
+      "41029476",
+      "31756985",
+      "20472035",
+      "23797672",
+      "34322115",
+      "40531313",
+      "19903822",
+      "32329113",
+      "30741933",
+      "40725084",
+      "41311059",
+      "31604686",
+      "39378308",
+      "15469997",
+      "34290700",
+      "39516766",
+      "35260079",
+      "16242145",
+      "26596264",
+      "41668756",
+      "26420124",
+      "41331846",
+      "33131305",
+      "38279067",
+      "42577923",
+      "30064075",
+      "22949393",
+      "11012754",
+      "36191988"
+    ],
+    "review": [
+      "42751103",
+      "23123709",
+      "42747144",
+      "41649670",
+      "39351216",
+      "41235218"
+    ],
+    "pmc": [
+      "13579260"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/rosacea.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Rosacea"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-S100A12-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1930591",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

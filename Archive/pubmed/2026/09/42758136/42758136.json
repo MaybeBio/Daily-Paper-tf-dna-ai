@@ -1,0 +1,193 @@
+{
+  "identity": {
+    "pmid": "42758136",
+    "doi": "10.1093/bioinformatics/btag696",
+    "title": "Regulatory-prior-guided attention preserves biological structure during unpaired single-cell RNA-ATAC integration."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Single-cell RNA sequencing and single-cell ATAC sequencing provide complementary views of transcriptional output and chromatin regulatory potential, but integrating unpaired profiles remains challenging because the modalities differ in feature space, sparsity and noise. Existing approaches often frame integration as distribution matching, which can over-align biologically distinct, condition-specific or modality-specific cell states. We present scHPGT, a single-cell Heterogeneous Prior-Guided Transformer for regulatory-prior-guided integration of unpaired RNA and chromatin accessibility profiles. scHPGT uses modality-specific encoders to model RNA and ATAC signals, a prior-guided cross-modal Transformer to constrain gene-peak attention using regulatory links, and a domain-adversarial objective to reduce modality-specific discrepancies in a shared latent space. RESULTS: Across PBMC3k, mouse spleen, CITE-seq/ASAP-seq PBMC and PBMC10k benchmarks, scHPGT improves clustering agreement, label transfer and biological structure preservation while maintaining effective modality alignment. In partial-overlap and condition-shift settings, scHPGT aligns shared populations without forcing unmatched or condition-specific states into inappropriate correspondence. Attention-derived links recover regulatory relationships, highlight marker-gene regulatory regions, recover transcription factor programs and produce regulatory activity profiles consistent with cell-type-specific transcriptional programs. AVAILABILITY AND IMPLEMENTATION: Code and datasets are released at https://github.com/zlCreator/scHPGT. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cheng, Zhenglong",
+        "Zhang, Jiao",
+        "Zhang, Shixiong"
+      ],
+      "short_names": [
+        "Cheng Z",
+        "Zhang J",
+        "Zhang S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi, China.",
+        "Texas Children's Cancer and Hematology Center, Texas Children's Hospital, Houston, Texas, USA.",
+        "Department of Pediatrics, Division of Hematology and Oncology, Baylor College of Medicine, Houston, Texas, USA.",
+        "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cheng, Zhenglong",
+        "short_name": "Cheng Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jiao",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Texas Children's Cancer and Hematology Center, Texas Children's Hospital, Houston, Texas, USA.",
+          "Department of Pediatrics, Division of Hematology and Oncology, Baylor College of Medicine, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shixiong",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 12:26",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42758136",
+      "41325188",
+      "42475469",
+      "41632825",
+      "40856525",
+      "42635210",
+      "40632608",
+      "40581778",
+      "39800872",
+      "42614561",
+      "41332705",
+      "32029221",
+      "34398192",
+      "42182231",
+      "35258562",
+      "37875977",
+      "36873935",
+      "41831316",
+      "41288963",
+      "42224330",
+      "42108634",
+      "42427640",
+      "41786846",
+      "42539087",
+      "36778447",
+      "39326643",
+      "42665446",
+      "42337558",
+      "40889281",
+      "35758807",
+      "42749491",
+      "40591481",
+      "34252968",
+      "32657382",
+      "42366683",
+      "39987573",
+      "42709872",
+      "35961023",
+      "33191916",
+      "41744270",
+      "42635216",
+      "36250795",
+      "36734596",
+      "41731605",
+      "41655240",
+      "39628660",
+      "35195064",
+      "36699396",
+      "41588477",
+      "42244648",
+      "34252956",
+      "42372296",
+      "42560939",
+      "30821321",
+      "42060707",
+      "34623402",
+      "41987329",
+      "41721429",
+      "33381818",
+      "36943152",
+      "41896196",
+      "42684056",
+      "41279458",
+      "36089620",
+      "42678848",
+      "35561169",
+      "42378449",
+      "40795161",
+      "29982337",
+      "35188184",
+      "40654959",
+      "35475224",
+      "32353146",
+      "39073888",
+      "37584660",
+      "40236024",
+      "40251476",
+      "41975483",
+      "41300707",
+      "42114111",
+      "40154828",
+      "40577680",
+      "42378398",
+      "33098418",
+      "36975610",
+      "34586377",
+      "42464099",
+      "41318386",
+      "26977395",
+      "34383882",
+      "42419494",
+      "39881144",
+      "42605072",
+      "41972591",
+      "38075479",
+      "39501301",
+      "41923161",
+      "41883144",
+      "31510655",
+      "33422696"
+    ],
+    "review": [
+      "42758136"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

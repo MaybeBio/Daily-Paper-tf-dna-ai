@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "pmid": "42740546",
+    "doi": "10.1080/07391102.2026.2731448",
+    "title": "Deciphering the molecular recognition of advantame by calf thymus DNA and human serum albumin through integrated multispectroscopic and molecular docking analyses."
+  },
+  "content": {
+    "abstract": "Advantame (ADV), a highly potent aspartame-derived non-nutritive sweetener, has been increasingly used as a food additive, while its molecular interactions with biological macromolecules remain insufficiently characterized. In this study, the binding behavior of ADV, a next-generation high-intensity sweetener, toward calf thymus DNA (ct-DNA) and human serum albumin (HSA) was systematically investigated by integrating multispectroscopic techniques with molecular docking simulations. Spectroscopic analyses revealed that ADV interacts strongly with ct-DNA through a predominantly intercalative binding mode, as evidenced by significant hypochromism, a bathochromic shift, fluorescence quenching, competitive displacement assays, circular dichroism, and viscosity measurements. These findings indicate that ADV binding induces conformational changes in the DNA double helix. Molecular docking further corroborated the experimental findings by identifying a stable intercalation geometry stabilized through favorable binding energies and multiple hydrogen-bonding interactions. For HSA, UV-Vis absorption, fluorescence spectroscopy, circular dichroism, and site-marker displacement experiment consistently demonstrated the preferential binding of ADV to Sudlow's site I (subdomain IIA). Fluorescence quenching analysis indicated a predominantly static quenching mechanism, whereas thermodynamic parameters revealed that the spontaneous binding process is mainly driven by hydrophobic interactions. Moreover, CD spectroscopy suggested a slight increase in the alpha-helical content of HSA, implying partial stabilization of its secondary structure upon ligand binding. Molecular docking further confirmed the experimentally observed binding mode and the stability of the ADV-HSA complex. Collectively, the combined experimental and computational findings provide molecular-level insights into the interactions of ADV with ct-DNA and HSA, contributing to a better understanding of its molecular recognition and binding behavior.",
+    "keywords": [
+      "Advantame",
+      "DNA binding",
+      "artificial sweetener",
+      "human serum albumin (HSA)",
+      "molecular docking",
+      "spectroscopic analysis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Abbasi Majd, Sasan"
+      ],
+      "short_names": [
+        "Abbasi Majd S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Applied Chemistry, Faculty of Chemistry, Razi University, Kermanshah, Islamic Republic of Iran.",
+        "Department of Experimental Sciences, Faculty of Educational Sciences, Farhangian University, Kermanshah, Iran."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Abbasi Majd, Sasan",
+        "short_name": "Abbasi Majd S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Chemistry, Faculty of Chemistry, Razi University, Kermanshah, Islamic Republic of Iran.",
+          "Department of Experimental Sciences, Faculty of Educational Sciences, Farhangian University, Kermanshah, Iran."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biomolecular structure & dynamics"
+    ],
+    "journal_abbrev": [
+      "J Biomol Struct Dyn"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42740546",
+      "42662572",
+      "41848846",
+      "27424099",
+      "24485317",
+      "31913089",
+      "26331959",
+      "37244028",
+      "42383347",
+      "31721562",
+      "33455539",
+      "28380300",
+      "30047309",
+      "37883823",
+      "37269654",
+      "29894957",
+      "40286040",
+      "39500200",
+      "38067419",
+      "38761495",
+      "27771990",
+      "30124142",
+      "41990534",
+      "27376275",
+      "32957871",
+      "24745377",
+      "30256599",
+      "28595073",
+      "40199882",
+      "29777941",
+      "30780089",
+      "42353559",
+      "41967538",
+      "28376387",
+      "36155929",
+      "28233399",
+      "31280128",
+      "40856493",
+      "26828474",
+      "23233363",
+      "31691964",
+      "29797408",
+      "30088794",
+      "31711864",
+      "28768466",
+      "29787915",
+      "32222625",
+      "23811149",
+      "26924214",
+      "24913815",
+      "27691050",
+      "38061108",
+      "32306829",
+      "31552810",
+      "32450323",
+      "33870854",
+      "30226718",
+      "36014303",
+      "24720899",
+      "35930945",
+      "29404024",
+      "24881541",
+      "41617668",
+      "29150749",
+      "33228044",
+      "39002877",
+      "41380878",
+      "28974158",
+      "35489089",
+      "27897084",
+      "40719576",
+      "31525522",
+      "29447084",
+      "28524270",
+      "38192057",
+      "31271347",
+      "28987797",
+      "28537197",
+      "37098825",
+      "40456782",
+      "35924780",
+      "40819364",
+      "30717459",
+      "31972466",
+      "39608527",
+      "30267976",
+      "27128364",
+      "28745001",
+      "39528098",
+      "41546481",
+      "35139760",
+      "39473246",
+      "24231334",
+      "21640635",
+      "33068900",
+      "35785271",
+      "29432019",
+      "30084622",
+      "35530759",
+      "28749242"
+    ],
+    "review": [
+      "42740546"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/07391102.2026.2731448?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

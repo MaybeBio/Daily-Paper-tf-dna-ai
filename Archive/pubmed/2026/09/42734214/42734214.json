@@ -1,0 +1,295 @@
+{
+  "identity": {
+    "pmid": "42734214",
+    "doi": "10.1002/iid3.70518",
+    "title": "Bushen Huatan Formula Ameliorates Early Chronic Low-Grade Inflammation in Obese PCOS Via the TLR4/NF-kappaB Signaling Pathway: An Integrated Network Pharmacology and Experimental Study."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: This study used an integrated network pharmacology and experimental strategy to investigate how Bushen Huatan Formula (BHF) mitigates early-stage chronic low-grade inflammation in obese polycystic ovary syndrome (PCOS). METHODS: Candidate components and targets of BHF were retrieved from the TCMSP database, and protein-protein interaction, GO and KEGG enrichment, and molecular docking analyzes were performed. Predictions were then tested in a letrozole-induced PCOS rat model, in which ovarian and adipose histopathology and TLR4/NF-kappaB expression were examined at 6 and 12 weeks; isolated granulosa cells (GCs) were further exposed to BHF-containing serum to quantify inflammatory cytokines. RESULTS: Ten key components and 169 intersecting targets were obtained, with enrichment in the NF-kappaB, IL-17, and MAPK pathways. Docking indicated favorable binding (< -7.0 kcal/mol) of core components to targets such as AKT1 and TNF. In model rats, inflammation increased in a time-dependent manner, accompanied by elevated TLR4 and NF-kappaB in both adipose and ovarian tissues, whereas BHF-containing serum suppressed TNF-alpha, IL-1beta, IL-6, and IL-8 in GCs. This effect was more pronounced at the early stage (6 weeks) than at the later stage (12 weeks). CONCLUSION: BHF may attenuate early chronic low-grade inflammation in PCOS, likely through modulation of the TLR4/NF-kappaB axis, supporting its potential value for early intervention.",
+    "keywords": [
+      "BuShenHuaTan formula",
+      "Chinese medicine",
+      "chronic low-grade inflammation",
+      "network pharmacology",
+      "polycystic ovary syndrome"
+    ],
+    "mesh_terms": [
+      "Female",
+      "Animals",
+      "*Polycystic Ovary Syndrome/drug therapy/metabolism/pathology",
+      "*Toll-Like Receptor 4/metabolism",
+      "*Drugs, Chinese Herbal/pharmacology/therapeutic use",
+      "*Obesity/drug therapy/metabolism/complications",
+      "*NF-kappa B/metabolism",
+      "Signal Transduction/drug effects",
+      "Rats",
+      "*Inflammation/drug therapy/metabolism",
+      "Network Pharmacology",
+      "Disease Models, Animal",
+      "Molecular Docking Simulation",
+      "Rats, Sprague-Dawley",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Jianing",
+        "Gu, Fangyun",
+        "Li, Yunyun",
+        "Feng, Xiaoling",
+        "Kuang, Hongying",
+        "Xu, Fang",
+        "Sun, Miao"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Gu F",
+        "Li Y",
+        "Feng X",
+        "Kuang H",
+        "Xu F",
+        "Sun M"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-5992-9703",
+        "ORCID: 0000-0002-1759-0516"
+      ],
+      "affiliations": [
+        "HeilongJiang University of Chinese Medicine, Harbin, China.",
+        "Department of Gynecology, Shenzhen Qianhai Shekou Free Trade Zone Hospital, Shenzhen, China.",
+        "HeilongJiang University of Chinese Medicine, Harbin, China.",
+        "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, China.",
+        "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, China.",
+        "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, China.",
+        "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Jianing",
+        "short_name": "Zhang J",
+        "identifiers": [
+          "0009-0003-5992-9703"
+        ],
+        "affiliations": [
+          "HeilongJiang University of Chinese Medicine, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Fangyun",
+        "short_name": "Gu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology, Shenzhen Qianhai Shekou Free Trade Zone Hospital, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yunyun",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "HeilongJiang University of Chinese Medicine, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Xiaoling",
+        "short_name": "Feng X",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Kuang, Hongying",
+        "short_name": "Kuang H",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Fang",
+        "short_name": "Xu F",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Miao",
+        "short_name": "Sun M",
+        "identifiers": [
+          "0000-0002-1759-0516"
+        ],
+        "affiliations": [
+          "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Immunity, inflammation and disease"
+    ],
+    "journal_abbrev": [
+      "Immun Inflamm Dis"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734214",
+      "42294648",
+      "38798254",
+      "41814794",
+      "35791467",
+      "39075002",
+      "41724289",
+      "38621947",
+      "41508081",
+      "41428039",
+      "33444723",
+      "41814740",
+      "41276800",
+      "41389887",
+      "42725847",
+      "41664167",
+      "41031496",
+      "41564986",
+      "41265260",
+      "40540113",
+      "41853287",
+      "42576455",
+      "41998069",
+      "41655547",
+      "41489113",
+      "39826530",
+      "39730994",
+      "40553825",
+      "41296034",
+      "38604509",
+      "39354758",
+      "40874992",
+      "35249865",
+      "38972239",
+      "38696100",
+      "37454750",
+      "39929664",
+      "42696233",
+      "40499803",
+      "38697555",
+      "38964626",
+      "42543283",
+      "39488873",
+      "39004032",
+      "38477938",
+      "39453929",
+      "42335406",
+      "34234411",
+      "40446578",
+      "40858660",
+      "38670405",
+      "41968667",
+      "39369919",
+      "41881321",
+      "32089069",
+      "39280256",
+      "39491761",
+      "40999493",
+      "39617843",
+      "42372809",
+      "42173417",
+      "39662954",
+      "38996953",
+      "39066538",
+      "42085848",
+      "41189252",
+      "40424980",
+      "41456077",
+      "39247793",
+      "30953818",
+      "41311552",
+      "38621907",
+      "40384385",
+      "40570565",
+      "36646160",
+      "41486257",
+      "41386308",
+      "38914662",
+      "39426577",
+      "42119768",
+      "41207786",
+      "34296561",
+      "42184850",
+      "40619666",
+      "32493287",
+      "38910274",
+      "38583728",
+      "38972238",
+      "42173415",
+      "39810933",
+      "42543266",
+      "34560546",
+      "35822313",
+      "31495827",
+      "36273747",
+      "42320769",
+      "41866004",
+      "42011617",
+      "41954200",
+      "39456928"
+    ],
+    "review": [
+      "42734214"
+    ],
+    "pmc": [
+      "13573318"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/polycysticovarysyndrome.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Polycystic Ovary Syndrome"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42734214/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/iid3.70518",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-783",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

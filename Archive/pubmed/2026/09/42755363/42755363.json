@@ -1,0 +1,237 @@
+{
+  "identity": {
+    "pmid": "42755363",
+    "doi": "10.1093/nar/gkag902",
+    "title": "GenoME: a MoE-based generative model for individualized, multimodal prediction and perturbation of genomic profiles."
+  },
+  "content": {
+    "abstract": "The non-coding genome operates through a complex, multiscale regulatory system where regulated gene expressions are closely associated with cell-type-specific histone modifications, transcription factor binding, and 3D conformation. Developing computational models that can integrate these patterns to predict and interpret the regulatory system remains challenging. Here, we present GenoME, a Mixture of Experts (MoE)-based generative model that uses DNA sequence and cell-type-specific ATAC-seq signals to predict a unified genomic profiles encompassing epigenomics, transcriptomics, and chromatin architecture at base-pair to kilobase resolutions. GenoME enables multiscale predictions for held-out genomic regions and, critically, generalizes to predict the full regulatory landscape of unseen or individualized cell types from a single ATAC-seq input. We equip GenoME with an in silico perturbation framework that accurately forecasts the multimodal consequences of genetic perturbations and identifies functional enhancer-promoter connections, outperforming specialized models like Activity-by-Contact. These predictions can also be used to decipher the transcription factor grammar of cell-type-specific enhancers. GenoME thus provides a versatile, all-in-one platform for generative modeling, cross-cell-type generalization, and causal mechanistic investigation of the multiscale regulatory genome.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Genomics/methods",
+      "Chromatin/genetics/metabolism",
+      "Humans",
+      "Animals",
+      "Promoter Regions, Genetic",
+      "Transcription Factors/metabolism/genetics",
+      "Generative Artificial Intelligence",
+      "*Genome",
+      "*Models, Genetic",
+      "Chromatin Immunoprecipitation Sequencing",
+      "Enhancer Elements, Genetic",
+      "Epigenomics/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wei, Jiachen",
+        "Xue, Yue",
+        "Chai, Hao",
+        "Gao, Yi Qin"
+      ],
+      "short_names": [
+        "Wei J",
+        "Xue Y",
+        "Chai H",
+        "Gao YQ"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3802-5310",
+        "ORCID: 0000-0002-4309-9376"
+      ],
+      "affiliations": [
+        "Changping Laboratory, Beijing 102206, China.",
+        "School of Science, Westlake University, Hangzhou 310030, China.",
+        "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, China.",
+        "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, China.",
+        "Changping Laboratory, Beijing 102206, China.",
+        "School of Science, Westlake University, Hangzhou 310030, China.",
+        "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, China.",
+        "Biomedical Pioneering Innovation Center (BIOPIC), Peking University, Beijing 100871, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wei, Jiachen",
+        "short_name": "Wei J",
+        "identifiers": [
+          "0000-0003-3802-5310"
+        ],
+        "affiliations": [
+          "Changping Laboratory, Beijing 102206, China.",
+          "School of Science, Westlake University, Hangzhou 310030, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Yue",
+        "short_name": "Xue Y",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, China."
+        ]
+      },
+      {
+        "full_name": "Chai, Hao",
+        "short_name": "Chai H",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yi Qin",
+        "short_name": "Gao YQ",
+        "identifiers": [
+          "0000-0002-4309-9376"
+        ],
+        "affiliations": [
+          "Changping Laboratory, Beijing 102206, China.",
+          "School of Science, Westlake University, Hangzhou 310030, China.",
+          "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, China.",
+          "Biomedical Pioneering Innovation Center (BIOPIC), Peking University, Beijing 100871, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42755363",
+      "22537144",
+      "32431014",
+      "32689977",
+      "42165138",
+      "26338778",
+      "32029221",
+      "34635154",
+      "27490187",
+      "39326643",
+      "33191916",
+      "42114111",
+      "41862973",
+      "20096096",
+      "35858748",
+      "25228660",
+      "31006511",
+      "24967590",
+      "41832145",
+      "35410163",
+      "39283462",
+      "38870532",
+      "41277691",
+      "41258300",
+      "32058623",
+      "18927605",
+      "24985916",
+      "32807906",
+      "32961076",
+      "39487131",
+      "27008018",
+      "41606153",
+      "27064255",
+      "32197056",
+      "30917778",
+      "42271487",
+      "41932342",
+      "42547575",
+      "32619460",
+      "19094206",
+      "42586070",
+      "30686579",
+      "32728244",
+      "23685394",
+      "31053165",
+      "37249868",
+      "42234579",
+      "40011786",
+      "26083756",
+      "40029523",
+      "40931195",
+      "33923056",
+      "35421559",
+      "42378398",
+      "33044128",
+      "21441907",
+      "41922764",
+      "27321818",
+      "35551308",
+      "39696471",
+      "39127768",
+      "33626337",
+      "29030344",
+      "21430782",
+      "34108683",
+      "28056037",
+      "22115494",
+      "25679813",
+      "34244796",
+      "41766646",
+      "34299232",
+      "41663926",
+      "30580963",
+      "37249867",
+      "31672653",
+      "29272704",
+      "33096239",
+      "39550354",
+      "27008015",
+      "34099014",
+      "28863138",
+      "34991667",
+      "25461775",
+      "33858483",
+      "40795153",
+      "40637236",
+      "42487124",
+      "29151363",
+      "22897152",
+      "34292930",
+      "34898596",
+      "42681530",
+      "29618724",
+      "27026300",
+      "36777038",
+      "34016988",
+      "22028663",
+      "21304941",
+      "37546906",
+      "22082242"
+    ],
+    "review": [
+      "42755363",
+      "41862973",
+      "32961076",
+      "32197056",
+      "23685394",
+      "27321818",
+      "34299232",
+      "25461775"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

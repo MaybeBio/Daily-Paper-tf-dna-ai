@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42753029",
+    "doi": "10.1007/s10753-026-02579-3",
+    "title": "Fused Azine Derivatives Mitigate Long-Term Paracetamol-Induced Liver Fibrosis in Mice: Role of JNK1/ASK1 and Nrf2/HO-1 Signaling Pathways."
+  },
+  "content": {
+    "abstract": "Liver fibrosis is a significant public health issue that necessitates an ongoing urge for efficient novel treatments. Our newly synthesized fused azine derivative compounds (1a, 1b, 2a, and 2b) were used in this study based on our promising results achieved by our team in previous studies on tacrine derivatives. This study investigated these compounds' hepatoprotective effect on mice with paracetamol (APAP) induced liver fibrosis and clarified their possible mechanisms. The administration of these compounds successfully reduced APAP-induced hepatic fibrosis through decreasing serum liver enzymes, as well as the hepatic pathological deterioration. Moreover, they increased hepatic antioxidants and countered oxidative stress caused by APAP. Furthermore, by lowering inflammatory cytokine levels and raising anti-inflammatory marker levels, these compounds effectively ameliorated the inflammatory response. Additionally, they decreased APAP induced levels of apoptosis-signal-regulating kinase-1 (ASK-1) and c-Jun-N-terminal kinase (JNK1). Additionally, they reduced caspase-3 and BCL2-associated X-protein (Bax) levels and promoted Nrf2 signaling pathway activation. Notably, the in-silico computer-assisted simulation docking results were consistent with the experimental measurements.",
+    "keywords": [
+      "ASK1",
+      "Fibrosis",
+      "Fused azine derivatives",
+      "Hepatoprotective",
+      "JNK1",
+      "Nrf2",
+      "Paracetamol"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Acetaminophen/toxicity",
+      "*NF-E2-Related Factor 2/metabolism",
+      "Mice",
+      "*MAP Kinase Kinase Kinase 5/metabolism",
+      "*Liver Cirrhosis/chemically induced/drug therapy/prevention & control",
+      "Signal Transduction/drug effects",
+      "*Mitogen-Activated Protein Kinase 8/metabolism",
+      "*Heme Oxygenase-1/metabolism",
+      "Oxidative Stress/drug effects",
+      "Male",
+      "*Membrane Proteins/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shawky, Ahmed Reda",
+        "Metwaly, Heba A",
+        "Ragab, Hanan M",
+        "Wahid, Ahmed"
+      ],
+      "short_names": [
+        "Shawky AR",
+        "Metwaly HA",
+        "Ragab HM",
+        "Wahid A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry, Faculty of Pharmacy, Alexandria University, Alexandria, Egypt.",
+        "Department of Biochemistry, Faculty of Pharmacy, Alexandria University, Alexandria, Egypt.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Alexandria University, Alexandria, Egypt.",
+        "Department of Biochemistry, Faculty of Pharmacy, Alexandria University, Alexandria, Egypt. ahmed.wahid@alexu.edu.eg."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shawky, Ahmed Reda",
+        "short_name": "Shawky AR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Pharmacy, Alexandria University, Alexandria, Egypt."
+        ]
+      },
+      {
+        "full_name": "Metwaly, Heba A",
+        "short_name": "Metwaly HA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Pharmacy, Alexandria University, Alexandria, Egypt."
+        ]
+      },
+      {
+        "full_name": "Ragab, Hanan M",
+        "short_name": "Ragab HM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Alexandria University, Alexandria, Egypt."
+        ]
+      },
+      {
+        "full_name": "Wahid, Ahmed",
+        "short_name": "Wahid A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Pharmacy, Alexandria University, Alexandria, Egypt. ahmed.wahid@alexu.edu.eg."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Inflammation"
+    ],
+    "journal_abbrev": [
+      "Inflammation"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:33",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753029",
+      "41114544",
+      "38813141",
+      "31214283",
+      "30235447",
+      "18700144",
+      "31584590",
+      "32172946",
+      "41683227",
+      "41151450",
+      "31781345",
+      "23661004",
+      "29355602",
+      "40569949",
+      "39993543",
+      "32454347",
+      "41268766",
+      "41887383",
+      "25727958",
+      "40710512",
+      "40020792",
+      "36115150",
+      "42061658",
+      "41055715",
+      "42543339",
+      "27836781",
+      "30630510",
+      "29879626",
+      "26708719",
+      "41196440",
+      "30823534",
+      "31678598",
+      "40724913",
+      "18078705",
+      "33862553",
+      "37267857",
+      "36738614",
+      "41966027",
+      "40037266",
+      "40811614",
+      "39870009",
+      "31129139",
+      "26721592",
+      "40825682",
+      "31645120",
+      "21658364",
+      "39805761",
+      "35531720",
+      "40850999",
+      "32863309",
+      "31310828",
+      "34626932",
+      "40699454",
+      "42503305",
+      "30464391",
+      "40618820",
+      "32259676",
+      "27912883",
+      "30550888",
+      "41627387",
+      "22918968",
+      "41429385",
+      "29425659",
+      "32222641",
+      "40898254",
+      "25916679",
+      "35441652",
+      "29959995",
+      "41865487",
+      "32348741",
+      "41967794",
+      "30030101",
+      "36472037",
+      "35513128",
+      "42046251",
+      "30323572",
+      "32081044",
+      "31945188",
+      "40379079",
+      "37224954",
+      "30273691",
+      "30597971",
+      "32048261",
+      "35240537",
+      "41498016",
+      "39959927",
+      "24308969",
+      "33197852",
+      "31996485",
+      "35279582",
+      "41171257",
+      "41105248",
+      "27313828",
+      "35057680",
+      "40679589",
+      "34454288",
+      "35369900",
+      "29552625",
+      "40139075",
+      "29136249"
+    ],
+    "review": [
+      "42753029"
+    ],
+    "pmc": [
+      "13585816"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cirrhosis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cirrhosis"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10753-026-02579-3",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BAX-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-849",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

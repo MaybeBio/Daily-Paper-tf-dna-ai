@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "42731447",
+    "doi": "10.1016/j.phymed.2026.158514",
+    "title": "Long-mu-pi-yan-fang ameliorates atopic dermatitis-like skin inflammation by modulating interleukin-22 receptor-mediated inflammatory signaling."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Long-mu-pi-yan-fang (LMPYF) has been used in clinical practice for the management of atopic dermatitis (AD), yet its underlying mechanisms remain unclear. PURPOSE: To investigate the potential mechanisms of LMPYF in the treatment of AD. METHODS: The therapeutic effects of LMPYF at different doses were evaluated in 2,4-dinitrochlorobenzene (DNCB)-induced AD-like mice. RNA sequencing (RNA-seq) and molecular dynamics simulations were performed to explore potential therapeutic targets. The clinical relevance of the identified target was assessed in skin specimens from AD patients by analyzing its correlation with disease severity, and the associated mechanisms were further examined through in vitro experiments. RESULTS: LMPYF ameliorated DNCB-induced AD-like lesions and epidermal hyperplasia, accompanied by reduced immunoglobulin E and T helper 2 cytokines. RNA-seq and molecular dynamics simulations suggested interleukin-22 receptor subunit alpha 1 (IL22RA1) as a potential LMPYF-associated target, with selected LMPYF constituents exhibiting stable interactions with IL22RA1. In clinical samples, IL22RA1 expression was elevated in lesional skin from AD patients and was positively correlated with disease severity. Further experimental validation showed that LMPYF reduced IL22RA1 expression and suppressed the Janus kinase 1 (JAK1)/signal transducer and activator of transcription 3 (STAT3) signaling axis in vitro, which was consistent with reduced STAT3 phosphorylation in vivo. Furthermore, IL22RA1 knockdown in HaCaT cells stimulated with IL-4, IL-13, and tumor necrosis factor (TNF)-alpha attenuated the anti-inflammatory effects of LMPYF, suggesting that IL22RA1 may contribute to the cellular response to LMPYF. CONCLUSION: This study suggests that LMPYF may ameliorate AD-like skin inflammation, at least in part, by modulating the IL22RA1/JAK1/STAT3 axis.",
+    "keywords": [
+      "Atopic dermatitis",
+      "IL22RA1, JAK/STAT signaling, Molecular dynamics"
+    ],
+    "mesh_terms": [
+      "*Dermatitis, Atopic/drug therapy/chemically induced/metabolism",
+      "Animals",
+      "*Receptors, Interleukin/metabolism",
+      "Humans",
+      "Signal Transduction/drug effects",
+      "Dinitrochlorobenzene",
+      "Mice",
+      "*Drugs, Chinese Herbal/pharmacology",
+      "STAT3 Transcription Factor/metabolism",
+      "Female",
+      "Janus Kinase 1/metabolism",
+      "Skin/drug effects/pathology",
+      "Male",
+      "Inflammation/drug therapy",
+      "Mice, Inbred BALB C",
+      "Molecular Dynamics Simulation",
+      "Cytokines/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qu, Huanhuan",
+        "Wei, Ziyu",
+        "Chen, Fengming",
+        "Wang, Junxia",
+        "Lang, Jing",
+        "Ren, Jianxun",
+        "Yi, Xiuli",
+        "Song, Ping",
+        "Li, Chunying",
+        "Song, Pu",
+        "Lang, Na"
+      ],
+      "short_names": [
+        "Qu H",
+        "Wei Z",
+        "Chen F",
+        "Wang J",
+        "Lang J",
+        "Ren J",
+        "Yi X",
+        "Song P",
+        "Li C",
+        "Song P",
+        "Lang N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China; Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China. Electronic address: quhuanhuan823@163.com.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China.",
+        "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China.",
+        "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China. Electronic address: songpu@fmmu.edu.cn.",
+        "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China. Electronic address: langna96@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qu, Huanhuan",
+        "short_name": "Qu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China; Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China. Electronic address: quhuanhuan823@163.com."
+        ]
+      },
+      {
+        "full_name": "Wei, Ziyu",
+        "short_name": "Wei Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Fengming",
+        "short_name": "Chen F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Junxia",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Lang, Jing",
+        "short_name": "Lang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Jianxun",
+        "short_name": "Ren J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yi, Xiuli",
+        "short_name": "Yi X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Song, Ping",
+        "short_name": "Song P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Chunying",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Song, Pu",
+        "short_name": "Song P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xijing Hospital, Fourth Military Medical University, Xi'an, Shaanxi, China. Electronic address: songpu@fmmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Lang, Na",
+        "short_name": "Lang N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Xiyuan Hospital, China Academy of Chinese Medical Sciences, Beijing, China. Electronic address: langna96@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Phytomedicine : international journal of phytotherapy and phytopharmacology"
+    ],
+    "journal_abbrev": [
+      "Phytomedicine"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42731447",
+      "37187105",
+      "42001837",
+      "35689898",
+      "41344519",
+      "40706204",
+      "42235317",
+      "38176665",
+      "34455178",
+      "38788600",
+      "35659915",
+      "42044774",
+      "40724851",
+      "36634726",
+      "33388430",
+      "39252632",
+      "30704333",
+      "33652742",
+      "38861857",
+      "33716079",
+      "23454147",
+      "27696405",
+      "39121927",
+      "41236101",
+      "30195883",
+      "37827300",
+      "34500860",
+      "41990445",
+      "34332065",
+      "38862031",
+      "36928730",
+      "39566860",
+      "35301731",
+      "42341525",
+      "30005655",
+      "29698775",
+      "36996741",
+      "35830757",
+      "42351989",
+      "36327873",
+      "36131559",
+      "35219015",
+      "37175371",
+      "26100037",
+      "31075381",
+      "39456844",
+      "32122212",
+      "40538548",
+      "36639978",
+      "34929516",
+      "30544712",
+      "40204047",
+      "42009143",
+      "40633861",
+      "40424659",
+      "41892978",
+      "35245629",
+      "33658026",
+      "38823660",
+      "30953820",
+      "38258052",
+      "41796615",
+      "39818092",
+      "39521283",
+      "40118327",
+      "37879216",
+      "32768955",
+      "40429704",
+      "36499191",
+      "34361560",
+      "38089052",
+      "32330842",
+      "41471858",
+      "28365521",
+      "37837514",
+      "42423275",
+      "38490296",
+      "41353873",
+      "40725205",
+      "42036885",
+      "41232574",
+      "42462920",
+      "42652208",
+      "33548083",
+      "42249058",
+      "40167805",
+      "29156522",
+      "34361003",
+      "42514972",
+      "42614992",
+      "34769428",
+      "34314806",
+      "31226639",
+      "29933898",
+      "42237026",
+      "41495845",
+      "41931959",
+      "30866501",
+      "30144097",
+      "28347830"
+    ],
+    "review": [
+      "42731447",
+      "40424659"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0944-7113(26)00745-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GST+Mu1-6",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

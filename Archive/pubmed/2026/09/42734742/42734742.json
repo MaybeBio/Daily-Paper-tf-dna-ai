@@ -1,0 +1,207 @@
+{
+  "identity": {
+    "pmid": "42734742",
+    "doi": "10.1007/978-1-0716-5539-9_2",
+    "title": "Computational Network Analysis for Defining Transcriptional Programs."
+  },
+  "content": {
+    "abstract": "Cancer cell identity is governed by coordinated transcriptional programs that are frequently rewired during tumorigenesis. Systematic identification of cancer type-specific gene regulatory networks provides a framework for understanding oncogenic state transitions and for prioritizing candidate therapeutic targets. Here, we present a reproducible network-based workflow for reconstructing and analyzing transcriptional regulatory programs across human cancer types using publicly available expression datasets. We describe procedures for curating and preprocessing microarray data from the Gene Expression Omnibus, implementing random forest classification, and reconstructing gene regulatory networks using the CellNet platform. Detailed guidance is provided for evaluating classifier performance, quantifying network influence scores, integrating transcription factor, target interaction resources, and performing functional enrichment analyses. In addition, we outline approaches for comparing cancer-specific networks with corresponding normal tissue profiles to identify candidate drivers of malignant cell identity and potential prognostic biomarkers. Together, these protocols provide investigators with a scalable computational framework for defining cancer type-specific transcriptional states and for systematically interrogating regulatory mechanisms underlying tumor heterogeneity.",
+    "keywords": [
+      "Bioinformatics",
+      "Cancer",
+      "CellNet",
+      "Gene regulatory networks",
+      "Machine learning",
+      "Network biology",
+      "Transcription factors",
+      "Transcriptomics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Gene Regulatory Networks",
+      "*Computational Biology/methods",
+      "*Neoplasms/genetics",
+      "*Gene Expression Profiling/methods",
+      "*Gene Expression Regulation, Neoplastic",
+      "Software",
+      "Transcription Factors/metabolism",
+      "Databases, Genetic",
+      "*Transcription, Genetic"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kidder, Benjamin L"
+      ],
+      "short_names": [
+        "Kidder BL"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Oncology, Wayne State University School of Medicine, Detroit, MI, USA. benjamin.kidder@wayne.edu.",
+        "Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, MI, USA. benjamin.kidder@wayne.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kidder, Benjamin L",
+        "short_name": "Kidder BL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Wayne State University School of Medicine, Detroit, MI, USA. benjamin.kidder@wayne.edu.",
+          "Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, MI, USA. benjamin.kidder@wayne.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 17:40",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734742",
+      "25253512",
+      "30670912",
+      "42475469",
+      "42650039",
+      "29940845",
+      "20025723",
+      "31987036",
+      "27791983",
+      "28529066",
+      "34734085",
+      "31500382",
+      "25281301",
+      "42475371",
+      "33279858",
+      "40898538",
+      "29845250",
+      "20422009",
+      "25707768",
+      "42589294",
+      "31081184",
+      "41436831",
+      "20238423",
+      "25024357",
+      "32705173",
+      "30132538",
+      "30993001",
+      "40313958",
+      "35409328",
+      "42636032",
+      "40725485",
+      "40328901",
+      "25014374",
+      "22456606",
+      "26739332",
+      "42560939",
+      "32241274",
+      "38863714",
+      "41665764",
+      "41424060",
+      "24888606",
+      "28983631",
+      "34686186",
+      "35749386",
+      "41518505",
+      "32598242",
+      "21745356",
+      "41405958",
+      "36049413",
+      "27064982",
+      "26362298",
+      "39433800",
+      "24968068",
+      "30963493",
+      "32445696",
+      "28849565",
+      "16670008",
+      "37878219",
+      "31701125",
+      "28952134",
+      "29377892",
+      "26576632",
+      "41734447",
+      "19712740",
+      "29482638",
+      "18426580",
+      "41388523",
+      "42289970",
+      "32028860",
+      "24291025",
+      "31692035",
+      "30844478",
+      "39679439",
+      "31341364",
+      "40095604",
+      "32468035",
+      "21439257",
+      "41288963",
+      "39512836",
+      "40843941",
+      "30547400",
+      "23387820",
+      "39602828",
+      "30825595",
+      "31037767",
+      "31988326",
+      "28129557",
+      "25409614",
+      "28036274",
+      "39535278",
+      "34044218",
+      "41642369",
+      "19594885",
+      "39028999",
+      "40826767",
+      "15113405",
+      "40826700",
+      "42353343",
+      "28005952",
+      "33437215"
+    ],
+    "review": [
+      "42734742",
+      "28129557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5539-9_2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

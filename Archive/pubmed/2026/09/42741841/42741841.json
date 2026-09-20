@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42741841",
+    "doi": "10.1093/nar/gkag897",
+    "title": "A transcription factor regulatory atlas for activity inference and perturbation prediction."
+  },
+  "content": {
+    "abstract": "Inferring transcription factor (TF) activity from transcriptomes and predicting transcriptome-wide responses to TF perturbations remain challenging, in part because available TF-mRNA resources often face a trade-off between precision and coverage and typically lack signed regulatory information. Here, we present TFActProfiler, a TF-mRNA resource and computational framework that learns signed, quantitative TF-mRNA regulatory coefficients by integrating heterogeneous prior evidence (ChIP-based, motif-based, and curated TF-mRNA annotations) with large-scale bulk and single-cell RNA-seq atlases. TFActProfiler contains 2 606 176 signed TF-mRNA interactions and improves TF activity inference in TF knockdown benchmarks relative to widely used regulon resources while retaining broad TF and target coverage. In addition, because the same learned regulatory coefficients can be used to model downstream transcriptional effects, TFActProfiler enables prediction of transcriptome-wide gene expression responses to TF knockdown without training on task-matched perturbation data. When perturbation datasets are available, TFActProfiler can be further refined to achieve performance comparable to state-of-the-art machine-learning baselines. By providing a direction-aware representation of TF-mRNA regulation for both activity inference and perturbation-response modeling, TFActProfiler supports systematic dissection of gene regulatory programs across diverse cellular contexts.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Transcription Factors/metabolism/genetics",
+      "*RNA, Messenger/metabolism/genetics",
+      "*Transcriptome/genetics",
+      "Humans",
+      "Regulon",
+      "Gene Expression Regulation",
+      "*Computational Biology/methods",
+      "*Software",
+      "Gene Regulatory Networks",
+      "Gene Expression Profiling",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sugimoto, Hikaru",
+        "Tsuyuzaki, Koki",
+        "Zou, Zhaonan",
+        "Oki, Shinya",
+        "Ohta, Tazro",
+        "Kawakami, Eiryo"
+      ],
+      "short_names": [
+        "Sugimoto H",
+        "Tsuyuzaki K",
+        "Zou Z",
+        "Oki S",
+        "Ohta T",
+        "Kawakami E"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6468-0127",
+        "ORCID: 0000-0003-3797-2148",
+        "ORCID: 0000-0002-1075-4936",
+        "ORCID: 0000-0002-4767-3259",
+        "ORCID: 0000-0003-3777-5945"
+      ],
+      "affiliations": [
+        "Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+        "Predictive Medicine Special Project (PMSP), RIKEN Center for Integrative Medical Sciences (IMS), RIKEN, Yokohama, Kanagawa 230-0045, Japan.",
+        "Division of Applied Mathematical Science, RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS), RIKEN, Wako, Saitama 351-0198, Japan.",
+        "Data Science Core, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+        "Laboratory for Bioinformatics Research, RIKEN Center for Biosystems Dynamics Research, Wako, Saitama 351-0198, Japan.",
+        "Institute of Resource Development and Analysis, Kumamoto University, Gene Technology Center 6F, 2-2-1 Honjo, Chuo-ku, Kumamoto-shi, Kumamoto 860-0811, Japan.",
+        "Institute of Resource Development and Analysis, Kumamoto University, Gene Technology Center 6F, 2-2-1 Honjo, Chuo-ku, Kumamoto-shi, Kumamoto 860-0811, Japan.",
+        "Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+        "Institute for Advanced Academic Research (IAAR), Chiba University, 1-33 Yayoicho, Inage, Chiba, Chiba 263-8522, Japan.",
+        "Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems, University of Tokyo, Kashiwanoha-campus Station Satellite 6F., 178-4-4 Wakashiba, Kashiwa-shi, Chiba 277-0871, Japan.",
+        "Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+        "Predictive Medicine Special Project (PMSP), RIKEN Center for Integrative Medical Sciences (IMS), RIKEN, Yokohama, Kanagawa 230-0045, Japan.",
+        "Division of Applied Mathematical Science, RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS), RIKEN, Wako, Saitama 351-0198, Japan.",
+        "Institute for Advanced Academic Research (IAAR), Chiba University, 1-33 Yayoicho, Inage, Chiba, Chiba 263-8522, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sugimoto, Hikaru",
+        "short_name": "Sugimoto H",
+        "identifiers": [
+          "0000-0002-6468-0127"
+        ],
+        "affiliations": [
+          "Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+          "Predictive Medicine Special Project (PMSP), RIKEN Center for Integrative Medical Sciences (IMS), RIKEN, Yokohama, Kanagawa 230-0045, Japan.",
+          "Division of Applied Mathematical Science, RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS), RIKEN, Wako, Saitama 351-0198, Japan."
+        ]
+      },
+      {
+        "full_name": "Tsuyuzaki, Koki",
+        "short_name": "Tsuyuzaki K",
+        "identifiers": [
+          "0000-0003-3797-2148"
+        ],
+        "affiliations": [
+          "Data Science Core, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+          "Laboratory for Bioinformatics Research, RIKEN Center for Biosystems Dynamics Research, Wako, Saitama 351-0198, Japan."
+        ]
+      },
+      {
+        "full_name": "Zou, Zhaonan",
+        "short_name": "Zou Z",
+        "identifiers": [
+          "0000-0002-1075-4936"
+        ],
+        "affiliations": [
+          "Institute of Resource Development and Analysis, Kumamoto University, Gene Technology Center 6F, 2-2-1 Honjo, Chuo-ku, Kumamoto-shi, Kumamoto 860-0811, Japan."
+        ]
+      },
+      {
+        "full_name": "Oki, Shinya",
+        "short_name": "Oki S",
+        "identifiers": [
+          "0000-0002-4767-3259"
+        ],
+        "affiliations": [
+          "Institute of Resource Development and Analysis, Kumamoto University, Gene Technology Center 6F, 2-2-1 Honjo, Chuo-ku, Kumamoto-shi, Kumamoto 860-0811, Japan."
+        ]
+      },
+      {
+        "full_name": "Ohta, Tazro",
+        "short_name": "Ohta T",
+        "identifiers": [
+          "0000-0003-3777-5945"
+        ],
+        "affiliations": [
+          "Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+          "Institute for Advanced Academic Research (IAAR), Chiba University, 1-33 Yayoicho, Inage, Chiba, Chiba 263-8522, Japan.",
+          "Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems, University of Tokyo, Kashiwanoha-campus Station Satellite 6F., 178-4-4 Wakashiba, Kashiwa-shi, Chiba 277-0871, Japan."
+        ]
+      },
+      {
+        "full_name": "Kawakami, Eiryo",
+        "short_name": "Kawakami E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+          "Predictive Medicine Special Project (PMSP), RIKEN Center for Integrative Medical Sciences (IMS), RIKEN, Yokohama, Kanagawa 230-0045, Japan.",
+          "Division of Applied Mathematical Science, RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS), RIKEN, Wako, Saitama 351-0198, Japan.",
+          "Institute for Advanced Academic Research (IAAR), Chiba University, 1-33 Yayoicho, Inage, Chiba, Chiba 263-8522, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42741841",
+      "41288963",
+      "42636032",
+      "31340985",
+      "37843125",
+      "31701125",
+      "22456606",
+      "38940155",
+      "41385380",
+      "41518505",
+      "39527186",
+      "23387820",
+      "42650039",
+      "23758851",
+      "42398561",
+      "18769540",
+      "21172055",
+      "41883144",
+      "41498638",
+      "41521668",
+      "42560939",
+      "38806476",
+      "41171131",
+      "32054475",
+      "18426580",
+      "40205447",
+      "32181581",
+      "28961802",
+      "41871930",
+      "25707768",
+      "39135102",
+      "28617232",
+      "42320030",
+      "39679439",
+      "39062480",
+      "27064982",
+      "41452988",
+      "15113405",
+      "39781510",
+      "40662821",
+      "39207727",
+      "24968068",
+      "41022541",
+      "24228871",
+      "41662352",
+      "40654959",
+      "24565134",
+      "41984780",
+      "40365911",
+      "38838009",
+      "42482180",
+      "34292930",
+      "39705007",
+      "32060051",
+      "41527853",
+      "42475469",
+      "42006143",
+      "25087086",
+      "39833103",
+      "41043336",
+      "32174324",
+      "31857203",
+      "38950180",
+      "41628222",
+      "22563068",
+      "30445760",
+      "30547796",
+      "21367870",
+      "41250104",
+      "38653489",
+      "24039560",
+      "41300707",
+      "41643219",
+      "24565265",
+      "22647244",
+      "19450688",
+      "25281301",
+      "38980373",
+      "42710863",
+      "40633682",
+      "41093852",
+      "38609714",
+      "23272209",
+      "41386265",
+      "22106333",
+      "22849367",
+      "42527907",
+      "27794550",
+      "33135076",
+      "23184988",
+      "40102719",
+      "31099391",
+      "29051499",
+      "36626328",
+      "40141153",
+      "38342857",
+      "38782963",
+      "16966362",
+      "41451540",
+      "40753156"
+    ],
+    "review": [
+      "42741841",
+      "39207727"
+    ],
+    "pmc": [
+      "13575427"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42741841/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag897",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "identity": {
+    "pmid": "42746692",
+    "doi": "10.1002/ctm2.70835",
+    "title": "TMEM59L promotes neuroendocrine differentiation and enzalutamide resistance in prostate cancer by regulating MUC1/beta-catenin/MYC axis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Enzalutamide resistance in advanced prostate cancer often leads to treatment-induced neuroendocrine prostate cancer (t-NEPC), characterized by aggressive lineage plasticity. The molecular regulators governing neuroendocrine differentiation and phenotypic transition are not well understood. Here, we characterize the functional role of the transmembrane protein TMEM59L in driving PCa progression, lineage plasticity and therapeutic resistance. METHODS: We combined bulk RNA sequencing, single-cell RNA sequencing, and spatial transcriptomics datasets to assess TMEM59L expression patterns and their association with clinical features. We investigated the biological functions of TMEM59L using enzalutamide-resistant (EnzR) PCa cell lines in vitro and corresponding mouse xenograft models in vivo. Mechanistic interactions were elucidated through molecular assays, including co-immunoprecipitation (Co-IP), GST pull-down and molecular docking. RESULTS: TMEM59L expression is negatively regulated by androgen receptor (AR) signalling and markedly elevated in EnzR PCa tissues. In PCa cells, ectopic TMEM59L expression induced a neuroendocrine-like phenotype, enhanced stemness, promoted epithelial-mesenchymal transition (EMT) and conferred enzalutamide resistance. Conversely, TMEM59L depletion restored drug sensitivity and significantly suppressed EnzR tumour growth in vivo. Mechanistically, TMEM59L directly interacts with MUC1 to facilitate its nuclear accumulation, thereby activating the downstream beta-catenin/MYC signalling axis. Importantly, pharmacological inhibition or genetic silencing of MUC1 effectively reversed TMEM59L-induced neuroendocrine differentiation, stemness and enzalutamide resistance. CONCLUSIONS: Our findings uncover a previously unrecognized TMEM59L/MUC1/beta-catenin/MYC signalling cascade associated with neuroendocrine differentiation and enzalutamide resistance in PCa. Targeting this regulatory axis presents a promising therapeutic strategy to circumvent resistance to next-generation AR signalling inhibitors.",
+    "keywords": [
+      "TMEM59L",
+      "enzalutamide resistance",
+      "neuroendocrine differentiation",
+      "prostate cancer",
+      "scRNA-seq"
+    ],
+    "mesh_terms": [
+      "Male",
+      "*Benzamides/therapeutic use/pharmacology",
+      "*Phenylthiohydantoin/pharmacology/therapeutic use",
+      "Humans",
+      "Animals",
+      "*Nitriles/therapeutic use/pharmacology",
+      "*Drug Resistance, Neoplasm/genetics/drug effects",
+      "*beta Catenin/metabolism/genetics",
+      "Mice",
+      "*Prostatic Neoplasms/drug therapy/genetics",
+      "Cell Differentiation/drug effects",
+      "*Membrane Proteins/genetics/metabolism",
+      "Cell Line, Tumor",
+      "Proto-Oncogene Proteins c-myc/metabolism/genetics",
+      "Signal Transduction"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Guo, Xiuchen",
+        "Liu, Yifan",
+        "Huang, Jiacheng",
+        "Chen, Zhiwei",
+        "Liao, Haihong",
+        "Xu, Yulin",
+        "Cui, Xingang",
+        "Yu, Yongjiang"
+      ],
+      "short_names": [
+        "Guo X",
+        "Liu Y",
+        "Huang J",
+        "Chen Z",
+        "Liao H",
+        "Xu Y",
+        "Cui X",
+        "Yu Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-1264-0806",
+        "ORCID: 0000-0002-0189-7900",
+        "ORCID: 0009-0007-9671-8226",
+        "ORCID: 0000-0002-0920-9439",
+        "ORCID: 0000-0002-4491-0079"
+      ],
+      "affiliations": [
+        "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China.",
+        "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China.",
+        "Department of Urology, School of Medicine, Shanghai Children's Hospital, Shanghai Jiao Tong University, Shanghai, People's Republic of China.",
+        "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China.",
+        "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China.",
+        "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China.",
+        "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China.",
+        "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Guo, Xiuchen",
+        "short_name": "Guo X",
+        "identifiers": [
+          "0009-0003-1264-0806"
+        ],
+        "affiliations": [
+          "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yifan",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0002-0189-7900"
+        ],
+        "affiliations": [
+          "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jiacheng",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, School of Medicine, Shanghai Children's Hospital, Shanghai Jiao Tong University, Shanghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhiwei",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liao, Haihong",
+        "short_name": "Liao H",
+        "identifiers": [
+          "0009-0007-9671-8226"
+        ],
+        "affiliations": [
+          "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yulin",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Cui, Xingang",
+        "short_name": "Cui X",
+        "identifiers": [
+          "0000-0002-0920-9439"
+        ],
+        "affiliations": [
+          "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yongjiang",
+        "short_name": "Yu Y",
+        "identifiers": [
+          "0000-0002-4491-0079"
+        ],
+        "affiliations": [
+          "Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinical and translational medicine"
+    ],
+    "journal_abbrev": [
+      "Clin Transl Med"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42746692",
+      "41331871",
+      "40280884",
+      "41664980",
+      "41981278",
+      "42331201",
+      "42450213",
+      "39449086",
+      "41510165",
+      "30657058",
+      "28528814",
+      "41760602",
+      "41866645",
+      "42589556",
+      "41151858",
+      "38898473",
+      "32313135",
+      "40133664",
+      "31536510",
+      "40993441",
+      "41366824",
+      "41566241",
+      "41067365",
+      "41872691",
+      "32734688",
+      "39226661",
+      "41580593",
+      "41419457",
+      "34753990",
+      "40289088",
+      "34749299",
+      "38554106",
+      "34145028",
+      "37563661",
+      "32184358",
+      "34934057",
+      "40211483",
+      "40677010",
+      "30940724",
+      "42056074",
+      "41656388",
+      "41090793",
+      "28602980",
+      "41605902",
+      "31013476",
+      "40706636",
+      "29700003",
+      "41543046",
+      "42263596",
+      "32954481",
+      "29191973",
+      "41962607",
+      "34656931",
+      "40073743",
+      "34721759",
+      "42272283",
+      "42129801",
+      "41347288",
+      "33277366",
+      "41079920",
+      "39696559",
+      "37147019",
+      "34545067",
+      "25817444",
+      "40100956",
+      "38600681",
+      "37507762",
+      "31980029",
+      "34011528",
+      "39948708",
+      "24740322",
+      "40605142",
+      "31953400",
+      "42220127",
+      "31587305",
+      "29844131",
+      "31481513",
+      "38478171",
+      "40440961",
+      "41861540",
+      "41668040",
+      "41327318",
+      "35780240",
+      "34973338",
+      "39143552",
+      "26056150",
+      "34740892",
+      "40303312",
+      "40553569",
+      "39844192",
+      "30864728",
+      "42744967",
+      "32648618",
+      "34512147",
+      "41299174",
+      "42084830",
+      "39740539",
+      "28500234",
+      "35776912",
+      "34034559"
+    ],
+    "review": [
+      "42746692"
+    ],
+    "pmc": [
+      "13579383"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/prostatecancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Prostate Cancer"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70835",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-AKR1B1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-146",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

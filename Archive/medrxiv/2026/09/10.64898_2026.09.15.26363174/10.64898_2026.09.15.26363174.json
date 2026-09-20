@@ -1,0 +1,105 @@
+{
+  "source": "medrxiv",
+  "source_id": "10.64898/2026.09.15.26363174",
+  "title": "Genomic foundation model-derived disruption profiling links somatic mutations to cancer biology and clinical outcomes",
+  "doi": "10.64898/2026.09.15.26363174",
+  "abstract": "Cancer genomics has concentrated on individual mutations, overlooking whether somatic mutations can accumulate to produce partial, gene-level disruption with biological and clinical consequences. Sequence-to-function models can quantify these effects directly from DNA sequence. Here, we use AlphaGenome and AlphaMissense to quantify the disruption imposed by somatic mutations across 8,800 patients and 33 cancer types from The Cancer Genome Atlas. At the individual-variant level, recurrent hotspot mutations showed substantially larger predicted protein-level effects, whereas non-hotspot mutations exhibited larger regulatory effects across most cancer types. We then aggregated the variant-level predictions to construct patient-gene disruption profiles capturing transcriptional activity, chromatin accessibility, transcription factor binding, and splicing. These profiles were gene- and modality-specific, and reflected tissue of origin, cancer type, and microsatellite-instability status while retaining information beyond tumor mutational burden. Among patients lacking recurrent hotspot mutations in a given cancer gene, higher predicted disruption was associated with overall survival, with the strongest and most consistent signal observed for chromatin accessibility. In an independent treatment-annotated cohort, gene-level disruption was also associated with survival within treatment-defined subgroups. Together, these findings show that recurrent hotspots are enriched for strong predicted protein-level effects, whereas regulatory consequences are distributed more broadly across other variants, supporting a continuous, multidimensional view of cancer-gene perturbation beyond discrete drivers.",
+  "authors": [
+    "Nayak A",
+    "Lee T",
+    "Agarwal V",
+    "Georgakopoulos-Soares I"
+  ],
+  "published_date": "2026-09-16",
+  "updated_date": "",
+  "journal": "medRxiv",
+  "category": "",
+  "landing_url": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363174",
+  "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363174.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1321889",
+    "raw_record": {
+      "id": "PPR1321889",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.15.26363174",
+      "title": "Genomic foundation model-derived disruption profiling links somatic mutations to cancer biology and clinical outcomes",
+      "authorString": "Nayak A, Lee T, Agarwal V, Georgakopoulos-Soares I.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nayak A",
+            "lastName": "Nayak",
+            "firstName": "Akshatha",
+            "initials": "A"
+          },
+          {
+            "fullName": "Lee T",
+            "lastName": "Lee",
+            "firstName": "Tae-Rim",
+            "initials": "T"
+          },
+          {
+            "fullName": "Agarwal V",
+            "lastName": "Agarwal",
+            "firstName": "Vikram",
+            "initials": "V"
+          },
+          {
+            "fullName": "Georgakopoulos-Soares I",
+            "lastName": "Georgakopoulos-Soares",
+            "firstName": "Ilias",
+            "initials": "I"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Cancer genomics has concentrated on individual mutations, overlooking whether somatic mutations can accumulate to produce partial, gene-level disruption with biological and clinical consequences. Sequence-to-function models can quantify these effects directly from DNA sequence. Here, we use AlphaGenome and AlphaMissense to quantify the disruption imposed by somatic mutations across 8,800 patients and 33 cancer types from The Cancer Genome Atlas. At the individual-variant level, recurrent hotspot mutations showed substantially larger predicted protein-level effects, whereas non-hotspot mutations exhibited larger regulatory effects across most cancer types. We then aggregated the variant-level predictions to construct patient-gene disruption profiles capturing transcriptional activity, chromatin accessibility, transcription factor binding, and splicing. These profiles were gene- and modality-specific, and reflected tissue of origin, cancer type, and microsatellite-instability status while retaining information beyond tumor mutational burden. Among patients lacking recurrent hotspot mutations in a given cancer gene, higher predicted disruption was associated with overall survival, with the strongest and most consistent signal observed for chromatin accessibility. In an independent treatment-annotated cohort, gene-level disruption was also associated with survival within treatment-defined subgroups. Together, these findings show that recurrent hotspots are enriched for strong predicted protein-level effects, whereas regulatory consequences are distributed more broadly across other variants, supporting a continuous, multidimensional view of cancer-gene perturbation beyond discrete drivers.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "medRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.15.26363174"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-18",
+      "firstPublicationDate": "2026-09-16",
+      "firstIndexDate": "2026-09-18",
+      "hasEvaluations": "N"
+    }
+  }
+}

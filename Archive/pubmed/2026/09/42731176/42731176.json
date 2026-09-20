@@ -1,0 +1,224 @@
+{
+  "identity": {
+    "pmid": "42731176",
+    "doi": "10.1016/j.prp.2026.156671",
+    "title": "Identification of TRAF1 as a crucial regulator of inflammatory and oxidative injury in acute myocardial infarction."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Acute myocardial infarction (AMI) is governed by intricate molecular networks. The precise role of tumor necrosis factor receptor-associated factor 1 (TRAF1) in AMI pathogenesis remains incompletely understood. This study aimed to delineate the function, regulation, and therapeutic potential of TRAF1 in AMI. METHODS: Transcriptomic analysis of the GSE166780 dataset identified key genes involved in AMI. Expression of TRAF1 was validated in clinical plasma samples. In vitro and in vivo models of hypoxia/reoxygenation (H/R) or myocardial ischemia/reperfusion (MI/R) were used. Functional assays included cytokine measurement, oxidative stress detection, and viability and apoptosis assessment. Mechanisms involving upstream regulators USP1 and ATF2 were investigated via Co-IP, ubiquitination, luciferase reporter, ChIP, and stability assays. Drug screening and molecular docking were performed. RESULTS: Transcriptomic analysis identified TRAF1 as a key factor in AMI. TRAF1 was upregulated in AMI patients and H/R-exposed AC16 cardiomyocytes. TRAF1 knockdown mitigated H/R-induced inflammation, oxidative stress, and apoptosis in AC16 cardiomyocytes in vitro, and improved cardiac function post-MI/R in mice. Mechanistically, USP1 stabilized TRAF1 protein likely through deubiquitination, while ATF2 transcriptionally activated TRAF1. Moreover, the USP1/TRAF1 axis promoted NF-kappaB pathway activation. The compound parthenolide was found to exert protective effects against H/R injury, at least in part, through TRAF1 downregulation. CONCLUSION: This study suggests that TRAF1 is a central regulator of inflammatory and oxidative injury in AMI, modulated by ATF2 and USP1. Our in vitro experiments suggest that parthenolide attenuates H/R-induced injury, at least in part, through TRAF1 downregulation. Consequently, TRAF1 emerges as a promising therapeutic target warranting further investigation in preclinical models.",
+    "keywords": [
+      "Acute myocardial infarction",
+      "Deubiquitination",
+      "Inflammatory activation",
+      "Ischemia/reperfusion",
+      "Transcription factor",
+      "Tumor necrosis factor receptor-associated factor 1"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Fei",
+        "Xin, Hong",
+        "Xu, Quancheng",
+        "Li, Chengliang"
+      ],
+      "short_names": [
+        "Zhang F",
+        "Xin H",
+        "Xu Q",
+        "Li C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Quality Improvement, Shenzhen Nanshan Medical Group Headquarters, Shenzhen 518052, China.",
+        "Department of Science and Education, Guangzhou First People's Hospital, Guangzhou 510180, China.",
+        "Department of Quality Improvement, Shenzhen Nanshan Medical Group Headquarters, Shenzhen 518052, China.",
+        "Department of Quality Improvement, Shenzhen Nanshan Medical Group Headquarters, Shenzhen 518052, China. Electronic address: 13991166493@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Fei",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Quality Improvement, Shenzhen Nanshan Medical Group Headquarters, Shenzhen 518052, China."
+        ]
+      },
+      {
+        "full_name": "Xin, Hong",
+        "short_name": "Xin H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Science and Education, Guangzhou First People's Hospital, Guangzhou 510180, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Quancheng",
+        "short_name": "Xu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Quality Improvement, Shenzhen Nanshan Medical Group Headquarters, Shenzhen 518052, China."
+        ]
+      },
+      {
+        "full_name": "Li, Chengliang",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Quality Improvement, Shenzhen Nanshan Medical Group Headquarters, Shenzhen 518052, China. Electronic address: 13991166493@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pathology, research and practice"
+    ],
+    "journal_abbrev": [
+      "Pathol Res Pract"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42731176",
+      "31650881",
+      "41944987",
+      "39060883",
+      "34330059",
+      "40696470",
+      "41817959",
+      "32674625",
+      "37005320",
+      "40722060",
+      "30989715",
+      "40878243",
+      "38244891",
+      "42146021",
+      "38797667",
+      "37707557",
+      "41759420",
+      "39197598",
+      "32797709",
+      "39613175",
+      "41320337",
+      "38045159",
+      "36819541",
+      "31885778",
+      "31622017",
+      "37063075",
+      "37647434",
+      "34601814",
+      "33191336",
+      "37011873",
+      "41849074",
+      "40121492",
+      "36152839",
+      "35401806",
+      "37000116",
+      "40598393",
+      "39463227",
+      "39185902",
+      "38662610",
+      "39729180",
+      "42639777",
+      "38569296",
+      "34859077",
+      "42648452",
+      "31967332",
+      "41812833",
+      "41933871",
+      "35543792",
+      "41644776",
+      "39251393",
+      "42049119",
+      "32828530",
+      "35279582",
+      "39905501",
+      "37338678",
+      "42184497",
+      "38613636",
+      "42469388",
+      "36634414",
+      "41977382",
+      "37229319",
+      "41548375",
+      "37493583",
+      "36810972",
+      "30560327",
+      "38556336",
+      "41175588",
+      "30308185",
+      "39439252",
+      "41107601",
+      "34974813",
+      "33902056",
+      "41182565",
+      "41511954",
+      "40912610",
+      "40682199",
+      "30760405",
+      "29955901",
+      "34749249",
+      "32866662",
+      "39747134",
+      "32474021",
+      "39900557",
+      "38185229",
+      "42143464",
+      "32742337",
+      "31858814",
+      "34338573",
+      "25680284",
+      "41650015",
+      "34919942",
+      "35475469",
+      "42084542",
+      "32378287",
+      "41454298",
+      "33600051",
+      "39242993",
+      "32206064",
+      "37143143",
+      "38417368"
+    ],
+    "review": [
+      "42731176"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0344-0338(26)00324-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-952",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

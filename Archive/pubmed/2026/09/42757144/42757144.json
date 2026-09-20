@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "42757144",
+    "doi": "10.1021/acsomega.6c04040",
+    "title": "BAN-SDBPred: Improving Single-Stranded and Double-Stranded DNA-Binding Protein Prediction Using an Attention Network with Bilinear Convolution and Adaptive Sampling Strategy."
+  },
+  "content": {
+    "abstract": "DNA binding proteins play essential roles in numerous biological mechanisms. The DBPs can be either single-stranded binding (SSBs) or double-stranded binding (DSBs) to a DNA molecule. The in-depth identification of SSBs and DSBs has been a hot topic in bioinformatics and is involved in the drug discovery process. Traditional experimental methods failed to characterize the types of DBPs because of high cost and time constraints. While computational prediction of novel SSBs and DSBs has made significant progress, there are still challenges remaining in enhancing overall prediction performance. Methods: Here, we develop a novel BAN-SDBPred (Bilinear Attention Network for Single and Double Stranded DNA-Binding Protein Prediction) method. BAN-SDBPred leverages the evolutionary features by protein language model-based Evolutionary Scale Modeling 2 (ESM2), ProtT5, and a histogram of oriented gradient-based residue pairwise energy content matrix (RECM-HOG)-transformed energy estimation features from sequence alone. Then, the adaptive neighborhood-based sampling (ANBS) algorithm was adopted to solve the imbalance issue. Compared to other deep learning models, the bilinear attention network (BAN) learns the local and global enriched features from the sequences. Extensive experimental results anticipate that BAN-SDBPred outperforms the existing predictors in terms of all performance measures, such as Acc, F1, MCC, etc., on the training and independent test data. Our designed model has significant advantages in discriminating SSBs and DSBs from DBPs with an improved Acc of 2%, Precision of 4.5%, F1 of 21%, MCC of 9%, and area under curve (AUC) of 20%, respectively. We expect this research will help to predict large-scale novel SSBs and DSBs in particular and other binding problems in general. All data and models are available at 10.5281/zenodo.18718092.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Arshad, Kamran",
+        "Arif, Muhammad",
+        "Worachartcheewan, Apilak",
+        "Yu, Dong-Jun"
+      ],
+      "short_names": [
+        "Arshad K",
+        "Arif M",
+        "Worachartcheewan A",
+        "Yu DJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-0941-0999",
+        "ORCID: 0000-0002-6786-8053"
+      ],
+      "affiliations": [
+        "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China. RINGGOLD: 12436",
+        "College of Science and Engineering, Hamad Bin Khalifa University, Doha 34110, Qatar.",
+        "Department of Community Medical Technology, Faculty of Medical Technology, Mahidol University, Bangkok 10700, Thailand.",
+        "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China. RINGGOLD: 12436"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Arshad, Kamran",
+        "short_name": "Arshad K",
+        "identifiers": [
+          "0009-0006-0941-0999"
+        ],
+        "affiliations": [
+          "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+        ]
+      },
+      {
+        "full_name": "Arif, Muhammad",
+        "short_name": "Arif M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Science and Engineering, Hamad Bin Khalifa University, Doha 34110, Qatar."
+        ]
+      },
+      {
+        "full_name": "Worachartcheewan, Apilak",
+        "short_name": "Worachartcheewan A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Community Medical Technology, Faculty of Medical Technology, Mahidol University, Bangkok 10700, Thailand."
+        ]
+      },
+      {
+        "full_name": "Yu, Dong-Jun",
+        "short_name": "Yu DJ",
+        "identifiers": [
+          "0000-0002-6786-8053"
+        ],
+        "affiliations": [
+          "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 12:25",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42757144",
+      "28606086",
+      "31888057",
+      "31693872",
+      "41566703",
+      "41172803",
+      "40174317",
+      "41686649",
+      "32946833",
+      "25474071",
+      "41527527",
+      "41977286",
+      "42475469",
+      "25075531",
+      "39990254",
+      "36503892",
+      "38856168",
+      "36139026",
+      "34291709",
+      "38986796",
+      "37651627",
+      "42374910",
+      "32936825",
+      "33986992",
+      "30032213",
+      "40613943",
+      "35378437",
+      "40854162",
+      "41168713",
+      "36748992",
+      "41749211",
+      "38316843",
+      "42348910",
+      "36719781",
+      "41310253",
+      "36416116",
+      "38179749",
+      "27038080",
+      "40302345",
+      "41290782",
+      "36049552",
+      "32920048",
+      "22976174",
+      "38349057",
+      "31123959",
+      "38587997",
+      "35652477",
+      "40102719",
+      "41408656",
+      "41285097",
+      "30957840",
+      "35447463",
+      "32949607",
+      "38903752",
+      "40811267",
+      "41257586",
+      "40121399",
+      "30808287",
+      "38830995",
+      "40914877",
+      "33837387",
+      "39357703",
+      "41406781",
+      "33267753",
+      "28245811",
+      "28851273",
+      "41491543",
+      "39528950",
+      "41419957",
+      "38127815",
+      "35519609",
+      "40811365",
+      "40636133",
+      "34415020",
+      "29028926",
+      "36849908",
+      "41292907",
+      "40919912",
+      "35043942",
+      "40439671",
+      "39874533",
+      "40072484",
+      "27565741",
+      "39214282",
+      "40143108",
+      "39121938",
+      "33685590",
+      "42288985",
+      "32300371",
+      "32352006",
+      "37016308",
+      "41070616",
+      "34571539",
+      "21120860",
+      "42336024",
+      "41162940",
+      "41138794",
+      "41634737",
+      "31199797",
+      "39471921"
+    ],
+    "review": [
+      "42757144",
+      "36139026"
+    ],
+    "pmc": [
+      "13584158"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

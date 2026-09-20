@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42747982",
+    "doi": "10.7554/eLife.102828",
+    "title": "The chromokinesin Kid (KIF22) forms a homodimer, moves processively along microtubules, and transports double-stranded DNA."
+  },
+  "content": {
+    "abstract": "During prometaphase in mitosis, chromosomes are pushed toward the spindle equator. The chromokinesin Kid, also known as KIF22, moves chromosomes along spindle microtubules during prometaphase. Kid has long been considered a monomeric and nonprocessive motor, different from typical kinesins. In this study, we demonstrate that the full-length Kid forms a homodimer and moves processively along microtubules. A conserved coiled-coil domain within the stalk region of Kid is sufficient for homodimer formation and is required for the processivity of Kid. Furthermore, the neck linker and coiled-coil domains of Kid could add processive activity to the motor domain of KIF1A, suggesting that Kid contains a functional neck linker and dimerization capability, a prerequisite for the processivity of kinesin motor domains. The full-length Kid, containing a helix-hairpin-helix domain, can transport double-stranded DNA along microtubules in vitro. AlphaFold3 prediction suggests that the dimerization of Kid stabilizes the association with DNA. These findings collectively suggest the reclassification of Kid as a processive and dimeric motor that transports DNA along microtubules.",
+    "keywords": [
+      "KIF22",
+      "Kid",
+      "biochemistry",
+      "chemical biology",
+      "chromokinesin",
+      "kinesin",
+      "none"
+    ],
+    "mesh_terms": [
+      "*Kinesins/metabolism/chemistry/genetics",
+      "*Microtubules/metabolism",
+      "*Protein Multimerization",
+      "*DNA/metabolism",
+      "Humans",
+      "Animals",
+      "Protein Domains",
+      "DNA-Binding Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Niwa, Shinsuke",
+        "Furusaki, Natsuki",
+        "Kita, Tomoki",
+        "Suzuki, Yuki",
+        "Chiba, Kyoko"
+      ],
+      "short_names": [
+        "Niwa S",
+        "Furusaki N",
+        "Kita T",
+        "Suzuki Y",
+        "Chiba K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8367-9228",
+        "ORCID: 0000-0002-1531-565X",
+        "ORCID: 0000-0003-1848-0105",
+        "ORCID: 0000-0001-6919-2782"
+      ],
+      "affiliations": [
+        "Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University, Sendai, Japan.",
+        "Graduate School of Life Sciences, Tohoku University, Sendai, Japan.",
+        "Graduate School of Life Sciences, Tohoku University, Sendai, Japan.",
+        "Graduate School of Life Sciences, Tohoku University, Sendai, Japan.",
+        "Mie University, Graduate School of Engineering, Tsu, Japan.",
+        "Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University, Sendai, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Niwa, Shinsuke",
+        "short_name": "Niwa S",
+        "identifiers": [
+          "0000-0002-8367-9228"
+        ],
+        "affiliations": [
+          "Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University, Sendai, Japan.",
+          "Graduate School of Life Sciences, Tohoku University, Sendai, Japan."
+        ]
+      },
+      {
+        "full_name": "Furusaki, Natsuki",
+        "short_name": "Furusaki N",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Life Sciences, Tohoku University, Sendai, Japan."
+        ]
+      },
+      {
+        "full_name": "Kita, Tomoki",
+        "short_name": "Kita T",
+        "identifiers": [
+          "0000-0002-1531-565X"
+        ],
+        "affiliations": [
+          "Graduate School of Life Sciences, Tohoku University, Sendai, Japan."
+        ]
+      },
+      {
+        "full_name": "Suzuki, Yuki",
+        "short_name": "Suzuki Y",
+        "identifiers": [
+          "0000-0003-1848-0105"
+        ],
+        "affiliations": [
+          "Mie University, Graduate School of Engineering, Tsu, Japan."
+        ]
+      },
+      {
+        "full_name": "Chiba, Kyoko",
+        "short_name": "Chiba K",
+        "identifiers": [
+          "0000-0001-6919-2782"
+        ],
+        "affiliations": [
+          "Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University, Sendai, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 17:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42747982",
+      "27550518",
+      "9508773",
+      "15885113",
+      "39604259",
+      "16176979",
+      "12606572",
+      "19242550",
+      "37861970",
+      "20212149",
+      "12692123",
+      "29540705",
+      "20471270",
+      "11086009",
+      "39093405",
+      "41795187",
+      "34972951",
+      "21914648",
+      "19893487",
+      "38206323",
+      "25743205",
+      "32735815",
+      "21060728",
+      "40820963",
+      "18485706",
+      "21236672",
+      "21041940",
+      "34382258",
+      "27462072",
+      "40907488",
+      "35730929",
+      "31958056",
+      "21785949",
+      "21169635",
+      "9083016",
+      "22863567",
+      "30770434",
+      "12972545",
+      "33082143",
+      "27196062",
+      "20144232",
+      "19338388",
+      "30017487",
+      "41435824",
+      "24920822",
+      "26445448",
+      "23525020",
+      "9755154",
+      "38675612",
+      "28290984",
+      "16829678",
+      "37543636",
+      "29514846",
+      "31288039",
+      "8599929",
+      "9508772",
+      "39012822",
+      "18427114",
+      "14600264",
+      "40384341",
+      "22558333",
+      "30300593",
+      "12609885",
+      "17181772",
+      "18207739",
+      "9548720",
+      "15850386",
+      "19693012",
+      "19805111",
+      "17013387",
+      "26175154",
+      "30770469",
+      "15345558",
+      "40617823",
+      "40243292",
+      "11564754",
+      "34768803",
+      "24039047",
+      "24739168",
+      "12727876",
+      "12351789",
+      "17012747",
+      "19332892",
+      "30973712",
+      "19935670",
+      "19751671",
+      "16100283",
+      "21288629",
+      "16174726",
+      "30597919",
+      "22278908",
+      "19278641",
+      "28826477",
+      "9493265",
+      "15881401",
+      "34131133",
+      "36125250",
+      "10024239",
+      "40730907",
+      "22355749"
+    ],
+    "review": [
+      "42747982",
+      "21060728",
+      "27196062",
+      "30300593",
+      "24039047"
+    ],
+    "pmc": [
+      "13581288"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42747982/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7554/eLife.102828",
+        "provider": "eLife Sciences Publications, Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

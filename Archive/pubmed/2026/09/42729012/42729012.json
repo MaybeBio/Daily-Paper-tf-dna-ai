@@ -1,0 +1,381 @@
+{
+  "identity": {
+    "pmid": "42729012",
+    "doi": "10.12688/f1000research.175934.2",
+    "title": "Leveraging Artificial Intelligence (AI) Based Algorithm for Accurate Estrogen Receptor (ER) and Progesterone Receptor (PR) Analysis in Breast Cancer Diagnostics: Potential to be a Crucial Aid in Routine Workflow."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Scoring of estrogen receptor (ER) and progesterone receptor (PR) expression in breast cancer is critical for identifying patients who would benefit with hormonal therapy. Since manual scoring of immunohistochemistry (IHC) is influenced by pathologist experience, fatigue, inter-observer variability, and subjectivity, artificial intelligence (AI)-based algorithms, trained on large datasets can aid to improve diagnostic accuracy. METHODOLOGY: This study evaluated an AI-based algorithm for ER and PR IHC scoring in 297 ER and 293 PR cases of invasive breast carcinoma and compared the scores with that of pathologists (two senior and two junior) A pre-trained automated algorithm (Mimansa) identified region of interest and provided the scoreswhich was compared with the consensus score of pathologists-ground truth(GT).Concordance was evaluated using Cohen's kappa and F1 score. RESULTS: For ER IHC, GT scores included 169 strong positive, 31 low positive, and 98 negative cases. Agreement with GT was 99% and 98% for senior pathologists, 97% for the AI algorithm, and 95% and 93% for junior pathologists. The algorithm correctly classified all strong positive cases but showed discordance in 16 low-score cases, with four false negatives and ten false positives. Notably, it identified two true positive cases missed by all pathologists.For PR IHC, agreement rates were 98% and 97% for senior pathologists, 92% for the algorithm, and 93% and 91% for junior pathologists. The algorithm achieved perfect accuracy in strong positive cases but produced 16 false negatives and eight false positives among low-score cases. Cohen's kappa values were 0.91 (ER) and 0.84 (PR). CONCLUSION: The AI algorithm demonstrated high concordance with expert consensus, performing comparably to senior pathologists and outperforming junior pathologists in several metrics. It shows promise as a supportive second-reader tool, particularly in low-positive cases where diagnostic errors may significantly impact patient management.",
+    "keywords": [
+      "Estrogen receptor",
+      "Progesterone receptor",
+      "algorithm",
+      "biomarker expression",
+      "breast cancer",
+      "manual"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Receptors, Progesterone/metabolism/analysis",
+      "*Breast Neoplasms/diagnosis/metabolism",
+      "*Receptors, Estrogen/metabolism/analysis",
+      "Female",
+      "*Algorithms",
+      "*Artificial Intelligence",
+      "Immunohistochemistry",
+      "Workflow"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pai, Kanthilatha",
+        "Singh, Brij Mohan Kumar",
+        "Udupa, Chethana Babu",
+        "Pai, Madhavi",
+        "Verma, Vani",
+        "Jha, Sumit",
+        "Aatre, Kiran",
+        "Mishra, Purnendu",
+        "Godkhindi, Vishwapriya Mahadev",
+        "Sharma, Swati",
+        "Singh, Gursevak",
+        "Mathur, Shubham",
+        "Modi, Akash",
+        "Kumar, Rajiv"
+      ],
+      "short_names": [
+        "Pai K",
+        "Singh BMK",
+        "Udupa CB",
+        "Pai M",
+        "Verma V",
+        "Jha S",
+        "Aatre K",
+        "Mishra P",
+        "Godkhindi VM",
+        "Sharma S",
+        "Singh G",
+        "Mathur S",
+        "Modi A",
+        "Kumar R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6947-5552",
+        "ORCID: 0000-0003-0423-5176",
+        "ORCID: 0000-0002-8098-8455"
+      ],
+      "affiliations": [
+        "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India.",
+        "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India.",
+        "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India.",
+        "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India.",
+        "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India.",
+        "Applied Materials India, Bangalore, Karnataka, 560066, India.",
+        "Applied Materials India, Bangalore, Karnataka, 560066, India.",
+        "Applied Materials India, Bangalore, Karnataka, 560066, India.",
+        "Mangalore Institute of Oncology, Mangaluru, Karnataka, 576104, India.",
+        "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India.",
+        "Applied Materials India, Bangalore, Karnataka, 560066, India.",
+        "Applied Materials India, Bangalore, Karnataka, 560066, India.",
+        "Applied Materials India, Bangalore, Karnataka, 560066, India.",
+        "Applied Materials India, Bangalore, Karnataka, 560066, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pai, Kanthilatha",
+        "short_name": "Pai K",
+        "identifiers": [
+          "0000-0002-6947-5552"
+        ],
+        "affiliations": [
+          "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Brij Mohan Kumar",
+        "short_name": "Singh BMK",
+        "identifiers": [],
+        "affiliations": [
+          "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India."
+        ]
+      },
+      {
+        "full_name": "Udupa, Chethana Babu",
+        "short_name": "Udupa CB",
+        "identifiers": [],
+        "affiliations": [
+          "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India."
+        ]
+      },
+      {
+        "full_name": "Pai, Madhavi",
+        "short_name": "Pai M",
+        "identifiers": [],
+        "affiliations": [
+          "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India."
+        ]
+      },
+      {
+        "full_name": "Verma, Vani",
+        "short_name": "Verma V",
+        "identifiers": [],
+        "affiliations": [
+          "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India."
+        ]
+      },
+      {
+        "full_name": "Jha, Sumit",
+        "short_name": "Jha S",
+        "identifiers": [],
+        "affiliations": [
+          "Applied Materials India, Bangalore, Karnataka, 560066, India."
+        ]
+      },
+      {
+        "full_name": "Aatre, Kiran",
+        "short_name": "Aatre K",
+        "identifiers": [
+          "0000-0003-0423-5176"
+        ],
+        "affiliations": [
+          "Applied Materials India, Bangalore, Karnataka, 560066, India."
+        ]
+      },
+      {
+        "full_name": "Mishra, Purnendu",
+        "short_name": "Mishra P",
+        "identifiers": [],
+        "affiliations": [
+          "Applied Materials India, Bangalore, Karnataka, 560066, India."
+        ]
+      },
+      {
+        "full_name": "Godkhindi, Vishwapriya Mahadev",
+        "short_name": "Godkhindi VM",
+        "identifiers": [],
+        "affiliations": [
+          "Mangalore Institute of Oncology, Mangaluru, Karnataka, 576104, India."
+        ]
+      },
+      {
+        "full_name": "Sharma, Swati",
+        "short_name": "Sharma S",
+        "identifiers": [
+          "0000-0002-8098-8455"
+        ],
+        "affiliations": [
+          "Dept of Pathology, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, Karnataka, 576104, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Gursevak",
+        "short_name": "Singh G",
+        "identifiers": [],
+        "affiliations": [
+          "Applied Materials India, Bangalore, Karnataka, 560066, India."
+        ]
+      },
+      {
+        "full_name": "Mathur, Shubham",
+        "short_name": "Mathur S",
+        "identifiers": [],
+        "affiliations": [
+          "Applied Materials India, Bangalore, Karnataka, 560066, India."
+        ]
+      },
+      {
+        "full_name": "Modi, Akash",
+        "short_name": "Modi A",
+        "identifiers": [],
+        "affiliations": [
+          "Applied Materials India, Bangalore, Karnataka, 560066, India."
+        ]
+      },
+      {
+        "full_name": "Kumar, Rajiv",
+        "short_name": "Kumar R",
+        "identifiers": [],
+        "affiliations": [
+          "Applied Materials India, Bangalore, Karnataka, 560066, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "F1000Research"
+    ],
+    "journal_abbrev": [
+      "F1000Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42729012",
+      "38395930",
+      "38519745",
+      "21244664",
+      "20529811",
+      "41905185",
+      "36931740",
+      "39985907",
+      "18947395",
+      "42336244",
+      "39393036",
+      "26829108",
+      "32758491",
+      "27349894",
+      "31348505",
+      "41845525",
+      "38651302",
+      "29251737",
+      "12404057",
+      "24261318",
+      "27729430",
+      "27315045",
+      "26410019",
+      "42329472",
+      "39912929",
+      "31640622",
+      "39705612",
+      "40597935",
+      "30230095",
+      "28891017",
+      "39745077",
+      "26899763",
+      "40143808",
+      "28193205",
+      "18487567",
+      "22642247",
+      "42091132",
+      "36788100",
+      "40132671",
+      "22949935",
+      "39752420",
+      "42531655",
+      "40789886",
+      "23971947",
+      "23161712",
+      "20586616",
+      "17912629",
+      "8917341",
+      "41334895",
+      "39241826",
+      "31883437",
+      "34875014",
+      "28457730",
+      "41224416",
+      "40645910",
+      "23154769",
+      "38852812",
+      "35789315",
+      "24992175",
+      "35466619",
+      "21306471",
+      "39004603",
+      "30613307",
+      "41757801",
+      "40186179",
+      "30859501",
+      "30066060",
+      "21375607",
+      "21943197",
+      "41082751",
+      "20701550",
+      "41670705",
+      "18668363",
+      "31669267",
+      "40341568",
+      "32445323",
+      "20524868",
+      "24351599",
+      "15129906",
+      "25966732",
+      "15668953",
+      "30337080",
+      "7763033",
+      "15565575",
+      "35733293",
+      "36653923",
+      "17259294",
+      "42121999",
+      "19596702",
+      "41744185",
+      "37500962",
+      "36172662",
+      "36611460",
+      "37419078",
+      "27377889",
+      "23810747",
+      "29981025",
+      "25234844",
+      "7455895",
+      "30927939"
+    ],
+    "review": [
+      "42729012",
+      "39705612",
+      "42531655",
+      "20586616",
+      "41224416"
+    ],
+    "pmc": [
+      "13560799"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42729012/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PGR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-290",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://f1000research.com/articles/10.12688/f1000research.175934.2/doi",
+        "provider": "F1000 Research Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

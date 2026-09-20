@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "42732869",
+    "doi": "10.1016/j.fct.2026.116382",
+    "title": "Potential of Sweetener Substitutes to Circumvent Metabolic dysfunction-Associated Steatotic Liver Disease and Hepatic Fibrosis Risk: Integrating Network Toxicology and Validation in Vitro."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Epidemiological evidence shows sweetener substitutes, such as aspartame, saccharin, and neotame, carry lower risks of metabolic dysfunction-associated steatotic liver disease (MASLD) and hepatic fibrosis than traditional sweeteners like glucose, fructose, and galactose, but the mechanisms remain unclear. OBJECTIVE: To investigate potential protective mechanisms of sweetener substitutes associated with sweetener-related MASLD and hepatic fibrosis by validation in vitro. METHODS: Risky sweetener-specific targets were identified via network toxicology, intersected with disease targets. Molecular docking was employed to simulate binding interactions, and data from clinical databases and mouse models, including RNA-sequencing (RNA-seq) and histology, were integrated to screen for core genes, which were subsequently validated by in vitro experiments using HepG2 and LX-2 cells. RESULTS: 111 sweetener-specific risky targets were identified, including 31 for MASLD and 54 for fibrosis. Enrichment analysis highlighted the Adenosine monophosphate-activated protein kinase (AMPK) pathway as critical for MASLD, and the growth hormone pathway for fibrosis. Clinical and mouse data confirmed dysregulation of these targets in disease. Sweeteners induced lipid accumulation and LX-2 activation with aberrant target expression, while sweetener substitutes attenuated these effects in the in vitro assays. CONCLUSION: The findings suggest correlational evidence that sweetener substitutes may circumvent MASLD- and hepatic fibrosis-associated risks, potentially involving Forkhead box O1 (FOXO1) / Sterol Regulatory Element Binding Transcription Factor 1 (SREBF1) and Inositol 1,4,5-Trisphosphate Receptor type 1 (ITPR1) / Somatostatin Receptor 2 (SSTR2), respectively. These interpretations are derived from in vitro models and require further causal validation in vivo and in clinic.",
+    "keywords": [
+      "Hepatic Fibrosis",
+      "Hepatotoxicity",
+      "Metabolic dysfunction-Associated Steatotic Liver Disease",
+      "Network Toxicology",
+      "Sweetener Substitutes",
+      "Sweeteners"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cheng, Zhe",
+        "Wei, Wei",
+        "He, Yixian",
+        "Xie, Yixuan",
+        "Lv, Tiansu",
+        "Cao, Yutian",
+        "Yu, Jiangyi",
+        "Zhou, Xiqiao"
+      ],
+      "short_names": [
+        "Cheng Z",
+        "Wei W",
+        "He Y",
+        "Xie Y",
+        "Lv T",
+        "Cao Y",
+        "Yu J",
+        "Zhou X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China.",
+        "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China.",
+        "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China.",
+        "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China.",
+        "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China.",
+        "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China.",
+        "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China. Electronic address: yjy202105@njucm.edu.cn.",
+        "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China. Electronic address: zhouxiqiao@njucm.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cheng, Zhe",
+        "short_name": "Cheng Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Wei",
+        "short_name": "Wei W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "He, Yixian",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Yixuan",
+        "short_name": "Xie Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Tiansu",
+        "short_name": "Lv T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Yutian",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jiangyi",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China. Electronic address: yjy202105@njucm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiqiao",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China; Key Laboratory for Metabolic Diseases in Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China. Electronic address: zhouxiqiao@njucm.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association"
+    ],
+    "journal_abbrev": [
+      "Food Chem Toxicol"
+    ],
+    "pub_date": "2026 Sep 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 23:34",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42732869",
+      "42648040",
+      "41962267",
+      "42723998",
+      "42332016",
+      "42488761",
+      "42505350",
+      "41839758",
+      "41808872",
+      "41321928",
+      "41134388",
+      "42715255",
+      "42653779",
+      "39263327",
+      "42653692",
+      "40708046",
+      "39479173",
+      "39522884",
+      "42589269",
+      "42522177",
+      "41659996",
+      "41684909",
+      "42371361",
+      "42588199",
+      "40582207",
+      "42701175",
+      "42092620",
+      "41876477",
+      "42727715",
+      "31082077",
+      "39780215",
+      "42264075",
+      "41810443",
+      "42465989",
+      "41539093",
+      "42173365",
+      "39037604",
+      "41146521",
+      "41802610",
+      "39383734",
+      "39357546",
+      "41843424",
+      "41951193",
+      "41759558",
+      "41269296",
+      "41247865",
+      "42617521",
+      "42388541",
+      "41653037",
+      "41419042",
+      "40935212",
+      "40507104",
+      "41257904",
+      "41775458",
+      "40427477",
+      "42117407",
+      "41635508",
+      "41936306",
+      "41522335",
+      "41771476",
+      "42173416",
+      "41665239",
+      "42395018",
+      "40647253",
+      "41879845",
+      "41929249",
+      "40520339",
+      "42249304",
+      "42486350",
+      "41288708",
+      "42269031",
+      "39702310",
+      "41810434",
+      "39863255",
+      "42456474",
+      "40615099",
+      "42366585",
+      "40916281",
+      "40522193",
+      "41196673",
+      "40683423",
+      "40062565",
+      "36529247",
+      "40754200",
+      "42162901",
+      "41964026",
+      "39965865",
+      "41668679",
+      "42063103",
+      "42450069",
+      "42701344",
+      "41230086",
+      "40782762",
+      "41793636",
+      "40719417",
+      "41898346",
+      "40349409",
+      "37833759",
+      "42501686",
+      "41706620"
+    ],
+    "review": [
+      "42732869",
+      "42388541",
+      "41653037",
+      "42173416",
+      "39702310",
+      "41196673"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0278-6915(26)00457-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-FOXO1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1323",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

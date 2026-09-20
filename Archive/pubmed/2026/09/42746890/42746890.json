@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42746890",
+    "doi": "10.1080/07391102.2026.2728067",
+    "title": "Electronic structure, DNA-binding, and biological activity correlations in transition metal complexes of a tetradentate Schiff base: experimental and computational studies."
+  },
+  "content": {
+    "abstract": "A novel tetradentate Schiff base ligand (L), synthesized by the condensation of 2,6-diaminopyridine and 3,5-dichlorosalicylaldehyde, and its Cu(II), Ni(II), Co(II), Zn(II), and VO(IV) complexes were prepared and characterized by elemental analysis, FT-IR, UV-Vis, NMR, ESI-mass, magnetic susceptibility, thermal, and EPR studies. Spectroscopic evidence indicates coordination of the ligand through an N(2)O(2) donor set. Based on the available spectroscopic, magnetic, and analytical data, the Cu(II), Ni(II), and Co(II) complexes are proposed to adopt predominantly square-planar geometries, while the Zn(II) and VO(IV) complexes are proposed to possess distorted tetrahedral and square-pyramidal geometries, respectively. DNA-binding interactions with calf thymus DNA were investigated using UV-Vis absorption, viscosity, and electrochemical techniques. The observed hypochromism, minor bathochromic shifts, and viscosity changes suggest a predominantly intercalative binding mode, with intrinsic binding constants (K(b)) ranging from 3.59 x 10(4) to 6.43 x 10(4) M(-1); the Cu(II) complex exhibited the highest affinity. Electrochemical studies further supported complex-DNA interactions. Density functional theory and molecular electrostatic potential analyses revealed enhanced electronic stabilization, with the Cu(II) and VO(IV) complexes exhibiting the smallest HOMO-LUMO energy gaps. These findings are consistent with their stronger DNA-binding affinity and higher biological activity. Molecular docking provided supportive evidence for favorable biomolecular interactions, particularly for the Cu(II) complex. Metal coordination enhanced the antibacterial, antioxidant, and anti-inflammatory activities compared with the free ligand, with the Cu(II) and VO(IV) complexes showing the most promising overall performance. The results demonstrate correlations between electronic structure, DNA-binding behavior, and biological activity in this class of transition metal complexes.",
+    "keywords": [
+      "Antimicrobial activity",
+      "DNA binding",
+      "Density functional theory (DFT)",
+      "Schiff base ligand",
+      "Transition metal complexes"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Michael, Samuel",
+        "Jeyaraman, Porkodi",
+        "Gnanamani, Lavanya",
+        "Raman, Natarajan",
+        "Tamilselvan, Silambarasan",
+        "Nagaraj, Karuppiah"
+      ],
+      "short_names": [
+        "Michael S",
+        "Jeyaraman P",
+        "Gnanamani L",
+        "Raman N",
+        "Tamilselvan S",
+        "Nagaraj K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8927-6796"
+      ],
+      "affiliations": [
+        "Bioinorganic Research Lab, Department of Community Medicine, Saveetha Medical College, Saveetha Institute of Medical and Technical Science, Chennai, India.",
+        "Post Graduate and Research Department of Chemistry, The Standard Fireworks Rajaratnam College for Women (Autonomous), Sivakasi, India.",
+        "Department of Chemistry, Saveetha Engineering College, Chennai, Thandalam.",
+        "Science Instrumentation Centre, Ayya Nadar Janaki Ammal College (Autonomous), Sivakasi, Tamil Nadu, India.",
+        "Department of General Medicine, Saveetha Medical College and Hospital, Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai, Tamilnadu, India.",
+        "Department of General Medicine, Saveetha Medical College and Hospital, Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai, Tamilnadu, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Michael, Samuel",
+        "short_name": "Michael S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinorganic Research Lab, Department of Community Medicine, Saveetha Medical College, Saveetha Institute of Medical and Technical Science, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Jeyaraman, Porkodi",
+        "short_name": "Jeyaraman P",
+        "identifiers": [],
+        "affiliations": [
+          "Post Graduate and Research Department of Chemistry, The Standard Fireworks Rajaratnam College for Women (Autonomous), Sivakasi, India."
+        ]
+      },
+      {
+        "full_name": "Gnanamani, Lavanya",
+        "short_name": "Gnanamani L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Saveetha Engineering College, Chennai, Thandalam."
+        ]
+      },
+      {
+        "full_name": "Raman, Natarajan",
+        "short_name": "Raman N",
+        "identifiers": [],
+        "affiliations": [
+          "Science Instrumentation Centre, Ayya Nadar Janaki Ammal College (Autonomous), Sivakasi, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Tamilselvan, Silambarasan",
+        "short_name": "Tamilselvan S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Medicine, Saveetha Medical College and Hospital, Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai, Tamilnadu, India."
+        ]
+      },
+      {
+        "full_name": "Nagaraj, Karuppiah",
+        "short_name": "Nagaraj K",
+        "identifiers": [
+          "0000-0002-8927-6796"
+        ],
+        "affiliations": [
+          "Department of General Medicine, Saveetha Medical College and Hospital, Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai, Tamilnadu, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biomolecular structure & dynamics"
+    ],
+    "journal_abbrev": [
+      "J Biomol Struct Dyn"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42746890",
+      "37375332",
+      "32794423",
+      "24781660",
+      "34521304",
+      "28247070",
+      "42101184",
+      "42470536",
+      "21715221",
+      "23988527",
+      "32936064",
+      "33336849",
+      "21041112",
+      "39215911",
+      "42660437",
+      "38502407",
+      "34311320",
+      "34379029",
+      "28456118",
+      "22580137",
+      "34182310",
+      "41406516",
+      "37021479",
+      "42248967",
+      "38484588",
+      "28886569",
+      "30767624",
+      "22728967",
+      "37454435",
+      "41447885",
+      "31735357",
+      "32329409",
+      "42049795",
+      "36405328",
+      "33147867",
+      "19403328",
+      "41904185",
+      "42247874",
+      "27696010",
+      "25663196",
+      "41977249",
+      "19505840",
+      "24015086",
+      "28729223",
+      "24835939",
+      "40668475",
+      "27236046",
+      "41406517",
+      "27541797",
+      "39502428",
+      "42203805",
+      "35852297",
+      "26232747",
+      "36289280",
+      "42331929",
+      "26057019",
+      "34065538",
+      "33846920",
+      "25576936",
+      "28415390",
+      "34564801",
+      "26961248",
+      "42689360",
+      "29497214",
+      "37039520",
+      "40366547",
+      "21215688",
+      "32687439",
+      "27794220",
+      "29961205",
+      "25548074",
+      "36551312",
+      "40566870",
+      "36769903",
+      "41751967",
+      "41870768",
+      "27770880",
+      "33997386",
+      "18656419",
+      "36623447",
+      "25528509",
+      "24892525",
+      "41361721",
+      "42096811",
+      "21824811",
+      "41762588",
+      "34211959",
+      "27816797",
+      "20363662",
+      "38791321",
+      "32870457",
+      "28892754",
+      "27165038",
+      "36614421",
+      "24792202",
+      "30990358",
+      "34631124",
+      "33512301",
+      "38133937",
+      "37630378"
+    ],
+    "review": [
+      "42746890",
+      "38133937"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/07391102.2026.2728067?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

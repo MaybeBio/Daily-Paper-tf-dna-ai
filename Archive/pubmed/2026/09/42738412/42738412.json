@@ -1,0 +1,362 @@
+{
+  "identity": {
+    "pmid": "42738412",
+    "doi": "10.3390/cancers18172892",
+    "title": "The MAZ-POLD1 Signaling Axis Drives Cisplatin Resistance in Bladder Cancer by Activating DNA Damage Repair."
+  },
+  "content": {
+    "abstract": "Background: Although POLD1 exhibits oncogenic properties in multiple malignancies, its precise role and regulatory mechanisms in cisplatin resistance of bladder cancer (BC) remain elusive. This study aims to elucidate the functional involvement and upstream regulatory axis of POLD1 in BC chemoresistance. Methods: We evaluated the impact of POLD1 on chemoresistance and DNA damage repair (DDR) using public clinical databases and cisplatin-resistant cell lines, employing CCK-8, colony formation, flow cytometry, immunofluorescence, and comet assays. Protein interactions were examined via Co-IP, molecular docking, and truncation mutant analysis. ChIP-PCR and dual-luciferase reporter assays were utilized to identify the upstream transcription factor. In vivo functionality was further validated in a nude mouse xenograft model. Results: POLD1 was markedly upregulated in BC tissues and cisplatin-resistant BC cells, and its elevated expression was tightly associated with advanced tumor stage, high pathological grade, and poor patient prognosis. Functional experiments verified that POLD1 knockdown aggravated cisplatin-induced DNA damage and drastically sensitized BC cells to cisplatin in vitro, and attenuated tumor growth under cisplatin treatment in vivo, indicating that POLD1 is a key driver of cisplatin resistance. Mechanistically, POLD1 physically interacted with and activated ATM, thereby initiating homologous recombination (HR) repair signaling. Moreover, transcription factor MAZ directly bound the promoter region of POLD1 to transcriptionally upregulate its expression. Rescue experiments in vitro further validated that the MAZ-POLD1 axis facilitates cisplatin resistance by modulating the DDR pathway in BC. Conclusions: Therapeutic targeting of the POLD1-regulated DDR pathway holds great promise as an effective strategy to reverse acquired cisplatin resistance in BC.",
+    "keywords": [
+      "DNA damage repair",
+      "MAZ",
+      "POLD1",
+      "bladder cancer",
+      "cisplatin resistance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Biao",
+        "Chang, Hong",
+        "Wang, Cheng",
+        "Chang, Wei",
+        "Yang, Shujun",
+        "Luo, Yao",
+        "Fu, Yuqiang",
+        "Zhang, Helin",
+        "Li, Xuan",
+        "Li, Can",
+        "Lu, Jianzhong",
+        "Zhang, Su",
+        "Shang, Panfeng"
+      ],
+      "short_names": [
+        "Zhang B",
+        "Chang H",
+        "Wang C",
+        "Chang W",
+        "Yang S",
+        "Luo Y",
+        "Fu Y",
+        "Zhang H",
+        "Li X",
+        "Li C",
+        "Lu J",
+        "Zhang S",
+        "Shang P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9622-9664"
+      ],
+      "affiliations": [
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China.",
+        "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+        "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Biao",
+        "short_name": "Zhang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Hong",
+        "short_name": "Chang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Cheng",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Wei",
+        "short_name": "Chang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Shujun",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Yao",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Yuqiang",
+        "short_name": "Fu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Helin",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuan",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Li, Can",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Jianzhong",
+        "short_name": "Lu J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Su",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      },
+      {
+        "full_name": "Shang, Panfeng",
+        "short_name": "Shang P",
+        "identifiers": [
+          "0000-0002-9622-9664"
+        ],
+        "affiliations": [
+          "Department of Urology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou 730030, China.",
+          "Institute of Urology, Gansu Province Clinical Research Center for Urinary System Diseases, Lanzhou 730030, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancers"
+    ],
+    "journal_abbrev": [
+      "Cancers (Basel)"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42738412",
+      "40541807",
+      "40898244",
+      "39528080",
+      "42151695",
+      "41950365",
+      "41935138",
+      "38810606",
+      "42260555",
+      "41618382",
+      "42436790",
+      "37121465",
+      "41543046",
+      "41944225",
+      "36054300",
+      "40387455",
+      "42547952",
+      "33397362",
+      "40152390",
+      "41327220",
+      "36575478",
+      "42689967",
+      "41444318",
+      "36627670",
+      "42030890",
+      "38629299",
+      "41655531",
+      "40957398",
+      "41613793",
+      "41420190",
+      "42565568",
+      "38365849",
+      "39113057",
+      "39125953",
+      "39805445",
+      "42479311",
+      "42229737",
+      "42470788",
+      "40083924",
+      "41614410",
+      "42220427",
+      "42045965",
+      "40962169",
+      "41063222",
+      "42260484",
+      "30032449",
+      "42432656",
+      "41761192",
+      "40630134",
+      "40382315",
+      "41910821",
+      "40069750",
+      "40747607",
+      "41642421",
+      "37460393",
+      "36939377",
+      "39695810",
+      "40095055",
+      "40233258",
+      "38515112",
+      "36374443",
+      "37460775",
+      "41235254",
+      "32972441",
+      "32878625",
+      "41593691",
+      "27473273",
+      "41997449",
+      "40405208",
+      "37365643",
+      "39805182",
+      "37331996",
+      "42069097",
+      "40133895",
+      "40012043",
+      "32271431",
+      "30064446",
+      "32039732",
+      "41639725",
+      "41523832",
+      "39578867",
+      "41039535",
+      "38163859",
+      "41152972",
+      "41620802",
+      "41272697",
+      "38844957",
+      "41071625",
+      "39924917",
+      "40819422",
+      "38037159",
+      "40594996",
+      "41724379",
+      "39018712",
+      "39376007",
+      "38347781",
+      "40389196",
+      "31396344",
+      "40027190",
+      "39833955"
+    ],
+    "review": [
+      "42738412"
+    ],
+    "pmc": [
+      "13564842"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cancers18172892",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42738412/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ATM-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-912",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

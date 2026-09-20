@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "42749447",
+    "doi": "10.1016/j.jgeb.2026.100777",
+    "title": "Explainable machine learning and multimodal single cell analysis link NR4A2 to CD8(+) T-cell terminal exhaustion and a CD8-adjusted prognostic signature in hepatocellular carcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Terminal exhaustion of CD8(+) tumour-infiltrating lymphocytes constrains the benefit of immune-checkpoint blockade in hepatocellular carcinoma (HCC). The orphan nuclear receptor NR4A2 (Nurr1) belongs to a transcription-factor family implicated in murine T-cell exhaustion, yet its behaviour in the human HCC microenvironment has not been characterised across data modalities. We asked whether NR4A2 is specifically coupled to the terminal-exhaustion programme of human HCC CD8(+) T cells, and whether that coupling is reflected in chromatin, tissue topography and bulk-tumour outcome data. METHODS: We reanalysed publicly available human HCC datasets spanning four modalities: single-cell RNA sequencing (scRNA-seq; GSE149614, GSE98638, GSE151530, GSE125449), single-cell ATAC sequencing (scATAC-seq; GSE227265), imaging-based spatial transcriptomics (10x Xenium human liver-cancer section) and bulk RNA sequencing with overall-survival annotation (TCGA-LIHC). NR4A2 was profiled across cell compartments and, at higher resolution, across CD8(+) T-cell states defined from curated exhaustion, progenitor, effector and naive gene modules. We tested NR4A2-exhaustion coupling at single-cell and pseudobulk level, examined NR4A2 motif accessibility, traced NR4A2 along a diffusion-pseudotime exhaustion axis, evaluated spatial co-localisation of exhausted CD8(+) T cells with tumour-associated macrophages (TAMs), benchmarked machine-learning classifiers of the exhausted state, and compared the human NR4A2 co-expression direction with the published NR4A1/2-knockout phenotype. We additionally trained interpretable gradient-boosted-tree models with SHAP attribution to characterise the exhausted and NR4A2-high states, scored a NR4A2 co-expression regulon, related the programme to immunotherapy-relevant signatures, and modelled overall survival using a CD8-infiltration-adjusted exhaustion score. RESULTS: NR4A2 was broadly expressed across HCC compartments and was highest in myeloid cells rather than being T-cell restricted; at whole-compartment and bulk-tumour resolution it was not a clean exhaustion marker. At the resolution of CD8(+) T-cell states, however, NR4A2 was sharply enriched in terminally exhausted cells (mean 3.62 versus 1.05; Mann-Whitney p  approximately  3.4 x 10(-83)) and correlated with the exhaustion module (single-cell Spearman rho = 0.45) but not with the effector module (rho = 0.06), arguing that NR4A2 is not a generic activation gene. NR4A2 expression increased monotonically along a diffusion-pseudotime axis toward terminal exhaustion (rho = 0.37). In Xenium tissue, exhausted CD8(+) T cells were modestly but significantly enriched in the neighbourhood of TAMs relative to other CD8(+) T cells (permutation p = 0.005). The human NR4A2 co-expression direction was 83% concordant with the published NR4A1/2-knockout differential-expression direction. In bulk TCGA-LIHC, NR4A2 was lower in tumour than adjacent liver and only weakly exhaustion-correlated, consistent with hepatocyte-dominated bulk signal and reinforcing the need for compartment-resolved analysis. Interpretable machine learning attributed NR4A2-high status to an immediate-early/AP-1 activation programme, a NR4A2 co-expression regulon was selectively active in exhausted cells, and the programme tracked the T-cell-inflamed phenotype (rho = 0.87); although raw bulk NR4A2 was non-prognostic, a CD8-infiltration-adjusted exhaustion score independently predicted shorter overall survival (hazard ratio 1.42 per standard deviation, p < 0.001). CONCLUSIONS: A NR4A2 co-expression regulon was most active in exhausted cells; explainable modelling linked NR4A2-high status to an immediate-early/AP-1 activation programme; the programme marked immune-hot tumours; and although bulk NR4A2 was non-prognostic, a CD8-infiltration-adjusted exhaustion score was independently associated with worse overall survival (HR 1.42 per SD, p < 0.001). Across four independent data modalities, NR4A2 behaves as a resolution-dependent marker of the terminal-exhaustion programme in HCC CD8(+) T cells that is spatially associated with the myeloid niche. The convergence supports NR4A2 as a candidate component of an HCC exhaustion signature and a hypothesis-generating target for functional study, while underscoring that its association is masked in bulk and whole-compartment data.",
+    "keywords": [
+      "CD8(+) T-cell exhaustion",
+      "Explainable machine learning (SHAP)",
+      "Hepatocellular carcinoma",
+      "Immune checkpoint blockade",
+      "NR4A2",
+      "Prognostic signature",
+      "Single-cell RNA sequencing",
+      "Spatial transcriptomics",
+      "Tumour microenvironment"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Faisal, Shah",
+        "Sammad, Abdul",
+        "Ejaz, Muhammad Adeel",
+        "Wang, Zhen-Bo"
+      ],
+      "short_names": [
+        "Faisal S",
+        "Sammad A",
+        "Ejaz MA",
+        "Wang ZB"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: shahfaisal11495@gmail.com.",
+        "Department of General Practice, The Fifth Affiliated Hospital of Southern Medical University, Guangzhou 510900, China.",
+        "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Department of General Practice, The Fifth Affiliated Hospital of Southern Medical University, Guangzhou 510900, China. Electronic address: wzboy2172@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Faisal, Shah",
+        "short_name": "Faisal S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: shahfaisal11495@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Sammad, Abdul",
+        "short_name": "Sammad A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Practice, The Fifth Affiliated Hospital of Southern Medical University, Guangzhou 510900, China."
+        ]
+      },
+      {
+        "full_name": "Ejaz, Muhammad Adeel",
+        "short_name": "Ejaz MA",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhen-Bo",
+        "short_name": "Wang ZB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Practice, The Fifth Affiliated Hospital of Southern Medical University, Guangzhou 510900, China. Electronic address: wzboy2172@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal, genetic engineering & biotechnology"
+    ],
+    "journal_abbrev": [
+      "J Genet Eng Biotechnol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749447",
+      "39697729",
+      "42185899",
+      "40770837",
+      "41436831",
+      "41656832",
+      "36889359",
+      "38200408",
+      "37377962",
+      "30120041",
+      "41205757",
+      "38900330",
+      "41738622",
+      "42602267",
+      "33777046",
+      "42406139",
+      "35367533",
+      "39904693",
+      "37024870",
+      "32111241",
+      "42393223",
+      "42239541",
+      "41382107",
+      "42302375",
+      "37936457",
+      "41612852",
+      "42636674",
+      "42742874",
+      "38970067",
+      "42724516",
+      "42180849",
+      "42169880",
+      "29666149",
+      "41345477",
+      "41558300",
+      "42723032",
+      "42738393",
+      "31783783",
+      "37576389",
+      "41326648",
+      "42226614",
+      "42580240",
+      "37274775",
+      "36543376",
+      "41964419",
+      "42474788",
+      "37006257",
+      "38533068",
+      "41234865",
+      "42516367",
+      "39691723",
+      "42237160",
+      "42244292",
+      "41027276",
+      "39478575",
+      "41716413",
+      "40211257",
+      "37492578",
+      "41807965",
+      "42227003",
+      "41570324",
+      "37898752",
+      "42661643",
+      "39289669",
+      "37354485",
+      "41622032",
+      "40918134",
+      "41113120",
+      "42278489",
+      "40874212",
+      "42703320",
+      "41438751",
+      "41601657",
+      "38986249",
+      "38859944",
+      "41567189",
+      "42689981",
+      "42486346",
+      "41200185",
+      "41389669",
+      "37580402",
+      "42364071",
+      "36321557",
+      "31173813",
+      "42294500",
+      "42732672",
+      "41378005",
+      "34544391",
+      "42632122",
+      "42392347",
+      "31353502",
+      "31678303",
+      "40855439",
+      "34414122",
+      "41789089",
+      "42266691",
+      "37383234",
+      "38293784",
+      "42193012",
+      "42500577"
+    ],
+    "review": [
+      "42749447",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1687-157X(26)00121-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

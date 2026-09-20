@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "42729240",
+    "doi": "10.3389/fbinf.2026.1920228",
+    "title": "DBP-CanPred: a machine learning model for predicting cancer-causing mutations in DNA-binding proteins."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: The fundamental cellular processes, including transcriptional regulation, chromatin organization, and genome maintenance, are regulated by DNA-binding proteins (DBPs). Mutations in DBPs can alter protein-DNA interactions, leading to tumor development. However, identifying such driver mutations remains a major challenge due to limitations of experimental approaches. METHODS: We have trained a machine learning model, DBP-CanPred, to identify driver mutations in DBPs. We used the sequence-derived evolutionary features, as well as structure-based features such as mutation-perturbed structural descriptors. RESULTS: We evaluated DBP-CanPred using a curated test set, achieving an AU-ROC of 0.86 and a balanced accuracy of 0.79. Further analysis based on substitution-type showed consistent performance across different categories, especially higher performance on charged residues. In addition, we applied the model on an independent dataset and identified potential driver mutations with high confidence scores. DISCUSSION: The study contributes to understanding mutation patterns in DNA-binding proteins and supports variant interpretation in cancer research.",
+    "keywords": [
+      "DNA-binding proteins",
+      "cancer",
+      "driver mutations",
+      "machine learning",
+      "mutations"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Phogat, Amit",
+        "Krishnan, Sowmya Ramaswamy",
+        "Pandey, Medha",
+        "Gromiha, M Michael"
+      ],
+      "short_names": [
+        "Phogat A",
+        "Krishnan SR",
+        "Pandey M",
+        "Gromiha MM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India.",
+        "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India.",
+        "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India.",
+        "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Phogat, Amit",
+        "short_name": "Phogat A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Krishnan, Sowmya Ramaswamy",
+        "short_name": "Krishnan SR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Pandey, Medha",
+        "short_name": "Pandey M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Gromiha, M Michael",
+        "short_name": "Gromiha MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Front Bioinform"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42729240",
+      "42475469",
+      "39909391",
+      "37651627",
+      "39858648",
+      "31123959",
+      "40439671",
+      "38316843",
+      "31693276",
+      "22574904",
+      "30253099",
+      "41172803",
+      "31245384",
+      "38448134",
+      "36575568",
+      "40474519",
+      "39637461",
+      "39253604",
+      "32920048",
+      "34291709",
+      "39761306",
+      "41310253",
+      "37437362",
+      "24233781",
+      "38747369",
+      "29186632",
+      "36416116",
+      "41133269",
+      "41278790",
+      "39833905",
+      "35378437",
+      "41566703",
+      "37051593",
+      "34068918",
+      "40884974",
+      "41686649",
+      "24846307",
+      "35894475",
+      "38743747",
+      "39150724",
+      "27175787",
+      "39653054",
+      "36266243",
+      "41632843",
+      "34058979",
+      "40297177",
+      "42026805",
+      "36719781",
+      "41530500",
+      "42605800",
+      "38856168",
+      "35731758",
+      "19594868",
+      "41233664",
+      "25592597",
+      "40143108",
+      "40811092",
+      "39968174",
+      "16712732",
+      "20706794",
+      "34799678",
+      "39941209",
+      "23737141",
+      "32153730",
+      "33410688",
+      "41822751",
+      "41292185",
+      "30417935",
+      "34205004",
+      "30957840",
+      "27565741",
+      "42103618",
+      "32859160",
+      "41959628",
+      "42666980",
+      "35943134",
+      "23819521",
+      "32193643",
+      "40487847",
+      "39657630",
+      "36044786",
+      "34932484",
+      "41797598",
+      "40007603",
+      "42158462",
+      "23818492",
+      "36864534",
+      "23912807",
+      "27912731",
+      "39708841",
+      "41067858",
+      "42361753",
+      "42565475",
+      "40570739",
+      "40013003",
+      "32012149",
+      "31228283",
+      "39700860",
+      "34750410",
+      "42554450"
+    ],
+    "review": [
+      "42729240",
+      "39637461",
+      "35894475",
+      "39150724",
+      "32193643",
+      "41797598",
+      "23818492"
+    ],
+    "pmc": [
+      "13562013"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42729240/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fbinf.2026.1920228",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

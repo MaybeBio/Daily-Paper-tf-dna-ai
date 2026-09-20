@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "pmid": "42750327",
+    "doi": "",
+    "title": "[Effects and mechanisms of Jiawei Yigong San on the Th17/Treg balance in food allergy]."
+  },
+  "content": {
+    "abstract": "Objective To explore the effects and mechanisms of Jiawei Yigong San (JWYGS) on the T helper type 17 (Th17)/regulatory T (Treg) cell balance in food allergy (FA). Methods Active components, action targets of JWYGS, and FA-related targets, were screened via network pharmacology. Overlapping targets between JWYGS and FA were used to construct a protein-protein interaction (PPI) network. Gene ontology (GO) and Kyoto encyclopedia of genes and genomes (KEGG) enrichment analyses were performed to predict key signaling pathways. Molecular docking was conducted to validate the binding affinity between the main active components and the predicted targets. Mice were randomly divided into control group, model group, JWYGS low-dose, medium-dose, and high-dose groups, and dexamethasone (DXM) group. An ovalbumin (OVA)-induced FA model was established. During the OVA challenge period, mice received daily intragastric administration, after which allergy and diarrhea scores were assessed. Small intestinal pathology was evaluated by HE staining. Serum ovalbumin-specific immunoglobulin E (OVA-sIgE), interleukin 6 (IL-6), IL-17, IL-2, and IL-10 were measured by ELISA. Small intestinal IL-6, IL-17, and IL-10 protein expression was detected by immunohistochemistry. Splenic Th17 and Treg cells were quantified by flow cytometry, and the Th17/Treg ratio was calculated. The mRNA expression of IL-6, retinoic acid receptor-related orphan receptor gammat (RORgammat), and forkhead box protein P3 (FOXP3) in the small intestine was detected by qPCR. Results Network pharmacology identified 235 active components of JWYGS and 136 common targets. GO and KEGG enrichment analyses highlighted cytokine response and Th17 differentiation. Molecular docking confirmed stable binding between core components and targets. Compared with the control group, the model group exhibited aggravated allergy and diarrhea scores, marked small intestinal inflammation and mucosal damage, elevated serum levels of OVA-sIgE, IL-6, IL-17 and IL-2, along with increased splenic Th17 cell frequency and Th17/Treg ratio. Intestinal IL-6 and IL-17 protein levels as well as IL-6 and RORgammat mRNA expression were upregulated, whereas serum IL-10 levels were decreased, and intestinal expression of IL-10 protein and FOXP3 mRNA was downregulated. After JWYGS treatment, allergy and diarrhea scores were significantly reduced. Small intestinal inflammation and mucosal damage were alleviated. Serum levels of OVA-sIgE, IL-17, IL-6 and IL-2, Th17 cell frequency and the Th17/Treg ratio, intestinal IL-6 and IL-17 protein levels were decreased. IL-6 and RORgammat mRNA expression was downregulated. Serum IL-10 levels were increased and intestinal expression of IL-10 protein and FOXP3 mRNA was upregulated. Moreover, the JWYGS high-dose group demonstrated comparable efficacy to the DXM group. Conclusion JWYGS can ameliorate symptoms and reverse the Th17/Treg imbalance in FA mice, potentially by inhibiting IL-6 transcription and regulating RORgammat/FOXP3 expression.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*T-Lymphocytes, Regulatory/drug effects/immunology",
+      "*Food Hypersensitivity/immunology/drug therapy",
+      "*Th17 Cells/drug effects/immunology",
+      "*Drugs, Chinese Herbal/pharmacology/chemistry",
+      "Mice",
+      "Female",
+      "Ovalbumin/immunology",
+      "Immunoglobulin E/blood",
+      "Molecular Docking Simulation",
+      "Mice, Inbred BALB C",
+      "Nuclear Receptor Subfamily 1, Group F, Member 3/genetics",
+      "Cytokines/genetics/metabolism",
+      "Forkhead Transcription Factors/genetics",
+      "Male",
+      "Interleukin-10",
+      "Signal Transduction/drug effects"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lin, Xiaoxiao",
+        "Liang, Zixuan",
+        "Gong, Xuan",
+        "Liu, Hua"
+      ],
+      "short_names": [
+        "Lin X",
+        "Liang Z",
+        "Gong X",
+        "Liu H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The First Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
+        "The First Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
+        "The First Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
+        "Department of Pediatrics, First Affiliated Hospital, Guangzhou University of Chinese Medicine, Guangzhou 510006, China. *Corresponding author, E-mail: liuhua0321@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lin, Xiaoxiao",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Zixuan",
+        "short_name": "Liang Z",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Xuan",
+        "short_name": "Gong X",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Hua",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, First Affiliated Hospital, Guangzhou University of Chinese Medicine, Guangzhou 510006, China. *Corresponding author, E-mail: liuhua0321@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology"
+    ],
+    "journal_abbrev": [
+      "Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 05:35",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42750327",
+      "42392819",
+      "41839584",
+      "40103380",
+      "28606240",
+      "31030098",
+      "37451490",
+      "38413034",
+      "41997441",
+      "25625352",
+      "36951075",
+      "38409842",
+      "42576498",
+      "40551648",
+      "41904851",
+      "41084481",
+      "24140602",
+      "39973551",
+      "36570798",
+      "29162668",
+      "38621983",
+      "39673582",
+      "36946145",
+      "21923716",
+      "25307458",
+      "41015798",
+      "42011617",
+      "29909346",
+      "41633690",
+      "41786057",
+      "40620119",
+      "25485537",
+      "41763788",
+      "28738533",
+      "33493870",
+      "32186120",
+      "39472803",
+      "23207873",
+      "28440447",
+      "33735338",
+      "41814706",
+      "37335900",
+      "39799424",
+      "27895423",
+      "27875659",
+      "25476076",
+      "35178991",
+      "29475096",
+      "39074420",
+      "42240195",
+      "25824592",
+      "26524044",
+      "42083361",
+      "26926174",
+      "41292238",
+      "28408780",
+      "29040945",
+      "33454107",
+      "36882999",
+      "28709893",
+      "35585694",
+      "32884248",
+      "40641910",
+      "42558510",
+      "31918016",
+      "36215828",
+      "36801213",
+      "34162152",
+      "27216911",
+      "28617942",
+      "36194269",
+      "38308751",
+      "41785726",
+      "36710549",
+      "36049372",
+      "25619457",
+      "40967489",
+      "36163617",
+      "41508189",
+      "28959849",
+      "32570032",
+      "39864418",
+      "27584054",
+      "36252875",
+      "23044435",
+      "42421348",
+      "38952088",
+      "32478427",
+      "21055089",
+      "32640308",
+      "33645621",
+      "38331120",
+      "33595153",
+      "40051262",
+      "34959187",
+      "34234776",
+      "31669322",
+      "25566629",
+      "35242653",
+      "30551499"
+    ],
+    "review": [
+      "42750327"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/foodallergy.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Food Allergy"
+      }
+    ],
+    "text_mined": []
+  }
+}

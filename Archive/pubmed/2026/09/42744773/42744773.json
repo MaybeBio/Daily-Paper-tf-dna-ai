@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42744773",
+    "doi": "10.1038/s41467-026-75107-4",
+    "title": "Mixed positive and negative feedback loops drive diverse single-cell gene expression dynamics."
+  },
+  "content": {
+    "abstract": "Genetic circuits with only a few components can generate complex gene regulatory dynamics. Here, we combine stochastic modelling and single-cell time-lapse microscopy to map how a common circuit motif, the mixed positive/negative feedback loop, gives rise to diverse single-cell behaviours. Our minimal stochastic model of this motif reveals ten distinct classes of dynamic output, including stochastic pulsing, oscillations, and bistability. We systematically map how the circuit's core parameters can be tuned to generate each of the behaviours. Experimental validation in two different mixed feedback circuits in the bacterium Bacillus subtilis, sigma(B) and sigma(V), confirms our model's predictive power. Guided by our simulations, we are able to transition between selected dynamic behaviours by modulating in vivo parameters. Together, these results establish a quantitative framework for how mixed feedback loops generate diverse single-cell dynamics, improving our understanding of this common biological network motif and informing our efforts to engineer them for synthetic biology applications.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Bacillus subtilis/genetics/metabolism",
+      "*Feedback, Physiological",
+      "*Gene Expression Regulation, Bacterial",
+      "*Gene Regulatory Networks",
+      "Single-Cell Analysis",
+      "Stochastic Processes",
+      "Bacterial Proteins/genetics/metabolism",
+      "Single-Cell Gene Expression Analysis",
+      "Sigma Factor/genetics/metabolism",
+      "Time-Lapse Imaging"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Loman, Torkel E",
+        "Schwall, Christian P",
+        "Saez, Teresa",
+        "Liu, Yujia",
+        "Locke, James C W"
+      ],
+      "short_names": [
+        "Loman TE",
+        "Schwall CP",
+        "Saez T",
+        "Liu Y",
+        "Locke JCW"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0670-1943"
+      ],
+      "affiliations": [
+        "Sainsbury Laboratory, University of Cambridge, Cambridge, UK.",
+        "Computer Science and AI Laboratory (CSAIL), Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Mathematical Institute, University of Oxford, Oxford, UK.",
+        "Sainsbury Laboratory, University of Cambridge, Cambridge, UK.",
+        "Sainsbury Laboratory, University of Cambridge, Cambridge, UK.",
+        "Sainsbury Laboratory, University of Cambridge, Cambridge, UK.",
+        "Department of Biochemistry and Molecular Biology, University of Chicago, Chicago, IL, USA.",
+        "Sainsbury Laboratory, University of Cambridge, Cambridge, UK. james.locke@slcu.cam.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Loman, Torkel E",
+        "short_name": "Loman TE",
+        "identifiers": [],
+        "affiliations": [
+          "Sainsbury Laboratory, University of Cambridge, Cambridge, UK.",
+          "Computer Science and AI Laboratory (CSAIL), Massachusetts Institute of Technology, Cambridge, MA, USA.",
+          "Mathematical Institute, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Schwall, Christian P",
+        "short_name": "Schwall CP",
+        "identifiers": [],
+        "affiliations": [
+          "Sainsbury Laboratory, University of Cambridge, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Saez, Teresa",
+        "short_name": "Saez T",
+        "identifiers": [],
+        "affiliations": [
+          "Sainsbury Laboratory, University of Cambridge, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Liu, Yujia",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Sainsbury Laboratory, University of Cambridge, Cambridge, UK.",
+          "Department of Biochemistry and Molecular Biology, University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Locke, James C W",
+        "short_name": "Locke JCW",
+        "identifiers": [
+          "0000-0003-0670-1943"
+        ],
+        "affiliations": [
+          "Sainsbury Laboratory, University of Cambridge, Cambridge, UK. james.locke@slcu.cam.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42744773",
+      "21979936",
+      "32075967",
+      "37540712",
+      "34286912",
+      "29454936",
+      "42475469",
+      "17406083",
+      "17498739",
+      "19658748",
+      "23693123",
+      "26929302",
+      "22303282",
+      "21935351",
+      "17890309",
+      "31604312",
+      "1469717",
+      "30715747",
+      "19853288",
+      "41250383",
+      "40494664",
+      "26728081",
+      "22381678",
+      "16554821",
+      "34607562",
+      "20025668",
+      "22812682",
+      "28947816",
+      "26110430",
+      "9324264",
+      "23572583",
+      "23169620",
+      "39427753",
+      "29986061",
+      "39591971",
+      "22205920",
+      "17277187",
+      "17569828",
+      "11532142",
+      "28648455",
+      "18242639",
+      "22329926",
+      "29758769",
+      "21980382",
+      "25323318",
+      "16357223",
+      "31869986",
+      "23033921",
+      "28007935",
+      "15819619",
+      "24461022",
+      "22210769",
+      "23407164",
+      "23011599",
+      "26686885",
+      "26901131",
+      "8830234",
+      "42133690",
+      "41721509",
+      "40772768",
+      "21856855",
+      "25599335",
+      "22713856",
+      "18971928",
+      "20154131",
+      "40842238",
+      "8682789",
+      "11988534",
+      "23995631",
+      "30559445",
+      "18179421",
+      "1744042",
+      "33405217",
+      "41992703",
+      "22511268",
+      "37728605",
+      "8355618",
+      "8460142",
+      "16045607",
+      "30396900",
+      "25845237",
+      "29529037",
+      "20018658",
+      "15819616",
+      "15383836",
+      "29358498",
+      "9004507",
+      "27542896",
+      "38236030",
+      "29102361",
+      "16824103",
+      "29363854",
+      "12603732",
+      "16497325",
+      "8921856",
+      "33538382",
+      "19850620",
+      "8320211",
+      "15759655",
+      "19333603"
+    ],
+    "review": [
+      "42744773",
+      "22381678",
+      "28648455",
+      "26686885",
+      "26901131",
+      "8830234",
+      "16045607",
+      "15819616",
+      "33538382"
+    ],
+    "pmc": [
+      "13578229"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-75107-4",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

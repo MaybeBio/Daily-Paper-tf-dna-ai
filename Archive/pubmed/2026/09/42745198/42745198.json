@@ -1,0 +1,307 @@
+{
+  "identity": {
+    "pmid": "42745198",
+    "doi": "10.1111/nmo.70439",
+    "title": "Muscularis EGR1 Deficiency Impairs M2 Macrophage Polarization and Disrupts Gastric Motility in Diabetic Gastroparesis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Diabetic gastroparesis (DGP) is characterized by delayed gastric emptying and limited mechanism-based therapies. Pyloric dysfunction has been associated with loss of interstitial cells of Cajal (ICC) and altered muscularis macrophage polarization. This study examined whether early growth response 1 (EGR1) links macrophage polarization to ICC integrity in DGP. METHODS: Human full-thickness gastric body transcriptomic data (GSE115601) were analyzed using differential expression and exploratory machine learning, with validation in single-cell RNA sequencing data (GSE252126) and clinical pyloric muscularis biopsies. A streptozotocin-induced DGP rat model was used to test local pyloric adeno-associated virus 9 (AAV9)-mediated EGR1 restoration. Macrophage and primary ICC experiments included EGR1 knockdown, thioredoxin 2 (TXN2) rescue, mitochondrial respiration analysis, cytokine profiling, C-C motif chemokine ligand 5 (CCL5) neutralization, and C-C chemokine receptor 5 (CCR5) blockade. RESULTS: EGR1 was downregulated in DGP gastric body samples and subsequently validated in human pyloric muscularis biopsies, with enrichment in macrophages, particularly M2 macrophages. EGR1 loss reduced TXN2 transcription and mitochondrial oxidative phosphorylation (OXPHOS), impaired M2 polarization, and increased macrophage CCL5 secretion. Conditioned medium from EGR1-deficient macrophages induced Ca(2+) dysregulation, NLR family pyrin domain containing 3 (NLRP3) activation, and ICC marker loss; these effects were attenuated by CCL5 neutralization or CCR5 blockade. Local AAV9-EGR1 restoration increased M2 macrophage and ICC marker expression, improved gastric emptying, and regularized pyloric slow waves without improving systemic glucose control. CONCLUSIONS: Muscularis EGR1 deficiency may promote DGP by disrupting TXN2-dependent macrophage OXPHOS and triggering CCL5/CCR5/NLRP3-mediated ICC injury. Local EGR1 restoration improved gastric motility and may represent a therapeutic strategy.",
+    "keywords": [
+      "EGR1",
+      "diabetic gastroparesis",
+      "interstitial cells of Cajal",
+      "macrophages polarization",
+      "mitochondrial OXPHOS"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Early Growth Response Protein 1/deficiency/genetics/metabolism",
+      "*Gastroparesis/metabolism/physiopathology/genetics",
+      "*Macrophages/metabolism",
+      "Humans",
+      "Rats",
+      "*Gastrointestinal Motility/physiology",
+      "*Diabetes Mellitus, Experimental/complications/metabolism",
+      "Interstitial Cells of Cajal/metabolism",
+      "Male",
+      "*Diabetes Complications/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xie, Ni",
+        "Su, Guanhao",
+        "Wu, Ying",
+        "Peng, Kui",
+        "Mei, Zhu",
+        "Chen, Wei",
+        "Xu, Kai",
+        "Li, Baiwen"
+      ],
+      "short_names": [
+        "Xie N",
+        "Su G",
+        "Wu Y",
+        "Peng K",
+        "Mei Z",
+        "Chen W",
+        "Xu K",
+        "Li B"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-0584-9421",
+        "ORCID: 0000-0003-1884-7296"
+      ],
+      "affiliations": [
+        "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xie, Ni",
+        "short_name": "Xie N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Su, Guanhao",
+        "short_name": "Su G",
+        "identifiers": [
+          "0009-0008-0584-9421"
+        ],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Ying",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Kui",
+        "short_name": "Peng K",
+        "identifiers": [
+          "0000-0003-1884-7296"
+        ],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Mei, Zhu",
+        "short_name": "Mei Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Wei",
+        "short_name": "Chen W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Kai",
+        "short_name": "Xu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Baiwen",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neurogastroenterology and motility"
+    ],
+    "journal_abbrev": [
+      "Neurogastroenterol Motil"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42745198",
+      "29501441",
+      "42565421",
+      "34368880",
+      "36571220",
+      "28066953",
+      "40538511",
+      "41116986",
+      "29318852",
+      "39470921",
+      "41696103",
+      "34426111",
+      "32211350",
+      "31482734",
+      "26054193",
+      "25168158",
+      "26940535",
+      "42218355",
+      "38653383",
+      "27781339",
+      "26502542",
+      "33421511",
+      "28931726",
+      "29560632",
+      "29317209",
+      "33728017",
+      "32718570",
+      "25041465",
+      "19614868",
+      "24391842",
+      "29052298",
+      "18926825",
+      "27340351",
+      "36153455",
+      "42702763",
+      "41735066",
+      "29274173",
+      "21349842",
+      "26773730",
+      "39689756",
+      "29071981",
+      "40456378",
+      "41134344",
+      "32418177",
+      "42720284",
+      "40837348",
+      "30968342",
+      "37373116",
+      "20178793",
+      "42032962",
+      "41734875",
+      "28577248",
+      "20185690",
+      "41935465",
+      "20093561",
+      "19566589",
+      "28639130",
+      "29072012",
+      "22650155",
+      "39620220",
+      "39748408",
+      "32963744",
+      "28958133",
+      "38873849",
+      "41435748",
+      "34190354",
+      "41713812",
+      "39947648",
+      "42208328",
+      "20040059",
+      "37581362",
+      "23534481",
+      "42363173",
+      "42519343",
+      "29854081",
+      "29966170",
+      "29094779",
+      "36740184",
+      "33642830",
+      "41569746",
+      "39350174",
+      "30638082",
+      "28867733",
+      "42134621",
+      "36036097",
+      "34698457",
+      "42334698",
+      "11016458",
+      "30843201",
+      "35088751",
+      "41967181",
+      "18640116",
+      "34913225",
+      "22339929",
+      "32630607",
+      "25445962",
+      "9170553",
+      "40623460",
+      "42116782",
+      "23448582"
+    ],
+    "review": [
+      "42745198",
+      "25168158",
+      "32718570",
+      "41134344",
+      "30638082",
+      "42334698"
+    ],
+    "pmc": [
+      "13578571"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/diabetescomplications.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Diabetes Complications"
+      },
+      {
+        "url": "https://doi.org/10.1111/nmo.70439",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-177",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/diabetescomplications.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Diabetes Complications"
+      }
+    ],
+    "text_mined": []
+  }
+}

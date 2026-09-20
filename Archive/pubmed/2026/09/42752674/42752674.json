@@ -1,0 +1,309 @@
+{
+  "identity": {
+    "pmid": "42752674",
+    "doi": "10.1371/journal.pone.0358440",
+    "title": "Computational screening of oncogenic genetic variations in tumor suppressor proteins driving gastric cancer pathogenesis."
+  },
+  "content": {
+    "abstract": "Gastric cancer (GC) is currently the fifth most common cancer globally, often driven by dysregulation of tumor suppressor pathways. While individual studies on genetic variations of proteins are common, a comprehensive systems-level analysis of proteins regulating GC pathways showing both expression dysregulation and high mutation frequency remains unexplored. Therefore, our study aimed to identify critical genes and their pathogenic variations disrupting the tumor-suppressive capacity of the GC pathway. We employed a deep learning-based graph neural network model to identify genes exhibiting both dysregulated expression and high mutation propensity in GC. Key tumor suppressor proteins (TP53, CDH1, and APC), their genetic variants, and molecular components were subjected to in-depth computational analyses, including evolutionary conservation profiling, biophysical energetics assessment, and unsupervised machine learning for conformational change detection. Variants were validated from the cBioPortal database and patient survival data. Our deep learning model demonstrated exceptional performance (MSE: 0.00482 +/- 0.00023 to 0.07108 +/- 0.00437; R(2): 0.85098 +/- 0.01903 to 0.85899 +/- 0.01987; AUC-ROC: 0.93095 +/- 0.01758 to 0.93309 +/- 0.00725) and identified 1,886 genes exhibiting both differential expression and mutation propensity. Graph neural network analysis revealed TP53 as the most prominent hub gene (47.6% mutation frequency), followed by ERBB2 (8.8%), CDH1 (8.2%), and APC (6.8%). Variants validation from cBioPortal confirmed the association of GC with 36 missense SNPs that critically affect post-translational modification (methylation and phosphorylation) sites and 60 nonsense SNPs. Furthermore, TP53, CDH1, and APC were significantly upregulated in GC tissues and associated with altered patient survival (p < 0.05). The transcription factor EZH2 and miRNA miR-129-5p were identified as key regulatory elements affecting all three tumor suppressors. Additionally, mutations trigger dysregulation of multiple common oncogenes, including CCNE1/2 and FGFR2. This systems-level analysis provides a molecular framework demonstrating how pathogenic variants fundamentally compromise tumor suppressor proteins in GC pathways, leading to the identification of potential biomarkers and precise therapeutic decisions for GC intervention.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Stomach Neoplasms/genetics/pathology",
+      "Graph Neural Networks",
+      "Cadherins/genetics",
+      "Antigens, CD/genetics",
+      "Tumor Suppressor Protein p53/genetics",
+      "Gene Expression Regulation, Neoplastic",
+      "*Computational Biology/methods",
+      "Adenomatous Polyposis Coli Protein/genetics",
+      "Mutation",
+      "*Tumor Suppressor Proteins/genetics",
+      "*Genetic Variation",
+      "Deep Learning"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mim, Faria Ferdouse",
+        "Sumiya, Taslima Akter",
+        "Khanam, Roksana",
+        "Akter, Jannati",
+        "Arzu, Farhana",
+        "Haque, Samia",
+        "Miah, Md Roman",
+        "Islam, K M Tanjida",
+        "Mahmud, Shahin"
+      ],
+      "short_names": [
+        "Mim FF",
+        "Sumiya TA",
+        "Khanam R",
+        "Akter J",
+        "Arzu F",
+        "Haque S",
+        "Miah MR",
+        "Islam KMT",
+        "Mahmud S"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-0927-3617",
+        "ORCID: 0000-0002-5113-2527"
+      ],
+      "affiliations": [
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh.",
+        "Department of Clinical Pharmacy and Pharmacology, University of Dhaka, Dhaka, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mim, Faria Ferdouse",
+        "short_name": "Mim FF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Sumiya, Taslima Akter",
+        "short_name": "Sumiya TA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Khanam, Roksana",
+        "short_name": "Khanam R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Akter, Jannati",
+        "short_name": "Akter J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Arzu, Farhana",
+        "short_name": "Arzu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Haque, Samia",
+        "short_name": "Haque S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Miah, Md Roman",
+        "short_name": "Miah MR",
+        "identifiers": [
+          "0009-0001-0927-3617"
+        ],
+        "affiliations": [
+          "Department of Clinical Pharmacy and Pharmacology, University of Dhaka, Dhaka, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Islam, K M Tanjida",
+        "short_name": "Islam KMT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Mahmud, Shahin",
+        "short_name": "Mahmud S",
+        "identifiers": [
+          "0000-0002-5113-2527"
+        ],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902, Bangladesh."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:32",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42752674",
+      "40926327",
+      "42021891",
+      "25340495",
+      "34968391",
+      "31496624",
+      "39354571",
+      "42475469",
+      "37608794",
+      "28576136",
+      "30474112",
+      "41798945",
+      "33370709",
+      "30376837",
+      "31949278",
+      "41132671",
+      "18069630",
+      "40450287",
+      "38717153",
+      "30866865",
+      "41291892",
+      "23669186",
+      "41780474",
+      "32801999",
+      "36479114",
+      "39904894",
+      "33525650",
+      "12800196",
+      "33437215",
+      "30258285",
+      "41716413",
+      "33470887",
+      "24861525",
+      "42123445",
+      "30180862",
+      "38913913",
+      "29568201",
+      "31395065",
+      "15802015",
+      "29032608",
+      "30997579",
+      "40725485",
+      "34750410",
+      "40652278",
+      "40240889",
+      "41436831",
+      "39400980",
+      "40084401",
+      "38790205",
+      "30642281",
+      "26401016",
+      "40087784",
+      "30134915",
+      "40997906",
+      "28526081",
+      "34686186",
+      "32235846",
+      "34663825",
+      "17650424",
+      "30948703",
+      "41065300",
+      "42561036",
+      "32558489",
+      "41832516",
+      "33217450",
+      "27074591",
+      "42107952",
+      "39181686",
+      "33032635",
+      "32650804",
+      "41496077",
+      "32750050",
+      "23526092",
+      "42538731",
+      "42280204",
+      "25954972",
+      "25315765",
+      "29577179",
+      "42064062",
+      "31243897",
+      "41656416",
+      "38860335",
+      "27127885",
+      "31081222",
+      "34924820",
+      "41804278",
+      "21356067",
+      "30805585",
+      "31987036",
+      "40205338",
+      "35996248",
+      "41735610",
+      "32242863",
+      "39294296",
+      "22228973",
+      "40353420",
+      "30072583",
+      "33422657",
+      "9438104",
+      "40591167"
+    ],
+    "review": [
+      "42752674",
+      "25340495",
+      "23669186"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/stomachcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Stomach Cancer"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0358440",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERBB2-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

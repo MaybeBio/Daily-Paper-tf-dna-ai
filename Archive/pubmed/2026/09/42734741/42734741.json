@@ -1,0 +1,245 @@
+{
+  "identity": {
+    "pmid": "42734741",
+    "doi": "10.1007/978-1-0716-5539-9_1",
+    "title": "Inferring Gene Regulatory Networks in Stem Cells: Methods and Applications."
+  },
+  "content": {
+    "abstract": "Gene regulatory networks (GRNs) represent the complex interplay of transcription factors, regulatory elements, and target genes that orchestrate cellular identity and function, playing a crucial role in the differentiation and maintenance of stem cells. This chapter provides an overview of experimental and computational methodologies for inferring GRNs, with particular emphasis on single-cell approaches. We first review key experimental techniques for detecting transcription factor binding sites, chromatin accessibility, and DNA motifs, alongside essential databases that support GRN reconstruction. We then introduce computational inference methods that can be categorized into four principal frameworks: correlation-based approaches, regression and machine learning models, probabilistic and deep learning methods, and integrative or message-passing frameworks. To illustrate practical application, we present a case study applying the pySCENIC workflow to a peripheral blood mononuclear cell single-cell RNA sequencing dataset from mouse, demonstrating how regulon-based analysis can reveal cell-type-specific regulatory programs. This chapter aims to serve as a practical guide for researchers seeking to understand and implement GRN inference methodologies in stem cell biology and related fields.",
+    "keywords": [
+      "Gene regulatory networks",
+      "Network inference",
+      "Regulons",
+      "Single-cell sequencing",
+      "pySCENIC"
+    ],
+    "mesh_terms": [
+      "*Gene Regulatory Networks",
+      "Animals",
+      "*Stem Cells/metabolism/cytology",
+      "*Computational Biology/methods",
+      "Single-Cell Analysis/methods",
+      "Mice",
+      "Transcription Factors/metabolism",
+      "Single-Cell Gene Expression Analysis",
+      "Binding Sites",
+      "Chromatin/metabolism/genetics",
+      "Machine Learning",
+      "Humans",
+      "Regulon"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Solano-Galarza, Daniela",
+        "Roeh, Simone",
+        "Walzthoeni, Thomas"
+      ],
+      "short_names": [
+        "Solano-Galarza D",
+        "Roeh S",
+        "Walzthoeni T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Core Facility Bioinformatics and Statistics, Helmholtz Zentrum Munchen GmbH - German Research Center for Environmental Health, 85764, Neuherberg, Germany.",
+        "Core Facility Bioinformatics and Statistics, Helmholtz Zentrum Munchen GmbH - German Research Center for Environmental Health, 85764, Neuherberg, Germany. simone.roeh@helmholtz-munich.de.",
+        "Core Facility Bioinformatics and Statistics, Helmholtz Zentrum Munchen GmbH - German Research Center for Environmental Health, 85764, Neuherberg, Germany. thomas.walzthoeni@helmholtz-munich.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Solano-Galarza, Daniela",
+        "short_name": "Solano-Galarza D",
+        "identifiers": [],
+        "affiliations": [
+          "Core Facility Bioinformatics and Statistics, Helmholtz Zentrum München GmbH - German Research Center for Environmental Health, 85764, Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Roeh, Simone",
+        "short_name": "Roeh S",
+        "identifiers": [],
+        "affiliations": [
+          "Core Facility Bioinformatics and Statistics, Helmholtz Zentrum München GmbH - German Research Center for Environmental Health, 85764, Neuherberg, Germany. simone.roeh@helmholtz-munich.de."
+        ]
+      },
+      {
+        "full_name": "Walzthoeni, Thomas",
+        "short_name": "Walzthoeni T",
+        "identifiers": [],
+        "affiliations": [
+          "Core Facility Bioinformatics and Statistics, Helmholtz Zentrum München GmbH - German Research Center for Environmental Health, 85764, Neuherberg, Germany. thomas.walzthoeni@helmholtz-munich.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 17:40",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734741",
+      "37365273",
+      "40251476",
+      "39207727",
+      "30547796",
+      "38980373",
+      "42475469",
+      "42059479",
+      "41300707",
+      "38950180",
+      "40062616",
+      "41288963",
+      "41310370",
+      "31985403",
+      "41317402",
+      "41093852",
+      "38653489",
+      "38609714",
+      "40633682",
+      "41984780",
+      "42653305",
+      "42681526",
+      "34251625",
+      "40966655",
+      "32019417",
+      "42013480",
+      "42681529",
+      "31062304",
+      "41043336",
+      "24042128",
+      "39417321",
+      "41191474",
+      "40708222",
+      "40116659",
+      "37788349",
+      "36695505",
+      "41067887",
+      "41354912",
+      "37985457",
+      "39326643",
+      "32958603",
+      "41518505",
+      "28254369",
+      "39939367",
+      "42061403",
+      "37244909",
+      "31678628",
+      "40662821",
+      "31053165",
+      "33170214",
+      "42243114",
+      "34244796",
+      "34251624",
+      "41665764",
+      "39535258",
+      "39062480",
+      "40591481",
+      "42074532",
+      "29914350",
+      "35976093",
+      "40409400",
+      "40220759",
+      "38896510",
+      "39605181",
+      "41883144",
+      "39700048",
+      "37889053",
+      "35062026",
+      "30359306",
+      "31678629",
+      "39348410",
+      "41134910",
+      "35050715",
+      "39082647",
+      "30547400",
+      "22456606",
+      "41688827",
+      "40631795",
+      "36450117",
+      "38342857",
+      "40086448",
+      "38940155",
+      "41544912",
+      "41315351",
+      "32054475",
+      "41554051",
+      "29558892",
+      "30445315",
+      "36626328",
+      "42636032",
+      "32561888",
+      "39401117",
+      "39311699",
+      "31062312",
+      "27580035",
+      "39509434",
+      "24228871",
+      "38744843",
+      "32188700",
+      "42650039"
+    ],
+    "review": [
+      "42734741",
+      "37365273",
+      "39207727",
+      "42681526",
+      "40966655",
+      "42013480",
+      "36695505",
+      "39939367",
+      "31678628",
+      "42074532",
+      "31678629"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/stemcells.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Stem Cells"
+      },
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5539-9_1",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3399",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

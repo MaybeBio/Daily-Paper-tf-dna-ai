@@ -1,0 +1,220 @@
+{
+  "identity": {
+    "pmid": "42757766",
+    "doi": "10.1093/biomtc/ujag154",
+    "title": "A tree-based kernel for densities and its applications in clustering DNase-seq profiles."
+  },
+  "content": {
+    "abstract": "Modeling multiple sampling densities within a hierarchical framework enables borrowing of information across samples. These \"density random effects\" can act as kernels in latent variable models to represent exchangeable subgroups or clusters. A key feature of these kernels is the (functional) covariance they induce, which determines how densities are grouped in mixture models. Our motivating problem is clustering chromatin accessibility profiles from high-throughput DNase-seq experiments to detect transcription factor (TF) binding. TF binding typically produces footprint profiles with spatial patterns, creating long-range dependency across genomic locations. Existing nonparametric hierarchical models impose restrictive covariance assumptions and cannot accommodate such dependencies, often leading to biologically uninformative clusters. We propose a nonparametric density kernel that is flexible enough to capture diverse covariance structures and adapts to various spatial patterns of TF footprints. The kernel specifies dyadic tree splitting probabilities via a multivariate logit-normal model with a sparse precision matrix. Bayesian inference for latent variable models using this kernel is implemented through Gibbs sampling with Polya-Gamma augmentation. Extensive simulations show that our kernel substantially improves clustering accuracy. We apply the proposed mixture model to DNase-seq data from the Encyclopedia of DNA Elements project, which results in biologically meaningful clusters corresponding to binding events of two common TFs.",
+    "keywords": [
+      "Bayesian inference",
+      "hierarchical models",
+      "latent variable models",
+      "nonparametric models",
+      "tree-based models"
+    ],
+    "mesh_terms": [
+      "Clustering Algorithms",
+      "Cluster Analysis",
+      "Bayes Theorem",
+      "Computer Simulation",
+      "*Models, Statistical",
+      "*Deoxyribonucleases/genetics",
+      "Transcription Factors/metabolism",
+      "*Sequence Analysis, DNA/methods",
+      "Algorithms",
+      "Humans",
+      "Biometry/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Yuliang",
+        "Luo, Kaixuan",
+        "Ma, Li"
+      ],
+      "short_names": [
+        "Xu Y",
+        "Luo K",
+        "Ma L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7255-8930",
+        "ORCID: 0000-0003-1515-5737",
+        "ORCID: 0000-0002-0159-3296"
+      ],
+      "affiliations": [
+        "Department of Applied Mathematics and Statistics, Johns Hopkins University, Baltimore, MD 21218, United States.",
+        "Department of Human Genetics, University of Chicago, Chicago, IL 60637, United States.",
+        "Department of Statistics & Data Science Institute, University of Chicago, Chicago, IL 60637, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Yuliang",
+        "short_name": "Xu Y",
+        "identifiers": [
+          "0000-0002-7255-8930"
+        ],
+        "affiliations": [
+          "Department of Applied Mathematics and Statistics, Johns Hopkins University, Baltimore, MD 21218, United States."
+        ]
+      },
+      {
+        "full_name": "Luo, Kaixuan",
+        "short_name": "Luo K",
+        "identifiers": [
+          "0000-0003-1515-5737"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, University of Chicago, Chicago, IL 60637, United States."
+        ]
+      },
+      {
+        "full_name": "Ma, Li",
+        "short_name": "Ma L",
+        "identifiers": [
+          "0000-0002-0159-3296"
+        ],
+        "affiliations": [
+          "Department of Statistics & Data Science Institute, University of Chicago, Chicago, IL 60637, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biometrics"
+    ],
+    "journal_abbrev": [
+      "Biometrics"
+    ],
+    "pub_date": "2026 Jul 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 12:26",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42757766",
+      "42136052",
+      "24575781",
+      "25294828",
+      "26406244",
+      "42613050",
+      "26333238",
+      "42475469",
+      "41310253",
+      "25957350",
+      "31077301",
+      "18801195",
+      "42466843",
+      "20838582",
+      "34784270",
+      "14871871",
+      "34363675",
+      "28750606",
+      "12217911",
+      "35240993",
+      "19358217",
+      "42150890",
+      "27835030",
+      "42101281",
+      "26704972",
+      "41569628",
+      "36130957",
+      "19948746",
+      "31870278",
+      "16675467",
+      "31164146",
+      "31443856",
+      "34292930",
+      "38885953",
+      "29187152",
+      "28961802",
+      "32814038",
+      "27993786",
+      "34474504",
+      "40785396",
+      "39141240",
+      "35864476",
+      "17328811",
+      "24051920",
+      "40986279",
+      "27124115",
+      "24441470",
+      "37603575",
+      "22955984",
+      "39656741",
+      "36127929",
+      "32660981",
+      "19173703",
+      "42466840",
+      "35895854",
+      "41311194",
+      "41855570",
+      "17319944",
+      "18411210",
+      "19875860",
+      "41572173",
+      "19210744",
+      "34305152",
+      "18162115",
+      "30791920",
+      "28343169",
+      "34457106",
+      "29579341",
+      "24071585",
+      "33031597",
+      "23468465",
+      "26116565",
+      "39930893",
+      "42166191",
+      "12926714",
+      "40971571",
+      "37715500",
+      "21914728",
+      "24191069",
+      "31368480",
+      "38913814",
+      "42145180",
+      "37652405",
+      "16488893",
+      "28111783",
+      "40971569",
+      "31222729",
+      "26016777",
+      "34672001",
+      "20528864",
+      "19432780",
+      "26333239",
+      "28541376",
+      "25145040",
+      "39662201",
+      "12627170",
+      "18366617",
+      "26901649",
+      "20110247",
+      "33704776"
+    ],
+    "review": [
+      "42757766",
+      "39656741"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

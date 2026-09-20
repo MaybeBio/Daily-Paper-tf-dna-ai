@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42730918",
+    "doi": "10.1007/s00240-026-02053-7",
+    "title": "beta-carotene attenuates calcium oxalate crystal-induced renal injury through suppression of NF-kappaB-mediated inflammation."
+  },
+  "content": {
+    "abstract": "Calcium oxalate (CaOx) nephrolithiasis represents the most prevalent form of kidney stone disease and is characterized by persistent renal inflammation and tissue damage. beta-Carotene, a naturally occurring carotenoid with well-documented anti-inflammatory properties, has demonstrated beneficial effects in a variety of inflammatory conditions; however, its potential role in CaOx crystal-associated renal injury remains largely unexplored. In this study, the effects of beta-carotene on CaOx-induced renal damage were evaluated using both cellular and animal models. In human renal proximal tubular epithelial (HK-2) cells, beta-carotene effectively alleviated calcium oxalate monohydrate (COM)-induced injury, decreased kidney injury molecule-1 (KIM-1) expression, and reduced the production of pro-inflammatory mediators, including TNF-alpha, IL-1beta, IL-6, and MCP-1. Similarly, in a glyoxylate-induced nephrocalcinosis mouse model, beta-carotene attenuated CaOx crystal accumulation, improved renal histopathological alterations and functional impairment, and suppressed inflammatory responses. To investigate the underlying mechanisms, network pharmacology and molecular docking analyses were conducted. A total of 145 overlapping targets were identified, and enrichment analyses identified NF-kappaB signaling as one of the candidate pathways potentially involved in the protective effects of beta-carotene. Molecular docking analysis suggested favorable binding affinities between beta-carotene and several key targets. Experimental validation demonstrated that beta-carotene markedly inhibited NF-kappaB activation in both in vitro and in vivo settings, whereas pharmacological activation of NF-kappaB partially abolished its beneficial effects. Taken together, these findings indicate that beta-carotene ameliorates CaOx crystal-induced renal injury and inflammation, at least in part through suppression of NF-kappaB signaling, and may offer a potential basis for the development of novel preventive and therapeutic approaches for kidney stone disease.",
+    "keywords": [
+      "Kidney stones",
+      "Network pharmacology NF-kappaBeta",
+      "beta-Carotene"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*beta Carotene/pharmacology/therapeutic use",
+      "*NF-kappa B/metabolism/antagonists & inhibitors",
+      "Mice",
+      "Humans",
+      "*Calcium Oxalate/chemistry",
+      "Disease Models, Animal",
+      "Male",
+      "Signal Transduction/drug effects/immunology",
+      "Cell Line",
+      "Kidney Tubules, Proximal/cytology/drug effects",
+      "Molecular Docking Simulation",
+      "*Inflammation/drug therapy",
+      "*Nephrocalcinosis/chemically induced/drug therapy/pathology",
+      "Kidney/pathology/drug effects",
+      "*Nephrolithiasis/drug therapy"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Su, Mingqin",
+        "Guan, Yuxiang",
+        "Wei, Hongquan",
+        "Chen, Lijun",
+        "Dong, Wei"
+      ],
+      "short_names": [
+        "Su M",
+        "Guan Y",
+        "Wei H",
+        "Chen L",
+        "Dong W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China. Smq93885@163.com.",
+        "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China.",
+        "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China.",
+        "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China.",
+        "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Su, Mingqin",
+        "short_name": "Su M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China. Smq93885@163.com."
+        ]
+      },
+      {
+        "full_name": "Guan, Yuxiang",
+        "short_name": "Guan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Hongquan",
+        "short_name": "Wei H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Lijun",
+        "short_name": "Chen L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Wei",
+        "short_name": "Dong W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Guangde Street, Yaohai District, Hefei City, Anhui Province, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Urolithiasis"
+    ],
+    "journal_abbrev": [
+      "Urolithiasis"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42730918",
+      "39666011",
+      "41784848",
+      "39706044",
+      "41672398",
+      "41680817",
+      "32641994",
+      "42268330",
+      "41386055",
+      "35255299",
+      "40331191",
+      "33857849",
+      "32083808",
+      "33852977",
+      "42133071",
+      "41303615",
+      "31735555",
+      "36099652",
+      "39378657",
+      "31029908",
+      "42045649",
+      "39662099",
+      "42302947",
+      "42399461",
+      "40586959",
+      "35692206",
+      "34336124",
+      "40824734",
+      "39970713",
+      "41795298",
+      "42719677",
+      "40682983",
+      "30874544",
+      "40156629",
+      "41483174",
+      "42364861",
+      "33444723",
+      "40991986",
+      "29653411",
+      "42599300",
+      "42054188",
+      "41482144",
+      "42166861",
+      "30460722",
+      "35251472",
+      "39462270",
+      "42576380",
+      "39952007",
+      "42703728",
+      "41978439",
+      "40330488",
+      "40858660",
+      "42044864",
+      "42108770",
+      "41421277",
+      "36242511",
+      "34512861",
+      "38584465",
+      "37740796",
+      "39544009",
+      "32628541",
+      "42538608",
+      "33867828",
+      "41265017",
+      "32417393",
+      "41814794",
+      "42173417",
+      "42190416",
+      "40685053",
+      "40826835",
+      "40601009",
+      "42472577",
+      "41534756",
+      "39116349",
+      "40550434",
+      "42682266",
+      "41802508",
+      "41812937",
+      "42172070",
+      "34295152",
+      "40069788",
+      "36914110",
+      "40783939",
+      "42177535",
+      "39885380",
+      "30268831",
+      "41967621",
+      "42648378",
+      "41112268",
+      "38199255",
+      "41874697",
+      "33191819",
+      "41581761",
+      "41344535",
+      "41740623",
+      "40644858",
+      "42335987",
+      "39990230",
+      "40194762",
+      "35988461"
+    ],
+    "review": [
+      "42730918"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/kidneystones.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Kidney Stones"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00240-026-02053-7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-327",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

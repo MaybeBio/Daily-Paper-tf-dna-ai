@@ -1,0 +1,258 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.14.751576",
+  "title": "Martini 3 Coarse-Grained Model of DNA for Heterogeneous Molecular Systems",
+  "doi": "10.64898/2026.09.14.751576",
+  "abstract": "DNA often functions in heterogeneous molecular systems containing proteins, lipids, polymers, and other materials. All-atom molecular dynamics simulations can be used to study DNA in these multicomponent systems, but computational cost limits the accessible system sizes and time scales. Coarse-grained models extend these scales, but existing DNA models are generally not designed for interactions with a broad range of other molecular species. To fill this gap, we develop a coarse-grained model of DNA designed for use with the Martini 3 force field. The model was parameterized through an iterative Bayesian optimization workflow, which used a scaled Wasserstein metric to compare distributions of local geometrical features and global structure from coarse-grained simulations against all-atom reference simulations. The optimized model captures key structural and mechanical properties of single- and double-stranded DNA across varying strand lengths and ionic conditions, while retaining compatibility with the broader Martini 3 ecosystem. This compatibility enables DNA to be integrated with a broad range of molecular systems, as we illustrate through simulations of double-stranded DNA bound to a transcription factor, cholesterol-tagged DNA duplex interacting with a lipid bilayer, a crossover-containing DNA nanostructure, and single-stranded DNA adsorbing onto graphene. Together, these results establish a transferable coarse-grained model of DNA for simulations of heterogeneous biomolecular and engineered systems.",
+  "authors": [
+    "Rokas Dargis",
+    "Gaurav Arya"
+  ],
+  "published_date": "2026-09-16",
+  "updated_date": "2026-09-17T05:05:28Z",
+  "journal": "bioRxiv",
+  "category": "Biophysics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.14.751576",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.14.751576.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Biophysics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Biophysics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            17
+          ]
+        ],
+        "date-time": "2026-09-17T15:29:42Z",
+        "timestamp": 1789658982615,
+        "version": "4.0.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            16
+          ]
+        ]
+      },
+      "group-title": "Biophysics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                16
+              ]
+            ],
+            "date-time": "2026-09-16T00:00:00Z",
+            "timestamp": 1789516800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "2R01GM122979"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2R01GM122979"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01cwqze88",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "U.S. National Science Foundation",
+          "award": [
+            "CMMI-2323969"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "CMMI-2323969"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/021nxhr62",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "U.S. National Science Foundation",
+          "award": [
+            "ACI-2138259, 2138286, 2138307, 2137603, and 2138296"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "ACI-2138259, 2138286, 2138307, 2137603, and 2138296"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/021nxhr62",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            16
+          ]
+        ]
+      },
+      "abstract": "<jats:p>DNA often functions in heterogeneous molecular systems containing proteins, lipids, polymers, and other materials. All-atom molecular dynamics simulations can be used to study DNA in these multicomponent systems, but computational cost limits the accessible system sizes and time scales. Coarse-grained models extend these scales, but existing DNA models are generally not designed for interactions with a broad range of other molecular species. To fill this gap, we develop a coarse-grained model of DNA designed for use with the Martini 3 force field. The model was parameterized through an iterative Bayesian optimization workflow, which used a scaled Wasserstein metric to compare distributions of local geometrical features and global structure from coarse-grained simulations against all-atom reference simulations. The optimized model captures key structural and mechanical properties of single- and double-stranded DNA across varying strand lengths and ionic conditions, while retaining compatibility with the broader Martini 3 ecosystem. This compatibility enables DNA to be integrated with a broad range of molecular systems, as we illustrate through simulations of double-stranded DNA bound to a transcription factor, cholesterol-tagged DNA duplex interacting with a lipid bilayer, a crossover-containing DNA nanostructure, and single-stranded DNA adsorbing onto graphene. Together, these results establish a transferable coarse-grained model of DNA for simulations of heterogeneous biomolecular and engineered systems.</jats:p>",
+      "DOI": "10.64898/2026.09.14.751576",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            17
+          ]
+        ],
+        "date-time": "2026-09-17T05:05:28Z",
+        "timestamp": 1789621528000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Martini 3 Coarse-Grained Model of DNA for Heterogeneous Molecular Systems"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3908-0442",
+          "authenticated-orcid": false,
+          "given": "Rokas",
+          "family": "Dargis",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Mechanical Engineering and Materials Science, Duke University, Durham"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5615-0521",
+          "authenticated-orcid": false,
+          "given": "Gaurav",
+          "family": "Arya",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Mechanical Engineering and Materials Science, Duke University, Durham"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.14.751576",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            17
+          ]
+        ],
+        "date-time": "2026-09-17T05:05:28Z",
+        "timestamp": 1789621528000
+      },
+      "score": 83.38132,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.14.751576"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            16
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.14.751576",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            16
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42750049",
+    "doi": "10.1186/s13058-026-02388-4",
+    "title": "Development and validation of a machine learning clinicogenomic model to improve prognostic stratification in ER-positive/HER2-negative early breast cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Several gene expression signatures (GESs) are used for risk stratification in estrogen receptor-positive/human epidermal growth factor receptor 2-negative (ER-positive/HER2-negative) early breast cancer. Recent integrative approaches combine tumour proliferation, estrogen receptor signalling, immune activity, and clinicopathologic features, yielding gains in prognostic accuracy. We therefore developed a machine-learning-based clinicogenomic prognostic model integrating a research-grade implementation of an established GES with immune-related and clinicopathologic features to improve prognostic stratification in ER-positive/HER2-negative early breast cancer. METHODS: This retrospective integrative analysis of publicly available and institutional microarray and RNA-sequencing data included four independent datasets of systemically untreated or endocrine-treated patients (n = 5132). One dataset was used for the development of a random survival forest (RSF) model, and three datasets were used for external validation. The RSF model incorporated a research-grade implementation of the 21-gene recurrence score (RS), the 14-gene immunoglobulin signature, and clinicopathologic features. Model performance was evaluated relative to the standalone research-grade implementation of the 21-gene RS using measures of risk stratification, discrimination, and prediction error. Feature contributions were examined using time-dependent explainability analyses. RESULTS: In external validation, the RSF model identified larger low-risk groups than the standalone 21-gene RS, with relative increases of 33.8 to 111.8%, while maintaining similar or higher horizon-specific survival estimates. The RSF model also improved discrimination over the standalone 21-gene RS across validation datasets, with absolute increases of 0.035 to 0.058 in the concordance index and 0.030 to 0.064 in the integrated area under the time-dependent receiver operating characteristic curve. Risk separation, measured by the difference in restricted mean survival time, was consistently greater for the RSF model, whereas prediction error was comparable or lower according to Cox-recalibrated integrated Brier score. Explainability analyses indicated time-dependent feature contributions, with the 21-gene RS and clinicopathologic variables driving early prognostic performance and the immune component contributing a smaller but more stable effect over time. CONCLUSIONS: This explainable clinicogenomic machine learning model integrates research-grade molecular, immune-related, and clinicopathologic features and improves prognostic stratification in retrospective ER-positive/HER2-negative early breast cancer datasets. These findings support its potential as a more informative and biologically grounded approach to early breast cancer risk assessment.",
+    "keywords": [
+      "21-gene recurrence score",
+      "Clinicogenomic model",
+      "ER-positive/HER2-negative breast cancer",
+      "Early breast cancer",
+      "Gene expression signatures",
+      "Machine learning",
+      "Prognostic stratification",
+      "Random survival forest",
+      "Risk prediction"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Breast Neoplasms/genetics/pathology/mortality/metabolism",
+      "Female",
+      "Prognosis",
+      "*Machine Learning",
+      "*Erb-b2 Receptor Tyrosine Kinases/metabolism/genetics",
+      "*Receptors, Estrogen/metabolism/genetics",
+      "Gene Expression Profiling",
+      "*Biomarkers, Tumor/genetics",
+      "Random Forest",
+      "Predictive Learning Models",
+      "Retrospective Studies",
+      "Transcriptome",
+      "Prediction Algorithms",
+      "Gene Expression Regulation, Neoplastic"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sarafidis, Michail",
+        "Sifakis, Emmanouil G",
+        "Bergh, Jonas",
+        "Foukakis, Theodoros",
+        "Matikas, Alexios"
+      ],
+      "short_names": [
+        "Sarafidis M",
+        "Sifakis EG",
+        "Bergh J",
+        "Foukakis T",
+        "Matikas A"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1921-6525",
+        "ORCID: 0000-0001-9919-4471",
+        "ORCID: 0000-0001-5526-1847",
+        "ORCID: 0000-0001-8952-9987",
+        "ORCID: 0000-0002-4122-9624"
+      ],
+      "affiliations": [
+        "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden. michail.sarafidis@ki.se.",
+        "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden.",
+        "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden.",
+        "Breast Center, Theme Cancer, Karolinska Comprehensive Cancer Center, Karolinska University Hospital, Stockholm, Sweden.",
+        "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden.",
+        "Breast Center, Theme Cancer, Karolinska Comprehensive Cancer Center, Karolinska University Hospital, Stockholm, Sweden.",
+        "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden.",
+        "Breast Center, Theme Cancer, Karolinska Comprehensive Cancer Center, Karolinska University Hospital, Stockholm, Sweden."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sarafidis, Michail",
+        "short_name": "Sarafidis M",
+        "identifiers": [
+          "0000-0003-1921-6525"
+        ],
+        "affiliations": [
+          "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden. michail.sarafidis@ki.se."
+        ]
+      },
+      {
+        "full_name": "Sifakis, Emmanouil G",
+        "short_name": "Sifakis EG",
+        "identifiers": [
+          "0000-0001-9919-4471"
+        ],
+        "affiliations": [
+          "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Bergh, Jonas",
+        "short_name": "Bergh J",
+        "identifiers": [
+          "0000-0001-5526-1847"
+        ],
+        "affiliations": [
+          "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden.",
+          "Breast Center, Theme Cancer, Karolinska Comprehensive Cancer Center, Karolinska University Hospital, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Foukakis, Theodoros",
+        "short_name": "Foukakis T",
+        "identifiers": [
+          "0000-0001-8952-9987"
+        ],
+        "affiliations": [
+          "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden.",
+          "Breast Center, Theme Cancer, Karolinska Comprehensive Cancer Center, Karolinska University Hospital, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Matikas, Alexios",
+        "short_name": "Matikas A",
+        "identifiers": [
+          "0000-0002-4122-9624"
+        ],
+        "affiliations": [
+          "Department of Oncology-Pathology, Karolinska Institutet, Visionsgatan 4, 171 64, Stockholm, Sweden.",
+          "Breast Center, Theme Cancer, Karolinska Comprehensive Cancer Center, Karolinska University Hospital, Stockholm, Sweden."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Breast cancer research : BCR"
+    ],
+    "journal_abbrev": [
+      "Breast Cancer Res"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 05:35",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42750049",
+      "42708797",
+      "41895875",
+      "42148109",
+      "40624807",
+      "40597935",
+      "41637793",
+      "42251269",
+      "42475469",
+      "42050659",
+      "41061345",
+      "42203036",
+      "41327380",
+      "41707479",
+      "42536225",
+      "23074401",
+      "31434940",
+      "41898839",
+      "42105007",
+      "30180877",
+      "41529257",
+      "42760971",
+      "31933152",
+      "40845255",
+      "40936892",
+      "42329472",
+      "42396465",
+      "32601968",
+      "40997745",
+      "32385567",
+      "39614188",
+      "38131531",
+      "39722042",
+      "41526910",
+      "40288025",
+      "33152285",
+      "42507724",
+      "41809834",
+      "41980703",
+      "40891595",
+      "42500284",
+      "41405264",
+      "40198909",
+      "42180905",
+      "40623476",
+      "41213110",
+      "41493657",
+      "41162968",
+      "42218459",
+      "41965577",
+      "27362843",
+      "30097312",
+      "28404972",
+      "40842081",
+      "28702894",
+      "41798945",
+      "40496857",
+      "42214155",
+      "41831466",
+      "36602784",
+      "31907749",
+      "39794693",
+      "39272208",
+      "42035196",
+      "40227228",
+      "25886164",
+      "41995722",
+      "41472745",
+      "26631838",
+      "41272387",
+      "41233664",
+      "35179504",
+      "32707305",
+      "39706338",
+      "35912728",
+      "41999978",
+      "32229175",
+      "40604083",
+      "31619259",
+      "39870964",
+      "41466313",
+      "39083015",
+      "31669266",
+      "41350639",
+      "30396812",
+      "34751852",
+      "30456680",
+      "27368476",
+      "41656832",
+      "41815152",
+      "42332588",
+      "31641007",
+      "38135156",
+      "35568835",
+      "31547956",
+      "42126533",
+      "41653522",
+      "42591662",
+      "27514395",
+      "38955698"
+    ],
+    "review": [
+      "42750049",
+      "25886164"
+    ],
+    "pmc": [
+      "13584486"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-026-02388-4",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-11",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-192",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

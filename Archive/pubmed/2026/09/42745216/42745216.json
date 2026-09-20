@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "42745216",
+    "doi": "10.1002/alz.71832",
+    "title": "MARBLE: An in vivo MRI marker of limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC)."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Limbic-predominant age-related transactive response DNA binding protein 43 kDa encephalopathy neuropathologic change (LATE-NC) is common in older adults, yet definitive diagnosis is only possible at autopsy. METHODS: This work developed a fully automated in vivo marker of LATE-NC named MARBLE (MARker of Brain LatE) by applying machine learning methods on brain magnetic resonance imaging (MRI) and neuropathology data from 918 community-based older adults. RESULTS: Testing MARBLE in an independent group of older adults, with ante mortem intervals between MRI and death of < 3 years, achieved an area under the curve = 0.92 for in vivo prediction of LATE-NC. Moreover, a higher MARBLE score was associated with higher LATE-NC stages (beta = 0.083, 95% confidence interval = [0.053, 0.113], p < 10(-4)), and a lower level and accelerated decline of cognition, with the strongest effects observed in episodic and semantic memory, and perceptual speed (p < 10(-4)). DISCUSSION: MARBLE is an automated in vivo MRI-based marker of LATE-NC holding significant promise for enhancing diagnosis, refining clinical trial enrollment, and advancing targeted therapeutic approaches.",
+    "keywords": [
+      "autopsy",
+      "biomarker",
+      "cognitive decline",
+      "community cohort",
+      "diagnosis",
+      "limbic-predominant age-related transactive response DNA binding protein 43",
+      "encephalopathy neuropathologic change",
+      "machine learning",
+      "magnetic resonance imaging",
+      "neuroimaging",
+      "neuropathology",
+      "transactive response DNA binding protein 43"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Magnetic Resonance Imaging/methods",
+      "Female",
+      "Aged",
+      "Male",
+      "Machine Learning",
+      "*TDP-43 Proteinopathies/pathology/diagnostic imaging",
+      "Biomarkers",
+      "Aged, 80 and over",
+      "*Limbic System/pathology/diagnostic imaging",
+      "Brain/pathology/diagnostic imaging",
+      "Aging/pathology",
+      "Dementia"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tazwar, Mahir",
+        "Evia, Arnold M",
+        "Ridwan, Abdur R",
+        "Leurgans, Sue E",
+        "Wagner, Maude",
+        "Bennett, David A",
+        "Schneider, Julie A",
+        "Arfanakis, Konstantinos"
+      ],
+      "short_names": [
+        "Tazwar M",
+        "Evia AM",
+        "Ridwan AR",
+        "Leurgans SE",
+        "Wagner M",
+        "Bennett DA",
+        "Schneider JA",
+        "Arfanakis K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, Illinois, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Department of Neurological Sciences, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Department of Neurological Sciences, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Department of Neurological Sciences, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Department of Neurological Sciences, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Department of Pathology, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, Illinois, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+        "Department of Diagnostic Radiology, Rush University Medical Center, Chicago, Illinois, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tazwar, Mahir",
+        "short_name": "Tazwar M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, Illinois, USA.",
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA."
+        ]
+      },
+      {
+        "full_name": "Evia, Arnold M",
+        "short_name": "Evia AM",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA."
+        ]
+      },
+      {
+        "full_name": "Ridwan, Abdur R",
+        "short_name": "Ridwan AR",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA."
+        ]
+      },
+      {
+        "full_name": "Leurgans, Sue E",
+        "short_name": "Leurgans SE",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+          "Department of Neurological Sciences, Rush University Medical Center, Chicago, Illinois, USA."
+        ]
+      },
+      {
+        "full_name": "Wagner, Maude",
+        "short_name": "Wagner M",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+          "Department of Neurological Sciences, Rush University Medical Center, Chicago, Illinois, USA."
+        ]
+      },
+      {
+        "full_name": "",
+        "short_name": "",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bennett, David A",
+        "short_name": "Bennett DA",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+          "Department of Neurological Sciences, Rush University Medical Center, Chicago, Illinois, USA."
+        ]
+      },
+      {
+        "full_name": "Schneider, Julie A",
+        "short_name": "Schneider JA",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+          "Department of Neurological Sciences, Rush University Medical Center, Chicago, Illinois, USA.",
+          "Department of Pathology, Rush University Medical Center, Chicago, Illinois, USA."
+        ]
+      },
+      {
+        "full_name": "Arfanakis, Konstantinos",
+        "short_name": "Arfanakis K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, Illinois, USA.",
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.",
+          "Department of Diagnostic Radiology, Rush University Medical Center, Chicago, Illinois, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    ],
+    "journal_abbrev": [
+      "Alzheimers Dement"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42745216",
+      "38744041",
+      "35728463",
+      "40512809",
+      "37604667",
+      "34563269",
+      "38938199",
+      "40709649",
+      "32753441",
+      "41571430",
+      "33624322",
+      "31039256",
+      "37195467",
+      "36264254",
+      "41428981",
+      "37966908",
+      "39352226",
+      "34597386",
+      "38877688",
+      "39888320",
+      "39807681",
+      "42141120",
+      "40952471",
+      "41543852",
+      "35121671",
+      "32759188",
+      "42309988",
+      "38133681",
+      "38613823",
+      "42576193",
+      "36302666",
+      "32452861",
+      "41388838",
+      "42565249",
+      "31845964",
+      "37266411",
+      "40825161",
+      "32830216",
+      "40637134",
+      "37742640",
+      "35697880",
+      "32734738",
+      "38896163",
+      "35366087",
+      "37150879",
+      "37248909",
+      "41168814",
+      "37977431",
+      "31174609",
+      "35971593",
+      "40672518",
+      "31815698",
+      "30784812",
+      "35705500",
+      "34854996",
+      "40293530",
+      "33188391",
+      "42388895",
+      "40580018",
+      "38266517",
+      "38987361",
+      "38520489",
+      "38308693",
+      "38045300",
+      "38494787",
+      "40709644",
+      "42520314",
+      "35977443",
+      "39901730",
+      "38175995",
+      "40882174",
+      "39546031",
+      "42266427",
+      "36870337",
+      "40773193",
+      "39441698",
+      "36941071",
+      "41990307",
+      "41366514",
+      "40042444",
+      "42044052",
+      "38997773",
+      "38578498",
+      "32757750",
+      "33969528",
+      "27694152",
+      "42008717",
+      "32797255",
+      "38602280",
+      "24080705",
+      "39973236",
+      "42024684",
+      "42418450",
+      "33579840",
+      "38244935",
+      "31009033",
+      "34330087",
+      "39699678",
+      "34270750",
+      "36512061"
+    ],
+    "review": [
+      "42745216",
+      "40709649",
+      "31039256",
+      "39807681",
+      "42141120",
+      "38613823",
+      "40709644"
+    ],
+    "pmc": [
+      "13578614"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/mriscans.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "MRI Scans"
+      },
+      {
+        "url": "https://doi.org/10.1002/alz.71832",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42736768",
+    "doi": "10.1097/MD.0000000000050324",
+    "title": "Transcriptomic integration reveals immune heterogeneity in vascular dementia and identifies ELF2 as a candidate therapeutic target."
+  },
+  "content": {
+    "abstract": "Vascular dementia (VaD) is the second most prevalent form of dementia after Alzheimer's disease and is primarily driven by chronic cerebral hypoperfusion and neurovascular dysfunction. Growing evidence indicates that immune dysregulation and neuroglial-vascular injury play critical roles in disease progression; however, the molecular regulators underlying these processes remain insufficiently characterized. This study aimed to delineate immune heterogeneity and neuroglial-vascular alterations in VaD and to identify key regulatory targets involved in disease pathogenesis. Bulk RNA sequencing data (GSE122063) and single-cell transcriptomic data (GSE282111) were retrieved from the Gene Expression Omnibus database and integratively analyzed to characterize immune infiltration patterns and cellular dysregulation. Immune profiling was performed using CIBERSORT and single-sample gene set enrichment analysis. Disease-associated cell subsets and hub genes were identified using Seurat, Scissor, and high-dimensional weighted gene co-expression network analysis (hdWGCNA). Pseudotime trajectory analysis and molecular docking were subsequently applied to investigate gene expression dynamics and potential therapeutic relevance. Bulk transcriptomic analysis revealed a pronounced pro-inflammatory shift in VaD brain tissue, characterized by increased infiltration of M1 macrophages, neutrophils, and activated dendritic cells, alongside reduced levels of M2 macrophages, resting CD4+ memory T cells, and regulatory T cells. Single-cell analysis demonstrated marked loss of oligodendrocytes, astrocytes, and endothelial cells in VaD. Scissor integration showed positive associations between VaD and oligodendrocytes, astrocytes, and endothelial cells, whereas microglia and oligodendrocyte progenitor cells were negatively associated. hdWGCNA identified 3 co-expression modules; intersection of the blue module with bulk differentially expressed genes highlighted DOCK3, ELF2, and Sin3A associated protein 25, with ELF2 uniquely co-expressed across relevant cell types. Pseudotime analysis indicated sustained downregulation of ELF2 during VaD-related cellular differentiation. Molecular docking analysis suggested strong binding affinities between ELF2 and nicergoline (-7.23 kcal/mol), nimodipine (-6.92 kcal/mol), and donepezil (-6.29 kcal/mol). This integrative transcriptomic study reveals disrupted immune balance and neuroglial-vascular cell homeostasis in vascular dementia, and prioritizes ELF2 as a candidate regulator associated with immune heterogeneity in VaD.",
+    "keywords": [
+      "ELF2",
+      "immune heterogeneity",
+      "neuroglial-vascular unit",
+      "single-cell RNA sequencing",
+      "vascular dementia"
+    ],
+    "mesh_terms": [
+      "*Dementia, Vascular/immunology/genetics",
+      "Humans",
+      "*Transcriptome",
+      "Molecular Docking Simulation",
+      "Gene Expression Profiling",
+      "Brain/immunology",
+      "*Nerve Tissue Proteins/genetics/metabolism",
+      "*DNA-Binding Proteins/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liang, Li",
+        "Shen, Cuiqin",
+        "Huang, Shiren",
+        "Hu, Minglu",
+        "Zhu, Jian"
+      ],
+      "short_names": [
+        "Liang L",
+        "Shen C",
+        "Huang S",
+        "Hu M",
+        "Zhu J"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-6181-9932"
+      ],
+      "affiliations": [
+        "Department of Neurology, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Ultrasound, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Neurology, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Neurology, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Neurology, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liang, Li",
+        "short_name": "Liang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Cuiqin",
+        "short_name": "Shen C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Shiren",
+        "short_name": "Huang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Minglu",
+        "short_name": "Hu M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Jian",
+        "short_name": "Zhu J",
+        "identifiers": [
+          "0009-0007-6181-9932"
+        ],
+        "affiliations": [
+          "Department of Neurology, Jiading Branch of Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Medicine"
+    ],
+    "journal_abbrev": [
+      "Medicine (Baltimore)"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42736768",
+      "42265520",
+      "42372928",
+      "42471019",
+      "40196107",
+      "41895505",
+      "41237469",
+      "41918402",
+      "41785251",
+      "42642681",
+      "40808948",
+      "42263871",
+      "41388523",
+      "42530267",
+      "42309401",
+      "42317364",
+      "41998783",
+      "41874860",
+      "42233387",
+      "42666489",
+      "40764361",
+      "41371106",
+      "40532306",
+      "42164570",
+      "41436831",
+      "42172296",
+      "42074521",
+      "41242266",
+      "39841296",
+      "42158856",
+      "41716413",
+      "38736878",
+      "42123445",
+      "42040898",
+      "40160813",
+      "39067546",
+      "41722735",
+      "40777016",
+      "42577419",
+      "41703488",
+      "40977739",
+      "42565562",
+      "42136960",
+      "41384025",
+      "41006377",
+      "41840566",
+      "42650150",
+      "35543222",
+      "41224720",
+      "42024670",
+      "41377395",
+      "40216809",
+      "41217566",
+      "42288847",
+      "41656832",
+      "42541991",
+      "41344818",
+      "37063851",
+      "41354822",
+      "39650656",
+      "42249649",
+      "42008118",
+      "42088521",
+      "42421348",
+      "39896809",
+      "42599654",
+      "42015036",
+      "41310117",
+      "42510881",
+      "42391245",
+      "41839318",
+      "42412240",
+      "41601671",
+      "41288681",
+      "39735537",
+      "41409278",
+      "42236612",
+      "42568110",
+      "39893187",
+      "42486346",
+      "36262886",
+      "42106542",
+      "42441576",
+      "42745923",
+      "41591671",
+      "39874886",
+      "41655191",
+      "42136644",
+      "42212140",
+      "42239541",
+      "41733593",
+      "37605574",
+      "42424301",
+      "42329412",
+      "42553137",
+      "42631563",
+      "41132791",
+      "41479901",
+      "42033468",
+      "42516950"
+    ],
+    "review": [
+      "42736768"
+    ],
+    "pmc": [
+      "13574462"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42736768/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.ovid.com/10.1097/MD.0000000000050324",
+        "provider": "Wolters Kluwer",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

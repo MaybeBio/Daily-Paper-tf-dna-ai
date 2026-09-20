@@ -1,0 +1,297 @@
+{
+  "identity": {
+    "pmid": "42741296",
+    "doi": "10.3389/fchem.2026.1904958",
+    "title": "A novel Ru(II) complex with pyrene-1-carbaldehyde hydrazone: structural, electronic, theoretical, and biological studies."
+  },
+  "content": {
+    "abstract": "A new Ru(II) half-sandwich complex, 1, containing an eta(6)-p-cymene ligand and (E)-1-(pyren-1-ylmethylidene)hydrazine, was synthesized in good yield and characterized by FTIR, NMR, elemental analysis, and density functional theory calculations. The close agreement between experimental and theoretical FTIR, (1)H NMR, and (13)C NMR data confirmed the proposed structure, while geometry optimization revealed the expected pseudo-octahedral piano-stool arrangement around the Ru(II) center. QTAIM analysis indicated that the metal-ligand interactions, particularly Ru-N and Ru-arene bonds, possess partial covalent character and play a key role in stabilizing the complex. Biological interaction studies showed that 1 binds spontaneously to human serum albumin (HSA) with moderate affinity via predominantly hydrophobic interactions and also binds calf thymus DNA, as demonstrated by spectrofluorimetric titration and ethidium bromide displacement experiments, suggesting mixed intercalative and groove-binding behavior. Molecular docking revealed that 1 binds most strongly to BCL-2/BCL-xL among all investigated targets, while also showing good affinity toward JAK2, KRAS, and BRAF. The docking protocol was supported by the close agreement between calculated and experimental binding free energies for HSA and DNA. Molecular dynamics and MM/PBSA analyses further confirmed that the 1-BCL-2/BCL-xL complex is stable and thermodynamically favorable, indicating that this anti-apoptotic protein may represent the most relevant biological target of complex 1. EPR measurements revealed selective radical-scavenging activity, with pronounced efficiency toward hydroxyl radicals but much weaker effects against DPPH, superoxide, and ascorbyl radicals. In vitro studies further demonstrated cytotoxic activity of the complex in several cancer cell lines, with the strongest effect observed in MIA PaCa-2 cells, accompanied by increased lipid peroxidation, protein oxidation, and alterations in matrix metalloproteinase activity, indicating that oxidative stress may contribute to its biological effects. The results identify 1 as a structurally well-defined Ru(II) compound with promising protein- and DNA-binding properties, selective antioxidant behavior, and moderate anticancer potential.",
+    "keywords": [
+      "DFT",
+      "QTAIM analysis",
+      "anticancer activity",
+      "hydrazone ligand",
+      "molecular docking",
+      "molecular dynamics simulation",
+      "protein and DNA binding",
+      "ruthenium(II) arene complex"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Perendija, Stefan",
+        "Dimic, Dusan",
+        "Milenkovic, Dejan",
+        "Nakarada, Djura",
+        "Djikic, Dragoslava",
+        "Suboticki, Tijana",
+        "Chichiarelli, Silvia",
+        "Kaluderovic, Goran N",
+        "Markovic, Jasmina Dimitric"
+      ],
+      "short_names": [
+        "Perendija S",
+        "Dimic D",
+        "Milenkovic D",
+        "Nakarada D",
+        "Djikic D",
+        "Suboticki T",
+        "Chichiarelli S",
+        "Kaluderovic GN",
+        "Markovic JD"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Faculty of Physical Chemistry, University of Belgrade, Belgrade, Serbia.",
+        "Faculty of Physical Chemistry, University of Belgrade, Belgrade, Serbia.",
+        "Institute for Information Technologies, University of Kragujevac, Kragujevac, Serbia.",
+        "Faculty of Physical Chemistry, University of Belgrade, Belgrade, Serbia.",
+        "Institute for Medical Research, University of Belgrade, Belgrade, Serbia.",
+        "Institute for Medical Research, University of Belgrade, Belgrade, Serbia.",
+        "Department of Biochemical Sciences A. Rossi Fanelli, University of Rome La Sapienza, Rome, Italy.",
+        "Department of Engineering and Natural Sciences, University of Applied Sciences Merseburg, Merseburg, Germany.",
+        "Faculty of Physical Chemistry, University of Belgrade, Belgrade, Serbia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Perendija, Stefan",
+        "short_name": "Perendija S",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Physical Chemistry, University of Belgrade, Belgrade, Serbia."
+        ]
+      },
+      {
+        "full_name": "Dimić, Dušan",
+        "short_name": "Dimić D",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Physical Chemistry, University of Belgrade, Belgrade, Serbia."
+        ]
+      },
+      {
+        "full_name": "Milenković, Dejan",
+        "short_name": "Milenković D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Information Technologies, University of Kragujevac, Kragujevac, Serbia."
+        ]
+      },
+      {
+        "full_name": "Nakarada, Djura",
+        "short_name": "Nakarada D",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Physical Chemistry, University of Belgrade, Belgrade, Serbia."
+        ]
+      },
+      {
+        "full_name": "Djikić, Dragoslava",
+        "short_name": "Djikić D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Medical Research, University of Belgrade, Belgrade, Serbia."
+        ]
+      },
+      {
+        "full_name": "Subotički, Tijana",
+        "short_name": "Subotički T",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Medical Research, University of Belgrade, Belgrade, Serbia."
+        ]
+      },
+      {
+        "full_name": "Chichiarelli, Silvia",
+        "short_name": "Chichiarelli S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemical Sciences A. Rossi Fanelli, University of Rome La Sapienza, Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Kaluđerović, Goran N",
+        "short_name": "Kaluđerović GN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Engineering and Natural Sciences, University of Applied Sciences Merseburg, Merseburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Marković, Jasmina Dimitrić",
+        "short_name": "Marković JD",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Physical Chemistry, University of Belgrade, Belgrade, Serbia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in chemistry"
+    ],
+    "journal_abbrev": [
+      "Front Chem"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42741296",
+      "40807263",
+      "30831392",
+      "32980642",
+      "40149886",
+      "42315715",
+      "42383459",
+      "42451649",
+      "22354161",
+      "37651843",
+      "32597724",
+      "35171173",
+      "39087675",
+      "30124119",
+      "38735072",
+      "38406993",
+      "41367345",
+      "42427404",
+      "36614131",
+      "24177707",
+      "31721562",
+      "35785271",
+      "21446672",
+      "42398391",
+      "42746890",
+      "42470536",
+      "34182310",
+      "34315119",
+      "26818702",
+      "26555289",
+      "41670665",
+      "39470017",
+      "42101184",
+      "41406517",
+      "38164612",
+      "32295347",
+      "26855406",
+      "33336849",
+      "33634734",
+      "41016327",
+      "41726675",
+      "38967860",
+      "30121002",
+      "27838485",
+      "22183160",
+      "36551312",
+      "33075117",
+      "37158792",
+      "23957818",
+      "12515520",
+      "40644785",
+      "40260129",
+      "32585099",
+      "42336179",
+      "24607611",
+      "41016328",
+      "21113330",
+      "37569273",
+      "38801789",
+      "34268603",
+      "38567259",
+      "34729032",
+      "39733709",
+      "32036758",
+      "41995262",
+      "27435011",
+      "41855637",
+      "32090687",
+      "24818221",
+      "42475469",
+      "42660437",
+      "23912807",
+      "27450299",
+      "42054842",
+      "42569431",
+      "32936191",
+      "31460277",
+      "11902898",
+      "29235601",
+      "42654099",
+      "40632111",
+      "36317406",
+      "41904818",
+      "36615237",
+      "41751967",
+      "26277415",
+      "42049795",
+      "32634653",
+      "41400134",
+      "41070604",
+      "41673348",
+      "30616168",
+      "38614230",
+      "24508879",
+      "37944388",
+      "27995332",
+      "41541217",
+      "41406516",
+      "40824365",
+      "42573421"
+    ],
+    "review": [
+      "42741296"
+    ],
+    "pmc": [
+      "13572611"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42741296/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BRAF-6",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1252",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fchem.2026.1904958",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

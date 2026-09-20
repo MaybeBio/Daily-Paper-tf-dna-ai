@@ -1,0 +1,542 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.07.749913",
+  "title": "TransBind2: Improving Transcription Factor-DNA Binding Prediction with Multimodal Data and Bidirectional Cross Attention",
+  "doi": "10.64898/2026.09.07.749913",
+  "abstract": "Accurate genome-wide prediction of transcription factor (TF)–DNA binding remains challenging because many models focus mainly on DNA sequence and overlook chromatin context and TF structure. We previously developed TransBind, a protein-aware model that combines TF and DNA representations through cross-attention. Here, we introduce TransBind2, which improves on TransBind in several ways. It incorporates DNase-seq accessibility and genome mappability tracks as additional input, uses a biomodal protein language model (ProstT5) to capture both TF sequence and structure, and applies bidirectional cross-attention so DNA and protein features can refine each other. We also frame prediction as binary classification of individual < DNA bin, TF, cell type > triplets, allowing the model to generalize to new TFs and cell types. Across 690 human ChIP-seq experiments covering 161 TFs and 91 cell types, TransBind2 achieves a macro AUROC of 0.9648 and AUPR of 0.4215, outperforming TransBind and other baselines, with a ≥12.67% relative AUPR gain. The model trained on human data also performs well in cross-species zero-shot prediction on mouse data. Saliency analysis shows that it can identify TF-binding peaks with a median error of 12–38 base pairs (bps) despite being trained on window-level labels. Ablation studies further show that TF structure, chromatin accessibility, and bidirectional attention each improve performance. Overall, these results show that combining TF structure with chromatin context leads to more accurate and generalizable TF–DNA binding predictions.",
+  "authors": [
+    "Shreya Basnet",
+    "Jianlin Cheng"
+  ],
+  "published_date": "2026-09-14",
+  "updated_date": "2026-09-14T17:20:48Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.07.749913",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.07.749913.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ],
+        "date-time": "2026-09-18T12:13:43Z",
+        "timestamp": 1789733623796,
+        "version": "4.0.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 39,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                14
+              ]
+            ],
+            "date-time": "2026-09-14T00:00:00Z",
+            "timestamp": 1789344000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "2343612"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2343612"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/021nxhr62",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "2308699"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2308699"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/021nxhr62",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "2525780"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2525780"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/021nxhr62",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "DE-SC0026121"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "DE-SC0026121"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01bj3aw27",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Accurate genome-wide prediction of transcription factor (TF)–DNA binding remains challenging because many models focus mainly on DNA sequence and overlook chromatin context and TF structure. We previously developed TransBind, a protein-aware model that combines TF and DNA representations through cross-attention. Here, we introduce TransBind2, which improves on TransBind in several ways. It incorporates DNase-seq accessibility and genome mappability tracks as additional input, uses a biomodal protein language model (ProstT5) to capture both TF sequence and structure, and applies bidirectional cross-attention so DNA and protein features can refine each other. We also frame prediction as binary classification of individual\n                  <jats:italic>&lt;</jats:italic>\n                  DNA bin, TF, cell type\n                  <jats:italic>&gt;</jats:italic>\n                  triplets, allowing the model to generalize to new TFs and cell types. Across 690 human ChIP-seq experiments covering 161 TFs and 91 cell types, TransBind2 achieves a macro AUROC of 0.9648 and AUPR of 0.4215, outperforming TransBind and other baselines, with a ≥12.67% relative AUPR gain. The model trained on human data also performs well in cross-species zero-shot prediction on mouse data. Saliency analysis shows that it can identify TF-binding peaks with a median error of 12–38 base pairs (bps) despite being trained on window-level labels. Ablation studies further show that TF structure, chromatin accessibility, and bidirectional attention each improve performance. Overall, these results show that combining TF structure with chromatin context leads to more accurate and generalizable TF–DNA binding predictions.\n                </jats:p>",
+      "DOI": "10.64898/2026.09.07.749913",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ],
+        "date-time": "2026-09-14T17:20:48Z",
+        "timestamp": 1789406448000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "TransBind2: Improving Transcription Factor-DNA Binding Prediction with Multimodal Data and Bidirectional Cross Attention"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Shreya",
+          "family": "Basnet",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering & Computer Science, University of Missouri, Columbia, MO 65211, USA"
+            },
+            {
+              "name": "NextGen Precision Health, University of Missouri, Columbia, MO 65211, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0305-2853",
+          "authenticated-orcid": false,
+          "given": "Jianlin",
+          "family": "Cheng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering & Computer Science, University of Missouri, Columbia, MO 65211, USA"
+            },
+            {
+              "name": "NextGen Precision Health, University of Missouri, Columbia, MO 65211, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-024-07487-W"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.3300"
+        },
+        {
+          "issue": "1",
+          "key": "2026091805001123000_2026.09.07.749913v1.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "565",
+          "DOI": "10.1186/s12859-022-05129-4",
+          "article-title": "Nonlinear physics opens a new paradigm for accurate transcription start site prediction",
+          "volume": "23",
+          "year": "2022",
+          "journal-title": "BMC bioinformatics"
+        },
+        {
+          "issue": "2",
+          "key": "2026091805001123000_2026.09.07.749913v1.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "lqag047",
+          "DOI": "10.1093/nargab/lqag047",
+          "article-title": "Integrating protein and dna embeddings for improving genome-wide transcription factor binding site prediction",
+          "volume": "8",
+          "year": "2026",
+          "journal-title": "NAR Genomics and Bioinformatics"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0092-8674(04)00127-8"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "C. Chen , J. Hou , X. Shi , H. Yang , J. A. Birchler , and J. Cheng . Deepgrn: prediction of transcription factor binding site across cell-types using attention-based deep neural networks. BMC bioinformatics, 22(1):38, 2021.",
+          "DOI": "10.1186/s12859-020-03952-1"
+        },
+        {
+          "issue": "1",
+          "key": "2026091805001123000_2026.09.07.749913v1.7",
+          "doi-asserted-by": "crossref",
+          "first-page": "R44",
+          "DOI": "10.1103/PhysRevE.47.R44",
+          "article-title": "Entropy-driven dna denaturation",
+          "volume": "47",
+          "year": "1993",
+          "journal-title": "Physical Review E"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btz184"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0030377"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/gr.1271603"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature11247"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.12",
+          "doi-asserted-by": "crossref",
+          "first-page": "gkaf1417",
+          "DOI": "10.1093/nar/gkaf1417",
+          "article-title": "A structure-guided approach to noncoding variant evaluation for transcription factor binding using alphafold 3",
+          "volume": "54",
+          "year": "2026",
+          "journal-title": "Nucleic Acids Research"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "M. Heinzinger , K. Weissenow , J. G. Sanchez , A. Henkel , M. Mirdita , M. Steinegger , and B. Rost . Bilingual language model for protein sequence and structure. BioRxiv, pages 2023–07, 2023.",
+          "DOI": "10.1101/2023.07.23.550085"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1151651"
+        },
+        {
+          "issue": "4",
+          "key": "2026091805001123000_2026.09.07.749913v1.15",
+          "doi-asserted-by": "crossref",
+          "first-page": "589",
+          "DOI": "10.3390/math13040589",
+          "article-title": "Btfbs: Binding prediction of bacterial transcription factors and binding sites based on deep learning",
+          "volume": "13",
+          "year": "2025",
+          "journal-title": "Mathematics"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-021-03819-2"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkae783"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.18",
+          "doi-asserted-by": "crossref",
+          "unstructured": "P. Liu , et al. Tfbindformer: A hybrid cross-attention transformer for transcription factor–dna binding prediction. Accepted for oral presentation at the 14th International Conference on Intelligent Biology and Medicine (ICIBM 2026), 2026.",
+          "DOI": "10.64898/2026.04.09.717563"
+        },
+        {
+          "issue": "9",
+          "key": "2026091805001123000_2026.09.07.749913v1.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1003214",
+          "DOI": "10.1371/journal.pcbi.1003214",
+          "article-title": "The next generation of transcription factor binding site prediction",
+          "volume": "9",
+          "year": "2013",
+          "journal-title": "PLoS computational biology"
+        },
+        {
+          "issue": "6",
+          "key": "2026091805001123000_2026.09.07.749913v1.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1187",
+          "DOI": "10.1007/s10955-010-0102-x",
+          "article-title": "Statistical mechanics of transcription-factor binding site discovery using hidden markov models",
+          "volume": "142",
+          "year": "2011",
+          "journal-title": "Journal of statistical physics"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev.bi.61.070192.005201"
+        },
+        {
+          "issue": "1",
+          "key": "2026091805001123000_2026.09.07.749913v1.22",
+          "doi-asserted-by": "crossref",
+          "first-page": "13413",
+          "DOI": "10.1038/s41598-020-70218-4",
+          "article-title": "Enhancing the interpretability of transcription factor binding site prediction using attention mechanism",
+          "volume": "10",
+          "year": "2020",
+          "journal-title": "Scientific reports"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkw226"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/J.YMETH.2019.03.020"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkad1059"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2016239118"
+        },
+        {
+          "issue": "8",
+          "key": "2026091805001123000_2026.09.07.749913v1.27",
+          "doi-asserted-by": "crossref",
+          "first-page": "651",
+          "DOI": "10.1038/nmeth1068",
+          "article-title": "Genome-wide profiles of stat1 dna association using chromatin immunoprecipitation and massively parallel sequencing",
+          "volume": "4",
+          "year": "2007",
+          "journal-title": "Nature methods"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev-biochem-060408-091030"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.2798"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkae1010"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41587-023-01773-0"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.32",
+          "unstructured": "A. Vaswani , N. Shazeer , N. Parmar , J. Uszkoreit , L. Jones , A. N. Gomez , L. Kaiser , and I. Polosukhin . Attention is all you need. Advances in neural information processing systems, 30, 2017."
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2014.08.009"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.34",
+          "unstructured": "K. Weissenow , J. Gomez Sanchez , A. Henkel , M. Mirdita , M. Steinegger , and R. Prostt . Bilingual language model for protein sequence and structure. bioRxiv, 2024."
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.35",
+          "doi-asserted-by": "crossref",
+          "unstructured": "L. Yang , Y. Orenstein , A. Jolma , Y. Yin , J. Taipale , R. Shamir , and R. Rohs . Transcription factor family-specific dna shape readout revealed by quantitative specificity models. Molecular systems biology, 13(2):MSB167238, 2017.",
+          "DOI": "10.15252/msb.20167238"
+        },
+        {
+          "issue": "1",
+          "key": "2026091805001123000_2026.09.07.749913v1.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "7838",
+          "DOI": "10.1038/s41467-024-52293-7",
+          "article-title": "Improving prediction performance of general protein language model by domain-adaptive pretraining on dna-binding protein",
+          "volume": "15",
+          "year": "2024",
+          "journal-title": "Nature Communications"
+        },
+        {
+          "issue": "10",
+          "key": "2026091805001123000_2026.09.07.749913v1.37",
+          "doi-asserted-by": "crossref",
+          "first-page": "931",
+          "DOI": "10.1038/nmeth.3547",
+          "article-title": "Predicting effects of noncoding variants with deep learning–based sequence model",
+          "volume": "12",
+          "year": "2015",
+          "journal-title": "Nature methods"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkt437"
+        },
+        {
+          "key": "2026091805001123000_2026.09.07.749913v1.39",
+          "unstructured": "Z. Zhou , Y. Ji , W. Li , P. Dutta , R. Davuluri , and H. Liu . Dnabert-2: Efficient foundation model and benchmark for multi-species genomes. In International Conference on Learning Representations, volume 2024, pages 41642–41665, 2024."
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.07.749913",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ],
+        "date-time": "2026-09-18T12:00:37Z",
+        "timestamp": 1789732837000
+      },
+      "score": 175.0481,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.07.749913"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ]
+      },
+      "references-count": 39,
+      "URL": "https://doi.org/10.64898/2026.09.07.749913",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

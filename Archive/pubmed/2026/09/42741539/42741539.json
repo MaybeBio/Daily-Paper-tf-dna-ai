@@ -1,0 +1,276 @@
+{
+  "identity": {
+    "pmid": "42741539",
+    "doi": "10.3389/fimmu.2026.1886037",
+    "title": "Integrated multi-omics analysis indicates MARCO and ZBTB20 as candidate biomarkers in rheumatoid arthritis and tuberculosis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Rheumatoid arthritis (RA) patients have a clearly increased possibility to develop tuberculosis (TB). However, the common molecular background, useful diagnostic molecules, and treatment-related targets of this comorbidity are still not sufficiently explained. We attempted to search the shared genetic factors and candidate drug targets for RA and TB by an integrated multi-omics way. METHODS: Bulk transcriptome data sets for RA and TB were obtained from Gene Expression Omnibus (GEO). Differential expression analysis and weighted gene co-expression network analysis (WGCNA) were first performed to collect overlapped disease-related genes. Least Absolute Shrinkage and Selection Operator (LASSO) regression was then applied to select hub genes. External data sets, single-cell RNA sequencing (scRNA-seq), and quantitative real-time PCR (qRT-PCR) using clinical samples were used for validation. We also carried out immune infiltration analysis, gene set enrichment analyses, molecular docking, and 100 ns molecular dynamics (MD) simulation, in order to describe possible function and treatment value of these genes. RESULTS: A total of 312 co-expressed genes common to RA and TB were obtained, and these genes were mainly gathered in immune and inflammatory processes. MARCO and ZBTB20 were kept as hub genes and showed acceptable diagnostic ability in RA (AUC = 0.839 and 0.795, respectively) and TB (AUC = 0.849 and 0.915, respectively). Single-cell results suggested their expression in T cells, B cells, and myeloid cell lineages, tightly correlated with immune infiltration and inflammatory signaling. Computational drug-repurposing analysis identified Tipifarnib as a candidate compound, and molecular docking and molecular dynamics simulations predicted potentially stable interactions with MARCO and ZBTB20. In the clinical cohort, MARCO expression was significantly higher in the RA-TB group than in healthy controls, whereas ZBTB20 did not differ significantly among the four groups. CONCLUSIONS: Our study suggests that MARCO and ZBTB20 may act as common diagnostic biomarkers for RA and TB. The clinical findings provide preliminary support for MARCO as a marker associated with RA-TB comorbidity, whereas the translational relevance of ZBTB20 requires further validation. These findings provide a molecular framework for further investigation of RA-TB comorbidity and may inform the future development of tissue-specific biomarkers and targeted interventions.",
+    "keywords": [
+      "biomarkers",
+      "immune infiltration",
+      "rheumatoid arthritis",
+      "single-cell RNA sequencing",
+      "tuberculosis"
+    ],
+    "mesh_terms": [
+      "*Arthritis, Rheumatoid/genetics/immunology/diagnosis/metabolism/drug therapy",
+      "Humans",
+      "Biomarkers",
+      "*Tuberculosis/genetics/diagnosis/immunology/drug therapy/metabolism",
+      "Multiomics",
+      "*Transcription Factors/genetics/metabolism",
+      "Molecular Docking Simulation",
+      "Gene Expression Profiling",
+      "Gene Regulatory Networks",
+      "Transcriptome",
+      "Computational Biology/methods",
+      "Molecular Dynamics Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Weihua",
+        "Ding, Tiantian",
+        "He, Keli",
+        "Han, Xu",
+        "Zhang, Cantong",
+        "Mei, Yifang"
+      ],
+      "short_names": [
+        "Liu W",
+        "Ding T",
+        "He K",
+        "Han X",
+        "Zhang C",
+        "Mei Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China.",
+        "National Clinical Research Center for Infectious Diseases, Shenzhen Third People's Hospital, Southern University of Science and Technology, Shenzhen, China.",
+        "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China.",
+        "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China.",
+        "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China.",
+        "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China.",
+        "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Weihua",
+        "short_name": "Liu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China.",
+          "National Clinical Research Center for Infectious Diseases, Shenzhen Third People's Hospital, Southern University of Science and Technology, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Tiantian",
+        "short_name": "Ding T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "He, Keli",
+        "short_name": "He K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Han, Xu",
+        "short_name": "Han X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Cantong",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Mei, Yifang",
+        "short_name": "Mei Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Shenzhen Third People's Hospital, Shenzhen, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42741539",
+      "39139563",
+      "42251905",
+      "41836445",
+      "39509434",
+      "39953769",
+      "38656728",
+      "40082645",
+      "41816328",
+      "39067546",
+      "41388523",
+      "38711508",
+      "40592131",
+      "42243611",
+      "36238290",
+      "40500570",
+      "41637423",
+      "42416066",
+      "39845946",
+      "41488645",
+      "42496954",
+      "42450069",
+      "42024670",
+      "42431430",
+      "41066424",
+      "38771826",
+      "39656402",
+      "41913032",
+      "40636121",
+      "42123445",
+      "41052072",
+      "42015036",
+      "39466354",
+      "41088461",
+      "39736250",
+      "42492262",
+      "40288069",
+      "42483176",
+      "41068798",
+      "42074514",
+      "41459480",
+      "42456406",
+      "40238799",
+      "41957428",
+      "42340574",
+      "42642681",
+      "35844557",
+      "36699262",
+      "42510868",
+      "41760032",
+      "42631563",
+      "41212891",
+      "40596265",
+      "38834626",
+      "40475761",
+      "42135859",
+      "41116042",
+      "42737653",
+      "36224010",
+      "40801343",
+      "33407587",
+      "41080564",
+      "41316541",
+      "40681713",
+      "41006377",
+      "41583468",
+      "40644421",
+      "38573982",
+      "42528732",
+      "40703513",
+      "41436831",
+      "34113405",
+      "40565608",
+      "40216809",
+      "41680947",
+      "33604823",
+      "42278407",
+      "39170142",
+      "34583778",
+      "42367122",
+      "42233387",
+      "34484236",
+      "35278479",
+      "34477936",
+      "42471019",
+      "41200169",
+      "38212032",
+      "39541897",
+      "39840076",
+      "40406126",
+      "41963573",
+      "36911710",
+      "42236612",
+      "40304323",
+      "42726736",
+      "28440025",
+      "38941374",
+      "41021591",
+      "40207230",
+      "40929681"
+    ],
+    "review": [
+      "42741539"
+    ],
+    "pmc": [
+      "13572915"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/tuberculosis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Tuberculosis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42741539/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1886037",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

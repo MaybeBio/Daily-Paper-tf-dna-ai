@@ -1,0 +1,162 @@
+{
+  "identity": {
+    "pmid": "42762378",
+    "doi": "10.1007/s12032-026-03388-2",
+    "title": "Gastrodin enhances the spleen immune function in erythroleukemia by regulating T-cell receptor signaling pathway."
+  },
+  "content": {
+    "abstract": "Erythroleukemia is a malignant hematological disorder often accompanied by severe immunosuppression, with T cell dysfunction playing a central role. Gastrodin, which is derived from Gastrodia elata, has been proven to possess various pharmacological activities such as neuroprotection and immunomodulation. However, whether it can effectively improve the immune function in erythroleukemia has not been reported. Our results demonstrated that gastrodin treatment significantly alleviated splenomegaly and inhibited the malignant progression in erythroleukemia mice. Moreover, it markedly enhanced the proliferative capacity of splenic T cells and promoted the secretion of immune - related cytokines. Mechanistically, gastrodin upregulated the expression of key molecules in the T cell receptor signaling pathway, including LCK, ZAP-70, ITK, PKC, IKK, and NFkappaB, at both the mRNA and protein phosphorylation levels. Notably, through integrated bioinformatics analysis, molecular docking, and cellular thermal shift assays, we found that gastrodin exhibits moderate interaction with the transcription factor Fli-1 in erythroleukemia. Collectively, this study provides the first evidence that gastrodin enhances splenic immune function in erythroleukemia by modulating the T cell receptor (TCR) signaling pathway. Cellular thermal shift assay identified Fli-1 as a protein capable of physically interacting with gastrodin, although its functional contribution remains to be further explored. These findings highlight gastrodin as a promising immunotherapeutic candidate for erythroleukemia.",
+    "keywords": [
+      "Cancer immunity",
+      "Erythroleukemia",
+      "Fli-1",
+      "Gastrodin",
+      "TCR Signaling Pathway"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Glucosides/pharmacology",
+      "*Leukemia, Erythroblastic, Acute/immunology/drug therapy/pathology/metabolism",
+      "*Signal Transduction/drug effects",
+      "Mice",
+      "*Spleen/immunology/drug effects",
+      "*Benzyl Alcohols/pharmacology",
+      "*Receptors, Antigen, T-Cell/metabolism/immunology",
+      "Humans",
+      "T-Lymphocytes/drug effects/immunology",
+      "Cell Proliferation/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cheng, Sha",
+        "Xu, Yingjiang",
+        "Wang, Jianping",
+        "Yu, Jia",
+        "Hu, Liangliang",
+        "Liu, Jiming",
+        "Luo, Heng"
+      ],
+      "short_names": [
+        "Cheng S",
+        "Xu Y",
+        "Wang J",
+        "Yu J",
+        "Hu L",
+        "Liu J",
+        "Luo H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Guizhou Medical University, Guiyang, Guizhou, China.",
+        "Natural Products Research Center of Guizhou Province, Guiyang, Guizhou, China.",
+        "Guizhou Wansheng Pharmaceutical Co., Ltd, Zunyi, Guizhou, China.",
+        "Guizhou Wansheng Pharmaceutical Co., Ltd, Zunyi, Guizhou, China.",
+        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Guizhou Medical University, Guiyang, Guizhou, China.",
+        "Natural Products Research Center of Guizhou Province, Guiyang, Guizhou, China.",
+        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Guizhou Medical University, Guiyang, Guizhou, China.",
+        "Natural Products Research Center of Guizhou Province, Guiyang, Guizhou, China.",
+        "Baiyun Affiliated Hospital of Guizhou Medical University, Guiyang, Guizhou, China. sunly310@163.com.",
+        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Guizhou Medical University, Guiyang, Guizhou, China. luoheng71050@aliyun.com.",
+        "Natural Products Research Center of Guizhou Province, Guiyang, Guizhou, China. luoheng71050@aliyun.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cheng, Sha",
+        "short_name": "Cheng S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Guizhou Medical University, Guiyang, Guizhou, China.",
+          "Natural Products Research Center of Guizhou Province, Guiyang, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yingjiang",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guizhou Wansheng Pharmaceutical Co., Ltd, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jianping",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Guizhou Wansheng Pharmaceutical Co., Ltd, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jia",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Guizhou Medical University, Guiyang, Guizhou, China.",
+          "Natural Products Research Center of Guizhou Province, Guiyang, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Liangliang",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Guizhou Medical University, Guiyang, Guizhou, China.",
+          "Natural Products Research Center of Guizhou Province, Guiyang, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiming",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Baiyun Affiliated Hospital of Guizhou Medical University, Guiyang, Guizhou, China. sunly310@163.com."
+        ]
+      },
+      {
+        "full_name": "Luo, Heng",
+        "short_name": "Luo H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Guizhou Medical University, Guiyang, Guizhou, China. luoheng71050@aliyun.com.",
+          "Natural Products Research Center of Guizhou Province, Guiyang, Guizhou, China. luoheng71050@aliyun.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Medical oncology (Northwood, London, England)"
+    ],
+    "journal_abbrev": [
+      "Med Oncol"
+    ],
+    "pub_date": "2026 Sep 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42762378"
+    ],
+    "review": [
+      "42762378"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

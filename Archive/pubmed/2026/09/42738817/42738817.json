@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42738817",
+    "doi": "10.3390/cells15171523",
+    "title": "Male and Female Mice Show Similar Fear Memory Performance Despite Hippocampal Immediate Early Gene Expression Differences During Encoding and Consolidation."
+  },
+  "content": {
+    "abstract": "Accurate and efficient memory processing is essential for survival. A body of ongoing work in both human subjects and animal models suggests that memory processing may differ substantially between males and females. In mice, contextual fear memory (CFM) encoding, consolidation, and recall have been well studied, and the mouse hippocampus and amygdala have been implicated in these processes. The present pilot study addresses whether the activation of these brain regions differs substantially between male and female mice at each stage of CFM processing. We find that male and female mice show no differences in sleep behavior, which is essential for CFM consolidation, following single-trial contextual fear conditioning (CFC). We also find no significant differences in CFM recall performance between male and female mice. However, females show a trend for larger increases in CA1 cFos expression, relative to males, during CFM encoding. On the other hand, only males-but not females-show an apparent increase in cFos expression among dentate gyrus (DG) granule cells during CFM consolidation. Males also show a trend for a larger apparent reduction in cFos in CA1 and CA3 during CFM consolidation, relative to females. These preliminary findings highlight the idea that the neurobiological underpinnings of memory processing may differ between males and females, even when performance during recall is identical.",
+    "keywords": [
+      "hippocampus",
+      "immediate early genes",
+      "memory consolidation",
+      "memory encoding",
+      "memory retrieval",
+      "neural networks"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Female",
+      "*Fear/physiology",
+      "Male",
+      "*Hippocampus/metabolism/physiology",
+      "*Genes, Immediate-Early/genetics",
+      "*Memory Consolidation/physiology",
+      "Mice",
+      "*Memory/physiology",
+      "Mice, Inbred C57BL",
+      "Proto-Oncogene Proteins c-fos/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "McDonald, Katherine O",
+        "Yu, Temmie",
+        "Prabhu, Aditi",
+        "Aton, Sara J"
+      ],
+      "short_names": [
+        "McDonald KO",
+        "Yu T",
+        "Prabhu A",
+        "Aton SJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2921-0509"
+      ],
+      "affiliations": [
+        "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA.",
+        "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA.",
+        "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA.",
+        "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "McDonald, Katherine O",
+        "short_name": "McDonald KO",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Temmie",
+        "short_name": "Yu T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA."
+        ]
+      },
+      {
+        "full_name": "Prabhu, Aditi",
+        "short_name": "Prabhu A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA."
+        ]
+      },
+      {
+        "full_name": "Aton, Sara J",
+        "short_name": "Aton SJ",
+        "identifiers": [
+          "0000-0002-2921-0509"
+        ],
+        "affiliations": [
+          "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cells"
+    ],
+    "journal_abbrev": [
+      "Cells"
+    ],
+    "pub_date": "2026 Aug 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42738817",
+      "42539238",
+      "23389809",
+      "31128099",
+      "12882314",
+      "27577601",
+      "21377513",
+      "36510822",
+      "34344824",
+      "33069732",
+      "27343988",
+      "38906243",
+      "30316893",
+      "27255708",
+      "16027176",
+      "30285241",
+      "15728833",
+      "29258546",
+      "41661368",
+      "24628842",
+      "30116860",
+      "21244716",
+      "24843151",
+      "24860440",
+      "38934712",
+      "30545945",
+      "14960356",
+      "28546308",
+      "32561387",
+      "11245703",
+      "29807127",
+      "23977192",
+      "38347124",
+      "39482781",
+      "41068278",
+      "24838805",
+      "34819370",
+      "38715106",
+      "17613254",
+      "26318493",
+      "30060138",
+      "26748021",
+      "28270570",
+      "28292834",
+      "39880069",
+      "14644471",
+      "31542328",
+      "10216179",
+      "42475469",
+      "30623374",
+      "29222058",
+      "40604112",
+      "32996086",
+      "33568175",
+      "19638469",
+      "33833081",
+      "31201928",
+      "41956977",
+      "36847108",
+      "16819996",
+      "22445898",
+      "32006528",
+      "19295145",
+      "35870952",
+      "33888604",
+      "28705439",
+      "25512571",
+      "27834391",
+      "32179657",
+      "35021061",
+      "38236296",
+      "31622640",
+      "42203128",
+      "33596432",
+      "34624524",
+      "42003232",
+      "42702905",
+      "40057951",
+      "32024104",
+      "32571910",
+      "11298807",
+      "14583739",
+      "20003620",
+      "31593790",
+      "22290116",
+      "31110186",
+      "16452685",
+      "19110037",
+      "35191834",
+      "36870465",
+      "42617969",
+      "34876468",
+      "28385873",
+      "29374537",
+      "24904070",
+      "37407567",
+      "18691323",
+      "32817247",
+      "38097125",
+      "23742919"
+    ],
+    "review": [
+      "42738817"
+    ],
+    "pmc": [
+      "13565567"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cells15171523",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/memory.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Memory"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42738817/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1091",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

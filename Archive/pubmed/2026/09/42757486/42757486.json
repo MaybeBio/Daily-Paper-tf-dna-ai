@@ -1,0 +1,258 @@
+{
+  "identity": {
+    "pmid": "42757486",
+    "doi": "10.3892/or.2026.9194",
+    "title": "Pemetrexed increases BRCA1 protein stability and sensitizes TNBC cells to radiotherapy."
+  },
+  "content": {
+    "abstract": "BRCA1 is a multifunctional tumor suppressor that orchestrates homologous recombination repair, chromatin remodeling, cell cycle control and apoptosis. Although pathogenic BRCA1 mutations are relatively uncommon, decreased BRCA1 protein expression, which is typically driven by accelerated proteasomal degradation, is implicated in aggressive breast cancer (BC), particularly triple‑negative (TN)BC. These mutations may modulate therapeutic response to DNA‑damaging agents. Given the absence of clinically available strategies to restore BRCA1 stability, the present study evaluated whether pemetrexed (Peme), a multitargeted antifolate identified through an in silico US Food and Drug Administration‑approved drug screen, modulates BRCA1 protein homeostasis in TNBC models. BRCA1 protein abundance, ubiquitination and turnover were assessed using immunoblotting, ubiquitin pull‑down and cycloheximide chase analyses and BRCA1 domain mutants. Functional consequences of Peme treatment were measured by apoptosis assay and BRCA1‑dependent signaling readouts. The radiosensitizing effect of Peme was evaluated in vitro and validated in TNBC xenografts. Peme increased BRCA1 protein levels without altering BRCA1 mRNA, indicating post‑translational regulation. Mechanistically, in silico docking and BRCA1 deletion mutant analyses suggested that the BRCA1 C‑terminal domain may contribute to the effect of Peme on BRCA1 stability, suppressing ubiquitin‑mediated proteasomal degradation and resulting in protein stabilization. Stabilized BRCA1 enhanced apoptotic responses, whereas BRCA1 knockdown attenuated these effects. Combined Peme‑radiation treatment significantly potentiated cytotoxicity in vitro and inhibited tumor growth in vivo, demonstrating a radiosensitizing effect linked to BRCA1 stabilization. Collectively, these findings identified Peme as a BRCA1‑stabilizing agent that enhances therapeutic response to radiation in TNBC. Pharmacological restoration of BRCA1 stability represents a promising strategy to overcome therapeutic resistance in BRCA1‑deficient or functionally compromised BC.",
+    "keywords": [
+      "BRCA1",
+      "pemetrexed",
+      "protein stability",
+      "radiosensitization",
+      "triple‑negative breast cancer"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*BRCA1 Protein/metabolism/genetics/chemistry",
+      "Female",
+      "*Triple Negative Breast Neoplasms/radiotherapy/pathology/genetics/drug therapy/metabolism/therapy",
+      "Animals",
+      "*Pemetrexed/pharmacology",
+      "Mice",
+      "Cell Line, Tumor",
+      "Protein Stability/drug effects",
+      "Xenograft Model Antitumor Assays",
+      "Apoptosis/drug effects/radiation effects",
+      "*Radiation-Sensitizing Agents/pharmacology",
+      "*Radiation Tolerance/drug effects",
+      "Ubiquitination/drug effects",
+      "Gene Expression Regulation, Neoplastic/drug effects/radiation effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jin, Hee",
+        "Jeon, Kyung-Hwa",
+        "Kang, Chaerin",
+        "Lee, Joohyun",
+        "Lee, Yeonjin",
+        "Kwon, Youngjoo",
+        "Lee, Yun-Sil"
+      ],
+      "short_names": [
+        "Jin H",
+        "Jeon KH",
+        "Kang C",
+        "Lee J",
+        "Lee Y",
+        "Kwon Y",
+        "Lee YS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea.",
+        "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea.",
+        "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea.",
+        "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea.",
+        "Innovative BioPharmChem Convergence Education and Research Program, Ewha Womans University, Seoul 03760, Republic of Korea.",
+        "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea.",
+        "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jin, Hee",
+        "short_name": "Jin H",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jeon, Kyung-Hwa",
+        "short_name": "Jeon KH",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kang, Chaerin",
+        "short_name": "Kang C",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Joohyun",
+        "short_name": "Lee J",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Yeonjin",
+        "short_name": "Lee Y",
+        "identifiers": [],
+        "affiliations": [
+          "Innovative BioPharmChem Convergence Education and Research Program, Ewha Womans University, Seoul 03760, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kwon, Youngjoo",
+        "short_name": "Kwon Y",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Yun-Sil",
+        "short_name": "Lee YS",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Pharmaceutical Sciences and College of Pharmacy, Ewha Womans University, Seoul 03760, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Oncology reports"
+    ],
+    "journal_abbrev": [
+      "Oncol Rep"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 12:25",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42757486",
+      "38613358",
+      "25884663",
+      "40819058",
+      "38863037",
+      "42120731",
+      "25583261",
+      "41148817",
+      "40764992",
+      "32117061",
+      "39332782",
+      "41197758",
+      "40849803",
+      "42116764",
+      "40499340",
+      "26546619",
+      "42032729",
+      "28578456",
+      "28069724",
+      "36493696",
+      "29902865",
+      "41900138",
+      "25026298",
+      "31789405",
+      "31786739",
+      "39505147",
+      "42505347",
+      "31639439",
+      "28034904",
+      "42573925",
+      "31652854",
+      "27994514",
+      "40635078",
+      "32052681",
+      "25888415",
+      "40619273",
+      "31492187",
+      "41898593",
+      "40963916",
+      "25228385",
+      "41253271",
+      "38711004",
+      "42358812",
+      "22812567",
+      "33167919",
+      "39615216",
+      "41254117",
+      "30166399",
+      "39556022",
+      "39154703",
+      "40788036",
+      "41644081",
+      "41888415",
+      "30554948",
+      "28465444",
+      "40796898",
+      "27286975",
+      "42095973",
+      "41630032",
+      "30442946",
+      "26004086",
+      "33727089",
+      "27838149",
+      "40968253",
+      "40846041",
+      "38472681",
+      "30607635",
+      "40619388",
+      "41484895",
+      "24507701",
+      "30651219",
+      "37393021",
+      "40472617",
+      "32448269",
+      "41208884",
+      "28176879",
+      "42353852",
+      "42138474",
+      "39167147",
+      "34036395",
+      "30259975",
+      "32020216",
+      "34080025",
+      "40316059",
+      "42530251",
+      "30736840",
+      "31213465",
+      "31014367",
+      "30842344",
+      "27880910",
+      "41226649",
+      "40833485",
+      "30580238",
+      "41373491",
+      "39392573",
+      "26933805",
+      "24866585",
+      "41455398",
+      "41443044",
+      "39216450"
+    ],
+    "review": [
+      "42757486",
+      "36493696"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

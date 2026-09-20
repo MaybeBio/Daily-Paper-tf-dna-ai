@@ -1,0 +1,234 @@
+{
+  "identity": {
+    "pmid": "42736093",
+    "doi": "10.1016/j.acra.2026.08.069",
+    "title": "Deep Learning Based on Magnetic Resonance Imaging for Preoperative Prediction of Pituitary Neuroendocrine Tumors Subtypes."
+  },
+  "content": {
+    "abstract": "RATIONALE AND OBJECTIVES: Molecular subtyping of pituitary neuroendocrine tumors (PitNETs [pituitary adenoma]) guides treatment but requires postoperative pathology. This study aimed to develop a deep learning model for preoperative noninvasive prediction of PitNET subtypes using magnetic resonance imaging (MRI). MATERIALS AND METHODS: This study retrospectively enrolled patients with pathologically confirmed PitNETs from two centers. Patients were classified into four groups based on the expression of the SF1, PIT1, and TPIT transcription factors as follows: PIT1 lineage, TPIT lineage, SF1 lineage, and no distinct cell lineage. All patients underwent preoperative MRI examinations comprising coronal T1-weighted (T1WI), T2-weighted (T2W1), and contrast-enhanced T1WI sequences, as well as sagittal T1WI and contrast-enhanced T1WI sequences. The YOLOv11 model was trained using either single or combined sequences to achieve subtype classification. Performance was evaluated via internal, temporal external, and multicenter validation using mean average precision (mAP), precision, recall, and F1-score. RESULTS: This retrospective study included a total of 888 patients enrolled between January 2021 and December 2025, with a mean age of 54.32 years; 52.9% of the patients were female. The model performed robustly in the internal validation set, temporal external test set, and multicenter validation cohort, effectively distinguishing among the four molecular subtypes. Among these, sagittal contrast-enhanced T1WI sequences yielded the best predictive results (mAP50-95: 0.901), while coronal T2WI sequences performed relatively poorly (mAP50-95: 0.756). CONCLUSION: MRI-based deep learning enables accurate preoperative PitNET subtyping in retrospective cohorts, warranting investigation as a tool to aid personalized management following prospective validation.",
+    "keywords": [
+      "Deep learning",
+      "Magnetic resonance imaging",
+      "Pituitary neuroendocrine tumors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Zhen",
+        "Xiong, Yang",
+        "Yu, Xiaohui",
+        "Ding, Guangkai",
+        "Li, Yanghui"
+      ],
+      "short_names": [
+        "Yang Z",
+        "Xiong Y",
+        "Yu X",
+        "Ding G",
+        "Li Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Tongji Junshan Neuroscience Center, Wuhan, China (Z.Y.); Department of Neurosurgery, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Hefei, Anhui, China (Z.Y.).",
+        "Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu, China (Y.X., G.D.).",
+        "Department of Endocrinology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui, China (X.Y.).",
+        "Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu, China (Y.X., G.D.).",
+        "Anhui Wenda University of Information Engineering, 3 Forest Avenue, Feixi County, Hefei, Anhui 231201, China (Y.L.). Electronic address: 16621124396@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Zhen",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Tongji Junshan Neuroscience Center, Wuhan, China (Z.Y.); Department of Neurosurgery, The Second People's Hospital of Hefei, Hefei Hospital Affiliated to Anhui Medical University, Hefei, Anhui, China (Z.Y.)."
+        ]
+      },
+      {
+        "full_name": "Xiong, Yang",
+        "short_name": "Xiong Y",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu, China (Y.X., G.D.)."
+        ]
+      },
+      {
+        "full_name": "Yu, Xiaohui",
+        "short_name": "Yu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui, China (X.Y.)."
+        ]
+      },
+      {
+        "full_name": "Ding, Guangkai",
+        "short_name": "Ding G",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu, China (Y.X., G.D.)."
+        ]
+      },
+      {
+        "full_name": "Li, Yanghui",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Wenda University of Information Engineering, 3 Forest Avenue, Feixi County, Hefei, Anhui 231201, China (Y.L.). Electronic address: 16621124396@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Academic radiology"
+    ],
+    "journal_abbrev": [
+      "Acad Radiol"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:06",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42736093",
+      "42159881",
+      "42680659",
+      "40116948",
+      "39579326",
+      "36282309",
+      "40296825",
+      "35291028",
+      "41740271",
+      "38228887",
+      "38844718",
+      "41044494",
+      "41826882",
+      "41604786",
+      "41545974",
+      "41980627",
+      "40167646",
+      "42361371",
+      "39210161",
+      "41673110",
+      "39054123",
+      "32087466",
+      "38508934",
+      "40551554",
+      "42698053",
+      "38376544",
+      "42031964",
+      "40330833",
+      "40229520",
+      "39681144",
+      "38409300",
+      "39289097",
+      "38690027",
+      "42249366",
+      "35662054",
+      "42638078",
+      "42153825",
+      "32706384",
+      "41176822",
+      "41361391",
+      "42310560",
+      "42484847",
+      "36965182",
+      "34085336",
+      "41819797",
+      "42224133",
+      "41341401",
+      "41273358",
+      "40606348",
+      "42706633",
+      "36517420",
+      "40116887",
+      "41126066",
+      "36527335",
+      "37848774",
+      "40085941",
+      "32045064",
+      "42608639",
+      "42637179",
+      "42650848",
+      "40360135",
+      "32278690",
+      "41661434",
+      "41367005",
+      "42617841",
+      "41521161",
+      "39415127",
+      "39984860",
+      "41209246",
+      "38649148",
+      "37763643",
+      "37268858",
+      "41122649",
+      "41956924",
+      "42073589",
+      "40175203",
+      "39370313",
+      "41633888",
+      "39956910",
+      "41366360",
+      "41462135",
+      "42692875",
+      "35976419",
+      "35278008",
+      "41325721",
+      "37353736",
+      "31375430",
+      "40987673",
+      "39807983",
+      "40355636",
+      "42591662",
+      "39904666",
+      "39839029",
+      "42138820",
+      "39276192",
+      "37064158",
+      "39944539",
+      "37330356",
+      "36925335",
+      "39759109"
+    ],
+    "review": [
+      "42736093",
+      "35291028",
+      "38228887"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1076-6332(26)00683-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S1076-6332(26)00683-5",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

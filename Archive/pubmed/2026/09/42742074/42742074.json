@@ -1,0 +1,311 @@
+{
+  "identity": {
+    "pmid": "42742074",
+    "doi": "10.1002/cbdv.71695",
+    "title": "Study on the Antidepressant Effect and Mechanism of Water Extract of Semiliquidambar cathayensis (WESC) Based on the GSK3beta/NF-kappaB Signaling Pathway."
+  },
+  "content": {
+    "abstract": "Water extract of Semiliquidambar cathayensis (WESC) exhibits favorable therapeutic effects against depression, yet its pharmacodynamic material basis and mechanism of action remain unclear. In this study, ultra-high-performance liquid chromatography coupled with quadrupole time-of-flight mass spectrometry (UPLC-Q-TOF-MS) was employed to analyze the chemical constituents of WESC. Network pharmacology and molecular docking were further applied to screen the antidepressant mechanism basis and potential targets of WESC. Lipopolysaccharide (LPS)-induced mouse and PC12 cell models were established as in vivo depressive animal model and in vitro cellular injury model, respectively. Combined with pathological examination and molecular biological techniques, the antidepressant mechanism of WESC was systematically investigated. Results showed that a total of 14 chemical components were identified from WESC. Network pharmacology and molecular docking analyses indicated that GSK3beta was one of the key targets, and the active components in WESC possessed strong binding affinities with GSK3beta, Axin1, and NF-kappaB. Pathological studies demonstrated that WESC significantly alleviated inflammatory infiltration in the mouse prefrontal cortex and hippocampal neuronal damage. Molecular biological analyses revealed that WESC markedly downregulated the expression of proteins related to the GSK3beta/NF-kappaB signaling pathway in LPS-stimulated mice and PC12 cells, thereby attenuating neuroinflammation, promoting neural plasticity, and exerting antidepressant effects.",
+    "keywords": [
+      "GSK3beta/NF-kappaB pathway",
+      "Semiliquidambar cathayensis",
+      "depression",
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Glycogen Synthase Kinase 3 beta/metabolism/antagonists & inhibitors",
+      "Mice",
+      "*Antidepressive Agents/pharmacology/chemistry/isolation & purification",
+      "*NF-kappa B/metabolism/antagonists & inhibitors",
+      "*Signal Transduction/drug effects",
+      "PC12 Cells",
+      "Molecular Docking Simulation",
+      "Rats",
+      "*Plant Extracts/chemistry/pharmacology/isolation & purification",
+      "Water/chemistry",
+      "Lipopolysaccharides/pharmacology/antagonists & inhibitors",
+      "Male",
+      "*Depression/drug therapy/chemically induced/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Li",
+        "He, Junhui",
+        "Li, Dongmei",
+        "Li, Yi",
+        "Su, Qibiao",
+        "Liang, Hongning",
+        "Yuan, Jiantong",
+        "Lai, Kedao",
+        "Wei, Guining"
+      ],
+      "short_names": [
+        "Yang L",
+        "He J",
+        "Li D",
+        "Li Y",
+        "Su Q",
+        "Liang H",
+        "Yuan J",
+        "Lai K",
+        "Wei G"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1401-5716",
+        "ORCID: 0000-0002-3096-8798"
+      ],
+      "affiliations": [
+        "Department of Pharmacology, Guangxi Medical University, Nanning, Guangxi, China.",
+        "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China.",
+        "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China.",
+        "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China.",
+        "College of Health Science, Guangdong Pharmaceutical University, Guangzhou, China.",
+        "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China.",
+        "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China.",
+        "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China.",
+        "Department of Pharmacology, Guangxi Medical University, Nanning, Guangxi, China.",
+        "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Li",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Guangxi Medical University, Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "He, Junhui",
+        "short_name": "He J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Li, Dongmei",
+        "short_name": "Li D",
+        "identifiers": [
+          "0000-0003-1401-5716"
+        ],
+        "affiliations": [
+          "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yi",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Su, Qibiao",
+        "short_name": "Su Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Health Science, Guangdong Pharmaceutical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Hongning",
+        "short_name": "Liang H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Jiantong",
+        "short_name": "Yuan J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Kedao",
+        "short_name": "Lai K",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Guining",
+        "short_name": "Wei G",
+        "identifiers": [
+          "0000-0002-3096-8798"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, Guangxi Medical University, Nanning, Guangxi, China.",
+          "Guangxi Key Laboratory of Traditional Chinese Medicine Quality Standards, Guangxi Institute of Chinese Medicine and Pharmaceutical Science, Nanning, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemistry & biodiversity"
+    ],
+    "journal_abbrev": [
+      "Chem Biodivers"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42742074",
+      "42424752",
+      "39374881",
+      "41921863",
+      "42107750",
+      "41819508",
+      "41724286",
+      "42421348",
+      "42392745",
+      "38972239",
+      "42172986",
+      "39245241",
+      "42173415",
+      "40049341",
+      "33444723",
+      "41485625",
+      "42044574",
+      "23686005",
+      "42725847",
+      "40684492",
+      "42431281",
+      "39490433",
+      "38582152",
+      "41380857",
+      "41780614",
+      "40945253",
+      "40499803",
+      "39089660",
+      "41553445",
+      "40675106",
+      "40553825",
+      "41241210",
+      "40013962",
+      "40216047",
+      "41053956",
+      "42294648",
+      "42280394",
+      "39971016",
+      "41794258",
+      "42263918",
+      "42302947",
+      "42543338",
+      "36471978",
+      "41213440",
+      "37586441",
+      "40907728",
+      "41314044",
+      "39701711",
+      "40836407",
+      "38216101",
+      "41687937",
+      "38972238",
+      "41692110",
+      "40020626",
+      "40682227",
+      "39689748",
+      "42150287",
+      "42398656",
+      "38697555",
+      "40086050",
+      "40517918",
+      "40279969",
+      "38910274",
+      "36252879",
+      "33039720",
+      "41165967",
+      "40541752",
+      "41121478",
+      "40021022",
+      "31954258",
+      "30195108",
+      "41974236",
+      "42314811",
+      "41101552",
+      "42044780",
+      "40816580",
+      "39571698",
+      "41303615",
+      "39219696",
+      "41151450",
+      "38417244",
+      "40398242",
+      "41508081",
+      "34785108",
+      "40570565",
+      "39197805",
+      "40902813",
+      "40120539",
+      "40350886",
+      "39486672",
+      "41814950",
+      "41763619",
+      "38772184",
+      "34523667",
+      "40904085",
+      "39019111",
+      "40204052",
+      "39522841",
+      "38964628",
+      "41833149"
+    ],
+    "review": [
+      "42742074"
+    ],
+    "pmc": [
+      "13576078"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/antidepressants.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antidepressants"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42742074/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/cbdv.71695",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

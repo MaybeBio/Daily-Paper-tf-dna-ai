@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "pmid": "42735875",
+    "doi": "10.1016/j.tox.2026.154583",
+    "title": "Integrative AOP-Based Mechanistic Profiling of Organic UV Filters Reveals Shared Endocrine-Metabolic and Stress-Response Pathways."
+  },
+  "content": {
+    "abstract": "Organic UV filters are widely used in personal care products and are increasingly detected in humans and the environment. Although several compounds exhibit systemic absorption and biological activity, their mechanisms of action remain poorly understood because comprehensive toxicogenomic data remain limited. Here, we developed an integrative Adverse Outcome Pathway (AOP)-based framework to support the mechanistic profiling of organic UV filters with sparse experimental evidence. Molecular evidence was integrated from experimentally supported bioassay target genes, transcription factor downstream target genes derived from a curated regulatory network, and predicted protein targets obtained through molecular docking using GalaxySagittarius-AF. Docking-derived targets were prioritized using prediction scores and refined according to protein-protein interaction network proximity to bioassay-confirmed targets. Chemical-specific gene sets were tested for enrichment against curated human Key Event gene sets and mapped onto the AOP network. ADMET descriptors and GTEx tissue-expression data were incorporated to assess skin absorption relevance and tissue-specific biological plausibility. Ten organic UV filters met the skin absorption criteria and underwent mechanistic analysis. Integrated evidence revealed recurring molecular signatures involving nuclear receptor signalling, lipid metabolism, oxidative stress, inflammation, and DNA damage responses. AOP mapping highlighted convergence on endocrine-metabolic key events, including androgen and estrogen receptor signalling, PPAR-mediated lipid regulation, and hepatobiliary nuclear receptor pathways. Additional subnetworks linked oxidative and inflammatory processes with AOP regions associated with liver, breast, and neurotoxicity, representing mechanistic enrichment rather than evidence of causality. This framework enables mechanistic profiling despite limited toxicogenomic data, identifies biologically plausible pathways and shared molecular domains across structurally diverse UV filters, and provides a foundation for hypothesis generation and prioritization of future experimental studies.",
+    "keywords": [
+      "Adverse Outcome Pathway (AOP)",
+      "Computational toxicology",
+      "Endocrine disruption",
+      "Molecular docking",
+      "Network toxicology",
+      "Organic UV filters",
+      "Target prediction"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Accardi, Cristina",
+        "Al-Abdulraheem, Zeyad",
+        "Schaffert, Alexandra",
+        "Federico, Antonio",
+        "Del Giudice, Giusy",
+        "Serra, Angela",
+        "Greco, Dario"
+      ],
+      "short_names": [
+        "Accardi C",
+        "Al-Abdulraheem Z",
+        "Schaffert A",
+        "Federico A",
+        "Del Giudice G",
+        "Serra A",
+        "Greco D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland.",
+        "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland.",
+        "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Tampere Institute for Advanced Study, Tampere University, Tampere, Finland.",
+        "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland.",
+        "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland.",
+        "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland.",
+        "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland. Electronic address: dario.greco@tuni.fi."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Accardi, Cristina",
+        "short_name": "Accardi C",
+        "identifiers": [],
+        "affiliations": [
+          "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Al-Abdulraheem, Zeyad",
+        "short_name": "Al-Abdulraheem Z",
+        "identifiers": [],
+        "affiliations": [
+          "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland."
+        ]
+      },
+      {
+        "full_name": "Schaffert, Alexandra",
+        "short_name": "Schaffert A",
+        "identifiers": [],
+        "affiliations": [
+          "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Tampere Institute for Advanced Study, Tampere University, Tampere, Finland."
+        ]
+      },
+      {
+        "full_name": "Federico, Antonio",
+        "short_name": "Federico A",
+        "identifiers": [],
+        "affiliations": [
+          "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Del Giudice, Giusy",
+        "short_name": "Del Giudice G",
+        "identifiers": [],
+        "affiliations": [
+          "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Serra, Angela",
+        "short_name": "Serra A",
+        "identifiers": [],
+        "affiliations": [
+          "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Greco, Dario",
+        "short_name": "Greco D",
+        "identifiers": [],
+        "affiliations": [
+          "Finnish Hub for Development and Validation of Integrated Approaches (FHAIVE), Faculty of Medicine and Health Technology, Tampere University, Tampere, 33520, Finland; Faculty of Pharmacy, University of Helsinki, Helsinki, Finland. Electronic address: dario.greco@tuni.fi."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Toxicology"
+    ],
+    "journal_abbrev": [
+      "Toxicology"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:06",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42735875",
+      "42475469",
+      "31872748",
+      "42153145",
+      "42263869",
+      "42653779",
+      "42421348",
+      "42246097",
+      "42090759",
+      "39150724",
+      "42220119",
+      "41492010",
+      "37541407",
+      "42159741",
+      "42588199",
+      "41303381",
+      "42616073",
+      "41898791",
+      "41604324",
+      "42600487",
+      "41183465",
+      "42743802",
+      "39206816",
+      "42093283",
+      "40054344",
+      "42741553",
+      "35219661",
+      "40676786",
+      "42565562",
+      "42678399",
+      "32399610",
+      "41660038",
+      "38979646",
+      "41574553",
+      "41186507",
+      "41802509",
+      "42263871",
+      "42306304",
+      "42241400",
+      "42308851",
+      "41769099",
+      "41970950",
+      "41947916",
+      "37561120",
+      "34193143",
+      "42460320",
+      "41533020",
+      "41512780",
+      "42245117",
+      "32516358",
+      "41673191",
+      "42406869",
+      "42344598",
+      "41275765",
+      "35939063",
+      "42694440",
+      "41044206",
+      "41603182",
+      "42152672",
+      "42392379",
+      "41650075",
+      "42536688",
+      "41064833",
+      "42499056",
+      "42495626",
+      "41901336",
+      "42579211",
+      "42589369",
+      "36321557",
+      "42473438",
+      "41847139",
+      "42496828",
+      "42188010",
+      "41056603",
+      "34757180",
+      "41389885",
+      "41197816",
+      "42477744",
+      "41611834",
+      "42393402",
+      "40916281",
+      "39780215",
+      "42173417",
+      "41191606",
+      "40474796",
+      "42260332",
+      "35790550",
+      "23228038",
+      "42301195",
+      "41038150",
+      "39038667",
+      "42450069",
+      "35987407",
+      "42693463",
+      "42520089",
+      "40512387",
+      "41183686",
+      "41895505",
+      "41612433",
+      "41794809"
+    ],
+    "review": [
+      "42735875",
+      "39150724",
+      "42678399",
+      "32399610",
+      "42460320",
+      "42392379",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300-483X(26)00190-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1496",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0300-483X(26)00190-3",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

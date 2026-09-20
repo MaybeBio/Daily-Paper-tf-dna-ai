@@ -1,0 +1,336 @@
+{
+  "identity": {
+    "pmid": "42745923",
+    "doi": "10.3389/fimmu.2026.1745640",
+    "title": "Identification of Wnt/beta-catenin- and immune-related genes in hepatic ischemia-reperfusion injury using bulk transcriptomics, single-cell RNA sequencing, and a murine model."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Hepatic ischemia-reperfusion injury (HIRI) is a major complication following liver transplantation (LT), contributing to graft dysfunction and rejection. The roles of the Wnt/beta-catenin signaling pathway and immune responses in LT-related HIRI remain incompletely elucidated. This study aimed to screen key genes associated with Wnt/beta-catenin signaling scores and immune regulation in HIRI after LT. METHODS: Three LT-related transcriptomic datasets (GSE151648, GSE12720, and GSE189539) were analyzed. Wnt/beta-catenin pathway-related genes (WRGs) and immune-related genes (IRGs) were integrated. Weighted gene co-expression network analysis (WGCNA), differential expression analysis, and machine learning algorithms (Boruta and LASSO) were employed to identify hub genes. CIBERSORT was used to perform deconvolution analysis of bulk transcriptomic data and estimate the relative proportions of 22 immune cell types. Regulatory networks of key gene expression, including TF-mRNA and lncRNA-miRNA-mRNA networks, were constructed. Preliminary expression-level validation was performed in a non-transplant murine HIRI model using qPCR, Western blot, histological analysis, and serological assessment. RESULTS: Four pivotal genes-HSP90AA1, HSP90AB1, NFATC1, and THBS1-were identified and validated. These genes were significantly upregulated in post-LT samples and showed good discriminatory potential in the analyzed datasets (AUC > 0.9 in training set, >0.7 in validation set). Functional enrichment linked these genes to cytokine activity and pathways such as the Jak-STAT and chemokine signaling pathways. Immune infiltration analysis revealed correlations with M0/M2 macrophages and resting mast cells. Single-cell sequencing delineated their cell-type-specific expression and differentiation-stage dynamics. In the non-transplant murine HIRI model, the mRNA and protein expression levels of all four genes were significantly upregulated at 6 hours after reperfusion, coinciding with peak injury and supporting their association with acute ischemia-reperfusion injury. CONCLUSION: This study identifies HSP90AA1, HSP90AB1, NFATC1, and THBS1 as crucial biomarkers. Their expression was associated with Wnt/beta-catenin signaling scores and immune responses. Results from the non-transplant murine HIRI model supported the upregulation of the four genes during the acute phase of ischemia-reperfusion injury, whereas their potential time-dependent significance and therapeutic value require further validation in LT models and gene functional intervention experiments.",
+    "keywords": [
+      "Wnt/beta-catenin signaling",
+      "biomarkers",
+      "hepatic ischemia-reperfusion injury",
+      "immune response",
+      "liver transplantation"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Reperfusion Injury/genetics/immunology/metabolism/etiology",
+      "Mice",
+      "*Wnt Signaling Pathway/genetics/immunology",
+      "Disease Models, Animal",
+      "Gene Expression Profiling",
+      "Gene Regulatory Networks",
+      "*Liver Transplantation/adverse effects",
+      "*Transcriptome",
+      "*Liver/pathology/metabolism/immunology",
+      "Single-Cell Gene Expression Analysis",
+      "Single-Cell Analysis",
+      "Male",
+      "beta Catenin/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Zhengjun",
+        "Gu, Xuanyu",
+        "Zheng, Zhihong",
+        "Shao, Yaoli",
+        "Tu, Kui",
+        "Jiang, Jichang",
+        "Cao, Yu",
+        "Gu, Jin",
+        "Zhao, Lijin",
+        "Yao, Hua"
+      ],
+      "short_names": [
+        "Zhou Z",
+        "Gu X",
+        "Zheng Z",
+        "Shao Y",
+        "Tu K",
+        "Jiang J",
+        "Cao Y",
+        "Gu J",
+        "Zhao L",
+        "Yao H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China.",
+        "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+        "Department of Critical Care Medicine, Affiliated Hospital of Zunyi Medical University, Zunyi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Zhengjun",
+        "short_name": "Zhou Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+          "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Xuanyu",
+        "short_name": "Gu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Zhihong",
+        "short_name": "Zheng Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Yaoli",
+        "short_name": "Shao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+          "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Tu, Kui",
+        "short_name": "Tu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+          "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Jichang",
+        "short_name": "Jiang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+          "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Yu",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+          "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Jin",
+        "short_name": "Gu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+          "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Lijin",
+        "short_name": "Zhao L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+          "Guizhou Provincial Key Laboratory of Digestive System Diseases, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Hua",
+        "short_name": "Yao H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Digestive Disease Hospital, Affiliated Hospital of Zunyi Medical University, Zunyi, China.",
+          "Department of Critical Care Medicine, Affiliated Hospital of Zunyi Medical University, Zunyi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42745923",
+      "41299729",
+      "42238567",
+      "42737862",
+      "38690269",
+      "39341981",
+      "41550926",
+      "38935114",
+      "42642681",
+      "40914702",
+      "40034711",
+      "42361133",
+      "38694511",
+      "39993960",
+      "41534252",
+      "42565562",
+      "38493695",
+      "40316717",
+      "41866423",
+      "38867322",
+      "40147738",
+      "39147333",
+      "41205031",
+      "41733593",
+      "41162503",
+      "37033969",
+      "41224720",
+      "42265520",
+      "42040893",
+      "37878485",
+      "38902590",
+      "42123445",
+      "41756296",
+      "42183217",
+      "38815767",
+      "41388523",
+      "41678948",
+      "42059276",
+      "40091022",
+      "38494504",
+      "40967560",
+      "41436831",
+      "42061088",
+      "42377012",
+      "41044520",
+      "42650150",
+      "39923303",
+      "41468372",
+      "33705733",
+      "42315974",
+      "41948344",
+      "40416982",
+      "40785649",
+      "40425614",
+      "40962434",
+      "41816342",
+      "42024670",
+      "41221285",
+      "38495888",
+      "40705804",
+      "42292364",
+      "35151329",
+      "41006377",
+      "37006305",
+      "41826854",
+      "39414868",
+      "41769389",
+      "42087186",
+      "42471019",
+      "41840566",
+      "40216809",
+      "42553137",
+      "42088521",
+      "41716413",
+      "40918148",
+      "39583859",
+      "40316154",
+      "42120472",
+      "39586719",
+      "40532306",
+      "41107929",
+      "41217537",
+      "39069636",
+      "35658960",
+      "41895505",
+      "41924281",
+      "41200169",
+      "42015036",
+      "41080564",
+      "42158856",
+      "41354405",
+      "42326009",
+      "42233387",
+      "42106542",
+      "39893187",
+      "40613560",
+      "40591166",
+      "39391879",
+      "42283098",
+      "40160813"
+    ],
+    "review": [
+      "42745923"
+    ],
+    "pmc": [
+      "13574709"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/livertransplantation.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Transplantation"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42745923/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3376",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1745640",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

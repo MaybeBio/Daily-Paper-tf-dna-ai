@@ -1,0 +1,211 @@
+{
+  "identity": {
+    "pmid": "42749435",
+    "doi": "10.1016/j.jgeb.2026.100766",
+    "title": "Discovering potential key biomarkers and molecular mechanisms in Chronic Obstructive Pulmonary Disease and rheumatoid arthritis using integrated bioinformatics and machine learning approaches."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Chronic Obstructive Pulmonary Disease (COPD) and Rheumatoid Arthritis (RA) are among the leading causes of illness and mortality globally. Many studies claim that these diseases are interconnected. However, the underlying molecular processes and shared biomarkers between RA and COPD are still undiscovered. METHODS: This research is aimed at discovering the key potential biomarkers and mechanisms in RA and COPD, incorporating several Bioinformatics and Machine Learning (ML) approaches via R programming. Several validation methods are also applied to validate the key potential biomarkers. RESULTS: By performing the differential expression analysis, we have discovered 90 common Differentially Expressed Genes (DEGs) between RA and COPD. From the Gene Set Enrichment analysis, we get the top molecular mechanisms related to the common DEGs. From the Protein Protein Interaction analysis, we get the candidate hub genes among the common DEGs. Among all the ML approaches, ElasticNet outperforms with the highest accuracy of 91.52% with a set of important genes. By intersecting the candidate hub genes and the ElasticNet important genes, we get four candidate genes, ETS1, YY1, CREBP5, and GTF2H1. Receiver Operating Characteristic (ROC) curve and Expression analysis show robust discriminatory efficacy for all four genes, while nomogram modeling further validates their predictive correlations with RA and COPD. Finally, the candidate transcription factors, microRNAs and drugs related to the potential biomarkers are also suggested. CONCLUSION: In conclusion, this research identifies the key potential molecular mechanisms and four potential biomarkers between RA and COPD. These findings could potentially improve our understanding of the molecular mechanisms behind COPD and RA by providing a preliminary basis for future experimental and clinical studies.",
+    "keywords": [
+      "Bioinformatics",
+      "COPD",
+      "Drugs",
+      "GSEA",
+      "Gene ontology",
+      "Hub genes",
+      "Machine learning",
+      "MiRNAs",
+      "Nomogram",
+      "PPI",
+      "Pathways",
+      "RA",
+      "ROC",
+      "Transcription factors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tasnim, Wahia",
+        "Mondal, M Rubaiyat Hossain"
+      ],
+      "short_names": [
+        "Tasnim W",
+        "Mondal MRH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh; Department of Artificial Intelligence and Data Science, Green University of Bangladesh, Dhaka, Bangladesh. Electronic address: wahiatasnim@gmail.com.",
+        "Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh. Electronic address: rubaiyat97@iict.buet.ac.bd."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tasnim, Wahia",
+        "short_name": "Tasnim W",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh; Department of Artificial Intelligence and Data Science, Green University of Bangladesh, Dhaka, Bangladesh. Electronic address: wahiatasnim@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Mondal, M Rubaiyat Hossain",
+        "short_name": "Mondal MRH",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh. Electronic address: rubaiyat97@iict.buet.ac.bd."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal, genetic engineering & biotechnology"
+    ],
+    "journal_abbrev": [
+      "J Genet Eng Biotechnol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749435",
+      "42243611",
+      "40927188",
+      "42602962",
+      "42583273",
+      "41340627",
+      "39139563",
+      "35368701",
+      "41816328",
+      "42631563",
+      "38771826",
+      "40500570",
+      "42327749",
+      "42306043",
+      "42227493",
+      "40617086",
+      "41481752",
+      "39691970",
+      "42348043",
+      "39509434",
+      "40332792",
+      "38573982",
+      "40406126",
+      "40628511",
+      "41066424",
+      "39170142",
+      "40596265",
+      "40093012",
+      "41855208",
+      "39845878",
+      "36699262",
+      "36189314",
+      "40238799",
+      "42083957",
+      "41929818",
+      "41052072",
+      "40045538",
+      "38059150",
+      "34040897",
+      "42509823",
+      "33407587",
+      "41947915",
+      "34271942",
+      "42701775",
+      "41620539",
+      "39142001",
+      "36532040",
+      "40475761",
+      "39840076",
+      "41021591",
+      "40453984",
+      "42166424",
+      "41386886",
+      "42706545",
+      "38987624",
+      "41044520",
+      "37492576",
+      "40929681",
+      "40997906",
+      "36940554",
+      "40082645",
+      "41068798",
+      "40747360",
+      "42313235",
+      "37745040",
+      "38941374",
+      "40592131",
+      "40161396",
+      "36506310",
+      "41146237",
+      "41970276",
+      "41731716",
+      "38274270",
+      "38571583",
+      "41957428",
+      "41963573",
+      "41665627",
+      "41006883",
+      "36685864",
+      "41479901",
+      "42483176",
+      "40681713",
+      "34224029",
+      "35495609",
+      "37740761",
+      "39375405",
+      "39754246",
+      "41291841",
+      "41132649",
+      "36969166",
+      "41158511",
+      "42456406",
+      "41030501",
+      "39081807",
+      "39118036",
+      "41652638",
+      "42536689",
+      "40958328",
+      "41799432",
+      "42251905"
+    ],
+    "review": [
+      "42749435",
+      "41665627"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1687-157X(26)00110-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1206",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "identity": {
+    "pmid": "42737659",
+    "doi": "10.3390/ijms27177762",
+    "title": "Comparative Characterization of sigma(32)-Dependent Promoters for the Heat-Inducible Expression of FAST-PETase in Escherichia coli."
+  },
+  "content": {
+    "abstract": "Efficient regulation of recombinant enzyme expression is an important consideration for the development of microbial biocatalysts. Heat-inducible promoters regulated by the alternative sigma factor sigma(32) provide an inducer-free strategy for controlling gene expression in Escherichia coli. In this study, four sigma(32)-dependent promoters (PdnaK, PgrpE, PibpA, and PclpB) were comparatively characterized using the PET-degrading enzyme FAST-PETase fused to superfolder green fluorescent protein as a model recombinant protein. Promoter performance was evaluated based on basal leakage, induction kinetics, and expression strength following heat induction. Among the promoters examined, PdnaK exhibited the strongest heat-inducible expression and was dissected to examine the autonomous and combinatorial behavior of its promoter-derived elements. Molecular docking analysis further supported the experimental observations by showing qualitative agreement between predicted sigma(32)-DNA interactions and promoter performance. Together, these findings provide a comparative characterization of sigma(32)-dependent promoters and identify promoter architectures that may facilitate the development of heat-inducible recombinant enzyme expression systems in E. coli.",
+    "keywords": [
+      "FAST-PETase",
+      "PET-degrading enzyme",
+      "heat shock response",
+      "heat-inducible expression",
+      "sigma32-dependent promoter"
+    ],
+    "mesh_terms": [
+      "*Escherichia coli/genetics/metabolism",
+      "*Promoter Regions, Genetic",
+      "*Sigma Factor/metabolism/genetics",
+      "Hot Temperature",
+      "*Gene Expression Regulation, Bacterial",
+      "Molecular Docking Simulation",
+      "Heat-Shock Response",
+      "Heat-Shock Proteins"
+    ],
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Limsakul, Praopim",
+        "Rasitanon, Natcha",
+        "Da-Oh, Sahban",
+        "Phongdara, Amornrat",
+        "Nualla-Ong, Aekkaraj",
+        "Charupanit, Krit"
+      ],
+      "short_names": [
+        "Limsakul P",
+        "Rasitanon N",
+        "Da-Oh S",
+        "Phongdara A",
+        "Nualla-Ong A",
+        "Charupanit K"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7389-4533",
+        "ORCID: 0000-0003-3480-048X",
+        "ORCID: 0000-0002-9803-2005"
+      ],
+      "affiliations": [
+        "Division of Physical Science, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Center of Excellence for Trace Analysis and Biosensor (TAB-CoE), Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Department of Biomedical Sciences and Biomedical Engineering, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Division of Biological Science, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Center for Genomics and Bioinformatics Research, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Division of Biological Science, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Center for Genomics and Bioinformatics Research, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Department of Biomedical Sciences and Biomedical Engineering, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Limsakul, Praopim",
+        "short_name": "Limsakul P",
+        "identifiers": [
+          "0000-0001-7389-4533"
+        ],
+        "affiliations": [
+          "Division of Physical Science, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand.",
+          "Center of Excellence for Trace Analysis and Biosensor (TAB-CoE), Prince of Songkla University, Songkhla 90110, Thailand."
+        ]
+      },
+      {
+        "full_name": "Rasitanon, Natcha",
+        "short_name": "Rasitanon N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences and Biomedical Engineering, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand."
+        ]
+      },
+      {
+        "full_name": "Da-Oh, Sahban",
+        "short_name": "Da-Oh S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Biological Science, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand."
+        ]
+      },
+      {
+        "full_name": "Phongdara, Amornrat",
+        "short_name": "Phongdara A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomics and Bioinformatics Research, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand."
+        ]
+      },
+      {
+        "full_name": "Nualla-Ong, Aekkaraj",
+        "short_name": "Nualla-Ong A",
+        "identifiers": [
+          "0000-0003-3480-048X"
+        ],
+        "affiliations": [
+          "Division of Biological Science, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand.",
+          "Center for Genomics and Bioinformatics Research, Faculty of Science, Prince of Songkla University, Songkhla 90110, Thailand."
+        ]
+      },
+      {
+        "full_name": "Charupanit, Krit",
+        "short_name": "Charupanit K",
+        "identifiers": [
+          "0000-0002-9803-2005"
+        ],
+        "affiliations": [
+          "Department of Biomedical Sciences and Biomedical Engineering, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Aug 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42737659",
+      "7559357",
+      "1906060",
+      "7889935",
+      "8990305",
+      "8808920",
+      "2174862",
+      "11374870",
+      "2900239",
+      "16818608",
+      "8606189",
+      "8423142",
+      "9822822",
+      "16166539",
+      "6380765",
+      "8824618",
+      "1961716",
+      "17921304",
+      "2695391",
+      "3306410",
+      "9159526",
+      "7588636",
+      "16728456",
+      "10594827",
+      "8300536",
+      "15489451",
+      "7860603",
+      "9767576",
+      "8606166",
+      "1717346",
+      "9126832",
+      "28743271",
+      "20155484",
+      "13129951",
+      "2693736",
+      "9159522",
+      "9512707",
+      "1385385",
+      "6380764",
+      "19076234",
+      "17322204",
+      "1732231",
+      "11567012",
+      "7889934",
+      "16796689",
+      "24656305",
+      "23585533",
+      "9822823",
+      "15128516",
+      "17221192",
+      "2256679",
+      "11340070",
+      "3299002",
+      "15465042",
+      "7724592",
+      "7505426",
+      "11274153",
+      "3315848",
+      "8253679",
+      "2691330",
+      "16892065",
+      "19783623",
+      "9108282",
+      "11536134",
+      "21195716",
+      "12527296",
+      "12029032",
+      "7901731",
+      "2546916",
+      "7559325",
+      "2962898",
+      "11479711",
+      "11532138",
+      "8458834",
+      "30457214",
+      "13129943",
+      "16553889",
+      "8320215",
+      "3887408",
+      "9747709",
+      "8856974",
+      "21396442",
+      "7883164",
+      "8606155",
+      "9143112",
+      "17061571",
+      "34787538",
+      "9422586",
+      "8454194",
+      "3910841",
+      "2269429",
+      "19246758",
+      "23028346",
+      "15347763",
+      "8478327",
+      "2124707",
+      "8218173",
+      "32138729",
+      "7877176",
+      "12828648"
+    ],
+    "review": [
+      "42737659",
+      "2256679"
+    ],
+    "pmc": [
+      "13566873"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27177762",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42737659/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "identity": {
+    "pmid": "42757865",
+    "doi": "10.1021/acs.biochem.6c00501",
+    "title": "Molecular Rewiring and Compensatory Mechanisms Sustain DNA Recognition in the Mutant ZTA Transcription Factor: Insights from Molecular Dynamics Simulations."
+  },
+  "content": {
+    "abstract": "Protein-DNA complexes are stabilized by various interactions through an interaction network between protein and DNA. Any change in the system horizontal line whether through mutations in protein/DNA, external factors, or protein conformational transitions horizontal line can alter the interaction network, affecting structural and functional aspects. Employing all-atom classical molecular dynamics, we investigated how the interaction network in ZTA-DNA is rewired, while key arginine residues in ZTA are mutated to oppositely charged glutamic acids. Using the MM/PBSA technique, we computed per-residue binding energies and correlated them with structural features. A detailed mechanistic study shows that mutations in key arginine residues form new interactions either around the mutation site and/or in the other ZTA monomer. Through load-sharing system attempts to counterbalance the interaction load, leading to reorganization of the existing interaction network. From single- to double-site mutations, the complex partially maintains its structural stability through additional interactions formed by lysine, particularly K178, while multisite mutations cannot sustain its structural stability, leading to system destabilization. Despite inherent structural symmetry in ZTA, an asymmetric monomer contribution is observed upon mutation. The binding affinity of the ZTA-DNA complex shows a good correlation with structural and interaction features, following the trend A > E  approximately  D > C >> B. Overall, our rigorous mechanistic study provides deeper insights into the interaction network reorganization mechanism in the ZTA-DNA system. Since ZTA is a key factor in the Epstein-Barr virus (EBV), this study will be central to understanding DNA recognition and developing drug therapeutics targeting viral transcription factors in EBV.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Duraisamy, Boobalan",
+        "Pramanik, Debabrata"
+      ],
+      "short_names": [
+        "Duraisamy B",
+        "Pramanik D"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-9584-3926",
+        "ORCID: 0000-0002-3432-4498"
+      ],
+      "affiliations": [
+        "Department of Physics, SRM University-AP, Amaravati522 240, Andhra Pradesh, India.",
+        "Department of Physics, SRM University-AP, Amaravati522 240, Andhra Pradesh, India.",
+        "Centre for Computational and Integrative Sciences, SRM University-AP, Amaravati522 240, Andhra Pradesh, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Duraisamy, Boobalan",
+        "short_name": "Duraisamy B",
+        "identifiers": [
+          "0009-0002-9584-3926"
+        ],
+        "affiliations": [
+          "Department of Physics, SRM University-AP, Amaravati522 240, Andhra Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Pramanik, Debabrata",
+        "short_name": "Pramanik D",
+        "identifiers": [
+          "0000-0002-3432-4498"
+        ],
+        "affiliations": [
+          "Department of Physics, SRM University-AP, Amaravati522 240, Andhra Pradesh, India.",
+          "Centre for Computational and Integrative Sciences, SRM University-AP, Amaravati522 240, Andhra Pradesh, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemistry"
+    ],
+    "journal_abbrev": [
+      "Biochemistry"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 12:26",
+    "fetched_at": "2026-09-20 07:39:31"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42757865",
+      "40266646",
+      "32847852",
+      "15078966",
+      "42475469",
+      "23912807",
+      "16971443",
+      "11581402",
+      "12502863",
+      "28158710",
+      "11507224",
+      "16227252",
+      "23015699",
+      "18305033",
+      "19656881",
+      "18369464",
+      "9343426",
+      "1661258",
+      "29072898",
+      "9765394",
+      "27708396",
+      "28228591",
+      "35018326",
+      "7926793",
+      "20195470",
+      "42165619",
+      "21123545",
+      "35036684",
+      "41627500",
+      "26653871",
+      "29772230",
+      "10022850",
+      "16227304",
+      "12781707",
+      "15479836",
+      "20444899",
+      "17459922",
+      "31142669",
+      "36924088",
+      "36907648",
+      "12665567",
+      "31694936",
+      "2159531",
+      "36286483",
+      "8626665",
+      "8970953",
+      "2154599",
+      "29580369",
+      "19448399",
+      "31476406",
+      "2161945",
+      "39659205",
+      "19201831",
+      "22090141",
+      "10906192",
+      "8164660",
+      "36174106",
+      "10430944",
+      "34124147",
+      "12829857",
+      "42283463",
+      "16730442",
+      "28701406",
+      "20385599",
+      "23454346",
+      "7969171",
+      "18234802",
+      "30004133",
+      "20886097",
+      "40446511",
+      "29588400",
+      "40464633",
+      "1309920",
+      "28205249",
+      "2152819",
+      "33670016",
+      "23986773",
+      "40211828",
+      "29664630",
+      "40495004",
+      "37861198",
+      "25779048",
+      "21892957",
+      "18631132",
+      "28871352",
+      "22753063",
+      "24462692",
+      "42239083",
+      "29375007",
+      "28410371",
+      "15342239",
+      "38153169",
+      "37243229",
+      "16840354",
+      "10516009",
+      "25900136",
+      "11134336",
+      "41159612",
+      "34694813",
+      "37047368"
+    ],
+    "review": [
+      "42757865",
+      "19448399"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}
