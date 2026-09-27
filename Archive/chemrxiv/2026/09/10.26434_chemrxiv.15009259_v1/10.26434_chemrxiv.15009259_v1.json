@@ -1,0 +1,158 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15009259/v1",
+  "title": "EVALUATING MOLECULAR DYNAMICS FRAMES FOR BINDING AFFINITY PREDICTION AND VIRTUAL SCREENING",
+  "doi": "10.26434/chemrxiv.15009259/v1",
+  "abstract": "Motivation: Machine-learning scoring functions are typically trained on static crystallographic structures, although protein-ligand recognition is inherently dynamic. It remains unclear whether MD derived conformations provide transferable information or instead shift the training data away from experimentally observed binding geometries. Results: We generated 20 ns molecular dynamics trajectories for 2,502 protein–ligand complexes and evaluated five scoring function architectures trained on crystallographic structures and MD-derived frames using four different sampling protocols. Across the CASF-2016 and CASF-2013 affinity benchmarks, MD-only training generally reduced predictive performance, whereas augmenting crystallographic structures with MD data improved four of the five architectures. Averaged across models, benchmarks, and sampling protocols, augmentation increased PCC by 0.072 and reduced RMSE by 0.165 relative to MD-only training. A nearest-neighbor analysis showed that the benefits of augmen-tation were not restricted to complexes similar to frames, arguing against a simple similarity-based explanation. The results suggest improvements were connected with exposing models to controlled structural perturbations around experimentally observed binding poses. Overall, MD conformations were most effective as augmentation rather than replacement for crystallographic training data. Availability: MD frames used for model training are available at: (https://zenodo.org/ records/20443988).",
+  "authors": [
+    "Jakub Poziemski",
+    "Pawel Siedlecki"
+  ],
+  "published_date": "2026-09-22",
+  "updated_date": "2026-09-22T12:59:12Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15009259/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009259/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2026-09-22T13:59:11Z",
+        "timestamp": 1790085551764,
+        "version": "4.0.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Motivation: Machine-learning scoring functions are typically trained on static crystallographic structures, although protein-ligand recognition is inherently dynamic. It remains unclear whether MD derived conformations provide transferable information or instead shift the training data away from experimentally observed binding geometries. Results: We generated 20 ns molecular dynamics trajectories for 2,502 protein–ligand complexes and evaluated five scoring function architectures trained on crystallographic structures and MD-derived frames using four different sampling protocols. Across the CASF-2016 and CASF-2013 affinity benchmarks, MD-only training generally reduced predictive performance, whereas augmenting crystallographic structures with MD data improved four of the five architectures. Averaged across models, benchmarks, and sampling protocols, augmentation increased PCC by 0.072 and reduced RMSE by 0.165 relative to MD-only training. A nearest-neighbor analysis showed that the benefits of augmen-tation were not restricted to complexes similar to frames, arguing against a simple similarity-based explanation. The results suggest improvements were connected with exposing models to controlled structural perturbations around experimentally observed binding poses. Overall, MD conformations were most effective as augmentation rather than replacement for crystallographic training data. Availability: MD frames used for model training are available at: (https://zenodo.org/ records/20443988).</jats:p>",
+      "DOI": "10.26434/chemrxiv.15009259/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2026-09-22T12:59:12Z",
+        "timestamp": 1790081952000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "EVALUATING MOLECULAR DYNAMICS FRAMES FOR BINDING AFFINITY PREDICTION AND VIRTUAL SCREENING"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "given": "Jakub",
+          "family": "Poziemski",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Pawinskiego 5a, Warsaw, Poland, 02-106"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pawel",
+          "family": "Siedlecki",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Pawinskiego 5a, Warsaw, Poland, 02-106"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009259/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2026-09-22T12:59:12Z",
+        "timestamp": 1790081952000
+      },
+      "score": 94.52189,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009259/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15009259/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

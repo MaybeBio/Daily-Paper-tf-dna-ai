@@ -1,0 +1,220 @@
+{
+  "identity": {
+    "pmid": "42784621",
+    "doi": "10.1371/journal.pone.0358953",
+    "title": "Transcriptomic associations and biomarkers in ANCA‑associated Glomerulonephritis and IgG4‑related Disease: A bioinformatics and machine learning study."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Anti-neutrophil cytoplasmic antibody-associated glomerulonephritis (ANCA-GN) and immunoglobulin G4-related disease (IgG4-RD) are rare autoimmune conditions. Although case reports suggest potential clinical and pathophysiological overlaps, the cross-tissue transcriptional associations between these diseases remain largely unexplored. METHODS: We retrieved the ANCA-GN glomerular dataset (GSE104948) and the IgG4-RD labial salivary gland dataset (GSE40568) from the Gene Expression Omnibus. Differentially expressed genes (DEGs) in ANCA-GN were screened via protein-protein interaction networks, least absolute shrinkage and selection operator regression, and the Boruta algorithm. Given tissue heterogeneity and small IgG4-RD sample size, we used expression trend consistency (log-fold change direction) rather than differential validation to explore shared transcriptional features. Receiver operating characteristic curves assessed discriminative potential. Pathway associations were explored using gene set enrichment analysis, and immune infiltration was evaluated with CIBERSORT, single-sample gene set enrichment analysis, and MCPcounter. Transcription factor-mRNA-microRNA networks were also constructed. RESULTS: We identified 305 DEGs (209 upregulated, 96 downregulated) in ANCA-GN, enriched in immune/inflammatory pathways including phosphatidylinositol 3-kinase-Akt and mitogen-activated protein kinase signaling. After machine learning and cross‑trend comparison with IgG4‑RD, ITGAM and CXCL1 were identified as candidate cross‑tissue markers, with ITGAM demonstrating robust predictive performance in both internal and external validation (AUC = 0.921, AUC = 0.844, respectively). CXCL1 showed good internal discrimination (AUC = 0.937) but substantially lower external validity (AUC = 0.622), suggesting limited generalizability. ITGAM therefore emerges as a more reliable cross‑disease biomarker candidate, whereas CXCL1 requires further validation. Both diseases showed increased B‑cell, T‑cell, and monocyte infiltration, but effector profiles differed: neutrophils dominated in ANCA‑GN, while plasma cells/M2 macrophages dominated in IgG4‑RD. Regulatory analysis suggested SPI1 may regulate ITGAM, and CEBPD, NFKB1, and RELA may drive CXCL1 expression under inflammation. CONCLUSION: This study systematically revealed shared differential expression trends and immune‑related pathway enrichment features between ANCA‑GN and IgG4‑RD at the transcriptomic level, and identified ITGAM and CXCL1 as potential cross‑tissue candidate biomarkers, offering novel insights into the transcriptomic‑level cross‑tissue associations between the two diseases. However, these findings are entirely derived from bioinformatics predictions and require further experimental validation. The low AUC value of CXCL1 in the external validation underscores this need.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Machine Learning",
+      "Humans",
+      "*Glomerulonephritis/genetics/immunology/metabolism",
+      "Biomarkers/metabolism",
+      "*Computational Biology/methods",
+      "*Immunoglobulin G4-Related Disease/genetics/immunology/metabolism",
+      "*Antibodies, Antineutrophil Cytoplasmic/immunology",
+      "*Transcriptome",
+      "Gene Expression Profiling",
+      "Gene Regulatory Networks",
+      "MicroRNAs/genetics",
+      "Protein Interaction Maps",
+      "Immunoglobulin G"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Xu",
+        "Qiao, Yufeng"
+      ],
+      "short_names": [
+        "Li X",
+        "Qiao Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8516-2874"
+      ],
+      "affiliations": [
+        "The Nephrology Department of Shanxi Provincial People's Hospital, Shanxi Medical University, Taiyuan, China.",
+        "The Nephrology Department of Shanxi Provincial People's Hospital, Taiyuan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Xu",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "The Nephrology Department of Shanxi Provincial People's Hospital, Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Qiao, Yufeng",
+        "short_name": "Qiao Y",
+        "identifiers": [
+          "0000-0001-8516-2874"
+        ],
+        "affiliations": [
+          "The Nephrology Department of Shanxi Provincial People's Hospital, Taiyuan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42784621",
+      "38847168",
+      "35069594",
+      "37465687",
+      "42327749",
+      "42706545",
+      "41044520",
+      "39586719",
+      "42776962",
+      "41200172",
+      "40628511",
+      "41668326",
+      "42024670",
+      "40884580",
+      "39875572",
+      "41388523",
+      "40340571",
+      "41703488",
+      "41052072",
+      "39142001",
+      "41291978",
+      "41424060",
+      "38863714",
+      "41826854",
+      "42109727",
+      "42306043",
+      "40421012",
+      "39512836",
+      "42123756",
+      "42565562",
+      "42642681",
+      "41479901",
+      "40263537",
+      "42431430",
+      "40369957",
+      "42274933",
+      "40835946",
+      "41146237",
+      "40692778",
+      "40406126",
+      "41013556",
+      "39139563",
+      "41570454",
+      "36532018",
+      "42123445",
+      "39375405",
+      "38660311",
+      "42483176",
+      "40374840",
+      "42730994",
+      "40997906",
+      "42708302",
+      "40374866",
+      "40362543",
+      "40677720",
+      "41107929",
+      "40196107",
+      "42510870",
+      "42509823",
+      "39351221",
+      "40613560",
+      "38690269",
+      "41291841",
+      "42302029",
+      "41120603",
+      "41080564",
+      "41544137",
+      "41787525",
+      "38867322",
+      "32973752",
+      "40347801",
+      "41432483",
+      "41716396",
+      "41667698",
+      "42589294",
+      "41790636",
+      "40360670",
+      "40078458",
+      "39351239",
+      "39295860",
+      "39086489",
+      "40830558",
+      "41066424",
+      "37525915",
+      "39509434",
+      "41350988",
+      "42694321",
+      "42682547",
+      "40901474",
+      "37250717",
+      "31485791",
+      "42269031",
+      "39475676",
+      "41214111",
+      "42326009",
+      "41102315",
+      "42569390",
+      "41575683",
+      "41316541",
+      "41988156"
+    ],
+    "review": [
+      "42784621"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0358953",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ITGAM-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-999",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

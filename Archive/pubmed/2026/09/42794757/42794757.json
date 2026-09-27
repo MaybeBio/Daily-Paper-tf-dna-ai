@@ -1,0 +1,307 @@
+{
+  "identity": {
+    "pmid": "42794757",
+    "doi": "10.3390/ijms27188330",
+    "title": "The Compatibility of Astragali Radix and Angelicae Sinensis Radix Attenuates Atherosclerosis by Suppressing Vascular Endothelial PANoptosis via the p38 MAPK/p53 Pathway: A Multi-Omics and Experimental Study."
+  },
+  "content": {
+    "abstract": "Previous studies have reported that the combination of Astragali Radix and Angelicae Sinensis Radix (AR-ASR) can ameliorate atherosclerosis (AS) through anti-inflammatory effects; however, the exact mechanistic underpinnings still await further clarification. The present study investigates the anti-atherosclerotic action of AR-ASR from the perspective of PANoptosis (encompassing apoptosis, pyroptosis, and necroptosis). To ascertain the chief active ingredients of the AR plus ASR mixture, UPLC-MS/MS detection was utilized. To predict potential therapeutic targets, a multi-faceted bioinformatics strategy was applied, integrating transcriptomics, single-cell sequencing, network pharmacology, molecular docking, and molecular dynamics simulations. In vivo, male ApoE-deficient mice were allocated at random into the model cohort, AR-ASR low-, medium-, and high-dose groups (AR-ASR L, AR-ASR M, and AR-ASR H, respectively), atorvastatin group (ATV), and control group (age-matched wild-type C57BL/6J mice). Atherosclerosis was induced by 12 weeks of high-fat diet feeding, followed by 4 weeks of oral gavage treatment. Assessment parameters included aortic intimal hyperplasia thickness, serum lipid levels, vascular inflammatory factor expression, endothelial function, and the gene and protein expression levels of PANoptosis- and p38MAPK/p53 signaling pathway-related molecules. For in vitro experiments, POVPC-stimulated AVECs were used as an oxidative damage model and then treated with AR-ASR-containing serum. Cell proliferation activity, cell injury rate, and the expression levels of PANoptosis markers and p38MAPK/p53 signaling pathway-related molecules were measured. Furthermore, in the presence of a p38MAPK agonist, the protective effect of AR-ASR on AVECs and its underlying mechanism were investigated. Bioinformatics analysis suggested that AR-ASR modulates PANoptosis and interferes with AS via the p38MAPK/p53 signaling axis. In vivo, AR-ASR treatment reduced serum lipid levels, attenuated aortic intimal hyperplasia, decreased plasma inflammatory cytokine levels and vascular inflammatory factor expression, improved endothelial function, and suppressed both vascular PANoptosis and p38MAPK/p53 pathway activation. In vitro, POVPC induced oxidative damage and PANoptosis in AVECs. AR-ASR-containing serum promoted AVEC viability, reduced LDH release, inhibited the expression of PANoptosis-related markers, and downregulated p38MAPK/p53 signaling pathway protein expression. Furthermore, in the presence of a p38MAPK agonist, the inhibitory effects of AR-ASR on cellular PANoptosis and p38MAPK/p53 pathway activation were significantly attenuated. The AR-ASR compatibility suppresses p38MAPK/p53 pathway activation, thereby inhibiting vascular endothelial PANoptosis-driven inflammatory responses and ameliorating atherosclerotic vascular pathology.",
+    "keywords": [
+      "Angelicae Sinensis Radix",
+      "Astragali Radix",
+      "PANoptosis",
+      "atherosclerosis",
+      "vascular endothelial cells"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "*p38 Mitogen-Activated Protein Kinases/metabolism",
+      "*Drugs, Chinese Herbal/pharmacology/chemistry",
+      "*Atherosclerosis/drug therapy/metabolism/pathology",
+      "*Angelica sinensis/chemistry",
+      "Male",
+      "*Tumor Suppressor Protein p53/metabolism",
+      "Mice, Inbred C57BL",
+      "Signal Transduction/drug effects",
+      "Astragalus Plant/chemistry",
+      "Apoptosis/drug effects",
+      "Molecular Docking Simulation",
+      "*Endothelium, Vascular/drug effects/metabolism/pathology",
+      "MAP Kinase Signaling System/drug effects",
+      "Disease Models, Animal",
+      "Astragalus propinquus"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Wanyu",
+        "Long, Qingyin",
+        "Fu, Xinying",
+        "Li, Yanling",
+        "Ma, Lu",
+        "Tan, Wei",
+        "Hu, Zhongji",
+        "Zhang, Yanyan",
+        "She, Yan",
+        "Zhang, Wei",
+        "Deng, Changqing"
+      ],
+      "short_names": [
+        "Li W",
+        "Long Q",
+        "Fu X",
+        "Li Y",
+        "Ma L",
+        "Tan W",
+        "Hu Z",
+        "Zhang Y",
+        "She Y",
+        "Zhang W",
+        "Deng C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2161-7355"
+      ],
+      "affiliations": [
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China.",
+        "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Wanyu",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Long, Qingyin",
+        "short_name": "Long Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Xinying",
+        "short_name": "Fu X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yanling",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Lu",
+        "short_name": "Ma L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Wei",
+        "short_name": "Tan W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Zhongji",
+        "short_name": "Hu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yanyan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "She, Yan",
+        "short_name": "She Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wei",
+        "short_name": "Zhang W",
+        "identifiers": [
+          "0000-0002-2161-7355"
+        ],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Changqing",
+        "short_name": "Deng C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Hunan Provincial for Integrated Traditional Chinese and Western Medicine on Prevention and Treatment of Cardio-Cerebral Diseases, College of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Hunan 410208, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42794757",
+      "39743186",
+      "37802785",
+      "39307771",
+      "40916281",
+      "41482091",
+      "42173415",
+      "42621708",
+      "41038150",
+      "30596090",
+      "39706063",
+      "42543314",
+      "38697555",
+      "31818289",
+      "40466509",
+      "35718494",
+      "29271159",
+      "41672117",
+      "24837305",
+      "41891757",
+      "38788908",
+      "41814699",
+      "41502029",
+      "42543366",
+      "32608342",
+      "42543283",
+      "39307744",
+      "42392781",
+      "32186104",
+      "42424678",
+      "41365194",
+      "41740333",
+      "40976052",
+      "39839500",
+      "39636495",
+      "40684819",
+      "42202914",
+      "38104880",
+      "41152614",
+      "40316156",
+      "38580189",
+      "39439466",
+      "42693057",
+      "28709892",
+      "42202394",
+      "38110130",
+      "22536886",
+      "29121798",
+      "39855831",
+      "40461235",
+      "41496112",
+      "26520898",
+      "34875308",
+      "36435778",
+      "31571264",
+      "38521431",
+      "42386087",
+      "39551284",
+      "42276393",
+      "42421348",
+      "40795589",
+      "42543305",
+      "40865347",
+      "41448281",
+      "27591127",
+      "38381309",
+      "29257205",
+      "42542064",
+      "40615099",
+      "39577223",
+      "40686149",
+      "40912484",
+      "33636579",
+      "41795298",
+      "42623950",
+      "39306212",
+      "40946817",
+      "41814798",
+      "37741472",
+      "41508211",
+      "41621766",
+      "40653040",
+      "39615770",
+      "41866006",
+      "40884939",
+      "40004956",
+      "38404557",
+      "39470475",
+      "39671057",
+      "42573831",
+      "42377801",
+      "31041850",
+      "40398180",
+      "23832324",
+      "40020626",
+      "42035996",
+      "41690038",
+      "41914296",
+      "40109455",
+      "41870791"
+    ],
+    "review": [
+      "42794757"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

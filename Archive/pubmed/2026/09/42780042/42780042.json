@@ -1,0 +1,201 @@
+{
+  "identity": {
+    "pmid": "42780042",
+    "doi": "10.64898/2026.09.16.752194",
+    "title": "Joint inference of paired dynamical gene regulatory networks reveals distinct cell-state landscapes of neutrophil reprogramming."
+  },
+  "content": {
+    "abstract": "Disease reprograms cells through changes in gene regulation, yet identifying these changes remains a major challenge. We introduce NetDes-Duo, a computational method that jointly infers transcription factor regulatory network models for two related conditions using scRNA-seq data. The networks are optimized to have minimal topological differences, while the associated ODE models recapitulate single-cell gene expression trajectories for both conditions. On synthetic benchmarks, NetDes-Duo outperformed methods that infer each network independently. NetDes-Duo was applied to neutrophil reprogramming in naive and tumor-bearing mice, and the network-simulated dynamics reproduced the observed cell state transitions. The naive landscape had two well-separated basins, whereas the tumor-bearing landscape was more continuous, with three shallower basins. Perturbation and driving simulations also identified Cebpb as a key driver of the tumor-bearing transition, consistent with emergency granulopoiesis literature. We expect NetDes-Duo to be a broadly applicable framework for uncovering the regulatory logic of disease-associated cell state transitions.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ren, Alex",
+        "You, Yukai",
+        "Lu, Mingyang"
+      ],
+      "short_names": [
+        "Ren A",
+        "You Y",
+        "Lu M"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-1002-912X",
+        "ORCID: 0000-0003-2726-114X"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Ren, Alex",
+        "short_name": "Ren A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "You, Yukai",
+        "short_name": "You Y",
+        "identifiers": [
+          "0009-0004-1002-912X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lu, Mingyang",
+        "short_name": "Lu M",
+        "identifiers": [
+          "0000-0003-2726-114X"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42780042",
+      "41415381",
+      "37244909",
+      "39257745",
+      "41663695",
+      "42127893",
+      "41984780",
+      "41300707",
+      "38653489",
+      "42715336",
+      "39570626",
+      "42475469",
+      "40804307",
+      "42386026",
+      "35489382",
+      "37607190",
+      "40395204",
+      "35030198",
+      "42340595",
+      "36626328",
+      "30441472",
+      "33033579",
+      "40764361",
+      "31046666",
+      "38895453",
+      "41554051",
+      "26581803",
+      "41043336",
+      "37897702",
+      "42044093",
+      "41540084",
+      "39644902",
+      "30482756",
+      "37686146",
+      "41972591",
+      "42379340",
+      "38980373",
+      "37079737",
+      "37864293",
+      "37131803",
+      "29415263",
+      "40699807",
+      "41288963",
+      "42378449",
+      "37985457",
+      "27897008",
+      "36584685",
+      "41284725",
+      "31985403",
+      "34044202",
+      "41436831",
+      "42635227",
+      "35715748",
+      "40654959",
+      "38155269",
+      "32019417",
+      "37292801",
+      "38190633",
+      "40983951",
+      "40062616",
+      "33026066",
+      "41488354",
+      "22548828",
+      "29856751",
+      "40374885",
+      "29914350",
+      "39150785",
+      "25433230",
+      "41758996",
+      "29237467",
+      "31062304",
+      "26965665",
+      "41337485",
+      "38664790",
+      "21548810",
+      "38861487",
+      "30712874",
+      "39082647",
+      "39934680",
+      "23266644",
+      "37113980",
+      "37577525",
+      "37131596",
+      "42061403",
+      "41230160",
+      "32082359",
+      "40877935",
+      "42225598",
+      "40591481",
+      "25162401",
+      "40251476",
+      "42529293",
+      "26164700",
+      "42094455",
+      "41509211",
+      "39062480",
+      "37731743",
+      "39585902",
+      "38896510",
+      "38589899"
+    ],
+    "review": [
+      "42780042",
+      "41758996"
+    ],
+    "pmc": [
+      "13596435"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.16.752194",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "pmid": "42791261",
+    "doi": "10.1038/s41467-026-77381-8",
+    "title": "GLM-Prior: a genomic language model for transferable sequence-derived priors in gene regulatory network inference."
+  },
+  "content": {
+    "abstract": "Gene regulatory network inference depends on high-quality prior knowledge, yet curated priors are often incomplete or unavailable across species and cell types. We present GLM-Prior, a genomic language model fine-tuned to predict transcription factor-target gene interactions from nucleotide sequence. We integrate GLM-Prior with PMF-GRN in a dual-stage pipeline that combines sequence-derived priors with single-cell expression data for prior-conditioned GRN inference. Across six cell-line contexts, GLM-Prior performance scales with positive label abundance and TF coverage, showing above-chance agreement with reference networks in well-annotated mammalian settings. Single-species, species-transfer, and multi-species training show that GLM-Prior can construct informative priors across related mammalian species. Compared with accessibility-based priors, GLM-Prior achieves the highest prior performance in four of five mammalian cell lines. These benchmarks show that prior quality largely constrains GRN inference performance, positioning GLM-Prior as a transferable workflow for sequence-derived prior construction when matched experimental assays are unavailable.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Gene Regulatory Networks",
+      "Animals",
+      "Humans",
+      "*Genomics/methods",
+      "Transcription Factors/metabolism/genetics",
+      "Cell Line",
+      "*Models, Genetic",
+      "Computational Biology/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Skok Gibbs, Claudia",
+        "Chen, Angelica",
+        "Bonneau, Richard",
+        "Cho, Kyunghyun"
+      ],
+      "short_names": [
+        "Skok Gibbs C",
+        "Chen A",
+        "Bonneau R",
+        "Cho K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6360-6128",
+        "ORCID: 0000-0003-4354-7906",
+        "ORCID: 0000-0003-1669-3211"
+      ],
+      "affiliations": [
+        "Center for Data Science, New York University, New York, NY, USA.",
+        "Center for Data Science, New York University, New York, NY, USA.",
+        "Prescient Design, Genentech, New York, NY, USA.",
+        "Center for Data Science, New York University, New York, NY, USA. kyunghyun.cho@nyu.edu.",
+        "Prescient Design, Genentech, New York, NY, USA. kyunghyun.cho@nyu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Skok Gibbs, Claudia",
+        "short_name": "Skok Gibbs C",
+        "identifiers": [
+          "0000-0002-6360-6128"
+        ],
+        "affiliations": [
+          "Center for Data Science, New York University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Angelica",
+        "short_name": "Chen A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Data Science, New York University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Bonneau, Richard",
+        "short_name": "Bonneau R",
+        "identifiers": [
+          "0000-0003-4354-7906"
+        ],
+        "affiliations": [
+          "Prescient Design, Genentech, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Cho, Kyunghyun",
+        "short_name": "Cho K",
+        "identifiers": [
+          "0000-0003-1669-3211"
+        ],
+        "affiliations": [
+          "Center for Data Science, New York University, New York, NY, USA. kyunghyun.cho@nyu.edu.",
+          "Prescient Design, Genentech, New York, NY, USA. kyunghyun.cho@nyu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:34",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42791261",
+      "42059479",
+      "42752548",
+      "39939367",
+      "38342857",
+      "42398561",
+      "41288963",
+      "41191474",
+      "41067887",
+      "42527907",
+      "32019417",
+      "22456606",
+      "42793003",
+      "42560939",
+      "37365273",
+      "42482180",
+      "41883144",
+      "27923054",
+      "41206950",
+      "32054475",
+      "27794550",
+      "42741841",
+      "39207727",
+      "23525069",
+      "24228871",
+      "28294630",
+      "30051742",
+      "38744843",
+      "41093852",
+      "41386265",
+      "42492189",
+      "41329984",
+      "42182106",
+      "24931976",
+      "34962963",
+      "42475469",
+      "42650039",
+      "28076866",
+      "36418514",
+      "23387820",
+      "38589899",
+      "38950180",
+      "40633682",
+      "38778003",
+      "41498638",
+      "39605181",
+      "31701125",
+      "39753024",
+      "29708965",
+      "38940155",
+      "25844666",
+      "26072483",
+      "33939795",
+      "40654959",
+      "23097399",
+      "42614561",
+      "38980373",
+      "39376034",
+      "30677040",
+      "24564496",
+      "25707768",
+      "40662821",
+      "40409400",
+      "42086551",
+      "35961023",
+      "25162401",
+      "40251476",
+      "42653305",
+      "27479082",
+      "42636032",
+      "39311699",
+      "30598101",
+      "41554051",
+      "37985457",
+      "41518505",
+      "37879938",
+      "38861487",
+      "38913855",
+      "38609714",
+      "39062480",
+      "42734741",
+      "22216865",
+      "34251625",
+      "19594874",
+      "20808951",
+      "30953534",
+      "37803124",
+      "36626328",
+      "24989895",
+      "42013480",
+      "41269283",
+      "40220759",
+      "23365519",
+      "41300707",
+      "39168402",
+      "41489955",
+      "42585234",
+      "22260221",
+      "30547400",
+      "27924042"
+    ],
+    "review": [
+      "42791261",
+      "39939367",
+      "37365273",
+      "39207727",
+      "42492189",
+      "28076866",
+      "42734741",
+      "42013480"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

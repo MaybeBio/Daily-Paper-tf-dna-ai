@@ -1,0 +1,216 @@
+{
+  "identity": {
+    "pmid": "42788881",
+    "doi": "10.1080/15476286.2026.2731890",
+    "title": "MicroRNA circuits and regulatory networks: emerging therapeutic paradigm."
+  },
+  "content": {
+    "abstract": "MicroRNAs (miRNAs) are small non-coding RNAs whose function is to regulate gene expression post-transcriptionally. Transcription factors (TFs) are the DNA-binding proteins responsible for activation or repression of a gene. Together, miRNAs and TFs form regulatory networks that modulate cellular homeostasis. In these regulatory networks, these TFs often regulate the expression of miRNAs, and in turn, miRNAs regulate the expression of TFs, thus forming feedback and feedforward loops. These loops and regulatory networks allow precise control over gene expression patterns by enabling accurate signal processing. Utilizing mathematical modelling and machine learning approaches helps understand the global structure of these networks. These reveal cellular fate selection, stress adaptation, disease development, and gaining insights into these interconnected regulatory systems opens new prospects for novel biomarker discovery and therapeutic approaches in a variety of disciplines, including cancer and immunotherapy.",
+    "keywords": [
+      "MicroRNAs",
+      "feedback loops",
+      "regulatory networks",
+      "synthetic circuit",
+      "transcription factors"
+    ],
+    "mesh_terms": [
+      "*MicroRNAs/genetics/metabolism",
+      "*Gene Regulatory Networks",
+      "Humans",
+      "Transcription Factors/metabolism/genetics",
+      "Animals",
+      "Gene Expression Regulation",
+      "*Neoplasms/genetics/therapy/metabolism",
+      "Feedback, Physiological"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Goswami, Swati",
+        "Singh, Shailza"
+      ],
+      "short_names": [
+        "Goswami S",
+        "Singh S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Systems Medicine Laboratory, BRIC-National Centre for Cell Science, NCCS Complex, Pune, India.",
+        "Regional Centre for Biotechnology, Faridabad, India.",
+        "Systems Medicine Laboratory, BRIC-National Centre for Cell Science, NCCS Complex, Pune, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Goswami, Swati",
+        "short_name": "Goswami S",
+        "identifiers": [],
+        "affiliations": [
+          "Systems Medicine Laboratory, BRIC-National Centre for Cell Science, NCCS Complex, Pune, India.",
+          "Regional Centre for Biotechnology, Faridabad, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Shailza",
+        "short_name": "Singh S",
+        "identifiers": [],
+        "affiliations": [
+          "Systems Medicine Laboratory, BRIC-National Centre for Cell Science, NCCS Complex, Pune, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RNA biology"
+    ],
+    "journal_abbrev": [
+      "RNA Biol"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 11:45",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42788881",
+      "25286350",
+      "18719386",
+      "24846065",
+      "26611531",
+      "39496904",
+      "23497388",
+      "28540683",
+      "17971223",
+      "41649126",
+      "24307685",
+      "21375730",
+      "26156524",
+      "23377974",
+      "20805189",
+      "39230893",
+      "23334784",
+      "32085883",
+      "27317695",
+      "17630826",
+      "23377973",
+      "24172660",
+      "24129674",
+      "42475469",
+      "40216929",
+      "40862714",
+      "19091028",
+      "24564886",
+      "39853230",
+      "26763900",
+      "18927108",
+      "19274664",
+      "27604961",
+      "25544363",
+      "27879476",
+      "25445270",
+      "33662619",
+      "29373717",
+      "32737375",
+      "41455985",
+      "21342573",
+      "29226599",
+      "28865443",
+      "19786497",
+      "31514389",
+      "29357938",
+      "21423718",
+      "30651280",
+      "27795564",
+      "25556475",
+      "24077216",
+      "28418858",
+      "24923223",
+      "25024357",
+      "23822505",
+      "24205155",
+      "24968068",
+      "21503963",
+      "42565562",
+      "26518901",
+      "22262186",
+      "19492978",
+      "25189779",
+      "30844478",
+      "25902940",
+      "29601548",
+      "20975901",
+      "26869700",
+      "31540501",
+      "25855217",
+      "20584335",
+      "26258537",
+      "19476620",
+      "23246696",
+      "42636032",
+      "36264497",
+      "20156358",
+      "33259604",
+      "22691419",
+      "22591477",
+      "25338953",
+      "22319554",
+      "30806334",
+      "25684474",
+      "25189575",
+      "34433047",
+      "28718798",
+      "24837679",
+      "20731828",
+      "25788622",
+      "28586314",
+      "34607562",
+      "30985693",
+      "39792694",
+      "24377579",
+      "28540681",
+      "21483898",
+      "22242012",
+      "20031253",
+      "23475160"
+    ],
+    "review": [
+      "42788881",
+      "24846065",
+      "24307685",
+      "23377974",
+      "39230893",
+      "23334784",
+      "32085883",
+      "23377973",
+      "19274664",
+      "25544363",
+      "31514389",
+      "27795564",
+      "22262186",
+      "19492978",
+      "29601548",
+      "26869700",
+      "23246696",
+      "28586314"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

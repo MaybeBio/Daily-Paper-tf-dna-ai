@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "42794453",
+    "doi": "10.3390/ijms27188023",
+    "title": "Explainable Artificial Intelligence and Gene-Network Analysis Prioritise a TREM2/LGALS3/GPNMB Scar-Associated Macrophage Programme in Human Liver Cirrhosis."
+  },
+  "content": {
+    "abstract": "Macrophages organise the fibrotic niche of liver cirrhosis. The scar-associated macrophage state is well described, but the genes that define it have rarely been ranked in an unbiased, model-based way, and the statistical limits of such re-analyses are seldom reported. Here we set out to re-derive the scar-associated macrophage programme without supervision, to rank its constituent genes by convergent computational evidence, and to state explicitly what a cohort of this size can and cannot support. We re-analysed 58,358 single-cell transcriptomes from five uninjured and five cirrhotic human livers (GEO GSE136103; Edinburgh DataShare DS_10283_3433). After quality control, Harmony batch integration and Leiden clustering, the mononuclear-phagocyte compartment (9869 cells) was re-clustered. We applied donor-level compositional testing stratified within the CD45+/CD45- sorted fractions, donor-level pseudobulk differential expression, three classifiers with SHapley Additive exPlanations (SHAP) under donor-grouped cross-validation, transcription-factor differential expression, diffusion pseudotime, ligand-receptor modelling and CellOracle in silico perturbation. The donor, never the cell, was the unit of analysis for every condition comparison. A discrete macrophage cluster (390 cells; 60.5% cirrhotic; contributed by all 10 donors) carried a coherent lipid/scar programme comprising LGALS3, GPNMB, TREM2, CD9, FABP5, APOE, APOC1 and CTSD, and was recovered in all 22 clustering configurations tested. The integrated prioritisation was robust: seven genes remained in the top 20 in 100% of 1000 Dirichlet re-weightings. MAFB, MITF and TFEC were significantly enriched transcription factors, and pseudotime placed the state downstream of a monocyte root. Three findings temper these results. No lineage showed a significant compositional change after multiple-testing correction, and every test was underpowered for its observed effect. No gene reached significance in donor-level pseudobulk differential expression. Classifier performance of 0.99 reflects the circularity of predicting a cluster defined from the same matrix; the non-circular contrast of cirrhotic versus uninjured cells gave 0.61-0.65. Overall, a documented, fully reproducible framework re-derives and ranks a TREM2/LGALS3/GPNMB scar-associated macrophage programme and nominates galectin-3, GPNMB and the SPP1 axis as prioritised, clinically unproven candidates. The prioritisation is a hypothesis requiring independent, spatial, protein-level and functional validation.",
+    "keywords": [
+      "SHapley Additive exPlanations",
+      "explainable artificial intelligence",
+      "galectin-3",
+      "gene regulatory network inference",
+      "in silico perturbation",
+      "osteopontin",
+      "single-cell transcriptomics",
+      "target prioritisation"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Macrophages/metabolism/pathology",
+      "*Liver Cirrhosis/genetics/pathology/metabolism",
+      "*Membrane Glycoproteins/genetics/metabolism",
+      "*Receptors, Immunologic/genetics/metabolism",
+      "*Gene Regulatory Networks",
+      "*Galectin 3/genetics/metabolism",
+      "*Artificial Intelligence",
+      "*Cicatrix/genetics/pathology/metabolism",
+      "Transcriptome",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Faisal, Shah",
+        "Ejaz, Muhammad Adeel",
+        "Kambey, Piniel Alphayo",
+        "Malik, Abdul",
+        "Li, Yin-Xiong"
+      ],
+      "short_names": [
+        "Faisal S",
+        "Ejaz MA",
+        "Kambey PA",
+        "Malik A",
+        "Li YX"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5474-2622",
+        "ORCID: 0009-0006-1673-1272",
+        "ORCID: 0009-0002-5637-1241"
+      ],
+      "affiliations": [
+        "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "China-New Zealand Joint Laboratory on Biomedicine and Health, State Key Laboratory of Respiratory Disease, Guangzhou 510530, China.",
+        "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+        "China-New Zealand Joint Laboratory on Biomedicine and Health, State Key Laboratory of Respiratory Disease, Guangzhou 510530, China.",
+        "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "China-New Zealand Joint Laboratory on Biomedicine and Health, State Key Laboratory of Respiratory Disease, Guangzhou 510530, China.",
+        "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "China-New Zealand Joint Laboratory on Biomedicine and Health, State Key Laboratory of Respiratory Disease, Guangzhou 510530, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Faisal, Shah",
+        "short_name": "Faisal S",
+        "identifiers": [
+          "0000-0001-5474-2622"
+        ],
+        "affiliations": [
+          "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China.",
+          "China-New Zealand Joint Laboratory on Biomedicine and Health, State Key Laboratory of Respiratory Disease, Guangzhou 510530, China."
+        ]
+      },
+      {
+        "full_name": "Ejaz, Muhammad Adeel",
+        "short_name": "Ejaz MA",
+        "identifiers": [
+          "0009-0006-1673-1272"
+        ],
+        "affiliations": [
+          "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Kambey, Piniel Alphayo",
+        "short_name": "Kambey PA",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+          "China-New Zealand Joint Laboratory on Biomedicine and Health, State Key Laboratory of Respiratory Disease, Guangzhou 510530, China."
+        ]
+      },
+      {
+        "full_name": "Malik, Abdul",
+        "short_name": "Malik A",
+        "identifiers": [
+          "0009-0002-5637-1241"
+        ],
+        "affiliations": [
+          "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China.",
+          "China-New Zealand Joint Laboratory on Biomedicine and Health, State Key Laboratory of Respiratory Disease, Guangzhou 510530, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yin-Xiong",
+        "short_name": "Li YX",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Cell Lineage Technology and Engineering, Guangdong Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China.",
+          "China-New Zealand Joint Laboratory on Biomedicine and Health, State Key Laboratory of Respiratory Disease, Guangzhou 510530, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42794453",
+      "36529983",
+      "31597160",
+      "42088521",
+      "39172787",
+      "42737817",
+      "42707798",
+      "42749447",
+      "40750734",
+      "41736104",
+      "42459332",
+      "21145823",
+      "42698543",
+      "42033879",
+      "42123445",
+      "36321557",
+      "41680947",
+      "42510881",
+      "42475469",
+      "36359782",
+      "34672769",
+      "40392335",
+      "42250756",
+      "41465092",
+      "28919164",
+      "42695089",
+      "42503354",
+      "42292441",
+      "35750138",
+      "33031383",
+      "42024670",
+      "42785137",
+      "41656832",
+      "28231240",
+      "41153430",
+      "41459526",
+      "39313983",
+      "37027478",
+      "38710340",
+      "36221095",
+      "35477277",
+      "38199298",
+      "42472255",
+      "41107929",
+      "41449193",
+      "42694321",
+      "40799444",
+      "40592922",
+      "42650150",
+      "39135069",
+      "42754836",
+      "42233387",
+      "29545365",
+      "42415271",
+      "38449872",
+      "42742374",
+      "31097021",
+      "42743802",
+      "39508103",
+      "40523981",
+      "42136961",
+      "41206594",
+      "26599547",
+      "40764361",
+      "42750328",
+      "42249833",
+      "25380136",
+      "41085811",
+      "41611834",
+      "42074514",
+      "42113855",
+      "35359989",
+      "28502803",
+      "42661799",
+      "34019793",
+      "42758357",
+      "39819676",
+      "41699693",
+      "41789089",
+      "42565562",
+      "32241274",
+      "42598100",
+      "42482180",
+      "42617790",
+      "31105032",
+      "35046474",
+      "41612852",
+      "39983908",
+      "42794710",
+      "41716413",
+      "42182658",
+      "41922522",
+      "39580469",
+      "42135765",
+      "42143937",
+      "36226312",
+      "39888412",
+      "37207518",
+      "42755868",
+      "29967195"
+    ],
+    "review": [
+      "42794453",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

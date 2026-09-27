@@ -1,0 +1,302 @@
+{
+  "identity": {
+    "pmid": "42791474",
+    "doi": "10.1007/s10930-026-10356-2",
+    "title": "Integrated Structural and Dynamic Analysis Reveals Destabilizing Effects of KRAS Missense Variants Associated with Lung Cancer."
+  },
+  "content": {
+    "abstract": "Given the established oncogenic role of KRAS in lung cancer and its predicted regulation by hsa-miR-134 and transcription factors (NCOA4, NR3C2, ETS2), we systematically catalogued genetic variation across the KRAS gene. In this study, we identified 21,598 SNPs, of which 475 were missense (2.19%), 580 were synonymous (2.68%), and 18,093 were intronic (83.77%). In silico prioritization combined with cross-validation in TCGA-LUAD and MSK-IMPACT cohorts identified four high-confidence deleterious variants (G13C, G13D, G60S, G60V), confirming the recurrence of G13C/G13D and highlighting the fully conserved switch II residue G60 as a structurally distinctive candidate. In MD simulations, G60S showed the largest conformational displacement (RMSD  approximately  8-9 A), elevated per-residue flexibility (residues 28-37: 1.90 --> 2.99 A), increased terminal Rg, and reduced hydrogen-bond occupancy, suggesting localized, mutation-specific perturbations within the G-domain. In contrast, G13D maintained near-wild-type dynamics, indicating that functional impairment may not require global structural destabilization. Consistent ensemble analyses (PCA, DCCM, FEL) revealed a dominant single-mode rearrangement for G60S (PC1  approximately  50.8%), a heterogeneous multi-state landscape for G60V, and a restricted low-energy ensemble for G13D, supporting distinct, position-specific mechanisms. Gene-gene and protein-protein interaction analyses linked KRAS to multiple signaling partners, GO and KEGG enrichment analyses associated KRAS with GTPase activity, Rac protein signaling, and the RAS-MAPK and PI3K-AKT pathways implicated in lung cancer progression. Overall, these findings identify G13C, G13D, G60S, and G60V as high-priority candidates for experimental validation and may inform future strategies for genomic risk assessment and mutation-specific therapeutic intervention in lung cancer.",
+    "keywords": [
+      "In silico prediction",
+      "KRAS",
+      "Lung cancer",
+      "Missense SNP",
+      "Molecular dynamics simulation",
+      "Protein stability"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mia, Md Sohel",
+        "Datta, Bimal Kumar",
+        "Akter, Khadija",
+        "Das Topu, Tomal Krishno",
+        "Shawon, Jamima Mahzabin",
+        "Hossen, Faisul",
+        "Pranto, Abdur Rahman",
+        "Shadhin, Md Saklain Tanver",
+        "Tahsin, Nowmee",
+        "Qahl, Safa H",
+        "Bakhsh, Tahani",
+        "Talukder, Md Enamul Kabir"
+      ],
+      "short_names": [
+        "Mia MS",
+        "Datta BK",
+        "Akter K",
+        "Das Topu TK",
+        "Shawon JM",
+        "Hossen F",
+        "Pranto AR",
+        "Shadhin MST",
+        "Tahsin N",
+        "Qahl SH",
+        "Bakhsh T",
+        "Talukder MEK"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-7076-1458"
+      ],
+      "affiliations": [
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh. soheldmc21@gmail.com.",
+        "Department of Mathematics and Statistics, Florida Atlantic University, Boca Raton, FL, 33431, USA.",
+        "Department of Zoology, University of Dhaka, Dhaka, 1000, Bangladesh.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh.",
+        "Department of Biological Science, College of Science, University of Jeddah, 21589, Jeddah, Saudi Arabia.",
+        "Department of Biological Science, College of Science, University of Jeddah, 21589, Jeddah, Saudi Arabia.",
+        "Department of Genetic Engineering and Biotechnology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh. talukder.mek@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mia, Md Sohel",
+        "short_name": "Mia MS",
+        "identifiers": [
+          "0009-0009-7076-1458"
+        ],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh. soheldmc21@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Datta, Bimal Kumar",
+        "short_name": "Datta BK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics and Statistics, Florida Atlantic University, Boca Raton, FL, 33431, USA."
+        ]
+      },
+      {
+        "full_name": "Akter, Khadija",
+        "short_name": "Akter K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Zoology, University of Dhaka, Dhaka, 1000, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Das Topu, Tomal Krishno",
+        "short_name": "Das Topu TK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Shawon, Jamima Mahzabin",
+        "short_name": "Shawon JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Hossen, Faisul",
+        "short_name": "Hossen F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Pranto, Abdur Rahman",
+        "short_name": "Pranto AR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Shadhin, Md Saklain Tanver",
+        "short_name": "Shadhin MST",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Tahsin, Nowmee",
+        "short_name": "Tahsin N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Qahl, Safa H",
+        "short_name": "Qahl SH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Science, College of Science, University of Jeddah, 21589, Jeddah, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Bakhsh, Tahani",
+        "short_name": "Bakhsh T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Science, College of Science, University of Jeddah, 21589, Jeddah, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Talukder, Md Enamul Kabir",
+        "short_name": "Talukder MEK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetic Engineering and Biotechnology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh. talukder.mek@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The protein journal"
+    ],
+    "journal_abbrev": [
+      "Protein J"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:34",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42791474",
+      "42376479",
+      "41671225",
+      "42657169",
+      "41756011",
+      "41381739",
+      "42785137",
+      "41714375",
+      "42475469",
+      "39035919",
+      "41307241",
+      "39975035",
+      "42056373",
+      "41401744",
+      "37500789",
+      "41277739",
+      "41898807",
+      "42196261",
+      "23437064",
+      "41317688",
+      "40384021",
+      "42602159",
+      "42749446",
+      "40927719",
+      "40671268",
+      "40957478",
+      "40627944",
+      "40166154",
+      "40184641",
+      "40571049",
+      "40370698",
+      "42799647",
+      "42369210",
+      "39854591",
+      "31390567",
+      "42444804",
+      "40949796",
+      "42640838",
+      "42196567",
+      "40486872",
+      "42564356",
+      "37268708",
+      "40340861",
+      "38282149",
+      "39522170",
+      "41601477",
+      "41320730",
+      "41404416",
+      "42079738",
+      "40568771",
+      "42008967",
+      "29663862",
+      "42089585",
+      "41373405",
+      "38627844",
+      "42220119",
+      "42024236",
+      "27805251",
+      "38153169",
+      "40161650",
+      "40892789",
+      "41570449",
+      "41550510",
+      "31551296",
+      "41303381",
+      "42421348",
+      "41475071",
+      "42520089",
+      "39427874",
+      "40469839",
+      "42533188",
+      "38374309",
+      "30903639",
+      "42353858",
+      "41616039",
+      "42398486",
+      "42393402",
+      "42782515",
+      "38773180",
+      "41192394",
+      "37065036",
+      "34739970",
+      "42431013",
+      "41683587",
+      "36764830",
+      "33153459",
+      "42288924",
+      "36056132",
+      "41500779",
+      "38858637",
+      "41039863",
+      "40809235",
+      "38486394",
+      "42541864",
+      "41699549",
+      "39923231",
+      "40563459",
+      "42595781",
+      "42484860",
+      "39710177"
+    ],
+    "review": [
+      "42791474",
+      "40671268"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

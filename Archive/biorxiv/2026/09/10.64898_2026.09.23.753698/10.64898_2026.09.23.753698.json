@@ -1,0 +1,379 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.23.753698",
+  "title": "Seven amino acids gate transcriptional activation by a minimal MarA Helix turn-helix DNA-binding domain",
+  "doi": "10.64898/2026.09.23.753698",
+  "abstract": "Prokaryotic transcription factors (TFs) lie at the core of antimicrobial resistance, controlling genes that let bacteria survive antibiotic exposure. The AraC/XylS family of TFs is defined by a ~99-residue DNA-binding domain composed of two helix-turn-helix (HTH) motifs. While this two-motif architecture is considered the minimal functional unit, the striking sequence and structural similarity between both HTH motifs raises the question of whether it evolved from a single ancestral HTH domain. Here, we designed two C-terminal truncations of MarA, comprising a single HTH motif, differing by seven-residues (IRSRKMT). Electrophoretic-mobility shift assays reveal that both constructs specifically bind the marbox sequence as reconstituted dimers, while size-exclusion chromatography shows they exist in a monomer-dimer equilibrium in solution. Despite retaining DNA-binding capacity, the truncations diverge functionally: while MarA64 (including IRSRKMT) activates transcription and confers regular erythromycin tolerance, MarA57 (lacking IRSRKMT) yields a transcriptionally inactive complex that suppresses reporter expression below baseline, suggesting competitive promoter occupancy. Molecular dynamics simulations and AlphaFold models suggest that the IRSRKMT extension forms an α-helical element stabilizing a transcriptionally productive dimer interface. Conversely, its loss disrupts quaternary assembly, alters DNA bending, and misaligns RNA polymerase-contacting residues. Furthermore, free dimers explore non-productive conformations, suggesting that functional dimerization occurs upon DNA engagement. These findings establish that a single, correctly dimerized HTH domain is sufficient for both DNA binding and transcriptional activation, providing a structural rationale for short AraC/XylS-like proteins and offering a tuneable scaffold for synthetic biology and novel anti-virulence strategies.",
+  "authors": [
+    "Marina Corbella",
+    "Ariadna Serrano",
+    "Roberto Bello-Madruga",
+    "Marc Torrent",
+    "Ivan Erill",
+    "Jessica M.A. Blair",
+    "Enea Sancho-Vaello"
+  ],
+  "published_date": "2026-09-24",
+  "updated_date": "2026-09-24T13:30:12Z",
+  "journal": "bioRxiv",
+  "category": "Molecular Biology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.23.753698",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.23.753698.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Molecular Biology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Molecular Biology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T14:02:31Z",
+        "timestamp": 1790258551627,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "group-title": "Molecular Biology",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2026-09-24T00:00:00Z",
+            "timestamp": 1790208000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "European Union's Horizon 2020 Research and Innovation Programme",
+          "award": [
+            "839036"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "839036"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spanish Ministry of Science and Innovation",
+          "award": [
+            "BG22/00118"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "BG22/00118"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spanish Ministry of Science and Innovation",
+          "award": [
+            "PID2023-152240OB-C21"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "PID2023-152240OB-C21"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spanish Ministry of Science and Innovation",
+          "award": [
+            "PID2024-156292OB-I00"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "PID2024-156292OB-I00"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Universitat Autònoma de Barcelona",
+          "award": [
+            "PD619842/D040601"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "PD619842/D040601"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/052g8jq94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "BSC in MareNostrum5",
+          "award": [
+            "BCV-2025-3-0015"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "BCV-2025-3-0015"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Prokaryotic transcription factors (TFs) lie at the core of antimicrobial resistance, controlling genes that let bacteria survive antibiotic exposure. The AraC/XylS family of TFs is defined by a ~99-residue DNA-binding domain composed of two helix-turn-helix (HTH) motifs. While this two-motif architecture is considered the minimal functional unit, the striking sequence and structural similarity between both HTH motifs raises the question of whether it evolved from a single ancestral HTH domain. Here, we designed two C-terminal truncations of MarA, comprising a single HTH motif, differing by seven-residues (IRSRKMT). Electrophoretic-mobility shift assays reveal that both constructs specifically bind the marbox sequence as reconstituted dimers, while size-exclusion chromatography shows they exist in a monomer-dimer equilibrium in solution. Despite retaining DNA-binding capacity, the truncations diverge functionally: while MarA64 (including IRSRKMT) activates transcription and confers regular erythromycin tolerance, MarA57 (lacking IRSRKMT) yields a transcriptionally inactive complex that suppresses reporter expression below baseline, suggesting competitive promoter occupancy. Molecular dynamics simulations and AlphaFold models suggest that the IRSRKMT extension forms an α-helical element stabilizing a transcriptionally productive dimer interface. Conversely, its loss disrupts quaternary assembly, alters DNA bending, and misaligns RNA polymerase-contacting residues. Furthermore, free dimers explore non-productive conformations, suggesting that functional dimerization occurs upon DNA engagement. These findings establish that a single, correctly dimerized HTH domain is sufficient for both DNA binding and transcriptional activation, providing a structural rationale for short AraC/XylS-like proteins and offering a tuneable scaffold for synthetic biology and novel anti-virulence strategies.</jats:p>",
+      "DOI": "10.64898/2026.09.23.753698",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T13:30:12Z",
+        "timestamp": 1790256612000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Seven amino acids gate transcriptional activation by a minimal MarA Helix turn-helix DNA-binding domain"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-9209-868X",
+          "authenticated-orcid": false,
+          "given": "Marina",
+          "family": "Corbella",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Departament de Farmacia i Tecnologia Farmaceutica i Fisicoquimica, Facultat de Farmacia i Ciencies de l'Alimentacio, Universitat de Barcelona (UB), 08028 Barcelona, Spain;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-7834-0201",
+          "authenticated-orcid": false,
+          "given": "Ariadna",
+          "family": "Serrano",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Departament de Bioquimica i Biologia Molecular, Universitat Autonoma de Barcelona; 08193 Cerdanyola del Valles, Spain;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0003-8474-3951",
+          "authenticated-orcid": false,
+          "given": "Roberto",
+          "family": "Bello-Madruga",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Departament de Bioquimica i Biologia Molecular, Universitat Autonoma de Barcelona; 08193 Cerdanyola del Valles, Spain;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6567-3474",
+          "authenticated-orcid": false,
+          "given": "Marc",
+          "family": "Torrent",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Departament de Bioquimica i Biologia Molecular, Universitat Autonoma de Barcelona; 08193 Cerdanyola del Valles, Spain;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7280-7191",
+          "authenticated-orcid": false,
+          "given": "Ivan",
+          "family": "Erill",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Departament d'Enginyeria de la Informacio i de les Comunicacions, Universitat Autonoma de Barcelona, Cerdanyola del Valles, Barcelona 08193, Spain;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6904-4253",
+          "authenticated-orcid": false,
+          "given": "Jessica M.A.",
+          "family": "Blair",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Medicine and Health, Institute of Microbiology and Infection, University of Birmingham; Edgbaston, Birmingham, B15 2TT, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1383-2001",
+          "authenticated-orcid": false,
+          "given": "Enea",
+          "family": "Sancho-Vaello",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Departament de Bioquimica i Biologia Molecular, Universitat Autonoma de Barcelona; 08193 Cerdanyola del Valles, Spain;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.23.753698",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T13:30:12Z",
+        "timestamp": 1790256612000
+      },
+      "score": 116.45046,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.23.753698"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.23.753698",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "identity": {
+    "pmid": "42796831",
+    "doi": "10.3390/plants15182799",
+    "title": "Single-Cell Insights into Medicinal Plant Development and Metabolism."
+  },
+  "content": {
+    "abstract": "Medicinal plants are major sources of therapeutic natural products, yet the cell-type-specific organization that governs metabolite biosynthesis, transport, and storage remains imperfectly resolved by organ-level omics. This review synthesizes studies published up to June 2026 that used single-cell, single-nucleus, spatial, metabolomic, and epigenomic approaches to medicinal plant systems, following a PRISMA-guided literature search across PubMed, Web of Science, Scopus, and CNKI. Emerging evidence shows that specialized metabolism is organized through discrete and often rare cell populations, including idioblasts, laticifers, glandular trichomes, secretory epidermal cells, internal phloem-associated parenchyma, cork and periderm cells, mesophyll cells, and other biosynthetic niches. Single-cell RNA sequencing has defined these populations and reconstructed developmental trajectories, whereas single-cell metabolomics and mass spectrometry imaging reveal that metabolite accumulation frequently diverges from biosynthetic gene expression because of intercellular transport, storage capacity, and subcellular compartmentation. Single-cell ATAC-seq and multiome profiling further identify cell-type-specific regulatory regions, transcription factors, and candidate promoters controlling metabolic competence. Together, these technologies are reshaping medicinal plant biology from pathway-centric catalogs into spatially and developmentally resolved cellular maps. We highlight how artificial intelligence (AI)-assisted integration can accelerate cell annotation, regulatory network inference, metabolite assignment, and prioritization of biosynthetic genes, transporters, and engineering targets. Future progress will depend on comparative medicinal plant atlases, improved recovery of recalcitrant tissues, matched transcriptomic, metabolomic, and spatial designs, and functional validation of cell-type-specific mechanisms.",
+    "keywords": [
+      "artificial intelligence",
+      "medicinal plants",
+      "scATAC-seq",
+      "single-cell RNA-seq",
+      "spatial metabolomics",
+      "specialized metabolism"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Baoping",
+        "Le, Liang"
+      ],
+      "short_names": [
+        "Jiang B",
+        "Le L"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1035-5078",
+        "ORCID: 0000-0002-4148-0122"
+      ],
+      "affiliations": [
+        "Beijing Life Science Academy, Beijing 102200, China.",
+        "State Key Laboratory for Quality Ensurance and Sustainable Use of Dao-di Herbs, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China.",
+        "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 12 Zhongguancun South Street, Beijing 100081, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Baoping",
+        "short_name": "Jiang B",
+        "identifiers": [
+          "0000-0003-1035-5078"
+        ],
+        "affiliations": [
+          "Beijing Life Science Academy, Beijing 102200, China.",
+          "State Key Laboratory for Quality Ensurance and Sustainable Use of Dao-di Herbs, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Le, Liang",
+        "short_name": "Le L",
+        "identifiers": [
+          "0000-0002-4148-0122"
+        ],
+        "affiliations": [
+          "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 12 Zhongguancun South Street, Beijing 100081, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plants (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Plants (Basel)"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42796831",
+      "42761523",
+      "41465249",
+      "42653123",
+      "41070730",
+      "42180555",
+      "39777086",
+      "40889291",
+      "42475469",
+      "42218373",
+      "40598113",
+      "41455555",
+      "39456129",
+      "41504619",
+      "41508605",
+      "42411279",
+      "41716413",
+      "40593253",
+      "42581543",
+      "42525561",
+      "41134629",
+      "42169223",
+      "41376168",
+      "42587808",
+      "36321557",
+      "38338756",
+      "42737932",
+      "41230160",
+      "39538149",
+      "41704600",
+      "42074532",
+      "31965448",
+      "41942920",
+      "41647724",
+      "23912807",
+      "26269925",
+      "35236372",
+      "38664790",
+      "42794830",
+      "35195064",
+      "42068881",
+      "40471991",
+      "42775861",
+      "36147664",
+      "41570605",
+      "42390037",
+      "41183511",
+      "42486346",
+      "41601671",
+      "41028755",
+      "42292364",
+      "42391613",
+      "42134646",
+      "40764361",
+      "40398874",
+      "40094454",
+      "41972591",
+      "39977580",
+      "42644336",
+      "37353907",
+      "41937210",
+      "39769196",
+      "37231648",
+      "42099283",
+      "41731605",
+      "42196225",
+      "41808446",
+      "36540021",
+      "34144672",
+      "42021342",
+      "42687187",
+      "33422696",
+      "42227003",
+      "40601168",
+      "40141311",
+      "42255056",
+      "41893315",
+      "21630129",
+      "42160834",
+      "41684520",
+      "41611834",
+      "41758996",
+      "42535626",
+      "42324763",
+      "18034876",
+      "41772475",
+      "41694378",
+      "28036025",
+      "39541907",
+      "36416120",
+      "41699549",
+      "41874798",
+      "42372482",
+      "42510771",
+      "42677890",
+      "15860426",
+      "42024670",
+      "41176190",
+      "36495448",
+      "39401074"
+    ],
+    "review": [
+      "42796831",
+      "42761523",
+      "41465249",
+      "42653123",
+      "42180555",
+      "39777086",
+      "40889291",
+      "41455555",
+      "41508605",
+      "40593253",
+      "42581543",
+      "42525561",
+      "41376168",
+      "42587808",
+      "36321557",
+      "38338756",
+      "41704600",
+      "42074532",
+      "41942920",
+      "35236372",
+      "42794830",
+      "42068881",
+      "36147664",
+      "41570605",
+      "42390037",
+      "42391613",
+      "40398874",
+      "39977580",
+      "42644336",
+      "37353907",
+      "42196225",
+      "36540021",
+      "42687187",
+      "42255056",
+      "41893315",
+      "21630129",
+      "41758996",
+      "42535626",
+      "28036025",
+      "42510771",
+      "15860426",
+      "41176190"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

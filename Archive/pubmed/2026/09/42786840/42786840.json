@@ -1,0 +1,196 @@
+{
+  "identity": {
+    "pmid": "42786840",
+    "doi": "10.2174/0118715303480747260911112434",
+    "title": "Identification of DUSP4 and NID1 as Biomarkers Related to Cation Homeostasis in Diabetic Retinopathy Based on Transcriptomic Analysis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The pathophysiology of Diabetic Retinopathy (DR) remains incompletely understood, and there are no biomarkers for early diagnosis and therapeutic intervention. This study aimed to identify biomarkers of DR from among genes related to cation homeostasis. METHODS: Data related to DR and Cation Homeostasis-Related Genes (CHRGs) were retrieved from public databases. Common Differentially Expressed Genes (DEGs) among blood and tissue datasets were identified, and overlapping genes between common DEGs and key module genes associated with differentially expressed CHRGs (DE-CHRGs) were Designated As Candidate Genes. For Biomarker Identification, these genes were used for Protein-Protein Interaction (PPI) network construction, machine learning analysis, and expression validation. Biomarker performance was then evaluated through nomogram construction and testing. Additionally, enrichment, immune cell infiltration, regulatory factor, and drug-prediction analyses were conducted to explore the functions of biomarkers in DR. RESULTS: In total, 125 common DEGs, 6990 key module genes, and 62 candidate genes were obtained. Through PPI network analysis, machine learning analysis, and expression validation, DUSP4 and NID1 were identified as biomarkers. The corresponding nomogram demonstrated favorable performance in diagnosing DR. Notably, both biomarkers were co-enriched in pathways, including the \"ribosome\" pathway. Subsequently, key transcription factors that regulate these biomarkers were identified. DISCUSSION: This study linked cation homeostasis with DR, providing a potential research direction for the early diagnosis and treatment of DR. CONCLUSION: This study identified DUSP4 and NID1 as biomarkers for DR, providing potential molecular clues for the exploration of therapeutic strategies for DR.",
+    "keywords": [
+      "Diabetic retinopathy",
+      "biomarkers",
+      "cation homeostasis",
+      "machine learning",
+      "pathogenesis",
+      "transcriptomic analysis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Tingting",
+        "Chang, Qing"
+      ],
+      "short_names": [
+        "Jiang T",
+        "Chang Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Eye Institute and Department of Ophthalmology, Eye and ENT Hospital, Fudan University, Shanghai, 200031, China.",
+        "NHC Key Laboratory of Myopia and Related Eye Diseases; Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, 200031, China.",
+        "Shanghai Key Laboratory of Visual Impairment and Restoration, Shanghai, 200031, China.",
+        "Eye Institute and Department of Ophthalmology, Eye and ENT Hospital, Fudan University, Shanghai, 200031, China.",
+        "NHC Key Laboratory of Myopia and Related Eye Diseases; Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, 200031, China.",
+        "Shanghai Key Laboratory of Visual Impairment and Restoration, Shanghai, 200031, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Tingting",
+        "short_name": "Jiang T",
+        "identifiers": [],
+        "affiliations": [
+          "Eye Institute and Department of Ophthalmology, Eye and ENT Hospital, Fudan University, Shanghai, 200031, China.",
+          "NHC Key Laboratory of Myopia and Related Eye Diseases; Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, 200031, China.",
+          "Shanghai Key Laboratory of Visual Impairment and Restoration, Shanghai, 200031, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Qing",
+        "short_name": "Chang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Eye Institute and Department of Ophthalmology, Eye and ENT Hospital, Fudan University, Shanghai, 200031, China.",
+          "NHC Key Laboratory of Myopia and Related Eye Diseases; Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, 200031, China.",
+          "Shanghai Key Laboratory of Visual Impairment and Restoration, Shanghai, 200031, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Endocrine, metabolic & immune disorders drug targets"
+    ],
+    "journal_abbrev": [
+      "Endocr Metab Immune Disord Drug Targets"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 05:31",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42786840",
+      "39483475",
+      "42059276",
+      "42432759",
+      "39697326",
+      "41384025",
+      "39762849",
+      "40790234",
+      "39427825",
+      "42265151",
+      "42174000",
+      "38310446",
+      "41583295",
+      "40532306",
+      "41291841",
+      "42129911",
+      "36506045",
+      "39968099",
+      "37773794",
+      "40674819",
+      "41858783",
+      "40340571",
+      "40374840",
+      "41299729",
+      "39085562",
+      "40406126",
+      "41716682",
+      "40435823",
+      "42106542",
+      "40927188",
+      "41957428",
+      "41651978",
+      "41703488",
+      "38443950",
+      "41111587",
+      "42024670",
+      "42440559",
+      "41316541",
+      "41115648",
+      "36823662",
+      "41350331",
+      "35574010",
+      "39022342",
+      "40885831",
+      "41415264",
+      "39507054",
+      "40469433",
+      "42306043",
+      "41378129",
+      "41479901",
+      "39634176",
+      "40043935",
+      "41132791",
+      "41013856",
+      "40078458",
+      "32290826",
+      "42509823",
+      "42537010",
+      "41340073",
+      "38951833",
+      "38987624",
+      "38028617",
+      "42447550",
+      "42023244",
+      "42694848",
+      "37867507",
+      "36325528",
+      "42292668",
+      "42327749",
+      "41030501",
+      "38260098",
+      "40273141",
+      "38571624",
+      "41257259",
+      "39375405",
+      "42050477",
+      "40898460",
+      "42761712",
+      "39139563",
+      "36689408",
+      "41697558",
+      "40370590",
+      "41265166",
+      "39351239",
+      "42164373",
+      "40331545",
+      "41576727",
+      "39875572",
+      "42274933",
+      "41785251",
+      "41627661",
+      "37212262",
+      "39704112",
+      "39707377",
+      "41052072",
+      "41959722",
+      "35558576",
+      "40552285",
+      "41872824",
+      "42083957"
+    ],
+    "review": [
+      "42786840",
+      "37212262"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

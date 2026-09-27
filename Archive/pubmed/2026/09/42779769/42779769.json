@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42779769",
+    "doi": "10.64898/2026.08.11.744200",
+    "title": "Temporal regulation of a spatial patterning factor in Drosophila neurogenesis."
+  },
+  "content": {
+    "abstract": "A central question in neurobiology is how the transient programs that pattern neural progenitors are translated into the enormous, stable diversity of neuronal types. Spatial and temporal cues act only briefly, yet each neuron's identity is defined and maintained for life by terminal selector transcription factors (TFs). How a neuron's developmental origin is read out into a particular selector code remains poorly understood. Some current models propose that spatial and temporal origins are inherited independently through separate selectors. We show instead that, in the Drosophila optic lobe, the same selector can be activated by different patterning axes through physically distinct enhancers, even within the same lineage. Visual system homeobox (Vsx1) spatially patterns a central neuroepithelial domain and later acts as a terminal selector in dozens of neuronal types, most originating exclusively from that domain. However, in Dm2 neurons that are produced from every domain, it is regulated not by neuroepithelial Vsx1 but by the neuroblast temporal TF BarH1, through an enhancer distinct from its domain-specific ones. Combining in vivo reporters with sequence-to-accessibility deep-learning models, we identify and disrupt the key binding sites in this enhancer, impairing its Dm2-specific activity. Reciprocally, the temporal TF Homeobrain (Hbn) acts as a terminal selector in the related neuron Mi21 independently of its neuroblast temporal window: its expression in these late-born neurons is instead placed under dorsoventral spatial control. Patterning inputs therefore need not be partitioned across separate selectors but converge combinatorially on the modular enhancers of shared ones, revealing a cis-regulatory logic that re-encodes this limited set of inputs into vast neuronal diversity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Coyne, Rose",
+        "Kamulegeya, Fahad",
+        "Lake, Cathleen",
+        "Rajesh, Raghuvanshi",
+        "Treese, McKenzie",
+        "Chen, Yen-Chung",
+        "Troutwine, Benjamin",
+        "Zeitlinger, Julia",
+        "Ozel, Mehmet Neset"
+      ],
+      "short_names": [
+        "Coyne R",
+        "Kamulegeya F",
+        "Lake C",
+        "Rajesh R",
+        "Treese M",
+        "Chen YC",
+        "Troutwine B",
+        "Zeitlinger J",
+        "Ozel MN"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5172-3335",
+        "ORCID: 0000-0002-0185-5866"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Coyne, Rose",
+        "short_name": "Coyne R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kamulegeya, Fahad",
+        "short_name": "Kamulegeya F",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lake, Cathleen",
+        "short_name": "Lake C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rajesh, Raghuvanshi",
+        "short_name": "Rajesh R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Treese, McKenzie",
+        "short_name": "Treese M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, Yen-Chung",
+        "short_name": "Chen YC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Troutwine, Benjamin",
+        "short_name": "Troutwine B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zeitlinger, Julia",
+        "short_name": "Zeitlinger J",
+        "identifiers": [
+          "0000-0002-5172-3335"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Özel, Mehmet Neset",
+        "short_name": "Özel MN",
+        "identifiers": [
+          "0000-0002-0185-5866"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779769",
+      "41842930",
+      "40950208",
+      "42616773",
+      "42475469",
+      "38370610",
+      "41992006",
+      "26377945",
+      "32723364",
+      "30694180",
+      "19104055",
+      "18832394",
+      "35392413",
+      "35915026",
+      "38905123",
+      "36135799",
+      "24353061",
+      "35723253",
+      "36480601",
+      "32012462",
+      "33054400",
+      "32442418",
+      "22033538",
+      "35660371",
+      "28992439",
+      "28414802",
+      "28077877",
+      "31826942",
+      "35659165",
+      "16980589",
+      "39829863",
+      "33556251",
+      "36043696",
+      "42643108",
+      "27148744",
+      "34486522",
+      "35177098",
+      "32804082",
+      "22691242",
+      "40998808",
+      "21315151",
+      "24912777",
+      "34767545",
+      "23962839",
+      "24854999",
+      "32071204",
+      "26713626",
+      "33001031",
+      "35483359",
+      "28899597",
+      "40163536",
+      "38531357",
+      "19059393",
+      "33127508",
+      "26042329",
+      "30962180",
+      "22378636",
+      "20808769",
+      "19060335",
+      "28769770",
+      "27606333",
+      "28137283",
+      "17094800",
+      "35623984",
+      "40675154",
+      "21821017",
+      "38391176",
+      "29677185",
+      "15691761",
+      "34549172",
+      "24972496",
+      "40482397",
+      "20485487",
+      "26975248",
+      "18948419",
+      "9362473",
+      "34983686",
+      "31545163",
+      "25171415",
+      "31502540",
+      "25074684",
+      "23160410",
+      "30227165",
+      "39637134",
+      "17825435",
+      "23839338",
+      "37557175",
+      "35388222",
+      "42327183",
+      "23972280",
+      "23783519",
+      "35881070",
+      "29187214",
+      "26970634",
+      "32816915",
+      "24306106",
+      "25619507",
+      "32156753",
+      "41659434",
+      "27740908"
+    ],
+    "review": [
+      "42779769",
+      "19104055",
+      "35392413",
+      "35915026",
+      "32012462",
+      "28992439",
+      "35659165",
+      "24912777",
+      "23962839",
+      "28899597",
+      "33127508",
+      "35623984",
+      "40482397",
+      "30227165",
+      "17825435",
+      "35881070",
+      "26970634",
+      "32816915"
+    ],
+    "pmc": [
+      "13596163"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-LBX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.08.11.744200",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

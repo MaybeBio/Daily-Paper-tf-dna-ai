@@ -1,0 +1,327 @@
+{
+  "identity": {
+    "pmid": "42779115",
+    "doi": "10.1016/j.xplc.2026.102118",
+    "title": "PURE: An interpretable framework for prioritizing candidate regulators of differential gene expression in plants."
+  },
+  "content": {
+    "abstract": "While transcriptomic profiling has become routine, identifying the TFs underlying these expression patterns remains a major challenge, particularly for crops and non-model species lacking efficient transformation systems. To connect expression correlations with candidate regulatory mechanisms, we developed PURE (Plant Unified Regulation Explorer), an interpretable platform that ranks candidate TFs by integrating co-expression patterns with sequence motifs and experimental binding evidence. PURE uses gradient boosting to handle sparse and imbalanced plant regulatory matrices and then applies SHAP feature attribution to convert model behavior into TF-level contribution scores. By integrating ChIP-seq and DAP-seq resources from Arabidopsis, maize, rice, and tomato, PURE projects these reference binding profiles through cross-species relationships to constrain the search space in target species. Benchmarking across 11 species spanning the green lineage showed that PURE feature matrices captured expression contrasts associated with abiotic stress, developmental trajectories, and cell-type specificity, and downstream evidence-filtered attribution scores prioritized TF candidates supported by the integrated regulatory evidence. PURE further supported analyses of the transcriptional plasticity of maize C(4) photosynthesis, the conserved photosystem response across lineages, and the hierarchical metabolic architecture of tomato fruit ripening. As a discovery-oriented test, PURE prioritized the less-characterized tomato light-dark TF SlDOF3, and integrated SlDOF3 ChIP-seq and RNA-seq analyses supported binding and associated expression changes at predicted pathway loci. PURE is accessible as a web resource (https://plantencodedb.sjtu.edu.cn/pure/), enabling experimental biologists to prioritize candidate TFs for downstream experimental analysis.",
+    "keywords": [
+      "cross-species binding projection",
+      "differential gene expression",
+      "gene regulatory networks",
+      "interpretable machine learning",
+      "multi-omics integration",
+      "transcription factors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Chuanshun",
+        "Yang, Leyi",
+        "Lin, Kande",
+        "Liu, Xiaojian",
+        "Long, Zhengbiao",
+        "Deng, Qilin",
+        "Zhang, You",
+        "Li, Yangmeihui",
+        "Zhong, Dating",
+        "Ma, Chao",
+        "Lu, Yuming",
+        "Pan, Xiaoyong",
+        "Tu, Xiaoyu"
+      ],
+      "short_names": [
+        "Li C",
+        "Yang L",
+        "Lin K",
+        "Liu X",
+        "Long Z",
+        "Deng Q",
+        "Zhang Y",
+        "Li Y",
+        "Zhong D",
+        "Ma C",
+        "Lu Y",
+        "Pan X",
+        "Tu X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai, 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai, 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China. Electronic address: xiaoyutu@sjtu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Chuanshun",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Leyi",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Kande",
+        "short_name": "Lin K",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaojian",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai, 200240, China."
+        ]
+      },
+      {
+        "full_name": "Long, Zhengbiao",
+        "short_name": "Long Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Qilin",
+        "short_name": "Deng Q",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, You",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yangmeihui",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Dating",
+        "short_name": "Zhong D",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Chao",
+        "short_name": "Ma C",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Yuming",
+        "short_name": "Lu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Xiaoyong",
+        "short_name": "Pan X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai, 200240, China."
+        ]
+      },
+      {
+        "full_name": "Tu, Xiaoyu",
+        "short_name": "Tu X",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China. Electronic address: xiaoyutu@sjtu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant communications"
+    ],
+    "journal_abbrev": [
+      "Plant Commun"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 05:37",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779115",
+      "42475469",
+      "37682477",
+      "18426580",
+      "26056275",
+      "41518494",
+      "29879919",
+      "41764430",
+      "37805453",
+      "40607808",
+      "30395277",
+      "42636032",
+      "29229750",
+      "32898258",
+      "41801512",
+      "41527853",
+      "32858223",
+      "41419818",
+      "20840729",
+      "33631799",
+      "42052258",
+      "30598100",
+      "41518506",
+      "37661236",
+      "42535174",
+      "42289463",
+      "42223712",
+      "41611834",
+      "41170672",
+      "26476450",
+      "35229021",
+      "34448158",
+      "36307979",
+      "39705007",
+      "21172055",
+      "42591468",
+      "32054475",
+      "28044313",
+      "23184988",
+      "27007138",
+      "41949801",
+      "41092109",
+      "38337133",
+      "27924033",
+      "42517950",
+      "36929522",
+      "27356975",
+      "42074514",
+      "39462454",
+      "36982696",
+      "40908642",
+      "42185984",
+      "38940155",
+      "42737998",
+      "39796242",
+      "22011333",
+      "32615918",
+      "41288963",
+      "18586698",
+      "37788349",
+      "34608238",
+      "25023089",
+      "42333035",
+      "20360861",
+      "20704747",
+      "25261191",
+      "42024670",
+      "27503086",
+      "41193681",
+      "25918418",
+      "39588772",
+      "42435052",
+      "42554796",
+      "41536787",
+      "40808255",
+      "36749045",
+      "40365911",
+      "27519564",
+      "25445270",
+      "25887857",
+      "42192776",
+      "42123445",
+      "25830017",
+      "42004709",
+      "38464086",
+      "22456606",
+      "41595448",
+      "41734447",
+      "30598689",
+      "36061801",
+      "42197712",
+      "41716413",
+      "26742635",
+      "35064997",
+      "38490467",
+      "37682473",
+      "34544366",
+      "26611531",
+      "32184350",
+      "25362847"
+    ],
+    "review": [
+      "42779115",
+      "20840729",
+      "42052258",
+      "42289463",
+      "42591468"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2590-3462(26)00426-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3339",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

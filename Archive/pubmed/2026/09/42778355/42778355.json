@@ -1,0 +1,290 @@
+{
+  "identity": {
+    "pmid": "42778355",
+    "doi": "10.1248/bpb.b26-00273",
+    "title": "Saikosaponin D Ameliorates Non-alcoholic Steatohepatitis by Inhibiting STING-Mediated Macrophage M1 Polarization in Mice."
+  },
+  "content": {
+    "abstract": "Non‑alcoholic steatohepatitis (NASH) is characterized by hepatic steatosis, inflammation, and fibrosis, yet therapeutic options remain limited. Aberrant activation of stimulator of interferon genes (STING) signaling in macrophages drives hepatic inflammation. Saikosaponin D (SSd), a bioactive triterpenoid saponin from Bupleurum falcatum, exhibits hepatoprotective properties, but its role in modulating STING-mediated macrophage polarization in NASH remains unknown. A NASH mouse model was established in C57BL/6J mice by feeding a methionine-choline-deficient (MCD) diet for 4 weeks, followed by 8 weeks of the MCD diet combined with SSd (10 mg/kg, oral gavage), polyene phosphatidylcholine (177.8 mg/kg, oral gavage), or the STING inhibitor C-176 (15 mg/kg, intraperitoneally). Hepatic injury, inflammation, and fibrosis were assessed by serum biochemistry, enzyme-linked immunosorbent assay, hematoxylin-eosin and Masson staining. Macrophage polarization status was analyzed by flow cytometry, qRT-PCR, and immunofluorescence, while STING pathway activation was quantified by qRT-PCR and Western blot. Molecular docking was performed using AutoDock Vina. SSd significantly attenuated MCD-induced hepatic steatosis, inflammation (reduced tumor necrosis factor-alpha and interleukin-6), and fibrosis. SSd decreased the proportion of hepatic M1 macrophages (F4/80(+)CD86(+)) while increasing M2 macrophages (F4/80(+)CD206(+)), alongside diminished colocalization between STING and F4/80. SSd markedly suppressed the expression and phosphorylation of STING, TBK1, IRF3, and nuclear factor-kappaB (NF-kappaB) at both the mRNA and protein levels, with efficacy comparable to that of C-176. Molecular docking revealed a strong binding affinity between SSd and STING (-9.9 kcal/mol). Collectively, SSd ameliorates NASH by inhibiting the STING-TBK1-IRF3/NF-kappaB axis in macrophages and promoting M1-to-M2 polarization, identifying SSd as a promising immunomodulatory therapy for NASH.",
+    "keywords": [
+      "hepatic inflammation",
+      "interferon genes stimulator",
+      "macrophage polarization",
+      "non‑alcoholic steatohepatitis",
+      "saikosaponin D"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Oleanolic Acid/analogs & derivatives/pharmacology/therapeutic use",
+      "*Saponins/therapeutic use/pharmacology",
+      "*Non-alcoholic Fatty Liver Disease/drug therapy/pathology/metabolism/immunology",
+      "Mice, Inbred C57BL",
+      "*Macrophages/drug effects/metabolism",
+      "Male",
+      "*Membrane Proteins/metabolism/antagonists & inhibitors",
+      "STING Protein",
+      "Mice",
+      "Liver/pathology/drug effects/metabolism",
+      "cGAS-STING Signaling Pathway",
+      "Signal Transduction/drug effects",
+      "NF-kappa B/metabolism",
+      "Interferon Regulatory Factor-3/metabolism",
+      "Molecular Docking Simulation",
+      "Protein Serine-Threonine Kinases/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Wenjie",
+        "Yin, Yao",
+        "Cheng, Siqi",
+        "Li, Caixia",
+        "Cui, Lihua",
+        "Chen, Ming"
+      ],
+      "short_names": [
+        "Zhang W",
+        "Yin Y",
+        "Cheng S",
+        "Li C",
+        "Cui L",
+        "Chen M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Tianjin Nankai Hospital, Tianjin Medical University, Tianjin 300100, China.",
+        "Hospital of Integrated Chinese and Western Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 300100, China.",
+        "Hospital of Integrated Chinese and Western Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 300100, China.",
+        "Tianjin Nankai Hospital, Tianjin Medical University, Tianjin 300100, China.",
+        "Tianjin Key Laboratory of Acute Abdomen Disease Associated Organ Injury and ITCWM Repair, Tianjin 300100, China.",
+        "Tianjin Nankai Hospital, Tianjin Medical University, Tianjin 300100, China.",
+        "Tianjin Key Laboratory of Acute Abdomen Disease Associated Organ Injury and ITCWM Repair, Tianjin 300100, China.",
+        "Hospital of Integrated Chinese and Western Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 300100, China.",
+        "Tianjin Key Laboratory of Acute Abdomen Disease Associated Organ Injury and ITCWM Repair, Tianjin 300100, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Wenjie",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Nankai Hospital, Tianjin Medical University, Tianjin 300100, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Yao",
+        "short_name": "Yin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Integrated Chinese and Western Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 300100, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Siqi",
+        "short_name": "Cheng S",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Integrated Chinese and Western Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 300100, China."
+        ]
+      },
+      {
+        "full_name": "Li, Caixia",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Nankai Hospital, Tianjin Medical University, Tianjin 300100, China.",
+          "Tianjin Key Laboratory of Acute Abdomen Disease Associated Organ Injury and ITCWM Repair, Tianjin 300100, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Lihua",
+        "short_name": "Cui L",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Nankai Hospital, Tianjin Medical University, Tianjin 300100, China.",
+          "Tianjin Key Laboratory of Acute Abdomen Disease Associated Organ Injury and ITCWM Repair, Tianjin 300100, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Ming",
+        "short_name": "Chen M",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Integrated Chinese and Western Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 300100, China.",
+          "Tianjin Key Laboratory of Acute Abdomen Disease Associated Organ Injury and ITCWM Repair, Tianjin 300100, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biological & pharmaceutical bulletin"
+    ],
+    "journal_abbrev": [
+      "Biol Pharm Bull"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 23:56",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42778355",
+      "41478535",
+      "33812253",
+      "42012198",
+      "42272284",
+      "25655997",
+      "42343678",
+      "41508213",
+      "30213555",
+      "42105710",
+      "41017179",
+      "39041129",
+      "42450300",
+      "41707814",
+      "40222688",
+      "34768813",
+      "40139075",
+      "29093267",
+      "30914267",
+      "32000066",
+      "36185574",
+      "32373213",
+      "39936600",
+      "37723064",
+      "38583728",
+      "31173200",
+      "29158052",
+      "37063432",
+      "36743916",
+      "32863955",
+      "25265579",
+      "34649337",
+      "39542242",
+      "41574627",
+      "41641273",
+      "30191499",
+      "34243681",
+      "42688597",
+      "41480318",
+      "41110750",
+      "31421545",
+      "33050067",
+      "38862137",
+      "35696549",
+      "21929649",
+      "40613617",
+      "41208891",
+      "26112094",
+      "42392781",
+      "32195263",
+      "39984996",
+      "42693028",
+      "42101756",
+      "35367665",
+      "28323124",
+      "40350886",
+      "42695256",
+      "32128893",
+      "40812556",
+      "38453210",
+      "41965724",
+      "42155789",
+      "36035360",
+      "37227481",
+      "22728095",
+      "31132306",
+      "40957387",
+      "28190475",
+      "40684491",
+      "32062075",
+      "42277882",
+      "41349744",
+      "41520962",
+      "31078624",
+      "38692075",
+      "29273476",
+      "35749827",
+      "34156680",
+      "34470535",
+      "35654350",
+      "40659145",
+      "26937139",
+      "25548482",
+      "29106945",
+      "42551197",
+      "39447411",
+      "41780616",
+      "33182038",
+      "39122845",
+      "28635324",
+      "42052827",
+      "40118973",
+      "40706204",
+      "22142284",
+      "30266645",
+      "31926446",
+      "40569790",
+      "37870294",
+      "38403357",
+      "42276391"
+    ],
+    "review": [
+      "42778355"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1248/bpb.b26-00273",
+        "provider": "J-STAGE, Japan Science and Technology Information Aggregator, Electronic",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/steatoticliverdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Steatotic Liver Disease"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-STING1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-910",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.medicalonline.jp/meteo_linkout.php?issn=0918-6158&volume=49&issue=9&spage=1538",
+        "provider": "Medical Online, Meteo Inc",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

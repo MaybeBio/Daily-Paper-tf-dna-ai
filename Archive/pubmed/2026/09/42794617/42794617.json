@@ -1,0 +1,248 @@
+{
+  "identity": {
+    "pmid": "42794617",
+    "doi": "10.3390/ijms27188189",
+    "title": "A Universal Plasticizer Alkylsulfonic Phenyl Ester Activates Pregnane X Receptor to Increase Intestinal Cholesterol Uptake."
+  },
+  "content": {
+    "abstract": "Alkylsulfonic phenyl ester (ASE) is an alternate non-phthalate plasticizer used in PVC and polyurethane manufacture, such as for medical tubing and toys. Plastic-associated endocrine disrupting chemicals have been associated with increased cardiovascular disease risks and have been established as the agonists of a xenobiotic sensor, pregnane X receptor (PXR), which has atherogenic and dyslipidemic effects. However, it is unknown whether ASE activates PXR to adversely affect cardiovascular system. Our objective is to investigate how ASE impacts lipid profiles and cholesterol uptake via PXR signaling. Human hepatic and intestinal cells were used to test activation of PXR by ASE. The computational docking study and site-directed mutagenesis were used to identify key amino acid residues in PXR that interacted with ASE. The natural PXR inhibitor resveratrol was used to prohibit PXR activities. The male C57BL/6 wildtype mice were fed with ASE to evaluate if ASE could alter plasma lipid levels. Our data suggested that ASE was a specific PXR agonist and increased atherogenic cholesterol levels in mice mediated by PXR. Furthermore, ASE treatment increased cholesterol uptake by human intestinal cells through PXR signaling. Our study elucidates the role of PXR as a mediator of xenobiotic-elicited dyslipidemia and provides evidence for the future risk assessment of ASE on cardiovascular diseases.",
+    "keywords": [
+      "alkylsulfonic phenyl ester",
+      "cardiovascular disease",
+      "cholesterol uptake",
+      "dyslipidemia",
+      "endocrine disrupting chemical",
+      "pregnane X receptor"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Humans",
+      "*Pregnane X Receptor/metabolism/agonists/chemistry/genetics",
+      "*Cholesterol/metabolism",
+      "*Plasticizers/pharmacology/chemistry",
+      "Mice",
+      "Male",
+      "Mice, Inbred C57BL",
+      "Molecular Docking Simulation",
+      "*Intestinal Mucosa/metabolism",
+      "Signal Transduction/drug effects",
+      "*Alkanesulfonates/pharmacology",
+      "Intestines/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Okore, Nnamdi",
+        "Kariuki, Wangeci",
+        "Brown, Conner",
+        "Moxley, Michael A",
+        "Ramirez, Naara",
+        "Sui, Yipeng"
+      ],
+      "short_names": [
+        "Okore N",
+        "Kariuki W",
+        "Brown C",
+        "Moxley MA",
+        "Ramirez N",
+        "Sui Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA.",
+        "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA.",
+        "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA.",
+        "Department of Chemistry, University of Nebraska at Kearney, Kearney, NE 68849, USA.",
+        "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA.",
+        "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Okore, Nnamdi",
+        "short_name": "Okore N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA."
+        ]
+      },
+      {
+        "full_name": "Kariuki, Wangeci",
+        "short_name": "Kariuki W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA."
+        ]
+      },
+      {
+        "full_name": "Brown, Conner",
+        "short_name": "Brown C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA."
+        ]
+      },
+      {
+        "full_name": "Moxley, Michael A",
+        "short_name": "Moxley MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of Nebraska at Kearney, Kearney, NE 68849, USA."
+        ]
+      },
+      {
+        "full_name": "Ramirez, Naara",
+        "short_name": "Ramirez N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA."
+        ]
+      },
+      {
+        "full_name": "Sui, Yipeng",
+        "short_name": "Sui Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Nebraska at Kearney, Kearney, NE 68849, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42794617",
+      "38957441",
+      "25811240",
+      "30677459",
+      "23519392",
+      "41046829",
+      "34851150",
+      "24755147",
+      "26924429",
+      "35406689",
+      "33687065",
+      "24486481",
+      "21354151",
+      "17442842",
+      "37826994",
+      "38697851",
+      "29425287",
+      "19797606",
+      "31614203",
+      "39718591",
+      "31211619",
+      "32092453",
+      "38428309",
+      "39399487",
+      "41520575",
+      "15322103",
+      "41734437",
+      "27440420",
+      "30728326",
+      "37467962",
+      "33127475",
+      "29212764",
+      "30593543",
+      "41459919",
+      "36893891",
+      "24853400",
+      "39522624",
+      "41535588",
+      "22214767",
+      "34303710",
+      "32170024",
+      "40234620",
+      "17088262",
+      "40327538",
+      "18789348",
+      "19436068",
+      "33965509",
+      "38986717",
+      "41177383",
+      "31581194",
+      "38477509",
+      "40023092",
+      "39915454",
+      "29360809",
+      "16928788",
+      "42013674",
+      "38103317",
+      "31533970",
+      "31697926",
+      "38788959",
+      "32160459",
+      "33002526",
+      "35137921",
+      "31907988",
+      "38513930",
+      "33636438",
+      "33812052",
+      "40553417",
+      "41173059",
+      "33483427",
+      "23626729",
+      "28756207",
+      "15102944",
+      "39112769",
+      "33879258",
+      "39809031",
+      "41935425",
+      "41962313",
+      "37230767",
+      "21685500",
+      "39341470",
+      "29123032",
+      "41406837",
+      "23525103",
+      "38971454",
+      "40869350",
+      "35966089",
+      "39489412",
+      "37344564",
+      "41494249",
+      "40905977",
+      "30407581",
+      "12569201",
+      "29945292",
+      "39405612",
+      "38734220",
+      "32798464",
+      "42409506",
+      "41672771",
+      "34225124"
+    ],
+    "review": [
+      "42794617",
+      "26924429",
+      "41459919",
+      "42013674"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

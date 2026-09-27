@@ -1,0 +1,647 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.15.751749",
+  "title": "PREpiBind: Protein Representation-integrated Epitope–MHC Class II Binding Prediction",
+  "doi": "10.64898/2026.09.15.751749",
+  "abstract": "Accurate prediction of peptide–MHC class II (pMHC-II) binding remains challenging because of extensive MHC polymorphism and context-dependent peptide recognition, and it is unclear which protein representation best captures these determinants when the downstream model is held fixed. Here, we present PREpiBind, a pMHC-II prediction method based on a dual-stream, joint-attention framework that integrates MHC and epitope representations. We integrated ten protein representations spanning substitution-matrix, structure-prediction-derived, and protein language model (PLM) families and evaluated them under a common downstream architecture and identical splits across Qualitative, mass spectrometry (MS), and thresholded IC50 datasets. Overall, PREpiBind with PLM representations yielded higher performance than the evaluated reference methods in the Qualitative and MS datasets, whereas NetMHCIIpan-4.3 was higher on the thresholded IC50 datasets using its binding-affinity head. In pooled evaluations, PLM representations yielded the highest ROC-AUC values among the tested representations. ESM3 Large led the Qualitative dataset with an AUC value of 0.927 ± 0.002, and PLMs also led on the MS and thresholded IC50 datasets. This advantage remained, but narrowed in allele-wise and leave-one-molecule-out evaluations, where structure-prediction-derived Chai-1 was competitive with the leading PLM representations. Under cross-species H2-out transfer, PLMs led when all H2 rows were pooled, whereas Chai-1 led when the eight H2 molecules were weighted equally. The small H2 panel did not support a stable ordering among these leading representations. The results indicate that protein representation choice should depend on the intended prediction scenario rather than on a single global ranking. PREpiBind is an openly available pMHC-II prediction framework with modular and flexible protein representations.",
+  "authors": [
+    "David Hyunyoo Jang",
+    "Dongwoo Kim",
+    "Byungho Park",
+    "Untaek Hwang",
+    "Yoonjoo Choi",
+    "Juyong Lee"
+  ],
+  "published_date": "2026-09-21",
+  "updated_date": "2026-09-22T06:05:16Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751749",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751749.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T11:00:22Z",
+        "timestamp": 1790247622283,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 48,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                21
+              ]
+            ],
+            "date-time": "2026-09-21T00:00:00Z",
+            "timestamp": 1789948800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Seoul National University",
+          "id": [
+            {
+              "id": "https://ror.org/04h9pn542",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "Ministry of Health & Welfare, Republic of Korea",
+          "award": [
+            "RS-2025-25459531"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "RS-2025-25459531"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/00vxgjw72",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Research Foundation of Korea",
+          "award": [
+            "RS-2025-02213506"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "RS-2025-02213506"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/013aysd81",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Accurate prediction of peptide–MHC class II (pMHC-II) binding remains challenging because of extensive MHC polymorphism and context-dependent peptide recognition, and it is unclear which protein representation best captures these determinants when the downstream model is held fixed. Here, we present PREpiBind, a pMHC-II prediction method based on a dual-stream, joint-attention framework that integrates MHC and epitope representations. We integrated ten protein representations spanning substitution-matrix, structure-prediction-derived, and protein language model (PLM) families and evaluated them under a common downstream architecture and identical splits across Qualitative, mass spectrometry (MS), and thresholded IC50 datasets. Overall, PREpiBind with PLM representations yielded higher performance than the evaluated reference methods in the Qualitative and MS datasets, whereas NetMHCIIpan-4.3 was higher on the thresholded IC50 datasets using its binding-affinity head. In pooled evaluations, PLM representations yielded the highest ROC-AUC values among the tested representations. ESM3 Large led the Qualitative dataset with an AUC value of 0.927 ± 0.002, and PLMs also led on the MS and thresholded IC50 datasets. This advantage remained, but narrowed in allele-wise and leave-one-molecule-out evaluations, where structure-prediction-derived Chai-1 was competitive with the leading PLM representations. Under cross-species H2-out transfer, PLMs led when all H2 rows were pooled, whereas Chai-1 led when the eight H2 molecules were weighted equally. The small H2 panel did not support a stable ordering among these leading representations. The results indicate that protein representation choice should depend on the intended prediction scenario rather than on a single global ranking. PREpiBind is an openly available pMHC-II prediction framework with modular and flexible protein representations.</jats:p>",
+      "DOI": "10.64898/2026.09.15.751749",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2026-09-22T06:05:16Z",
+        "timestamp": 1790057116000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "PREpiBind: Protein Representation-integrated Epitope–MHC Class II Binding Prediction"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0000-1474-1393",
+          "authenticated-orcid": false,
+          "given": "David Hyunyoo",
+          "family": "Jang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "College of Pharmacy, Seoul National University, 1 Gwanak-ro, Gwanak-gu, 08826, Seoul, Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0000-6141-060X",
+          "authenticated-orcid": false,
+          "given": "Dongwoo",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Pharmacy, Seoul National University, 1 Gwanak-ro, Gwanak-gu, 08826, Seoul, Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0000-1179-692X",
+          "authenticated-orcid": false,
+          "given": "Byungho",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Pharmacy, Seoul National University, 1 Gwanak-ro, Gwanak-gu, 08826, Seoul, Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-6310-4290",
+          "authenticated-orcid": false,
+          "given": "Untaek",
+          "family": "Hwang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Pharmacy, Seoul National University, 1 Gwanak-ro, Gwanak-gu, 08826, Seoul, Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9687-8093",
+          "authenticated-orcid": false,
+          "given": "Yoonjoo",
+          "family": "Choi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Microbiology and Immunology, Chonnam National University Medical School, 264, Seoyang-ro, Hwasun-eup, 58128, Hwasun-gun, Jeollanam-do, Republic of Korea"
+            },
+            {
+              "name": "The National Immunotherapy Innovation Center, 264, Seoyang-ro, Hwasun-eup, 58128, Hwasun-gun, Jeollanam-do, Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1174-4358",
+          "authenticated-orcid": false,
+          "given": "Juyong",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Pharmacy, Seoul National University, 1 Gwanak-ro, Gwanak-gu, 08826, Seoul, Republic of Korea"
+            },
+            {
+              "name": "Department of Molecular Medicine and Biopharmaceutical Sciences, Graduate School of Convergence Science and Technology, Seoul National University, 1 Gwanak-ro, Gwanak-gu, 08826, Seoul, Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nri3818"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41588-022-01273-y"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/cells12020314"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-019-1671-8"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00251-015-0873-y"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/imm.12763"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.7",
+          "first-page": "172",
+          "article-title": "Redirecting CD4+ T cell responses with the flanking residues of MHC class II-bound peptides: the core is not enough",
+          "volume": "4",
+          "year": "2013",
+          "journal-title": "Frontiers in Immunology"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.RA119.009437"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nri.2017.143"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkac1011"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1525576",
+          "DOI": "10.3389/fimmu.2025.1525576",
+          "article-title": "Predicting reverse-bound peptide conformations in MHC class II with PANDORA",
+          "volume": "16",
+          "year": "2025",
+          "journal-title": "Frontiers in Immunology"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.immuni.2023.03.009"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.89.22.10915"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/sciadv.adj6367"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkad275"
+        },
+        {
+          "issue": "Supplement_1",
+          "key": "2026092403050528000_2026.09.15.751749v1.16",
+          "doi-asserted-by": "crossref",
+          "first-page": "i254",
+          "DOI": "10.1093/bioinformatics/btab312",
+          "article-title": "Predicting MHC-peptide binding affinity by differential boundary tree",
+          "volume": "37",
+          "year": "2021",
+          "journal-title": "Bioinformatics"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btac225"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.18",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Eric Glynn , Dario Ghersi , and Mona Singh . Towards equitable MHC binding predictions: computational strategies to assess and reduce data bias. bioRxiv, 2024.",
+          "DOI": "10.1101/2024.01.30.578103"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "1506508",
+          "DOI": "10.3389/fbioe.2025.1506508",
+          "article-title": "Evaluating the advancements in protein language models for encoding strategies in protein function prediction: a comprehensive review",
+          "volume": "13",
+          "year": "2025",
+          "journal-title": "Frontiers in Bioengineering and Biotechnology"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1498662",
+          "DOI": "10.3389/fphar.2025.1498662",
+          "article-title": "Protein structure prediction via deep learning: an in-depth review",
+          "volume": "16",
+          "year": "2025",
+          "journal-title": "Frontiers in Pharmacology"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Thomas Hayes , Roshan Rao , Halil Akin , Nicholas J Sofroniew , Deniz Oktay , Zeming Lin , Robert Verkuil , Vincent Q Tran , Jonathan Deaton , Marius Wiggert , et al. Simulating 500 million years of evolution with a language model. Science, page eads0018, 2025.",
+          "DOI": "10.1126/science.ads0018"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.22",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Salvatore Candido , Thomas Hayes , Alexander Derry , Roshan Rao , Zeming Lin , Robert Verkuil , Bryan Z Wu , Jin Sub Lee , Elise S Bruguera , Jehan A Keval , et al. Language modeling materializes a world model of protein biology. bioRxiv, page 2026.06.03.729735, 2026.",
+          "DOI": "10.64898/2026.06.03.729735"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-024-07487-W"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.24",
+          "unstructured": "Chai Discovery Team , Jacques Boitreaud , Jack Dent , Matthew McPartlon , Joshua Meier , Vinicius Reis , Alex Rogozhonikov , and Kevin Wu . Chai-1: Decoding the molecular interactions of life. bioRxiv, 2024."
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jeremy Wohlwend , Gabriele Corso , Saro Passaro , Mateo Reveiz , Ken Leidal , Wojtek Swiderski , Tally Portnoi , Itamar Chinn , Jacob Silterra , Tommi Jaakkola , et al. Boltz-1: Democratizing biomolecular interaction modeling. bioRxiv, 2024.",
+          "DOI": "10.1101/2024.11.19.624167"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ade2574"
+        },
+        {
+          "issue": "4",
+          "key": "2026092403050528000_2026.09.15.751749v1.27",
+          "doi-asserted-by": "crossref",
+          "first-page": "bbaf321",
+          "DOI": "10.1093/bib/bbaf321",
+          "article-title": "pMHChat, characterizing the interactions between major histocompatibility complex class II molecules and peptides with large language models and deep hypergraph learning",
+          "volume": "26",
+          "year": "2025",
+          "journal-title": "Briefings in Bioinformatics"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.28",
+          "unstructured": "Soobon Ko , Honglan Li , Hongeun Kim , Woong-Hee Shin , Junsu Ko , and Yoonjoo Choi . Benchmarking sequence-based and AlphaFold-based methods for pMHC-II binding core prediction: Distinct strengths and consensus approaches. bioRxiv, 2024."
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkae1092"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkaf1218"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/tan.15549"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1034/j.1399-0039.2000.550314.x"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkae1010"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/NAR/GKAC993"
+        },
+        {
+          "issue": "11",
+          "key": "2026092403050528000_2026.09.15.751749v1.35",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1006457",
+          "DOI": "10.1371/journal.pcbi.1006457",
+          "article-title": "Systematically benchmarking peptide-MHC binding predictors: From synthetic to naturally processed epitopes",
+          "volume": "14",
+          "year": "2018",
+          "journal-title": "PLoS Computational Biology"
+        },
+        {
+          "issue": "7",
+          "key": "2026092403050528000_2026.09.15.751749v1.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "3363",
+          "DOI": "10.4049/jimmunol.160.7.3363",
+          "article-title": "Several common HLA-DR types share largely overlapping peptide binding repertoires",
+          "volume": "160",
+          "year": "1998",
+          "journal-title": "The Journal of Immunology"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/annrheumdis-2021-220500"
+        },
+        {
+          "issue": "1",
+          "key": "2026092403050528000_2026.09.15.751749v1.38",
+          "doi-asserted-by": "crossref",
+          "first-page": "951",
+          "DOI": "10.1038/s41467-020-14562-z",
+          "article-title": "Predicting clinical benefit of immunotherapy by antigenic or functional mutations affecting tumour immunogenicity",
+          "volume": "11",
+          "year": "2020",
+          "journal-title": "Nature Communications"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2105-15-241"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.40",
+          "unstructured": "Jared Kaplan , Sam McCandlish , Tom Henighan , Tom B. Brown , Benjamin Chess , Rewon Child , Scott Gray , Alec Radford , Jeffrey Wu , and Dario Amodei . Scaling laws for neural language models, 2020."
+        },
+        {
+          "issue": "1",
+          "key": "2026092403050528000_2026.09.15.751749v1.41",
+          "doi-asserted-by": "crossref",
+          "first-page": "bbag014",
+          "DOI": "10.1093/bib/bbag014",
+          "article-title": "Scalable embedding fusion with protein language models: insights from benchmarking text-integrated representations",
+          "volume": "27",
+          "year": "2026",
+          "journal-title": "Briefings in Bioinformatics"
+        },
+        {
+          "issue": "4",
+          "key": "2026092403050528000_2026.09.15.751749v1.42",
+          "doi-asserted-by": "crossref",
+          "first-page": "bbaf381",
+          "DOI": "10.1093/bib/bbaf381",
+          "article-title": "PLMFit: benchmarking transfer learning with protein language models for protein engineering",
+          "volume": "26",
+          "year": "2025",
+          "journal-title": "Briefings in Bioinformatics"
+        },
+        {
+          "issue": "3",
+          "key": "2026092403050528000_2026.09.15.751749v1.43",
+          "doi-asserted-by": "crossref",
+          "first-page": "626",
+          "DOI": "10.1038/s41592-026-03011-2",
+          "article-title": "AF2BIND: predicting small-molecule binding sites using the pair representation of AlphaFold2",
+          "volume": "23",
+          "year": "2026",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2216697120"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.45",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jin Su , Chenchen Han , Yuyang Zhou , Junjie Shan , Xibin Zhou , and Fajie Yuan . SaProt: Protein language modeling with structure-aware vocabulary. In The Twelfth International Conference on Learning Representations (ICLR), 2024.",
+          "DOI": "10.1101/2023.10.01.560349"
+        },
+        {
+          "issue": "16",
+          "key": "2026092403050528000_2026.09.15.751749v1.46",
+          "doi-asserted-by": "crossref",
+          "first-page": "4964",
+          "DOI": "10.1016/j.cell.2026.06.029",
+          "article-title": "Expanding the scope of protein language modeling to protein– protein interactions with MSA Pairformer",
+          "volume": "189",
+          "year": "2026",
+          "journal-title": "Cell"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nri3084"
+        },
+        {
+          "key": "2026092403050528000_2026.09.15.751749v1.48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev.immunol.23.021704.115658"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.15.751749",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T10:05:20Z",
+        "timestamp": 1790244320000
+      },
+      "score": 94.45581,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.15.751749"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "references-count": 48,
+      "URL": "https://doi.org/10.64898/2026.09.15.751749",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "identity": {
+    "pmid": "42764560",
+    "doi": "10.2174/0118715206479957260820094548",
+    "title": "Bridging Oxidative Defense and DNA Disruption: Methyl Piperazine Metal Complexes as Multifunctional Therapeutics."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Novel Co(II), Cu(II), and Zn(II) complexes of Schiff base ligand with N2O2 donor sites were synthesized from 5-((4-methylpyrazin-1(4)-yl)methyl)isophthalaldehyde and subsequently condensed with Phenylpropanolamine (PPA). MATERIALS AND METHODS: FT-IR, UV-Visible, NMR (1H), and mass spectrometry established the structure of synthesized compounds. In addition, susceptibility, thermal analysis, powder XRD, and cyclic voltammetry were also performed. The interaction between the final compounds and CT-DNA was investigated using UV-visible absorption spectroscopy. In addition, cytotoxic studies were performed in the HeLa cell line using the MTT assay. RESULTS: The Co(II) complex demonstrated a high-spin octahedral geometry with a [ML(H2O)2] stoichiometry, whereas the Cu(II) and Zn(II) complexes (6a and 6b) were found to have square-planar geometries with a (ML) stoichiometry. Agarose gel electrophoresis demonstrated that the Cu(II) complex (6c) effectively hydrolyzed and cleaved CT-DNA and also showed enhanced free-radical scavenging ability compared to the standard, ascorbic acid. The Cu(II) complex displayed superior potency in inhibiting the proliferation of the HeLa cancer cell line (IC50: 6.12 mug/mL) relative to the standard drug cisplatin. DISCUSSION: Compound 6b showed higher cytotoxic efficiency than the complexes, which subsequently increased the lipophilic character and favored its permeation through the lipid surface of the cell, aiding in inhibiting cell growth easily. The results of cytotoxicity experiments also matched well with the order of CT-DNA binding affinities: 6b > 6a > 6c. CONCLUSION: The current work demonstrates the bioactivity of the Cu(II) complex (6b) as a potential therapeutic agent.",
+    "keywords": [
+      "DNA binding and cleavage",
+      "DPPH assay",
+      "Schiff base",
+      "Transition metal complexes",
+      "anti-cancer.",
+      "molecular docking"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Narayanan, Vigneswari Sankara",
+        "Dhawa, Sowen",
+        "Anikumari, Parvathy",
+        "Sukumaran, Amritha",
+        "Rajendran, Jeya",
+        "Carradori, Simone",
+        "Ramani, Prasanna"
+      ],
+      "short_names": [
+        "Narayanan VS",
+        "Dhawa S",
+        "Anikumari P",
+        "Sukumaran A",
+        "Rajendran J",
+        "Carradori S",
+        "Ramani P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9742-6088",
+        "ORCID: 0000-0001-5726-9930",
+        "ORCID: 0009-0008-9672-5028",
+        "ORCID: 0009-0005-8223-0268",
+        "ORCID: 0000-0001-9829-039X",
+        "ORCID: 0000-0002-8698-9440",
+        "ORCID: 0000-0002-5236-7141"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Loyola College, Affiliated to University of Madras, Chennai, India.",
+        "Department of Chemistry, Loyola College, Affiliated to University of Madras, Chennai, India.",
+        "Dhanvanthri Laboratory, Department of Chemistry, Amrita School of Physical Sciences, Amrita Vishwa Vidyapeetham, Coimbatore, India.",
+        "Dhanvanthri Laboratory, Department of Chemistry, Amrita School of Physical Sciences, Amrita Vishwa Vidyapeetham, Coimbatore, India.",
+        "Center of Excellence in Advanced Materials & Green Technologies (CoE-AMGT), Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India.",
+        "Department of Chemistry, Loyola College, Affiliated to University of Madras, Chennai, India.",
+        "\"G. d\\'Annunzio\" University of Chieti-Pescara Department of Pharmacy Chieti Italy.",
+        "Dhanvanthri Laboratory, Department of Chemistry, Amrita School of Physical Sciences, Amrita Vishwa Vidyapeetham, Coimbatore, India.",
+        "Center of Excellence in Advanced Materials & Green Technologies (CoE-AMGT), Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Narayanan, Vigneswari Sankara",
+        "short_name": "Narayanan VS",
+        "identifiers": [
+          "0000-0002-9742-6088"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Loyola College, Affiliated to University of Madras, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Dhawa, Sowen",
+        "short_name": "Dhawa S",
+        "identifiers": [
+          "0000-0001-5726-9930"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Loyola College, Affiliated to University of Madras, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Anikumari, Parvathy",
+        "short_name": "Anikumari P",
+        "identifiers": [
+          "0009-0008-9672-5028"
+        ],
+        "affiliations": [
+          "Dhanvanthri Laboratory, Department of Chemistry, Amrita School of Physical Sciences, Amrita Vishwa Vidyapeetham, Coimbatore, India."
+        ]
+      },
+      {
+        "full_name": "Sukumaran, Amritha",
+        "short_name": "Sukumaran A",
+        "identifiers": [
+          "0009-0005-8223-0268"
+        ],
+        "affiliations": [
+          "Dhanvanthri Laboratory, Department of Chemistry, Amrita School of Physical Sciences, Amrita Vishwa Vidyapeetham, Coimbatore, India.",
+          "Center of Excellence in Advanced Materials & Green Technologies (CoE-AMGT), Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India."
+        ]
+      },
+      {
+        "full_name": "Rajendran, Jeya",
+        "short_name": "Rajendran J",
+        "identifiers": [
+          "0000-0001-9829-039X"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Loyola College, Affiliated to University of Madras, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Carradori, Simone",
+        "short_name": "Carradori S",
+        "identifiers": [
+          "0000-0002-8698-9440"
+        ],
+        "affiliations": [
+          "\"G. d\\'Annunzio\" University of Chieti-Pescara Department of Pharmacy Chieti Italy."
+        ]
+      },
+      {
+        "full_name": "Ramani, Prasanna",
+        "short_name": "Ramani P",
+        "identifiers": [
+          "0000-0002-5236-7141"
+        ],
+        "affiliations": [
+          "Dhanvanthri Laboratory, Department of Chemistry, Amrita School of Physical Sciences, Amrita Vishwa Vidyapeetham, Coimbatore, India.",
+          "Center of Excellence in Advanced Materials & Green Technologies (CoE-AMGT), Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Anti-cancer agents in medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "Anticancer Agents Med Chem"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 05:34",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42764560",
+      "28097460",
+      "38502407",
+      "34521304",
+      "32936064",
+      "32329409",
+      "28886569",
+      "34379029",
+      "34182310",
+      "42746890",
+      "26232747",
+      "37375332",
+      "33336849",
+      "24744691",
+      "37021479",
+      "27236046",
+      "27794220",
+      "39765913",
+      "24194692",
+      "39215911",
+      "31735357",
+      "39827474",
+      "28247070",
+      "29510357",
+      "41977249",
+      "25462243",
+      "28415390",
+      "40957281",
+      "42247874",
+      "26545354",
+      "27541797",
+      "42049795",
+      "33512301",
+      "26057019",
+      "32794423",
+      "27163172",
+      "41447885",
+      "28456118",
+      "26961248",
+      "28729223",
+      "38484588",
+      "31148514",
+      "41016328",
+      "27367456",
+      "35182295",
+      "36289280",
+      "21715221",
+      "41361721",
+      "24637276",
+      "27104666",
+      "35852297",
+      "42423386",
+      "21041112",
+      "29961205",
+      "30101692",
+      "41298843",
+      "30990358",
+      "42248967",
+      "28039786",
+      "29676660",
+      "28540651",
+      "27333575",
+      "41904185",
+      "21215688",
+      "28575934",
+      "42229349",
+      "22728967",
+      "41751967",
+      "27770880",
+      "27619741",
+      "27696010",
+      "27088506",
+      "29421702",
+      "39154510",
+      "19403328",
+      "27816797",
+      "21570900",
+      "41762588",
+      "39820950",
+      "35519345",
+      "25771239",
+      "37285632",
+      "42660437",
+      "25770965",
+      "30244126",
+      "24835939",
+      "33147867",
+      "27995332",
+      "36961247",
+      "41406516",
+      "40469229",
+      "19200776",
+      "39502428",
+      "24095772",
+      "36405328",
+      "24729778",
+      "27568403",
+      "30885099",
+      "18629409",
+      "42396074"
+    ],
+    "review": [
+      "42764560"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

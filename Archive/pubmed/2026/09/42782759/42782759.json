@@ -1,0 +1,276 @@
+{
+  "identity": {
+    "pmid": "42782759",
+    "doi": "10.3390/cells15181659",
+    "title": "Avicularin and Senegenin Suppress TRPV3-Associated TSLP Expression in Human Keratinocytes."
+  },
+  "content": {
+    "abstract": "Transient receptor potential vanilloid channel 3 (TRPV3) is a keratinocyte-expressed ion channel that regulates calcium signaling and thymic stromal lymphopoietin (TSLP) production, contributing to pruritic inflammatory skin diseases. Although avicularin (AVC), a flavonoid from Polygonum aviculare L., and senegenin (SNG), the bioactive aglycone of Polygala tenuifolia Willd., possess anti-inflammatory properties, their effects on TRPV3-associated signaling remain unknown. A natural product library was screened for nitric oxide (NO) production in carvacrol-stimulated human keratinocytes. Following primary screening and secondary evaluation of TRPV3 and TSLP expression, AVC and SNG were selected for further study and subsequently evaluated by molecular docking, calcium imaging, quantitative real-time PCR, immunocytochemistry, and pathway inhibition assays. AVC and SNG showed favorable predicted docking poses at both TRPV3 docking sites and significantly attenuated carvacrol-induced calcium-dependent fluorescence responses in TRPV3-expressing cells. Both compounds reduced TRPV3 and TSLP expression at the mRNA and protein levels and attenuated the nuclear translocation of phospho-Nuclear Factor of Activated T Cells 2 (NFATC2) and phospho-p50. Co-treatment with NFAT or Nuclear Factor Kappa B (NF-kappaB) inhibitors produced no additional suppression, consistent with convergence of AVC/SNG-associated effects with NFAT/NF-kappaB signaling. Collectively, these findings support further investigation of AVC and SNG as candidate modulators of TRPV3-associated inflammatory signaling in keratinocytes.",
+    "keywords": [
+      "Avicularin",
+      "Senegenin",
+      "calcium signaling",
+      "keratinocytes",
+      "thymic stromal lymphopoietin (TSLP)",
+      "transient receptor potential vanilloid channel 3 (TRPV3)"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Keratinocytes/metabolism/drug effects",
+      "Thymic Stromal Lymphopoietin",
+      "*TRPV Cation Channels/metabolism/chemistry",
+      "*Cytokines/metabolism/genetics",
+      "NFATC Transcription Factors/metabolism",
+      "Molecular Docking Simulation",
+      "NF-kappa B/metabolism",
+      "Nitric Oxide/metabolism",
+      "Signal Transduction/drug effects",
+      "Cymenes/pharmacology",
+      "Calcium/metabolism",
+      "Calcium Signaling/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Han Bi",
+        "Um, Ji Young",
+        "Song, Da Eun",
+        "Chung, Bo Young",
+        "Park, Chun Wook",
+        "Kim, Hye One"
+      ],
+      "short_names": [
+        "Kim HB",
+        "Um JY",
+        "Song DE",
+        "Chung BY",
+        "Park CW",
+        "Kim HO"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2044-199X",
+        "ORCID: 0000-0002-2795-0140",
+        "ORCID: 0000-0003-4512-8668",
+        "ORCID: 0000-0001-5846-0008"
+      ],
+      "affiliations": [
+        "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea.",
+        "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea.",
+        "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea.",
+        "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea.",
+        "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea.",
+        "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Han Bi",
+        "short_name": "Kim HB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Um, Ji Young",
+        "short_name": "Um JY",
+        "identifiers": [
+          "0000-0003-2044-199X"
+        ],
+        "affiliations": [
+          "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Song, Da Eun",
+        "short_name": "Song DE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Chung, Bo Young",
+        "short_name": "Chung BY",
+        "identifiers": [
+          "0000-0002-2795-0140"
+        ],
+        "affiliations": [
+          "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Chun Wook",
+        "short_name": "Park CW",
+        "identifiers": [
+          "0000-0003-4512-8668"
+        ],
+        "affiliations": [
+          "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Hye One",
+        "short_name": "Kim HO",
+        "identifiers": [
+          "0000-0001-5846-0008"
+        ],
+        "affiliations": [
+          "Department of Dermatology, College of Medicine, Hallym University, Kangnam Sacred Heart Hospital, 1 Singil-ro, Seoul 07441, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cells"
+    ],
+    "journal_abbrev": [
+      "Cells"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42782759",
+      "31959383",
+      "32535744",
+      "30377214",
+      "23688403",
+      "41570784",
+      "29140280",
+      "28655470",
+      "29084846",
+      "30753864",
+      "29894863",
+      "30924922",
+      "32493875",
+      "41576104",
+      "32247859",
+      "24931369",
+      "29803543",
+      "26791024",
+      "21716324",
+      "31393642",
+      "29279286",
+      "29220720",
+      "26419317",
+      "35771623",
+      "26725432",
+      "41351418",
+      "30299584",
+      "31152005",
+      "40409547",
+      "30664940",
+      "29420995",
+      "19843704",
+      "26786889",
+      "21109746",
+      "24164484",
+      "21321070",
+      "26474944",
+      "40637249",
+      "32783069",
+      "35150742",
+      "41864551",
+      "28254482",
+      "21148792",
+      "31308264",
+      "30108138",
+      "22622423",
+      "38043155",
+      "24338918",
+      "41672841",
+      "24377934",
+      "37983944",
+      "35409338",
+      "19151401",
+      "22270071",
+      "29179209",
+      "23953709",
+      "32623837",
+      "26198442",
+      "30976816",
+      "26453324",
+      "34290137",
+      "28964718",
+      "28567799",
+      "24094650",
+      "38186188",
+      "21593771",
+      "30503244",
+      "33919431",
+      "42508711",
+      "34140067",
+      "42462920",
+      "33705923",
+      "34146852",
+      "21463955",
+      "24773145",
+      "38065293",
+      "30991764",
+      "22578802",
+      "29462589",
+      "28720058",
+      "24076326",
+      "35240143",
+      "40288993",
+      "22520928",
+      "31817146",
+      "41121478",
+      "41467342",
+      "21050945",
+      "39651943",
+      "30205521",
+      "28443609",
+      "41155329",
+      "27376852",
+      "31755151",
+      "24910175",
+      "36690845",
+      "21546578",
+      "33876725",
+      "39047882",
+      "24792379"
+    ],
+    "review": [
+      "42782759",
+      "22270071"
+    ],
+    "pmc": [
+      "13605539"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cells15181659",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD40-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

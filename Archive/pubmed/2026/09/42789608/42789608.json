@@ -1,0 +1,276 @@
+{
+  "identity": {
+    "pmid": "42789608",
+    "doi": "10.1371/journal.pone.0359068",
+    "title": "Exploring the cytotoxic potential of Artemisia herba-alba crude extract and key phytoconstituents using in vitro assays and molecular docking insights."
+  },
+  "content": {
+    "abstract": "The aim of the current research project is to evaluate the potential cytotoxicity of the aqueous extract of Artemisia -albaherba aerial parts against selected cancer cell lines. The widely grown plant material was collected and extracted. The crude aqueous extract was subjected to MTT analysis to assess potential cytotoxicity and cell viability. The cell lines utilized include: Normal Human Umbilical Vein Endothelial cell line EA (HUVEC; cat. no. CRL-1730; ATCC), Triple Negative Breast cancer cell line, MDA MB 231 (HTB-26), Human Pancreatic Ductal Adenocarcinoma cell line PANC1 (CRL-1469), Human Colorectal Carcinoma HCT 116 (CCL-247) cell lines. Cisplatin and doxorubicin serve as reference agents, and the media vehicle serves as a negative control. The extract was analysed by UHPLC/MS-MS. Three of the detected bioactive phytoconstituents, namely liquiritigenin, isofraxidin, and artemisinin, were docked against three cancer-associated protein targets corresponding to the three investigated cancer cell lines. The selected targets were TP53/p53 in the HCT-116 colorectal cancer cell line, AKT1 in the MDA cell line, and KRAS in the PANC-1 pancreatic cancer cell line. A marked decrease in cell viability was observed in the human colon and breast cancer cell lines at plant extract concentrations of 0.046-50 mg/mL. The highest cytotoxicity, around 45%, was observed against human colon cancer cells at concentrations of 12.5-50 mg/mL. And the cytotoxicity was around 40% against breast cancer cells at a concentration of 50 mg/mL. The plant remedy exhibited moderate cytotoxicity against pancreatic cancer cells, with an IC50 of approximately 20% at the highest tested concentration. The biocompatibility of the aqueous extract was predicted; hence, normal epithelial cells retained their viability at 1.5 mg/mL and showed a moderate-to-weak effect at higher concentrations. The herbal extract exhibits the highest IC50 values against EA and PANC1 of 220-240 microg/mL, whereas against MDA-MB-231 and HCT-116 cells, the IC50 values are significantly lower at 80-100 microg/mL. This indicates greater sensitivity of breast and colon cancer cell lines to the natural product. The simulation analyses demonstrate that isofraxidin and liquiritigenin have better binding affinity to the selected proteins than artemisinin. The best overall complexes were TP53-isofraxidin and TP53-liquiritigenin, with docking scores around -8 kcal/mol, followed by KRAS-liquiritigenin and AKT1-isofraxidin. To sum up, A. herb alba has a potential selective anticancer effect that may be attributed to the phenolic compounds constituents. These promising findings warrant further study to elucidate its mechanism of action, safety profile, and to predict the optimal dosage formulation.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Artemisia/chemistry",
+      "*Plant Extracts/pharmacology/chemistry",
+      "Molecular Docking Simulation",
+      "Cell Line, Tumor",
+      "Cell Survival/drug effects",
+      "*Antineoplastic Agents, Phytogenic/pharmacology/chemistry",
+      "HCT116 Cells",
+      "Tumor Suppressor Protein p53/metabolism",
+      "MDA-MB-231 Cells",
+      "Human Umbilical Vein Endothelial Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Al-Halaseh, Lidia Kamal",
+        "Al-Samydai, Ali M",
+        "Moshawih, Said",
+        "Al-Qaraleh, Moath",
+        "Al-Zregat, Diana M",
+        "Amareen, Zaid S",
+        "Al Soub, Manal Nahar",
+        "Abdelhadi, Nadine N",
+        "Qaraghuli, Samra"
+      ],
+      "short_names": [
+        "Al-Halaseh LK",
+        "Al-Samydai AM",
+        "Moshawih S",
+        "Al-Qaraleh M",
+        "Al-Zregat DM",
+        "Amareen ZS",
+        "Al Soub MN",
+        "Abdelhadi NN",
+        "Qaraghuli S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2635-3619",
+        "ORCID: 0000-0003-4840-0460"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Mutah University, Al-Karak, Jordan.",
+        "Pharmacological and Diagnostic Research Centre, Faculty of Pharmacy, Al-Ahliyya Amman University, Amman, Jordan.",
+        "Pharmacological and Diagnostic Research Centre, Faculty of Pharmacy, Al-Ahliyya Amman University, Amman, Jordan.",
+        "Department of Medical Laboratory Sciences, Faculty of Science, Al-Balqa Applied University, Al-Salt, Jordan.",
+        "Department of Medicine, Faculty of Medicine, Mutah University, Al-Karak, Jordan.",
+        "Department of Medicine, Faculty of Medicine, Mutah University, Al-Karak, Jordan.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Mutah University, Al-Karak, Jordan.",
+        "Department of clinical pharmacy and pharmacy practice, Faculty of pharmacy, Aqaba University of Technology, Aqaba, Jordan.",
+        "Department of Pharmacognosy and Medicinal Plants, college of Pharmacy, Mustansiriya University, Baghdad, Iraq."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Al-Halaseh, Lidia Kamal",
+        "short_name": "Al-Halaseh LK",
+        "identifiers": [
+          "0000-0002-2635-3619"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Mutah University, Al-Karak, Jordan."
+        ]
+      },
+      {
+        "full_name": "Al-Samydai, Ali M",
+        "short_name": "Al-Samydai AM",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmacological and Diagnostic Research Centre, Faculty of Pharmacy, Al-Ahliyya Amman University, Amman, Jordan."
+        ]
+      },
+      {
+        "full_name": "Moshawih, Said",
+        "short_name": "Moshawih S",
+        "identifiers": [
+          "0000-0003-4840-0460"
+        ],
+        "affiliations": [
+          "Pharmacological and Diagnostic Research Centre, Faculty of Pharmacy, Al-Ahliyya Amman University, Amman, Jordan."
+        ]
+      },
+      {
+        "full_name": "Al-Qaraleh, Moath",
+        "short_name": "Al-Qaraleh M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory Sciences, Faculty of Science, Al-Balqa Applied University, Al-Salt, Jordan."
+        ]
+      },
+      {
+        "full_name": "Al-Zregat, Diana M",
+        "short_name": "Al-Zregat DM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Faculty of Medicine, Mutah University, Al-Karak, Jordan."
+        ]
+      },
+      {
+        "full_name": "Amareen, Zaid S",
+        "short_name": "Amareen ZS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Faculty of Medicine, Mutah University, Al-Karak, Jordan."
+        ]
+      },
+      {
+        "full_name": "Al Soub, Manal Nahar",
+        "short_name": "Al Soub MN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Mutah University, Al-Karak, Jordan."
+        ]
+      },
+      {
+        "full_name": "Abdelhadi, Nadine N",
+        "short_name": "Abdelhadi NN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of clinical pharmacy and pharmacy practice, Faculty of pharmacy, Aqaba University of Technology, Aqaba, Jordan."
+        ]
+      },
+      {
+        "full_name": "Qaraghuli, Samra",
+        "short_name": "Qaraghuli S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacognosy and Medicinal Plants, college of Pharmacy, Mustansiriya University, Baghdad, Iraq."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 17:33",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42789608",
+      "38837975",
+      "31132755",
+      "29109061",
+      "41540397",
+      "37288734",
+      "42227490",
+      "38994626",
+      "41407830",
+      "39698882",
+      "23827757",
+      "40571228",
+      "41045503",
+      "40055656",
+      "35291987",
+      "42450028",
+      "34675483",
+      "42581353",
+      "32988347",
+      "42589713",
+      "41575893",
+      "31907764",
+      "40818522",
+      "26341728",
+      "39803277",
+      "41070604",
+      "39427736",
+      "29530022",
+      "41339649",
+      "39117897",
+      "41097432",
+      "35125087",
+      "42386920",
+      "39060291",
+      "38819027",
+      "36793009",
+      "40652257",
+      "38715184",
+      "39836644",
+      "42270871",
+      "39992739",
+      "42069779",
+      "26514509",
+      "40574789",
+      "39901023",
+      "38482619",
+      "42796432",
+      "32158209",
+      "28716103",
+      "42297996",
+      "32324522",
+      "41683526",
+      "33225921",
+      "39460490",
+      "26626193",
+      "40617988",
+      "26822971",
+      "37993758",
+      "42099141",
+      "24083445",
+      "19501276",
+      "32951586",
+      "38849325",
+      "42169591",
+      "24962691",
+      "30459240",
+      "41301480",
+      "37817536",
+      "42693195",
+      "40939147",
+      "41392864",
+      "36249795",
+      "39304868",
+      "34488594",
+      "35056761",
+      "38731544",
+      "40651528",
+      "22761954",
+      "37818574",
+      "40299153",
+      "33499325",
+      "39551894",
+      "26941530",
+      "40869430",
+      "39202999",
+      "41144437",
+      "33576214",
+      "41976106",
+      "39482666",
+      "40516110",
+      "41639332",
+      "25887417",
+      "40560420",
+      "33066411",
+      "40251438",
+      "32479012",
+      "30853646",
+      "42353249",
+      "42341860",
+      "40649257"
+    ],
+    "review": [
+      "42789608"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

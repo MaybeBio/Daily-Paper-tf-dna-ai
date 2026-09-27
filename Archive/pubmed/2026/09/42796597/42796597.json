@@ -1,0 +1,269 @@
+{
+  "identity": {
+    "pmid": "42796597",
+    "doi": "10.3390/molecules31183314",
+    "title": "Oxindole Compounds Induce NRF2-ARE Antioxidant Pathway in MCF7 Cells and Reduce Inflammatory Response in RAW264.7 Cells."
+  },
+  "content": {
+    "abstract": "Using previously reported chemical structures and synthetic methods, we prepared a series of 19 oxindole derivatives and evaluated their ability to activate the NRF2-ARE signaling pathway and induce the expression of downstream antioxidant genes. All 19 compounds activated NRF2-ARE signaling. Among them, OIC3 and OIC15 were selected for further investigation based on their relatively low EC(50) values of 6.20 and 4.95 microM, respectively, as well as their favorable cytotoxicity profiles. Both compounds activated NRF2 in a concentration-dependent manner and progressively increased the expression of the NRF2 target genes HO-1 and NQO1 over 8-24 h. Their anti-inflammatory activities were further evaluated in RAW 264.7 macrophages. Quantum chemical calculations identified the exocyclic benzylidene carbon as the most probable electrophilic reaction site, while covalent docking suggested that the Cys151 adducts of both compounds could be structurally accommodated within the KEAP1 BTB domain. Collectively, these findings identify OIC3 and OIC15 as promising NRF2-ARE activators and support their further investigation as potential therapeutic candidates for oxidative stress- and inflammation-related diseases.",
+    "keywords": [
+      "EAW264.7 macrophages",
+      "KWAP1",
+      "NQO1",
+      "NRF2-ARE signaling pathway",
+      "PH-1",
+      "anti-inflammatory activity",
+      "antioxidant activity",
+      "oxidative stress",
+      "oxindole compounds"
+    ],
+    "mesh_terms": [
+      "*NF-E2-Related Factor 2/metabolism/genetics",
+      "Animals",
+      "Mice",
+      "Humans",
+      "RAW 264.7 Cells",
+      "*Signal Transduction/drug effects",
+      "*Antioxidants/pharmacology/chemistry/metabolism",
+      "*Oxindoles/pharmacology/chemistry",
+      "*Anti-Inflammatory Agents/pharmacology/chemistry",
+      "*Antioxidant Response Elements/drug effects",
+      "*Inflammation/drug therapy/metabolism",
+      "Oxidative Stress/drug effects",
+      "Molecular Docking Simulation",
+      "Kelch-Like ECH-Associated Protein 1/metabolism",
+      "NAD(P)H Dehydrogenase (Quinone)/metabolism/genetics",
+      "Heme Oxygenase-1/metabolism/genetics",
+      "Macrophages/drug effects/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Selvaraj, Baskar",
+        "Nguyen, Qui Ngoc Sang",
+        "Ko, Seong-Hee",
+        "Yoo, Ki-Yeon",
+        "Kang, Suk Woo",
+        "Lee, Jae Wook"
+      ],
+      "short_names": [
+        "Selvaraj B",
+        "Nguyen QNS",
+        "Ko SH",
+        "Yoo KY",
+        "Kang SW",
+        "Lee JW"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-7210-7089",
+        "ORCID: 0009-0005-7976-1439",
+        "ORCID: 0000-0002-5678-6394"
+      ],
+      "affiliations": [
+        "Center for Natural Product Efficacy Optimization, Gangneung Institute, Korea Institute of Science and Technology (KIST), Gangneung 25451, Republic of Korea.",
+        "Center for Natural Product Efficacy Optimization, Gangneung Institute, Korea Institute of Science and Technology (KIST), Gangneung 25451, Republic of Korea.",
+        "Department of Anatomy, College of Dentistry, Gangwon National University, Gangneung 25457, Republic of Korea.",
+        "Institute of Chemistry, Vietnam Academy of Science and Technology (VAST), Hanoi 100000, Vietnam.",
+        "Department of Pharmacology, College of Dentistry, Gangwon National University, Gangneung 25457, Republic of Korea.",
+        "Department of Anatomy, College of Dentistry, Gangwon National University, Gangneung 25457, Republic of Korea.",
+        "Center for Natural Product Efficacy Optimization, Gangneung Institute, Korea Institute of Science and Technology (KIST), Gangneung 25451, Republic of Korea.",
+        "Center for Natural Product Efficacy Optimization, Gangneung Institute, Korea Institute of Science and Technology (KIST), Gangneung 25451, Republic of Korea.",
+        "Natural Product Applied Science, KIST School, University of Science and Technology, Gangneung 25451, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Selvaraj, Baskar",
+        "short_name": "Selvaraj B",
+        "identifiers": [
+          "0009-0009-7210-7089"
+        ],
+        "affiliations": [
+          "Center for Natural Product Efficacy Optimization, Gangneung Institute, Korea Institute of Science and Technology (KIST), Gangneung 25451, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Nguyen, Qui Ngoc Sang",
+        "short_name": "Nguyen QNS",
+        "identifiers": [
+          "0009-0005-7976-1439"
+        ],
+        "affiliations": [
+          "Center for Natural Product Efficacy Optimization, Gangneung Institute, Korea Institute of Science and Technology (KIST), Gangneung 25451, Republic of Korea.",
+          "Department of Anatomy, College of Dentistry, Gangwon National University, Gangneung 25457, Republic of Korea.",
+          "Institute of Chemistry, Vietnam Academy of Science and Technology (VAST), Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Ko, Seong-Hee",
+        "short_name": "Ko SH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, College of Dentistry, Gangwon National University, Gangneung 25457, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Yoo, Ki-Yeon",
+        "short_name": "Yoo KY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy, College of Dentistry, Gangwon National University, Gangneung 25457, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kang, Suk Woo",
+        "short_name": "Kang SW",
+        "identifiers": [
+          "0000-0002-5678-6394"
+        ],
+        "affiliations": [
+          "Center for Natural Product Efficacy Optimization, Gangneung Institute, Korea Institute of Science and Technology (KIST), Gangneung 25451, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Jae Wook",
+        "short_name": "Lee JW",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Natural Product Efficacy Optimization, Gangneung Institute, Korea Institute of Science and Technology (KIST), Gangneung 25451, Republic of Korea.",
+          "Natural Product Applied Science, KIST School, University of Science and Technology, Gangneung 25451, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42796597",
+      "22227268",
+      "42728926",
+      "32298752",
+      "31131946",
+      "30717178",
+      "39308109",
+      "30048925",
+      "33421604",
+      "37864893",
+      "23419114",
+      "42194024",
+      "38521364",
+      "42019124",
+      "23756138",
+      "23056183",
+      "31790703",
+      "42208325",
+      "24211276",
+      "41423161",
+      "41505276",
+      "41865215",
+      "26878775",
+      "33406386",
+      "34029560",
+      "39128305",
+      "30781396",
+      "24308969",
+      "40037266",
+      "38530320",
+      "28928081",
+      "30584276",
+      "28865326",
+      "29096944",
+      "30015918",
+      "39603427",
+      "27884351",
+      "33974900",
+      "41046947",
+      "32234671",
+      "24157545",
+      "39244941",
+      "34078820",
+      "41494610",
+      "32032607",
+      "39084576",
+      "29258000",
+      "41301498",
+      "26291391",
+      "41599969",
+      "41242960",
+      "34278476",
+      "27912883",
+      "26111761",
+      "28523535",
+      "42042205",
+      "32866756",
+      "19033392",
+      "32082480",
+      "37039781",
+      "31251921",
+      "23899529",
+      "25380370",
+      "30466076",
+      "38458086",
+      "38753858",
+      "23942037",
+      "30375618",
+      "38762209",
+      "39689597",
+      "42031984",
+      "29140578",
+      "28188924",
+      "40683208",
+      "31356547",
+      "42212397",
+      "37187359",
+      "41794516",
+      "24417210",
+      "25107906",
+      "23000247",
+      "39779560",
+      "23291594",
+      "28604588",
+      "30148822",
+      "28518138",
+      "28714938",
+      "33580396",
+      "34630847",
+      "32070920",
+      "31112588",
+      "29496161",
+      "32036037",
+      "30783799",
+      "24559113",
+      "32377290",
+      "39706064",
+      "20558128",
+      "33571414",
+      "40801636"
+    ],
+    "review": [
+      "42796597",
+      "32377290"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

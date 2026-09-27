@@ -1,0 +1,263 @@
+{
+  "identity": {
+    "pmid": "42788362",
+    "doi": "10.1093/nar/gkag923",
+    "title": "Molecular structure and DNA binding mode of unsymmetric cyanine dyes RiboGreen and OliGreen."
+  },
+  "content": {
+    "abstract": "The binding of fluorescent dyes to nucleic acids and their fluorogenic properties are indispensable tools for nucleic acid detection, quantification, and imaging, yet the molecular structures of several widely used commercial dyes have remained unknown. Here, we de novo determined the molecular structures of RiboGreen and OliGreen and confirmed the previously proposed structure of PicoGreen using high-field NMR spectroscopy and ultra-high resolution mass spectrometry. All three dyes were identified as unsymmetric cyanine dyes, where benzazolium and 4-quinolinium moieties are linked by a monomethine bridge. Complete 1H and 13C resonance assignments enabled us to expand the existing chemical shift reference set for this important class of dyes. Photophysical characterization with standardized single- and double-stranded DNA and RNA targets indicated that all dyes performed similarly upon binding despite being marketed toward different nucleic acid types. NMR spectroscopy and long-timescale molecular dynamics simulations showed that RiboGreen interacts with double-stranded DNA predominantly by two binding modes, electrostatic interactions with the phosphodiester backbone and pi-pi stacking with accessible nucleobases of the DNA molecule. These results establish the molecular structures of three widely used commercial dyes and provide a structural and mechanistic framework for understanding the fluorogenic properties of this class of dyes.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Fluorescent Dyes/chemistry",
+      "*Carbocyanines/chemistry",
+      "*DNA/chemistry",
+      "Molecular Dynamics Simulation",
+      "RNA/chemistry",
+      "Molecular Structure"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Blackford, Nolan",
+        "Nepal, Saileena",
+        "He, Huan",
+        "Zheng, Lianqing",
+        "Yang, Wei",
+        "Silvers, Robert"
+      ],
+      "short_names": [
+        "Blackford N",
+        "Nepal S",
+        "He H",
+        "Zheng L",
+        "Yang W",
+        "Silvers R"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-5818-3870",
+        "ORCID: 0009-0004-0591-0393",
+        "ORCID: 0000-0002-5014-9124",
+        "ORCID: 0009-0000-9077-6889",
+        "ORCID: 0000-0002-4520-3253",
+        "ORCID: 0000-0003-0197-3878"
+      ],
+      "affiliations": [
+        "Department of Chemistry & Biochemistry, Florida State University, Tallahassee, FL 32306, United States.",
+        "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States.",
+        "Department of Chemistry & Biochemistry, Florida State University, Tallahassee, FL 32306, United States.",
+        "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States.",
+        "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States.",
+        "Translational Science Laboratory, College of Medicine, Florida State University, Tallahassee, FL 32306, United States.",
+        "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States.",
+        "Department of Chemistry & Biochemistry, Florida State University, Tallahassee, FL 32306, United States.",
+        "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States.",
+        "Department of Chemistry & Biochemistry, Florida State University, Tallahassee, FL 32306, United States.",
+        "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Blackford, Nolan",
+        "short_name": "Blackford N",
+        "identifiers": [
+          "0009-0008-5818-3870"
+        ],
+        "affiliations": [
+          "Department of Chemistry & Biochemistry, Florida State University, Tallahassee, FL 32306, United States.",
+          "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States."
+        ]
+      },
+      {
+        "full_name": "Nepal, Saileena",
+        "short_name": "Nepal S",
+        "identifiers": [
+          "0009-0004-0591-0393"
+        ],
+        "affiliations": [
+          "Department of Chemistry & Biochemistry, Florida State University, Tallahassee, FL 32306, United States.",
+          "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States."
+        ]
+      },
+      {
+        "full_name": "He, Huan",
+        "short_name": "He H",
+        "identifiers": [
+          "0000-0002-5014-9124"
+        ],
+        "affiliations": [
+          "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States.",
+          "Translational Science Laboratory, College of Medicine, Florida State University, Tallahassee, FL 32306, United States."
+        ]
+      },
+      {
+        "full_name": "Zheng, Lianqing",
+        "short_name": "Zheng L",
+        "identifiers": [
+          "0009-0000-9077-6889"
+        ],
+        "affiliations": [
+          "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States."
+        ]
+      },
+      {
+        "full_name": "Yang, Wei",
+        "short_name": "Yang W",
+        "identifiers": [
+          "0000-0002-4520-3253"
+        ],
+        "affiliations": [
+          "Department of Chemistry & Biochemistry, Florida State University, Tallahassee, FL 32306, United States.",
+          "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States."
+        ]
+      },
+      {
+        "full_name": "Silvers, Robert",
+        "short_name": "Silvers R",
+        "identifiers": [
+          "0000-0003-0197-3878"
+        ],
+        "affiliations": [
+          "Department of Chemistry & Biochemistry, Florida State University, Tallahassee, FL 32306, United States.",
+          "Institute of Molecular Biophysics, Florida State University, Tallahassee, FL 32306, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 11:45",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42788362",
+      "42146639",
+      "34185946",
+      "40136984",
+      "42664942",
+      "42202584",
+      "26712725",
+      "14576310",
+      "12834961",
+      "24247159",
+      "19994837",
+      "27860278",
+      "10397499",
+      "41524155",
+      "18304645",
+      "41147167",
+      "17411048",
+      "36671513",
+      "41097385",
+      "34904892",
+      "11233640",
+      "16828165",
+      "11446705",
+      "21108866",
+      "39770126",
+      "27783069",
+      "17674164",
+      "25365696",
+      "20809136",
+      "19954141",
+      "30277520",
+      "16419140",
+      "24088963",
+      "34198271",
+      "38202697",
+      "38779709",
+      "26263181",
+      "39466599",
+      "29211987",
+      "22281394",
+      "23137048",
+      "37531682",
+      "30285443",
+      "33905507",
+      "24231377",
+      "9692981",
+      "21889452",
+      "41375202",
+      "39094268",
+      "37544569",
+      "20229556",
+      "27934475",
+      "39439394",
+      "32959963",
+      "9089278",
+      "28644615",
+      "42264157",
+      "28790236",
+      "32279036",
+      "21044599",
+      "26963493",
+      "29064490",
+      "40751281",
+      "11421063",
+      "39999296",
+      "25397906",
+      "7612596",
+      "11765797",
+      "30821653",
+      "23590410",
+      "40780343",
+      "34506152",
+      "33660975",
+      "23180379",
+      "9222508",
+      "23275573",
+      "11391571",
+      "14576311",
+      "11446704",
+      "36234904",
+      "36681650",
+      "28965786",
+      "17980608",
+      "23912807",
+      "9833661",
+      "29364846",
+      "36746042",
+      "22947035",
+      "28441009",
+      "15839703",
+      "19005602",
+      "34142803",
+      "36045146",
+      "17553684",
+      "28905972",
+      "20923172",
+      "35995925",
+      "16189554",
+      "12095339",
+      "16283530"
+    ],
+    "review": [
+      "42788362",
+      "21108866",
+      "32959963",
+      "29064490"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "identity": {
+    "pmid": "42765733",
+    "doi": "10.1093/jpp/rgag105",
+    "title": "Integrating network pharmacology and experimental validation to uncover the mechanisms of Ganoderma lucidum in ameliorating neuroinflammation in Alzheimer's disease."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: This study aimed to explore the anti-neuroinflammatory mechanism of Ganoderma lucidum against Alzheimer's disease (AD) using network pharmacology and molecular docking, and verify its neuroprotective and anti-neuroinflammatory effects in Abeta1-42-induced AD mice. METHODS: Common targets were screened and analyzed by KEGG/GO enrichment. Core targets were evaluated by molecular docking and dynamics simulation. Abeta1-42-induced AD mice and LPS-stimulated macrophages were used. Cognitive function, Abeta deposition, tau phosphorylation, and inflammatory gene expression were measured. KEY FINDINGS: Network analysis highlighted inflammation-related pathways. Molecular dynamics simulations confirmed stable binding between active components and targets like STAT1, STAT3, JAK2, and TNF. In vivo, G. lucidum extract suppressed abnormal activation of microglia and astrocytes, and reduced pro-inflammatory factors. Following G. lucidum administration, mRNA levels of Jak2 and Stat1 in hippocampal tissue were significantly reduced, suggesting potential regulation of neuroinflammation via the JAK2/STAT1 pathway. Concurrently, G. lucidum down-regulated transcription of key subunits (Ncstn, Aph-1, Pen-2) in the gamma-secretase complex, thereby reducing Abeta1-42 production. In vitro experiments similarly confirmed G. lucidum's ability to inhibit LPS-induced IL-6 and TNF-alpha release from macrophages. CONCLUSIONS: Ganoderma lucidum extract alleviates neuroinflammation in AD models, providing experimental evidence for its potential application in AD prevention or therapy.",
+    "keywords": [
+      "Ganoderma lucidum",
+      "Alzheimer's disease",
+      "Abeta1-42",
+      "network pharmacology",
+      "neuroinflammation"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Reishi/chemistry",
+      "*Alzheimer Disease/drug therapy/metabolism",
+      "Mice",
+      "Janus Kinase 2/metabolism",
+      "Amyloid beta-Peptides/metabolism",
+      "STAT1 Transcription Factor/metabolism",
+      "*Neuroprotective Agents/pharmacology",
+      "Molecular Docking Simulation",
+      "Network Pharmacology",
+      "*Neuroinflammatory Diseases/drug therapy/metabolism",
+      "Male",
+      "*Anti-Inflammatory Agents/pharmacology",
+      "Hippocampus/drug effects/metabolism",
+      "Disease Models, Animal",
+      "Microglia/drug effects/metabolism",
+      "Macrophages/drug effects/metabolism",
+      "Peptide Fragments/metabolism",
+      "Molecular Dynamics Simulation",
+      "Signal Transduction/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sheng, Feiya",
+        "Yu, Jia-Mei",
+        "Yang, Qiao",
+        "Jipei, Rigu",
+        "Xie, Wen-Qi",
+        "Zhan, Gu",
+        "Zhang, Yan",
+        "Zhang, Le-Le"
+      ],
+      "short_names": [
+        "Sheng F",
+        "Yu JM",
+        "Yang Q",
+        "Jipei R",
+        "Xie WQ",
+        "Zhan G",
+        "Zhang Y",
+        "Zhang LL"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6617-9726"
+      ],
+      "affiliations": [
+        "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China.",
+        "Chinese Medicine Germplasm Resources Innovation and Effective Uses Key Laboratory of Sichuan Province, Chengdu University of Traditional Chinese Medicine, No. 1166 Liutai Avenue, Wenjiang District, Chengdu, Sichuan 611137, China.",
+        "College of Pharmacy, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China.",
+        "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China.",
+        "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China.",
+        "College of Pharmacy, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China.",
+        "Chinese Medicine Germplasm Resources Innovation and Effective Uses Key Laboratory of Sichuan Province, Chengdu University of Traditional Chinese Medicine, No. 1166 Liutai Avenue, Wenjiang District, Chengdu, Sichuan 611137, China.",
+        "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China.",
+        "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sheng, Feiya",
+        "short_name": "Sheng F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China.",
+          "Chinese Medicine Germplasm Resources Innovation and Effective Uses Key Laboratory of Sichuan Province, Chengdu University of Traditional Chinese Medicine, No. 1166 Liutai Avenue, Wenjiang District, Chengdu, Sichuan 611137, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jia-Mei",
+        "short_name": "Yu JM",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Qiao",
+        "short_name": "Yang Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China."
+        ]
+      },
+      {
+        "full_name": "Jipei, Rigu",
+        "short_name": "Jipei R",
+        "identifiers": [],
+        "affiliations": [
+          "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Wen-Qi",
+        "short_name": "Xie WQ",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China."
+        ]
+      },
+      {
+        "full_name": "Zhan, Gu",
+        "short_name": "Zhan G",
+        "identifiers": [],
+        "affiliations": [
+          "Chinese Medicine Germplasm Resources Innovation and Effective Uses Key Laboratory of Sichuan Province, Chengdu University of Traditional Chinese Medicine, No. 1166 Liutai Avenue, Wenjiang District, Chengdu, Sichuan 611137, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Le-Le",
+        "short_name": "Zhang LL",
+        "identifiers": [
+          "0000-0001-6617-9726"
+        ],
+        "affiliations": [
+          "School of Preclinical Medicine, Chengdu University, No. 2025 Chengluo Avenue, Chengdu, Sichuan 610106, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of pharmacy and pharmacology"
+    ],
+    "journal_abbrev": [
+      "J Pharm Pharmacol"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 11:44",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42765733",
+      "41997458",
+      "41106101",
+      "41106565",
+      "42307826",
+      "42109914",
+      "42166973",
+      "37619415",
+      "42320774",
+      "32389853",
+      "40228446",
+      "41930874",
+      "42429089",
+      "40564963",
+      "39094757",
+      "39910202",
+      "40020795",
+      "39826816",
+      "39391949",
+      "42163277",
+      "40429872",
+      "40362405",
+      "41260074",
+      "42406171",
+      "39245241",
+      "39733799",
+      "39721456",
+      "39458551",
+      "39791155",
+      "41828407",
+      "38837094",
+      "39625499",
+      "41448498",
+      "40712813",
+      "41954172",
+      "38968796",
+      "31837991",
+      "40645543",
+      "41344499",
+      "40943466",
+      "33352241",
+      "41306975",
+      "34433707",
+      "40660408",
+      "42392719",
+      "40916308",
+      "24690200",
+      "41121478",
+      "39970860",
+      "41129534",
+      "41747588",
+      "38862817",
+      "38552431",
+      "31849936",
+      "32795892",
+      "39519499",
+      "40204151",
+      "34468933",
+      "39519586",
+      "42011617",
+      "40889628",
+      "42322864",
+      "39797928",
+      "39278295",
+      "42421348",
+      "38728187",
+      "36474082",
+      "41477991",
+      "41207328",
+      "41156471",
+      "38569294",
+      "40330488",
+      "41968216",
+      "39949090",
+      "40319931",
+      "34616501",
+      "41261326",
+      "41707815",
+      "37925002",
+      "39923957",
+      "40879814",
+      "40215776",
+      "42259474",
+      "40316154",
+      "41443105",
+      "42423842",
+      "41931996",
+      "38752930",
+      "39135052",
+      "29462698",
+      "42731509",
+      "42004947",
+      "41771399",
+      "34675488",
+      "40312965",
+      "38043266",
+      "40991989",
+      "39755189",
+      "37802769",
+      "39587077"
+    ],
+    "review": [
+      "42765733"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/alzheimersdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Alzheimer's Disease"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-STAT1-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1252",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/jpp/article-lookup/doi/10.1093/jpp/rgag105",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

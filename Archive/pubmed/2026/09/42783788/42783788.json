@@ -1,0 +1,351 @@
+{
+  "identity": {
+    "pmid": "42783788",
+    "doi": "10.3390/metabo16090663",
+    "title": "Potential Mechanisms Linking Excessive Testosterone to PMOS: Insights from Network Toxicology and Machine Learning."
+  },
+  "content": {
+    "abstract": "Background/Objectives: Polyendocrine metabolic ovarian syndrome (PMOS) is characterized by hyperandrogenism, particularly excessive testosterone, as a core clinical feature and a key pathogenic metabolite, yet its molecular mechanisms remain incompletely understood. Methods: This study integrated multi-omics data from Gene Expression Omnibus (GEO) databases with network toxicology, weighted gene co-expression network analysis (WGCNA), and machine learning to identify testosterone-associated core genes in PMOS. Results: Differential expression analysis and WGCNA yielded 42 candidate genes, from which five core genes, including GK5, CYP3A5, EGLN3, VCAM1, and AGTR1, were prioritized as top predictive features through ensemble modeling (RF + XGBoost). Molecular docking predicted favorable testosterone binding conformations. Regulatory network and drug enrichment analysis additionally predicted several upstream transcription factors, hub miRNAs, and potential repurposable drugs. Conclusions: These findings proposed a computational framework for a multi-target molecular landscape linking testosterone to PMOS. The identified genes, regulatory networks, and candidate drugs provided prioritized hypotheses for mechanistic exploration and future evaluation of potential diagnostic and therapeutic applications in hyperandrogenism-related PMOS.",
+    "keywords": [
+      "machine learning",
+      "molecular docking",
+      "network toxicology",
+      "polyendocrine metabolic ovarian syndrome",
+      "testosterone"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Chao",
+        "Su, Zhe",
+        "Li, Yiqian",
+        "Liu, Huili",
+        "Zheng, Mengyi",
+        "Zhou, Hanjing",
+        "Wei, Cheng",
+        "Zhou, Feng",
+        "Yang, Cuiyu",
+        "Tang, Chen",
+        "Chen, Bin"
+      ],
+      "short_names": [
+        "Li C",
+        "Su Z",
+        "Li Y",
+        "Liu H",
+        "Zheng M",
+        "Zhou H",
+        "Wei C",
+        "Zhou F",
+        "Yang C",
+        "Tang C",
+        "Chen B"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-6466-437X",
+        "ORCID: 0000-0001-6403-1867"
+      ],
+      "affiliations": [
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China.",
+        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+        "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Chao",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Su, Zhe",
+        "short_name": "Su Z",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yiqian",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Huili",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Mengyi",
+        "short_name": "Zheng M",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Hanjing",
+        "short_name": "Zhou H",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Cheng",
+        "short_name": "Wei C",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Feng",
+        "short_name": "Zhou F",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Cuiyu",
+        "short_name": "Yang C",
+        "identifiers": [
+          "0009-0005-6466-437X"
+        ],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Chen",
+        "short_name": "Tang C",
+        "identifiers": [],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Bin",
+        "short_name": "Chen B",
+        "identifiers": [
+          "0000-0001-6403-1867"
+        ],
+        "affiliations": [
+          "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China.",
+          "Zhejiang Key Laboratory of Precise Protection and Promotion of Fertility, Hangzhou 310016, China.",
+          "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou 310016, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Metabolites"
+    ],
+    "journal_abbrev": [
+      "Metabolites"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42783788",
+      "41052072",
+      "42698445",
+      "39142001",
+      "42074514",
+      "41415264",
+      "41261566",
+      "42292825",
+      "41895505",
+      "41611834",
+      "42015036",
+      "42123445",
+      "39139563",
+      "41371106",
+      "42565416",
+      "42537010",
+      "42032347",
+      "41977161",
+      "41703488",
+      "41595448",
+      "42509710",
+      "41794809",
+      "41013556",
+      "40916281",
+      "42450069",
+      "42528957",
+      "41373010",
+      "41388523",
+      "40676786",
+      "42756821",
+      "40216809",
+      "42033937",
+      "40332792",
+      "42083957",
+      "40374840",
+      "42233387",
+      "41492010",
+      "40442788",
+      "41444679",
+      "42263871",
+      "42265520",
+      "42326009",
+      "42494595",
+      "40997906",
+      "42327749",
+      "42428344",
+      "42004467",
+      "41432483",
+      "40417760",
+      "41065836",
+      "41772633",
+      "42475469",
+      "40406126",
+      "40317014",
+      "41459671",
+      "41667778",
+      "41393259",
+      "40588645",
+      "41288681",
+      "41424060",
+      "42471730",
+      "41961800",
+      "42580240",
+      "41816328",
+      "41410587",
+      "41246859",
+      "42123756",
+      "38144565",
+      "42391245",
+      "41393260",
+      "41342434",
+      "40484863",
+      "41593793",
+      "42024670",
+      "40671224",
+      "42775123",
+      "41718809",
+      "41769099",
+      "40596265",
+      "40718794",
+      "40552285",
+      "34555052",
+      "41006883",
+      "40097519",
+      "42624872",
+      "42338983",
+      "40754871",
+      "41826854",
+      "41511918",
+      "42236612",
+      "42520089",
+      "41822387",
+      "42767134",
+      "41442003",
+      "42435052",
+      "41478005",
+      "42194960",
+      "42292668",
+      "41988128",
+      "41479901"
+    ],
+    "review": [
+      "42783788"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=metabo16090663",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3397",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

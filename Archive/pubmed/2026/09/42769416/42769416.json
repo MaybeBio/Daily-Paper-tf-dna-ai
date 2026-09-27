@@ -1,0 +1,314 @@
+{
+  "identity": {
+    "pmid": "42769416",
+    "doi": "10.32604/or.2026.084576",
+    "title": "Honokiol Suppresses Stemness and Sensitizes Triple-Negative Breast Cancer to Chemotherapy via YAP/TAZ-TEAD Inhibition."
+  },
+  "content": {
+    "abstract": "Objectives: As an aggressive subtype of breast cancer, triple-negative breast cancer (TNBC) is constrained by the limited availability of effective treatments and the absence of well-validated therapeutic targets. This study aimed to explore whether honokiol, a potent YAP/TAZ inhibitor, suppresses stem cell-like properties and enhances chemotherapeutic efficacy in TNBC by blocking YAP/TAZ-TEAD transcriptional complex. Methods: Through both in vitro and in vivo models of TNBC, the current study examined how honokiol influences cell proliferation, cancer stem cell (CSC) traits, and paclitaxel sensitivity. To uncover the molecular mechanisms, we analyzed the transcript levels and protein abundance of core YAP/TAZ-TEAD pathway members, including YAP, TAZ, TEADs, ANKRD1, and CYR61. Furthermore, we conducted immunofluorescence staining to examine the nuclear localization of YAP/TAZ. Potential direct interactions were identified using molecular docking, which also predicted the binding affinity between honokiol and the TAZ-TEAD complex. Results: Honokiol markedly suppressed the viability and stemness of TNBC cells. It also improved the antitumor efficacy of paclitaxel in both TNBC cells and xenograft models. Mechanistically, honokiol may directly target the TAZ-TEAD complex, as indicated by molecular docking analysis. This interaction led to decreased YAP/TAZ protein levels and blockade of their nuclear accumulation, thereby suppressing the downstream transcriptional targets ANKRD1 and CYR61 in TNBC cells. Conclusion: Collectively, our findings suggest that honokiol is a promising therapeutic agent against TNBC, acting at least in part by suppressing the transcriptional activity of the YAP/TAZ-TEAD complex, thus attenuating cancer stemness and overcoming chemoresistance. These findings highlight honokiol's translational potential.",
+    "keywords": [
+      "Honokiol",
+      "YAP/TAZ-TEAD complex",
+      "cancer stem cells",
+      "chemoresistance",
+      "triple-negative breast cancer"
+    ],
+    "mesh_terms": [
+      "*Lignans/pharmacology",
+      "Allyl Compounds",
+      "*Biphenyl Compounds/pharmacology",
+      "Humans",
+      "*Triple Negative Breast Neoplasms/drug therapy/pathology/metabolism",
+      "Female",
+      "*Neoplastic Stem Cells/drug effects/metabolism/pathology",
+      "Phenols",
+      "Animals",
+      "Mice",
+      "*Transcription Factors/metabolism/antagonists & inhibitors",
+      "Cell Line, Tumor",
+      "YAP-Signaling Proteins",
+      "Xenograft Model Antitumor Assays",
+      "Paclitaxel/pharmacology",
+      "Cell Proliferation/drug effects",
+      "Trans-Activators",
+      "*Adaptor Proteins, Signal Transducing/metabolism/antagonists & inhibitors",
+      "Drug Resistance, Neoplasm/drug effects",
+      "Antineoplastic Agents, Phytogenic/pharmacology",
+      "Transcriptional Coactivator with PDZ-Binding Motif Proteins",
+      "Molecular Docking Simulation",
+      "Gene Expression Regulation, Neoplastic/drug effects",
+      "TEA Domain Transcription Factors",
+      "Nuclear Proteins",
+      "Mice, Nude"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xia, Jiang-Nan",
+        "Zhu, Shan-Dong",
+        "Qu, Wei-Ling",
+        "Hu, Yi-Lin",
+        "Ma, Wen-Yi",
+        "Wang, Wenyan",
+        "Huang, Qian-Lan",
+        "Lin, Bing-Yuan",
+        "Guo, Jia-En",
+        "Li, Ying-Wei"
+      ],
+      "short_names": [
+        "Xia JN",
+        "Zhu SD",
+        "Qu WL",
+        "Hu YL",
+        "Ma WY",
+        "Wang W",
+        "Huang QL",
+        "Lin BY",
+        "Guo JE",
+        "Li YW"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xia, Jiang-Nan",
+        "short_name": "Xia JN",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Shan-Dong",
+        "short_name": "Zhu SD",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Qu, Wei-Ling",
+        "short_name": "Qu WL",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Yi-Lin",
+        "short_name": "Hu YL",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Wen-Yi",
+        "short_name": "Ma WY",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wenyan",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Qian-Lan",
+        "short_name": "Huang QL",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Bing-Yuan",
+        "short_name": "Lin BY",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jia-En",
+        "short_name": "Guo JE",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ying-Wei",
+        "short_name": "Li YW",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Oncology research"
+    ],
+    "journal_abbrev": [
+      "Oncol Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 12:42",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42769416",
+      "39615216",
+      "39826667",
+      "38553612",
+      "38576101",
+      "32768952",
+      "39864604",
+      "39853518",
+      "40398092",
+      "34463254",
+      "38565949",
+      "42646473",
+      "31489619",
+      "38643945",
+      "42026668",
+      "28991374",
+      "40353692",
+      "29208682",
+      "28752853",
+      "39979255",
+      "38606592",
+      "41761192",
+      "30479839",
+      "39153238",
+      "41407746",
+      "41192283",
+      "37917410",
+      "36738577",
+      "41161055",
+      "37830584",
+      "30401838",
+      "29316250",
+      "31831627",
+      "40542295",
+      "29848346",
+      "30092563",
+      "39994505",
+      "41771210",
+      "40826167",
+      "42190415",
+      "28368399",
+      "41792242",
+      "41072836",
+      "39303510",
+      "42158813",
+      "39903968",
+      "30482112",
+      "33172899",
+      "42641546",
+      "34509860",
+      "32292495",
+      "42509263",
+      "32166583",
+      "41888415",
+      "40148719",
+      "40081550",
+      "28144905",
+      "40869130",
+      "41193428",
+      "38601156",
+      "38741073",
+      "27373987",
+      "40626835",
+      "41656414",
+      "39563370",
+      "39686607",
+      "42435251",
+      "38427166",
+      "33939216",
+      "34206989",
+      "40696387",
+      "40976126",
+      "38763012",
+      "22353783",
+      "42168385",
+      "25583261",
+      "41865688",
+      "28423652",
+      "41518053",
+      "39103676",
+      "26432639",
+      "31235595",
+      "38480480",
+      "38714850",
+      "32523092",
+      "40311597",
+      "35993908",
+      "42390936",
+      "26420216",
+      "32206112",
+      "39210147",
+      "40683423",
+      "42669077",
+      "25369529",
+      "29725063",
+      "25895125",
+      "41628058",
+      "40730501",
+      "27039292",
+      "40833485"
+    ],
+    "review": [
+      "42769416",
+      "41192283",
+      "30482112",
+      "41656414"
+    ],
+    "pmc": [
+      "13591327"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42769416/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

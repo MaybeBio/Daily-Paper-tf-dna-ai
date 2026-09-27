@@ -1,0 +1,342 @@
+{
+  "identity": {
+    "pmid": "42781876",
+    "doi": "10.1002/cbin.70213",
+    "title": "IGK Suppresses Keloid Fibroblast Activation Through Modulation of MDM2 Expression and p53 Signaling."
+  },
+  "content": {
+    "abstract": "Keloids are intricate fibroproliferative disorders characterized by sustained fibroblast activation, excessive deposition of extracellular matrix, and dysregulated wound-healing responses. This study explored the therapeutic effects and underlying mechanisms of Isoginkgetin (IGK) in keloid fibroblasts (KFbs) and a human keloid xenograft model. Our findings indicated that MDM2 expression was elevated in clinical keloid specimens, and IGK treatment inhibited KFbs proliferation and migration while inducing cell cycle arrest and apoptosis. Mechanistically, IGK downregulated MDM2 expression at the transcriptional level and was associated with the modulation of the MDM2/p53 signaling axis. LiP-MS and molecular docking analyses identified eukaryotic translation elongation factor 1 alpha 1 (EEF1A1) as a potential IGK-associated protein, suggesting that EEF1A1 may play a role in IGK-mediated regulation of MDM2 expression. Moreover, transcriptomic analysis of xenograft tissues combined with serum multicytokine profiling demonstrated that IGK treatment modulated inflammation-associated signatures, including those related to TNF signaling pathways, within the xenograft model. In vivo, administration of IGK resulted in a reduction in volume, collagen deposition, and alpha-SMA expression in established human keloid xenografts. Taken together, these findings indicate that IGK exerts anti-keloid effects by modulating the MDM2/p53 signaling axis and inflammation-associated pathways, underscoring its potential as a therapeutic candidate for keloid treatment.",
+    "keywords": [
+      "inflammation",
+      "isoginkgetin",
+      "keloid",
+      "murine double minute-2 (MDM2)",
+      "p53 pathway"
+    ],
+    "mesh_terms": [
+      "*Keloid/metabolism/drug therapy/pathology",
+      "Humans",
+      "*Proto-Oncogene Proteins c-mdm2/metabolism/genetics",
+      "*Tumor Suppressor Protein p53/metabolism",
+      "*Fibroblasts/metabolism/drug effects",
+      "Signal Transduction/drug effects",
+      "Animals",
+      "Cell Proliferation/drug effects",
+      "Mice",
+      "Female",
+      "Male",
+      "Apoptosis/drug effects",
+      "Cell Movement/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ye, Ziqing",
+        "Liu, Feng",
+        "Tang, Huancheng",
+        "Wang, Xiaoshuang",
+        "Liu, Shuhua",
+        "Ruan, Qiongfang",
+        "Xu, Junhui",
+        "Dong, Maolong",
+        "Xie, Weiguo",
+        "Zhang, Siyu"
+      ],
+      "short_names": [
+        "Ye Z",
+        "Liu F",
+        "Tang H",
+        "Wang X",
+        "Liu S",
+        "Ruan Q",
+        "Xu J",
+        "Dong M",
+        "Xie W",
+        "Zhang S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0088-6177",
+        "ORCID: 0000-0002-3408-5896",
+        "ORCID: 0000-0002-8177-8919"
+      ],
+      "affiliations": [
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+        "Second Clinical College, Wuhan University, Wuhan, China.",
+        "Department of Urology, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "School of Medicine, Wuhan University of Science and Technology, Wuhan, China.",
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+        "Second Clinical College, Wuhan University, Wuhan, China.",
+        "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ye, Ziqing",
+        "short_name": "Ye Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Feng",
+        "short_name": "Liu F",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+          "Second Clinical College, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Huancheng",
+        "short_name": "Tang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaoshuang",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "School of Medicine, Wuhan University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Shuhua",
+        "short_name": "Liu S",
+        "identifiers": [
+          "0000-0002-0088-6177"
+        ],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Ruan, Qiongfang",
+        "short_name": "Ruan Q",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Junhui",
+        "short_name": "Xu J",
+        "identifiers": [
+          "0000-0002-3408-5896"
+        ],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Maolong",
+        "short_name": "Dong M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Weiguo",
+        "short_name": "Xie W",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China.",
+          "Second Clinical College, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Siyu",
+        "short_name": "Zhang S",
+        "identifiers": [
+          "0000-0002-8177-8919"
+        ],
+        "affiliations": [
+          "Institute of Burns, Wuhan Third Hospital (Tongren Hospital of WuHan University), Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Burns, Wuhan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell biology international"
+    ],
+    "journal_abbrev": [
+      "Cell Biol Int"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42781876",
+      "34511432",
+      "42696338",
+      "30863067",
+      "33200804",
+      "28498357",
+      "42143938",
+      "32276266",
+      "22591662",
+      "40508092",
+      "42214227",
+      "27855376",
+      "39879833",
+      "30265275",
+      "41067505",
+      "38743191",
+      "32317186",
+      "39981895",
+      "38204258",
+      "26200271",
+      "30867411",
+      "41695286",
+      "20872224",
+      "41840659",
+      "40721007",
+      "42480692",
+      "18463684",
+      "40615101",
+      "41051594",
+      "34044759",
+      "38802602",
+      "41508211",
+      "25745770",
+      "32800832",
+      "26718483",
+      "27339758",
+      "42139975",
+      "24788198",
+      "30064446",
+      "39384887",
+      "31545402",
+      "42774172",
+      "23977270",
+      "40173005",
+      "38812135",
+      "31339234",
+      "36642579",
+      "39392935",
+      "31227395",
+      "30690837",
+      "28296148",
+      "31425749",
+      "40876087",
+      "28120534",
+      "39054714",
+      "24748654",
+      "29328420",
+      "25486483",
+      "34592889",
+      "39277057",
+      "40571139",
+      "42343437",
+      "40600992",
+      "30940456",
+      "41858284",
+      "31568878",
+      "34050122",
+      "39105875",
+      "32132307",
+      "27177208",
+      "26840028",
+      "26475335",
+      "28100501",
+      "33436666",
+      "33880579",
+      "20506484",
+      "38676999",
+      "41138651",
+      "28458155",
+      "18359851",
+      "27130667",
+      "26556313",
+      "41289748",
+      "30498096",
+      "21060154",
+      "39245184",
+      "33771522",
+      "39273281",
+      "16443686",
+      "28092675",
+      "41827906",
+      "40311886",
+      "9776848",
+      "31934700",
+      "40700781",
+      "30419554",
+      "31138778",
+      "25168242",
+      "20331637",
+      "23365201"
+    ],
+    "review": [
+      "42781876"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/cbin.70213",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

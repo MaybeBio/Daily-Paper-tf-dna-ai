@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42786362",
+    "doi": "10.1007/s00011-026-02364-w",
+    "title": "UBE2L6 drives ulcerative colitis progression by promoting BIRC2 degradation and activating non-canonical NF-kappaB signalling."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Post-translational modifications (PTMs) have been increasingly recognized as important regulators of ulcerative colitis (UC) progression. However, the specific PTM type and key enzyme driving UC remain largely undefined. METHODS: Genes related to 21 PTM types were intersected with differentially expressed genes (DEGs) in UC and screened using 113 machine learning algorithms. Functional validation was performed in lipopolysaccharide (LPS) stimulated NCM460 and HT29 cells. Immunoprecipitation-mass spectrometry (IP-MS) combined with data-independent acquisition (DIA) proteomics was used to identify downstream targets and pathways. RESULTS: UBE2L6 was identified as a key PTM-related gene in UC. In LPS stimulated intestinal epithelial cells, UBE2L6 downregulation was found to markedly attenuate inflammatory responses and barrier dysfunction. BIRC2 was identified as a downstream target of UBE2L6, and the non-canonical NF-kappaB pathway was determined to be the principal signalling axis involved. Mechanistically, UBE2L6 was shown to facilitate the transfer of K48 linked ubiquitin chains to BIRC2, thereby promoting BIRC2 autoubiquitination and degradation. Consequently, NIK degradation was impaired, leading to NIK accumulation, enhanced p100 processing to p52, and activation of non-canonical NF-kappaB signalling. CONCLUSIONS: UBE2L6 promotes UC progression through BIRC2 degradation-dependent activation of the non-canonical NF-kappaB pathway and may serve as a potential therapeutic target in UC.",
+    "keywords": [
+      "BIRC2",
+      "UBE2L6",
+      "NF-kB pathways",
+      "UC",
+      "Ubiquitination"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Colitis, Ulcerative/metabolism/genetics",
+      "*Ubiquitin-Conjugating Enzymes/genetics/metabolism",
+      "*NF-kappa B/metabolism",
+      "Signal Transduction",
+      "*Inhibitor of Apoptosis Proteins/metabolism",
+      "Ubiquitination",
+      "*Ubiquitin-Protein Ligases/metabolism",
+      "Lipopolysaccharides/pharmacology",
+      "Disease Progression",
+      "Cell Line",
+      "Proteolysis",
+      "HT29 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cheng, Zhiyi",
+        "Yu, Chao",
+        "Liu, Guiyuan",
+        "Su, Bingbing",
+        "Dai, Longfei",
+        "Zhao, Xiaojun",
+        "Huang, Chuanjiang"
+      ],
+      "short_names": [
+        "Cheng Z",
+        "Yu C",
+        "Liu G",
+        "Su B",
+        "Dai L",
+        "Zhao X",
+        "Huang C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China.",
+        "Department of General Surgery, The First Affiliated Hospital of Anhui Medical University, 218 Jixi Road, Hefei, 230022, Anhui Province, China.",
+        "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China.",
+        "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China.",
+        "Department of General Surgery, The First Affiliated Hospital of Anhui Medical University, 218 Jixi Road, Hefei, 230022, Anhui Province, China.",
+        "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China. aquazhao0523@163.com.",
+        "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China. huangjiang2090@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cheng, Zhiyi",
+        "short_name": "Cheng Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Chao",
+        "short_name": "Yu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The First Affiliated Hospital of Anhui Medical University, 218 Jixi Road, Hefei, 230022, Anhui Province, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Guiyuan",
+        "short_name": "Liu G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China."
+        ]
+      },
+      {
+        "full_name": "Su, Bingbing",
+        "short_name": "Su B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Longfei",
+        "short_name": "Dai L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The First Affiliated Hospital of Anhui Medical University, 218 Jixi Road, Hefei, 230022, Anhui Province, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xiaojun",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China. aquazhao0523@163.com."
+        ]
+      },
+      {
+        "full_name": "Huang, Chuanjiang",
+        "short_name": "Huang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The Affiliated Taizhou People's Hospital of Nanjing Medical University, Taizhou School of Clinical Medicine, Nanjing Medical University, Taihu Road No. 366, Taizhou, 225304, China. huangjiang2090@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Inflammation research : official journal of the European Histamine Research Society ... [et al.]"
+    ],
+    "journal_abbrev": [
+      "Inflamm Res"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 05:32",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42786362",
+      "41661096",
+      "30716099",
+      "20466000",
+      "40815948",
+      "38181532",
+      "41485180",
+      "39749701",
+      "26094954",
+      "20184394",
+      "36764096",
+      "39098687",
+      "23524849",
+      "39534992",
+      "25926267",
+      "40689397",
+      "39903348",
+      "23538445",
+      "41314595",
+      "20682767",
+      "39437901",
+      "42503263",
+      "34412652",
+      "23250032",
+      "41838238",
+      "20889926",
+      "31873718",
+      "34394827",
+      "25246529",
+      "41236013",
+      "32849529",
+      "42307721",
+      "27235792",
+      "39006190",
+      "39346531",
+      "26112410",
+      "38844113",
+      "41763137",
+      "42314811",
+      "29959727",
+      "25275296",
+      "40907407",
+      "42322763",
+      "33296813",
+      "40522528",
+      "42165681",
+      "39164890",
+      "41031501",
+      "29378181",
+      "36691639",
+      "15258597",
+      "36173058",
+      "16009713",
+      "40330488",
+      "41130088",
+      "26634571",
+      "41709237",
+      "37187359",
+      "34747340",
+      "15536066",
+      "41741720",
+      "39009172",
+      "40526227",
+      "40749954",
+      "41693711",
+      "33539010",
+      "38347777",
+      "26423026",
+      "40540897",
+      "19136968",
+      "41370975",
+      "40701122",
+      "20577214",
+      "30477744",
+      "39752341",
+      "36332386",
+      "20353939",
+      "25736746",
+      "40223121",
+      "23441730",
+      "39271472",
+      "42148126",
+      "31885422",
+      "40049341",
+      "23297344",
+      "26988706",
+      "38380568",
+      "19897484",
+      "24942881",
+      "30170968",
+      "39991681",
+      "26525107",
+      "18775672",
+      "20804734",
+      "41161626",
+      "27893428",
+      "33010352",
+      "42398207",
+      "25423073",
+      "35085745"
+    ],
+    "review": [
+      "42786362",
+      "41236013"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

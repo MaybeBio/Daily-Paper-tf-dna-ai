@@ -1,0 +1,294 @@
+{
+  "identity": {
+    "pmid": "42787726",
+    "doi": "10.22038/ijbms.2026.95195.20528",
+    "title": "Identification of key genes and pathways involved in trastuzumab resistance in HER2-positive gastric cancer through integrative bioinformatics analysis."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: Trastuzumab resistance limits therapeutic efficacy in HER2-positive gastric cancer, and its systems-level regulatory architecture remains poorly characterized. This study aimed to identify key regulatory modules, biomarkers, and candidate therapeutic targets associated with trastuzumab resistance. MATERIALS AND METHODS: Gene expression profiles from trastuzumab-sensitive and -resistant gastric cancer cell lines (GSE77346) were analyzed to identify differentially expressed genes (DEGs). Protein-protein interaction (PPI) networks were constructed, and hub genes were identified using topology-based methods and clustering. Functional enrichment analysis was performed using Gene Ontology and KEGG pathways. Prognostic relevance was evaluated using TCGA-STAD data via UALCAN. Drug-gene interactions were explored using DrugBank and PHAROS, followed by structural modeling and molecular docking. RESULTS: Trastuzumab resistance was linked to transcription factor-driven reprogramming, cytoskeletal and adhesion remodeling, and receptor tyrosine kinase (RTK) bypass signaling. Eleven hub genes were identified across four functional modules potentially associated with FGFR signaling, epithelial-mesenchymal transition (EMT), and lineage plasticity. Elevated PXDN and CDH2 expression was significantly associated with poor overall survival in TCGA-STAD. Molecular docking provided preliminary in silico evidence for potential interactions between selected compounds, including ADH-1, AGX51, artenimol, and phenethyl isothiocyanate, and candidate targets, including N-cadherin/CDH2, ID3, and vimentin. CONCLUSION: Trastuzumab resistance may involve networks related to transcriptional plasticity, adhesion dynamics, and RTK redundancy. This study provides a hypothesis-generating framework for future biomarker-guided combination strategies, which requires validation in HER2-positive cohorts and experimental models.",
+    "keywords": [
+      "Bioinformatics",
+      "Biomarkers",
+      "Drug resistance",
+      "Gastric cancer",
+      "Gene expression profiling",
+      "HER2",
+      "Protein interaction maps",
+      "Trastuzumab"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Feng",
+        "Mottaghi-Dastjerdi, Negar",
+        "Altameemi, Fatma",
+        "Shahbazi, Behzad",
+        "Ahmadi, Nahid",
+        "Montazeri, Hamed",
+        "Soltany-Rezaee-Rad, Mohammad",
+        "Niazi, Mohammad-Javad",
+        "Yazdani, Fateme",
+        "Morad, Hamed",
+        "Li, Nana"
+      ],
+      "short_names": [
+        "Wang F",
+        "Mottaghi-Dastjerdi N",
+        "Altameemi F",
+        "Shahbazi B",
+        "Ahmadi N",
+        "Montazeri H",
+        "Soltany-Rezaee-Rad M",
+        "Niazi MJ",
+        "Yazdani F",
+        "Morad H",
+        "Li N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Henan Key Laboratory of Medical Tissue Regeneration, Henan Medical University, Xinxiang, Henan 453003, China.",
+        "Central Laboratory, Peking University Shenzhen Hospital, Shenzhen 518036, P.R. China.",
+        "Department of Pharmacognosy and Pharmaceutical Biotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran.",
+        "Department of Pharmacognosy and Pharmaceutical Biotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran.",
+        "School of Pharmacy, Semnan University of Medical Sciences, Semnan, Iran.",
+        "Nervous System Stem Cells Research Center, Semnan University of Medical Sciences, Semnan, Iran.",
+        "School of Pharmacy, Semnan University of Medical Sciences, Semnan, Iran.",
+        "Department of Pharmacognosy and Pharmaceutical Biotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran.",
+        "Behestan Innovation Factory, Behestan Darou, Tehran, Iran.",
+        "Pharmaceutical Sciences and Cosmetic Products Research Center, Kerman University of Medical Sciences, Kerman, Iran.",
+        "Department of Pharmacognosy and Pharmaceutical Biotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran.",
+        "Department of Pharmaceutics and Pharmaceutical Nanotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran.",
+        "Henan Key Laboratory of Medical Tissue Regeneration, School of Basic Medical Sciences, Henan Medical University, Xinxiang, Henan 453003, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Feng",
+        "short_name": "Wang F",
+        "identifiers": [],
+        "affiliations": [
+          "Henan Key Laboratory of Medical Tissue Regeneration, Henan Medical University, Xinxiang, Henan 453003, China.",
+          "Central Laboratory, Peking University Shenzhen Hospital, Shenzhen 518036, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Mottaghi-Dastjerdi, Negar",
+        "short_name": "Mottaghi-Dastjerdi N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacognosy and Pharmaceutical Biotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Altameemi, Fatma",
+        "short_name": "Altameemi F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacognosy and Pharmaceutical Biotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Shahbazi, Behzad",
+        "short_name": "Shahbazi B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Semnan University of Medical Sciences, Semnan, Iran.",
+          "Nervous System Stem Cells Research Center, Semnan University of Medical Sciences, Semnan, Iran."
+        ]
+      },
+      {
+        "full_name": "Ahmadi, Nahid",
+        "short_name": "Ahmadi N",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Semnan University of Medical Sciences, Semnan, Iran."
+        ]
+      },
+      {
+        "full_name": "Montazeri, Hamed",
+        "short_name": "Montazeri H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacognosy and Pharmaceutical Biotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Soltany-Rezaee-Rad, Mohammad",
+        "short_name": "Soltany-Rezaee-Rad M",
+        "identifiers": [],
+        "affiliations": [
+          "Behestan Innovation Factory, Behestan Darou, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Niazi, Mohammad-Javad",
+        "short_name": "Niazi MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmaceutical Sciences and Cosmetic Products Research Center, Kerman University of Medical Sciences, Kerman, Iran."
+        ]
+      },
+      {
+        "full_name": "Yazdani, Fateme",
+        "short_name": "Yazdani F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacognosy and Pharmaceutical Biotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Morad, Hamed",
+        "short_name": "Morad H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutics and Pharmaceutical Nanotechnology, School of Pharmacy, Iran University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Li, Nana",
+        "short_name": "Li N",
+        "identifiers": [],
+        "affiliations": [
+          "Henan Key Laboratory of Medical Tissue Regeneration, School of Basic Medical Sciences, Henan Medical University, Xinxiang, Henan 453003, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Iranian journal of basic medical sciences"
+    ],
+    "journal_abbrev": [
+      "Iran J Basic Med Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 11:45",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42787726",
+      "42053674",
+      "30134903",
+      "31949544",
+      "41291892",
+      "36202277",
+      "42477639",
+      "41044520",
+      "33437215",
+      "28286209",
+      "39945271",
+      "41660919",
+      "31452801",
+      "42074497",
+      "35996248",
+      "42278407",
+      "42063729",
+      "39108112",
+      "41511918",
+      "40628511",
+      "42486346",
+      "42180958",
+      "40574839",
+      "35935587",
+      "42599654",
+      "41872824",
+      "32243390",
+      "41350832",
+      "42373220",
+      "42257259",
+      "30132538",
+      "42348043",
+      "34553293",
+      "37584004",
+      "42475371",
+      "41500779",
+      "40883024",
+      "41478499",
+      "39251231",
+      "41451347",
+      "40419050",
+      "40843941",
+      "30221743",
+      "42445417",
+      "41804278",
+      "41716413",
+      "30975489",
+      "34218797",
+      "42353827",
+      "41492010",
+      "39554734",
+      "39780215",
+      "26909918",
+      "41288681",
+      "29081411",
+      "41751534",
+      "38142454",
+      "40328901",
+      "31987036",
+      "28914394",
+      "42700077",
+      "41300749",
+      "41385176",
+      "32775256",
+      "36514015",
+      "40406126",
+      "30358191",
+      "33767726",
+      "42319418",
+      "40828203",
+      "31428132",
+      "41090333",
+      "30213925",
+      "38062833",
+      "41163265",
+      "40898538",
+      "38809634",
+      "31127138",
+      "40419032",
+      "40544210",
+      "31173190",
+      "42391245",
+      "29063236",
+      "34686186",
+      "30952707",
+      "31258663",
+      "41533020",
+      "41664335",
+      "30621694",
+      "32058995",
+      "41455917",
+      "30002985",
+      "39122832",
+      "42274933",
+      "42724573",
+      "41189173",
+      "32922167",
+      "39874011",
+      "36927770",
+      "40926543"
+    ],
+    "review": [
+      "42787726"
+    ],
+    "pmc": [
+      "13602869"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

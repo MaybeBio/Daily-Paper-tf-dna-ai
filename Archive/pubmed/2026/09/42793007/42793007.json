@@ -1,0 +1,277 @@
+{
+  "identity": {
+    "pmid": "42793007",
+    "doi": "10.3390/genes17091113",
+    "title": "A Database-Derived Phthalate Ester-Ankylosing Spondylitis Signature Identifies an AP-1/CXCL8 Inflammatory Classical-Monocyte Program."
+  },
+  "content": {
+    "abstract": "Objectives: We tested whether a database-derived phthalate ester (PAE)-ankylosing spondylitis (AS) candidate panel identifies an inflammatory transcriptional program and characterized its transcription-factor (TF) architecture. Methods: Machine learning prioritization and repeated nested cross-validation were followed by locked-model transfer from GSE73754 to GSE25101. Donor-level single-cell analyses included 96,746 peripheral blood mononuclear cells from 10 AS and 29 healthy-control donors (GSE194315), with corroboration assessed in 25 additional baseline AS patients (GSE277117). Results: Within classical monocytes, the continuous signature covaried with panel-excluded TNF-alpha/NF-kappaB signaling (rho = 0.571; q = 0.000729), inflammatory response (rho = 0.447; q = 0.0108), and eight of 10 AP-1-related TF activities. Target-excluded TF activities covaried with CXCL8 (8/10) and IL1B (10/10). AP-1-gene/CXCL8 co-expression received partial corroboration in the additional AS cohort (JUN-CXCL8: rho = 0.92). Among 16 genes prioritized from 473 shared candidates, CXCL8, IL2RB, STAT5B and TNF were stable. The locked 14-gene model achieved an area under the receiver-operating-characteristic curve of 0.770 (DeLong 95% confidence interval, 0.596-0.943), supporting partial rank transportability. Secondary analyses showed a lower CD56bright fraction among natural killer (NK) cells in AS (-2.699 percentage points; 95% confidence interval, -4.575 to -0.611; q = 0.0498) and reduced NK-cell JUN expression (log(2) fold change = -0.995; adjusted p = 0.0497). Conclusions: The PAE-AS signature identifies an AP-1/CXCL8-associated classical-monocyte inflammatory program, with partial cross-cohort corroboration and secondary NK alterations, providing candidates for exposure-informed mechanistic studies.",
+    "keywords": [
+      "AP-1",
+      "CXCL8",
+      "ankylosing spondylitis",
+      "classical monocytes",
+      "phthalate esters",
+      "single-cell RNA sequencing",
+      "transcriptomic signature"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Transcription Factor AP-1/genetics/metabolism",
+      "*Monocytes/metabolism",
+      "*Spondylitis, Ankylosing/genetics/metabolism/pathology",
+      "*Interleukin-8/genetics/metabolism",
+      "*Phthalic Acids",
+      "Female",
+      "Inflammation/genetics",
+      "Male",
+      "Signal Transduction",
+      "Leukocytes, Mononuclear/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Luo, Xiqing",
+        "Zheng, Xuqi",
+        "Xu, Wenyu",
+        "Guo, Dan",
+        "Jia, Xinlei",
+        "Gu, Jieruo",
+        "Zhao, Xiaoyi",
+        "Jiang, Yutong"
+      ],
+      "short_names": [
+        "Luo X",
+        "Zheng X",
+        "Xu W",
+        "Guo D",
+        "Jia X",
+        "Gu J",
+        "Zhao X",
+        "Jiang Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0520-0688",
+        "ORCID: 0000-0002-8785-0600",
+        "ORCID: 0000-0001-6558-4201"
+      ],
+      "affiliations": [
+        "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China.",
+        "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China.",
+        "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China.",
+        "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China.",
+        "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China.",
+        "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China.",
+        "Department of Joint Surgery, First Affiliated Hospital of Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Luo, Xiqing",
+        "short_name": "Luo X",
+        "identifiers": [
+          "0000-0003-0520-0688"
+        ],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Xuqi",
+        "short_name": "Zheng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Wenyu",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Dan",
+        "short_name": "Guo D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Xinlei",
+        "short_name": "Jia X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Jieruo",
+        "short_name": "Gu J",
+        "identifiers": [
+          "0000-0002-8785-0600"
+        ],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xiaoyi",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Joint Surgery, First Affiliated Hospital of Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yutong",
+        "short_name": "Jiang Y",
+        "identifiers": [
+          "0000-0001-6558-4201"
+        ],
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes"
+    ],
+    "journal_abbrev": [
+      "Genes (Basel)"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42793007",
+      "42123445",
+      "40296690",
+      "42758243",
+      "39853176",
+      "42650131",
+      "26071024",
+      "42113191",
+      "38914997",
+      "20507572",
+      "32765525",
+      "35275449",
+      "41956229",
+      "30157966",
+      "40637912",
+      "32596323",
+      "31206174",
+      "30362547",
+      "22095787",
+      "42026465",
+      "22512945",
+      "42079590",
+      "41526902",
+      "19734226",
+      "29940800",
+      "39372399",
+      "41310117",
+      "27921117",
+      "30125599",
+      "39759509",
+      "39503542",
+      "38160870",
+      "35634297",
+      "37706515",
+      "33173081",
+      "26044852",
+      "24488416",
+      "23467542",
+      "41291215",
+      "34880858",
+      "34497300",
+      "39888372",
+      "41645291",
+      "40879186",
+      "12162440",
+      "30208882",
+      "25201625",
+      "42424309",
+      "29530480",
+      "21470430",
+      "25928089",
+      "25835314",
+      "29672044",
+      "42464264",
+      "28950654",
+      "41593306",
+      "31105691",
+      "24593209",
+      "27132513",
+      "31634687",
+      "33037057",
+      "16116219",
+      "20656372",
+      "31711818",
+      "42789536",
+      "22441735",
+      "24598028",
+      "39661293",
+      "42283084",
+      "42567964",
+      "17401435",
+      "34994057",
+      "35089186",
+      "41345114",
+      "17918746",
+      "24163071",
+      "39468794",
+      "38349399",
+      "31978612",
+      "39814058",
+      "42337796",
+      "40605292",
+      "24035785",
+      "42285508",
+      "42192776",
+      "40183401",
+      "41646974",
+      "12600818",
+      "39092763",
+      "34722158",
+      "39727004",
+      "41209011",
+      "39849490",
+      "33569050",
+      "12631113",
+      "23246696",
+      "28971528",
+      "22939387",
+      "42635554",
+      "24943264"
+    ],
+    "review": [
+      "42793007",
+      "23246696"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

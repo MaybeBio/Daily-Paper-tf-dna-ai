@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "42764870",
+    "doi": "10.30476/ijms.2026.109449.4477",
+    "title": "Mulberrofuran G Induces Apoptosis and Cell Cycle Arrest Through Suppression of the JAK2/STAT3 Pathway by Direct JAK2 Inhibition and Reactive Oxygen Species Induction in the NCI-H460 Cell Line."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Large cell lung carcinoma (LCLC) is an aggressive non-small cell lung cancer subtype. Mulberrofuran G (MG) from Morus alba L. possesses pharmacological properties, but its anticancer mechanisms in LCLC remain unexplored. This study aimed to validate the antitumor activity of MG against NCI-H460 cells and elucidate its dual mechanism involving Janus kinase 2 (JAK2) inhibition and reactive oxygen species (ROS) induction. METHODS: This study was conducted at the Nanjing University of Chinese Medicine and China Pharmaceutical University, Nanjing, China, from 2023 to 2025. Cell viability was assessed via 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT). Flow cytometry using annexin V-fluorescein isothiocyanate (FITC)/propidium iodide (PI), 2',7'-dichlorodihydrofluorescein diacetate (DCFH-DA), and 5,5',6,6'-tetrachloro-1,1',3,3'-tetraethylbenzimidazolylcarbocyanine iodide (JC-1) measured apoptosis, cell cycle, ROS, and mitochondrial membrane potential (MMP). Western blot analyzed p21, cyclin B1, caspases3/7/9, cleaved caspases3/7/9, poly(ADP-ribose) polymerase (PARP), cleaved PARP, JAK2, p-JAK2, signal transducer and activator of transcription 3 (STAT3) and p-STAT3. Interactions were confirmed via docking, cellular thermal shift assay, and ADP-Glo. In vivo efficacy was evaluated in zebrafish. Data analysis was performed using GraphPad Prism 8.0. Statistical significance was determined using Student's t test or one-way/two-way ANOVA followed by Tukey's post hoc test (P<0.05). RESULTS: MG suppressed proliferation (IC(50)=9.90 muM), induced G2/M arrest, and triggered mitochondrial apoptosis. MG inhibited JAK2/STAT3 via direct kinase inhibition (IC(50)=17.17 muM) and ROS-mediated suppression. N-acetylcysteine (NAC) reversed these effects. Zebrafish tumor growth decreased by 19.7% (P<0.05). CONCLUSION: MG exerts anticancer effects against LCLC by inducing ROS accumulation and dual suppression of the JAK2/STAT3 pathway, highlighting its potential as a therapeutic candidate.",
+    "keywords": [
+      "Janus Kinase 2",
+      "Mulberrofuran G",
+      "Reactive Oxygen Species",
+      "STAT3 Transcription Factor"
+    ],
+    "mesh_terms": [
+      "*Reactive Oxygen Species/metabolism",
+      "*Janus Kinase 2/antagonists & inhibitors/metabolism/drug effects",
+      "Humans",
+      "*STAT3 Transcription Factor/metabolism/drug effects",
+      "*Apoptosis/drug effects",
+      "Cell Line, Tumor",
+      "Animals",
+      "Zebrafish",
+      "Signal Transduction/drug effects",
+      "*Cell Cycle Checkpoints/drug effects",
+      "*Lung Neoplasms/drug therapy",
+      "Cell Survival/drug effects",
+      "Carcinoma, Non-Small-Cell Lung/drug therapy"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Zhong-Rui",
+        "Zheng, Yu",
+        "Han, Chao",
+        "Wang, Lei"
+      ],
+      "short_names": [
+        "Li ZR",
+        "Zheng Y",
+        "Han C",
+        "Wang L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Rehabilitation, College of Acupuncture and Moxibustion and Massage Health Preservation and Rehabilitation, Nanjing University of Chinese Medicine, Nanjing, No. 138 Xianlin Avenue, Nanjing 210023, China.",
+        "Department of Rehabilitation, College of Acupuncture and Moxibustion and Massage Health Preservation and Rehabilitation, Nanjing University of Chinese Medicine, Nanjing, No. 138 Xianlin Avenue, Nanjing 210023, China.",
+        "State Key Laboratory of Natural Medicines, Jiangsu Key Laboratory of Bioactive Natural Product Research, School of Traditional Chinese Pharmacy, China Pharmaceutical University, 639 Longmian Avenue, Nanjing 211198, China.",
+        "Department of Rehabilitation, College of Acupuncture and Moxibustion and Massage Health Preservation and Rehabilitation, Nanjing University of Chinese Medicine, Nanjing, No. 138 Xianlin Avenue, Nanjing 210023, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Zhong-Rui",
+        "short_name": "Li ZR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rehabilitation, College of Acupuncture and Moxibustion and Massage Health Preservation and Rehabilitation, Nanjing University of Chinese Medicine, Nanjing, No. 138 Xianlin Avenue, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Yu",
+        "short_name": "Zheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rehabilitation, College of Acupuncture and Moxibustion and Massage Health Preservation and Rehabilitation, Nanjing University of Chinese Medicine, Nanjing, No. 138 Xianlin Avenue, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Han, Chao",
+        "short_name": "Han C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, Jiangsu Key Laboratory of Bioactive Natural Product Research, School of Traditional Chinese Pharmacy, China Pharmaceutical University, 639 Longmian Avenue, Nanjing 211198, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lei",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rehabilitation, College of Acupuncture and Moxibustion and Massage Health Preservation and Rehabilitation, Nanjing University of Chinese Medicine, Nanjing, No. 138 Xianlin Avenue, Nanjing 210023, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Iranian journal of medical sciences"
+    ],
+    "journal_abbrev": [
+      "Iran J Med Sci"
+    ],
+    "pub_date": "2026 Aug",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 05:34",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42764870",
+      "30599913",
+      "30194286",
+      "35116094",
+      "29433670",
+      "42633541",
+      "40362240",
+      "32576206",
+      "32062649",
+      "28560439",
+      "34146943",
+      "31264277",
+      "40617363",
+      "29860266",
+      "32219484",
+      "41160097",
+      "28670110",
+      "32106377",
+      "23313376",
+      "31893999",
+      "40424981",
+      "30668391",
+      "29408335",
+      "23880305",
+      "32504672",
+      "33744595",
+      "32626938",
+      "22050790",
+      "34627931",
+      "40649917",
+      "28880428",
+      "24481553",
+      "41520926",
+      "26987028",
+      "41499346",
+      "40583489",
+      "34353270",
+      "25023896",
+      "29960031",
+      "42373516",
+      "36371217",
+      "29521586",
+      "27122665",
+      "30194164",
+      "27726288",
+      "31852250",
+      "37671837",
+      "33376719",
+      "31322237",
+      "38335913",
+      "32070026",
+      "30129052",
+      "40641026",
+      "31790894",
+      "36332079",
+      "39489359",
+      "40879881",
+      "31215445",
+      "41987739",
+      "23085518",
+      "41477983",
+      "42399563",
+      "31014051",
+      "41987738",
+      "38723526",
+      "30916421",
+      "31432559",
+      "30717771",
+      "30070696",
+      "34429133",
+      "41735617",
+      "31648127",
+      "32629602",
+      "34643254",
+      "41673646",
+      "38287817",
+      "31219101",
+      "26386574",
+      "29565730",
+      "38518635",
+      "40295067",
+      "38505087",
+      "42303055",
+      "28986085",
+      "42044554",
+      "41181138",
+      "29073599",
+      "32004989",
+      "30698296",
+      "26585176",
+      "26843613",
+      "33710777",
+      "39431929",
+      "23032719",
+      "30539827",
+      "25684945",
+      "34997858",
+      "30003721",
+      "31786862",
+      "39780129"
+    ],
+    "review": [
+      "42764870"
+    ],
+    "pmc": [
+      "13589821"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42764870/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GSTP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

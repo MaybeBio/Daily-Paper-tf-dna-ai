@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42788369",
+    "doi": "10.3892/mmr.2026.14032",
+    "title": "BMAL1 in cardiovascular diseases: Molecular mechanisms, circadian regulation and translational perspectives (Review)."
+  },
+  "content": {
+    "abstract": "Brain and muscle ARNT‑like 1 (BMAL1) is a core transcription factor of the molecular circadian clock and links daily timing with cardiovascular electrophysiology, metabolism, vascular function and inflammation. Altered BMAL1 expression or rhythmicity has been reported in arrhythmias, atherosclerosis, myocardial ischemia/reperfusion injury and heart failure. However, its specific role has remained elusive, as local effects in cardiovascular cells are often mixed with the broader effects of whole‑body circadian disruption. The present review addressed this gap by separating evidence from central and peripheral clocks, cell‑specific and systemic models, and experimental and human studies. Cardiomyocyte‑specific models provide relatively direct evidence that the local clock supports electrical stability, substrate use, mitochondrial homeostasis and contractile function. However, in endothelial cells, vascular smooth muscle cells and immune cells, the effects of BMAL1 are more variable and depend on cell type, metabolic conditions, disease stage and circadian phase. Human evidence remains mainly associative, whereas most mechanistic findings come from cell and animal studies. The present review also assessed small‑molecule clock modulators, chronotherapy and non‑pharmacological interventions, as well as time‑resolved multi‑omics and machine‑learning approaches. Current evidence does not support viewing BMAL1 as simply protective or harmful. A selective BMAL1‑binding small molecule has recently been identified, but its cardiovascular efficacy and safety have not been established. In addition, the clinical benefits of chronotherapy vary across treatments and patients. Further translation will require tissue‑specific human models, repeated sampling across biological time and prospective studies of treatment guided by individual circadian phases.",
+    "keywords": [
+      "BMAL1",
+      "arrhythmia",
+      "atherosclerosis",
+      "cardiovascular diseases",
+      "chronotherapy",
+      "circadian rhythm",
+      "molecular mechanisms"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*ARNTL Transcription Factors/metabolism/genetics",
+      "*Cardiovascular Diseases/metabolism/genetics",
+      "Animals",
+      "*Circadian Rhythm/genetics",
+      "Circadian Clocks",
+      "Gene Expression Regulation",
+      "Translational Research, Biomedical"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liang, Yu",
+        "Chen, Tingjin",
+        "Wen, Xuemei",
+        "Liu, Dan",
+        "Zhang, Zhongjian",
+        "Li, Weiqing",
+        "Zhang, Hengdi"
+      ],
+      "short_names": [
+        "Liang Y",
+        "Chen T",
+        "Wen X",
+        "Liu D",
+        "Zhang Z",
+        "Li W",
+        "Zhang H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Anesthesiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China.",
+        "Department of Orthopedics, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China.",
+        "Department of Anesthesiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China.",
+        "Department of Anesthesiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China.",
+        "Department of Cardiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China.",
+        "Department of Anesthesiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China.",
+        "Department of Ophthalmology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liang, Yu",
+        "short_name": "Liang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Tingjin",
+        "short_name": "Chen T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wen, Xuemei",
+        "short_name": "Wen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dan",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhongjian",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Weiqing",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hengdi",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, The General Hospital of Western Theater Command, Chengdu, Sichuan 610083, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular medicine reports"
+    ],
+    "journal_abbrev": [
+      "Mol Med Rep"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 11:45",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42788369",
+      "41773187",
+      "31249486",
+      "42552801",
+      "39633575",
+      "37183795",
+      "26843191",
+      "41120819",
+      "39541665",
+      "39277824",
+      "42410465",
+      "32352975",
+      "42475469",
+      "40429770",
+      "36802963",
+      "39447118",
+      "41486525",
+      "41116204",
+      "33087455",
+      "33791812",
+      "42189225",
+      "42404908",
+      "38183795",
+      "39658371",
+      "36376366",
+      "37793502",
+      "39442875",
+      "41608773",
+      "41955950",
+      "39699314",
+      "37761843",
+      "26692477",
+      "32078488",
+      "38981930",
+      "41108717",
+      "41498810",
+      "26486627",
+      "42186698",
+      "36675058",
+      "23755214",
+      "29371216",
+      "35223537",
+      "42293739",
+      "32019867",
+      "42484698",
+      "31958455",
+      "29626158",
+      "25939854",
+      "38257148",
+      "37819791",
+      "40049242",
+      "40307620",
+      "32357113",
+      "42123667",
+      "27022680",
+      "41752176",
+      "31265956",
+      "21364973",
+      "41243864",
+      "31918914",
+      "35728080",
+      "34341001",
+      "37909373",
+      "37052172",
+      "41203036",
+      "19861541",
+      "39870641",
+      "32522976",
+      "42268717",
+      "21721853",
+      "36748191",
+      "24728990",
+      "31408938",
+      "42274140",
+      "31173839",
+      "23364267",
+      "34807912",
+      "37342417",
+      "40935205",
+      "25512305",
+      "32222559",
+      "40394734",
+      "39000480",
+      "29305918",
+      "25238855",
+      "39959169",
+      "30064996",
+      "36595671",
+      "20956306",
+      "35903031",
+      "31515273",
+      "28421465",
+      "39675587",
+      "39395574",
+      "39007272",
+      "24682203",
+      "35579906",
+      "20930143",
+      "41339276",
+      "26125130"
+    ],
+    "review": [
+      "42788369",
+      "31249486",
+      "42552801",
+      "41120819",
+      "42410465",
+      "40429770",
+      "41116204",
+      "42189225",
+      "42404908",
+      "37761843",
+      "41108717",
+      "41498810",
+      "42186698",
+      "36675058",
+      "42293739",
+      "41243864",
+      "34341001",
+      "39870641",
+      "42274140",
+      "31173839",
+      "40935205",
+      "25512305",
+      "29305918",
+      "28421465",
+      "39007272",
+      "41339276"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

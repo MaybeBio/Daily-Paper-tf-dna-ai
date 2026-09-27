@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "42766563",
+    "doi": "10.1371/journal.pone.0357971",
+    "title": "Single-cell RNA-seq and machine learning identify HMGN2 as a lactylation-associated hub gene in heart failure."
+  },
+  "content": {
+    "abstract": "Heart failure (HF) is a diverse condition characterized by dysregulated lactate metabolism and histone lactylation, which may contribute to maladaptive cardiac remodeling. However, the cell type-specific mechanisms underlying these processes remain poorly understood. To address this gap, we integrated single-cell RNA sequencing (scRNA-seq) data from human failing and non-failing control hearts and assessed lactylation activity across identified cell types using multiple gene set scoring methods. Uniform manifold approximation and projection (UMAP) analysis revealed that fibroblasts and smooth muscle cells (SMC) exhibited the highest lactylation signature scores, with overall lactylation activity considerably higher in HF compared to controls. Seven potential lactylation-related genes (LRGs) were found using machine learning algorithms, including Boruta, Random Forest, LASSO, and XGBoost. Among these, HMGN2, NUCKS1, and VIM were significantly upregulated in HF, with HMGN2 demonstrating the highest consistency across datasets as a reliable biomarker. Gene set enrichment analysis (GSEA) and transcription factor-miRNA (TF-miRNA) regulatory network analysis connected HMGN2 to immune-inflammatory signaling pathways and protein homeostasis dysregulation. Pseudotime trajectory and intercellular interaction analyses further indicated a progressive rise in lactylation scores and HMGN2 expression along fibroblast and smooth muscle cell differentiation paths, suggesting potential crosstalk with immune cells. In vivo validation using a mouse model of pressure overload-induced HF confirmed cardiac hypertrophy and fibrosis, accompanied by increased HMGN2 expression. These results indicate that lactylation activity is selectively enhanced in HF and identify HMGN2 as a candidate hub gene associated with HF progression. This integrative multi-omics study provides the first cell-type-resolved map of lactylation in HF and highlights HMGN2 as a promising therapeutic target.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Heart Failure/genetics/metabolism/pathology",
+      "Animals",
+      "*Machine Learning",
+      "Mice",
+      "Single-Cell Gene Expression Analysis",
+      "RNA-Seq",
+      "Single-Cell Analysis/methods",
+      "Male",
+      "Gene Regulatory Networks",
+      "Fibroblasts/metabolism",
+      "Myocytes, Smooth Muscle/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Anzhen",
+        "Li, Yanbo",
+        "Gong, Qing",
+        "Sun, Hanrui",
+        "Shi, Jiayu",
+        "Li, Jingyu",
+        "Gu, Pengyang",
+        "Shi, Jixu",
+        "Li, Xiang",
+        "Lu, Qi"
+      ],
+      "short_names": [
+        "Xu A",
+        "Li Y",
+        "Gong Q",
+        "Sun H",
+        "Shi J",
+        "Li J",
+        "Gu P",
+        "Shi J",
+        "Li X",
+        "Lu Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2849-6488"
+      ],
+      "affiliations": [
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China.",
+        "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Anzhen",
+        "short_name": "Xu A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yanbo",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Qing",
+        "short_name": "Gong Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Hanrui",
+        "short_name": "Sun H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Jiayu",
+        "short_name": "Shi J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jingyu",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Pengyang",
+        "short_name": "Gu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Jixu",
+        "short_name": "Shi J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiang",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Qi",
+        "short_name": "Lu Q",
+        "identifiers": [
+          "0000-0002-2849-6488"
+        ],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Nantong University, Nantong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 17:47",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42766563",
+      "42045413",
+      "42642681",
+      "41756296",
+      "42650150",
+      "42737862",
+      "40914702",
+      "41126838",
+      "41789108",
+      "42140576",
+      "42468380",
+      "42024670",
+      "41139200",
+      "42292364",
+      "41252712",
+      "41504052",
+      "41436831",
+      "41376590",
+      "42185567",
+      "40642071",
+      "40404675",
+      "40405297",
+      "42098867",
+      "42743238",
+      "42288847",
+      "40589764",
+      "40169651",
+      "41852026",
+      "39762897",
+      "41310117",
+      "41948341",
+      "41388523",
+      "41438766",
+      "42361012",
+      "42625671",
+      "42123445",
+      "41484613",
+      "39929468",
+      "41422136",
+      "41208987",
+      "42074521",
+      "41638162",
+      "42694321",
+      "40301103",
+      "41716413",
+      "38664790",
+      "41080156",
+      "40296690",
+      "41836446",
+      "41262249",
+      "40406620",
+      "42580240",
+      "42249649",
+      "42148089",
+      "41200169",
+      "42400038",
+      "41246341",
+      "42253954",
+      "42192326",
+      "41393260",
+      "41137708",
+      "41009952",
+      "42003657",
+      "39926598",
+      "41246346",
+      "41939867",
+      "42309401",
+      "41886545",
+      "41801247",
+      "42361409",
+      "42361107",
+      "40630963",
+      "42565562",
+      "40894480",
+      "41107929",
+      "40873619",
+      "42707758",
+      "39026663",
+      "39014455",
+      "42135859",
+      "41189222",
+      "40258553",
+      "35198060",
+      "42639091",
+      "41601671",
+      "40503237",
+      "34218797",
+      "41665703",
+      "40859550",
+      "42745923",
+      "40967560",
+      "42516950",
+      "41065575",
+      "41583446",
+      "41691090",
+      "41955702",
+      "41878449",
+      "42149287",
+      "42358997",
+      "41733593"
+    ],
+    "review": [
+      "42766563"
+    ],
+    "pmc": [
+      "13592623"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/heartfailure.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Heart Failure"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0357971",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42766563/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GZMA-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-297",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

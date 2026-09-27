@@ -1,0 +1,263 @@
+{
+  "identity": {
+    "pmid": "42778074",
+    "doi": "10.1016/j.plantsci.2026.113465",
+    "title": "Molecular mechanisms of WRKY transcription factors integrating environmental signals to regulate flowering time in brassica crops."
+  },
+  "content": {
+    "abstract": "Flowering time is a critical developmental process that directly influences reproductive success, environmental adaptation, and agricultural productivity in Brassica crops. Recent climate instability, including drought, temperature fluctuations, salinity, and irregular photoperiods, has intensified the need to understand the molecular mechanisms regulating flowering adaptation. WRKY transcription factors are key integrators of flowering time. They connect environmental cues, hormone networks, and circadian rhythms to floral regulator genes. This review summarizes the structural, evolutionary, and functional characteristics of WRKY transcription factors involved in flowering regulation in Brassica species. Current evidence indicates that WRKY transcription factors contribute to flowering-time regulation through direct or indirect modulation of floral regulators, including FT, SOC1, and LFY. However, much of the mechanistic evidence originates from Arabidopsis, and the direct regulatory relationships between WRKY proteins and major flowering genes, particularly FLC, remain insufficiently characterized in Brassica species. Transcriptomics, epigenomics, proteomics, single-cell sequencing, and CRISPR/Cas genome editing further reveal that WRKY proteins participate in regulatory networks associated with photoperiodic signalling, vernalization, gibberellin pathways, stress-responsive flowering, and hormonal crosstalk. Comparative genomics demonstrates substantial expansion of WRKY gene families through genome triplication and polyploidization. However, limited functional validation and incomplete regulatory network mapping remain major challenges. Integrating multi-omics, artificial intelligence-assisted systems biology, genomic selection, and precision genome editing will accelerate development of climate-resilient, early-maturing Brassica cultivars.",
+    "keywords": [
+      "Brassica crops",
+      "CRISPR/Cas genome editing",
+      "Flowering time regulation",
+      "Multi-omics breeding, molecular mechanisms",
+      "WRKY transcription factors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Raihan, Madeeha",
+        "Younas, Itezaz",
+        "Su, Shuowei",
+        "Xu, Ling"
+      ],
+      "short_names": [
+        "Raihan M",
+        "Younas I",
+        "Su S",
+        "Xu L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310018, China.",
+        "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310018, China.",
+        "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310018, China.",
+        "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310018, China. Electronic address: lxu@zstu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Raihan, Madeeha",
+        "short_name": "Raihan M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310018, China."
+        ]
+      },
+      {
+        "full_name": "Younas, Itezaz",
+        "short_name": "Younas I",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310018, China."
+        ]
+      },
+      {
+        "full_name": "Su, Shuowei",
+        "short_name": "Su S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310018, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ling",
+        "short_name": "Xu L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310018, China. Electronic address: lxu@zstu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant science : an international journal of experimental plant biology"
+    ],
+    "journal_abbrev": [
+      "Plant Sci"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 23:56",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42778074",
+      "38943100",
+      "42278532",
+      "41455554",
+      "41524271",
+      "42475469",
+      "36426143",
+      "41127082",
+      "15695467",
+      "38657548",
+      "42405245",
+      "41470737",
+      "41014325",
+      "42337708",
+      "42464962",
+      "42625132",
+      "19825833",
+      "24078668",
+      "40629701",
+      "38469328",
+      "33633752",
+      "41125905",
+      "30466595",
+      "42494486",
+      "27322342",
+      "42210061",
+      "23972083",
+      "24651369",
+      "33990176",
+      "42452230",
+      "22268548",
+      "37199824",
+      "37294468",
+      "38857658",
+      "42749958",
+      "29755488",
+      "42720682",
+      "42793303",
+      "42440004",
+      "40526281",
+      "24146023",
+      "25481634",
+      "37567454",
+      "33464960",
+      "26586176",
+      "32126279",
+      "40915600",
+      "42470486",
+      "27499678",
+      "42690503",
+      "32996462",
+      "30453667",
+      "34773977",
+      "42525171",
+      "42637143",
+      "25355864",
+      "38879987",
+      "38658145",
+      "42092221",
+      "42663034",
+      "29258434",
+      "41419818",
+      "42658291",
+      "41707988",
+      "29943206",
+      "12940954",
+      "23991184",
+      "41546796",
+      "42353328",
+      "33924895",
+      "16600915",
+      "34608238",
+      "42469498",
+      "41611488",
+      "36077286",
+      "41987653",
+      "41777051",
+      "39674274",
+      "39945922",
+      "26419915",
+      "41669967",
+      "18606145",
+      "40963829",
+      "41762232",
+      "37633768",
+      "31257648",
+      "39765746",
+      "27446143",
+      "42510877",
+      "42104274",
+      "23425850",
+      "31222475",
+      "42245112",
+      "42675177",
+      "40220668",
+      "42123309",
+      "39694344",
+      "32369593",
+      "37077206",
+      "40503598"
+    ],
+    "review": [
+      "42778074",
+      "42278532",
+      "41455554",
+      "41524271",
+      "36426143",
+      "38657548",
+      "42405245",
+      "41470737",
+      "42464962",
+      "42625132",
+      "40629701",
+      "33633752",
+      "41125905",
+      "24651369",
+      "42452230",
+      "37294468",
+      "38857658",
+      "42749958",
+      "42720682",
+      "42793303",
+      "42440004",
+      "40526281",
+      "24146023",
+      "37567454",
+      "33464960",
+      "40915600",
+      "42470486",
+      "42690503",
+      "42637143",
+      "42092221",
+      "41707988",
+      "41546796",
+      "42469498",
+      "41611488",
+      "36077286",
+      "41987653",
+      "41777051",
+      "41669967",
+      "40963829",
+      "41762232",
+      "37633768",
+      "39765746",
+      "27446143",
+      "42245112",
+      "42123309",
+      "39694344"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0168-9452(26)00493-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.28386v1",
+  "title": "Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models",
+  "doi": "",
+  "abstract": "Tokenization is a central design choice in genomic language models, yet most deoxyribonucleic acid (DNA) tokenizers use characters, fixed-length k-mers, or frequency-derived subwords without explicitly using prior information about the specificity of DNA-binding regulatory factors. We introduce Motif-Vocab, a biologically informed tokenizer that scans both DNA strands for statistically calibrated motif matches, emits transcription-factor (TF) identity tokens, and applies nucleotide, $k$-mer, or byte-pair encoding (BPE) to unmatched sequence. Motif-specific null distributions put position-weight matrices (PWMs) of different lengths and degeneracy on a common significance scale; deterministic overlap rules make the representation reproducible. In controlled Bidirectional Encoder Representations from Transformers (BERT) pretraining on two billion base pairs, real motif libraries outperform randomized-motif controls on 54 of 55 in-scope downstream tasks. On a motif-disjoint recognition task derived from DART-Eval Task 2, TF-specific tokens improve macro-F1 by 0.040 over a position-matched generic motif token and by 0.033 over a matched no-motif tokenizer (95\\% bootstrap confidence interval: 0.027--0.038). Motif tokens also receive stronger attribution and produce larger occlusion effects than shuffled controls. Dense no-motif tokenizers remain strong general-purpose baselines, including a near-tie on the five-task BERT-base panel. Thus, Motif-Vocab is not a universal accuracy replacement; it is a targeted, interpretable inductive bias for motif-sensitive genomic modeling.",
+  "authors": [
+    "Liangyu Li",
+    "Michael White"
+  ],
+  "published_date": "2026-09-23T16:58:41Z",
+  "updated_date": "2026-09-23T16:58:41Z",
+  "journal": "",
+  "category": "q-bio.GN",
+  "landing_url": "https://arxiv.org/abs/2609.28386v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.28386v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"transcription factor binding\" OR all:\"transcription factor binding site\" OR all:\"TF binding\" OR all:TFBS OR all:\"DNA binding\" OR all:\"DNA-binding\" OR all:\"DNA-binding protein\" OR all:\"protein-DNA interaction\" OR all:\"protein-DNA binding\" OR all:\"DNA-binding factor\" OR all:\"DNA-binding site\" OR all:\"DNA binding site\" OR all:\"protein-DNA binding site\" OR all:\"zinc finger\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"convolutional neural network\" OR all:transformer OR all:\"language model\" OR all:\"foundation model\" OR all:\"diffusion model\" OR all:generative OR all:\"flow matching\" OR all:alphafold OR all:esmfold OR all:rosetta OR all:\"molecular dynamics\" OR all:docking OR all:simulation)\n",
+  "version": "1",
+  "keywords": [
+    "q-bio.GN"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.28386v1",
+    "raw_categories": [
+      "q-bio.GN"
+    ],
+    "journal_ref": ""
+  }
+}

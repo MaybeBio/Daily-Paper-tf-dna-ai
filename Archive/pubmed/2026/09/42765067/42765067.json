@@ -1,0 +1,327 @@
+{
+  "identity": {
+    "pmid": "42765067",
+    "doi": "10.1016/j.bbrep.2026.102785",
+    "title": "Transcriptomic trajectory of hepatocyte ballooning reveals a lipotoxic point of no return and initiates oncogenic regulatory rewiring in MASLD."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Hepatocyte ballooning is a defining histological marker of progressive steatohepatitis, but its molecular basis remains poorly defined. OBJECTIVE: To identify a molecular signature and mechanistic trajectory underlying hepatocyte ballooning across the MASLD-to-hepatocellular carcinoma spectrum. METHODS: Liver microarray data from 43 patients stratified by histological ballooning score were combined with machine-learning feature selection and publicly available single-nucleus RNA sequencing data (87,244 hepatocyte nuclei) to derive a gene signature, tested in an independent bulk transcriptomic cohort (GSE130970, n = 75); pseudotime, transcription-factor regulon and cell-cell communication analyses characterised the underlying biology, with in vitro validation in palmitic acid-treated Huh7 cells and prognostic testing in 510 TCGA-LIHC patients. RESULTS: An eight-gene signature (SPP1, MFSD2A, PRAP1, ANXA2, KRT8, MACROH2A2 (H2AFY2), JUN and FABP4) characterised ballooned hepatocytes and discriminated moderate-to-severe from absent ballooning with an AUC of 0.768 (95% CI 0.654-0.883). Six of these genes formed a Hepatocyte Ballooning-Hepatocyte injury (HBHi) score that was highest in nuclei from cirrhotic (F4) liver. Pseudotime analysis resolved a four-stage molecular collapse culminating at pseudotime  approximately  25, marked by loss of the chromatin stabiliser MACROH2A2, co-induction of KRT8 and SPP1, and replacement of the HNF4A/PPARA-driven programme by the stress factors JUN, ATF3 and EGR1. Ballooned hepatocytes transmitted pro-fibrogenic signals to stellate cells and macrophages via FN1-CD44 and FN1-(ITGAV + ITGB1) axes; high KRT8, JUN and SPP1 expression was each associated with poorer survival in hepatocellular carcinoma. CONCLUSIONS: Hepatocyte ballooning is a transcriptionally active, stepwise process with a lipotoxic point of no return and prognostic relevance extending to hepatocellular carcinoma.",
+    "keywords": [
+      "Hepatocyte ballooning",
+      "MASH",
+      "MASLD",
+      "Machine learning",
+      "Pseudotime",
+      "Single-nucleus RNA sequencing",
+      "WGCNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ganguly, Debopriyo",
+        "Mondal, Bandana",
+        "Das, Subhas",
+        "Dey, Indrashish",
+        "Mandal, Ayan",
+        "Ghosh, Trinath",
+        "Deo, Monalisha",
+        "Ahmed, Misba",
+        "Banerjee, Soma",
+        "Chatterjee, Ankita",
+        "Basu, Priyadarshi"
+      ],
+      "short_names": [
+        "Ganguly D",
+        "Mondal B",
+        "Das S",
+        "Dey I",
+        "Mandal A",
+        "Ghosh T",
+        "Deo M",
+        "Ahmed M",
+        "Banerjee S",
+        "Chatterjee A",
+        "Basu P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+        "Regional Centre for Biotechnology, Government of India, Faridabad, Haryana, India.",
+        "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+        "Regional Centre for Biotechnology, Government of India, Faridabad, Haryana, India.",
+        "Centre for Liver Research, School of Digestive and Liver Diseases, Institute of Post Graduate Medical Education and Research (IPGMER), A.J.C. Bose Road, Kolkata, 700020, India.",
+        "Centre for Liver Research, School of Digestive and Liver Diseases, Institute of Post Graduate Medical Education and Research (IPGMER), A.J.C. Bose Road, Kolkata, 700020, India.",
+        "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+        "Regional Centre for Biotechnology, Government of India, Faridabad, Haryana, India.",
+        "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+        "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+        "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+        "Centre for Liver Research, School of Digestive and Liver Diseases, Institute of Post Graduate Medical Education and Research (IPGMER), A.J.C. Bose Road, Kolkata, 700020, India.",
+        "John C. Martin Center for Liver Research and Innovations, Kolkata, West Bengal, India.",
+        "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+        "Regional Centre for Biotechnology, Government of India, Faridabad, Haryana, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ganguly, Debopriyo",
+        "short_name": "Ganguly D",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+          "Regional Centre for Biotechnology, Government of India, Faridabad, Haryana, India."
+        ]
+      },
+      {
+        "full_name": "Mondal, Bandana",
+        "short_name": "Mondal B",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+          "Regional Centre for Biotechnology, Government of India, Faridabad, Haryana, India."
+        ]
+      },
+      {
+        "full_name": "Das, Subhas",
+        "short_name": "Das S",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Liver Research, School of Digestive and Liver Diseases, Institute of Post Graduate Medical Education and Research (IPGMER), A.J.C. Bose Road, Kolkata, 700020, India."
+        ]
+      },
+      {
+        "full_name": "Dey, Indrashish",
+        "short_name": "Dey I",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Liver Research, School of Digestive and Liver Diseases, Institute of Post Graduate Medical Education and Research (IPGMER), A.J.C. Bose Road, Kolkata, 700020, India."
+        ]
+      },
+      {
+        "full_name": "Mandal, Ayan",
+        "short_name": "Mandal A",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+          "Regional Centre for Biotechnology, Government of India, Faridabad, Haryana, India."
+        ]
+      },
+      {
+        "full_name": "Ghosh, Trinath",
+        "short_name": "Ghosh T",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India."
+        ]
+      },
+      {
+        "full_name": "Deo, Monalisha",
+        "short_name": "Deo M",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Misba",
+        "short_name": "Ahmed M",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India."
+        ]
+      },
+      {
+        "full_name": "Banerjee, Soma",
+        "short_name": "Banerjee S",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Liver Research, School of Digestive and Liver Diseases, Institute of Post Graduate Medical Education and Research (IPGMER), A.J.C. Bose Road, Kolkata, 700020, India."
+        ]
+      },
+      {
+        "full_name": "Chatterjee, Ankita",
+        "short_name": "Chatterjee A",
+        "identifiers": [],
+        "affiliations": [
+          "John C. Martin Center for Liver Research and Innovations, Kolkata, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Basu, Priyadarshi",
+        "short_name": "Basu P",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Biomedical Genomics (BRIC-NIBMG), Kalyani, West Bengal, 741251, India.",
+          "Regional Centre for Biotechnology, Government of India, Faridabad, Haryana, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemistry and biophysics reports"
+    ],
+    "journal_abbrev": [
+      "Biochem Biophys Rep"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 05:34",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42765067",
+      "42749447",
+      "42227003",
+      "35090960",
+      "41789089",
+      "42237432",
+      "41935542",
+      "41056488",
+      "40307857",
+      "41185013",
+      "42088521",
+      "42445388",
+      "41736104",
+      "41807965",
+      "41716413",
+      "42050573",
+      "38654290",
+      "39516442",
+      "41033615",
+      "41810434",
+      "42580240",
+      "42723025",
+      "41612311",
+      "42724516",
+      "41795680",
+      "21547909",
+      "41208987",
+      "42703320",
+      "40657391",
+      "38803181",
+      "37346073",
+      "42438784",
+      "36860314",
+      "42024670",
+      "41205757",
+      "41715121",
+      "36724127",
+      "31462277",
+      "42544237",
+      "41661103",
+      "41659855",
+      "42233387",
+      "41901341",
+      "27605885",
+      "41564380",
+      "41972591",
+      "41876477",
+      "42401103",
+      "42510982",
+      "42019631",
+      "42177711",
+      "42450300",
+      "42392347",
+      "42486346",
+      "42398820",
+      "42591545",
+      "39126031",
+      "42551718",
+      "42195019",
+      "42180900",
+      "39712016",
+      "42774276",
+      "40102789",
+      "41951276",
+      "36814339",
+      "41234865",
+      "41200185",
+      "41320661",
+      "37649103",
+      "42689981",
+      "42244292",
+      "42583106",
+      "42467357",
+      "41656803",
+      "42716194",
+      "34471502",
+      "42206070",
+      "42436508",
+      "42715652",
+      "42445406",
+      "41656832",
+      "41242266",
+      "42737817",
+      "39904693",
+      "40725473",
+      "42703413",
+      "39814999",
+      "42265520",
+      "41510074",
+      "42495647",
+      "42632122",
+      "39125617",
+      "41371106",
+      "42463939",
+      "41234881",
+      "42385356",
+      "42137057",
+      "31629814",
+      "42591449",
+      "41766871"
+    ],
+    "review": [
+      "42765067",
+      "39126031"
+    ],
+    "pmc": [
+      "13590054"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2405-5808(26)00345-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42765067/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-FABP4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3795",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

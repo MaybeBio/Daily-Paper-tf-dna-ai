@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42779690",
+    "doi": "10.64898/2026.09.16.752024",
+    "title": "A superfamily 1 helicase translocates on double-stranded DNA."
+  },
+  "content": {
+    "abstract": "Replicative and accessory helicases are essential for maintaining genome integrity during DNA replication and repair. Rep helicase belongs to superfamily 1 (SF1), the first helicase family solved at atomic resolution and a longstanding model for how helicases couple ATP hydrolysis to movement on DNA. Using optical tweezers combined with fluorescence imaging, we characterize how Rep translocates and navigates diverse nucleic acid and protein obstacles. We directly observe highly processive translocation on ssDNA ( approximately 300 nt/s over >13,000 nt) and show that this directional movement can drive single-stranded DNA-binding proteins (bacterial SSB, archaeal SSB, and eukaryotic RPA) along ssDNA without slowing. On encountering a short duplex barrier (</=60 bp), either a DNA duplex or an RNA/DNA hybrid, Rep frequently bypasses it, with termination and unwinding also observed. Unexpectedly, we identify a mode in which Rep transitions from ssDNA onto dsDNA and translocates directionally along the duplex with high processivity(>12,000bp) and at a much higher speed than on ssDNA ( approximately 1100 bp/s). AlphaFold3 modeling is consistent with Rep tracking a single strand while keeping the duplex intact. To our knowledge, this is the first demonstration of processive dsDNA translocation by an SF1 helicase, and it broadens models for how translocases operate on DNA during replication and repair.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pangeni, Sushil",
+        "Nakara, Amatullah Mustafa",
+        "Yang, Olivia",
+        "Rashid, Fahad",
+        "Berger, James M",
+        "Ha, Taekjip"
+      ],
+      "short_names": [
+        "Pangeni S",
+        "Nakara AM",
+        "Yang O",
+        "Rashid F",
+        "Berger JM",
+        "Ha T"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6804-8794",
+        "ORCID: 0000-0003-4004-465X",
+        "ORCID: 0000-0003-3898-3842",
+        "ORCID: 0000-0003-0666-1240",
+        "ORCID: 0000-0003-2195-6258"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Pangeni, Sushil",
+        "short_name": "Pangeni S",
+        "identifiers": [
+          "0000-0002-6804-8794"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nakara, Amatullah Mustafa",
+        "short_name": "Nakara AM",
+        "identifiers": [
+          "0000-0003-4004-465X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yang, Olivia",
+        "short_name": "Yang O",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rashid, Fahad",
+        "short_name": "Rashid F",
+        "identifiers": [
+          "0000-0003-3898-3842"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Berger, James M",
+        "short_name": "Berger JM",
+        "identifiers": [
+          "0000-0003-0666-1240"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ha, Taekjip",
+        "short_name": "Ha T",
+        "identifiers": [
+          "0000-0003-2195-6258"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779690",
+      "8918597",
+      "37011199",
+      "20736178",
+      "15123793",
+      "9882364",
+      "20108974",
+      "24560558",
+      "26091150",
+      "23446275",
+      "15561144",
+      "18801373",
+      "21927003",
+      "1321715",
+      "18077411",
+      "12527299",
+      "22665805",
+      "40516869",
+      "10329141",
+      "21925316",
+      "23741615",
+      "8642695",
+      "22504228",
+      "41271725",
+      "34081984",
+      "2153101",
+      "3029063",
+      "26283767",
+      "18029358",
+      "12206763",
+      "22307597",
+      "6112228",
+      "17070120",
+      "38648969",
+      "27410462",
+      "10825162",
+      "36096248",
+      "22976174",
+      "32213598",
+      "33739282",
+      "36798221",
+      "42620484",
+      "30060236",
+      "221901",
+      "22409300",
+      "35385349",
+      "30690484",
+      "28594346",
+      "34311576",
+      "25411316",
+      "8816749",
+      "20959294",
+      "12374984",
+      "2830275",
+      "1533057",
+      "23718269",
+      "29165676",
+      "37178921",
+      "12975364",
+      "17499029",
+      "11024023",
+      "38111195",
+      "26200858",
+      "12441398",
+      "31930301",
+      "15902262",
+      "36442086",
+      "38109526",
+      "15381422",
+      "40479711",
+      "26921827",
+      "1522601",
+      "29078357",
+      "19154117",
+      "21195035",
+      "23732982",
+      "42150082",
+      "20211839",
+      "11428893",
+      "23442971",
+      "22916835",
+      "30593500",
+      "36063326",
+      "30784593",
+      "22174946",
+      "23596008",
+      "26067769",
+      "7947840",
+      "40867054",
+      "27044751",
+      "8639532",
+      "33881864",
+      "35934480",
+      "36165957",
+      "1313807",
+      "26240379",
+      "17631491",
+      "34545080",
+      "22500020",
+      "30053104"
+    ],
+    "review": [
+      "42779690",
+      "24560558"
+    ],
+    "pmc": [
+      "13596305"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-NT5E-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.16.752024",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

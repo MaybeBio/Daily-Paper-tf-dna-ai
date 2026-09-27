@@ -1,0 +1,221 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.18.752645",
+  "title": "Boltz2-Notebook: An Interactive Google Colab Platform for Diffusion-Based Biomolecular Structure and Binding Affinity Prediction using the Boltz2 model.",
+  "doi": "10.64898/2026.09.18.752645",
+  "abstract": "Recent advances in deep learning-based structure prediction, including AlphaFold3 and the open-source Boltz model family, have extended biomolecular modeling to joint prediction of protein-ligand, protein-nucleic acid, and multi-chain complexes with binding-affinity estimation. Boltz-2 is among the most feature-complete of these open models, but its practical use requires a local CUDA-capable GPU, command-line execution, and manually authored YAML configuration files, limiting accessibility for researchers without dedicated computational infrastructure. We developed Boltz2-Notebook, a Colab-native interface comprising four integrated stages - automated environment setup, interactive parameter-to-YAML generation, execution management, and automated confidence and affinity visualization - together with a manifest-driven batch mode for multi-target screening. All modelling capabilities are inherited unmodified from Boltz-2; Boltz2-Notebook's contributions are limited to accessibility, input construction, and workflow automation. Independent of the software, we curated a benchmark of 317 protein-ligand pairs (122 proteins, 277 ligands) from BindingDB and predicted binding affinity in triplicate using the Boltz-2 command-line engine on high-performance computing infrastructure. Predicted and experimental pIC50 values showed moderate correlation (Pearson r = 0.609 [95% CI 0.540-0.675]; Spearman ρ = 0.625; R 2 = 0.371; MAE = 0.968 pIC50 units), with high triplicate reproducibility (pairwise r = 0.97) but a systematic compression of the predicted affinity range and no measurable relationship between Boltz-2's self-reported confidence metrics and prediction accuracy. Boltz2-Notebook is freely available as open-source software and provides external, reproducible evidence - including a specific confidence-calibration limitation - relevant to interpreting Boltz-2 affinity predictions responsibly.",
+  "authors": [
+    "Atharva Tilewale",
+    "Dhaval Patel"
+  ],
+  "published_date": "2026-09-24",
+  "updated_date": "2026-09-24T23:40:11Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.18.752645",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.18.752645.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ],
+        "date-time": "2026-09-25T00:01:44Z",
+        "timestamp": 1790294504002,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2026-09-24T00:00:00Z",
+            "timestamp": 1790208000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Gujarat State Biotechnology Mission",
+          "award": [
+            "GSBTM/JD(R&D)/610/20-21/351"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "GSBTM/JD(R&D)/610/20-21/351"
+              ]
+            }
+          ]
+        },
+        {
+          "id": [
+            {
+              "id": "https://ror.org/031857212",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "abstract": "<jats:p>\n                  Recent advances in deep learning-based structure prediction, including AlphaFold3 and the open-source Boltz model family, have extended biomolecular modeling to joint prediction of protein-ligand, protein-nucleic acid, and multi-chain complexes with binding-affinity estimation. Boltz-2 is among the most feature-complete of these open models, but its practical use requires a local CUDA-capable GPU, command-line execution, and manually authored YAML configuration files, limiting accessibility for researchers without dedicated computational infrastructure. We developed Boltz2-Notebook, a Colab-native interface comprising four integrated stages - automated environment setup, interactive parameter-to-YAML generation, execution management, and automated confidence and affinity visualization - together with a manifest-driven batch mode for multi-target screening. All modelling capabilities are inherited unmodified from Boltz-2; Boltz2-Notebook's contributions are limited to accessibility, input construction, and workflow automation. Independent of the software, we curated a benchmark of 317 protein-ligand pairs (122 proteins, 277 ligands) from BindingDB and predicted binding affinity in triplicate using the Boltz-2 command-line engine on high-performance computing infrastructure. Predicted and experimental pIC50 values showed moderate correlation (Pearson r = 0.609 [95% CI 0.540-0.675]; Spearman ρ = 0.625; R\n                  <jats:sup>2</jats:sup>\n                  = 0.371; MAE = 0.968 pIC50 units), with high triplicate reproducibility (pairwise r = 0.97) but a systematic compression of the predicted affinity range and no measurable relationship between Boltz-2's self-reported confidence metrics and prediction accuracy. Boltz2-Notebook is freely available as open-source software and provides external, reproducible evidence - including a specific confidence-calibration limitation - relevant to interpreting Boltz-2 affinity predictions responsibly.\n                </jats:p>",
+      "DOI": "10.64898/2026.09.18.752645",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T23:40:11Z",
+        "timestamp": 1790293211000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Boltz2-Notebook: An Interactive Google Colab Platform for Diffusion-Based Biomolecular Structure and Binding Affinity Prediction using the Boltz2 model."
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-9802-8158",
+          "authenticated-orcid": false,
+          "given": "Atharva",
+          "family": "Tilewale",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Gujarat Biotechnology University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1811-2057",
+          "authenticated-orcid": false,
+          "given": "Dhaval",
+          "family": "Patel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Gujarat Biotechnolgy University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.18.752645",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T23:40:12Z",
+        "timestamp": 1790293212000
+      },
+      "score": 91.84432,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.18.752645"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.18.752645",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

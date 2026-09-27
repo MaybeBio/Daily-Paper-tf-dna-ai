@@ -1,0 +1,260 @@
+{
+  "identity": {
+    "pmid": "42793003",
+    "doi": "10.3390/genes17091110",
+    "title": "Statistical Visibility of Curated TF-Target Regulatory Relationships and Reverse Consistency of Top-Ranked TF-Gene Pairs in Single-Cell Expression Data."
+  },
+  "content": {
+    "abstract": "BACKGROUND/OBJECTIVES: Large language models and automated analytical tools show potential for biomedical text understanding, knowledge integration, and single-cell data interpretation, but interpretations of specific gene regulatory relationships still require empirical grounding. For TF-target relationships, one relevant constraint is whether curated regulatory edges show detectable expression-level statistical evidence in the single-cell data being interpreted, because such evidence may vary across cellular states, conditions, and regulatory mechanisms. We therefore evaluated the statistical visibility of known transcription factor (TF)-target relationships in single-cell expression space to aid the interpretation of regulatory inference and automated-tool outputs. METHODS: We performed two complementary analyses: first, testing whether curated TF-target edges showed stronger pair-level associations than matched background gene pairs; and second, assessing whether high-scoring TF-gene pairs corresponded to existing regulatory knowledge and whether their target genes showed pathway coherence. RESULTS: Across four peripheral blood mononuclear cell (PBMC) datasets, four adult tissues, and seven adult cell types, curated TF-target relationships showed weak but reproducible statistical visibility rather than strong separation. For all five association metrics, the mean area under the precision-recall curve (AUPRC) was only slightly above the random-ranking baseline of 0.5. High-scoring pairs were more often supported by curated resources, and their target genes showed context-specific Hallmark pathway coherence. CONCLUSIONS: Single-cell expression associations can provide useful but limited statistical clues for TF-target regulation and should be interpreted as complementary rather than definitive regulatory evidence.",
+    "keywords": [
+      "TF-target regulatory relationships",
+      "matched background pairs",
+      "pathway coherence",
+      "reverse consistency",
+      "single-cell RNA sequencing",
+      "statistical visibility"
+    ],
+    "mesh_terms": [
+      "*Transcription Factors/genetics/metabolism",
+      "*Single-Cell Analysis/methods",
+      "Humans",
+      "Single-Cell Gene Expression Analysis",
+      "*Gene Regulatory Networks",
+      "*Gene Expression Regulation",
+      "Computational Biology/methods",
+      "Leukocytes, Mononuclear/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Feng, Wenqing",
+        "Zhang, Zejun",
+        "Wu, Zheng",
+        "Yuan, Chengyu",
+        "Sun, Jinlei",
+        "Wang, Guoqiang",
+        "Liu, Yunqing"
+      ],
+      "short_names": [
+        "Feng W",
+        "Zhang Z",
+        "Wu Z",
+        "Yuan C",
+        "Sun J",
+        "Wang G",
+        "Liu Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-9194-2282",
+        "ORCID: 0000-0001-6277-5467"
+      ],
+      "affiliations": [
+        "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China.",
+        "School of Electrical and Energy Engineering, Shanghai Dianji University, Shanghai 201306, China.",
+        "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China.",
+        "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China.",
+        "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China.",
+        "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China.",
+        "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Feng, Wenqing",
+        "short_name": "Feng W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zejun",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Electrical and Energy Engineering, Shanghai Dianji University, Shanghai 201306, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Zheng",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Chengyu",
+        "short_name": "Yuan C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Jinlei",
+        "short_name": "Sun J",
+        "identifiers": [
+          "0009-0009-9194-2282"
+        ],
+        "affiliations": [
+          "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Guoqiang",
+        "short_name": "Wang G",
+        "identifiers": [
+          "0000-0001-6277-5467"
+        ],
+        "affiliations": [
+          "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yunqing",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes"
+    ],
+    "journal_abbrev": [
+      "Genes (Basel)"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42793003",
+      "42475469",
+      "42527907",
+      "41288963",
+      "42482180",
+      "42398561",
+      "38653489",
+      "42059479",
+      "24565265",
+      "41386265",
+      "38940155",
+      "31985403",
+      "42752548",
+      "18426580",
+      "30547796",
+      "40633682",
+      "42560939",
+      "41883144",
+      "24228871",
+      "42650039",
+      "42296381",
+      "32054475",
+      "17971223",
+      "42741841",
+      "36321557",
+      "26679776",
+      "39326643",
+      "41518505",
+      "40429912",
+      "38062833",
+      "29914350",
+      "38980373",
+      "41093852",
+      "39082647",
+      "37889053",
+      "39062480",
+      "34740743",
+      "20085649",
+      "41554051",
+      "40251476",
+      "42636032",
+      "39833103",
+      "41527853",
+      "32019417",
+      "42710863",
+      "20840729",
+      "31340985",
+      "42754836",
+      "32174324",
+      "25707768",
+      "29051499",
+      "24565134",
+      "35757392",
+      "42745838",
+      "22456606",
+      "22931563",
+      "40654959",
+      "39062464",
+      "38838009",
+      "33151298",
+      "39238649",
+      "36626328",
+      "39376034",
+      "22106333",
+      "40764361",
+      "36055233",
+      "23758851",
+      "40699953",
+      "27780826",
+      "39922197",
+      "22784627",
+      "25922940",
+      "42378449",
+      "41022541",
+      "34251625",
+      "42013480",
+      "39161769",
+      "42196406",
+      "38950180",
+      "41388523",
+      "33002527",
+      "38806476",
+      "33170214",
+      "41782887",
+      "22849367",
+      "41269283",
+      "38252636",
+      "31857203",
+      "33153500",
+      "41300707",
+      "27064982",
+      "40662821",
+      "39679439",
+      "42568110",
+      "18586698",
+      "31114921",
+      "25024357",
+      "20704747",
+      "35961023",
+      "37443338"
+    ],
+    "review": [
+      "42793003",
+      "36321557",
+      "20840729"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

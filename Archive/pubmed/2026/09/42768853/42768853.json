@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42768853",
+    "doi": "10.1002/ardp.70339",
+    "title": "Assessment of the Targeted Therapeutic Potential of Naringenin-Benzyl Piperazine Derivatives on Hypoxia-Induced JAK/STAT Pathway in Breast and Ovarian Cancers."
+  },
+  "content": {
+    "abstract": "Naringenin, a prominent member of the flavanone family of polyphenols, is widely distributed in cherries, tomatoes, and citrus fruits, such as grapefruits, as well as in medicinal plants. In vitro and in vivo investigations have shown that naringenin, naringenin-loaded nanoparticles, and its derivatives, whether administered singularly or in conjunction with other anticancer agents, can effectively counteract carcinogenic agents and inhibit the advancement of various malignancies, including colon cancer, lung neoplasms, ovarian cancer, and breast cancer. In this study, the effects of naringenin-benzylpiperazines (3b, 3f, and 3g) were investigated on breast ductal carcinoma MCF7 (ER-alpha+), human breast adenocarcinoma SK-Br, human triple-negative breast metastatic adenocarcinoma MDA-MB-231, ovarian cancer NIH-OVCAR-3, and human ovarian cancer SKOV-3 cells. The IC(50) values of 3b, 3f, and 3g were found to be between 31.39 and 73.60 microM, 29.11 and 86.91 microM, and 23.53 and 88.63 microM, respectively. The data obtained indicate that compound 3f may be a molecule with the potential to trigger mitochondrial apoptosis in cancer cell lines in a dose-dependent manner by modulating hypoxia, angiogenesis, and JAK/STAT signaling pathways. In addition, the potential therapeutic value of the compound and its interaction mechanisms with molecular targets have been investigated through theoretical (in silico) calculations.",
+    "keywords": [
+      "ADMET",
+      "breast tumors",
+      "flavanoid",
+      "molecular docking",
+      "ovarian tumors"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Flavanones/pharmacology/chemistry/chemical synthesis",
+      "Female",
+      "*Ovarian Neoplasms/drug therapy/pathology/metabolism",
+      "*Breast Neoplasms/drug therapy/pathology/metabolism",
+      "*Antineoplastic Agents/pharmacology/chemistry/chemical synthesis",
+      "Dose-Response Relationship, Drug",
+      "Structure-Activity Relationship",
+      "*Piperazines/pharmacology/chemistry/chemical synthesis",
+      "Signal Transduction/drug effects",
+      "Janus Kinases/metabolism/antagonists & inhibitors",
+      "Cell Proliferation/drug effects",
+      "Drug Screening Assays, Antitumor",
+      "Molecular Structure",
+      "Apoptosis/drug effects",
+      "STAT Transcription Factors/metabolism/antagonists & inhibitors",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ozcan, Hafize",
+        "Doganlar, Oguzhan",
+        "Doganlar, Zeynep Banu",
+        "Yilmaz, Aysen Suekinci",
+        "Zaim, Omer"
+      ],
+      "short_names": [
+        "Ozcan H",
+        "Doganlar O",
+        "Doganlar ZB",
+        "Yilmaz AS",
+        "Zaim O"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8031-6755",
+        "ORCID: 0000-0002-1365-9897",
+        "ORCID: 0000-0002-1928-0204",
+        "ORCID: 0000-0002-3472-5611"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Faculty of Science, Trakya University, Edirne, Turkiye.",
+        "Department of Medical Biology, Faculty of Medicine, Trakya University, Edirne, Turkiye.",
+        "Department of Medical Biology, Faculty of Medicine, Trakya University, Edirne, Turkiye.",
+        "Department of Chemistry, Faculty of Science, Trakya University, Edirne, Turkiye.",
+        "Department of Chemistry, Faculty of Science, Trakya University, Edirne, Turkiye."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Özcan, Hafize",
+        "short_name": "Özcan H",
+        "identifiers": [
+          "0000-0002-8031-6755"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, Trakya University, Edirne, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Doğanlar, Oğuzhan",
+        "short_name": "Doğanlar O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biology, Faculty of Medicine, Trakya University, Edirne, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Doğanlar, Zeynep Banu",
+        "short_name": "Doğanlar ZB",
+        "identifiers": [
+          "0000-0002-1365-9897"
+        ],
+        "affiliations": [
+          "Department of Medical Biology, Faculty of Medicine, Trakya University, Edirne, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Yılmaz, Ayşen Şuekinci",
+        "short_name": "Yılmaz AŞ",
+        "identifiers": [
+          "0000-0002-1928-0204"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, Trakya University, Edirne, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Zaim, Ömer",
+        "short_name": "Zaim Ö",
+        "identifiers": [
+          "0000-0002-3472-5611"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, Trakya University, Edirne, Türkiye."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archiv der Pharmazie"
+    ],
+    "journal_abbrev": [
+      "Arch Pharm (Weinheim)"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 05:37",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42768853",
+      "40199813",
+      "40780124",
+      "41610671",
+      "30941613",
+      "27224244",
+      "42675576",
+      "39473208",
+      "31927213",
+      "40614544",
+      "39216194",
+      "29533214",
+      "34598088",
+      "32053080",
+      "38719172",
+      "31631978",
+      "39504637",
+      "42269567",
+      "41093897",
+      "40779728",
+      "27149364",
+      "40274961",
+      "40007349",
+      "41205803",
+      "39532011",
+      "40916439",
+      "42497764",
+      "30510404",
+      "39178704",
+      "39427518",
+      "39506445",
+      "40199008",
+      "33340662",
+      "40412224",
+      "32781872",
+      "26648695",
+      "40763666",
+      "39889549",
+      "34365057",
+      "34817344",
+      "40554888",
+      "31052551",
+      "39473207",
+      "32951586",
+      "38482619",
+      "32698751",
+      "42391813",
+      "41147600",
+      "29202403",
+      "41045704",
+      "40480106",
+      "41539040",
+      "38941699",
+      "42320117",
+      "40999740",
+      "29766645",
+      "36985391",
+      "42646473",
+      "31785856",
+      "39556931",
+      "39005120",
+      "19796390",
+      "37590495",
+      "35779626",
+      "42546462",
+      "18790749",
+      "27143851",
+      "29745344",
+      "22792362",
+      "31674147",
+      "39938410",
+      "40022851",
+      "41570584",
+      "39710140",
+      "32021105",
+      "34798455",
+      "40975960",
+      "40543255",
+      "40094223",
+      "41897415",
+      "40311784",
+      "41588865",
+      "41272919",
+      "41138465",
+      "30451119",
+      "30727782",
+      "33894490",
+      "41046529",
+      "21510869",
+      "37948299",
+      "39577295",
+      "40204112",
+      "32819237",
+      "39761615",
+      "41223589",
+      "41812428",
+      "38823755",
+      "38908129",
+      "31903460",
+      "40288434"
+    ],
+    "review": [
+      "42768853",
+      "41205803",
+      "39005120",
+      "35779626"
+    ],
+    "pmc": [
+      "13594987"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/ovariancancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Ovarian Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42768853/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/ardp.70339",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1474",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "42794715",
+    "doi": "10.3390/ijms27188288",
+    "title": "Exploring the Neuroprotective Effects of Walnut (Juglans regia L.) Against Cognitive Impairment in Alzheimer's Disease Through the MAPK-mTORC1-TFEB-Mediated Endolysosomal Pathway: A Network Pharmacology and Molecular Docking Approach."
+  },
+  "content": {
+    "abstract": "Alzheimer's disease (AD) is a complex neurodegenerative disorder with multifaceted pathogenesis. Given the clinical need for multi-target interventions, this study elucidated the neuroprotective mechanisms of walnut (Juglans regia L.) against AD-related cognitive impairment. Methods: We characterized 25 bioactive constituents (fatty acids and ellagitannins) and constructed a protein-protein interaction (PPI) network. GO/KEGG enrichment, integrated with Ingenuity Pathway Analysis (IPA), deciphered pharmacological pathways, followed by molecular docking to evaluate ligand-target binding thermodynamics. Network analysis revealed that walnut phytochemicals synergistically modulate the MAPK-mTORC1-TFEB-mediated endolysosomal homeostasis pathway. Molecular docking indicated that ellagitannins (strictinin, pedunculagin, tellimagrandin I) exhibit robust affinities for upstream RAS/RAF/MEK kinases, suppressing pro-pathogenic signaling. Concurrently, gallic acid targeted ABCA1 and TFEB, promoting TFEB activation and nuclear translocation to enhance beta-amyloid clearance and lysosomal biogenesis. This study provides evidence that walnut attenuates AD pathology through \"multi-component\" reinforcement of the endolysosomal defense system, establishing a mechanistic foundation for walnut as a promising functional food.",
+    "keywords": [
+      "Alzheimer's disease",
+      "MAPK-mTORC1-TFEB axis",
+      "cognitive impairment",
+      "endolysosomal homeostasis",
+      "walnut (Juglans regia L.)"
+    ],
+    "mesh_terms": [
+      "*Juglans/chemistry",
+      "*Alzheimer Disease/drug therapy/metabolism",
+      "Molecular Docking Simulation",
+      "*Mechanistic Target of Rapamycin Complex 1/metabolism",
+      "*Neuroprotective Agents/pharmacology/chemistry",
+      "*Lysosomes/metabolism/drug effects",
+      "*Basic Helix-Loop-Helix Leucine Zipper Transcription Factors/metabolism",
+      "Humans",
+      "Signal Transduction/drug effects",
+      "*Plant Extracts/pharmacology/chemistry",
+      "Protein Interaction Maps/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lin, Chih-Ting",
+        "Chen, Kuan-Tso",
+        "Hung, Yu-Chiang"
+      ],
+      "short_names": [
+        "Lin CT",
+        "Chen KT",
+        "Hung YC"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5117-2791",
+        "ORCID: 0000-0001-7490-4465"
+      ],
+      "affiliations": [
+        "Department of Chinese Medicine, E-Da Cancer Hospital, Kaohsiung 82445, Taiwan.",
+        "Institute of Traditional Medicine, National Yang Ming Chiao Tung University, Taipei 11221, Taiwan.",
+        "School of Chinese Medicine for Post-Baccalaureate, I-Shou University, Kaohsiung 84001, Taiwan.",
+        "Department of Chinese Medicine, E-Da Cancer Hospital, Kaohsiung 82445, Taiwan.",
+        "School of Chinese Medicine for Post-Baccalaureate, I-Shou University, Kaohsiung 84001, Taiwan.",
+        "Department of Chinese Medicine, Institute of Traditional Medicine, National Yang Ming Chiao Tung University, Taipei 11221, Taiwan.",
+        "Linsen Chinese Medicine and Kunming Branch, Taipei City Hospital, Taipei 10450, Taiwan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lin, Chih-Ting",
+        "short_name": "Lin CT",
+        "identifiers": [
+          "0000-0001-5117-2791"
+        ],
+        "affiliations": [
+          "Department of Chinese Medicine, E-Da Cancer Hospital, Kaohsiung 82445, Taiwan.",
+          "Institute of Traditional Medicine, National Yang Ming Chiao Tung University, Taipei 11221, Taiwan.",
+          "School of Chinese Medicine for Post-Baccalaureate, I-Shou University, Kaohsiung 84001, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Kuan-Tso",
+        "short_name": "Chen KT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chinese Medicine, E-Da Cancer Hospital, Kaohsiung 82445, Taiwan.",
+          "School of Chinese Medicine for Post-Baccalaureate, I-Shou University, Kaohsiung 84001, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Hung, Yu-Chiang",
+        "short_name": "Hung YC",
+        "identifiers": [
+          "0000-0001-7490-4465"
+        ],
+        "affiliations": [
+          "Department of Chinese Medicine, Institute of Traditional Medicine, National Yang Ming Chiao Tung University, Taipei 11221, Taiwan.",
+          "Linsen Chinese Medicine and Kunming Branch, Taipei City Hospital, Taipei 10450, Taiwan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42794715",
+      "32389853",
+      "42511539",
+      "39392030",
+      "39009828",
+      "33622188",
+      "40759849",
+      "41879392",
+      "29940807",
+      "39454957",
+      "37864249",
+      "41082993",
+      "41450115",
+      "40055645",
+      "35616676",
+      "42636682",
+      "42178432",
+      "42184497",
+      "30145926",
+      "41440909",
+      "41106101",
+      "39936600",
+      "32204915",
+      "32512069",
+      "31563815",
+      "40684044",
+      "41673711",
+      "37909662",
+      "36394096",
+      "42152469",
+      "41968216",
+      "31866509",
+      "41275722",
+      "40879814",
+      "42530076",
+      "28165011",
+      "32950675",
+      "34313548",
+      "41051550",
+      "38225393",
+      "40192506",
+      "40231534",
+      "39556154",
+      "42166973",
+      "39497162",
+      "38971541",
+      "39969345",
+      "41207328",
+      "41793494",
+      "38545117",
+      "41136693",
+      "41106565",
+      "31858697",
+      "33706671",
+      "35948663",
+      "40076984",
+      "40589337",
+      "26838735",
+      "40916236",
+      "42165414",
+      "40246113",
+      "42109914",
+      "40712813",
+      "41912102",
+      "36441024",
+      "38608086",
+      "35701806",
+      "41212470",
+      "40676786",
+      "40047153",
+      "39806423",
+      "35354596",
+      "38574842",
+      "22343943",
+      "37652196",
+      "41930874",
+      "39910202",
+      "22692423",
+      "42421348",
+      "27060963",
+      "39503755",
+      "41954172",
+      "30335591",
+      "42320774",
+      "38795753",
+      "42307826",
+      "34332287",
+      "40986212",
+      "41016294",
+      "31519738",
+      "38828741",
+      "36474082",
+      "33734022",
+      "39576427",
+      "23830905",
+      "29208493",
+      "28055300",
+      "36031168",
+      "40832968",
+      "39982740"
+    ],
+    "review": [
+      "42794715",
+      "42178432",
+      "29208493"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

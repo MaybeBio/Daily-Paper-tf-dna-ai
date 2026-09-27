@@ -1,0 +1,227 @@
+{
+  "identity": {
+    "pmid": "42792657",
+    "doi": "10.3390/biomedicines14091914",
+    "title": "Senescence-Associated Checkpoint Gene Dysregulation in Established Osteoarthritis: Integrated Transcriptomic Analysis and In Vitro Evaluation of CDK6 and WEE1."
+  },
+  "content": {
+    "abstract": "Background/Objectives: Osteoarthritis (OA) is a whole-joint disease, and cellular senescence is one of several processes associated with cartilage degeneration. This study aimed to identify senescence-associated differentially expressed genes in established OA and to examine checkpoint-related candidates without assuming a causal checkpoint-imbalance mechanism. Methods: Five Gene Expression Omnibus (GEO) datasets spanning articular-cartilage tissue and primary cartilage-derived chondrocytes (GSE57218, GSE117999, GSE114007, GSE246425, and GSE169077) were integrated as a training cohort; the meniscus dataset GSE98918 was reserved as an independent cross-tissue validation cohort. OA-associated differentially expressed genes (DEGs) were intersected with CELLAGE genes. Enrichment, protein-protein interaction, transcription-factor, competing endogenous RNA, drug-enrichment, and molecular-docking analyses were performed. CDK6 and WEE1 expression was evaluated in IL-1beta-treated human C28/I2 chondrocytes by RT-qPCR and representative Western blotting. Results: Forty-one senescence-associated DEGs were identified, and seven network-central genes (CDKN1A, CDK6, WEE1, NFKB2, ID1, RBL2, and IGFBP7) were prioritized. CDKN1A, CDK6, and WEE1 were reduced in OA-associated meniscal samples in GSE98918; within-dataset ROC analyses yielded AUCs of 0.931, 0.882, and 0.792, respectively. In IL-1beta-treated C28/I2 cells, WEE1 mRNA decreased whereas CDK6 mRNA increased; representative immunoblots showed concordant qualitative trends. Berberine- and folic acid-related docking findings were computational only. Conclusions: Checkpoint-related gene expression is associated with senescence-linked transcriptomic changes in established OA. The discordant CDK6 results between clinical tissue datasets and an acute inflammatory cell model do not establish stage-dependent regulation. The present data also do not demonstrate p53-mediated CDKN1A activation, checkpoint failure, cell-cycle arrest, or cellular senescence; these hypotheses require dedicated functional experiments.",
+    "keywords": [
+      "CDK6",
+      "WEE1",
+      "cellular senescence",
+      "checkpoint-related genes",
+      "established osteoarthritis",
+      "osteoarthritis",
+      "transcriptomic integration"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liao, Chang-Sheng",
+        "Ju, Yu-Can",
+        "Wang, Min-Xiao",
+        "Long, Cheng",
+        "Lan, Feng-Jun"
+      ],
+      "short_names": [
+        "Liao CS",
+        "Ju YC",
+        "Wang MX",
+        "Long C",
+        "Lan FJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-4805-8905"
+      ],
+      "affiliations": [
+        "Department of Orthopaedics, West China Hospital of Sichuan University, Chengdu 610041, China.",
+        "Department of Graduate School, Graduate Student Department of Changzhi Medical College, Changzhi 046000, China.",
+        "Department of Orthopaedics, West China Hospital of Sichuan University, Chengdu 610041, China.",
+        "Department of Graduate School, Graduate Student Department of Changzhi Medical College, Changzhi 046000, China.",
+        "Department of Orthopaedics, West China Hospital of Sichuan University, Chengdu 610041, China.",
+        "Department of Orthopaedics, West China Hospital of Sichuan University, Chengdu 610041, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liao, Chang-Sheng",
+        "short_name": "Liao CS",
+        "identifiers": [
+          "0009-0007-4805-8905"
+        ],
+        "affiliations": [
+          "Department of Orthopaedics, West China Hospital of Sichuan University, Chengdu 610041, China.",
+          "Department of Graduate School, Graduate Student Department of Changzhi Medical College, Changzhi 046000, China."
+        ]
+      },
+      {
+        "full_name": "Ju, Yu-Can",
+        "short_name": "Ju YC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, West China Hospital of Sichuan University, Chengdu 610041, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Min-Xiao",
+        "short_name": "Wang MX",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Graduate School, Graduate Student Department of Changzhi Medical College, Changzhi 046000, China."
+        ]
+      },
+      {
+        "full_name": "Long, Cheng",
+        "short_name": "Long C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, West China Hospital of Sichuan University, Chengdu 610041, China."
+        ]
+      },
+      {
+        "full_name": "Lan, Feng-Jun",
+        "short_name": "Lan FJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, West China Hospital of Sichuan University, Chengdu 610041, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedicines"
+    ],
+    "journal_abbrev": [
+      "Biomedicines"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:56:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42792657",
+      "42495609",
+      "42377012",
+      "42249421",
+      "42030882",
+      "41536554",
+      "42302029",
+      "40216809",
+      "39007035",
+      "41981440",
+      "41316378",
+      "40442788",
+      "38500425",
+      "41232761",
+      "41146237",
+      "37168259",
+      "38090564",
+      "41941107",
+      "42642681",
+      "42233387",
+      "35026522",
+      "42352882",
+      "39438957",
+      "41863700",
+      "42784567",
+      "34949204",
+      "38049841",
+      "42634547",
+      "35783271",
+      "42397093",
+      "38463824",
+      "42107588",
+      "42338208",
+      "42399461",
+      "33936160",
+      "38645862",
+      "37986862",
+      "42128154",
+      "35975032",
+      "42609827",
+      "39640258",
+      "41096895",
+      "33144900",
+      "42353855",
+      "36641761",
+      "41628840",
+      "41111909",
+      "42484941",
+      "42717782",
+      "41562054",
+      "42437187",
+      "16508959",
+      "40724902",
+      "40628511",
+      "42107160",
+      "41760060",
+      "41112282",
+      "39423944",
+      "40885352",
+      "42254657",
+      "42652188",
+      "38771826",
+      "42792820",
+      "34815758",
+      "41694337",
+      "42708302",
+      "42274933",
+      "40791849",
+      "42025819",
+      "39176085",
+      "36760992",
+      "41895505",
+      "41031145",
+      "38268862",
+      "41449394",
+      "42630363",
+      "41986586",
+      "16912396",
+      "34583778",
+      "42584803",
+      "42450069",
+      "30518918",
+      "39849508",
+      "42106542",
+      "39819042",
+      "34521030",
+      "41218586",
+      "39086489",
+      "25424126",
+      "36582740",
+      "39040490",
+      "37569721",
+      "29247798",
+      "38734758",
+      "42449128",
+      "41709967",
+      "42410693",
+      "40046960",
+      "41288681",
+      "38509535"
+    ],
+    "review": [
+      "42792657"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}
