@@ -1,0 +1,305 @@
+{
+  "identity": {
+    "pmid": "42816034",
+    "doi": "10.1016/S1875-5364(26)61215-0",
+    "title": "Targeting senescence-associated fibrotic signatures identifies syringin as an effective modulator of the ATR/CHK1-p53 axis in idiopathic pulmonary fibrosis."
+  },
+  "content": {
+    "abstract": "Idiopathic pulmonary fibrosis (IPF) is a progressive and fatal interstitial lung disease closely associated with aging, yet the contribution of cellular senescence to fibrotic remodeling and its therapeutic implications remain incompletely understood. Syringin, a phenylpropanoid glycoside derived from Acanthopanax senticosus, has been reported to possess anti-inflammatory and antioxidant activities, but its role in IPF has not been elucidated. In this study, bulk lung transcriptomic data from the GTEx project and nine IPF cohorts were integrated with IPF scRNA-seq data to characterize senescence-associated fibrotic programs. A systems-level compound prioritization strategy incorporating reversed gene expression scoring, network proximity analysis, drug-likeness and toxicity evaluation was applied to identify candidate molecules. The results revealed a pronounced aging-associated transcriptomic profile in IPF lungs, with strong concordance between age-related and IPF-related gene programs. Single-cell analyses further identified senescent fibroblast populations as key cellular hubs characterized by elevated expression of SASP factors. Syringin was subsequently validated in TGFbeta1-stimulated fibroblasts, and a murine model of bleomycin-induced pulmonary fibrosis. Syringin consistently attenuated fibroblast activation, cellular senescence markers, and pulmonary fibrosis in vivo and in vitro. Mechanistically, syringin markedly reversed the activation of replication stress-associated signaling pathways. Molecular docking and CETSA suggested a potential interaction between syringin and CHK1. Furthermore, CHK1 knockdown partially abrogated the regulatory effects of syringin on the ATR/CHK1-p53 signaling cascade, supporting CHK1 as a functional mediator of syringin activity. Collectively, these findings identify syringin as a natural small molecule with anti-senescent and anti-fibrotic properties, and may represent a potential therapeutic strategy for IPF.",
+    "keywords": [
+      "ATR/CHK1-p53 pathway",
+      "Cell senescence",
+      "Idiopathic pulmonary fibrosis",
+      "Syringin"
+    ],
+    "mesh_terms": [
+      "*Idiopathic Pulmonary Fibrosis/drug therapy/metabolism/genetics",
+      "Humans",
+      "Animals",
+      "*Glucosides/pharmacology",
+      "*Cellular Senescence/drug effects",
+      "*Phenylpropionates/pharmacology",
+      "Mice",
+      "*Checkpoint Kinase 1/metabolism/genetics",
+      "*Tumor Suppressor Protein p53/metabolism/genetics",
+      "Signal Transduction/drug effects",
+      "*Ataxia Telangiectasia Mutated Proteins/metabolism/genetics",
+      "Fibroblasts/drug effects/metabolism",
+      "*Eleutherococcus/chemistry",
+      "Lung/drug effects/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yuyang",
+        "Yin, Guanghui",
+        "Niu, Mixing",
+        "Wang, Wei",
+        "Liao, Zhenyun",
+        "Yang, Lei",
+        "Wu, Chunli",
+        "Cao, Yu",
+        "Gao, Kai",
+        "Dong, Zhaoxing"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Yin G",
+        "Niu M",
+        "Wang W",
+        "Liao Z",
+        "Yang L",
+        "Wu C",
+        "Cao Y",
+        "Gao K",
+        "Dong Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Public Health, Hangzhou Medical College, Hangzhou 310014, China; Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China.",
+        "School of Public Health, Hangzhou Medical College, Hangzhou 310014, China; Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China.",
+        "School of Public Health, Hangzhou Medical College, Hangzhou 310014, China; Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China.",
+        "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China; Cixi Biomedical Research Institute, Wenzhou Medical University, Cixi 315300, China.",
+        "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China.",
+        "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China.",
+        "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China.",
+        "Department of Respiratory, The Second Affiliated Hospital of Kunming Medical University, Kunming 6500101, China. Electronic address: caoyuyisheng@163.com.",
+        "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China. Electronic address: gaokai@bucm.edu.cn.",
+        "School of Public Health, Hangzhou Medical College, Hangzhou 310014, China; Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China. Electronic address: dongkm@Hotmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yuyang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hangzhou Medical College, Hangzhou 310014, China; Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Guanghui",
+        "short_name": "Yin G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hangzhou Medical College, Hangzhou 310014, China; Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China."
+        ]
+      },
+      {
+        "full_name": "Niu, Mixing",
+        "short_name": "Niu M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hangzhou Medical College, Hangzhou 310014, China; Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wei",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China; Cixi Biomedical Research Institute, Wenzhou Medical University, Cixi 315300, China."
+        ]
+      },
+      {
+        "full_name": "Liao, Zhenyun",
+        "short_name": "Liao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Lei",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Chunli",
+        "short_name": "Wu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Yu",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory, The Second Affiliated Hospital of Kunming Medical University, Kunming 6500101, China. Electronic address: caoyuyisheng@163.com."
+        ]
+      },
+      {
+        "full_name": "Gao, Kai",
+        "short_name": "Gao K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China. Electronic address: gaokai@bucm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Dong, Zhaoxing",
+        "short_name": "Dong Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hangzhou Medical College, Hangzhou 310014, China; Department of Respiratory and Critical Care Medicine, Ningbo No. 2 Hospital, Ningbo 315010, China. Electronic address: dongkm@Hotmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chinese journal of natural medicines"
+    ],
+    "journal_abbrev": [
+      "Chin J Nat Med"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 23:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42816034",
+      "41271031",
+      "41640377",
+      "39096545",
+      "28722352",
+      "40600992",
+      "40749611",
+      "30109946",
+      "42364821",
+      "42566402",
+      "41438766",
+      "42727476",
+      "41939867",
+      "31042083",
+      "33784491",
+      "41562054",
+      "40780596",
+      "30784938",
+      "42207587",
+      "40619039",
+      "29634284",
+      "41846926",
+      "39068977",
+      "39289765",
+      "42362788",
+      "30548445",
+      "42252704",
+      "39519222",
+      "42724045",
+      "38670401",
+      "40639873",
+      "42543265",
+      "34873597",
+      "40820551",
+      "40037475",
+      "42174588",
+      "42297772",
+      "41008517",
+      "41053564",
+      "42249421",
+      "40146935",
+      "42143357",
+      "42094605",
+      "42631393",
+      "39663393",
+      "36139424",
+      "33654217",
+      "40738116",
+      "42287596",
+      "28860144",
+      "42511519",
+      "40517732",
+      "33707405",
+      "36736168",
+      "31879264",
+      "42112343",
+      "40883151",
+      "41254784",
+      "30257725",
+      "31891567",
+      "42492262",
+      "33705361",
+      "42302945",
+      "41582130",
+      "41224967",
+      "38976646",
+      "33169236",
+      "42747578",
+      "42721930",
+      "24551275",
+      "41075750",
+      "31464599",
+      "40112179",
+      "40557159",
+      "40594193",
+      "39183565",
+      "40023972",
+      "42480677",
+      "40675771",
+      "34380701",
+      "41819437",
+      "41090747",
+      "38566093",
+      "41685577",
+      "42694191",
+      "31182654",
+      "41092115",
+      "31747308",
+      "39260206",
+      "39642567",
+      "39587935",
+      "39855369",
+      "40882007",
+      "32244228",
+      "42071067",
+      "41791618",
+      "41792712",
+      "30644438",
+      "40939548",
+      "30870716"
+    ],
+    "review": [
+      "42816034",
+      "40820551",
+      "31879264"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

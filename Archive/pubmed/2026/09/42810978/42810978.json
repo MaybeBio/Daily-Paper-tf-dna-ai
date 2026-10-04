@@ -1,0 +1,232 @@
+{
+  "identity": {
+    "pmid": "42810978",
+    "doi": "10.1093/bjd/ljag260",
+    "title": "Scalp-ear-nipple syndrome: a clinical and pathogenetic review using novel artificial intelligence methodology."
+  },
+  "content": {
+    "abstract": "Scalp-ear-nipple (SEN) syndrome (OMIM #181270) is a rare autosomal dominant ectodermal dysplasia characterized by aplasia cutis congenita (ACC) of the scalp, overfolded ear helices and breast aplasia. Since the identification of heterozygous KCTD1 pathogenic variants as the molecular cause in 2013, our understanding of this condition has undergone substantial revision. KCTD1 encodes a 257-amino-acid BTB domain-containing protein that forms pentameric complexes and functions as a transcriptional repressor of transcription factor AP-2alpha. All currently reported SEN-causing variants cluster within a narrow window (residues 20-74) of the BTB and pre-BTB domains, consistent with a dominant-negative rather than haploinsufficiency mechanism. Mutant KCTD1 retains the ability to oligomerize but cannot bind AP-2alpha and poisons wildtype function by incorporating into nonfunctional heteropentamers with both KCTD1 and its paralogue KCTD15. Several developments have reshaped the molecular narrative. The only paper reporting direct KCTD1-beta-catenin binding was retracted in 2022 for data integrity concerns, leaving the precise Wnt/beta-catenin mechanism incompletely characterized despite independent evidence supporting the role of KCTD1 in Wnt modulation. Conditional knockout of Kctd1 and Kctd15 in mice demonstrated that ACC arises from neural crest cell dysfunction, not from a primary keratinocyte defect, establishing SEN-associated ACC as a neurocristopathy. Most recently, KCTD1 has been shown to inhibit not only Wnt but also the Hedgehog and Notch signalling pathways, and to regulate cAMP signalling through adenylyl cyclase 5, although the relevance to SEN is unclear. This review critically evaluates the current evidence for SEN syndrome pathogenesis, integrates the multipathway model and examines the tissue-specificity question. We identify key unresolved questions and propose an experimental roadmap for future investigation. With approximately 30-50 molecularly confirmed cases worldwide and no formal clinical guidelines, this review provides a comprehensive molecular and clinical framework for a condition at the intersection of developmental biology, structural biology and clinical genetics. This review was written with novel artificial intelligence methodology.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Green, Adam C",
+        "Sampson, Julian R",
+        "Finlay, Andrew Y"
+      ],
+      "short_names": [
+        "Green AC",
+        "Sampson JR",
+        "Finlay AY"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-0827-2387",
+        "ORCID: 0000-0002-2902-2348",
+        "ORCID: 0000-0003-2143-1646"
+      ],
+      "affiliations": [
+        "Contexis, London, UK.",
+        "Division of Cancer and Genetics, Cardiff University, Cardiff, UK.",
+        "Division of Infection and Immunity, Cardiff University, Cardiff, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Green, Adam C",
+        "short_name": "Green AC",
+        "identifiers": [
+          "0009-0006-0827-2387"
+        ],
+        "affiliations": [
+          "Contexis, London, UK."
+        ]
+      },
+      {
+        "full_name": "Sampson, Julian R",
+        "short_name": "Sampson JR",
+        "identifiers": [
+          "0000-0002-2902-2348"
+        ],
+        "affiliations": [
+          "Division of Cancer and Genetics, Cardiff University, Cardiff, UK."
+        ]
+      },
+      {
+        "full_name": "Finlay, Andrew Y",
+        "short_name": "Finlay AY",
+        "identifiers": [
+          "0000-0003-2143-1646"
+        ],
+        "affiliations": [
+          "Division of Infection and Immunity, Cardiff University, Cardiff, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The British journal of dermatology"
+    ],
+    "journal_abbrev": [
+      "Br J Dermatol"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 23:29",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42810978",
+      "31324836",
+      "23541344",
+      "42285336",
+      "42475469",
+      "34456244",
+      "38113115",
+      "36321557",
+      "38296633",
+      "39023472",
+      "28818080",
+      "23912807",
+      "8042668",
+      "39424163",
+      "39191250",
+      "36579937",
+      "33000225",
+      "33036834",
+      "33085409",
+      "41075928",
+      "41086914",
+      "40465813",
+      "19115315",
+      "30726003",
+      "39150724",
+      "41797598",
+      "39536149",
+      "39111466",
+      "27077170",
+      "31855381",
+      "30571073",
+      "29262162",
+      "33620822",
+      "39969530",
+      "24736394",
+      "34033342",
+      "39026424",
+      "24660003",
+      "30855919",
+      "20301291",
+      "20301568",
+      "42475461",
+      "18358072",
+      "31679171",
+      "41277645",
+      "38309959",
+      "27820426",
+      "40097020",
+      "42709370",
+      "35593869",
+      "27819973",
+      "32324134",
+      "11070952",
+      "25963545",
+      "32553120",
+      "36189921",
+      "35201707",
+      "36508524",
+      "35015469",
+      "42741468",
+      "36059114",
+      "35864917",
+      "36979172",
+      "20301575",
+      "37851522",
+      "20301303",
+      "37131379",
+      "32553112",
+      "37131395",
+      "35762573",
+      "26299364",
+      "37876568",
+      "29924900",
+      "20188489",
+      "15712197",
+      "37597490",
+      "31260100",
+      "36745138",
+      "41129277",
+      "41912385",
+      "16334858",
+      "40401775",
+      "32809519",
+      "22329826",
+      "42403001",
+      "34734804",
+      "39630956",
+      "35685361",
+      "33084577",
+      "42178487",
+      "38006373",
+      "15842167",
+      "42282078",
+      "26571286",
+      "36321689",
+      "23074401",
+      "42377900",
+      "35951645",
+      "33904163",
+      "38791218"
+    ],
+    "review": [
+      "42810978",
+      "34456244",
+      "36321557",
+      "39023472",
+      "39150724",
+      "41797598",
+      "27077170",
+      "20301291",
+      "20301568",
+      "41277645",
+      "42709370",
+      "11070952",
+      "42741468",
+      "20301575",
+      "20301303",
+      "20188489",
+      "15712197",
+      "31260100",
+      "36745138",
+      "41912385",
+      "16334858",
+      "40401775",
+      "42403001",
+      "42282078"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bjd/article-lookup/doi/10.1093/bjd/ljag260",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

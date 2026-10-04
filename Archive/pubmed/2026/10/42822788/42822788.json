@@ -1,0 +1,270 @@
+{
+  "identity": {
+    "pmid": "42822788",
+    "doi": "10.1016/j.fitote.2026.107505",
+    "title": "Rapid isolation of anti-inflammatory Terpenoids from Dichroa febrifuga."
+  },
+  "content": {
+    "abstract": "Based on a structure-guided rapid isolation strategy, nine terpenoids were targeted and isolated from the traditional antimalarial herbal medicine Dichroa febrifuga Lour. These included four new compounds, one of which possessed a previously undescribed skeleton. The structures of all compounds were unequivocally established through extensive spectroscopic analysis, quantum chemical calculations, computer-assisted structure elucidation, and X-ray single-crystal diffraction. In the context of the dysregulated inflammatory responses often accompanying malaria infection, the isolated compounds were evaluated for their anti-inflammatory activities. Several compounds exhibited moderate anti-inflammatory activity. Molecular docking technology was employed to validate the binding affinities of the active compounds to the core inflammatory transcription factor NF-kappaB. Furthermore, network pharmacology analysis revealed that these compounds may exert synergistic effects by modulating multiple inflammation-related pathways.",
+    "keywords": [
+      "Anti-inflammatory",
+      "Dichroa febrifuga",
+      "Terpenoids"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Du, Ning-Ning",
+        "Xu, Zhi-Yong",
+        "Yang, Chun-Ying",
+        "Xin, Ben-Song",
+        "Zhang, Xin",
+        "Li, Ying-Shuang",
+        "Yao, Guo-Dong",
+        "Huang, Xiao-Xiao",
+        "Song, Shao-Jiang"
+      ],
+      "short_names": [
+        "Du NN",
+        "Xu ZY",
+        "Yang CY",
+        "Xin BS",
+        "Zhang X",
+        "Li YS",
+        "Yao GD",
+        "Huang XX",
+        "Song SJ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China.",
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China.",
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China.",
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China.",
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China.",
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China.",
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China.",
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China. Electronic address: xiaoxiao270@163.com.",
+        "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China. Electronic address: songsj99@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Du, Ning-Ning",
+        "short_name": "Du NN",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Zhi-Yong",
+        "short_name": "Xu ZY",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Chun-Ying",
+        "short_name": "Yang CY",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China."
+        ]
+      },
+      {
+        "full_name": "Xin, Ben-Song",
+        "short_name": "Xin BS",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xin",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ying-Shuang",
+        "short_name": "Li YS",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Guo-Dong",
+        "short_name": "Yao GD",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xiao-Xiao",
+        "short_name": "Huang XX",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China. Electronic address: xiaoxiao270@163.com."
+        ]
+      },
+      {
+        "full_name": "Song, Shao-Jiang",
+        "short_name": "Song SJ",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Computational Chemistry-Based Natural Antitumor Drug Research & Development, Liaoning Province; Engineering Research Center of Natural Medicine Active Molecule Research & Development, Liaoning Province; Key Laboratory of Natural Bioactive Compounds Discovery & Modification, Shenyang; School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, Liaoning 110016, China. Electronic address: songsj99@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Fitoterapia"
+    ],
+    "journal_abbrev": [
+      "Fitoterapia"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42822788",
+      "38537842",
+      "36910464",
+      "19607899",
+      "41839298",
+      "39617073",
+      "41550535",
+      "41802508",
+      "41687945",
+      "41421403",
+      "42696976",
+      "41520961",
+      "42421348",
+      "40553825",
+      "38380576",
+      "42302947",
+      "39366498",
+      "42460521",
+      "38696100",
+      "40516294",
+      "41316260",
+      "41720418",
+      "37434431",
+      "38964626",
+      "41507578",
+      "26969383",
+      "40347028",
+      "35040393",
+      "28847754",
+      "38458086",
+      "42476422",
+      "37813132",
+      "40049341",
+      "42623947",
+      "42173415",
+      "42280394",
+      "38851471",
+      "42107750",
+      "42202914",
+      "38413973",
+      "41507718",
+      "42314811",
+      "40499803",
+      "42276391",
+      "38602386",
+      "35779819",
+      "39610125",
+      "39452850",
+      "41164267",
+      "29655613",
+      "34808299",
+      "41015069",
+      "42424752",
+      "40345124",
+      "39041167",
+      "38242218",
+      "41619861",
+      "31136898",
+      "40330488",
+      "42193100",
+      "37236383",
+      "40935213",
+      "39662339",
+      "40523578",
+      "32505843",
+      "36317819",
+      "36442577",
+      "36587875",
+      "39855827",
+      "42469794",
+      "42294648",
+      "39642579",
+      "42419399",
+      "42399461",
+      "42521178",
+      "39743480",
+      "35364310",
+      "41031039",
+      "42543283",
+      "42019124",
+      "39374881",
+      "36911881",
+      "40426157",
+      "41357871",
+      "37751824",
+      "41389887",
+      "36634723",
+      "38377816",
+      "39410900",
+      "41038150",
+      "42686048",
+      "40273708",
+      "33556841",
+      "42678301",
+      "41881739",
+      "30466993",
+      "38477043",
+      "38972211",
+      "33444723",
+      "38030026"
+    ],
+    "review": [
+      "42822788",
+      "38537842"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0367-326X(26)00425-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

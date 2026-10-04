@@ -1,0 +1,265 @@
+{
+  "identity": {
+    "pmid": "42803824",
+    "doi": "10.1007/s00109-026-02717-2",
+    "title": "CTCF-FXN regulatory axis plays critical roles in clinical assessments and disease progression of primary open-angle glaucoma."
+  },
+  "content": {
+    "abstract": "Primary open-angle glaucoma (POAG) is an irreversible ophthalmic disease that is the leading cause of blindness. Oxidative stress (OS) is considered an important contributor to POAG pathogenesis. However, its mechanism of action in POAG remains vague. FXN was identified as a candidate OS-related gene associated with POAG through WGCNA and two machine learning methods (LASSO regression and SVM-RFE). Through multiple bioinformatic analyses, FXN exhibited potential diagnostic value and was associated with immune-related signatures in POAG samples. GSEA revealed that high FXN expression was associated with enrichment of glycolysis- and pyruvate metabolism-related gene sets. FXN expression was significantly decreased in an H2O2 in vitro model (R28 cells). CCK8, EdU, TUNEL, ROS detection and flow cytometry assays indicated that FXN overexpression improved retinal ganglion cells (RGCs) viability and inhibited cell apoptosis and ROS accumulation. Mechanistically, CTCF was demonstrated to transcriptionally regulate FXN by binding to its promoter region, as confirmed by ChIP assay. FXN deletion partially abolished the protective effects of CTCF overexpression on RGC viability, apoptosis, and oxidative stress responses. In conclusions, FXN may represent a potential biomarker associated with POAG. The identification of the CTCF-FXN regulatory axis provides new insights into the molecular mechanisms underlying POAG.",
+    "keywords": [
+      "CTCF",
+      "FXN",
+      "Oxidative stress",
+      "Primary open-angle glaucoma"
+    ],
+    "mesh_terms": [
+      "*Glaucoma, Open-Angle/metabolism/pathology/genetics/etiology/diagnosis",
+      "Humans",
+      "Oxidative Stress",
+      "*CCCTC-Binding Factor/metabolism/genetics",
+      "Disease Progression",
+      "Apoptosis/genetics",
+      "Animals",
+      "Gene Expression Regulation",
+      "Retinal Ganglion Cells/metabolism",
+      "Biomarkers"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cai, Danrui",
+        "Yu, Yao",
+        "Ma, Junze",
+        "Li, Ting",
+        "Liu, Ziyao"
+      ],
+      "short_names": [
+        "Cai D",
+        "Yu Y",
+        "Ma J",
+        "Li T",
+        "Liu Z"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-8719-6062"
+      ],
+      "affiliations": [
+        "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.",
+        "Department of Ophthalmology, The affiliated Hospital of Southwest Medical University, Luzhou, China.",
+        "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.",
+        "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.",
+        "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China. ziyaoliu0121@sina.com.",
+        "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, No. 157, West Five Road, Xi'an, 710004, Shaanxi, China. ziyaoliu0121@sina.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cai, Danrui",
+        "short_name": "Cai D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yao",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, The affiliated Hospital of Southwest Medical University, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Junze",
+        "short_name": "Ma J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ting",
+        "short_name": "Li T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ziyao",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0009-0005-8719-6062"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China. ziyaoliu0121@sina.com.",
+          "Department of Ophthalmology, The Second Affiliated Hospital of Xi'an Jiaotong University, No. 157, West Five Road, Xi'an, 710004, Shaanxi, China. ziyaoliu0121@sina.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular medicine (Berlin, Germany)"
+    ],
+    "journal_abbrev": [
+      "J Mol Med (Berl)"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 17:31",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42803824",
+      "41817565",
+      "22194658",
+      "42074521",
+      "42140517",
+      "40128732",
+      "39560561",
+      "21883446",
+      "41609094",
+      "41712748",
+      "26056729",
+      "41679738",
+      "41672192",
+      "33670885",
+      "40562139",
+      "37610681",
+      "21707516",
+      "42468813",
+      "33599104",
+      "39133496",
+      "32913388",
+      "41047921",
+      "39488861",
+      "28499933",
+      "40652070",
+      "41493779",
+      "39922523",
+      "25854109",
+      "40091789",
+      "39125762",
+      "33714955",
+      "39506204",
+      "27001270",
+      "40892181",
+      "22876139",
+      "33104163",
+      "41252784",
+      "41455522",
+      "31055996",
+      "39695008",
+      "9292254",
+      "40228223",
+      "28223208",
+      "30861198",
+      "36002796",
+      "37305138",
+      "37171014",
+      "31000793",
+      "36131186",
+      "25818176",
+      "29610276",
+      "41016521",
+      "22568103",
+      "29290065",
+      "25740847",
+      "27537261",
+      "22128235",
+      "32178636",
+      "37806937",
+      "42456385",
+      "28423527",
+      "16723467",
+      "23638916",
+      "40086804",
+      "26718031",
+      "41068080",
+      "32275923",
+      "37605653",
+      "28249604",
+      "31525344",
+      "40482041",
+      "21241689",
+      "35278478",
+      "41971217",
+      "32980322",
+      "40571142",
+      "36289519",
+      "30677397",
+      "33987224",
+      "38479028",
+      "30663431",
+      "30958601",
+      "26518070",
+      "29401312",
+      "41797275",
+      "40032150",
+      "40779924",
+      "42063079",
+      "24597656",
+      "31144440",
+      "20631153",
+      "34830007",
+      "38619629",
+      "41665634",
+      "23566105",
+      "31786943",
+      "40077931",
+      "29750714",
+      "33935712",
+      "15677485"
+    ],
+    "review": [
+      "42803824",
+      "21883446",
+      "33670885",
+      "28499933",
+      "25854109",
+      "9292254",
+      "28223208",
+      "22568103",
+      "29290065",
+      "40086804",
+      "31525344",
+      "40482041",
+      "26518070",
+      "24597656"
+    ],
+    "pmc": [
+      "13619790"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42803824/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1007/s00109-026-02717-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

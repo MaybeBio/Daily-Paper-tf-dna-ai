@@ -1,0 +1,346 @@
+{
+  "identity": {
+    "pmid": "42818108",
+    "doi": "10.64898/2026.09.21.753178",
+    "title": "A de novo GABPA Variant in a Patient with Multifocal Cutaneous Vascular Tumors of an Unclassified Entity."
+  },
+  "content": {
+    "abstract": "We investigated the genetic basis of a previously unclassified congenital vascular anomaly in a patient with multifocal cutaneous vascular tumors. Through genomic analysis, we identified a novel heterozygous de novo germline variant in GA-binding protein-alpha (GABPA), an ETS family transcription factor. Histopathologic evaluation demonstrated capillary-venous lesions lacking glucose transporter 1 expression, distinguishing this entity from common infantile hemangioma. Notably, the tumor vasculature exhibited a prominent alpha-SMA-positive perivascular cell layer, with nuclear localized GABPA detected in endothelial and perivascular cells. The GABPA c.509T>G (p.L170R) variant is absent from large population databases, including gnomAD, DeCAF, and RGC-MCPS databases, indicating it is extremely rare. The affected leucine residue is highly conserved across species and located within the Pointed (PNT) domain, a critical region mediating GABPA protein-protein interactions. AlphaMissense predicts this substitution to be highly damaging. Structure-based analysis using an AlphaFold-predicted approach, combined with in silico mutagenesis and molecular interaction analyses, revealed that the L170R substitution introduces new electrostatic interactions while disrupting native hydrophobic contacts within the PNT domain. Functional assessment in zebrafish demonstrated that mosaic stromal expression of GABPA-L170R caused abnormal vascular architecture compared with GABPA-wild-type controls, establishing a direct link between this variant and disrupted vascular development. Collectively, the genetic rarity, evolutionary conservation, predicted structural perturbation, and disruptive effects on vascular development establish GABPA-L170R as likely disease-causing variant. These findings define a new molecular mechanism underlying congenital vascular tumor formation and expand the role for ETS-family transcriptional regulation in human vascular anomalies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Holm, Annegret",
+        "Brouillard, Pascal",
+        "Mahammadzade, Nagi",
+        "Mehrabipour, Mehrnaz",
+        "Shimbulu, Anna",
+        "Benetatos, Dionyssios",
+        "Limaye, Nisha",
+        "Alomari, Ahmad",
+        "Zon, Leonard I",
+        "Eng, Whitney",
+        "Kozakewich, Harry",
+        "Kapp, Friedrich G",
+        "Vikkula, Miikka",
+        "Mulliken, John B",
+        "Bischoff, Joyce"
+      ],
+      "short_names": [
+        "Holm A",
+        "Brouillard P",
+        "Mahammadzade N",
+        "Mehrabipour M",
+        "Shimbulu A",
+        "Benetatos D",
+        "Limaye N",
+        "Alomari A",
+        "Zon LI",
+        "Eng W",
+        "Kozakewich H",
+        "Kapp FG",
+        "Vikkula M",
+        "Mulliken JB",
+        "Bischoff J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8691-4131",
+        "ORCID: 0000-0001-9548-8229",
+        "ORCID: 0009-0002-0031-9372",
+        "ORCID: 0000-0002-8107-7434",
+        "ORCID: 0009-0000-0824-3507",
+        "ORCID: 0000-0002-9820-4794",
+        "ORCID: 0000-0003-0860-926X",
+        "ORCID: 0000-0002-0103-6000",
+        "ORCID: 0000-0002-8047-3179",
+        "ORCID: 0000-0002-2729-6177",
+        "ORCID: 0000-0002-6236-338X",
+        "ORCID: 0000-0002-6367-1974"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Holm, Annegret",
+        "short_name": "Holm A",
+        "identifiers": [
+          "0000-0002-8691-4131"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Brouillard, Pascal",
+        "short_name": "Brouillard P",
+        "identifiers": [
+          "0000-0001-9548-8229"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mahammadzade, Nagi",
+        "short_name": "Mahammadzade N",
+        "identifiers": [
+          "0009-0002-0031-9372"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mehrabipour, Mehrnaz",
+        "short_name": "Mehrabipour M",
+        "identifiers": [
+          "0000-0002-8107-7434"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shimbulu, Anna",
+        "short_name": "Shimbulu A",
+        "identifiers": [
+          "0009-0000-0824-3507"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Benetatos, Dionyssios",
+        "short_name": "Benetatos D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Limaye, Nisha",
+        "short_name": "Limaye N",
+        "identifiers": [
+          "0000-0002-9820-4794"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Alomari, Ahmad",
+        "short_name": "Alomari A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zon, Leonard I",
+        "short_name": "Zon LI",
+        "identifiers": [
+          "0000-0003-0860-926X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Eng, Whitney",
+        "short_name": "Eng W",
+        "identifiers": [
+          "0000-0002-0103-6000"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kozakewich, Harry",
+        "short_name": "Kozakewich H",
+        "identifiers": [
+          "0000-0002-8047-3179"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kapp, Friedrich G",
+        "short_name": "Kapp FG",
+        "identifiers": [
+          "0000-0002-2729-6177"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Vikkula, Miikka",
+        "short_name": "Vikkula M",
+        "identifiers": [
+          "0000-0002-6236-338X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mulliken, John B",
+        "short_name": "Mulliken JB",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bischoff, Joyce",
+        "short_name": "Bischoff J",
+        "identifiers": [
+          "0000-0002-6367-1974"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818108",
+      "26814189",
+      "42475469",
+      "36148623",
+      "35549739",
+      "23284628",
+      "28870774",
+      "42049205",
+      "39005171",
+      "31802036",
+      "42538229",
+      "24481480",
+      "34033342",
+      "35685361",
+      "32768523",
+      "40813762",
+      "28549418",
+      "40822683",
+      "17417613",
+      "39489850",
+      "42144731",
+      "30836589",
+      "23946963",
+      "20301575",
+      "30181547",
+      "20522024",
+      "36745138",
+      "34326811",
+      "36575358",
+      "23912807",
+      "42196261",
+      "20301733",
+      "42040894",
+      "16334858",
+      "41300798",
+      "11312108",
+      "29215836",
+      "28108517",
+      "42397456",
+      "12464608",
+      "41981389",
+      "39969530",
+      "40834682",
+      "42711129",
+      "41989229",
+      "39678461",
+      "36993720",
+      "20301283",
+      "20301377",
+      "20301568",
+      "36123719",
+      "42298173",
+      "37587393",
+      "23933270",
+      "33971972",
+      "34650623",
+      "41307550",
+      "15501228",
+      "42195022",
+      "28762569",
+      "41041882",
+      "42640505",
+      "39819837",
+      "34020708",
+      "41685408",
+      "42024975",
+      "41430707",
+      "42051466",
+      "37366497",
+      "31855381",
+      "30532227",
+      "36321557",
+      "36524333",
+      "41911375",
+      "23589285",
+      "40820230",
+      "36910266",
+      "20301469",
+      "20301715",
+      "34478686",
+      "39918047",
+      "30284014",
+      "34306255",
+      "40692790",
+      "35711095",
+      "27896282",
+      "41451501",
+      "40152536",
+      "10640707",
+      "42551538",
+      "11297247",
+      "28570036",
+      "20301712",
+      "40476564",
+      "42825318",
+      "39336746",
+      "38448978",
+      "41473987",
+      "40350394",
+      "38904297"
+    ],
+    "review": [
+      "42818108",
+      "32768523",
+      "23946963",
+      "20301575",
+      "36745138",
+      "20301733",
+      "16334858",
+      "11312108",
+      "29215836",
+      "42711129",
+      "20301283",
+      "20301377",
+      "20301568",
+      "36321557",
+      "41911375",
+      "20301469",
+      "20301715",
+      "34478686",
+      "40692790",
+      "28570036",
+      "20301712"
+    ],
+    "pmc": [
+      "13622103"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.21.753178",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

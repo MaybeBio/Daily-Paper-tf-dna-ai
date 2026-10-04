@@ -1,0 +1,432 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.28.754892",
+  "title": "Gene-family-dependent thermodynamic effects of oncogenic mutations on nucleosome-DNA binding stability: a comparative molecular dynamics study across 22 cancer hotspots",
+  "doi": "10.64898/2026.09.28.754892",
+  "abstract": "Oncogenic mutations are known to occur at non-random rates and specific hotspots, yet the structural and thermodynamic factors underlying these hotspots remain poorly understood. This study presents molecular dynamics simulations of 22 cancer hotspots across 10 oncogene families, simulated as histone-DNA complexes. Across 18 of 22 mutations, thermodynamic effects were predominantly localized to within 6 Å of the DNA-histone interface (mean capture 104%), with van der Waals interactions driving the effect at the thermodynamic extremes, indicating that oncogenic mutations alter nucleosome binding through precise local contact changes rather than global structural rearrangements. Further, analysis revealed a gene-family correlated pattern in thermodynamic stability. RAS family mutations showed a consistent trend toward nucleosome stabilization (mean ΔΔG = −4.82 kcal mol -1 ), while kinase domain mutations trended toward destabilization (mean ΔΔG = +40.12 kcal mol -1 ), a difference reaching statistical significance in this exploratory analysis (Mann-Whitney U, p = 0.008). This interface-specific mechanism, combined with the gene-family-correlated thermodynamic pattern, provides a biophysical framework for understanding nucleosome-level contributions to cancer hotspot mutation biology.",
+  "authors": [
+    "Shlomo Freudenberger",
+    "Evan Boczko",
+    "Sanjay Goel",
+    "Radhashree Maitra"
+  ],
+  "published_date": "2026-09-30",
+  "updated_date": "2026-09-30T12:05:15Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.28.754892",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.28.754892.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            3
+          ]
+        ],
+        "date-time": "2026-10-03T17:54:24Z",
+        "timestamp": 1791050064612,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 39,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                30
+              ]
+            ],
+            "date-time": "2026-09-30T00:00:00Z",
+            "timestamp": 1790726400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Oncogenic mutations are known to occur at non-random rates and specific hotspots, yet the structural and thermodynamic factors underlying these hotspots remain poorly understood. This study presents molecular dynamics simulations of 22 cancer hotspots across 10 oncogene families, simulated as histone-DNA complexes. Across 18 of 22 mutations, thermodynamic effects were predominantly localized to within 6 Å of the DNA-histone interface (mean capture 104%), with van der Waals interactions driving the effect at the thermodynamic extremes, indicating that oncogenic mutations alter nucleosome binding through precise local contact changes rather than global structural rearrangements. Further, analysis revealed a gene-family correlated pattern in thermodynamic stability. RAS family mutations showed a consistent trend toward nucleosome stabilization (mean ΔΔG = −4.82 kcal mol\n                  <jats:sup>-1</jats:sup>\n                  ), while kinase domain mutations trended toward destabilization (mean ΔΔG = +40.12 kcal mol\n                  <jats:sup>-1</jats:sup>\n                  ), a difference reaching statistical significance in this exploratory analysis (Mann-Whitney U,\n                  <jats:italic>p</jats:italic>\n                  = 0.008). This interface-specific mechanism, combined with the gene-family-correlated thermodynamic pattern, provides a biophysical framework for understanding nucleosome-level contributions to cancer hotspot mutation biology.\n                </jats:p>",
+      "DOI": "10.64898/2026.09.28.754892",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ],
+        "date-time": "2026-09-30T12:05:15Z",
+        "timestamp": 1790769915000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Gene-family-dependent thermodynamic effects of oncogenic mutations on nucleosome-DNA binding stability: a comparative molecular dynamics study across 22 cancer hotspots"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0002-4174-608X",
+          "authenticated-orcid": false,
+          "given": "Shlomo",
+          "family": "Freudenberger",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Yeshiva University, New York, NY, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-2554-9765",
+          "authenticated-orcid": false,
+          "given": "Evan",
+          "family": "Boczko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Yeshiva University, New York, NY, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2798-7568",
+          "authenticated-orcid": false,
+          "given": "Sanjay",
+          "family": "Goel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Medical Oncology, RJW Barnabas Health, Rutgers Cancer Institute, New Brunswick, New Jersey 08901"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5365-5890",
+          "authenticated-orcid": false,
+          "given": "Radhashree",
+          "family": "Maitra",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Yeshiva University, New York, NY, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2011.02.013"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature14221"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.3391"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1010978107"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature12477"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ng.2702"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkae098"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature17676"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/301089a0"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2012.04.024"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/S1110724302001985"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41588-020-0708-0"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature08473"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.113.168101"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2018.10.004"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jcc.20291"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.softx.2015.06.001"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jctc.1c00645"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkab246"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-021-25568-6"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bpj.2025.06.042"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gki663"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gky1015"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41597-024-03571-y"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2105-11-346"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pro.3943"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pcbi.1002279"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bpj.2015.12.015"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bpj.2011.07.057"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jctc.5b00255"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nmeth.3658"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.445869"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ct100578z"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ct300418h"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/prot.20033"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1235122"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature11273"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-024-50107-4"
+        },
+        {
+          "key": "2026100310401425000_2026.09.28.754892v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1158/1541-7786.MCR-19-0747"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.28.754892",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            3
+          ]
+        ],
+        "date-time": "2026-10-03T17:40:24Z",
+        "timestamp": 1791049224000
+      },
+      "score": 126.30568,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.28.754892"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "references-count": 39,
+      "URL": "https://doi.org/10.64898/2026.09.28.754892",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

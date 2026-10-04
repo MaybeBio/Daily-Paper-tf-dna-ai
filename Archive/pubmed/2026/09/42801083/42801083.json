@@ -1,0 +1,304 @@
+{
+  "identity": {
+    "pmid": "42801083",
+    "doi": "10.1016/j.prnil.2026.02.003",
+    "title": "A cfDNA-based DNA methylation classifier for distinguishing prostate cancer from benign prostatic hyperplasia."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Differentiating benign prostatic hyperplasia (BPH) from prostate cancer (PCa) remains a diagnostic challenge due to overlapping clinical features and the limited specificity of prostate-specific antigen (PSA) testing. Recent studies highlight the promise of DNA methylation patterns in cell-free DNA (cfDNA) as non-invasive biomarkers for prostate disease stratification. This study aimed to develop a targeted methylation-based diagnostic model capable of distinguishing PCa from BPH using cfDNA. We hypothesized that specific genomic regions exhibit consistent hyper- or hypomethylation signatures that could serve as robust diagnostic markers. MATERIALS AND METHODS: We applied a custom panel targeting 748 predefined differentially methylated regions (DMRs) to cfDNA from 365 participants (PCa: 230; BPH: 135). Methylation was quantified by targeted enzymatic methyl-sequencing. Following feature selection, a 43 DMR-based model was built using a stacking ensemble framework (Random Forest + XGBoost with stacking). Data were split by stratified sampling into training/test sets and a validation cohort. Uncertainty was quantified via 1,000-iteration non-parametric bootstraps. Functional relevance was assessed by gene ontology (GO) enrichment stratified by genomic context. RESULTS: The diagnostic model exhibited robust discriminative performance across both test and validation cohorts. In the test set, the model achieved an area under the receiver operating characteristic curve (ROC-AUC) of 0.99 and overall accuracy of 0.95, with balanced sensitivity (0.96) and specificity (0.93). Consistent results were observed in the validation set, with a ROC-AUC of 0.98, overall accuracy of 0.93, sensitivity of 0.94, and specificity of 0.93. Importantly, in the validation cohort, the model retained a high sensitivity of 0.94 (95 % CI: 0.84-0.98), underscoring its potential clinical applicability. GO analysis revealed promoter-proximal hypermethylation enriched for developmental programs, transcription factor activity, and chromatin remodeling, whereas gene body hypermethylation mapped to RNA metabolic processes and intracellular transport, supporting biological plausibility. CONCLUSIONS: Integrating cfDNA methylation with machine learning delivers a minimally invasive, clinically actionable assay that robustly differentiates PCa from BPH. These results motivate prospective, multi-center validation and position cfDNA methylation profiling as a scalable strategy for prostate disease stratification.",
+    "keywords": [
+      "benign prostatic hyperplasia",
+      "biomarker",
+      "cfDNA methylation",
+      "machine learning",
+      "non-invasive diagnostics",
+      "prostate cancer"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lee, Jong Hoo",
+        "Oh, Hye Jin",
+        "Koo, Hyo Jeong",
+        "Kim, Mee Young",
+        "Kim, Choung-Soo",
+        "Lim, Bumjin",
+        "Lee, Ji Youl",
+        "Park, Woong-Yang"
+      ],
+      "short_names": [
+        "Lee JH",
+        "Oh HJ",
+        "Koo HJ",
+        "Kim MY",
+        "Kim CS",
+        "Lim B",
+        "Lee JY",
+        "Park WY"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Geninus Inc., Seoul, Korea.",
+        "Geninus Inc., Seoul, Korea.",
+        "Geninus Inc., Seoul, Korea.",
+        "Department of Urology, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea.",
+        "Catholic Prostate Institute, The Catholic University of Korea, Seoul, Korea.",
+        "Cancer Research Institute, College of Medicine, The Catholic University of Korea, Seoul, Korea.",
+        "Department of Urology, Ewha Womans University Mokdong Hospital, Ewha Womans University School of Medicine, Seoul, 07985, Korea.",
+        "Department of Urology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 05505, Korea.",
+        "Department of Urology, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea.",
+        "Catholic Prostate Institute, The Catholic University of Korea, Seoul, Korea.",
+        "Cancer Research Institute, College of Medicine, The Catholic University of Korea, Seoul, Korea.",
+        "Geninus Inc., Seoul, Korea.",
+        "Samsung Genome Institute, Samsung Medical Center, Seoul, Korea.",
+        "Department of Molecular Cell Biology, Sungkyunkwan University School of Medicine, Suwon, Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lee, Jong Hoo",
+        "short_name": "Lee JH",
+        "identifiers": [],
+        "affiliations": [
+          "Geninus Inc., Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Oh, Hye Jin",
+        "short_name": "Oh HJ",
+        "identifiers": [],
+        "affiliations": [
+          "Geninus Inc., Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Koo, Hyo Jeong",
+        "short_name": "Koo HJ",
+        "identifiers": [],
+        "affiliations": [
+          "Geninus Inc., Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Mee Young",
+        "short_name": "Kim MY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea.",
+          "Catholic Prostate Institute, The Catholic University of Korea, Seoul, Korea.",
+          "Cancer Research Institute, College of Medicine, The Catholic University of Korea, Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Choung-Soo",
+        "short_name": "Kim CS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ewha Womans University Mokdong Hospital, Ewha Womans University School of Medicine, Seoul, 07985, Korea."
+        ]
+      },
+      {
+        "full_name": "Lim, Bumjin",
+        "short_name": "Lim B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 05505, Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Ji Youl",
+        "short_name": "Lee JY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea.",
+          "Catholic Prostate Institute, The Catholic University of Korea, Seoul, Korea.",
+          "Cancer Research Institute, College of Medicine, The Catholic University of Korea, Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Woong-Yang",
+        "short_name": "Park WY",
+        "identifiers": [],
+        "affiliations": [
+          "Geninus Inc., Seoul, Korea.",
+          "Samsung Genome Institute, Samsung Medical Center, Seoul, Korea.",
+          "Department of Molecular Cell Biology, Sungkyunkwan University School of Medicine, Suwon, Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Prostate international"
+    ],
+    "journal_abbrev": [
+      "Prostate Int"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 05:44",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42801083",
+      "42037420",
+      "38824441",
+      "39165498",
+      "42703434",
+      "37409096",
+      "37990292",
+      "31640781",
+      "42260550",
+      "40563675",
+      "42727746",
+      "42676643",
+      "41917473",
+      "41847692",
+      "42589294",
+      "42729177",
+      "40804780",
+      "41247441",
+      "41395283",
+      "41491226",
+      "40457266",
+      "29740534",
+      "42524278",
+      "39753878",
+      "41851734",
+      "23779229",
+      "42215604",
+      "36036057",
+      "42128534",
+      "40264196",
+      "39332854",
+      "40830224",
+      "41488623",
+      "42566108",
+      "37101220",
+      "42794930",
+      "40903311",
+      "41229986",
+      "16166436",
+      "41081880",
+      "41719115",
+      "41685330",
+      "29571584",
+      "36198834",
+      "30470249",
+      "38635241",
+      "42415410",
+      "39909829",
+      "41318553",
+      "27081843",
+      "42560195",
+      "42520587",
+      "41054593",
+      "34722271",
+      "30373654",
+      "42067888",
+      "41449174",
+      "40684841",
+      "30843003",
+      "24839830",
+      "33256740",
+      "42151833",
+      "41165038",
+      "41155454",
+      "24937670",
+      "42072359",
+      "41043659",
+      "41220580",
+      "39482707",
+      "39694406",
+      "33440955",
+      "41623856",
+      "28412973",
+      "40418197",
+      "34503269",
+      "36057424",
+      "40244164",
+      "41322408",
+      "35513884",
+      "40970770",
+      "29988684",
+      "41188996",
+      "41992197",
+      "42639073",
+      "42608375",
+      "42645652",
+      "39123347",
+      "42432620",
+      "40474333",
+      "40418571",
+      "38611002",
+      "35974349",
+      "40826768",
+      "39819319",
+      "27418398",
+      "42575119",
+      "41989963",
+      "39009999",
+      "35973389",
+      "40717135"
+    ],
+    "review": [
+      "42801083",
+      "41719115"
+    ],
+    "pmc": [
+      "13615706"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2287-8882(26)00007-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42801083/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PSAT1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-415",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2287-8882(26)00007-3",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

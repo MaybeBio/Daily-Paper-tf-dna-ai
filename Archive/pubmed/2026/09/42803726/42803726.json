@@ -1,0 +1,210 @@
+{
+  "identity": {
+    "pmid": "42803726",
+    "doi": "10.1177/13872877261487604",
+    "title": "Integrating transcriptomic data to identify calmodulin-related diagnostic biomarkers for Alzheimer's disease."
+  },
+  "content": {
+    "abstract": "BackgroundAlzheimer's disease (AD) is driven by amyloid-beta, tau protein, and neuroinflammation. Calmodulin-mediated calcium signaling centrally links synaptic dysfunction, tauopathy, and inflammation, making it a key mechanistic and therapeutic target.ObjectiveTo identify calmodulin-related diagnostic biomarkers for AD and explore associated immune profiles and molecular subtypes.MethodsThe present work utilized integrative bioinformatics for the characterization of calmodulin-related genes in AD. Differentially expressed calmodulin-related genes were identified from Gene Expression Omnibus datasets and the Human Protein Atlas. Core genes were screened using weighted gene co-expression network analysis combined with three machine learning algorithms (Least Absolute Shrinkage and Selection Operator, random forest, and Support Vector Machine), from which a diagnostic model was subsequently constructed and validated. Immune infiltration was evaluated via ssGSEA and CIBERSORT, transcription factor and ceRNA regulatory networks were established, and small-molecule drugs were predicted. Consensus clustering was further applied to define molecular subtypes.ResultsFrom 50 differentially expressed genes, three core genes-MKNK2, ITPKB, and CEP97-showed strong diagnostic performance. Immune cell alterations were uncovered, regulatory networks and drug candidates predicted, and consensus clustering divided AD patients into two distinct subtypes.ConclusionsITPKB, MKNK2, and CEP97 are identified as calmodulin-related AD biomarkers linked to immune infiltration and subtyping, with potential for early diagnosis and novel therapies.",
+    "keywords": [
+      "Alzheimer's disease",
+      "calmodulin-related genes",
+      "diagnostic biomarkers",
+      "immune infiltration",
+      "molecular subtype"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Xi'An",
+        "Huang, Yanbin",
+        "Li, Jiuru"
+      ],
+      "short_names": [
+        "Wang X",
+        "Huang Y",
+        "Li J"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-6275-3222"
+      ],
+      "affiliations": [
+        "Department of Neurology, Yueqing Hospital of Wenzhou Medical University, Yueqing, China.",
+        "Department of Neurology, Yueqing Hospital of Wenzhou Medical University, Yueqing, China.",
+        "Department of Neurology, Yueqing Hospital of Wenzhou Medical University, Yueqing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Xi'An",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Yueqing Hospital of Wenzhou Medical University, Yueqing, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yanbin",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Yueqing Hospital of Wenzhou Medical University, Yueqing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiuru",
+        "short_name": "Li J",
+        "identifiers": [
+          "0009-0001-6275-3222"
+        ],
+        "affiliations": [
+          "Department of Neurology, Yueqing Hospital of Wenzhou Medical University, Yueqing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of Alzheimer's disease : JAD"
+    ],
+    "journal_abbrev": [
+      "J Alzheimers Dis"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 11:40",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42803726",
+      "39507054",
+      "39394418",
+      "41291841",
+      "39819531",
+      "42723412",
+      "42056344",
+      "41432483",
+      "39650656",
+      "42340574",
+      "39188714",
+      "40685632",
+      "42326009",
+      "42292668",
+      "40600526",
+      "36408104",
+      "41883400",
+      "42109201",
+      "41388523",
+      "42663999",
+      "42642681",
+      "39139563",
+      "40738705",
+      "42791204",
+      "41810197",
+      "37520121",
+      "39375405",
+      "41265166",
+      "42009747",
+      "40704466",
+      "40500570",
+      "40901831",
+      "41858783",
+      "42706545",
+      "41390089",
+      "41316541",
+      "42269031",
+      "41548166",
+      "37274215",
+      "42274933",
+      "38808722",
+      "40753530",
+      "37100862",
+      "42175497",
+      "38141185",
+      "39142001",
+      "42292614",
+      "41703488",
+      "38867322",
+      "42474555",
+      "36506471",
+      "41570454",
+      "39552895",
+      "40129981",
+      "42431430",
+      "39622968",
+      "40165133",
+      "42558367",
+      "41013556",
+      "39920860",
+      "41080564",
+      "41013727",
+      "40406620",
+      "41826854",
+      "39509434",
+      "42123756",
+      "42123445",
+      "41988156",
+      "41146237",
+      "40207815",
+      "38767974",
+      "42302029",
+      "42708302",
+      "41879435",
+      "36059957",
+      "40315768",
+      "39506420",
+      "40192032",
+      "41583468",
+      "41686563",
+      "42799867",
+      "42327749",
+      "36532015",
+      "42064079",
+      "41308018",
+      "35966794",
+      "42107160",
+      "42791187",
+      "37736681",
+      "40313558",
+      "40808946",
+      "41115648",
+      "40620701",
+      "39586719",
+      "39295860",
+      "40025954",
+      "40313958",
+      "40613560",
+      "40768057",
+      "42703336"
+    ],
+    "review": [
+      "42803726",
+      "40025954"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.sagepub.com/doi/10.1177/13872877261487604?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

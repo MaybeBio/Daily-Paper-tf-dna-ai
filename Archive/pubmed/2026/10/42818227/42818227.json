@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42818227",
+    "doi": "10.64898/2026.09.03.749171",
+    "title": "Structural basis for P-TEFb association with BRD4."
+  },
+  "content": {
+    "abstract": "Cyclin-dependent kinases (CDK) dynamically regulate RNA Polymerase (Pol) II during each stage of transcription. Phosphorylation of RNA Pol II and associated transcription factors by CDKs enables stage-specific exchange of factors. CDK9 and a cyclin partner (CYCT1, T2 or K) comprise the Positive Transcription Elongation Factor-b (P-TEFb) complex, which is responsible for releasing RNA Pol II from promoter proximal pausing into processive elongation. P-TEFb activity is stimulated by bromodomain-containing Protein 4 (BRD4); however, the structural basis for BRD4 association with P-TEFb has remained unclear. Using cryogenic-electron microscopy, AlphaFold modeling, and biochemical probing, we show that the P-TEFb interacting domain of BRD4 (BRD4-PID) interacts with P-TEFb via the C-lobe of CDK9 and the second cyclin domain of CYCT1. The BRD4 binding surface on CDK9 is also used by super elongation complex component AFF4. Our analysis indicates that BRD4 may stimulate P-TEFb activity by remodeling the kinase alphaC helix relative to previous structures. Finally, P-TEFb activity is restricted when bound to the 7SK RNP complex. We show that in addition to BRD4-PID, the AFF4 N-terminus can release P-TEFb from the 7SK RNP complex. Together, these findings define how P-TEFb activity is regulated by its incorporation into distinct complexes. SIGNIFICANCE STATEMENT: The exquisite control of gene expression is required for proper development and cellular response to environmental stress. Positive transcription elongation factor b (P-TEFb) is required for the phosphorylation of RNA Pol II and leads to the coordinated release of RNA Pol II from pause sites near the promoter. P-TEFb is bound to bromo-domain containing protein 4 (BRD4), which stimulates P-TEFb activity; however, it is unknown how BRD4 associates with P-TEFb. Here we report a cryo-EM structure of P-TEFb bound to BRD4, revealing how BRD4 interacts with P-TEFb. Comparison of our structure with previously reported P-TEFb structures shows how P-TEFb is regulated by different transcription factor binding partners.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mohamed, Abdallah A",
+        "Vos, Seychelle M"
+      ],
+      "short_names": [
+        "Mohamed AA",
+        "Vos SM"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7057-5721",
+        "ORCID: 0000-0003-1985-2994"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Mohamed, Abdallah A",
+        "short_name": "Mohamed AA",
+        "identifiers": [
+          "0000-0001-7057-5721"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Vos, Seychelle M",
+        "short_name": "Vos SM",
+        "identifiers": [
+          "0000-0003-1985-2994"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818227",
+      "37609817",
+      "32048991",
+      "18971272",
+      "29743242",
+      "22084242",
+      "34935961",
+      "10958691",
+      "23589332",
+      "20201073",
+      "24515107",
+      "35856391",
+      "11713532",
+      "24367103",
+      "30227759",
+      "16109376",
+      "16109377",
+      "23658523",
+      "22952229",
+      "11713533",
+      "24985467",
+      "26981421",
+      "26083714",
+      "12832472",
+      "27353326",
+      "17686863",
+      "18483222",
+      "14627702",
+      "18086894",
+      "20926576",
+      "24727379",
+      "19846528",
+      "21378166",
+      "25679530",
+      "11145967",
+      "26728557",
+      "23471103",
+      "24860166",
+      "27833949",
+      "37295357",
+      "10913173",
+      "27369380",
+      "15905409",
+      "9649438",
+      "9857195",
+      "27398404",
+      "31068966",
+      "23086925",
+      "40706597",
+      "15965233",
+      "26659056",
+      "10617616",
+      "36599353",
+      "19328067",
+      "15169877",
+      "27417125",
+      "14580347",
+      "35320752",
+      "17452463",
+      "9593731",
+      "11884399",
+      "10364292",
+      "29649811",
+      "23064645",
+      "18513937",
+      "32747552",
+      "16382153",
+      "18566585",
+      "31147444",
+      "10766736",
+      "12183367",
+      "12588988",
+      "15201869",
+      "21957495",
+      "20385240",
+      "26324325",
+      "25383670",
+      "10974544",
+      "15564463",
+      "28102758",
+      "41540012",
+      "36142573",
+      "18655042",
+      "10077579",
+      "12917420",
+      "20471949",
+      "38301887",
+      "28077651",
+      "33344510",
+      "11739744",
+      "16428435",
+      "16484339",
+      "10066804",
+      "34265249",
+      "39147127",
+      "28340332",
+      "18039861",
+      "16152622",
+      "39416148",
+      "15992410"
+    ],
+    "review": [
+      "42818227",
+      "30227759",
+      "27833949",
+      "27369380",
+      "27398404",
+      "36599353",
+      "27417125",
+      "18513937",
+      "28102758",
+      "18655042",
+      "39147127"
+    ],
+    "pmc": [
+      "13622488"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1602",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.03.749171",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

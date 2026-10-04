@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42825318",
+    "doi": "10.1097/SCS.0000000000013438",
+    "title": "KCTD1 p.Gly62Asp Variant in Scalp-Ear-Nipple Syndrome: Phenotypic and Structural Insights."
+  },
+  "content": {
+    "abstract": "Pathogenic variants in the potassium channel tetramerization domain-containing 1 (KCTD1) gene cause scalp-ear-nipple syndrome (SENS), a rare autosomal dominant developmental disorder. Although the recurrent p.Gly62Asp variant has been previously reported, its genotype-phenotype correlation and structural pathogenic mechanism remain poorly understood. Here, we describe a 10-year-old boy with classical SENS who additionally presented with severe craniofacial abnormalities, including marked hypertelorism, short palpebral fissures, depressed nasal bridge, and nasal bone hypoplasia, together with multicystic dysplastic kidney and myopia. Whole-exome sequencing identified a de novo heterozygous KCTD1 variant (c.185G>A; p.Gly62Asp), which was confirmed by Sanger sequencing. Functional annotation demonstrated that KCTD1 is preferentially expressed in tissues affected by SENS and participates in transcription factor AP-2 (TFAP2)-mediated transcriptional regulation and developmental signaling. Structural analysis using AlphaFold3 showed that the p.Gly62Asp substitution preserved the overall protein fold but induced localized conformational changes within the Broad-complex, Tramtrack, and Bric-a-brac (BTB) domain, whereas DynaMut2 predicted reduced protein stability. PolyPhen-2 further classified this variant as probably damaging. Together, these findings expand the clinical spectrum of the recurrent KCTD1 p.Gly62Asp variant and provide structural insights into its pathogenic effects, highlighting the importance of KCTD1 dysfunction in craniofacial and renal development.",
+    "keywords": [
+      "Craniofacial anomalies",
+      "KCTD1",
+      "de novo p.Gly62Asp variant",
+      "genotype-phenotype correlation",
+      "protein structural analysis",
+      "scalp-ear-nipple syndrome"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yu",
+        "Wu, Qifeng",
+        "Yu, Baofu",
+        "Wei, Jiao",
+        "Dai, Chuanchang"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Wu Q",
+        "Yu B",
+        "Wei J",
+        "Dai C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Shanghai Jiaotong University School of Medicine.",
+        "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.",
+        "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.",
+        "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.",
+        "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.",
+        "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yu",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Jiaotong University School of Medicine.",
+          "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Qifeng",
+        "short_name": "Wu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Baofu",
+        "short_name": "Yu B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Jiao",
+        "short_name": "Wei J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Chuanchang",
+        "short_name": "Dai C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of craniofacial surgery"
+    ],
+    "journal_abbrev": [
+      "J Craniofac Surg"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 13:37",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42825318",
+      "34456244",
+      "42810978",
+      "23541344",
+      "38296633",
+      "31324836",
+      "36579937",
+      "28818080",
+      "33000225",
+      "38790056",
+      "39191250",
+      "33653342",
+      "18358072",
+      "41842826",
+      "39424163",
+      "20301283",
+      "40251640",
+      "41975533",
+      "42285336",
+      "42606787",
+      "20301736",
+      "42787795",
+      "40960598",
+      "41574050",
+      "41307816",
+      "42298173",
+      "20301704",
+      "40742416",
+      "41788411",
+      "42714655",
+      "41168794",
+      "41645375",
+      "41216287",
+      "41063613",
+      "42638108",
+      "34469078",
+      "42377900",
+      "19115315",
+      "20301377",
+      "42731068",
+      "41820311",
+      "41831070",
+      "42443919",
+      "41916888",
+      "41451494",
+      "29305346",
+      "41359419",
+      "42808190",
+      "38591849",
+      "42053849",
+      "42734254",
+      "38647383",
+      "30642272",
+      "41704117",
+      "41086914",
+      "41578212",
+      "38414442",
+      "40282888",
+      "41080462",
+      "42144731",
+      "42630699",
+      "42510827",
+      "42729307",
+      "37041640",
+      "42510068",
+      "40465813",
+      "42609877",
+      "28521875",
+      "42353881",
+      "36046249",
+      "40822683",
+      "41239187",
+      "40860344",
+      "34478686",
+      "42494305",
+      "42087738",
+      "36708876",
+      "42342638",
+      "38791218",
+      "26647308",
+      "39076169",
+      "41685408",
+      "41561257",
+      "20301769",
+      "41788412",
+      "42598702",
+      "42827312",
+      "20301568",
+      "42510869",
+      "41430707",
+      "20301575",
+      "42125344",
+      "42792888",
+      "42091191",
+      "40282317",
+      "32553120",
+      "38404251",
+      "36575358",
+      "41300605",
+      "41560868"
+    ],
+    "review": [
+      "42825318",
+      "34456244",
+      "20301283",
+      "20301736",
+      "20301704",
+      "41645375",
+      "20301377",
+      "41831070",
+      "41916888",
+      "41451494",
+      "38591849",
+      "41704117",
+      "41578212",
+      "42510827",
+      "42729307",
+      "37041640",
+      "34478686",
+      "36708876",
+      "20301769",
+      "20301568"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

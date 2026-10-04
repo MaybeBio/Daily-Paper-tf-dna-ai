@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "42821052",
+    "doi": "10.1007/s11011-026-01996-5",
+    "title": "Punica granatum L. peel extract mitigates hyperlipidemia-induced cognitive impairments in zebrafish larvae via modulating LXR signaling."
+  },
+  "content": {
+    "abstract": "Punica granatum L. is known to provide multiple health benefits against several diseased conditions, primarily hyperlipidemia, atherosclerosis, hyperglycemia and cognitive impairments. Many of its health benefits are attributed due to its antioxidant and anti-inflammatory properties. The purpose of the current study was to assess the in vivo effectiveness of an aqueous peel extract of Punica granatum (PuAq) against hyperlipidemia-induced cognitive impairments in a zebrafish larva model. The quantification of major bioactive metabolites of PuAq was done by a high-pressure liquid chromatography technique. The molecular association of the identified metabolites were assessed through in silico docking simulations. The lower confidence limit of the benchmark dose for PuAq in larvae was calculated to be 59.40 microg/mL. Thereafter, larvae at 4 days' post-fertilization were exposed to a 0.1% egg yolk solution with or without PuAq for the subsequent 5 days. Oil Red O staining showed reduced lipid deposition following PuAq treatment. Furthermore, PuAq incubation alleviated hyperlipidemia-induced cognitive decline in larvae subjected to the partition preference test. The extract treatment increased NeuN protein and bdnf expression within the larvae's cephalic region. The treatment modulated the expression of inflammation, oxidative stress, and lipid metabolism-related genes and reduced lipid peroxidation. The protective effects of PuAq were reverted following pre-exposure of GSK2033 (LXR antagonist), which suggested the involvement of LXR receptor activation for the observed changes. In silico docking simulations further supported the molecular interactions between the identified compounds of PuAq and LXR. The study concluded that PuAq protects against hyperlipidemia-induced cognitive impairments in zebrafish larvae.",
+    "keywords": [
+      "Punica granatum L.",
+      "Cognitive impairment",
+      "Inflammation",
+      "Liver X Receptor",
+      "Neuronal damage",
+      "Oxidative stress"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Zebrafish",
+      "*Hyperlipidemias/metabolism/complications/drug therapy",
+      "*Plant Extracts/pharmacology/therapeutic use",
+      "Larva/drug effects/metabolism",
+      "*Liver X Receptors/metabolism",
+      "Signal Transduction/drug effects",
+      "*Pomegranate",
+      "*Cognitive Dysfunction/metabolism/drug therapy/etiology",
+      "Oxidative Stress/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sharma, Pooja",
+        "Saini, Shiv Kumar",
+        "Singh, Damanpreet"
+      ],
+      "short_names": [
+        "Sharma P",
+        "Saini SK",
+        "Singh D"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-9102-137X",
+        "ORCID: 0009-0000-9008-2051",
+        "ORCID: 0000-0002-7998-5345"
+      ],
+      "affiliations": [
+        "Pharmacology and Toxicology Laboratory, Dietetics and Nutrition Technology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India.",
+        "Pharmacology and Toxicology Laboratory, Dietetics and Nutrition Technology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India.",
+        "Pharmacology and Toxicology Laboratory, Dietetics and Nutrition Technology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India. dsinghpharmacology@gmail.com.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India. dsinghpharmacology@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sharma, Pooja",
+        "short_name": "Sharma P",
+        "identifiers": [
+          "0009-0005-9102-137X"
+        ],
+        "affiliations": [
+          "Pharmacology and Toxicology Laboratory, Dietetics and Nutrition Technology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India."
+        ]
+      },
+      {
+        "full_name": "Saini, Shiv Kumar",
+        "short_name": "Saini SK",
+        "identifiers": [
+          "0009-0000-9008-2051"
+        ],
+        "affiliations": [
+          "Pharmacology and Toxicology Laboratory, Dietetics and Nutrition Technology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Damanpreet",
+        "short_name": "Singh D",
+        "identifiers": [
+          "0000-0002-7998-5345"
+        ],
+        "affiliations": [
+          "Pharmacology and Toxicology Laboratory, Dietetics and Nutrition Technology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India. dsinghpharmacology@gmail.com.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India. dsinghpharmacology@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Metabolic brain disease"
+    ],
+    "journal_abbrev": [
+      "Metab Brain Dis"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42821052",
+      "40770461",
+      "32160327",
+      "38038001",
+      "29473532",
+      "23336580",
+      "37793207",
+      "37716493",
+      "39216301",
+      "42302947",
+      "39259236",
+      "38677577",
+      "39519499",
+      "19374262",
+      "39710060",
+      "39467211",
+      "40691887",
+      "39197398",
+      "37626269",
+      "31353600",
+      "34431906",
+      "40449691",
+      "16426722",
+      "20162041",
+      "42743233",
+      "27422638",
+      "41109536",
+      "41365657",
+      "33709449",
+      "38107091",
+      "40220071",
+      "38608249",
+      "35207511",
+      "39287730",
+      "35716287",
+      "34970629",
+      "37457904",
+      "35502204",
+      "41690038",
+      "40508195",
+      "41371372",
+      "34574329",
+      "41226306",
+      "32316896",
+      "23609599",
+      "42263993",
+      "38938421",
+      "41534753",
+      "40972727",
+      "40277015",
+      "31195360",
+      "39661217",
+      "33902532",
+      "26085057",
+      "24393106",
+      "33029776",
+      "42581247",
+      "42173417",
+      "36610118",
+      "24884677",
+      "40639468",
+      "42612718",
+      "41751822",
+      "36076615",
+      "30031061",
+      "27069901",
+      "42154301",
+      "31464183",
+      "27470568",
+      "31263326",
+      "39461389",
+      "39001843",
+      "26835741",
+      "42493051",
+      "39395764",
+      "40811614",
+      "36026548",
+      "38641079",
+      "30880978",
+      "41006411",
+      "34358548",
+      "29048675",
+      "41559827",
+      "38768871",
+      "39800790",
+      "39892312",
+      "40906322",
+      "41586941",
+      "28810520",
+      "41898452",
+      "41196440",
+      "30245287",
+      "34144196",
+      "29258248",
+      "12166961",
+      "37737938",
+      "39566264",
+      "42120770",
+      "36632073",
+      "22963679"
+    ],
+    "review": [
+      "42821052",
+      "29473532",
+      "38677577",
+      "33709449",
+      "38107091",
+      "36610118",
+      "36076615",
+      "38768871"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11011-026-01996-5",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

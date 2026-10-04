@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42814605",
+    "doi": "10.1093/bib/bbag548",
+    "title": "MMP2Mol: a matched molecular pairs-based framework for ligand-based de novo drug design."
+  },
+  "content": {
+    "abstract": "Designing target-relevant molecules is particularly difficult when only limited bioactivity data are available. We present MMP2Mol, a ligand-based generative framework that combines matched molecular pair (MMP) analysis with a pretrained chemical language model (CLM). MMP2Mol extracts target-specific structure-activity transformations from available ligands, applies the prioritized transformations to construct a virtual focused library, and fine-tunes the CLM toward target-relevant chemical space. The framework was evaluated across ten therapeutic targets and compared with direct CLM fine-tuning, Seq2Seq, and Reinvent 4. In repeated experiments on F2, BRD4, and PARP1, MMP2Mol achieved 92.8%-95.3% validity and 99.5%-99.7% uniqueness. When both methods were evaluated against the same original active-compound reference, molecular novelty increased from 57.8%-64.0% for the CLM baseline to 79.8%-82.0% for MMP2Mol, while internal diversity remained broadly comparable. The gains were most evident for F2 and BRD4, whereas performance varied across the smaller target datasets. These findings indicate that MMP-derived chemical knowledge can improve the focus and reproducibility of ligand-based molecular generation under limited-data conditions. MMP2Mol therefore provides a practical strategy for computational candidate generation and prioritization in early-stage drug discovery.",
+    "keywords": [
+      "chemical language models (CLMs)",
+      "data-scarce drug discovery",
+      "ligand-based drug design",
+      "matched molecular pair (MMP)",
+      "structure-activity relationship (SAR)"
+    ],
+    "mesh_terms": [
+      "Ligands",
+      "*Drug Design",
+      "Bromodomain Containing Proteins",
+      "Humans",
+      "Transcription Factors/chemistry/antagonists & inhibitors",
+      "Structure-Activity Relationship",
+      "Cell Cycle Proteins/chemistry",
+      "Poly (ADP-Ribose) Polymerase-1/chemistry/antagonists & inhibitors"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Dekun",
+        "Li, Hui",
+        "Liu, Jianwang",
+        "Jiang, Yueping",
+        "Cao, Dongsheng",
+        "Liu, Shao"
+      ],
+      "short_names": [
+        "Chen D",
+        "Li H",
+        "Liu J",
+        "Jiang Y",
+        "Cao D",
+        "Liu S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3604-3785",
+        "ORCID: 0000-0002-0576-8698"
+      ],
+      "affiliations": [
+        "Department of Pharmacy, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "Clinical Pharmacology Research Center of Hunan, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "Xiangya School of Pharmaceutical Sciences, Central South University, No. 172 Tongzipo Road, Yuelu District, Changsha, Hunan 410013, China.",
+        "Department of Pharmacy, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "Clinical Pharmacology Research Center of Hunan, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "Department of Pharmacy, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "Clinical Pharmacology Research Center of Hunan, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "Xiangya School of Pharmaceutical Sciences, Central South University, No. 172 Tongzipo Road, Yuelu District, Changsha, Hunan 410013, China.",
+        "Department of Pharmacy, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "Clinical Pharmacology Research Center of Hunan, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+        "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Dekun",
+        "short_name": "Chen D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+          "Clinical Pharmacology Research Center of Hunan, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+          "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China."
+        ]
+      },
+      {
+        "full_name": "Li, Hui",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Xiangya School of Pharmaceutical Sciences, Central South University, No. 172 Tongzipo Road, Yuelu District, Changsha, Hunan 410013, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jianwang",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+          "Clinical Pharmacology Research Center of Hunan, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+          "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yueping",
+        "short_name": "Jiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+          "Clinical Pharmacology Research Center of Hunan, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+          "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Dongsheng",
+        "short_name": "Cao D",
+        "identifiers": [
+          "0000-0003-3604-3785"
+        ],
+        "affiliations": [
+          "Xiangya School of Pharmaceutical Sciences, Central South University, No. 172 Tongzipo Road, Yuelu District, Changsha, Hunan 410013, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Shao",
+        "short_name": "Liu S",
+        "identifiers": [
+          "0000-0002-0576-8698"
+        ],
+        "affiliations": [
+          "Department of Pharmacy, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+          "Clinical Pharmacology Research Center of Hunan, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China.",
+          "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, No. 87 Xiangya Road, Kaifu District, Changsha, Hunan 410008, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 17:32",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42814605",
+      "42475469",
+      "36611029",
+      "39292752",
+      "33940596",
+      "33985583",
+      "41965890",
+      "39261471",
+      "34410338",
+      "42213198",
+      "34105560",
+      "39274873",
+      "37557054",
+      "39476572",
+      "42410671",
+      "37256819",
+      "41822751",
+      "41125627",
+      "41546836",
+      "21452978",
+      "34792338",
+      "37341350",
+      "39171594",
+      "42734505",
+      "42803993",
+      "42021142",
+      "36841551",
+      "41313965",
+      "42573396",
+      "36321557",
+      "38425011",
+      "29542413",
+      "28636361",
+      "31179763",
+      "30421269",
+      "29095571",
+      "41035336",
+      "35830870",
+      "39475544",
+      "40592852",
+      "40135853",
+      "35091172",
+      "31437001",
+      "40075154",
+      "41967399",
+      "42546051",
+      "40566838",
+      "29131617",
+      "37450999",
+      "34438075",
+      "21936819",
+      "40762910",
+      "30685526",
+      "30411639",
+      "42018135",
+      "29578387",
+      "39062489",
+      "30829435",
+      "33532187",
+      "36773087",
+      "39823809",
+      "38258328",
+      "42118199",
+      "41777180",
+      "41240398",
+      "38302422",
+      "31587361",
+      "33637650",
+      "29532017",
+      "26022843",
+      "38482564",
+      "36219571",
+      "42511472",
+      "39796080",
+      "40244695",
+      "30079805",
+      "28940386",
+      "33225736",
+      "34216895",
+      "36764588",
+      "40450349",
+      "29941841",
+      "33448694",
+      "33712972",
+      "39441849",
+      "40801836",
+      "34180651",
+      "35007061",
+      "42189893",
+      "38889277",
+      "39360587",
+      "31650386",
+      "38954072",
+      "42288105",
+      "41219607",
+      "39987745",
+      "42116185",
+      "34845959",
+      "42118388",
+      "39495691"
+    ],
+    "review": [
+      "42814605",
+      "34792338",
+      "42803993",
+      "36321557",
+      "31179763",
+      "42546051"
+    ],
+    "pmc": [
+      "13625653"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3432",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbag548",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

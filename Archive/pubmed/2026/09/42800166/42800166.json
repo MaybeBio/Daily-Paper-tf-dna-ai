@@ -1,0 +1,223 @@
+{
+  "identity": {
+    "pmid": "42800166",
+    "doi": "10.1016/j.bioorg.2026.110560",
+    "title": "Rationale design and synthesis of new quinazoline derivatives as DNA intercalators and topoisomerase II inhibitors."
+  },
+  "content": {
+    "abstract": "In pursuit of novel anticancer agents with enhanced potency and selectivity, a new series of quinazoline-based derivatives was rationally designed, synthesized, and biologically evaluated as potential DNA intercalators and topoisomerase II (Topo II) inhibitors. Building upon a previously identified lead compound (6), structural modifications were introduced to reinforce key pharmacophoric features essential for DNA intercalation and enzyme inhibition. Two distinct series of compounds were developed, incorporating either N-phenylacetamide (VII-series) or N-(4-cinnamoylphenyl)acetamide (VIII-series) side chains to target DNA grooves. In vitro cytotoxicity assays against HepG-2 and MCF-7 cancer cell lines revealed that several compounds, particularly VIIIe, exhibited potent anti-proliferative activity slightly less than that of the reference drug doxorubicin. It showed favorable selectivity indices over normal WI-38 fibroblasts. Further biological evaluation showed that compound VIIIe effectively inhibited Topo II (IC(5)(0) = 11.71 nM) and demonstrated strong DNA-binding affinity (IC(5)(0) = 14.50 muM), outperforming doxorubicin in both assays. Apoptosis-related protein analysis in MCF-7 cells revealed a significant increase in Bax expression and suppression of Bcl-2, indicating activation of mitochondrial-mediated apoptotic pathways. Molecular docking studies supported these findings, showing that VIIIe achieved a high binding affinity within the Topo II-DNA complex through multiple stabilizing interactions. Collectively, these results underscore the therapeutic potential of VIIIe and its analogs as promising lead candidates for the development of selective, DNA-targeted anticancer agents.",
+    "keywords": [
+      "Anticancer agents",
+      "Apoptosis",
+      "DNA intercalators",
+      "Quinazoline derivatives",
+      "Topoisomerase II inhibitors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Helmy, Amr",
+        "Mohamed, Mamdouh F A",
+        "Eissa, Ibrahim H",
+        "Mahdy, Hazem A"
+      ],
+      "short_names": [
+        "Helmy A",
+        "Mohamed MFA",
+        "Eissa IH",
+        "Mahdy HA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Pharmaceutical Medicinal Chemistry & Drug Design Department, Faculty of Pharmacy (Boys), Al-Azhar University, Cairo 11884, Egypt.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Sohag University, 82524 Sohag, Egypt; Department of Pharmaceutical Chemistry, Faculty of Pharmacy, New Valley University, New Valley 72511, Egypt.",
+        "Pharmaceutical Medicinal Chemistry & Drug Design Department, Faculty of Pharmacy (Boys), Al-Azhar University, Cairo 11884, Egypt. Electronic address: ibrahimeissa@azhar.edu.eg.",
+        "Pharmaceutical Medicinal Chemistry & Drug Design Department, Faculty of Pharmacy (Boys), Al-Azhar University, Cairo 11884, Egypt. Electronic address: Hazem_hady2001@azhar.edu.eg."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Helmy, Amr",
+        "short_name": "Helmy A",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmaceutical Medicinal Chemistry & Drug Design Department, Faculty of Pharmacy (Boys), Al-Azhar University, Cairo 11884, Egypt."
+        ]
+      },
+      {
+        "full_name": "Mohamed, Mamdouh F A",
+        "short_name": "Mohamed MFA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Sohag University, 82524 Sohag, Egypt; Department of Pharmaceutical Chemistry, Faculty of Pharmacy, New Valley University, New Valley 72511, Egypt."
+        ]
+      },
+      {
+        "full_name": "Eissa, Ibrahim H",
+        "short_name": "Eissa IH",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmaceutical Medicinal Chemistry & Drug Design Department, Faculty of Pharmacy (Boys), Al-Azhar University, Cairo 11884, Egypt. Electronic address: ibrahimeissa@azhar.edu.eg."
+        ]
+      },
+      {
+        "full_name": "Mahdy, Hazem A",
+        "short_name": "Mahdy HA",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmaceutical Medicinal Chemistry & Drug Design Department, Faculty of Pharmacy (Boys), Al-Azhar University, Cairo 11884, Egypt. Electronic address: Hazem_hady2001@azhar.edu.eg."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioorganic chemistry"
+    ],
+    "journal_abbrev": [
+      "Bioorg Chem"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:29",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42800166",
+      "40882366",
+      "32927130",
+      "41418598",
+      "32882440",
+      "33113414",
+      "38864845",
+      "41385860",
+      "29885574",
+      "33226150",
+      "41828663",
+      "41175722",
+      "41844052",
+      "33554352",
+      "31463953",
+      "42345617",
+      "41518939",
+      "38301427",
+      "38387399",
+      "42641467",
+      "32272367",
+      "41348751",
+      "42054875",
+      "41904818",
+      "34894955",
+      "42569431",
+      "39902542",
+      "29547830",
+      "36444790",
+      "28699490",
+      "39827653",
+      "38749114",
+      "41812428",
+      "42630597",
+      "41388737",
+      "35635148",
+      "42208464",
+      "41014811",
+      "42070106",
+      "36716311",
+      "42442295",
+      "40949276",
+      "33360576",
+      "42451649",
+      "41582376",
+      "32344256",
+      "36629421",
+      "41270615",
+      "31763968",
+      "42561564",
+      "42054768",
+      "36701269",
+      "41429096",
+      "32520691",
+      "40214726",
+      "42401165",
+      "41163037",
+      "38486408",
+      "38488131",
+      "37482023",
+      "40187030",
+      "37080944",
+      "42641238",
+      "41017166",
+      "40782407",
+      "29651967",
+      "37592917",
+      "32326071",
+      "35339645",
+      "41305011",
+      "30685528",
+      "31227365",
+      "41349320",
+      "42639921",
+      "41974759",
+      "36776024",
+      "35123995",
+      "36516521",
+      "42654099",
+      "41485276",
+      "34792005",
+      "41995262",
+      "31635931",
+      "41092822",
+      "40197130",
+      "42217499",
+      "33477020",
+      "40860085",
+      "23657605",
+      "35822666",
+      "40699240",
+      "39094428",
+      "36305290",
+      "29133058",
+      "40780124",
+      "41797262",
+      "31864673",
+      "41177123",
+      "33091673",
+      "41785527"
+    ],
+    "review": [
+      "42800166"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0045-2068(26)01096-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BAX-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

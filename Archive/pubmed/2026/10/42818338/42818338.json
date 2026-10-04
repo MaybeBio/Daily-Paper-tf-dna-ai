@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42818338",
+    "doi": "10.64898/2026.09.08.750185",
+    "title": "CIDER: detecting changes in gene regulatory networks that are associated with changes in phenotype."
+  },
+  "content": {
+    "abstract": "Changes in gene regulatory networks may drive quantitative traits, or may transmit the effects of one trait, such as blood lipid level, on another, such as cardiovascular health. Yet the standard tools, differential correlation and differential network analysis, compare two discrete groups, while the contexts of interest - circulating lipids, inflammation, and blood glucose - vary continuously; applying them forces dichotomization, discarding within-trait variation. We introduce Continuous Interaction-based Differential Edge Regulation (CIDER), which tests whether a gene regulatory network edge, the relationship between a transcription factor and its target gene, varies with a continuous trait: the target gene's expression is modeled as a function of the TF's expression level, the trait, and their interaction, with the interaction coefficient measuring the trait dependence. To limit multiple testing, CIDER tests only the edges of a reference regulatory network. A generalized additive extension detects interactions that change the shape of the relationship, not only its slope, including forms that cannot be expressed as a difference between two correlations. In simulations it outperformed four two-group methods across sample sizes, effect sizes, and noise levels, with most of its advantage from keeping the trait continuous. In whole-blood transcriptomes from four independent human cohorts across ten quantitative health traits, CIDER identified 63 replicated cases in which a TF's regulation of its target varies with the trait, including coupling of the glucocorticoid-receptor (NR3C1) to the granulocyte colony-stimulating-factor receptor (CSF3R) that strengthens as triglycerides rise, and a pair whose regulation reverses direction across the observed range of C-reactive protein.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jung, Wooseok J",
+        "Ding, Mingyue",
+        "Liao, Shu",
+        "Erdenebaatar, Zolboo",
+        "Brent, Michael R"
+      ],
+      "short_names": [
+        "Jung WJ",
+        "Ding M",
+        "Liao S",
+        "Erdenebaatar Z",
+        "Brent MR"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8439-2133",
+        "ORCID: 0009-0004-5200-9530",
+        "ORCID: 0000-0001-7740-8096",
+        "ORCID: 0009-0004-8330-2019",
+        "ORCID: 0000-0002-8689-0299"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Jung, Wooseok J",
+        "short_name": "Jung WJ",
+        "identifiers": [
+          "0000-0001-8439-2133"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ding, Mingyue",
+        "short_name": "Ding M",
+        "identifiers": [
+          "0009-0004-5200-9530"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liao, Shu",
+        "short_name": "Liao S",
+        "identifiers": [
+          "0000-0001-7740-8096"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Erdenebaatar, Zolboo",
+        "short_name": "Erdenebaatar Z",
+        "identifiers": [
+          "0009-0004-8330-2019"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Brent, Michael R",
+        "short_name": "Brent MR",
+        "identifiers": [
+          "0000-0002-8689-0299"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818338",
+      "42475469",
+      "37851522",
+      "36321557",
+      "42814674",
+      "39150724",
+      "42565562",
+      "37131395",
+      "21627793",
+      "37680636",
+      "42695107",
+      "27556418",
+      "38309959",
+      "26576632",
+      "16719927",
+      "20844574",
+      "24156242",
+      "39175079",
+      "23912807",
+      "33438713",
+      "33371893",
+      "11701102",
+      "42611537",
+      "25533967",
+      "29041960",
+      "23468652",
+      "27848076",
+      "30547796",
+      "23514438",
+      "31898880",
+      "30704512",
+      "42482180",
+      "40916281",
+      "18412962",
+      "31113812",
+      "39922197",
+      "37186341",
+      "32600345",
+      "28552197",
+      "38565144",
+      "20942926",
+      "42223712",
+      "30715214",
+      "26535058",
+      "38838009",
+      "29262162",
+      "29218884",
+      "21106118",
+      "18245851",
+      "30961611",
+      "36076247",
+      "34740743",
+      "42033077",
+      "30258285",
+      "25433230",
+      "40179003",
+      "31850069",
+      "28172852",
+      "21347400",
+      "31305969",
+      "35766062",
+      "36106702",
+      "42765490",
+      "37965371",
+      "33153500",
+      "28177073",
+      "35302492",
+      "39814021",
+      "41065272",
+      "26866765",
+      "27866169",
+      "39778714",
+      "28485712",
+      "26808152",
+      "41801512",
+      "42523370",
+      "16035920",
+      "41659414",
+      "41372418",
+      "18237429",
+      "38062833",
+      "33087046",
+      "25445270",
+      "27716393",
+      "32103259",
+      "41904421",
+      "27295212",
+      "33092652",
+      "35685361",
+      "16897451",
+      "36745138",
+      "29364620",
+      "26111110",
+      "18426593",
+      "33419455",
+      "33733350",
+      "35155440",
+      "32653108",
+      "25685197",
+      "21037246"
+    ],
+    "review": [
+      "42818338",
+      "36321557",
+      "39150724",
+      "11701102",
+      "31305969",
+      "36106702",
+      "26808152",
+      "36745138",
+      "29364620"
+    ],
+    "pmc": [
+      "13622636"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CRP-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.08.750185",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

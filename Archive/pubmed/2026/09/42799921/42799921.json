@@ -1,0 +1,246 @@
+{
+  "identity": {
+    "pmid": "42799921",
+    "doi": "10.1007/s10822-026-00942-y",
+    "title": "Rational design of anticancer metallodrugs."
+  },
+  "content": {
+    "abstract": "Despite the undeniable clinical success of platinum-based antineoplastic agents, their rational design remains hindered by the inherent difficulties in capturing the quantum chemical electronic nature of their three-dimensional coordination geometries and variable oxidation states of transition metal complexes. To address this fundamental limitation, we introduce a machine learning framework based on density functional theory descriptors to discriminate between drug and non-drug metallocomplexes. A curated dataset of platinum complexes was subjected to conformational sampling and density functional theory geometry optimization. Unsupervised learning via principal component analysis and K-means clustering initially demonstrated that essential electronic parameters naturally segregate metallodrugs from non-drug metallocomplexes. Subsequently, a supervised Random Forest classifier reliably distinguished metallodrugs from structurally similar non-drug metallocomplexes. Crucially, global SHapley Additive exPlanations analysis revealed that local electron density properties, which strictly govern the established mechanisms of intracellular aquation and DNA binding, are the primary drivers of model predictions. The projection of an external test set of active ChEMBL platinum compounds successfully validated the established chemical space, demonstrating the model's ability to generalize to unseen data. This explainable predictive pipeline bridges a major gap in inorganic drug discovery, offering a robust, mechanistic tool for the rational generative design of next-generation metallodrugs.",
+    "keywords": [
+      "Interpretable ML",
+      "Medicinal inorganic chemistry",
+      "Metallodrugs",
+      "Platinum complexes",
+      "QM descriptors"
+    ],
+    "mesh_terms": [
+      "*Antineoplastic Agents/chemistry/pharmacology",
+      "*Drug Design",
+      "Machine Learning",
+      "Humans",
+      "Density Functional Theory",
+      "Quantum Theory",
+      "Principal Component Analysis",
+      "*Organoplatinum Compounds/chemistry/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Monreal-Corona, Roger",
+        "Mestres, Jordi"
+      ],
+      "short_names": [
+        "Monreal-Corona R",
+        "Mestres J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3071-9887",
+        "ORCID: 0000-0002-5202-4501"
+      ],
+      "affiliations": [
+        "Institut de Quimica Computacional i Catalisi and Departament de Quimica, Facultat de Ciencies, Universitat de Girona, C/ Maria Aurelia Capmany 69, 17003, Girona, Catalonia, Spain.",
+        "Institut de Quimica Computacional i Catalisi and Departament de Quimica, Facultat de Ciencies, Universitat de Girona, C/ Maria Aurelia Capmany 69, 17003, Girona, Catalonia, Spain. jordi.mestres@udg.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Monreal-Corona, Roger",
+        "short_name": "Monreal-Corona R",
+        "identifiers": [
+          "0000-0003-3071-9887"
+        ],
+        "affiliations": [
+          "Institut de Química Computacional i Catàlisi and Departament de Química, Facultat de Ciències, Universitat de Girona, C/ Maria Aurèlia Capmany 69, 17003, Girona, Catalonia, Spain."
+        ]
+      },
+      {
+        "full_name": "Mestres, Jordi",
+        "short_name": "Mestres J",
+        "identifiers": [
+          "0000-0002-5202-4501"
+        ],
+        "affiliations": [
+          "Institut de Química Computacional i Catàlisi and Departament de Química, Facultat de Ciències, Universitat de Girona, C/ Maria Aurèlia Capmany 69, 17003, Girona, Catalonia, Spain. jordi.mestres@udg.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of computer-aided molecular design"
+    ],
+    "journal_abbrev": [
+      "J Comput Aided Mol Des"
+    ],
+    "pub_date": "2026 Sep 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42799921",
+      "42475469",
+      "41985287",
+      "41822751",
+      "19519389",
+      "41136856",
+      "15621292",
+      "42653094",
+      "42032165",
+      "41664334",
+      "42118388",
+      "16178779",
+      "41572085",
+      "33616752",
+      "22382827",
+      "22236158",
+      "16790363",
+      "41750280",
+      "22039872",
+      "39536409",
+      "23214999",
+      "41803390",
+      "25149438",
+      "25689285",
+      "42216185",
+      "24800466",
+      "39806815",
+      "42281309",
+      "18335133",
+      "42434929",
+      "39579471",
+      "42368080",
+      "42270769",
+      "32628598",
+      "35170871",
+      "31614021",
+      "42286684",
+      "41720062",
+      "40695887",
+      "39225342",
+      "41274439",
+      "39214013",
+      "34727402",
+      "42333610",
+      "28045514",
+      "18221023",
+      "41154264",
+      "32200302",
+      "30299085",
+      "10626362",
+      "41721737",
+      "32870220",
+      "42573421",
+      "21246674",
+      "42573396",
+      "9474239",
+      "41921319",
+      "20380635",
+      "40945215",
+      "27554807",
+      "24403506",
+      "33480674",
+      "30185041",
+      "41575322",
+      "20337575",
+      "41923454",
+      "28442170",
+      "36599256",
+      "25256173",
+      "20187870",
+      "18698718",
+      "32781390",
+      "40589344",
+      "32459098",
+      "22683702",
+      "18855680",
+      "8142057",
+      "41957161",
+      "40447459",
+      "25032896",
+      "29883916",
+      "41533492",
+      "40306097",
+      "23738524",
+      "28195724",
+      "40016123",
+      "42033414",
+      "33174390",
+      "42488816",
+      "17992275",
+      "33725030",
+      "25982100",
+      "42093480",
+      "21806015",
+      "40101341",
+      "42741637",
+      "41501233",
+      "24428232",
+      "40013443",
+      "42380674"
+    ],
+    "review": [
+      "42799921",
+      "19519389",
+      "16178779",
+      "22382827",
+      "22236158",
+      "16790363",
+      "22039872",
+      "24800466",
+      "39806815",
+      "42434929",
+      "39579471",
+      "35170871",
+      "39225342",
+      "39214013",
+      "18221023",
+      "32200302",
+      "30299085",
+      "10626362",
+      "20380635",
+      "27554807",
+      "24403506",
+      "20337575",
+      "28442170",
+      "36599256",
+      "20187870",
+      "32781390",
+      "18855680",
+      "8142057",
+      "28195724",
+      "17992275"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s10822-026-00942-y",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

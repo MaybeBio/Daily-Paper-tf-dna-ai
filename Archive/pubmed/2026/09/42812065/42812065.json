@@ -1,0 +1,361 @@
+{
+  "identity": {
+    "pmid": "42812065",
+    "doi": "10.12122/j.issn.1673-4254.2026.09.19",
+    "title": "[Multiple components in Astragalus Injection target CCL2/FOS/PPARG/CXCL8 to suppress cervical cancer progression]."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: To predict the functional targets and molecular mechanisms of Astragalus Injection for suppressing cervical cancer. METHODS: The overlapping targets between Astragalus Injection and cervical cancer were used to construct a protein-protein interaction network. GO functional annotation and KEGG pathway enrichment analysis were performed, and molecular docking study was conducted to evaluate the binding capacity between drug active components and the core targets. SiHa cells were treated with Astragalus Injection and the changes in cell proliferation, migration and invasion were examined. The expressions of the core targets (FOS, PPARG, CXCL8, and CCL2), key molecules in the IL-17 pathway (NF-kappaB p65, p-p65, STAT3, and p-STAT3), Bax, Bcl-2, caspase-3, and cleaved caspase-3 were detected in the treated cells. The changes in microfilament, mitochondrial membrane potential, cell apoptosis and membrane permeability were observed using Coomassie brilliant blue, phalloidin, JC-10 and AO/EB staining. In a mouse model bearing U14 cervical cancer xenograft, the effect of Astragalus Injection on tumor growth was observed, tumor histopathology was examined using HE staining, and CCL2, PPARG and FOS expressions were analyzed with immunohistochemistry. RESULTS: Five major active components of Astragalus Injection were found to stably bind to 4 core targets (CCL2, CXCL8, FOS, and PPARG) with docking binding energies all below -5 kJ/mol. Astragalus Injection significantly inhibited the proliferation, migration and invasion of SiHa cells, disrupted cytoskeletal microfilament structure, and induced cell apoptosis, causing also significantly lowered protein levels of FOS, CXCL8, CCL2, PPARG, Bcl-2, p-p65 and p-STAT3 and increased expressions of Bax and cleaved caspase-3. In the tumor-bearing mice, Astragalus Injection significantly suppressed xenograft growth, induced tumor tissue necrosis, and reduced the expressions of CCL2, PPARG and FOS. CONCLUSIONS: Astragalus Injection inhibits cervical cancer progression by downregulating multiple target proteins, damaging microfilament structure, weakening tumor cell motility and promoting apoptosis.",
+    "keywords": [
+      "Astragalus injection",
+      "cell apoptosis",
+      "cervical cancer",
+      "microfilament",
+      "network pharmacology"
+    ],
+    "mesh_terms": [
+      "Female",
+      "*Uterine Cervical Neoplasms/metabolism/pathology",
+      "Humans",
+      "Chemokine CCL2/metabolism",
+      "Cell Line, Tumor",
+      "Apoptosis/drug effects",
+      "PPAR gamma/metabolism",
+      "Interleukin-8/metabolism",
+      "*Astragalus Plant/chemistry",
+      "Animals",
+      "Proto-Oncogene Proteins c-fos/metabolism",
+      "Cell Proliferation/drug effects",
+      "*Drugs, Chinese Herbal/pharmacology",
+      "Molecular Docking Simulation",
+      "Mice",
+      "Cell Movement/drug effects",
+      "Signal Transduction",
+      "Mice, Nude",
+      "STAT3 Transcription Factor/metabolism"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ma, Yuanyuan",
+        "Liu, Yue",
+        "Gao, Ning",
+        "Huo, Yumeng",
+        "Chen, Meini",
+        "Li, Jiawen",
+        "Liu, Jiahao",
+        "Zhang, Manqiu",
+        "Yan, Bingbing",
+        "Xu, Nuo",
+        "Zhao, Jumei"
+      ],
+      "short_names": [
+        "Ma Y",
+        "Liu Y",
+        "Gao N",
+        "Huo Y",
+        "Chen M",
+        "Li J",
+        "Liu J",
+        "Zhang M",
+        "Yan B",
+        "Xu N",
+        "Zhao J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "Department of Gynecology, Affiliated Hospital of Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "Key Laboratory of Northern Shaanxi Cancer Prevention and Treatment, School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "Key Laboratory of Northern Shaanxi Cancer Prevention and Treatment, School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+        "Key Laboratory of Northern Shaanxi Cancer Prevention and Treatment, School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ma, Yuanyuan",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+          "Department of Gynecology, Affiliated Hospital of Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yue",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Ning",
+        "short_name": "Gao N",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+          "Key Laboratory of Northern Shaanxi Cancer Prevention and Treatment, School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Huo, Yumeng",
+        "short_name": "Huo Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Meini",
+        "short_name": "Chen M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+          "Key Laboratory of Northern Shaanxi Cancer Prevention and Treatment, School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiawen",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiahao",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Manqiu",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Bingbing",
+        "short_name": "Yan B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Nuo",
+        "short_name": "Xu N",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jumei",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China.",
+          "Key Laboratory of Northern Shaanxi Cancer Prevention and Treatment, School of Basic Medical Sciences, Yan'an Medical College, Yan'an University, Yan'an 716000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nan fang yi ke da xue xue bao = Journal of Southern Medical University"
+    ],
+    "journal_abbrev": [
+      "Nan Fang Yi Ke Da Xue Xue Bao"
+    ],
+    "pub_date": "2026 Sept 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42812065",
+      "41499346",
+      "42332356",
+      "40673304",
+      "41490553",
+      "36403742",
+      "42011617",
+      "42812068",
+      "40886867",
+      "37474991",
+      "41832498",
+      "25371568",
+      "41102283",
+      "40266298",
+      "39701786",
+      "27731799",
+      "40451357",
+      "41655547",
+      "42208330",
+      "17498489",
+      "39041167",
+      "41866994",
+      "41891757",
+      "40617363",
+      "37799727",
+      "41293954",
+      "39488873",
+      "40233887",
+      "41904495",
+      "41533160",
+      "40237524",
+      "29169726",
+      "42365409",
+      "35790442",
+      "34614446",
+      "38638040",
+      "32265995",
+      "40615101",
+      "40295067",
+      "37557938",
+      "37971302",
+      "42448946",
+      "40350911",
+      "42023726",
+      "40603406",
+      "39307810",
+      "29961065",
+      "29587277",
+      "38845538",
+      "31014051",
+      "40238841",
+      "38882048",
+      "42172986",
+      "29363722",
+      "39701737",
+      "30466620",
+      "39051079",
+      "34429133",
+      "40619656",
+      "23800091",
+      "40579133",
+      "42633541",
+      "42146949",
+      "41786058",
+      "39550552",
+      "39364737",
+      "33744595",
+      "39848416",
+      "42693064",
+      "37032730",
+      "39615216",
+      "40216870",
+      "32679149",
+      "38888697",
+      "22218594",
+      "42335406",
+      "42641551",
+      "41619865",
+      "41360503",
+      "30587932",
+      "41831177",
+      "38941043",
+      "36932403",
+      "42716520",
+      "21465181",
+      "40316154",
+      "41127994",
+      "18161298",
+      "39276043",
+      "42284646",
+      "39384146",
+      "17311011",
+      "24970800",
+      "42349467",
+      "40259252",
+      "33878321",
+      "37474992",
+      "32240456",
+      "37235876",
+      "28446399"
+    ],
+    "review": [
+      "42812065",
+      "42146949"
+    ],
+    "pmc": [
+      "13624993"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://screening.iarc.fr/atlashisto.php",
+        "provider": "International Agency for Research on Cancer - Screening Group",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Histopathology and cytopathology of the uterine cervix - digital atlas"
+      },
+      {
+        "url": "https://medlineplus.gov/cervicalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cervical Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42812065/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BAX-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cervicalcancer.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cervical Cancer"
+      }
+    ],
+    "text_mined": []
+  }
+}

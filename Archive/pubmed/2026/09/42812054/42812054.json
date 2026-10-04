@@ -1,0 +1,274 @@
+{
+  "identity": {
+    "pmid": "42812054",
+    "doi": "10.12122/j.issn.1673-4254.2026.09.08",
+    "title": "[Miao medicine Sidaxue regulates macrophage polarization and alleviates synovial inflammation in collagen-induced arthritis rats by inhibiting HIF-1alpha/PDK1-mediated glycolytic reprogramming]."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: To investigate the mechanism of Miao medicine prescription Sidaxue (SX) for inhibiting glycolysis in the synovial tissue and promoting macrophage polarization in rats with collagen-induced arthritis (CIA). METHODS: Thirty-two SD rats were randomized into normal control group, CIA model group, tripterygium glycosides (40 mg/kg; positive control) treatment group, and SX (40 g/kg) treatment group (n=8). Except for those in the normal control group, all the rats were subjected to CIA modeling and treated with saline, tripterygium glycosides or SX by gavage for 21 consecutive days. Paw swelling, arthritis index, synovial pathology, inflammatory factors, glycolysis-related indicators and gene expressions were detected. UHPLC-MS was used to screen the components of SX in the blood of SX-treated rats. The target genes of the active components of SX and rheumatoid arthritis (RA) were predicted using bioinformatics analysis, and the hub genes were identified using machine learning algorithms. The binding sites between HIF-1alpha and PDK1 were predicted using AlphaFold3, and the interactions between SX components and their targets were simulated using molecular docking. RESULTS: SX treatment significantly alleviated joint swelling, lowered arthritis scores, improved synovial lesions, and reduced serum levels of TNF-alpha, IL-1beta and IL-6 in CIA rats, resulting in also inhibition of macrophage polarization and down-regulation of HIF-1alpha, PDK1 and HK2 expressions in the synovial tissues. Twenty-nine components of SX were detected in the blood of SX-treated rats, and 9 key target genes were identified. AlphaFold3 predicted a strong interaction between HIF-1alpha and PDK1, and their virtual knockout was shown to disturb the inflammatory pathways in the macrophages. Molecular docking studies suggested stable docking between the active components of SX and their key targets. CONCLUSIONS: SX alleviates joint inflammation in CIA rats by inhibiting the HIF-1alpha/PDK1 signaling pathway, correcting glycolytic reprogramming, and promoting M2 polarization of macrophages.",
+    "keywords": [
+      "HIF-1alpha/PDK1 pathway",
+      "Sidaxue",
+      "glycolytic reprogramming",
+      "macrophage polarization",
+      "rheumatoid arthritis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Hypoxia-Inducible Factor 1, alpha Subunit/metabolism",
+      "*Arthritis, Experimental/metabolism/drug therapy",
+      "Rats",
+      "*Macrophages/drug effects",
+      "Rats, Sprague-Dawley",
+      "*Glycolysis/drug effects",
+      "*Drugs, Chinese Herbal/pharmacology",
+      "Male",
+      "Synovial Membrane",
+      "Signal Transduction/drug effects",
+      "Pyruvate Dehydrogenase Acetyl-Transferring Kinase",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shen, Wanting",
+        "Chen, Yizhe",
+        "Fu, Xinyu",
+        "Yuan, Jiatao",
+        "Zhou, Jun",
+        "Huang, Li",
+        "Wu, Ning"
+      ],
+      "short_names": [
+        "Shen W",
+        "Chen Y",
+        "Fu X",
+        "Yuan J",
+        "Zhou J",
+        "Huang L",
+        "Wu N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China.",
+        "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China.",
+        "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China.",
+        "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China.",
+        "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China.",
+        "Basic Medical Experimental Teaching Center, Guizhou Medical University, Guiyang 561113, China.",
+        "Basic Medical Experimental Teaching Center, Guizhou Medical University, Guiyang 561113, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shen, Wanting",
+        "short_name": "Shen W",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yizhe",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Xinyu",
+        "short_name": "Fu X",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Jiatao",
+        "short_name": "Yuan J",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jun",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical College, Guizhou Medical University, Guiyang 561113, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Li",
+        "short_name": "Huang L",
+        "identifiers": [],
+        "affiliations": [
+          "Basic Medical Experimental Teaching Center, Guizhou Medical University, Guiyang 561113, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Ning",
+        "short_name": "Wu N",
+        "identifiers": [],
+        "affiliations": [
+          "Basic Medical Experimental Teaching Center, Guizhou Medical University, Guiyang 561113, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nan fang yi ke da xue xue bao = Journal of Southern Medical University"
+    ],
+    "journal_abbrev": [
+      "Nan Fang Yi Ke Da Xue Xue Bao"
+    ],
+    "pub_date": "2026 Sept 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42812054",
+      "36651244",
+      "39276054",
+      "38708508",
+      "35221674",
+      "42718696",
+      "41825207",
+      "42693490",
+      "40081512",
+      "38897802",
+      "39390367",
+      "41456528",
+      "41061794",
+      "40172736",
+      "42033182",
+      "41866004",
+      "42429989",
+      "42798472",
+      "40020629",
+      "34755662",
+      "42200246",
+      "41443912",
+      "38151179",
+      "40955790",
+      "41013704",
+      "39838477",
+      "40204052",
+      "41940585",
+      "31602907",
+      "41389887",
+      "25335336",
+      "38838922",
+      "38614265",
+      "41534747",
+      "42112343",
+      "38782307",
+      "42074103",
+      "42185059",
+      "32347300",
+      "40059046",
+      "42336114",
+      "33465441",
+      "39798342",
+      "41629777",
+      "39765037",
+      "42173417",
+      "34781187",
+      "41038145",
+      "37480967",
+      "39577677",
+      "41311074",
+      "41447843",
+      "39244174",
+      "31545276",
+      "38964156",
+      "31612397",
+      "26271978",
+      "42112357",
+      "36209953",
+      "37480451",
+      "41963573",
+      "42372812",
+      "39041131",
+      "28455825",
+      "40350051",
+      "40524292",
+      "38621928",
+      "40130025",
+      "40706389",
+      "39041136",
+      "29540195",
+      "41593678",
+      "41485460",
+      "41680065",
+      "42543308",
+      "30802713",
+      "42119867",
+      "37715217",
+      "35111160",
+      "41072281",
+      "39186991",
+      "38816815",
+      "34933161",
+      "42546437",
+      "41139453",
+      "37984907",
+      "27180880",
+      "42285238",
+      "41990904",
+      "37186198",
+      "39307741",
+      "39066538",
+      "33894285",
+      "41780617",
+      "32718263",
+      "32738596",
+      "42013646",
+      "41664340",
+      "40571227",
+      "40466361"
+    ],
+    "review": [
+      "42812054"
+    ],
+    "pmc": [
+      "13624983"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42812054/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1052",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

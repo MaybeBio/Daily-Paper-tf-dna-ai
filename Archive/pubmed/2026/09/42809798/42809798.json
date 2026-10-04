@@ -1,0 +1,326 @@
+{
+  "identity": {
+    "pmid": "42809798",
+    "doi": "10.1371/journal.pone.0356359",
+    "title": "FABP5 regulates an immunosuppressive microenvironment in hepatocellular carcinoma through the NF-kappaB/PD-L1 axis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Fatty acid binding protein 5 (FABP5) contributes to lipid metabolism and inflammation, but, its immunoregulatory role in hepatocellular carcinoma (HCC) is unclear. Considering the strong metabolic-immune interplay in HCC, elucidating how FABP5 shapes the tumor immune microenvironment may uncover new therapeutic targets. METHODS: TCGA, CCLE and single-cell RNA-seq datasets were employed to characterize FABP5 expression and clinical relevance. FABP5 knockdown was performed to assess effects on HCC cell proliferation. Immune infiltration, immune checkpoint profiles, TIDE scores and enrichment of immune-related pathways were analyzed. Differentially expressed genes underwent GO and KEGG pathway enrichment analyses. Protein-protein docking, molecular dynamics (MD) simulations and in vitro assays were conducted to explore the regulatory role of FABP5 in the NF-kappaB/PD-L1 axis. Drug screening, molecular docking and duplicate MD simulations were carried out to identify potential FABP5-targeting compounds. RESULTS: FABP5 was significantly upregulated in HCC and predicted worse survival, serving as an independent prognostic factor. Single-cell analysis identified predominant FABP5 expression in fibroblasts and macrophages. FABP5 knockdown suppressed cell proliferation, colony formation, DNA synthesis and migration, accompanied by decreased expression of epithelial-mesenchymal transition (EMT) markers. FABP5-high tumors exhibited increased immune infiltration but raised immune checkpoint levels and higher TIDE scores, indicative of an immunosuppressive microenvironment. FABP5 correlated positively with NF-kappaB pathway genes and molecular docking predicted stable complexes between IkappaBalpha and P65. Experimental validation confirmed that FABP5 drives PD-L1 upregulation in an NF-kappaB-dependent manner. Drug screening identified CZS-241 as the most promising FABP5-binding candidate, and duplicate MD simulations demonstrated a stable FABP5-CZS-241 complex. CONCLUSION: FABP5 drives immunosuppression in HCC by inducing PD-L1 via the NF-kappaB pathway. CZS-241 is identified as a promising FABP5-targeting compound with therapeutic potential for HCC.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Liver Neoplasms/immunology/pathology/metabolism/genetics",
+      "*Carcinoma, Hepatocellular/immunology/pathology/metabolism/genetics",
+      "*Fatty Acid-Binding Proteins/metabolism/genetics",
+      "*Tumor Microenvironment/immunology",
+      "*NF-kappa B/metabolism",
+      "*B7-H1 Antigen/metabolism/genetics",
+      "Molecular Docking Simulation",
+      "Cell Proliferation",
+      "Gene Expression Regulation, Neoplastic",
+      "Signal Transduction",
+      "Cell Line, Tumor",
+      "Molecular Dynamics Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "An, Rui",
+        "Hou, Shibing",
+        "Hong, Min",
+        "Zhen, Jiaorong",
+        "Wang, Zhijuan",
+        "Huang, Haoming",
+        "Zhao, Weixuan",
+        "Liao, Mianmian",
+        "Yuan, Weiqu",
+        "Huang, Danping"
+      ],
+      "short_names": [
+        "An R",
+        "Hou S",
+        "Hong M",
+        "Zhen J",
+        "Wang Z",
+        "Huang H",
+        "Zhao W",
+        "Liao M",
+        "Yuan W",
+        "Huang D"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-6968-4795"
+      ],
+      "affiliations": [
+        "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China.",
+        "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China.",
+        "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China.",
+        "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China.",
+        "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China.",
+        "Department of Radiology, The First Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China.",
+        "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China.",
+        "The Affiliated Dongguan Songshan Lake Central Hospital, Guangdong Medical University, Dongguan, Guangdong, China.",
+        "Dongguan Key Laboratory of Traditional Chinese Medicine Hepatology, the Affiliated Dongguan Songshan Lake Central Hospital, Guangdong Medical University, Dongguan, China.",
+        "Department of Acupuncture, Shenzhen Traditional Chinese Medicine Hospital, The Fourth Clinical Medical College of Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China.",
+        "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "An, Rui",
+        "short_name": "An R",
+        "identifiers": [
+          "0009-0000-6968-4795"
+        ],
+        "affiliations": [
+          "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Hou, Shibing",
+        "short_name": "Hou S",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Hong, Min",
+        "short_name": "Hong M",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhen, Jiaorong",
+        "short_name": "Zhen J",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhijuan",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Huang, Haoming",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The First Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Weixuan",
+        "short_name": "Zhao W",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liao, Mianmian",
+        "short_name": "Liao M",
+        "identifiers": [],
+        "affiliations": [
+          "The Affiliated Dongguan Songshan Lake Central Hospital, Guangdong Medical University, Dongguan, Guangdong, China.",
+          "Dongguan Key Laboratory of Traditional Chinese Medicine Hepatology, the Affiliated Dongguan Songshan Lake Central Hospital, Guangdong Medical University, Dongguan, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Weiqu",
+        "short_name": "Yuan W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Acupuncture, Shenzhen Traditional Chinese Medicine Hospital, The Fourth Clinical Medical College of Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Danping",
+        "short_name": "Huang D",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou, Guangdong, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 19:04",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42809798",
+      "42340520",
+      "42486346",
+      "40603761",
+      "38104877",
+      "41293954",
+      "42628147",
+      "41035647",
+      "42298533",
+      "28374947",
+      "42302375",
+      "39357545",
+      "39814999",
+      "34104078",
+      "31071366",
+      "37306737",
+      "42371740",
+      "38824477",
+      "38417530",
+      "41208969",
+      "41871800",
+      "42316187",
+      "39353381",
+      "31678303",
+      "29957468",
+      "39252517",
+      "42018581",
+      "41310383",
+      "38901205",
+      "40999361",
+      "41986494",
+      "42550313",
+      "41932527",
+      "42270598",
+      "41022542",
+      "41357200",
+      "42045535",
+      "42021543",
+      "41643403",
+      "40215823",
+      "39773565",
+      "29764501",
+      "41288681",
+      "41763175",
+      "42244292",
+      "42185899",
+      "30902885",
+      "34676904",
+      "42470438",
+      "38969205",
+      "42580240",
+      "40615101",
+      "35902729",
+      "42767769",
+      "41177238",
+      "40406122",
+      "41371106",
+      "39901136",
+      "41866005",
+      "38766816",
+      "41629991",
+      "31818638",
+      "40038727",
+      "42371237",
+      "41016345",
+      "41299786",
+      "41727467",
+      "31113805",
+      "42459515",
+      "41417218",
+      "42459682",
+      "41432972",
+      "38936058",
+      "32581055",
+      "41685317",
+      "39495239",
+      "42756356",
+      "40312488",
+      "39187545",
+      "39133347",
+      "40330476",
+      "41380855",
+      "37201744",
+      "28627705",
+      "40956367",
+      "41953013",
+      "31208444",
+      "41674779",
+      "41983254",
+      "42062902",
+      "40282408",
+      "40533619",
+      "41775913",
+      "42683247",
+      "41238928",
+      "42480981",
+      "39137630",
+      "42217552",
+      "37044053",
+      "42212623"
+    ],
+    "review": [
+      "42809798"
+    ],
+    "pmc": [
+      "13623383"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/livercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Cancer"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0356359",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42809798/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD274-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3645",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

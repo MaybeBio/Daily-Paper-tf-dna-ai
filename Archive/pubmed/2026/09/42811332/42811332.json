@@ -1,0 +1,294 @@
+{
+  "identity": {
+    "pmid": "42811332",
+    "doi": "10.1186/s12934-026-03113-8",
+    "title": "Employing Streptomyces enissocaesilis as a sustainable cell factory for green synthesis of gold nanoparticles with multi-target anticancer activity against MCF-7 breast cancer cells."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Currently, there is growing interest in gold nanoparticles (AuNPs) to be employed in cancer nanomedicine. This study describes the green synthesis of AuNPs using an actinobacterial isolate identified as Streptomyces enissocaesilis via 16 S rRNA sequencing. Characterization of the nanoparticles was performed using various techniques including UV-Vis spectroscopy, FTIR, TEM, XRD, EDX, and zeta-potential analysis. To provide insight into the interaction of AuNPs with MCF-7 breast cancer cells, a variety of apoptosis and cell proliferation assays were performed. These assays included concentration-dependent cytotoxicity testing, cell-cycle analysis, an Annexin V-FITC/PI apoptosis analysis, AO/PI staining, a BrdU proliferation assay, and an RT-qPCR to evaluate the expression of c-erbB-2 and p53. RESULTS: Characterization of the AuNPs revealed that they were ruby-red, exhibited a strong SPR signal at 528 nm, were between 22.73 and 35.61 nm in size, had a positive zeta potential at + 27 mV, and exhibited a faceted crystal cubic structure. In regard to MCF-7 cells, the concentration-dependent cytotoxicity assay showed a clear dose-dependent inhibition of cell proliferation, with growth inhibition increasing from 20.14% at 3.125 microg/mL to 98.33% at 100 microg/mL and a half-maximal inhibitory concentration (IC(50)) of 8.32 microg/mL, considerably lower than the 18.90 microg/mL obtained for normal PBMC cells under the same protocol. Cell cycle analysis showed that AuNPs caused almost complete cell cycle arrest in the G0/G1 phase (99.25%) of the cell cycle, while both the G2/M and S phases were completely depleted. BrdU incorporation was significantly inhibited in a concentration-dependent manner. Finally, RT-qPCR and Annexin V-FITC/PI apoptosis analysis showed that AuNPs induced apoptosis (50.36%) and significantly inhibited the expression of the oncogene c-erbB-2, and in turn, they induced tumor suppressive pathway. The docking studies revealed that the Cys-Au species bound to biologically significant areas of ERalpha and CDK2, possibly explaining the antiproliferative effects observed in MCF-7 human breast cancer cells. CONCLUSIONS: These findings indicate that AuNPs biosynthesized using Streptomyces enissocaesilis exhibit significant anticancer effects against MCF-7 cells. The effects appear to be induced by a combination of antiproliferative, pro-apoptotic, and cell-cycle- and gene-modulatory effects. These effects validate the promise of Actinobacteria-stabilized AuNPs as a green nanoplatform for the treatment of human breast cancer.",
+    "keywords": [
+      "16S rRNA gene sequencing",
+      "Flow cytometry",
+      "RT-qPCR",
+      "c-erbB-2",
+      "p53"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Gold/chemistry",
+      "MCF-7 Cells",
+      "*Metal Nanoparticles/chemistry",
+      "*Streptomyces/metabolism/genetics",
+      "*Antineoplastic Agents/pharmacology/chemistry/metabolism",
+      "Apoptosis/drug effects",
+      "Cell Proliferation/drug effects",
+      "Female",
+      "*Breast Neoplasms/drug therapy",
+      "Green Chemistry Technology",
+      "Tumor Suppressor Protein p53/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "El-Bouseary, Maisra M",
+        "Badr, Sara Ahmed Mohammed Mahmoud",
+        "Sonbol, Fatma",
+        "El-Banna, Tarek",
+        "Tayel, Amr",
+        "El-Zahed, Mohamed M",
+        "Elekhnawy, Engy"
+      ],
+      "short_names": [
+        "El-Bouseary MM",
+        "Badr SAMM",
+        "Sonbol F",
+        "El-Banna T",
+        "Tayel A",
+        "El-Zahed MM",
+        "Elekhnawy E"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt.",
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt.",
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt.",
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Alsalam University, Tanta, 31511, Egypt.",
+        "Department of Chemistry, The American University in Cairo, AUC Avenue, New Cairo, 11835, Egypt.",
+        "Department of Botany and Microbiology, Faculty of Science, Damietta University, New Damietta, 34517, Egypt.",
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt. engy.ali@pharm.tanta.edu.eg."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "El-Bouseary, Maisra M",
+        "short_name": "El-Bouseary MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt."
+        ]
+      },
+      {
+        "full_name": "Badr, Sara Ahmed Mohammed Mahmoud",
+        "short_name": "Badr SAMM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt."
+        ]
+      },
+      {
+        "full_name": "Sonbol, Fatma",
+        "short_name": "Sonbol F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt."
+        ]
+      },
+      {
+        "full_name": "El-Banna, Tarek",
+        "short_name": "El-Banna T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt."
+        ]
+      },
+      {
+        "full_name": "Tayel, Amr",
+        "short_name": "Tayel A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Alsalam University, Tanta, 31511, Egypt.",
+          "Department of Chemistry, The American University in Cairo, AUC Avenue, New Cairo, 11835, Egypt."
+        ]
+      },
+      {
+        "full_name": "El-Zahed, Mohamed M",
+        "short_name": "El-Zahed MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Botany and Microbiology, Faculty of Science, Damietta University, New Damietta, 34517, Egypt."
+        ]
+      },
+      {
+        "full_name": "Elekhnawy, Engy",
+        "short_name": "Elekhnawy E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, Tanta University, Tanta, 31527, Egypt. engy.ali@pharm.tanta.edu.eg."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbial cell factories"
+    ],
+    "journal_abbrev": [
+      "Microb Cell Fact"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42811332",
+      "42484766",
+      "39789744",
+      "42624907",
+      "39354554",
+      "39718609",
+      "32971740",
+      "36251187",
+      "39871566",
+      "28498520",
+      "38450823",
+      "38866790",
+      "41832508",
+      "26320493",
+      "40878883",
+      "39813948",
+      "40451210",
+      "41632340",
+      "40780124",
+      "42386053",
+      "41520532",
+      "42348115",
+      "33486577",
+      "39589605",
+      "38103517",
+      "39305332",
+      "41547255",
+      "42380373",
+      "27994519",
+      "21978374",
+      "32188392",
+      "26938520",
+      "29910612",
+      "32006202",
+      "32324522",
+      "41026453",
+      "32468137",
+      "30889716",
+      "40061880",
+      "42215521",
+      "33016139",
+      "32715386",
+      "29552710",
+      "38704796",
+      "26154521",
+      "41904818",
+      "30843494",
+      "38915036",
+      "42436223",
+      "33226851",
+      "40951505",
+      "39223765",
+      "39719556",
+      "30259331",
+      "42092653",
+      "24947113",
+      "41995262",
+      "30774336",
+      "19719971",
+      "34365057",
+      "41227370",
+      "39756711",
+      "40884606",
+      "30458268",
+      "31099261",
+      "39034838",
+      "31591910",
+      "33166925",
+      "39223184",
+      "33573343",
+      "28322778",
+      "29808275",
+      "28958615",
+      "41930145",
+      "35056723",
+      "37446788",
+      "41147600",
+      "35165346",
+      "27038915",
+      "32981511",
+      "38696103",
+      "30093027",
+      "42169591",
+      "39454417",
+      "32252280",
+      "24337851",
+      "29533214",
+      "32319112",
+      "41448490",
+      "37210828",
+      "38616743",
+      "33653245",
+      "15870086",
+      "31746453",
+      "40806400",
+      "31407925",
+      "32433036",
+      "30301390",
+      "35367334",
+      "37392361"
+    ],
+    "review": [
+      "42811332"
+    ],
+    "pmc": [
+      "13625260"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-026-03113-8",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42811332/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-12",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

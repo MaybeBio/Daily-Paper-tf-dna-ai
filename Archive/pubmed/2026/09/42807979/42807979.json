@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42807979",
+    "doi": "10.1039/d6ra06998c",
+    "title": "Design, synthesis and network pharmacology-integrated evaluation of benzenesulfonamides as potential Dickkopf-1 (Dkk-1)-targeting anticancer candidates."
+  },
+  "content": {
+    "abstract": "Sulfanilamide-based drugs are known to exhibit immense anti-cancer activities, and thus, we sought to design and formulate sulfanilamide derivatives in order to study their potential against carbonic anhydrase II, pancreatic elastase, Dickkopf-1 (Dkk1) and LRP6 proteins, which are potential anti-cancer targets for various cancers. Out of all the synthesized derivatives, compound 4d exhibited significant inhibitory potential against CA-II, with an IC(50) value of 0.348 +/- 0.024 microM, which is about 3-fold higher than that of the reference drug acetazolamide (IC(50) = 0.9979 +/- 0.0024 microM). The significance of Dkk1 was taken into consideration in this study. Molecular docking interaction studies revealed that compound 4d exhibited good binding potential with CA-II, pancreatic elastase, LRP6 and Dkk1, with binding energies of -8.1, -8.7, -7.9 and -10.4 kcal mol(-1), respectively. Furthermore, in the course of DNA binding experiments, compound 4d exhibited the highest binding constant value of 2.3 x 10(7) mol(-1), validating the other biological tests, and these results are in agreement with the reported values, demonstrating the significance of compound 4d to act as a representative drug in the future. Finally, the present work has the potential to pave way for new therapeutic approaches in cancer treatment with the involvement of the less explored Dkk1 signaling target. In addition, a network pharmacology analysis of compound 4d against pancreatic cancer identified 243 shared targets that converged, through protein-protein interactions and enrichment analyses, on the PI3K-AKT and receptor tyrosine kinase signalling axes, providing a system-level rationale for its anticancer potential.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ejaz, Syeda Abida",
+        "Bilal, Muhammad Sajjad",
+        "Channar, Pervaiz Ali",
+        "Ujan, Rabail",
+        "Naseem, Sadia",
+        "Saeed, Aamer",
+        "Channar, Sajid Ali",
+        "Sahito, Reshma",
+        "Abbas, Qamar"
+      ],
+      "short_names": [
+        "Ejaz SA",
+        "Bilal MS",
+        "Channar PA",
+        "Ujan R",
+        "Naseem S",
+        "Saeed A",
+        "Channar SA",
+        "Sahito R",
+        "Abbas Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8516-7234",
+        "ORCID: 0009-0003-9432-1445"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, The Islamia University of Bahawalpur Bahawalpur 63100 Pakistan abida.ejaz@iub.edu.pk +923336221538.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, The Islamia University of Bahawalpur Bahawalpur 63100 Pakistan abida.ejaz@iub.edu.pk +923336221538.",
+        "Department of Basic Sciences and Humanities, Faculty of Basic and Allied Sciences, Dawood University of Engineering and Technology Karachi 74800 Pakistan pervaiz.ali@duet.edu.pk.",
+        "Department of MRC/ORIC, Liaquat University of Medical & Health Sciences Jamshoro Pakistan.",
+        "Department of Chemistry, Quaid-I-Azam University Islamabad 45320 Pakistan asaeed@qau.edu.pk.",
+        "Department of Chemistry, Quaid-I-Azam University Islamabad 45320 Pakistan asaeed@qau.edu.pk.",
+        "Department of MRC, Liaquat University of Medical & Health Sciences Jamshoro Pakistan.",
+        "Dr M. A. Kazi Institute of Chemistry, University of Sindh Jamshoro Pakistan.",
+        "Department of Zoology University of Sindh Jamshoro Pakistan.",
+        "Department of Biology, College of Science, University of Bahrain Sakhir 32038 Kingdom of Bahrain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ejaz, Syeda Abida",
+        "short_name": "Ejaz SA",
+        "identifiers": [
+          "0000-0002-8516-7234"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, The Islamia University of Bahawalpur Bahawalpur 63100 Pakistan abida.ejaz@iub.edu.pk +923336221538."
+        ]
+      },
+      {
+        "full_name": "Bilal, Muhammad Sajjad",
+        "short_name": "Bilal MS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, The Islamia University of Bahawalpur Bahawalpur 63100 Pakistan abida.ejaz@iub.edu.pk +923336221538."
+        ]
+      },
+      {
+        "full_name": "Channar, Pervaiz Ali",
+        "short_name": "Channar PA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Basic Sciences and Humanities, Faculty of Basic and Allied Sciences, Dawood University of Engineering and Technology Karachi 74800 Pakistan pervaiz.ali@duet.edu.pk."
+        ]
+      },
+      {
+        "full_name": "Ujan, Rabail",
+        "short_name": "Ujan R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of MRC/ORIC, Liaquat University of Medical & Health Sciences Jamshoro Pakistan."
+        ]
+      },
+      {
+        "full_name": "Naseem, Sadia",
+        "short_name": "Naseem S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Quaid-I-Azam University Islamabad 45320 Pakistan asaeed@qau.edu.pk."
+        ]
+      },
+      {
+        "full_name": "Saeed, Aamer",
+        "short_name": "Saeed A",
+        "identifiers": [
+          "0009-0003-9432-1445"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Quaid-I-Azam University Islamabad 45320 Pakistan asaeed@qau.edu.pk."
+        ]
+      },
+      {
+        "full_name": "Channar, Sajid Ali",
+        "short_name": "Channar SA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of MRC, Liaquat University of Medical & Health Sciences Jamshoro Pakistan.",
+          "Dr M. A. Kazi Institute of Chemistry, University of Sindh Jamshoro Pakistan."
+        ]
+      },
+      {
+        "full_name": "Sahito, Reshma",
+        "short_name": "Sahito R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Zoology University of Sindh Jamshoro Pakistan."
+        ]
+      },
+      {
+        "full_name": "Abbas, Qamar",
+        "short_name": "Abbas Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, University of Bahrain Sakhir 32038 Kingdom of Bahrain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RSC advances"
+    ],
+    "journal_abbrev": [
+      "RSC Adv"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42807979",
+      "40596146",
+      "38653067",
+      "42065764",
+      "40523513",
+      "38309003",
+      "38822913",
+      "42524252",
+      "37948293",
+      "36421710",
+      "42653779",
+      "29651967",
+      "39859577",
+      "30476623",
+      "39178704",
+      "42421348",
+      "39396453",
+      "40125411",
+      "41084246",
+      "40220402",
+      "41941051",
+      "35429380",
+      "38123787",
+      "40676786",
+      "33113414",
+      "39251712",
+      "35490310",
+      "41599736",
+      "39615042",
+      "41674325",
+      "36403742",
+      "42193347",
+      "41163037",
+      "41211465",
+      "37900162",
+      "41418598",
+      "42638586",
+      "41349320",
+      "42420329",
+      "41211468",
+      "41380441",
+      "36214306",
+      "42659947",
+      "42008748",
+      "38576495",
+      "41203698",
+      "41492010",
+      "42558029",
+      "37469733",
+      "42595923",
+      "36080232",
+      "41088968",
+      "42494425",
+      "41695418",
+      "39660547",
+      "37879505",
+      "36358960",
+      "41124878",
+      "42075882",
+      "37545598",
+      "35479426",
+      "42654099",
+      "35616676",
+      "40332431",
+      "41674300",
+      "39917915",
+      "30210004",
+      "41748763",
+      "40152211",
+      "38751223",
+      "41490553",
+      "39698883",
+      "42384169",
+      "37175279",
+      "37748386",
+      "40266298",
+      "37799727",
+      "38864845",
+      "41044331",
+      "42255648",
+      "41006588",
+      "37259214",
+      "39374881",
+      "40760645",
+      "41014811",
+      "41632019",
+      "36321557",
+      "38344942",
+      "35734366",
+      "38941699",
+      "39955364",
+      "39467506",
+      "40571228",
+      "39022084",
+      "41007325",
+      "40965460",
+      "35807326",
+      "40255473",
+      "35970314",
+      "40836204"
+    ],
+    "review": [
+      "42807979",
+      "36321557"
+    ],
+    "pmc": [
+      "13618357"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42807979/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1039/d6ra06998c",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

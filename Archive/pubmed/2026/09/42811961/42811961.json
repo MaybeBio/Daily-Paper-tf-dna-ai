@@ -1,0 +1,376 @@
+{
+  "identity": {
+    "pmid": "42811961",
+    "doi": "10.31083/FBL55796",
+    "title": "Commiphora africana Ethanol Extract Attenuates Inflammatory Responses With Reduced NF-kappaB/AP-1 Activation and Src/TAK1-Related Signaling Changes."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The bark, resin, and roots of Commiphora africana (A. Rich.) Engl. have traditionally been used in African medicine to treat fever, stomach disorders, colic, and swelling. However, despite this traditional use, its anti-inflammatory activity and the underlying molecular mechanisms remain poorly characterized. METHODS: We evaluated the anti-inflammatory activity of C. africana ethanol extract (Caf-EE) in lipopolysaccharide (LPS)-stimulated macrophages and in murine models of HCl/EtOH-induced acute gastric mucosal injury and LPS-induced acute lung injury. Reporter assays, gene expression analysis, immunoblotting, cellular thermal shift assay (CETSA), gas chromatography-mass spectrometry (GC-MS)-guided compound annotation, network pharmacology, and molecular docking were used to investigate the anti-inflammatory mechanisms of Caf-EE. RESULTS: Caf-EE inhibited nitrite production without cytotoxicity in LPS-stimulated RAW264.7 macrophages. GC-MS-guided feature annotation identified representative candidate constituents of Caf-EE, and network pharmacology indicated their association with inflammation-related pathways. Mechanistically, Caf-EE suppressed MyD88- and TRIF-mediated NF-kappaB/Activator protein 1 (AP-1) transcriptional activity and reduced the expression of inflammatory genes. Caf-EE also inhibited phosphorylation of Src/IkappaB kinase (IKK)/IkappaB- and Transforming growth factor-beta-activated kinase 1 (TAK1)/c-Jun N-terminal kinase (JNK)/c-Jun-associated signaling proteins and increased the thermal stability of Src and TAK1. In vivo, Caf-EE attenuated HCl/EtOH-induced acute gastric mucosal injury and LPS-induced acute lung injury, accompanied by reduced phosphorylation of Src and TAK1 in both tissues. Among the representative GC-MS-annotated compounds, 9,19-cyclolanost-24-en-3-ol exhibited the highest predicted binding affinity for Src and TAK1 in molecular docking analysis. CONCLUSIONS: Collectively, this study provides mechanistic evidence for the anti-inflammatory effects of Caf-EE through modulation of Src/TAK1-associated signaling. Furthermore, the protective effects observed in acute inflammatory disease models support the further development of Caf-EE as a therapeutic candidate for inflammatory disorders.",
+    "keywords": [
+      "Commiphora africana",
+      "acute lung injury",
+      "gastritis",
+      "inflammation",
+      "plant extracts",
+      "protein kinases",
+      "signal transduction"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "*Plant Extracts/pharmacology/chemistry",
+      "MAP Kinase Kinase Kinase 7",
+      "*MAP Kinase Kinase Kinases/metabolism",
+      "*NF-kappa B/metabolism",
+      "RAW 264.7 Cells",
+      "Signal Transduction/drug effects",
+      "*Anti-Inflammatory Agents/pharmacology",
+      "Ethanol/chemistry",
+      "*src-Family Kinases/metabolism",
+      "*Commiphora/chemistry",
+      "*Transcription Factor AP-1/metabolism",
+      "Macrophages/drug effects/metabolism",
+      "*Inflammation/drug therapy/metabolism",
+      "Lipopolysaccharides",
+      "Male",
+      "Molecular Docking Simulation",
+      "Acute Lung Injury/drug therapy/chemically induced/metabolism",
+      "Gastric Mucosa/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mou, Canglang",
+        "Wang, Yuhao",
+        "Huang, Lei",
+        "Su, Jinghan",
+        "You, Long",
+        "He, Ziliang",
+        "Hu, Yeye",
+        "Wei, Weizhaole",
+        "Choi, Wooram",
+        "Lee, Byoung-Hee",
+        "Bang, Woo Young",
+        "Byun, Hye-Woo",
+        "Lee, Jongsung",
+        "Kim, Ji Hye",
+        "Cho, Jae Youl"
+      ],
+      "short_names": [
+        "Mou C",
+        "Wang Y",
+        "Huang L",
+        "Su J",
+        "You L",
+        "He Z",
+        "Hu Y",
+        "Wei W",
+        "Choi W",
+        "Lee BH",
+        "Bang WY",
+        "Byun HW",
+        "Lee J",
+        "Kim JH",
+        "Cho JY"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Biocosmetics, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "School of Life Sciences, Huaiyin Normal University, 223300 Huaian, Jiangsu, China.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Biological Resources Utilization Division, National Institute of Biological Resources, 22689 Incheon, Republic of Korea.",
+        "Biological Resources Utilization Division, National Institute of Biological Resources, 22689 Incheon, Republic of Korea.",
+        "Biological Resources Utilization Division, National Institute of Biological Resources, 22689 Incheon, Republic of Korea.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+        "Department of Biocosmetics, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mou, Canglang",
+        "short_name": "Mou C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuhao",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Huang, Lei",
+        "short_name": "Huang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biocosmetics, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Su, Jinghan",
+        "short_name": "Su J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "You, Long",
+        "short_name": "You L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Huaiyin Normal University, 223300 Huaian, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "He, Ziliang",
+        "short_name": "He Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Hu, Yeye",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Wei, Weizhaole",
+        "short_name": "Wei W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Choi, Wooram",
+        "short_name": "Choi W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Byoung-Hee",
+        "short_name": "Lee BH",
+        "identifiers": [],
+        "affiliations": [
+          "Biological Resources Utilization Division, National Institute of Biological Resources, 22689 Incheon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Bang, Woo Young",
+        "short_name": "Bang WY",
+        "identifiers": [],
+        "affiliations": [
+          "Biological Resources Utilization Division, National Institute of Biological Resources, 22689 Incheon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Byun, Hye-Woo",
+        "short_name": "Byun HW",
+        "identifiers": [],
+        "affiliations": [
+          "Biological Resources Utilization Division, National Institute of Biological Resources, 22689 Incheon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Jongsung",
+        "short_name": "Lee J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Ji Hye",
+        "short_name": "Kim JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Cho, Jae Youl",
+        "short_name": "Cho JY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biotechnology and Biomedical Institute for Convergence, Sungkyunkwan University, 16419 Suwon, Republic of Korea.",
+          "Department of Biocosmetics, Sungkyunkwan University, 16419 Suwon, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioscience (Landmark edition)"
+    ],
+    "journal_abbrev": [
+      "Front Biosci (Landmark Ed)"
+    ],
+    "pub_date": "2026 Sep 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42811961",
+      "34641616",
+      "39810338",
+      "29574093",
+      "24378351",
+      "21821108",
+      "34628239",
+      "38753858",
+      "23735482",
+      "40935214",
+      "32397672",
+      "24503036",
+      "39580127",
+      "30951845",
+      "24342777",
+      "42107750",
+      "32331432",
+      "39986220",
+      "29932926",
+      "32260181",
+      "34684856",
+      "27178629",
+      "33991638",
+      "36115602",
+      "22155395",
+      "24866386",
+      "30149753",
+      "33539951",
+      "40752598",
+      "30233137",
+      "34245837",
+      "40553825",
+      "32590114",
+      "28127806",
+      "25446596",
+      "40683208",
+      "32326535",
+      "33338590",
+      "27286918",
+      "22182430",
+      "38782308",
+      "34883218",
+      "22234926",
+      "27620503",
+      "39374881",
+      "21913901",
+      "35738472",
+      "36559672",
+      "39922147",
+      "30710734",
+      "41687945",
+      "39971016",
+      "30668386",
+      "39087587",
+      "29463104",
+      "27562319",
+      "35381310",
+      "25839115",
+      "41843120",
+      "42793111",
+      "42361996",
+      "33799767",
+      "30668369",
+      "19169268",
+      "41052684",
+      "42177887",
+      "42719677",
+      "35988521",
+      "27591413",
+      "30068871",
+      "32187984",
+      "40912485",
+      "42450238",
+      "37994992",
+      "39571698",
+      "30395976",
+      "33297427",
+      "30794925",
+      "40037266",
+      "22940243",
+      "22885130",
+      "42424752",
+      "33421604",
+      "30012916",
+      "32028186",
+      "23411023",
+      "18452655",
+      "35921773",
+      "38972239",
+      "23747536",
+      "32013140",
+      "19842026",
+      "41864551",
+      "42302947",
+      "28843892",
+      "23220195",
+      "28832235",
+      "34801005",
+      "28502904",
+      "39048515"
+    ],
+    "review": [
+      "42811961"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MAPK8-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.imrpress.com/journal/FBL/31/9/10.31083/FBL55796",
+        "provider": "IMR Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

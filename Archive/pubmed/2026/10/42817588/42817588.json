@@ -1,0 +1,246 @@
+{
+  "identity": {
+    "pmid": "42817588",
+    "doi": "10.1002/cbdv.71790",
+    "title": "Coordinated TNF-NF-kappaB and PI3K-Akt Modulation by Yueju Pill in Hashimoto's Thyroiditis: A Network Pharmacology and Molecular Docking Study."
+  },
+  "content": {
+    "abstract": "To predict the polypharmacological mechanism of Yueju pill (YJP) against Hashimoto's thyroiditis (HT), this study integrated network pharmacology and molecular docking to develop a computationally derived \"dual-axis core\" hypothesis involving the TNF-NF-kappaB inflammatory axis and the PI3K-Akt survival/apoptosis axis. Candidate active compounds and putative targets were identified, followed by PPI network construction and GO and KEGG enrichment analyses. Representative compounds were further evaluated by molecular docking, with redocking and reference-ligand comparisons used to assess docking reliability. A total of 167 common drug-disease targets were identified, from which 13 hub targets were screened. Enrichment analysis highlighted the TNF, PI3K-Akt, IL-17, Th17 cell differentiation, and apoptosis-related pathways. Quercetin, luteolin, kaempferol, and wogonin showed predicted interactions with multiple inflammation- and apoptosis-related targets. Redocking reproduced crystallographic binding modes for CASP3, IKBKB, MAPK1, and AKT1 with RMSD values below 2.0 A. Overall, the integrated computational analyses support a testable \"dual-axis core\" hypothesis in which YJP may coordinately modulate inflammatory and survival/apoptosis-related signaling in HT, providing prioritized targets and a mechanistic framework for future experimental validation.",
+    "keywords": [
+      "Hashimoto's thyroiditis",
+      "Yueju pill",
+      "dual-axis core model",
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "mesh_terms": [
+      "*Molecular Docking Simulation",
+      "*Proto-Oncogene Proteins c-akt/metabolism/antagonists & inhibitors",
+      "Humans",
+      "*Phosphatidylinositol 3-Kinases/metabolism",
+      "*NF-kappa B/metabolism/antagonists & inhibitors",
+      "Network Pharmacology",
+      "*Hashimoto Disease/drug therapy/metabolism",
+      "*Drugs, Chinese Herbal/chemistry/pharmacology",
+      "*Tumor Necrosis Factor-alpha/metabolism/antagonists & inhibitors",
+      "Apoptosis/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Hao",
+        "Ren, Kuojun",
+        "Wang, Shengying"
+      ],
+      "short_names": [
+        "Zhang H",
+        "Ren K",
+        "Wang S"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-3113-6355",
+        "ORCID: 0000-0001-6435-6987",
+        "ORCID: 0009-0003-4506-5326"
+      ],
+      "affiliations": [
+        "The First Clinical Medical College, Anhui University of Chinese Medicine, Hefei, Anhui, China.",
+        "Department of Thyroid and Breast Surgery, The First Affiliated Hospital of Anhui University of Chinese Medicine, Hefei, Anhui, China.",
+        "Breast Cancer Center, The First Affiliated Hospital of University of Science and Technology of China, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui, China.",
+        "Breast Cancer Center, Anhui Provincial Cancer Hospital, Hefei, Anhui, China.",
+        "Department of Thyroid and Breast Surgery, The First Affiliated Hospital of Anhui University of Chinese Medicine, Hefei, Anhui, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Hao",
+        "short_name": "Zhang H",
+        "identifiers": [
+          "0009-0000-3113-6355"
+        ],
+        "affiliations": [
+          "The First Clinical Medical College, Anhui University of Chinese Medicine, Hefei, Anhui, China.",
+          "Department of Thyroid and Breast Surgery, The First Affiliated Hospital of Anhui University of Chinese Medicine, Hefei, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Kuojun",
+        "short_name": "Ren K",
+        "identifiers": [
+          "0000-0001-6435-6987"
+        ],
+        "affiliations": [
+          "Breast Cancer Center, The First Affiliated Hospital of University of Science and Technology of China, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui, China.",
+          "Breast Cancer Center, Anhui Provincial Cancer Hospital, Hefei, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shengying",
+        "short_name": "Wang S",
+        "identifiers": [
+          "0009-0003-4506-5326"
+        ],
+        "affiliations": [
+          "Department of Thyroid and Breast Surgery, The First Affiliated Hospital of Anhui University of Chinese Medicine, Hefei, Anhui, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemistry & biodiversity"
+    ],
+    "journal_abbrev": [
+      "Chem Biodivers"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 05:31",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42817588",
+      "42421348",
+      "37929726",
+      "41593181",
+      "39066538",
+      "40676786",
+      "40849737",
+      "36403742",
+      "42335406",
+      "41418734",
+      "39917920",
+      "34864624",
+      "38114126",
+      "35970314",
+      "40350911",
+      "37799727",
+      "37480968",
+      "41031496",
+      "37879505",
+      "42276186",
+      "41360503",
+      "39041101",
+      "35837376",
+      "37437794",
+      "36083487",
+      "40255473",
+      "40350871",
+      "41944069",
+      "36280016",
+      "35442463",
+      "41814699",
+      "41365176",
+      "38114219",
+      "41490553",
+      "39051076",
+      "41316260",
+      "38638040",
+      "41891757",
+      "34692849",
+      "36604893",
+      "37087582",
+      "35221674",
+      "37807411",
+      "39307810",
+      "37690812",
+      "38580999",
+      "39816675",
+      "40350886",
+      "35899176",
+      "41655547",
+      "37366364",
+      "40013962",
+      "37777029",
+      "40133026",
+      "37833363",
+      "39328142",
+      "42411478",
+      "34889224",
+      "42543338",
+      "37403397",
+      "38428659",
+      "42543283",
+      "40388786",
+      "39041167",
+      "38914662",
+      "38110130",
+      "38342157",
+      "35926779",
+      "37004399",
+      "39025160",
+      "39399124",
+      "42570804",
+      "37282941",
+      "35580771",
+      "40124554",
+      "42004947",
+      "38916485",
+      "35101570",
+      "37080367",
+      "38381309",
+      "37340752",
+      "37282910",
+      "38347958",
+      "34994139",
+      "35734366",
+      "39701786",
+      "38757315",
+      "39038503",
+      "41311552",
+      "42399461",
+      "41188309",
+      "41853287",
+      "39577223",
+      "39742571",
+      "36044117",
+      "41603923",
+      "35781817",
+      "42576380",
+      "38417244",
+      "34560213"
+    ],
+    "review": [
+      "42817588"
+    ],
+    "pmc": [
+      "13628139"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/cbdv.71790",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CASP3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-870",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

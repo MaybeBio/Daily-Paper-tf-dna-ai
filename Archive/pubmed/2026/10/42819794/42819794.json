@@ -1,0 +1,232 @@
+{
+  "identity": {
+    "pmid": "42819794",
+    "doi": "10.1021/acsomega.6c04624",
+    "title": "Evolution of Metal-Based Anticancer Therapeutics: Chemical Foundations, Platinum Drugs, and Emerging Schiff Base Ruthenium(II) and Iridium(III) Complexes."
+  },
+  "content": {
+    "abstract": "Metal-based chemotherapy has remained a cornerstone of cancer treatment since the clinical introduction of cisplatin; however, systemic toxicity, dose-limiting nephrotoxicity, and acquired resistance continue to limit its therapeutic efficacy. These challenges have stimulated the development of non-platinum-metal-based agents, particularly ruthenium-(II/III) and iridium-(III) complexes, which offer tunable coordination environments, redox adaptability, and diverse mechanisms of action. Among the ligand systems investigated, Schiff bases have emerged as versatile scaffolds capable of modulating complex stability, lipophilicity, and target selectivity. This Review critically examines recent advances (2023-2025) in Schiff base ruthenium and iridium complexes, with emphasis on their structure-activity relationships and anticancer mechanisms. Recent Schiff base Ru-(II/III) complexes have demonstrated promising DNA-binding, redox-modulating, and apoptosis-inducing properties, whereas several Ir-(III) complexes exhibit potent cytotoxicity, phosphorescence imaging capability, and phototherapeutic potential, supporting their development as theranostic agents. Mechanistic studies reveal multimodal activity involving DNA interactions, human serum albumin (HSA) binding, reactive oxygen species (ROS) modulation, mitochondrial dysfunction, and apoptosis induction. Emerging strategies, including NIR-activated phototherapy, nanocarrier-assisted delivery, and computational approaches such as molecular docking and density functional theory (DFT) calculations, are further highlighted as promising directions for the rational design of next-generation metal-based anticancer therapeutics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Joshi, Bhumika",
+        "Shivashankar, Murugesh"
+      ],
+      "short_names": [
+        "Joshi B",
+        "Shivashankar M"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-2824-7012",
+        "ORCID: 0000-0003-3637-0719"
+      ],
+      "affiliations": [
+        "Department of Chemistry, School of Advanced Sciences, Vellore Institute of Technology (VIT), Vellore 632014, India.",
+        "Department of Chemistry, School of Advanced Sciences, Vellore Institute of Technology (VIT), Vellore 632014, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Joshi, Bhumika",
+        "short_name": "Joshi B",
+        "identifiers": [
+          "0009-0007-2824-7012"
+        ],
+        "affiliations": [
+          "Department of Chemistry, School of Advanced Sciences, Vellore Institute of Technology (VIT), Vellore 632014, India."
+        ]
+      },
+      {
+        "full_name": "Shivashankar, Murugesh",
+        "short_name": "Shivashankar M",
+        "identifiers": [
+          "0000-0003-3637-0719"
+        ],
+        "affiliations": [
+          "Department of Chemistry, School of Advanced Sciences, Vellore Institute of Technology (VIT), Vellore 632014, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 03:09",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42819794",
+      "42737488",
+      "42101184",
+      "38972079",
+      "40701010",
+      "38843774",
+      "25712889",
+      "37651843",
+      "30133276",
+      "42356542",
+      "42300374",
+      "37452868",
+      "41785684",
+      "41762588",
+      "41406517",
+      "21446672",
+      "40957281",
+      "30974300",
+      "25369127",
+      "42618077",
+      "37671819",
+      "39836522",
+      "42152700",
+      "42315715",
+      "38096360",
+      "42512035",
+      "41685954",
+      "41400134",
+      "29400963",
+      "42475469",
+      "38728860",
+      "42247874",
+      "40747210",
+      "34109453",
+      "40425702",
+      "40744487",
+      "23879584",
+      "38801789",
+      "33210921",
+      "42514874",
+      "36423395",
+      "38054240",
+      "26313136",
+      "41550823",
+      "35215281",
+      "34767343",
+      "42297028",
+      "40644785",
+      "34342316",
+      "38279753",
+      "41581360",
+      "40668475",
+      "38205595",
+      "39615316",
+      "25200980",
+      "42193354",
+      "16790363",
+      "41915791",
+      "36126432",
+      "40380917",
+      "40326188",
+      "35546764",
+      "35054999",
+      "42660437",
+      "40087779",
+      "39214013",
+      "30357192",
+      "33348237",
+      "30101417",
+      "32951085",
+      "39486100",
+      "29547831",
+      "28654103",
+      "30378486",
+      "30289251",
+      "41406516",
+      "42784934",
+      "42287935",
+      "30153544",
+      "29846816",
+      "38027378",
+      "42509781",
+      "23618382",
+      "42722240",
+      "41289923",
+      "39681494",
+      "24430199",
+      "41397695",
+      "39900838",
+      "42573421",
+      "37689038",
+      "30579123",
+      "42383459",
+      "36426422",
+      "39998232",
+      "42371010",
+      "25087850",
+      "33639659",
+      "42777670",
+      "33554592"
+    ],
+    "review": [
+      "42819794",
+      "42737488",
+      "42356542",
+      "42300374",
+      "42618077",
+      "39836522",
+      "42512035",
+      "34109453",
+      "42514874",
+      "41550823",
+      "42297028",
+      "34342316",
+      "38279753",
+      "42193354",
+      "16790363",
+      "40326188",
+      "35546764",
+      "39214013",
+      "33348237",
+      "29547831",
+      "28654103",
+      "42784934",
+      "38027378",
+      "42509781",
+      "42722240",
+      "41397695",
+      "39900838"
+    ],
+    "pmc": [
+      "13624944"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1744",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/acsodf/article-lookup/doi/10.1021/acsomega.6c04624",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "42799208",
+    "doi": "10.2147/DDDT.S608177",
+    "title": "Artesunate Targets MBL2 to Modulate the TLR4/NRF2/HO‑1 Axis and Ameliorate Podophyllotoxin‑Induced Liver Injury."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Drug-induced liver injury (DILI) presents a significant clinical challenge with limited preventive and therapeutic options. Artesunate (ART) holds potential for DILI treatment; however, its precise hepatoprotective mechanisms and direct molecular target(s) remain unclear. METHODS: We evaluated ART in a podophyllotoxin (PPT)-induced rat model of DILI. Its direct target was identified through integrated chemical proteomics (pull-down/LC-MS/MS) followed by biophysical validation (SPR, MST) and molecular dynamics simulations. Mechanistic insights from hepatic transcriptomics (RNA-seq) were confirmed by Western blot, and extended with targeted metabolomics and 16S rRNA sequencing of gut microbiota. RESULTS: ART administration conferred significant hepatoprotection in the PPT-induced rat model, as evidenced by dose-dependent amelioration of key serum markers of liver injury (P < 0.05), attenuation of hepatic oxidative stress, and improved histopathological outcomes. Mechanistically, we identified mannose-binding lectin 2 (MBL2) as a direct, high-affinity target of ART (KD  approximately 3.84 microM). Upon binding to MBL2, ART suppressed the hepatic TLR4/NF-kappaB inflammatory axis and, in parallel, relieved NF-kappaB-mediated repression of NRF2, thereby cooperatively activating the NRF2-driven antioxidant defense program. Integrated multi-omics analysis further revealed that ART remodeled the gut microbiota, enriching beneficial genera including Lactobacillus, and that the abundance of these bacteria correlated positively with hepatic levels of antioxidant metabolites (P < 0.05), supporting a functional role of the gut-liver axis in its systemic protective effects. CONCLUSION: This study elucidates that ART alleviates DILI through targeting MBL2, thereby dually modulating the NF-kappaB/NRF2 signaling axis to simultaneously suppress inflammatory responses and enhance endogenous antioxidant defenses. These findings provide a novel and robust pharmacological basis for repositioning ART for the clinical prevention and treatment of DILI.",
+    "keywords": [
+      "artesunate",
+      "drug-induced liver injury",
+      "oxidative stress",
+      "podophyllotoxin"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*NF-E2-Related Factor 2/metabolism/antagonists & inhibitors",
+      "*Artesunate/pharmacology/administration & dosage",
+      "Rats",
+      "*Chemical and Drug Induced Liver Injury/drug therapy/metabolism/pathology",
+      "Male",
+      "Rats, Sprague-Dawley",
+      "*Podophyllotoxin/antagonists & inhibitors",
+      "*Toll-Like Receptor 4/metabolism/antagonists & inhibitors",
+      "*Mannose-Binding Lectin/metabolism/antagonists & inhibitors",
+      "Dose-Response Relationship, Drug",
+      "Disease Models, Animal",
+      "Oxidative Stress/drug effects",
+      "Heme Oxygenase (Decyclizing)"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wei, Mingyue",
+        "He, Junjie",
+        "Zhang, Yanzhao",
+        "Chen, Hetao",
+        "Wang, Xue",
+        "Liu, Miaomiao",
+        "Chang, Jianying",
+        "Fan, Chunyang",
+        "Jiang, Hongwei",
+        "Liu, Chuanxin"
+      ],
+      "short_names": [
+        "Wei M",
+        "He J",
+        "Zhang Y",
+        "Chen H",
+        "Wang X",
+        "Liu M",
+        "Chang J",
+        "Fan C",
+        "Jiang H",
+        "Liu C"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-0883-6993",
+        "ORCID: 0000-0003-3807-7989",
+        "ORCID: 0000-0002-0585-4617"
+      ],
+      "affiliations": [
+        "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China.",
+        "State Key Laboratory of Component‑based Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, People's Republic of China.",
+        "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China.",
+        "Luoyang Key Laboratory of Zebrafish Toxicology Research, Luoyang Key Laboratory of Transplantation and Immunological Studies for Haematological Diseases and Department of Clinical Laboratory, The First Affiliated Hospital and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China.",
+        "State Key Laboratory of Component‑based Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, People's Republic of China.",
+        "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China.",
+        "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China.",
+        "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China.",
+        "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China.",
+        "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wei, Mingyue",
+        "short_name": "Wei M",
+        "identifiers": [],
+        "affiliations": [
+          "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "He, Junjie",
+        "short_name": "He J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Component‑based Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yanzhao",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Chen, Hetao",
+        "short_name": "Chen H",
+        "identifiers": [
+          "0009-0004-0883-6993"
+        ],
+        "affiliations": [
+          "Luoyang Key Laboratory of Zebrafish Toxicology Research, Luoyang Key Laboratory of Transplantation and Immunological Studies for Haematological Diseases and Department of Clinical Laboratory, The First Affiliated Hospital and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xue",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Component‑based Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Miaomiao",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Chang, Jianying",
+        "short_name": "Chang J",
+        "identifiers": [],
+        "affiliations": [
+          "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Fan, Chunyang",
+        "short_name": "Fan C",
+        "identifiers": [],
+        "affiliations": [
+          "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Hongwei",
+        "short_name": "Jiang H",
+        "identifiers": [
+          "0000-0003-3807-7989"
+        ],
+        "affiliations": [
+          "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chuanxin",
+        "short_name": "Liu C",
+        "identifiers": [
+          "0000-0002-0585-4617"
+        ],
+        "affiliations": [
+          "Luoyang Key Laboratory of Clinical Multiomics and Translational Medicine, Key Laboratory of Hereditary Rare Diseases of Health Commission of Henan Province, Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, Henan, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Drug design, development and therapy"
+    ],
+    "journal_abbrev": [
+      "Drug Des Devel Ther"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42799208",
+      "42444162",
+      "41151450",
+      "42462527",
+      "41199533",
+      "40273561",
+      "41887383",
+      "41082944",
+      "38458086",
+      "42249096",
+      "42372682",
+      "41775324",
+      "39489394",
+      "40967049",
+      "42624309",
+      "39732297",
+      "41937194",
+      "41455169",
+      "38014837",
+      "31557909",
+      "30668406",
+      "41143955",
+      "41423100",
+      "41324663",
+      "41482088",
+      "39344438",
+      "41690038",
+      "42341861",
+      "28522909",
+      "39644570",
+      "34310894",
+      "33905819",
+      "42275867",
+      "41812900",
+      "38788396",
+      "41570783",
+      "42072638",
+      "33406386",
+      "41966027",
+      "41669081",
+      "38031247",
+      "41985849",
+      "41544730",
+      "33444723",
+      "42314351",
+      "36738945",
+      "39706064",
+      "26026609",
+      "41934303",
+      "39294398",
+      "37354073",
+      "42019124",
+      "41831735",
+      "29490296",
+      "40148240",
+      "42442117",
+      "42532227",
+      "41636749",
+      "41412549",
+      "34311537",
+      "31972209",
+      "40992648",
+      "34980736",
+      "32048261",
+      "42298689",
+      "38076631",
+      "32064027",
+      "31387329",
+      "40500058",
+      "42600364",
+      "40661829",
+      "41391800",
+      "40811614",
+      "41024762",
+      "42009081",
+      "42468639",
+      "42323899",
+      "42486457",
+      "36738614",
+      "39128305",
+      "40561755",
+      "39864603",
+      "42794613",
+      "41423158",
+      "29469035",
+      "39736346",
+      "24246655",
+      "42603481",
+      "40618978",
+      "40767416",
+      "40828094",
+      "41221720",
+      "40724913",
+      "25359217",
+      "31121820",
+      "42719677",
+      "41741731",
+      "42283841",
+      "41192695",
+      "41724289"
+    ],
+    "review": [
+      "42799208"
+    ],
+    "pmc": [
+      "13614324"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/drugreactions.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Drug Reactions"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42799208/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-2684",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.2147/DDDT.S608177",
+        "provider": "Dove Medical Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "identity": {
+    "pmid": "42811753",
+    "doi": "10.1096/fj.202602956RR",
+    "title": "4-Octyl Itaconate Attenuates Age-Induced Parotid Gland Dysfunction Through the Suppression of Fibrosis and Lipid Deposition by AMPKalpha/PPARalpha and the Inhibition of Oxidative Stress via the AMPKalpha/Nrf2 Signaling Pathway."
+  },
+  "content": {
+    "abstract": "Parotid gland aging is a key factor for reduced salivary production in older individuals. The role of 4-Octyl itaconate (4-OI) in age-related parotid gland dysfunction remains unclear. Thirteen-month-old male mice were administered 4-OI (25 mg/kg) or vehicle once daily for 4 weeks. The salivary flow rate was calculated to assess gland secretion function. Hematoxylin and eosin staining was used to analyze morphological alterations. Masson staining was used to quantify collagen deposition. Oil Red O staining was used to evaluate lipid droplet accumulation. Western blotting was used to detect protein expression levels. Metabolomics, transcriptome, and molecular docking analyses were performed to identify potential mechanisms of action. Functional assays revealed that 4-OI increased the salivary flow rate. AMPKalpha has been identified as a direct target of 4-OI by molecular docking. 4-OI upregulates AMPKalpha phosphorylation, decreases lipid droplet deposition, and relieves fibrosis to restore the aging characteristics of the gland. 4-OI regulates fatty acid oxidation (FAO) in the parotid gland through AMPKalpha/PPARalpha signaling pathways. The protective effects of 4-OI in aged mice were abolished by Compound C and GW6471, which inhibit AMPKalpha and PPARalpha, respectively. In addition, we found that 4-OI treatment ameliorated parotid gland aging-induced oxidative reactions, enhanced mitochondrial biogenesis, and activated the Nrf2 pathway. Moreover, the Nrf2 inhibitor ML385 was used to validate this mechanism. Treatment with 4-OI improved the aging of the parotid gland by increasing gland FAO, decreasing gland fibrosis, and preventing oxidative reactions. This was achieved by upregulating the AMPKalpha/Nrf2 and AMPKalpha/PPARalpha signaling pathways.",
+    "keywords": [
+      "4-octyl itaconate",
+      "AMPKalpha",
+      "PPARalpha",
+      "aging",
+      "parotid gland"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Male",
+      "*NF-E2-Related Factor 2/metabolism",
+      "Mice",
+      "*AMP-Activated Protein Kinases/metabolism",
+      "*Oxidative Stress/drug effects",
+      "Signal Transduction/drug effects",
+      "*PPAR alpha/metabolism",
+      "*Parotid Gland/metabolism/drug effects/pathology",
+      "Fibrosis/metabolism/drug therapy",
+      "*Aging/metabolism/drug effects",
+      "*Succinates/pharmacology",
+      "*Lipid Metabolism/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Yun",
+        "Gong, Tianyuan",
+        "Shan, Zhongyan",
+        "Lai, Jing",
+        "Xu, Yiming",
+        "Zhao, Han",
+        "Zhu, Lilei"
+      ],
+      "short_names": [
+        "Chen Y",
+        "Gong T",
+        "Shan Z",
+        "Lai J",
+        "Xu Y",
+        "Zhao H",
+        "Zhu L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5803-505X"
+      ],
+      "affiliations": [
+        "Changsha Stomatological Hospital, School of Stomatology, Hunan University of Chinese Medicine, Changsha, Hunan, China.",
+        "Department of Stomatology, The First Affiliated Hospital of Xinxiang Medical University, Weihui, Henan, China.",
+        "Changsha Stomatological Hospital, School of Stomatology, Hunan University of Chinese Medicine, Changsha, Hunan, China.",
+        "Changsha Stomatological Hospital, School of Stomatology, Hunan University of Chinese Medicine, Changsha, Hunan, China.",
+        "Department of Ophthalmology, The Second Xiangya Hospital of Central South University, Changsha, Hunan, China.",
+        "Hunan Clinical Research Center of Ophthalmic Disease, Changsha, Hunan, China.",
+        "Department of Ophthalmology, The Second Xiangya Hospital of Central South University, Changsha, Hunan, China.",
+        "Hunan Clinical Research Center of Ophthalmic Disease, Changsha, Hunan, China.",
+        "Changsha Stomatological Hospital, School of Stomatology, Hunan University of Chinese Medicine, Changsha, Hunan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Yun",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Changsha Stomatological Hospital, School of Stomatology, Hunan University of Chinese Medicine, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Tianyuan",
+        "short_name": "Gong T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Stomatology, The First Affiliated Hospital of Xinxiang Medical University, Weihui, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Shan, Zhongyan",
+        "short_name": "Shan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Changsha Stomatological Hospital, School of Stomatology, Hunan University of Chinese Medicine, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Jing",
+        "short_name": "Lai J",
+        "identifiers": [],
+        "affiliations": [
+          "Changsha Stomatological Hospital, School of Stomatology, Hunan University of Chinese Medicine, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yiming",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, The Second Xiangya Hospital of Central South University, Changsha, Hunan, China.",
+          "Hunan Clinical Research Center of Ophthalmic Disease, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Han",
+        "short_name": "Zhao H",
+        "identifiers": [
+          "0000-0002-5803-505X"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology, The Second Xiangya Hospital of Central South University, Changsha, Hunan, China.",
+          "Hunan Clinical Research Center of Ophthalmic Disease, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Lilei",
+        "short_name": "Zhu L",
+        "identifiers": [],
+        "affiliations": [
+          "Changsha Stomatological Hospital, School of Stomatology, Hunan University of Chinese Medicine, Changsha, Hunan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+    ],
+    "journal_abbrev": [
+      "FASEB J"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42811753",
+      "35222799",
+      "38649932",
+      "38128618",
+      "30442144",
+      "35787451",
+      "42624420",
+      "39291665",
+      "32655764",
+      "40790657",
+      "41814705",
+      "38158612",
+      "40524158",
+      "38767761",
+      "30466076",
+      "41592527",
+      "37095432",
+      "42392249",
+      "34457120",
+      "31832001",
+      "31490085",
+      "32943614",
+      "39984770",
+      "42034026",
+      "35126808",
+      "42351780",
+      "38760862",
+      "40119983",
+      "38945466",
+      "37321425",
+      "32666969",
+      "39518926",
+      "23690240",
+      "31816398",
+      "35068055",
+      "40543693",
+      "38730297",
+      "31678598",
+      "31906014",
+      "41690038",
+      "42285318",
+      "37657258",
+      "29173234",
+      "38073004",
+      "41974644",
+      "32255424",
+      "40515882",
+      "42807646",
+      "36120597",
+      "34440821",
+      "40683423",
+      "39910615",
+      "39880066",
+      "32526241",
+      "39094439",
+      "35231555",
+      "42173417",
+      "39929419",
+      "31100405",
+      "29440279",
+      "27130813",
+      "28383996",
+      "36916028",
+      "40016745",
+      "38183531",
+      "42172981",
+      "38382593",
+      "41907553",
+      "35637195",
+      "30545629",
+      "41038331",
+      "42445172",
+      "42323473",
+      "39278309",
+      "38943694",
+      "33204402",
+      "39800144",
+      "33364751",
+      "41637413",
+      "40779351",
+      "38588984",
+      "35308171",
+      "41047055",
+      "40578033",
+      "39216775",
+      "37971580",
+      "41826607",
+      "41683226",
+      "35057680",
+      "41796616",
+      "37355081",
+      "39631297",
+      "30630510",
+      "38642169",
+      "30950217",
+      "41713218",
+      "38173037",
+      "41622030",
+      "39307771",
+      "41887412"
+    ],
+    "review": [
+      "42811753"
+    ],
+    "pmc": [
+      "13624517"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/olderadulthealth.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Older Adult Health"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42811753/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1096/fj.202602956RR",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

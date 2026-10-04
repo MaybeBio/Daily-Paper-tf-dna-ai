@@ -1,0 +1,328 @@
+{
+  "identity": {
+    "pmid": "42798472",
+    "doi": "10.3389/fimmu.2026.1889598",
+    "title": "Combination of Chenpi and Banxia alleviates synovial inflammation in a rat model of rheumatoid arthritis by targeting the JNK/AP-1 signaling pathway."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Chenpi (Citrus reticulata) has both medicinal and dietary applications, while Banxia (Pinellia ternata) is frequently combined with Chenpi to treat inflammatory diseases. This study aimed to investigate the potential therapeutic targets and pharmacological mechanisms of the Chenpi-Banxia (CB) herbal combination in rheumatoid arthritis (RA). METHODS: A collagen-induced arthritis (CIA) rat model was used to evaluate the effects of CB on arthritis symptoms, histopathology, and serum cytokine levels. Network pharmacology was applied to identify active compounds and potential targets. Key components were analyzed by high-performance liquid chromatography, and molecular docking and molecular dynamics simulations were performed to assess their interactions with JNK proteins. The regulatory effects of CB on the JNK/AP-1 pathway were further examined in leptin-induced fibroblast-like synoviocytes (FLSs) and CIA rats. RESULTS: CB significantly reduced paw swelling and arthritis scores, ameliorated joint pathological damage, and decreased TNF-alpha and IL-6 levels in the serum and synovial tissues of CIA rats. Network pharmacology identified the JNK pathway as a key target. Among five candidate compounds detected in CB-containing serum, nobiletin showed the largest chromatographic peak area. Molecular docking and dynamics simulations supported stable interactions between nobiletin and JNK1/JNK2. In vitro, nobiletin and CB-containing serum inhibited leptin-induced FLS proliferation, migration, inflammatory factor release, JNK phosphorylation, and downstream c-Jun and c-Fos expression. In vivo, CB also suppressed JNK/AP-1 activation in synovial tissue. DISCUSSION: These findings suggest that CB alleviates experimental arthritis and synovial inflammation, at least partly by suppressing leptin-mediated JNK/AP-1 signaling and abnormal FLS activation, thereby supporting its potential therapeutic relevance in RA.",
+    "keywords": [
+      "Chenpi-Banxia",
+      "JNK/AP-1",
+      "inflammation",
+      "leptin",
+      "rheumatoid arthritis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Rats",
+      "*Transcription Factor AP-1/metabolism",
+      "*Arthritis, Rheumatoid/drug therapy/metabolism/pathology",
+      "Molecular Docking Simulation",
+      "*Arthritis, Experimental/drug therapy/pathology/metabolism",
+      "Male",
+      "Signal Transduction/drug effects",
+      "*MAP Kinase Signaling System/drug effects",
+      "Synovial Membrane/drug effects/pathology",
+      "Disease Models, Animal",
+      "Synoviocytes/drug effects/metabolism",
+      "Cytokines/metabolism/blood",
+      "Rats, Sprague-Dawley",
+      "*Drugs, Chinese Herbal/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Wenxin",
+        "Li, Yue",
+        "Zhang, Xiaoyu",
+        "Zhang, Jie",
+        "Du, Yue",
+        "Han, Xu",
+        "Cui, Ronghao",
+        "Li, Yufeng",
+        "Meng, Fanyan",
+        "Meng, Di"
+      ],
+      "short_names": [
+        "Zhang W",
+        "Li Y",
+        "Zhang X",
+        "Zhang J",
+        "Du Y",
+        "Han X",
+        "Cui R",
+        "Li Y",
+        "Meng F",
+        "Meng D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China.",
+        "First Clinical College, China Medical University, Shenyang, Liaoning, China.",
+        "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China.",
+        "Department of Chinese Medicine, National Regional Diagnosis and Treatment Center for Traditional Chinese Medicine (TCM) Rheumatology, The First Hospital of China Medical University, Shenyang, Liaoning, China.",
+        "Shengjing Hospital of China Medical University, Shenyang, Liaoning, China.",
+        "Department of Chinese Medicine, National Regional Diagnosis and Treatment Center for Traditional Chinese Medicine (TCM) Rheumatology, The First Hospital of China Medical University, Shenyang, Liaoning, China.",
+        "First Clinical College, China Medical University, Shenyang, Liaoning, China.",
+        "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China.",
+        "Department of Chinese Medicine, National Regional Diagnosis and Treatment Center for Traditional Chinese Medicine (TCM) Rheumatology, The First Hospital of China Medical University, Shenyang, Liaoning, China.",
+        "Department of Chinese Medicine, National Regional Diagnosis and Treatment Center for Traditional Chinese Medicine (TCM) Rheumatology, The First Hospital of China Medical University, Shenyang, Liaoning, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Wenxin",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yue",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "First Clinical College, China Medical University, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiaoyu",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jie",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chinese Medicine, National Regional Diagnosis and Treatment Center for Traditional Chinese Medicine (TCM) Rheumatology, The First Hospital of China Medical University, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Du, Yue",
+        "short_name": "Du Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shengjing Hospital of China Medical University, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Han, Xu",
+        "short_name": "Han X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chinese Medicine, National Regional Diagnosis and Treatment Center for Traditional Chinese Medicine (TCM) Rheumatology, The First Hospital of China Medical University, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Ronghao",
+        "short_name": "Cui R",
+        "identifiers": [],
+        "affiliations": [
+          "First Clinical College, China Medical University, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yufeng",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Fanyan",
+        "short_name": "Meng F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chinese Medicine, National Regional Diagnosis and Treatment Center for Traditional Chinese Medicine (TCM) Rheumatology, The First Hospital of China Medical University, Shenyang, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Di",
+        "short_name": "Meng D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chinese Medicine, National Regional Diagnosis and Treatment Center for Traditional Chinese Medicine (TCM) Rheumatology, The First Hospital of China Medical University, Shenyang, Liaoning, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42798472",
+      "42033182",
+      "40571227",
+      "40955790",
+      "41389887",
+      "39244174",
+      "42119867",
+      "41866004",
+      "40857963",
+      "41630356",
+      "41482061",
+      "39838477",
+      "42525168",
+      "41634491",
+      "34700130",
+      "42336114",
+      "41644791",
+      "42190416",
+      "40204052",
+      "40682832",
+      "34358861",
+      "40830133",
+      "38151179",
+      "40085199",
+      "28035365",
+      "32718263",
+      "39987998",
+      "39186991",
+      "41616419",
+      "38688626",
+      "34781187",
+      "27613480",
+      "39289942",
+      "31396207",
+      "32497675",
+      "37163904",
+      "40349405",
+      "40835949",
+      "42439331",
+      "38976290",
+      "40081512",
+      "38212502",
+      "41426011",
+      "38565409",
+      "24176738",
+      "33465441",
+      "41061794",
+      "37390648",
+      "42764683",
+      "41380854",
+      "39083495",
+      "41825207",
+      "40339721",
+      "28239846",
+      "40706389",
+      "42542056",
+      "38964156",
+      "34101073",
+      "42645227",
+      "41534747",
+      "32044269",
+      "40466361",
+      "35918412",
+      "41493486",
+      "41338150",
+      "28550307",
+      "42184927",
+      "40412131",
+      "39837014",
+      "42638573",
+      "40269643",
+      "41172921",
+      "31401534",
+      "25708600",
+      "42197115",
+      "38636369",
+      "27653023",
+      "40153325",
+      "41456528",
+      "39821520",
+      "11435459",
+      "35702063",
+      "40268109",
+      "32670287",
+      "34752968",
+      "42435918",
+      "42114348",
+      "40189155",
+      "37385573",
+      "32945496",
+      "34737112",
+      "35221674",
+      "39733801",
+      "29408488",
+      "33511203",
+      "41963573",
+      "41365194",
+      "38064612",
+      "37480451",
+      "27816728"
+    ],
+    "review": [
+      "42798472"
+    ],
+    "pmc": [
+      "13612294"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/rheumatoidarthritis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Rheumatoid Arthritis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42798472/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MAPK8-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-893",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1889598",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.01.755736",
+  "title": "A bifunctional RNase H protein supports DNA replication and transcription in nucleus-forming Chimalliviridae phages",
+  "doi": "10.64898/2026.10.01.755736",
+  "abstract": "Jumbo bacteriophages of the Chimalliviridae family replicate their genomes within a proteinaceous phage nucleus that spatially segregates viral DNA replication and transcription from translation. While the phage nucleus protects viral DNA from host defenses, it also imposes unique constraints on genome replication and gene expression. Here we identify the phage-encoded protein Rhc (RNase H-clamp) as a central mediator of genome transactions within the phage nucleus. Using the Escherichia coli infecting bacteriophage Goslar, we show that Rhc functions as an essential component of a non-canonical three-subunit DNA polymerase complex composed of DNAP N , DNAP C and Rhc. Rhc physically interacts with the DNAP C subunit, and both the catalytic activity of Rhc's N-terminal RNase H domain and its C-terminal sliding clamp-derived DNA binding domain are required for genome replication, nuclear maturation, and productive infection. Further, Goslar Rhc also supports transcription within the phage nucleus through a function that is separable from its DNA replication function. Rhc depletion results in reduced transcription of a subset of late genes, in a pattern that suggests a role for Rhc in resolving R-loops. Imaging and cryo-electron tomography reveal that loss of Rhc arrests phage development at a nascent nuclear stage, uncoupling nuclear assembly from maturation. Together, these findings identify Rhc as a multifunctional nuclear factor that mediates both DNA replication and transcription in nucleus-forming jumbo phages, revealing how viruses repurpose a conserved enzymatic activity to coordinate gene expression within a compartmentalized replication environment.",
+  "authors": [
+    "Phoolwanti Rani",
+    "Niklas Klusch",
+    "Shannon Barret",
+    "Taylor Forman",
+    "Makaela Levine",
+    "Margot Riggi",
+    "Caroline Rees",
+    "Rui Liu",
+    "Lizbeth Hoffman",
+    "Meline Norquist",
+    "Dwaipayan Basu",
+    "Koe Inlow",
+    "Emily G Armbruster",
+    "Chase J Morgan",
+    "Joe Pogliano",
+    "Kevin D Corbett",
+    "Elizabeth Villa"
+  ],
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-02T09:15:14Z",
+  "journal": "bioRxiv",
+  "category": "Cell Biology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.01.755736",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.01.755736.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Cell Biology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Cell Biology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T09:55:30Z",
+        "timestamp": 1790934930502,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "group-title": "Cell Biology",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                2
+              ]
+            ],
+            "date-time": "2026-10-02T00:00:00Z",
+            "timestamp": 1790899200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "HHMI",
+          "award": [
+            "N/A"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "N/A"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/006w34k90",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "NIH",
+          "award": [
+            "R01 GM129245"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "R01 GM129245"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NIH",
+          "award": [
+            "R35 GM144121"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "R35 GM144121"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NSF",
+          "award": [
+            "DBI 1920374"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "DBI 1920374"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:p>\n                  Jumbo bacteriophages of the Chimalliviridae family replicate their genomes within a proteinaceous phage nucleus that spatially segregates viral DNA replication and transcription from translation. While the phage nucleus protects viral DNA from host defenses, it also imposes unique constraints on genome replication and gene expression. Here we identify the phage-encoded protein Rhc (RNase H-clamp) as a central mediator of genome transactions within the phage nucleus. Using the Escherichia coli infecting bacteriophage Goslar, we show that Rhc functions as an essential component of a non-canonical three-subunit DNA polymerase complex composed of DNAP\n                  <jats:sup>N</jats:sup>\n                  , DNAP\n                  <jats:sup>C</jats:sup>\n                  and Rhc. Rhc physically interacts with the DNAP\n                  <jats:sup>C</jats:sup>\n                  subunit, and both the catalytic activity of Rhc's N-terminal RNase H domain and its C-terminal sliding clamp-derived DNA binding domain are required for genome replication, nuclear maturation, and productive infection. Further, Goslar Rhc also supports transcription within the phage nucleus through a function that is separable from its DNA replication function. Rhc depletion results in reduced transcription of a subset of late genes, in a pattern that suggests a role for Rhc in resolving R-loops. Imaging and cryo-electron tomography reveal that loss of Rhc arrests phage development at a nascent nuclear stage, uncoupling nuclear assembly from maturation. Together, these findings identify Rhc as a multifunctional nuclear factor that mediates both DNA replication and transcription in nucleus-forming jumbo phages, revealing how viruses repurpose a conserved enzymatic activity to coordinate gene expression within a compartmentalized replication environment.\n                </jats:p>",
+      "DOI": "10.64898/2026.10.01.755736",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T09:15:14Z",
+        "timestamp": 1790932514000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A bifunctional RNase H protein supports DNA replication and transcription in nucleus-forming Chimalliviridae phages"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6731-9003",
+          "authenticated-orcid": false,
+          "given": "Phoolwanti",
+          "family": "Rani",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of California San Diego; Howard Hughes Medical Institute;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2459-7377",
+          "authenticated-orcid": false,
+          "given": "Niklas",
+          "family": "Klusch",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0001-9775-7952",
+          "authenticated-orcid": false,
+          "given": "Shannon",
+          "family": "Barret",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego; Howard Hughes Medical Institute;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4174-4682",
+          "authenticated-orcid": false,
+          "given": "Taylor",
+          "family": "Forman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Makaela",
+          "family": "Levine",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego; Howard Hughes Medical Institute;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8930-5331",
+          "authenticated-orcid": false,
+          "given": "Margot",
+          "family": "Riggi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Cell and Virus Structure, Max Planck Institute of Biochemistry, Martinsried, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-8676-2796",
+          "authenticated-orcid": false,
+          "given": "Caroline",
+          "family": "Rees",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3758-6493",
+          "authenticated-orcid": false,
+          "given": "Rui",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0008-5718-2323",
+          "authenticated-orcid": false,
+          "given": "Lizbeth",
+          "family": "Hoffman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego; Howard Hughes Medical Institute;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-2835-8293",
+          "authenticated-orcid": false,
+          "given": "Meline",
+          "family": "Norquist",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0008-8207-8712",
+          "authenticated-orcid": false,
+          "given": "Dwaipayan",
+          "family": "Basu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2535-9613",
+          "authenticated-orcid": false,
+          "given": "Koe",
+          "family": "Inlow",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0377-1209",
+          "authenticated-orcid": false,
+          "given": "Emily G",
+          "family": "Armbruster",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7498-8678",
+          "authenticated-orcid": false,
+          "given": "Chase J",
+          "family": "Morgan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8989-2655",
+          "authenticated-orcid": false,
+          "given": "Joe",
+          "family": "Pogliano",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5854-2388",
+          "authenticated-orcid": false,
+          "given": "Kevin D",
+          "family": "Corbett",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4677-9809",
+          "authenticated-orcid": false,
+          "given": "Elizabeth",
+          "family": "Villa",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California San Diego; Howard Hughes Medical Institute;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.01.755736",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T09:15:14Z",
+        "timestamp": 1790932514000
+      },
+      "score": 66.22054,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.01.755736"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.01.755736",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

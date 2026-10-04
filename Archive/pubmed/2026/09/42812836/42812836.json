@@ -1,0 +1,258 @@
+{
+  "identity": {
+    "pmid": "42812836",
+    "doi": "10.1039/d6ra06822g",
+    "title": "Mono- and dinuclear thiophene-based palladium(ii) complexes bearing phosphorus ylides: synthesis, catalytic activity, cytotoxicity and molecular docking studies."
+  },
+  "content": {
+    "abstract": "Two new thiophene-based palladium(ii) complexes, the mononuclear [Pd(L)(2)(Cl)(2)] (M) and [Pd(L)(micro-Cl)](2) (D), were synthesized in good yield (73-90%) by reacting equimolar palladium(ii) salts with the thiophene-derived Schiff base ligand, C(10)H(7)N[double bond, length as m-dash]C(H)(C(4)H(3)S) (L). The reactivity of complex D with unsymmetrical phosphorus ylides [Ph(2)P(CH(2))(2)PPh(2)C(H)C(O)C(6)H(4)X] (X = Cl (Y(1)), NO(2) (Y(2)), OCH(3) (Y(3)), Br (Y(4))) was also investigated via chloride bridge-splitting reactions, affording a new family of mononuclear thiophene-based Pd(ii) complexes (D(1)-D(4)). L and its Pd(ii) complexes were characterized by elemental analysis, FT-IR, and NMR ((1)H, (13)C, and (31)P) spectroscopy. Single-crystal X-ray diffraction confirmed the molecular structures of L and complex M, and DFT calculations were additionally performed to support the structural analysis of L. Complexes D(1)-D(4) exhibited excellent catalytic activity in Suzuki-Miyaura cross-coupling reactions under aerobic conditions in EtOH. MTT assays revealed cytotoxic activity against human carcinoma cell lines HT-29 and A549, with D(4) showing the highest cytotoxicity. Molecular docking with SARS-CoV-2 (PDB ID: 6Y2F) and transcription factor STAT3B/DNA (PDB ID: 1BG1) indicated that L, complexes M and D(1) effectively interact with the active sites via stable non-covalent interactions, suggesting their potential as anticancer and anti-COVID-19 agents; D(1) showed superior inhibitory activity against COVID-19.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sepehrfar, Soraya",
+        "Samiee, Sepideh",
+        "Hoveizi, Elham",
+        "Janczak, Jan",
+        "Ignatiev, Vladislav",
+        "Dominiak, Paulina Maria"
+      ],
+      "short_names": [
+        "Sepehrfar S",
+        "Samiee S",
+        "Hoveizi E",
+        "Janczak J",
+        "Ignatiev V",
+        "Dominiak PM"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1395-0120",
+        "ORCID: 0000-0001-9826-5821",
+        "ORCID: 0000-0002-1466-1243"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Faculty of Science, Shahid Chamran University of Ahvaz Ahvaz Iran s.samiee@scu.ac.ir samiee.sepideh@gmail.com +98 6133337009 +98 6133331042.",
+        "Department of Chemistry, Faculty of Science, Shahid Chamran University of Ahvaz Ahvaz Iran s.samiee@scu.ac.ir samiee.sepideh@gmail.com +98 6133337009 +98 6133331042.",
+        "Department of Biology, Faculty of Science, Shahid Chamran University of Ahvaz Ahvaz Iran.",
+        "Institute of Low Temperature and Structure Research, Polish Academy of Sciences Okolna 2 Str. 50-422 Wroclaw Poland.",
+        "Biological and Chemical Research Centre, Faculty of Chemistry, University of Warsaw Poland.",
+        "Biological and Chemical Research Centre, Faculty of Chemistry, University of Warsaw Poland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sepehrfar, Soraya",
+        "short_name": "Sepehrfar S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, Shahid Chamran University of Ahvaz Ahvaz Iran s.samiee@scu.ac.ir samiee.sepideh@gmail.com +98 6133337009 +98 6133331042."
+        ]
+      },
+      {
+        "full_name": "Samiee, Sepideh",
+        "short_name": "Samiee S",
+        "identifiers": [
+          "0000-0003-1395-0120"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, Shahid Chamran University of Ahvaz Ahvaz Iran s.samiee@scu.ac.ir samiee.sepideh@gmail.com +98 6133337009 +98 6133331042."
+        ]
+      },
+      {
+        "full_name": "Hoveizi, Elham",
+        "short_name": "Hoveizi E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Faculty of Science, Shahid Chamran University of Ahvaz Ahvaz Iran."
+        ]
+      },
+      {
+        "full_name": "Janczak, Jan",
+        "short_name": "Janczak J",
+        "identifiers": [
+          "0000-0001-9826-5821"
+        ],
+        "affiliations": [
+          "Institute of Low Temperature and Structure Research, Polish Academy of Sciences Okólna 2 Str. 50-422 Wroclaw Poland."
+        ]
+      },
+      {
+        "full_name": "Ignatiev, Vladislav",
+        "short_name": "Ignatiev V",
+        "identifiers": [],
+        "affiliations": [
+          "Biological and Chemical Research Centre, Faculty of Chemistry, University of Warsaw Poland."
+        ]
+      },
+      {
+        "full_name": "Dominiak, Paulina Maria",
+        "short_name": "Dominiak PM",
+        "identifiers": [
+          "0000-0002-1466-1243"
+        ],
+        "affiliations": [
+          "Biological and Chemical Research Centre, Faculty of Chemistry, University of Warsaw Poland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RSC advances"
+    ],
+    "journal_abbrev": [
+      "RSC Adv"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 11:35",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42812836",
+      "29216566",
+      "39470017",
+      "32032825",
+      "37452868",
+      "21520903",
+      "34268603",
+      "30813058",
+      "33075117",
+      "19690687",
+      "19352536",
+      "37375332",
+      "28734141",
+      "32645652",
+      "37058991",
+      "27524503",
+      "35538931",
+      "37454435",
+      "26394366",
+      "39065003",
+      "29038812",
+      "24315812",
+      "27990545",
+      "38325158",
+      "20162206",
+      "22101649",
+      "34303813",
+      "30243122",
+      "38516589",
+      "21113540",
+      "39260335",
+      "40259763",
+      "19274300",
+      "27431616",
+      "41762588",
+      "42229349",
+      "33606116",
+      "16198575",
+      "28456118",
+      "22119126",
+      "12667701",
+      "42365045",
+      "15271523",
+      "38855858",
+      "36816644",
+      "19505840",
+      "31735357",
+      "32073070",
+      "27819095",
+      "32622215",
+      "39606833",
+      "34315119",
+      "23376555",
+      "35043134",
+      "42243291",
+      "22104300",
+      "26339715",
+      "29966894",
+      "41406516",
+      "42660437",
+      "26211437",
+      "33877183",
+      "15558122",
+      "31385067",
+      "35597043",
+      "31620894",
+      "16172647",
+      "33336849",
+      "38958025",
+      "22101384",
+      "31389452",
+      "27619741",
+      "41317390",
+      "26826472",
+      "22071086",
+      "32998677",
+      "28663150",
+      "15955728",
+      "30767754",
+      "22955178",
+      "36678546",
+      "23368104",
+      "18605691",
+      "28336408",
+      "18369494",
+      "34443314",
+      "38938129",
+      "40471376",
+      "26147659",
+      "34027534",
+      "32329409",
+      "36619309",
+      "29517777",
+      "33011625",
+      "28715006",
+      "33043330",
+      "22466757",
+      "20024984",
+      "39502428",
+      "35604068"
+    ],
+    "review": [
+      "42812836"
+    ],
+    "pmc": [
+      "13622566"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6ra06822g",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TAP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

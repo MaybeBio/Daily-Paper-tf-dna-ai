@@ -1,0 +1,239 @@
+{
+  "identity": {
+    "pmid": "42800003",
+    "doi": "10.1093/jimmun/vkag240",
+    "title": "Mechanism of SGLT2 inhibitors in improving immune imbalance in diabetic mice with sepsis via regulating macrophage M2 polarization through the APOC1/HMGB1/TLR4 axis."
+  },
+  "content": {
+    "abstract": "This study aimed to investigate the mechanism by which the sodium-glucose cotransporter-2 (SGLT2) inhibitor dapagliflozin improves immune imbalance in sepsis with diabetes, focusing on its regulation of macrophage M2 polarization through the APOC1/HMGB1/TLR4 axis. A mouse model of type 2 diabetes was established through intraperitoneal injection of streptozotocin, after which sepsis was induced by cecal ligation and puncture. For in vitro studies, RAW264.7 macrophages and bone marrow-derived macrophages were exposed to high glucose and lipopolysaccharide. Molecular docking was employed to examine potential binding between dapagliflozin and APOC1. Organ pathology in lung, liver, and kidney was evaluated using hematoxylin and eosin staining and biochemical assay kits. Expression levels of APOC1, HMGB1, TLR4, and macrophage M1/M2 markers were analyzed via immunohistochemistry and immunofluorescence. Inflammatory cytokine levels were quantified with enzyme-linked immunosorbent assay. The SGLT2 inhibitor dapagliflozin effectively alleviated lung, liver, kidney injury and dysfunction and reduced inflammatory responses in diabetic mice with sepsis. The treatment also decreased inflammatory cytokine levels in the high glucose/lipopolysaccharide-stimulated cellular model. Furthermore, dapagliflozin treatment significantly increased the levels of M2 macrophage markers in both in vivo and in vitro models. Mechanistically, dapagliflozin was found to target, bind to, and downregulate APOC1 expression. Further investigations revealed that APOC1 promotes macrophage M1 polarization via the APOC1/HMGB1/TLR4 axis, an effect reversed by dapagliflozin. The SGLT2 inhibitor dapagliflozin ameliorates organ damage and inflammation in sepsis with diabetes by promoting macrophage M2 polarization through inhibition of the APOC1/HMGB1/TLR4 axis.",
+    "keywords": [
+      "APOC1/HMGB1/TLR4 axis",
+      "SGLT2 inhibitor",
+      "diabetes-related sepsis",
+      "macrophage polarization"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "HMGB1 Protein/metabolism",
+      "Toll-Like Receptor 4/metabolism",
+      "*Macrophages/immunology/drug effects/metabolism",
+      "*Diabetes Mellitus, Experimental/drug therapy/immunology/complications",
+      "*Glucosides/pharmacology/therapeutic use",
+      "*Benzhydryl Compounds/pharmacology/therapeutic use",
+      "*Sepsis/drug therapy/immunology/metabolism",
+      "*Sodium-Glucose Transporter 2 Inhibitors/pharmacology/therapeutic use",
+      "Male",
+      "RAW 264.7 Cells",
+      "Signal Transduction/drug effects",
+      "Mice, Inbred C57BL",
+      "Macrophage Activation/drug effects",
+      "*Diabetes Mellitus, Type 2/drug therapy/immunology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "You, TingTing",
+        "Yang, HuoBao",
+        "Chen, Gang"
+      ],
+      "short_names": [
+        "You T",
+        "Yang H",
+        "Chen G"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-2858-2755"
+      ],
+      "affiliations": [
+        "Department of Critical Care Medicine, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou City, China.",
+        "Department of Critical Care Medicine, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou City, China.",
+        "Department of Endocrinology, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou City, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "You, TingTing",
+        "short_name": "You T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Critical Care Medicine, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou City, China."
+        ]
+      },
+      {
+        "full_name": "Yang, HuoBao",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Critical Care Medicine, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou City, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Gang",
+        "short_name": "Chen G",
+        "identifiers": [
+          "0009-0009-2858-2755"
+        ],
+        "affiliations": [
+          "Department of Endocrinology, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou City, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of immunology (Baltimore, Md. : 1950)"
+    ],
+    "journal_abbrev": [
+      "J Immunol"
+    ],
+    "pub_date": "2026 Aug 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42800003",
+      "42052827",
+      "41641273",
+      "33647823",
+      "42208328",
+      "42254676",
+      "41692111",
+      "40153013",
+      "36736941",
+      "40265200",
+      "42394490",
+      "40090429",
+      "34602563",
+      "35026193",
+      "39294445",
+      "36159784",
+      "38173202",
+      "33984439",
+      "39041129",
+      "42202917",
+      "41480318",
+      "40319834",
+      "28132924",
+      "42102747",
+      "41453497",
+      "39746795",
+      "39999939",
+      "41475624",
+      "42365698",
+      "31677992",
+      "40708063",
+      "40199138",
+      "41989633",
+      "28104929",
+      "42230784",
+      "24960177",
+      "32035932",
+      "39447411",
+      "40260283",
+      "42398385",
+      "42702958",
+      "42112357",
+      "33421596",
+      "42129423",
+      "39169447",
+      "42155789",
+      "40042793",
+      "39535339",
+      "39879705",
+      "32712220",
+      "38688144",
+      "34448533",
+      "33228017",
+      "40438398",
+      "39088924",
+      "40001588",
+      "42090903",
+      "37704044",
+      "28811292",
+      "38629726",
+      "35582427",
+      "30536833",
+      "33840587",
+      "40181990",
+      "38646639",
+      "40425070",
+      "42790942",
+      "39945893",
+      "41628031",
+      "42520528",
+      "39628684",
+      "38185119",
+      "35691271",
+      "39978444",
+      "40311596",
+      "25930108",
+      "34131781",
+      "40421030",
+      "39881287",
+      "40706204",
+      "38442573",
+      "39892308",
+      "40482976",
+      "40196168",
+      "40570646",
+      "39478855",
+      "39366531",
+      "36583372",
+      "29900929",
+      "34925317",
+      "40555152",
+      "34755645",
+      "39913960",
+      "28584109",
+      "40153044",
+      "34560076",
+      "39889414",
+      "39660635",
+      "42291322",
+      "41548767"
+    ],
+    "review": [
+      "42800003"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/sepsis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Sepsis"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1085",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/jimmunol/article-lookup/doi/10.1093/jimmun/vkag240",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

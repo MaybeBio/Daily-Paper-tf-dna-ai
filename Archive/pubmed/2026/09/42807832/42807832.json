@@ -1,0 +1,325 @@
+{
+  "identity": {
+    "pmid": "42807832",
+    "doi": "10.7150/ijbs.133330",
+    "title": "Nomilin Rewires mTOR-Driven Immunometabolism via DDIT4 to Restrain Psoriasis."
+  },
+  "content": {
+    "abstract": "Nomilin, a citrus-derived limonoid belonging to the tetranortriterpenoid family, has been reported to exert anti-inflammatory and antioxidant effects; however, its therapeutic relevance and underlying mechanisms in psoriasis remain unclear. Here, we investigated the effects of nomilin in 12-O-tetradecanoylphorbol-13-acetate (TPA)- and imiquimod (IMQ)-induced psoriasis-like mouse models, IL-17A-stimulated primary human keratinocytes, Th17-polarized CD4(+) T cells, and peripheral blood mononuclear cells (PBMCs) from patients with psoriasis. Nomilin markedly alleviated epidermal hyperplasia and inflammatory symptoms, suppressed pro-inflammatory cytokines and psoriasis-associated mediators, and reduced the expansion of inflammatory myeloid and Th1/Th17 cells in lesional skin. Mechanistically, nomilin decreased glucose uptake, glycolytic activity, oxidative phosphorylation, mitochondrial mass, and mitochondrial ROS production, thereby preventing metabolic overactivation and mitochondrial dysfunction. At the molecular level, nomilin upregulated DDIT4 and inhibited mTOR signaling, as evidenced by reduced phosphorylation of mTOR, RAPTOR, p70S6K, and 4EBP1. Genetic silencing of DDIT4 abrogated the anti-inflammatory and metabolic effects of nomilin in keratinocytes, while skin-specific DDIT4 knockdown markedly attenuated its therapeutic efficacy in vivo, demonstrating an essential role for DDIT4 in nomilin-mediated mTOR suppression. Furthermore, molecular docking and cellular thermal shift assay (CETSA) analyses revealed a direct interaction between nomilin and DDIT4. In addition, nomilin suppressed Th17 differentiation and reduced TNF-alpha-, IFN-gamma-, and IL-17A-producing CD4(+) T cells in PBMCs from patients with psoriasis. Collectively, these findings identify nomilin as a modulator of the DDIT4-mTOR axis that alleviates psoriasis-like inflammation through the rewiring of pathogenic immunometabolic programs and highlight its potential as a therapeutic strategy for psoriasis.",
+    "keywords": [
+      "DDIT4",
+      "immunometabolism",
+      "mTOR",
+      "mitochondrial ROS",
+      "nomilin",
+      "psoriasis"
+    ],
+    "mesh_terms": [
+      "*Psoriasis/metabolism/drug therapy/immunology",
+      "Animals",
+      "*TOR Serine-Threonine Kinases/metabolism/genetics",
+      "Humans",
+      "*Transcription Factors/metabolism/genetics",
+      "Mice",
+      "*Limonins/therapeutic use/pharmacology",
+      "Keratinocytes/metabolism/drug effects",
+      "Signal Transduction/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Ha Eun",
+        "Lee, Seung Taek",
+        "Park, Hee-Suk",
+        "Lee, Hyun-Su",
+        "Lee, Jong Yeong",
+        "Kim, Dae-Ki",
+        "Roh, Si-Gyun",
+        "Nam, Kyung-Hwa",
+        "Kim, Sang-Hyun",
+        "Choi, Jin Kyeong"
+      ],
+      "short_names": [
+        "Kim HE",
+        "Lee ST",
+        "Park HS",
+        "Lee HS",
+        "Lee JY",
+        "Kim DK",
+        "Roh SG",
+        "Nam KH",
+        "Kim SH",
+        "Choi JK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea.",
+        "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea.",
+        "Department of Physiology, Daegu Catholic University School of Medicine, Daegu, 42472, Republic of Korea.",
+        "Department of Physiology, Daegu Catholic University School of Medicine, Daegu, 42472, Republic of Korea.",
+        "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea.",
+        "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea.",
+        "Department of Plastic and Reconstructive Surgery, Jeonbuk National University Medical School, Jeonju, Republic of Korea; Biomedical Research Institute of Jeonbuk National University Hospital, Institute for Medical Sciences, Jeonbuk National University, Jeonju, 54907, Republic of Korea.",
+        "Department of Dermatology, Jeonbuk National University Medical School, Jeonju, Republic of Korea; Biomedical Research Institute of Jeonbuk National University Hospital, Institute for Medical Sciences, Jeonbuk National University, Jeonju, 54907, Republic of Korea.",
+        "CMRI, Department of Pharmacology, School of Medicine, Kyungpook National University, Daegu, 41944, Republic of Korea.",
+        "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea.",
+        "Biomedical Research Institute of Jeonbuk National University Hospital, Institute for Medical Sciences, Jeonbuk National University, Jeonju, 54907, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Ha Eun",
+        "short_name": "Kim HE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Seung Taek",
+        "short_name": "Lee ST",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Hee-Suk",
+        "short_name": "Park HS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Daegu Catholic University School of Medicine, Daegu, 42472, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Hyun-Su",
+        "short_name": "Lee HS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Daegu Catholic University School of Medicine, Daegu, 42472, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Jong Yeong",
+        "short_name": "Lee JY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Dae-Ki",
+        "short_name": "Kim DK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Roh, Si-Gyun",
+        "short_name": "Roh SG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic and Reconstructive Surgery, Jeonbuk National University Medical School, Jeonju, Republic of Korea; Biomedical Research Institute of Jeonbuk National University Hospital, Institute for Medical Sciences, Jeonbuk National University, Jeonju, 54907, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Nam, Kyung-Hwa",
+        "short_name": "Nam KH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Jeonbuk National University Medical School, Jeonju, Republic of Korea; Biomedical Research Institute of Jeonbuk National University Hospital, Institute for Medical Sciences, Jeonbuk National University, Jeonju, 54907, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Sang-Hyun",
+        "short_name": "Kim SH",
+        "identifiers": [],
+        "affiliations": [
+          "CMRI, Department of Pharmacology, School of Medicine, Kyungpook National University, Daegu, 41944, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Choi, Jin Kyeong",
+        "short_name": "Choi JK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Jeonbuk National University Medical School, Jeonju, 54907, Republic of Korea.",
+          "Biomedical Research Institute of Jeonbuk National University Hospital, Institute for Medical Sciences, Jeonbuk National University, Jeonju, 54907, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42807832",
+      "31540162",
+      "36741386",
+      "42716228",
+      "40043790",
+      "27393705",
+      "39278850",
+      "30064075",
+      "26794805",
+      "42224997",
+      "34025642",
+      "37169570",
+      "34664681",
+      "34153674",
+      "34425525",
+      "29523162",
+      "42485999",
+      "39983433",
+      "40609281",
+      "27449383",
+      "40495117",
+      "29155016",
+      "42551598",
+      "42219068",
+      "41539635",
+      "29378913",
+      "39463222",
+      "29432814",
+      "32493482",
+      "42056221",
+      "26784569",
+      "30166108",
+      "40804449",
+      "41936920",
+      "24718773",
+      "27939414",
+      "33081840",
+      "33540227",
+      "41795538",
+      "32280718",
+      "35023281",
+      "37666304",
+      "40945883",
+      "32563057",
+      "41873121",
+      "35487087",
+      "32908937",
+      "38056199",
+      "33007409",
+      "40457335",
+      "37013729",
+      "34929480",
+      "41699408",
+      "32679548",
+      "42648943",
+      "39765869",
+      "31181689",
+      "39576591",
+      "39951122",
+      "35576719",
+      "42080568",
+      "28239073",
+      "42000881",
+      "40862458",
+      "40596643",
+      "35216231",
+      "42050231",
+      "42204138",
+      "42184482",
+      "39007937",
+      "40483360",
+      "31924750",
+      "32515468",
+      "39059101",
+      "34641629",
+      "41688903",
+      "32544868",
+      "39153275",
+      "38009260",
+      "27431437",
+      "41253925",
+      "35183690",
+      "34233233",
+      "41351418",
+      "42747744",
+      "41910695",
+      "38761783",
+      "42561508",
+      "40826129",
+      "32557852",
+      "42730605",
+      "38617532",
+      "27348512",
+      "37010718",
+      "34281197",
+      "41825206",
+      "41904508",
+      "41136377",
+      "32360069",
+      "39959414"
+    ],
+    "review": [
+      "42807832"
+    ],
+    "pmc": [
+      "13617650"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/psoriasis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Psoriasis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42807832/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1360",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.ijbs.com/v22p7512.htm",
+        "provider": "Ivyspring International Publisher",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42810332",
+    "doi": "10.1016/j.str.2026.09.004",
+    "title": "Virulence gene regulation in Pseudomonas aeruginosa is mediated by a novel hinge motion in the signaling helix of GacS histidine kinase."
+  },
+  "content": {
+    "abstract": "Sensor kinases (SKs) play central roles in bacterial adaptation to environmental challenges. Signal perception by these membrane-embedded enzymes initiates phosphotransfer cascades that regulate gene expression through cognate transcription factors. Although SKs were thought to function independently, interwoven multi-kinase networks have revealed a more complex picture. The present study focuses on GacS, a major regulator of virulence gene expression in the opportunistic pathogen Pseudomonas aeruginosa. Molecular dynamics (MD) simulation revealed a novel hinge motion within the GacS S-helix region that is hypothesized to facilitate the interactions of GacS with RetS, another histidine kinase family protein that inhibits GacS. In vitro and in situ data support the functional importance of this flexible region for GacS-RetS interactions. Analysis of MD data also provided striking insights into conformational coupling between domains and into how GacS-RetS interactions might be regulated to modulate P. aeruginosa virulence gene expression.",
+    "keywords": [
+      "GacS",
+      "MD",
+      "RetS",
+      "bacterial signal transduction",
+      "biofilm formation",
+      "conformational coupling",
+      "molecular dynamics simulation",
+      "phosphorelay",
+      "signaling histidine kinase",
+      "two-component signaling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Salar, Safoura",
+        "LoPresti, Marion Q",
+        "Mitchell, Lance",
+        "Byrnes, James",
+        "Brown, Anne M",
+        "Schubot, Florian D"
+      ],
+      "short_names": [
+        "Salar S",
+        "LoPresti MQ",
+        "Mitchell L",
+        "Byrnes J",
+        "Brown AM",
+        "Schubot FD"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biological Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA.",
+        "Department of Biochemistry, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA.",
+        "Department of Biological Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA.",
+        "Energy & Photon Sciences Directorate, National Synchrotron Light Source II, Brookhaven National Laboratory, Upton, NY, USA.",
+        "Department of Biochemistry, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA. Electronic address: ambrown7@vt.edu.",
+        "Department of Biological Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA. Electronic address: fschubot@vt.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Salar, Safoura",
+        "short_name": "Salar S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA."
+        ]
+      },
+      {
+        "full_name": "LoPresti, Marion Q",
+        "short_name": "LoPresti MQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA."
+        ]
+      },
+      {
+        "full_name": "Mitchell, Lance",
+        "short_name": "Mitchell L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA."
+        ]
+      },
+      {
+        "full_name": "Byrnes, James",
+        "short_name": "Byrnes J",
+        "identifiers": [],
+        "affiliations": [
+          "Energy & Photon Sciences Directorate, National Synchrotron Light Source II, Brookhaven National Laboratory, Upton, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Brown, Anne M",
+        "short_name": "Brown AM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA. Electronic address: ambrown7@vt.edu."
+        ]
+      },
+      {
+        "full_name": "Schubot, Florian D",
+        "short_name": "Schubot FD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA. Electronic address: fschubot@vt.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Structure (London, England : 1993)"
+    ],
+    "journal_abbrev": [
+      "Structure"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 23:29",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42810332",
+      "40280415",
+      "35767996",
+      "30879888",
+      "27176226",
+      "34529974",
+      "16861632",
+      "27957853",
+      "35348363",
+      "39153035",
+      "29880803",
+      "40492733",
+      "38169296",
+      "33125866",
+      "19191877",
+      "19171785",
+      "40537942",
+      "20112417",
+      "35266527",
+      "20553556",
+      "35041497",
+      "23560772",
+      "15525535",
+      "18256026",
+      "20472799",
+      "40429820",
+      "33172195",
+      "33771779",
+      "28507245",
+      "41641996",
+      "40824111",
+      "31588661",
+      "21955777",
+      "27714507",
+      "12848429",
+      "29063141",
+      "19243444",
+      "16373506",
+      "41040157",
+      "17233744",
+      "19421236",
+      "42475469",
+      "28396353",
+      "21515773",
+      "40557319",
+      "23627104",
+      "28900144",
+      "41400349",
+      "30617244",
+      "38477346",
+      "32184258",
+      "37881370",
+      "29248994",
+      "26858696",
+      "34731046",
+      "32553056",
+      "21858064",
+      "9663679",
+      "16027020",
+      "26505308",
+      "22216178",
+      "30618115",
+      "41313198",
+      "40035541",
+      "42742216",
+      "34083699",
+      "24649509",
+      "33055260",
+      "24431277",
+      "37938507",
+      "28510688",
+      "42050969",
+      "31112439",
+      "30542536",
+      "23436996",
+      "39362083",
+      "26933056",
+      "30224439",
+      "21968370",
+      "35262393",
+      "11310739",
+      "42657878",
+      "11768529",
+      "25182327",
+      "26755627",
+      "38582452",
+      "15659157",
+      "33753465",
+      "36258080",
+      "11447209",
+      "40197035",
+      "42554465",
+      "28167524",
+      "40689635",
+      "36135382",
+      "39628522",
+      "34680156",
+      "28533471",
+      "33674436",
+      "19602144"
+    ],
+    "review": [
+      "42810332",
+      "33172195",
+      "19243444",
+      "24649509",
+      "28510688",
+      "31112439",
+      "11768529",
+      "39628522"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0969-2126(26)00290-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

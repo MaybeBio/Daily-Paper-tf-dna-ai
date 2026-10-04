@@ -1,0 +1,321 @@
+{
+  "identity": {
+    "pmid": "42812170",
+    "doi": "10.3389/fimmu.2026.1909437",
+    "title": "Impaired antigen clearance of macrophages associates with heart failure and non-obstructive azoospermia: insights from transcriptomics, in silico knockout, and in vitro validation."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Heart failure (HF) and non-obstructive azoospermia (NOA) are high-burden diseases that share chronic inflammation and tissue injury. Macrophages are key regulators in both conditions, yet whether a common molecular basis exists remains unclear. METHODS: We analyzed HF and NOA expression profiles from the GEO database using WGCNA and machine learning to screen for core shared genes. Diagnostic performance was evaluated using AUC in independent validation sets. Single-cell RNA-seq mapped the cellular origin of core genes. Immune infiltration, pathway activity, and transcription factor networks were analyzed using xCell, PROGENy, and DoRothEA. To investigate functional roles, we applied single-cell in silico knockout to macrophages and designed in vitro knockdown experiments for validation. RESULTS: SLAMF7, IL2RA, and PRF1 were identified as core shared genes. The diagnostic model achieved AUCs of 0.782 (HF) and 0.724 (NOA) in validation sets. All three genes were highly expressed in macrophages, and their mean expression correlated with M2-like macrophages as well as JAK-STAT and NF-kappaB pathway activities. Transcription factor network analysis revealed NFKB1, STAT1, STAT3, STAT4 and STAT5A/B as upstream regulators. Any gene loss upregulated C1q, scavenger receptors, the NLRP3 inflammasome, and inflammatory factors. Distinct context-specific changes were observed: in NOA macrophages, PRF1 loss caused ectopic expression of sperm protamine genes (PRM2, TNP1); IL2RA loss activated the IRF8-TLR2 axis; and SLAMF7 loss enhanced MHC-II and interferon pathways. In HF macrophages, SLAMF7 loss activated the prostaglandin pathway; IL2RA loss induced upregulation of M2-like markers FOLR2 and LYVE1; and PRF1 loss enhanced C1q expression. In vitro knockdown experiments showed that, without antigen stimulation, knockdown of all three genes upregulated C1qa, Folr2, Il1b, Acod1 and Nlrp3. Under sperm stimulation, PRF1 knockdown increased Prm2 and S100a8, whereas IL2RA knockdown increased Irf8. Under cardiac lysate stimulation, PRF1 knockdown led to ectopic expression of the cardiac-specific genes Myh6 and Tnnt2. CONCLUSION: SLAMF7, IL2RA and PRF1 form a negative immune regulatory hub in macrophages that links HF and NOA. Loss of these genes is associated with a conserved complement-inflammation module, whereas the disease outcome is determined by organ-specific antigens. Targeting this shared hub may offer a potential therapeutic direction for future investigation.",
+    "keywords": [
+      "antigen clearance",
+      "heart failure (HF)",
+      "in silico knockout",
+      "macrophages",
+      "non-obstructive azoospermia (NOA)"
+    ],
+    "mesh_terms": [
+      "Male",
+      "*Macrophages/immunology/metabolism",
+      "Humans",
+      "*Azoospermia/immunology/genetics",
+      "*Heart Failure/immunology/genetics",
+      "Gene Expression Profiling",
+      "*Transcriptome",
+      "Computer Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Zheng",
+        "Li, Rong",
+        "Li, Kai",
+        "Zhang, Rui",
+        "Tian, Jiawei",
+        "Teng, Da",
+        "Zhou, Xiaoyan",
+        "Jia, Baoqi",
+        "Yuan, Xianmiao",
+        "Xin, Hui"
+      ],
+      "short_names": [
+        "Zhao Z",
+        "Li R",
+        "Li K",
+        "Zhang R",
+        "Tian J",
+        "Teng D",
+        "Zhou X",
+        "Jia B",
+        "Yuan X",
+        "Xin H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+        "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+        "Department of Cardiology I, Qingdao Central Hospital, University of Health and Rehabilitation Sciences, Qingdao, China.",
+        "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+        "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+        "Department of Cardiology, Qingdao Hospital, University of Health and Rehabilitation Sciences (Qingdao Municipal Hospital), Qingdao, China.",
+        "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+        "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+        "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+        "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Zheng",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Li, Rong",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Li, Kai",
+        "short_name": "Li K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology I, Qingdao Central Hospital, University of Health and Rehabilitation Sciences, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Rui",
+        "short_name": "Zhang R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Jiawei",
+        "short_name": "Tian J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Teng, Da",
+        "short_name": "Teng D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Qingdao Hospital, University of Health and Rehabilitation Sciences (Qingdao Municipal Hospital), Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiaoyan",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Baoqi",
+        "short_name": "Jia B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Xianmiao",
+        "short_name": "Yuan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Xin, Hui",
+        "short_name": "Xin H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42812170",
+      "40783914",
+      "42650150",
+      "39391879",
+      "41789108",
+      "34192390",
+      "37549510",
+      "37854191",
+      "42158856",
+      "40405297",
+      "36506310",
+      "40460050",
+      "36945018",
+      "38858625",
+      "40617086",
+      "41733593",
+      "37974098",
+      "42265520",
+      "40630963",
+      "40406620",
+      "40215689",
+      "37122694",
+      "39472682",
+      "42554183",
+      "37334314",
+      "42642681",
+      "39152369",
+      "41252712",
+      "39351221",
+      "41840566",
+      "39351239",
+      "42745923",
+      "42361012",
+      "42755983",
+      "41639206",
+      "42168344",
+      "36819497",
+      "42536689",
+      "40587077",
+      "42123445",
+      "41388523",
+      "42375348",
+      "41219826",
+      "40376522",
+      "42492262",
+      "41126838",
+      "42131322",
+      "39512836",
+      "41242266",
+      "42113804",
+      "42694321",
+      "42477639",
+      "41080564",
+      "39893187",
+      "34218797",
+      "42291298",
+      "34721373",
+      "42750328",
+      "42437006",
+      "42327749",
+      "39506588",
+      "42072050",
+      "31125047",
+      "42755868",
+      "39080525",
+      "40659785",
+      "41758878",
+      "36883778",
+      "42195052",
+      "40756901",
+      "35219767",
+      "39735537",
+      "31689475",
+      "40507985",
+      "42113191",
+      "40764361",
+      "40895573",
+      "41948344",
+      "42015036",
+      "33532314",
+      "38656659",
+      "41107929",
+      "40916281",
+      "40482761",
+      "42798870",
+      "39093776",
+      "41162503",
+      "40924729",
+      "40211281",
+      "42709486",
+      "42698445",
+      "40421012",
+      "34975885",
+      "42181687",
+      "35727093",
+      "42730994",
+      "41553874",
+      "41393260",
+      "41846291",
+      "42233387"
+    ],
+    "review": [
+      "42812170"
+    ],
+    "pmc": [
+      "13619400"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/heartfailure.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Heart Failure"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42812170/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1909437",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

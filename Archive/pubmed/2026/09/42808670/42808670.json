@@ -1,0 +1,216 @@
+{
+  "identity": {
+    "pmid": "42808670",
+    "doi": "10.55782/2hr5ac70",
+    "title": "Lightweight CNN recognition of HeLa cell PCNA‑based S‑phase subphases and RFC‑dependent dynamics."
+  },
+  "content": {
+    "abstract": "Proliferating cell nuclear antigen (PCNA) forms subnuclear replication patterns that report S‑phase progression with a single marker and provide an imaging readout of the replication factor C (RFC)‑PCNA axis. We benchmarked lightweight convolutional neural networks for classifying fixed HeLa cell PCNA images as G1, early S, mid S, or late S, and then applied the best‑performing model to live‑cell RFC control and RFC‑del datasets. MobileNetV2 provided the best balance of accuracy and inference cost in the fixed‑cell benchmark. In live‑cell traces, RFC‑del cells showed prolonged late S‑like PCNA pattern duration, whereas mid S‑like duration and peak‑distance metrics did not show clear group separation. These findings support lightweight PCNA‑pattern classification as a practical tool for quantitative replication‑pattern phenotyping and indicate a possible future application to neurobiological imaging, such as automated quantification of pro liferating cells in neurogenesis studies.",
+    "keywords": [
+      "HeLa cells",
+      "PCNA",
+      "S‑phase",
+      "lightweight convolutional neural networks",
+      "live‑cell imaging",
+      "neurogenesis",
+      "replication factor C"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Proliferating Cell Nuclear Antigen/metabolism",
+      "Convolutional Neural Networks",
+      "HeLa Cells",
+      "*Replication Protein C/metabolism",
+      "*S Phase/physiology",
+      "Image Processing, Computer-Assisted/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Krupa, Maciej",
+        "Szymanski, Jedrzej"
+      ],
+      "short_names": [
+        "Krupa M",
+        "Szymanski J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8732-5822"
+      ],
+      "affiliations": [
+        "Laboratory of Imaging of Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland.",
+        "Laboratory of Imaging of Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Krupa, Maciej",
+        "short_name": "Krupa M",
+        "identifiers": [
+          "0000-0002-8732-5822"
+        ],
+        "affiliations": [
+          "Laboratory of Imaging of Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland."
+        ]
+      },
+      {
+        "full_name": "Szymański, Jędrzej",
+        "short_name": "Szymański J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Imaging of Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Acta neurobiologiae experimentalis"
+    ],
+    "journal_abbrev": [
+      "Acta Neurobiol Exp (Wars)"
+    ],
+    "pub_date": "2026 Jul 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42808670",
+      "22493068",
+      "12400013",
+      "26022740",
+      "29357057",
+      "40578346",
+      "14504476",
+      "31200645",
+      "27417498",
+      "1673821",
+      "11180397",
+      "7913107",
+      "22115746",
+      "22902629",
+      "11268003",
+      "9891039",
+      "39956965",
+      "41606318",
+      "20455582",
+      "22197378",
+      "11955075",
+      "16980295",
+      "17439963",
+      "34751190",
+      "23937667",
+      "38141767",
+      "10051561",
+      "24962565",
+      "41898606",
+      "17545166",
+      "11161719",
+      "23029203",
+      "35939393",
+      "31160570",
+      "31864316",
+      "19285992",
+      "21041673",
+      "15584900",
+      "23277426",
+      "19421323",
+      "18312273",
+      "28168519",
+      "25483089",
+      "12930902",
+      "26272819",
+      "9488738",
+      "7904555",
+      "28969641",
+      "15107487",
+      "7706386",
+      "17932049",
+      "16608854",
+      "7735116",
+      "2569465",
+      "14530260",
+      "11432856",
+      "19643475",
+      "39088616",
+      "41610851",
+      "11359910",
+      "25541153",
+      "19729406",
+      "22197374",
+      "21569164",
+      "11741962",
+      "20826785",
+      "25411249",
+      "40827866",
+      "20713449",
+      "39106866",
+      "17466038",
+      "18703516",
+      "12633936",
+      "10523317",
+      "20713735",
+      "35179493",
+      "9632802",
+      "32277910",
+      "11432853",
+      "40183298",
+      "30530694",
+      "15964801",
+      "42144581",
+      "41936989",
+      "25450506",
+      "40593857",
+      "16118211",
+      "9228079",
+      "42475469",
+      "25963823",
+      "38427736",
+      "26758689",
+      "25484186",
+      "27151298",
+      "36410434",
+      "35829698",
+      "28924044",
+      "27052570",
+      "1687687",
+      "9092549"
+    ],
+    "review": [
+      "42808670",
+      "29357057"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-558",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.55782/2hr5ac70",
+        "provider": "Nencki Institute of Experimental Biology",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

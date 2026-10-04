@@ -1,0 +1,309 @@
+{
+  "identity": {
+    "pmid": "42806392",
+    "doi": "10.1186/s13062-026-00964-4",
+    "title": "Heart failure may promote breast cancer progression through a Col10a1-associated Tgf-beta/Smad-EMT pathway."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Heart failure (HF) is clinically associated with aggravated breast cancer (BC) progression; however, the integrative genomic mechanisms underlying this cardio-oncological crosstalk remain poorly understood. METHODS: We conducted integrative bioinformatics analyses combining weighted gene co-expression network analysis (WGCNA) and machine learning algorithms to screen key hub genes involved in HF and BC progression. The candidate gene Col10a1 was further validated using myocardial infarction (MI)-induced HF xenograft mouse models, paired clinical plasma and tumor specimens, and comprehensive in vitro functional assays. RESULTS: COL10A1 expression was higher in breast cancer patients with CVD than in BC-only patients. Given the limited sample size, these findings were considered exploratory. Mechanistically, elevated Col10a1 was associated with activation of the transforming growth factor‑beta (Tgf-beta)/Smad signaling pathway and induction of epithelial-mesenchymal transition (EMT). In vivo, the HF microenvironment markedly accelerated BC tumor growth and was accompanied by enhanced Col10a1 expression and Tgf-beta signaling activation. In vitro, cardiomyocyte-derived Col10a1 significantly promoted the proliferation, migration, and invasion of BC cells, whereas Col10a1 knockdown significantly attenuated these malignant phenotypes. CONCLUSIONS: Our study identifies a potential regulatory link between HF and BC and provides preliminary mechanistic insights into the role of Col10a1 in BC progression under cardiac injury conditions. Col10a1 may serve as a candidate mediator in the interaction between cardiac injury and BC progression.",
+    "keywords": [
+      "Biomarker",
+      "Breast Cancer",
+      "Col10a1",
+      "Heart Failure",
+      "Tgf-beta signaling pathway"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Breast Neoplasms/genetics/metabolism/physiopathology/pathology",
+      "Female",
+      "*Transforming Growth Factor beta/metabolism/genetics",
+      "Animals",
+      "*Heart Failure/genetics/metabolism/complications/physiopathology",
+      "Mice",
+      "Signal Transduction",
+      "*Epithelial-Mesenchymal Transition/genetics",
+      "Disease Progression",
+      "*Smad Proteins/metabolism/genetics",
+      "Cell Line, Tumor",
+      "Gene Expression Regulation, Neoplastic",
+      "Collagen Type X"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Danfeng",
+        "Wang, Man",
+        "Wu, LiHua",
+        "Gao, Bo",
+        "Ai, Yongbiao",
+        "Wang, Ziyang",
+        "Xu, Ming",
+        "Yang, Fengmei"
+      ],
+      "short_names": [
+        "Zhang D",
+        "Wang M",
+        "Wu L",
+        "Gao B",
+        "Ai Y",
+        "Wang Z",
+        "Xu M",
+        "Yang F"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7485-678X"
+      ],
+      "affiliations": [
+        "Department of General Surgery, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China.",
+        "Department of Outpatient, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China.",
+        "Department of General Surgery, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China.",
+        "Department of Assessment Office, Hubei Provincial Clinical Research Center of Central Nervous System Repair and Functional Reconstruction, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China.",
+        "Department of General Surgery, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China.",
+        "Institute of Medicine Nursing, Hubei University of Medicine, Hubei, China.",
+        "Department of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei, China. mingxu110@mail.hzau.edu.cn.",
+        "Department of Obstetrics and Gynecology, Hubei Provincial Clinical Research Center of Central Nervous System Repair and Functional Reconstruction, Taihe Hospital, Hubei University of Medicine, Shiyan, 442000, Hubei, China. typing1216@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Danfeng",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Man",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Outpatient, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Wu, LiHua",
+        "short_name": "Wu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Bo",
+        "short_name": "Gao B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Assessment Office, Hubei Provincial Clinical Research Center of Central Nervous System Repair and Functional Reconstruction, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Ai, Yongbiao",
+        "short_name": "Ai Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ziyang",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Medicine Nursing, Hubei University of Medicine, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ming",
+        "short_name": "Xu M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei, China. mingxu110@mail.hzau.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Fengmei",
+        "short_name": "Yang F",
+        "identifiers": [
+          "0000-0002-7485-678X"
+        ],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Hubei Provincial Clinical Research Center of Central Nervous System Repair and Functional Reconstruction, Taihe Hospital, Hubei University of Medicine, Shiyan, 442000, Hubei, China. typing1216@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biology direct"
+    ],
+    "journal_abbrev": [
+      "Biol Direct"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42806392",
+      "41645360",
+      "41963612",
+      "42530242",
+      "31545407",
+      "40169690",
+      "41489532",
+      "34346300",
+      "41380489",
+      "40702072",
+      "39261346",
+      "25849225",
+      "39113057",
+      "22748014",
+      "28412214",
+      "25823021",
+      "33516780",
+      "35301175",
+      "29510731",
+      "41716413",
+      "30154451",
+      "41484386",
+      "39939916",
+      "25970785",
+      "31204561",
+      "31533776",
+      "32627030",
+      "41462255",
+      "29020987",
+      "40038210",
+      "25884904",
+      "41668003",
+      "38350902",
+      "39320657",
+      "39766842",
+      "39951906",
+      "38780151",
+      "24618085",
+      "30928020",
+      "40749423",
+      "40109873",
+      "23955085",
+      "39490714",
+      "39061061",
+      "31757421",
+      "32088211",
+      "34126197",
+      "42216222",
+      "30496758",
+      "40157402",
+      "30525231",
+      "28810836",
+      "40821803",
+      "28383549",
+      "31464639",
+      "27383203",
+      "33191940",
+      "41317688",
+      "38657447",
+      "42162179",
+      "33637669",
+      "39516821",
+      "25464508",
+      "29774079",
+      "28982386",
+      "42341856",
+      "22787120",
+      "24335925",
+      "42477639",
+      "39507961",
+      "39312860",
+      "41593691",
+      "42301509",
+      "24885626",
+      "41953013",
+      "40119906",
+      "36604141",
+      "23034983",
+      "39763282",
+      "25955797",
+      "41562922",
+      "16859511",
+      "38848454",
+      "22874531",
+      "42185095",
+      "24574515",
+      "42747607",
+      "41833838",
+      "33741330",
+      "32028981",
+      "21047769",
+      "27014911",
+      "37170668",
+      "39030572",
+      "20802523",
+      "41145815",
+      "41303526",
+      "21750175",
+      "29526821",
+      "33033523"
+    ],
+    "review": [
+      "42806392"
+    ],
+    "pmc": [
+      "13621664"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://biologydirect.biomedcentral.com/articles/10.1186/s13062-026-00964-4",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/heartfailure.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Heart Failure"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42806392/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GZMA-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-2658",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

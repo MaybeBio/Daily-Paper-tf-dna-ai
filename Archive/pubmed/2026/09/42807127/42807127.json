@@ -1,0 +1,319 @@
+{
+  "identity": {
+    "pmid": "42807127",
+    "doi": "10.3389/fimmu.2026.1877955",
+    "title": "Apigenin accelerates fracture healing by enhancing endochondral differentiation and inflammation resolution via targeting NF-kappaB signaling."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Fractures are common yet lack effective pharmacological treatments. Apigenin, a natural flavone, has anti-inflammatory and pro-osteogenic effects. Here, we examined its impact on fracture healing-a multistep process involving hematoma formation, soft callus formation (endochondral differentiation), hard callus formation (osteogenic differentiation), and bone remodeling-and investigated the underlying mechanisms. METHODS: Femoral fracture and calvarial injury models were established to evaluate the effects of apigenin. Local apigenin treatment was initiated at postoperative time points to compare the impact of administration timing. Fracture healing was assessed by radiography, micro-CT, histological analysis, and immunostaining. In vitro cultures were performed to examine the effects of apigenin on mesenchymal stem cell (MSC) differentiation. Quantitative PCR, Western blotting, RNA sequencing, and flow cytometry were used to evaluate inflammatory responses and chondrogenic and osteogenic differentiation. Ikbkb knockdown and BAY 11-7082 treatment were used to examine the involvement of IKKbeta/NF-kappaB signaling. Molecular docking and molecular dynamics simulations were performed to investigate the potential interaction between apigenin and IKKbeta, which was examined by cellular thermal shift assay (CETSA). RESULTS: Apigenin significantly improved fracture healing when treatment was initiated on postoperative day 5, whereas treatment initiated on day 1 showed no clear therapeutic effect. Apigenin reduced inflammatory responses in the fracture callus and suppressed NF-kappaB signaling. BAY 11-7082 produced effects similar to those of apigenin in the femoral fracture model, and combined treatment did not produce a clear additional benefit. In BMSCs, apigenin promoted chondrogenic differentiation and attenuated the suppression of chondrogenic markers under inflammatory conditions, whereas its effects on osteogenic differentiation were less consistent. Ikbkb knockdown also enhanced chondrogenic differentiation, and addition of apigenin after Ikbkb knockdown produced no further clear increase. Molecular docking, molecular dynamics simulations, and CETSA provided supportive evidence for a potential interaction between apigenin and IKKbeta. CONCLUSIONS: Through modulation of IKKbeta/NF-kappaB signaling, apigenin acts on both inflammatory responses and MSC differentiation to enhance fracture healing. The therapeutic effect was most evident when treatment was initiated on postoperative day 5, during the transition from inflammation to cartilage formation. These findings suggest that appropriately timed apigenin treatment may represent a potential strategy for improving fracture repair.",
+    "keywords": [
+      "MSc",
+      "NF-kappaB",
+      "apigenin",
+      "fracture healing",
+      "inflammation"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Apigenin/pharmacology",
+      "*Fracture Healing/drug effects",
+      "*NF-kappa B/metabolism",
+      "Signal Transduction/drug effects",
+      "*Cell Differentiation/drug effects",
+      "Mesenchymal Stem Cells/drug effects/metabolism",
+      "Osteogenesis/drug effects",
+      "I-kappa B Kinase/metabolism/genetics",
+      "Inflammation/drug therapy/metabolism",
+      "Chondrogenesis/drug effects",
+      "Molecular Docking Simulation",
+      "Mice",
+      "Male"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shen, Haiyu",
+        "Zhi, Guoguo",
+        "Li, Zihao",
+        "Yan, Xueqiao",
+        "Du, Zhirui",
+        "Zhang, Shaoyang",
+        "Yang, Ruichen",
+        "Ma, Xiuying",
+        "Liu, Huijuan",
+        "Geng, Funeng",
+        "Li, Baojie"
+      ],
+      "short_names": [
+        "Shen H",
+        "Zhi G",
+        "Li Z",
+        "Yan X",
+        "Du Z",
+        "Zhang S",
+        "Yang R",
+        "Ma X",
+        "Liu H",
+        "Geng F",
+        "Li B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China.",
+        "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China.",
+        "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China.",
+        "Periplaneta Americana and Innovative Drugs Key Laboratory of Sichuan Province and Engineering Research Center for Medicinal Animals, Sichuan Good Doctor Panxi Pharmaceutical Co., Ltd, Chengdu, China.",
+        "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China.",
+        "Periplaneta Americana and Innovative Drugs Key Laboratory of Sichuan Province and Engineering Research Center for Medicinal Animals, Sichuan Good Doctor Panxi Pharmaceutical Co., Ltd, Chengdu, China.",
+        "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shen, Haiyu",
+        "short_name": "Shen H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zhi, Guoguo",
+        "short_name": "Zhi G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zihao",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Xueqiao",
+        "short_name": "Yan X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Du, Zhirui",
+        "short_name": "Du Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shaoyang",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Ruichen",
+        "short_name": "Yang R",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Xiuying",
+        "short_name": "Ma X",
+        "identifiers": [],
+        "affiliations": [
+          "Periplaneta Americana and Innovative Drugs Key Laboratory of Sichuan Province and Engineering Research Center for Medicinal Animals, Sichuan Good Doctor Panxi Pharmaceutical Co., Ltd, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Huijuan",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Geng, Funeng",
+        "short_name": "Geng F",
+        "identifiers": [],
+        "affiliations": [
+          "Periplaneta Americana and Innovative Drugs Key Laboratory of Sichuan Province and Engineering Research Center for Medicinal Animals, Sichuan Good Doctor Panxi Pharmaceutical Co., Ltd, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Baojie",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Traditional Chinese Medicine and Stem Cell Research, College of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+          "Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42807127",
+      "40393465",
+      "33645251",
+      "42641782",
+      "40215713",
+      "41581244",
+      "42441745",
+      "40983456",
+      "17680724",
+      "41264993",
+      "42786815",
+      "40215821",
+      "27545451",
+      "41265152",
+      "42415126",
+      "23690607",
+      "21143809",
+      "39082354",
+      "42462530",
+      "39154827",
+      "40015172",
+      "39366157",
+      "41317432",
+      "29680264",
+      "39878631",
+      "41655689",
+      "16143574",
+      "40980417",
+      "24962570",
+      "42363259",
+      "42719677",
+      "41254785",
+      "41512388",
+      "42225681",
+      "39695926",
+      "42563690",
+      "31324207",
+      "23449446",
+      "42007397",
+      "38354465",
+      "42208328",
+      "30991839",
+      "40185260",
+      "28851291",
+      "42302947",
+      "40310592",
+      "31213805",
+      "41275224",
+      "37747519",
+      "42520528",
+      "41435609",
+      "39971016",
+      "41940604",
+      "41276831",
+      "42102673",
+      "41828630",
+      "32687664",
+      "19414075",
+      "40640718",
+      "42101722",
+      "39915758",
+      "41361467",
+      "42229383",
+      "41830716",
+      "35403260",
+      "41764760",
+      "32304578",
+      "31541455",
+      "41260533",
+      "20594343",
+      "32393298",
+      "30702934",
+      "28579433",
+      "41184110",
+      "23844237",
+      "41239461",
+      "41685304",
+      "41190073",
+      "26972683",
+      "24887697",
+      "30982407",
+      "34620242",
+      "42366244",
+      "25285719",
+      "21951285",
+      "39954559",
+      "40671012",
+      "24050190",
+      "38636252",
+      "33047358",
+      "42254013",
+      "40479940",
+      "41878437",
+      "39346542",
+      "41795298",
+      "27163405",
+      "31866511",
+      "42176149",
+      "42292404",
+      "28701209"
+    ],
+    "review": [
+      "42807127"
+    ],
+    "pmc": [
+      "13616616"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42807127/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1877955",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "42811964",
+    "doi": "10.31083/FBL55117",
+    "title": "Cysteine Residues Are Required for the Sliding Clamp-Dependent Endonuclease Activity of Neisseria gonorrhoeae MutL."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Neisseria gonorrhoeae is a human pathogen that causes gonorrhea and employs a methylation-independent mismatch repair (MMR) pathway to regulate genomic stability and pilin antigenic variation. A key effector of this pathway, MutL, possesses ATPase, DNA-binding, and endonuclease activities, yet the molecular determinants governing its catalytic activity remain poorly understood. In particular, the functional relevance of conserved cysteine (Cys) residues located in the vicinity of the active site is unclear. METHODS: We characterized a Cys free-variant of Neisseria gonorrhoeae MutL, in which all Cys residues were replaced with evolutionarily conserved substitutes, in comparison with the wild-type enzyme. ATPase activity, DNA-binding capacity, and endonuclease activity on supercoiled plasmid and linear DNA duplex substrates were assessed, and molecular dynamics simulations were performed to examine the conformational behavior of the C-terminal domain (CTD). RESULTS: Cys substitutions do not markedly affect ATPase activity, DNA-binding capacity, or endonuclease activity on supercoiled plasmid substrates. However, the same amino acid substitutions led to an almost complete loss of sliding clamp-dependent endonuclease activity on linear DNA duplexes. Molecular dynamics simulations revealed that the cysteine substitutions alter the conformational dynamics of the CTD, displacing the catalytically active monomer from its productive orientation relative to the sliding clamp and thereby impairing sliding clamp-dependent endonuclease activity. CONCLUSIONS: These results indicate that Cys residues are not directly involved in catalysis but provide the conformational rigidity of the C-terminal domain required for productive engagement with the sliding clamp.",
+    "keywords": [
+      "MutL endonuclease",
+      "Neisseria gonorrhoeae",
+      "methyl-independent mismatch repair",
+      "beta-clamp"
+    ],
+    "mesh_terms": [
+      "*Neisseria gonorrhoeae/enzymology/genetics/metabolism",
+      "*Cysteine/metabolism/chemistry/genetics",
+      "Molecular Dynamics Simulation",
+      "*Bacterial Proteins/metabolism/chemistry/genetics",
+      "*MutL Proteins/metabolism/genetics/chemistry",
+      "*Endonucleases/metabolism/chemistry/genetics",
+      "Adenosine Triphosphatases/metabolism/chemistry/genetics",
+      "Amino Acid Substitution",
+      "Amino Acid Sequence"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Savitskaya, Viktoriia Yu",
+        "Monakhova, Mayya V",
+        "Bazanov, Daniil R",
+        "Litvinova, Anastasiia V",
+        "Snyga, Viktoriia G",
+        "Oretskaya, Tatiana S",
+        "Kubareva, Elena A"
+      ],
+      "short_names": [
+        "Savitskaya VY",
+        "Monakhova MV",
+        "Bazanov DR",
+        "Litvinova AV",
+        "Snyga VG",
+        "Oretskaya TS",
+        "Kubareva EA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Chemistry, Lomonosov Moscow State University, 119991 Moscow, Russia.",
+        "Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, 119991 Moscow, Russia.",
+        "Department of Chemistry, Lomonosov Moscow State University, 119991 Moscow, Russia.",
+        "Department of Bioengineering and Bioinformatics, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Chemistry, Lomonosov Moscow State University, 119991 Moscow, Russia.",
+        "Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, 119991 Moscow, Russia.",
+        "Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, 119991 Moscow, Russia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Savitskaya, Viktoriia Yu",
+        "short_name": "Savitskaya VY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Lomonosov Moscow State University, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Monakhova, Mayya V",
+        "short_name": "Monakhova MV",
+        "identifiers": [],
+        "affiliations": [
+          "Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Bazanov, Daniil R",
+        "short_name": "Bazanov DR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Lomonosov Moscow State University, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Litvinova, Anastasiia V",
+        "short_name": "Litvinova AV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering and Bioinformatics, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Snyga, Viktoriia G",
+        "short_name": "Snyga VG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Lomonosov Moscow State University, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Oretskaya, Tatiana S",
+        "short_name": "Oretskaya TS",
+        "identifiers": [],
+        "affiliations": [
+          "Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Kubareva, Elena A",
+        "short_name": "Kubareva EA",
+        "identifiers": [],
+        "affiliations": [
+          "Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, 119991 Moscow, Russia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioscience (Landmark edition)"
+    ],
+    "journal_abbrev": [
+      "Front Biosci (Landmark Ed)"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42811964",
+      "19656086",
+      "33871442",
+      "39988319",
+      "30165819",
+      "26384423",
+      "28668638",
+      "27369079",
+      "21050827",
+      "30391220",
+      "21953455",
+      "15113836",
+      "18310077",
+      "21060849",
+      "29625547",
+      "20961292",
+      "19777055",
+      "30711824",
+      "37424007",
+      "40032130",
+      "25771726",
+      "16546997",
+      "30916336",
+      "37047138",
+      "34088835",
+      "15470502",
+      "24901533",
+      "22843852",
+      "36192430",
+      "32571878",
+      "38641238",
+      "18619468",
+      "23922851",
+      "36180987",
+      "25809295",
+      "12470950",
+      "26163658",
+      "29645090",
+      "12606120",
+      "17951253",
+      "20129926",
+      "41465582",
+      "20603082",
+      "12887908",
+      "15371440",
+      "15489428",
+      "27343627",
+      "9827806",
+      "23679952",
+      "31740492",
+      "41478286",
+      "16024043",
+      "8340405",
+      "11948175",
+      "16376524",
+      "21299643",
+      "27851738",
+      "20138591",
+      "36122480",
+      "32669440",
+      "15636744",
+      "23916559",
+      "21861872",
+      "11717305",
+      "2037608",
+      "21359151",
+      "28453523",
+      "19937653",
+      "11952911",
+      "10734142",
+      "10094619",
+      "22749142",
+      "10946232",
+      "42788712",
+      "11897781",
+      "19783657",
+      "21889424",
+      "21454657",
+      "32799229",
+      "20937912",
+      "11292842",
+      "19317511",
+      "31744915",
+      "36215471",
+      "15297450",
+      "11574484",
+      "9461452",
+      "8202083",
+      "26283381",
+      "25777677",
+      "22792304",
+      "19474347",
+      "23355472",
+      "15474418",
+      "9880500",
+      "29066619",
+      "17765269",
+      "16135233",
+      "16772401",
+      "40023769"
+    ],
+    "review": [
+      "42811964",
+      "36180987",
+      "41465582",
+      "22749142"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.imrpress.com/journal/FBL/31/9/10.31083/FBL55117",
+        "provider": "IMR Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

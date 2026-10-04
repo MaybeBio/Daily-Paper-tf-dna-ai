@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42810157",
+    "doi": "10.1016/j.jinorgbio.2026.113464",
+    "title": "Design of L-borneol-containing biguanide derivatives and their half-sandwich Ru(II)-p-cymene complexes: DNA/HSA binding properties, antioxidant activity and antiproliferative effects in glioblastoma cells."
+  },
+  "content": {
+    "abstract": "In this study, half-sandwich Ru(II)-p-cymene complexes containing L-borneol-based biguanide ligands were synthesized, characterized and evaluated for their biological properties. Lipophilicity (logP) and hydrolysis studies demonstrated that the biguanide moiety and its substituents significantly influence hydration behavior. UV-Vis analyses confirmed CT-DNA binding for all compounds, with the ligands showing higher affinity than the corresponding Ru(II) complexes. Viscosity measurements suggested that DNA binding occurs predominantly through a groove-binding mechanism rather than intercalation. Fluorescence spectroscopy studies showed that the complexes interacted strongly with HSA under physiological conditions, with K(SV) values of the order of 1.07-5.5 x 10(4) M(-1). At the cellular level, cytotoxicity was compared in HUVEC and YKG-1 cells, and compounds 3a, 3b, 4a and 4b were found to exhibit selective antiproliferative effects against YKG-1 cells. Furthermore, compounds 4a and 4b had high radical scavenging capacity and exhibited strong antioxidant activity. Complex 4b was found to significantly suppress the colony formation and wound healing capacity of YKG-1 cells and to trigger apoptotic cell death mechanisms. This suggests that L-borneol-containing biguanide derivatives and their Ru(II) complexes may be promising candidates for treating glioblastoma. Molecular docking analyses were conducted for Complex 4b, the most active compound identified based on its in vitro HSA-binding, DNA-binding, and anticancer activities, to designate its molecular interaction profile with the selected biological target.",
+    "keywords": [
+      "Biguanid",
+      "DNA/HSA binding",
+      "Glioblastoma",
+      "L-Borneol",
+      "Ru(II)-p-cymene"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gul, Abdulmecit",
+        "Kalay, Husne Gulseren",
+        "Balli, Julide Nacaroglu",
+        "Gungor, Ozge",
+        "Comertpay, Sabahattin",
+        "Gungor, Seyit Ali",
+        "Kose, Muhammet"
+      ],
+      "short_names": [
+        "Gul A",
+        "Kalay HG",
+        "Balli JN",
+        "Gungor O",
+        "Comertpay S",
+        "Gungor SA",
+        "Kose M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Faculty of Agriculture, Agricultural Biotechnology Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Turkiye.",
+        "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Turkiye.",
+        "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Turkiye.",
+        "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Turkiye.",
+        "Faculty of Agriculture, Agricultural Biotechnology Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Turkiye.",
+        "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Turkiye. Electronic address: sagungor@ksu.edu.tr.",
+        "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Turkiye. Electronic address: muhammetkose@ksu.edu.tr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gul, Abdulmecit",
+        "short_name": "Gul A",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Agriculture, Agricultural Biotechnology Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Kalay, Hüsne Gülseren",
+        "short_name": "Kalay HG",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Ballı, Jülide Nacaroğlu",
+        "short_name": "Ballı JN",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Güngör, Özge",
+        "short_name": "Güngör Ö",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Cömertpay, Sabahattin",
+        "short_name": "Cömertpay S",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Agriculture, Agricultural Biotechnology Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Güngör, Seyit Ali",
+        "short_name": "Güngör SA",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Türkiye. Electronic address: sagungor@ksu.edu.tr."
+        ]
+      },
+      {
+        "full_name": "Kose, Muhammet",
+        "short_name": "Kose M",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Science, Chemistry Department, Kahramanmaras Sutcu Imam University, Kahramanmaras 46050, Türkiye. Electronic address: muhammetkose@ksu.edu.tr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of inorganic biochemistry"
+    ],
+    "journal_abbrev": [
+      "J Inorg Biochem"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 23:29",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42810157",
+      "32980642",
+      "42625429",
+      "37651843",
+      "32936191",
+      "30124119",
+      "30831392",
+      "42741296",
+      "30339386",
+      "38406993",
+      "41855637",
+      "32208661",
+      "32597724",
+      "26855406",
+      "35171173",
+      "33570919",
+      "37158792",
+      "36250384",
+      "28849726",
+      "36317406",
+      "27435011",
+      "39470017",
+      "37459067",
+      "24177707",
+      "38614230",
+      "31460277",
+      "40701010",
+      "35335261",
+      "34730582",
+      "31983278",
+      "28039786",
+      "28585811",
+      "26555289",
+      "31721562",
+      "34268603",
+      "28638907",
+      "34315119",
+      "38164612",
+      "28756153",
+      "41166036",
+      "34681939",
+      "36345069",
+      "39087675",
+      "42383459",
+      "29119261",
+      "42451649",
+      "42515890",
+      "38484588",
+      "35786838",
+      "30379535",
+      "30942794",
+      "37241793",
+      "21446672",
+      "31300922",
+      "30033272",
+      "37944388",
+      "28456118",
+      "23519281",
+      "28768466",
+      "33554592",
+      "36615237",
+      "41367345",
+      "37569273",
+      "35530753",
+      "31696810",
+      "28243638",
+      "32295347",
+      "40632111",
+      "38735072",
+      "27293144",
+      "26491831",
+      "21666776",
+      "37301165",
+      "38474456",
+      "30153544",
+      "29400963",
+      "27612830",
+      "42573421",
+      "42054842",
+      "40149886",
+      "31132480",
+      "29107586",
+      "31241921",
+      "40403495",
+      "40807263",
+      "38967860",
+      "27838485",
+      "25462243",
+      "42365045",
+      "29459276",
+      "40644785",
+      "32634653",
+      "40339269",
+      "22183160",
+      "33336849",
+      "40226946",
+      "34182310",
+      "32073070",
+      "42333610",
+      "33625414"
+    ],
+    "review": [
+      "42810157"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0162-0134(26)00254-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

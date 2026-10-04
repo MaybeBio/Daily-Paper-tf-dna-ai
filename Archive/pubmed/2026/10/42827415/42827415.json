@@ -1,0 +1,291 @@
+{
+  "identity": {
+    "pmid": "42827415",
+    "doi": "10.1111/nph.71629",
+    "title": "The ABCG transporter OsPDR17 mediates transport of 5,10-diketo-casbene and enhances disease resistance in rice."
+  },
+  "content": {
+    "abstract": "Compound 5,10-diketo-casbene (DKC) is a key macrocyclic diterpenoid phytoalexin contributing to rice resistance against bacterial blight. Although its activity depends on transmembrane transport, the transporter of DKC remains unknown. Using transcriptome profiling and a yeast expression system, OsPDR17, an ABCG transporter, was identified and functionally characterized as the major DKC transporter. Its role during Xanthomonas oryzae pv oryzae infection was examined via CRISPR/Cas9 and overexpression, and a transcription factor regulating OsPDR17 was identified. OsPDR17 was localized to the chloroplast membrane, and key enzymes for DKC biosynthesis were chloroplast-localized proteins. OsPDR17 knockout significantly suppressed the expression of DKC biosynthetic genes, reduced DKC accumulation, and weakened resistance to bacterial blight, whereas overexpression of OsPDR17 showed opposite effects. Notably, we revealed that residue D1149 was essential for OsPDR17-DKC the interaction using molecular docking and site-directed mutagenesis analysis. In addition, WRKY10, a known transcription factor of DKC biosynthetic genes, was found to be potentially involved in regulating OsPDR17 expression. Taken together, this work uncovered the pivotal function of OsPDR17 in rice resistance to bacterial blight, mediating the transport of phytoalexin DKC and orchestrating feedback regulation of DKC biosynthesis. These results offered a theoretical insight and an important genetic resource for rice disease resistance research.",
+    "keywords": [
+      "5,10-diketocasbene",
+      "Oryza sativa",
+      "OsPDR17",
+      "disease resistance",
+      "phytoalexin transport",
+      "transcription factor"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Ruyuan",
+        "Bie, Xuesong",
+        "Xu, Shu",
+        "Li, Linwei",
+        "Li, Pirui",
+        "Lyu, Hui",
+        "Ernst, Lukas",
+        "Feng, Xu",
+        "Sheng, Yelong",
+        "Chen, Yu"
+      ],
+      "short_names": [
+        "Wang R",
+        "Bie X",
+        "Xu S",
+        "Li L",
+        "Li P",
+        "Lyu H",
+        "Ernst L",
+        "Feng X",
+        "Sheng Y",
+        "Chen Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-7229-5534",
+        "ORCID: 0000-0002-6655-9478",
+        "ORCID: 0000-0002-8406-8322",
+        "ORCID: 0000-0002-6997-5215",
+        "ORCID: 0000-0001-7349-0686"
+      ],
+      "affiliations": [
+        "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China.",
+        "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China.",
+        "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China.",
+        "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China.",
+        "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China.",
+        "Department of Biochemistry, Max Planck Institute for Chemical Ecology, Hans-Knoll StraBe 8, Jena, Thuringia, 07745, Germany.",
+        "Department of Biochemistry, Max Planck Institute for Chemical Ecology, Hans-Knoll StraBe 8, Jena, Thuringia, 07745, Germany.",
+        "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China.",
+        "Changzhou Menghe Shuangfeng Chinese Herbal Medicine Technology Co. Ltd, Changzhou, 213139, China.",
+        "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Ruyuan",
+        "short_name": "Wang R",
+        "identifiers": [
+          "0009-0009-7229-5534"
+        ],
+        "affiliations": [
+          "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China."
+        ]
+      },
+      {
+        "full_name": "Bie, Xuesong",
+        "short_name": "Bie X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Shu",
+        "short_name": "Xu S",
+        "identifiers": [
+          "0000-0002-6655-9478"
+        ],
+        "affiliations": [
+          "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China."
+        ]
+      },
+      {
+        "full_name": "Li, Linwei",
+        "short_name": "Li L",
+        "identifiers": [
+          "0000-0002-8406-8322"
+        ],
+        "affiliations": [
+          "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China."
+        ]
+      },
+      {
+        "full_name": "Li, Pirui",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China."
+        ]
+      },
+      {
+        "full_name": "Lyu, Hui",
+        "short_name": "Lyu H",
+        "identifiers": [
+          "0000-0002-6997-5215"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Max Planck Institute for Chemical Ecology, Hans-Knoll StraBe 8, Jena, Thuringia, 07745, Germany."
+        ]
+      },
+      {
+        "full_name": "Ernst, Lukas",
+        "short_name": "Ernst L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Max Planck Institute for Chemical Ecology, Hans-Knoll StraBe 8, Jena, Thuringia, 07745, Germany."
+        ]
+      },
+      {
+        "full_name": "Feng, Xu",
+        "short_name": "Feng X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China."
+        ]
+      },
+      {
+        "full_name": "Sheng, Yelong",
+        "short_name": "Sheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Changzhou Menghe Shuangfeng Chinese Herbal Medicine Technology Co. Ltd, Changzhou, 213139, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yu",
+        "short_name": "Chen Y",
+        "identifiers": [
+          "0000-0001-7349-0686"
+        ],
+        "affiliations": [
+          "Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, Jiangsu Province Engineering Research Center of Eco-Cultivation and High-Value Utilization of Chinese Medicinal Materials, Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The New phytologist"
+    ],
+    "journal_abbrev": [
+      "New Phytol"
+    ],
+    "pub_date": "2026 Oct 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/03 05:33",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42827415",
+      "40512184",
+      "37186469",
+      "41300773",
+      "32620100",
+      "27631432",
+      "25824104",
+      "33892515",
+      "35806236",
+      "40149393",
+      "40751127",
+      "38178576",
+      "39665688",
+      "39719413",
+      "40095682",
+      "40001590",
+      "28304228",
+      "39596224",
+      "31993730",
+      "25786239",
+      "24617729",
+      "26646110",
+      "39724382",
+      "27165035",
+      "33051057",
+      "29190793",
+      "31906847",
+      "40604494",
+      "34082694",
+      "33241917",
+      "35054806",
+      "41437324",
+      "30995267",
+      "29864161",
+      "40125805",
+      "38159040",
+      "39171750",
+      "23602104",
+      "37240026",
+      "33097183",
+      "36675223",
+      "38444161",
+      "39599338",
+      "40872189",
+      "30842619",
+      "30444888",
+      "33567155",
+      "32424468",
+      "35742990",
+      "39791450",
+      "20507449",
+      "26821568",
+      "38630137",
+      "22970151",
+      "27335352",
+      "40949567",
+      "38995679",
+      "29498672",
+      "31659338",
+      "39815620",
+      "32357119",
+      "40955071",
+      "38268986",
+      "33317452",
+      "21071600",
+      "33544818",
+      "32084193",
+      "31493565",
+      "34185169",
+      "28982185",
+      "19700558",
+      "26907259",
+      "28251460",
+      "33830376",
+      "34948428",
+      "34170614",
+      "42137036",
+      "35392815",
+      "22158700",
+      "31307395",
+      "27905546",
+      "34299202",
+      "35076864",
+      "33993401",
+      "38558163",
+      "32152790",
+      "25105804",
+      "30553449",
+      "33368943",
+      "35743079",
+      "23430045",
+      "25765449",
+      "31852430",
+      "31659337",
+      "25462074",
+      "34979446",
+      "27918246",
+      "40650151",
+      "27701783",
+      "33677391"
+    ],
+    "review": [
+      "42827415"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

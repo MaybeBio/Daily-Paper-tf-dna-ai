@@ -1,0 +1,257 @@
+{
+  "identity": {
+    "pmid": "42812052",
+    "doi": "10.12122/j.issn.1673-4254.2026.09.06",
+    "title": "[Hepatocellular carcinoma-derived lactate-mediated histone H3K18 lactylation modifies S100A2 transcription to promote proliferation, migration, invasion and epithelial-mesenchymal transition of hepatocellular carcinoma cells]."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: To investigate the role of histone H3 lysine 18 lactylation (H3K18la) regulating the transcription of S100 calcium-binding protein A2 (S100A2) in the development of hepatocellular carcinoma (HCC) and its molecular mechanism. METHODS: HCC single-cell transcriptome sequencing data were used to screen the differentially expressed genes and pathways. Intracellular lactate and histone lactylation were measured in HCC and normal hepatocyte cell lines. The effects of glycolysis inhibitors (2-DG/Oxamate) on proliferation, migration, and invasion of the cells were evaluated, and ChIP-qPCR was used to detect the enrichment of H3K18la at the S100A2 promoter. TCGA database was used to analyze the association of S100A2 expression with the prognosis of HCC patients. S100A2 overexpression and knockdown cell models were established, and rescue experiments using 2-DG or lactate were performed to validate the role of H3K18la in mediating the effects of S100A2. The interaction between S100A2 and KRT6A proteins was validated by STRING, molecular docking, and Co-IP. Western blotting was performed to determine the nuclear expression of beta‑catenin and the EMT markers (vimentin and E‑cadherin) in HCC cells, and to elucidate the regulatory effect of H3K18la on the Wnt/beta‑catenin pathway. RESULTS: Glycolysis and pyruvate metabolism pathways were upregulated in HCC, and lactate levels was elevated in HCC cells. Pan-Kla and H3K18la were significantly overexpressed in HCC cell lines, especially under hypoxia. Glycolysis inhibitors dose-dependently reduced H3K18la and suppressed malignant phenotypes of HCC cells. S100A2 mRNA and protein levels were upregulated in HCC, and its high expression was correlated with poor prognosis. S100A2 promoted HCC cell proliferation, migration, and invasion, which were reversed by 2‑DG. S100A2 directly interacted with KRT6A, the expression of nuclear beta‑catenin was reduced after KRT6A knockdown and increased after KRT6A overexpression; exogenous lactate reversed KRT6A overexpression‑induced inhibition of beta‑catenin, which was blocked by XAV939. Treatment with 2‑DG lowered the expressions of beta‑catenin and EMT markers, which were reversed by S100A2 or KRT6A overexpression. CONCLUSIONS: HCC-derived lactate enhances H3K18la modification, which activates S100A2 transcription to positively regulate the Wnt/beta‑catenin pathway, ultimately promoting the proliferation, migration, invasion and EMT of HCC cells.",
+    "keywords": [
+      "S100A2",
+      "Wnt/beta‑catenin signaling pathway",
+      "epithelial-mesenchymal transition",
+      "hepatocellular carcinoma",
+      "histone lactylation"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Carcinoma, Hepatocellular/metabolism/pathology/genetics",
+      "*Liver Neoplasms/metabolism/pathology/genetics",
+      "Epithelial-Mesenchymal Transition",
+      "Cell Proliferation",
+      "*S100 Proteins/genetics/metabolism",
+      "Cell Movement",
+      "*Histones/metabolism",
+      "Cell Line, Tumor",
+      "Lactic Acid/metabolism",
+      "Neoplasm Invasiveness",
+      "Gene Expression Regulation, Neoplastic",
+      "beta Catenin/metabolism",
+      "Glycolysis",
+      "Chemotactic Factors"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Liping",
+        "Shao, Yu",
+        "Zhou, Wanbing",
+        "He, Jingping"
+      ],
+      "short_names": [
+        "Huang L",
+        "Shao Y",
+        "Zhou W",
+        "He J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Health, Dongguan Polytechnic, Dongguan 523808, China.",
+        "School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+        "School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+        "Department of Vascular and Interventional Medicine, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Liping",
+        "short_name": "Huang L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Health, Dongguan Polytechnic, Dongguan 523808, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Yu",
+        "short_name": "Shao Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Wanbing",
+        "short_name": "Zhou W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "He, Jingping",
+        "short_name": "He J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular and Interventional Medicine, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nan fang yi ke da xue xue bao = Journal of Southern Medical University"
+    ],
+    "journal_abbrev": [
+      "Nan Fang Yi Ke Da Xue Xue Bao"
+    ],
+    "pub_date": "2026 Sept 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42812052",
+      "41935591",
+      "39016629",
+      "41168860",
+      "42763290",
+      "41817384",
+      "40069645",
+      "42770181",
+      "39707043",
+      "42053668",
+      "31727171",
+      "40616024",
+      "41799507",
+      "38926329",
+      "27899259",
+      "34939898",
+      "34281492",
+      "28093067",
+      "41187860",
+      "25574092",
+      "37875822",
+      "29739365",
+      "41864048",
+      "42425209",
+      "37439386",
+      "31278131",
+      "33407720",
+      "29351758",
+      "40925123",
+      "41965966",
+      "31955177",
+      "28969700",
+      "38711083",
+      "37350415",
+      "30610799",
+      "41722266",
+      "28241806",
+      "37453868",
+      "39544420",
+      "38468464",
+      "40814770",
+      "29562958",
+      "38453820",
+      "40707755",
+      "23770846",
+      "34816637",
+      "30556279",
+      "42065070",
+      "35837768",
+      "40808274",
+      "38940025",
+      "41382051",
+      "39507961",
+      "38844930",
+      "40481934",
+      "29620186",
+      "42486346",
+      "31044454",
+      "35107180",
+      "29638164",
+      "40106068",
+      "33587761",
+      "31401158",
+      "35108614",
+      "33760109",
+      "42174112",
+      "38773433",
+      "35568116",
+      "42596831",
+      "30915743",
+      "42163331",
+      "31071459",
+      "28817119",
+      "33122451",
+      "30929558",
+      "28890291",
+      "26499886",
+      "34649212",
+      "31771611",
+      "31564506",
+      "42170969",
+      "42790938",
+      "28646927",
+      "35143426",
+      "41714472",
+      "30545369",
+      "30799589",
+      "35008530",
+      "28374947",
+      "42562962",
+      "36722453",
+      "41293954",
+      "40109873",
+      "25653024",
+      "29864952",
+      "39223929",
+      "31427562",
+      "33000250",
+      "42193960",
+      "40032749"
+    ],
+    "review": [
+      "42812052"
+    ],
+    "pmc": [
+      "13624975"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/livercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42812052/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-S100A2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4031",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

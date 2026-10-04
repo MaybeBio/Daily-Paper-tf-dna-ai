@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "42799260",
+    "doi": "10.2147/CCID.S636697",
+    "title": "Integrative Transcriptomic and Genetic Analyses Identify CDC20 as a Potential Biomarker Associated with Cell Cycle and Immune-Inflammatory Processes in Psoriasis."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: To identify psoriasis-associated candidate genes and regulatory features via integrated transcriptomic, immune and genetic analyses, and validate them in an imiquimod-induced psoriasis-like murine model. METHODS: Public GEO transcriptomic datasets were integrated after batch-effect correction. We performed differential expression, WGCNA, machine-learning-based feature selection and diagnostic modelling, CIBERSORT immune infiltration estimation, transcription-factor regulation, drug enrichment, colocalization and SMR analyses. In-vivo histological and Western blot validation was conducted in mice. RESULTS: We obtained 767 candidate genes enriched in cell-cycle and immune-inflammatory pathways. The Lasso-XGBoost model (AUC = 0.923) yielded 11 candidate genes that well separate psoriasis patients from healthy controls. Drug enrichment identified Lucanthone. SMR revealed consistent expression-genetic directionality for LYN and IL1RN. Notably, the 11 machine-learning-derived signature genes mainly mark psoriasis disease activity and differ from the SMR-identified genetically supported causal genes LYN and IL1RN. Increased CDC20, CCNB1 and CDK1 protein levels were confirmed in mouse lesional skin. CONCLUSION: This study suggests that CDC20 may serve as a potential biomarker for cell cycle and immune-inflammatory processes in psoriasis, providing a basis for further mechanistic and translational studies.",
+    "keywords": [
+      "WGCNA",
+      "colocalization",
+      "immune cell infiltration",
+      "machine learning",
+      "mendelian randomization"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Lingyi",
+        "Mo, Wenshen",
+        "Wang, Gang",
+        "Wu, Xiaowei"
+      ],
+      "short_names": [
+        "Yang L",
+        "Mo W",
+        "Wang G",
+        "Wu X"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-7269-4118",
+        "ORCID: 0009-0006-5756-997X"
+      ],
+      "affiliations": [
+        "Clinical Medical College, Qinghai University, Xining, Qinghai, People's Republic of China.",
+        "Clinical Medical College, Qinghai University, Xining, Qinghai, People's Republic of China.",
+        "Department of Dermatology, Affiliated Hospital of Qinghai University, Xining, Qinghai, People's Republic of China.",
+        "Center for Burn, Plastic Surgery and Wound Repair, Affiliated Hospital of Qinghai University, Xining, Qinghai, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Lingyi",
+        "short_name": "Yang L",
+        "identifiers": [
+          "0009-0000-7269-4118"
+        ],
+        "affiliations": [
+          "Clinical Medical College, Qinghai University, Xining, Qinghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Mo, Wenshen",
+        "short_name": "Mo W",
+        "identifiers": [
+          "0009-0006-5756-997X"
+        ],
+        "affiliations": [
+          "Clinical Medical College, Qinghai University, Xining, Qinghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Gang",
+        "short_name": "Wang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Qinghai University, Xining, Qinghai, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaowei",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Burn, Plastic Surgery and Wound Repair, Affiliated Hospital of Qinghai University, Xining, Qinghai, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinical, cosmetic and investigational dermatology"
+    ],
+    "journal_abbrev": [
+      "Clin Cosmet Investig Dermatol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42799260",
+      "41224720",
+      "42558367",
+      "42326009",
+      "42553137",
+      "42236612",
+      "42597971",
+      "42509710",
+      "42123445",
+      "42652231",
+      "42292668",
+      "40406126",
+      "41388523",
+      "42634679",
+      "42164085",
+      "42580240",
+      "38863714",
+      "41415264",
+      "42642681",
+      "38148887",
+      "41858783",
+      "41333919",
+      "42074514",
+      "41772215",
+      "42620717",
+      "41479901",
+      "41991682",
+      "42292364",
+      "42259201",
+      "42043654",
+      "42123756",
+      "42368459",
+      "42338983",
+      "42291452",
+      "39142001",
+      "42377012",
+      "42305536",
+      "42631563",
+      "42775259",
+      "42429909",
+      "42737434",
+      "39072329",
+      "37431117",
+      "42520089",
+      "39541897",
+      "41120603",
+      "42536689",
+      "40124932",
+      "42791204",
+      "41013556",
+      "41611834",
+      "40304766",
+      "41656832",
+      "42363518",
+      "42072343",
+      "41200172",
+      "42365225",
+      "42495609",
+      "42265520",
+      "42004467",
+      "41699549",
+      "42024670",
+      "38649912",
+      "42471730",
+      "40093802",
+      "42274933",
+      "41909697",
+      "42718792",
+      "42015036",
+      "42302029",
+      "41442003",
+      "41107929",
+      "41080564",
+      "42064079",
+      "41972123",
+      "42351682",
+      "41815139",
+      "42343898",
+      "41158309",
+      "42107160",
+      "42154423",
+      "42197164",
+      "41094572",
+      "41895505",
+      "39507054",
+      "41836872",
+      "41217566",
+      "41731716",
+      "42292208",
+      "42488926",
+      "42292469",
+      "40500570",
+      "41257259",
+      "42148128",
+      "42708302",
+      "42781557",
+      "41888893",
+      "42792820",
+      "40630623",
+      "38803495"
+    ],
+    "review": [
+      "42799260",
+      "41888893"
+    ],
+    "pmc": [
+      "13614442"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42799260/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-797",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.2147/CCID.S636697",
+        "provider": "Dove Medical Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

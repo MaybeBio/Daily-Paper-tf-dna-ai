@@ -1,0 +1,229 @@
+{
+  "identity": {
+    "pmid": "42816373",
+    "doi": "10.2131/jts.51.533",
+    "title": "Integration of QSAR modeling and in vitro validation for identification of food-derived Nrf2 activators against arsenic-induced toxicity."
+  },
+  "content": {
+    "abstract": "Arsenic exposure is a major public health concern due to its toxicity and carcinogenicity, largely mediated by oxidative stress, and activation of the Nrf2 signaling pathway is considered a promising strategy to mitigate such damage. In this study, a quantitative structure-activity relationship (QSAR) model was developed to identify potential Nrf2 activators from food-derived compounds. Machine learning algorithms, including Random Forest (RF), Support Vector Machine (SVM), Linear Discriminant Analysis (LDA), and a stacking model, were developed and optimized. The optimized RF, SVM, and LDA models were subsequently integrated into a stacking framework, which was selected as the final predictive model for virtual screening based on its robust and balanced predictive performance. The stacking model achieved the highest accuracy during five-fold cross-validation (0.77) and demonstrated competitive performance on the independent test set (0.742 +/- 0.040), with balanced precision, sensitivity, and F-measure. Consequently, the stacking model was selected as the final model for virtual screening. A total of 70,926 compounds retrieved from a food-derived database were filtered based on physicochemical criteria, and QSAR-based virtual screening predicted 920 compounds as potential activators of the Nrf2 signaling pathway, from which 5,7-Dimethylchrysin (FooDB ID: FDB015537) and Demethylvestitol (FooDB ID: FDB012218) were selected for experimental validation. In vitro assays using HepG2 cells demonstrated that 5,7-Dimethylchrysin significantly enhanced cell viability against sodium arsenite (150 muM)-induced cytotoxicity, with an effective concentration (EC50) of 0.54 muM, whereas Demethylvestitol exhibited only limited protective effects. Furthermore, luciferase reporter assays confirmed that 5,7-Dimethylchrysin activated antioxidant response element (ARE)-driven transcription in a concentration-dependent manner, producing a 1.5 to 2.4-fold increase at concentrations ranging from 0.78 to 6.25 muM. Overall, these findings highlight the effectiveness of integrating QSAR modeling with experimental validation to identify food-derived compounds with protective potential against arsenic-induced toxicity, with 5,7-Dimethylchrysin emerging as a promising candidate for further investigation.",
+    "keywords": [
+      "Arsenic toxicity",
+      "Food-derived compounds",
+      "In vitro",
+      "Nrf2 activator",
+      "QSAR modeling"
+    ],
+    "mesh_terms": [
+      "*Quantitative Structure-Activity Relationship",
+      "*NF-E2-Related Factor 2/metabolism/agonists",
+      "Humans",
+      "*Arsenic/toxicity",
+      "Support Vector Machine",
+      "Signal Transduction/drug effects",
+      "Machine Learning",
+      "*Food",
+      "Random Forest",
+      "Discriminant Analysis"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Validation Study"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huong, Ngo Thanh",
+        "Kodama, Susumu",
+        "Ono, Atsushi"
+      ],
+      "short_names": [
+        "Huong NT",
+        "Kodama S",
+        "Ono A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Toxicology, Division of Pharmaceutical Sciences, Graduate School of Medicine Dentistry and Pharmaceutical Sciences, Okayama University.",
+        "Hai Phong University of Medicine and Pharmacy, Viet Nam.",
+        "Laboratory of Toxicology, Division of Pharmaceutical Sciences, Graduate School of Medicine Dentistry and Pharmaceutical Sciences, Okayama University.",
+        "Laboratory of Toxicology, Division of Pharmaceutical Sciences, Graduate School of Medicine Dentistry and Pharmaceutical Sciences, Okayama University."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huong, Ngo Thanh",
+        "short_name": "Huong NT",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Toxicology, Division of Pharmaceutical Sciences, Graduate School of Medicine Dentistry and Pharmaceutical Sciences, Okayama University.",
+          "Hai Phong University of Medicine and Pharmacy, Viet Nam."
+        ]
+      },
+      {
+        "full_name": "Kodama, Susumu",
+        "short_name": "Kodama S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Toxicology, Division of Pharmaceutical Sciences, Graduate School of Medicine Dentistry and Pharmaceutical Sciences, Okayama University."
+        ]
+      },
+      {
+        "full_name": "Ono, Atsushi",
+        "short_name": "Ono A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Toxicology, Division of Pharmaceutical Sciences, Graduate School of Medicine Dentistry and Pharmaceutical Sciences, Okayama University."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of toxicological sciences"
+    ],
+    "journal_abbrev": [
+      "J Toxicol Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Validation Study"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 23:30",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42816373",
+      "41822751",
+      "33105703",
+      "42475469",
+      "23188707",
+      "39150724",
+      "41969262",
+      "42749429",
+      "18795156",
+      "31872748",
+      "24279462",
+      "42781618",
+      "28628163",
+      "23871787",
+      "42233850",
+      "42694888",
+      "40602186",
+      "42081840",
+      "37993082",
+      "40943348",
+      "22476201",
+      "41322408",
+      "23056183",
+      "22925725",
+      "31336592",
+      "26404762",
+      "42629463",
+      "42728926",
+      "27774770",
+      "36321557",
+      "42321836",
+      "31001960",
+      "40267508",
+      "42019124",
+      "42356530",
+      "23000044",
+      "37836625",
+      "30738023",
+      "41588910",
+      "40926534",
+      "35528517",
+      "40418571",
+      "30529616",
+      "24513185",
+      "31131946",
+      "40945215",
+      "40447459",
+      "38948281",
+      "26878773",
+      "42120650",
+      "41999429",
+      "31445708",
+      "23394605",
+      "41456601",
+      "42000820",
+      "32464442",
+      "35679981",
+      "26170251",
+      "24602443",
+      "38104880",
+      "33406386",
+      "27311474",
+      "27277809",
+      "39128305",
+      "27369375",
+      "41045407",
+      "38954070",
+      "39521088",
+      "30630510",
+      "41572085",
+      "40877299",
+      "30227999",
+      "39332120",
+      "41130075",
+      "31766100",
+      "41442152",
+      "41803390",
+      "42129635",
+      "42406147",
+      "42173304",
+      "39706064",
+      "42103119",
+      "27912883",
+      "29297235",
+      "42242041",
+      "29986281",
+      "29496161",
+      "37040559",
+      "41851979",
+      "40024011",
+      "39302735",
+      "32871193",
+      "41609079",
+      "33313673",
+      "42413305",
+      "41358925",
+      "22245092",
+      "31412289",
+      "32512417",
+      "41957161"
+    ],
+    "review": [
+      "42816373",
+      "23188707",
+      "39150724"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.2131/jts.51.533",
+        "provider": "J-STAGE, Japan Science and Technology Information Aggregator, Electronic",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/arsenic.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Arsenic"
+      }
+    ],
+    "text_mined": []
+  }
+}

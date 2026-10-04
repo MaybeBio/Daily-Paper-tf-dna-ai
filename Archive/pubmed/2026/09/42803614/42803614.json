@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42803614",
+    "doi": "10.1093/bfgp/elag008",
+    "title": "Supervised clustering of bacterial promoter identifies two groups with different relevant positions at -10."
+  },
+  "content": {
+    "abstract": "Promoters are DNA sequences responsible for the specific recognition of the transcriptional machinery in all the biological systems. In bacteria, two main groups of promoters have been described, the sigma70-like family, which includes the housekeeping sigma70 and the alternative sigma38, sigma32, sigma28, and sigma24; and the sigma54 family. However, promoter sequences may differ even inside the same family, and this classification may not fully capture the functional diversity of groups. In this work, we explored and classified a collection of bacterial promoters associated with six sigma factor families in the bacterium Escherichia coli K-12 using a Supervised clustering workflow that uses Shapley values. From this analysis, we identified two subgroups of sequences differentiated by the conservation of the -9 to -7 positions upstream the Transcription Start Site, suggesting that this region may be employed in classification frameworks. Finally, a detailed analysis of sigma70 promoter sequences identify five clusters with a conserved signal in the -10, but with different sequence composition. In summary, these signatures could provide more insights into the sigma factor-promoter interaction and the separation of the DNA double-strand.",
+    "keywords": [
+      "E. coli K-12",
+      "bacterial promoters",
+      "machine learning",
+      "sigma factors",
+      "supervised clustering"
+    ],
+    "mesh_terms": [
+      "*Promoter Regions, Genetic/genetics",
+      "Sigma Factor/genetics/metabolism",
+      "Clustering Algorithms",
+      "Cluster Analysis",
+      "Base Sequence",
+      "*Escherichia coli K12/genetics",
+      "Escherichia coli/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cambranis-Boldo, Paulo",
+        "Martinez, Gustavo Sganzerla",
+        "Farias, Andre Borges",
+        "Perez-Rueda, Ernesto"
+      ],
+      "short_names": [
+        "Cambranis-Boldo P",
+        "Martinez GS",
+        "Farias AB",
+        "Perez-Rueda E"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-8176-1980",
+        "ORCID: 0000-0002-7656-0579",
+        "ORCID: 0000-0002-4699-0199",
+        "ORCID: 0000-0002-6879-0673"
+      ],
+      "affiliations": [
+        "Instituto de Investigaciones en Matematicas Aplicadas y en Sistemas, Unidad Academica del Estado de Yucatan, Universidad Nacional Autonoma de Mexico, Merida, Yucatan, 97302, Mexico.",
+        "Microbiology and Immunology, Dalhousie University, 5850 College Street, Halifax, Nova Scotia, B3H4H7, Canada.",
+        "Department of Basic Medical Sciences, Shantou University Medical College, Shantou, 515041, Guangdong, China.",
+        "Laboratorio Nacional de Computacao Cientifica - LNCC, Avenida Getulio Vargas, Petropolis, Rio de Janeiro 25651075, Brazil.",
+        "Instituto de Investigaciones en Matematicas Aplicadas y en Sistemas, Unidad Academica del Estado de Yucatan, Universidad Nacional Autonoma de Mexico, Merida, Yucatan, 97302, Mexico."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cambranis-Boldo, Paulo",
+        "short_name": "Cambranis-Boldo P",
+        "identifiers": [
+          "0009-0005-8176-1980"
+        ],
+        "affiliations": [
+          "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Unidad Académica del Estado de Yucatán, Universidad Nacional Autónoma de México, Mérida, Yucatán, 97302, México."
+        ]
+      },
+      {
+        "full_name": "Martinez, Gustavo Sganzerla",
+        "short_name": "Martinez GS",
+        "identifiers": [
+          "0000-0002-7656-0579"
+        ],
+        "affiliations": [
+          "Microbiology and Immunology, Dalhousie University, 5850 College Street, Halifax, Nova Scotia, B3H4H7, Canada.",
+          "Department of Basic Medical Sciences, Shantou University Medical College, Shantou, 515041, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Farias, André Borges",
+        "short_name": "Farias AB",
+        "identifiers": [
+          "0000-0002-4699-0199"
+        ],
+        "affiliations": [
+          "Laboratório Nacional de Computação Científica - LNCC, Avenida Getúlio Vargas, Petrópolis, Rio de Janeiro 25651075, Brazil."
+        ]
+      },
+      {
+        "full_name": "Perez-Rueda, Ernesto",
+        "short_name": "Perez-Rueda E",
+        "identifiers": [
+          "0000-0002-6879-0673"
+        ],
+        "affiliations": [
+          "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Unidad Académica del Estado de Yucatán, Universidad Nacional Autónoma de México, Mérida, Yucatán, 97302, México."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in functional genomics"
+    ],
+    "journal_abbrev": [
+      "Brief Funct Genomics"
+    ],
+    "pub_date": "2026 Jan 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 11:40",
+    "fetched_at": "2026-10-04 08:16:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42803614",
+      "30458580",
+      "21827769",
+      "14529615",
+      "16230361",
+      "35885909",
+      "16892065",
+      "9233812",
+      "16166539",
+      "25845539",
+      "11251833",
+      "25803493",
+      "28251873",
+      "16603195",
+      "11703665",
+      "11139607",
+      "9603877",
+      "20952386",
+      "19969540",
+      "28666008",
+      "17012380",
+      "9199247",
+      "10049384",
+      "23028780",
+      "34787538",
+      "18208528",
+      "33371507",
+      "16528104",
+      "9512707",
+      "27137497",
+      "14702414",
+      "15977833",
+      "28968797",
+      "17185540",
+      "24603758",
+      "9209042",
+      "10873447",
+      "11532138",
+      "20133665",
+      "19400790",
+      "16818608",
+      "7557462",
+      "8631665",
+      "16936033",
+      "15561138",
+      "9544701",
+      "9006056",
+      "7708499",
+      "8990305",
+      "17189297",
+      "11375988",
+      "7478999",
+      "9341173",
+      "12540296",
+      "10715205",
+      "17921304",
+      "8289270",
+      "24172230",
+      "17268549",
+      "11397080",
+      "7473719",
+      "8345519",
+      "12235394",
+      "9144176",
+      "18287032",
+      "19415331",
+      "9767576",
+      "14704342",
+      "19833768",
+      "16420370",
+      "28412515",
+      "9890989",
+      "21195716",
+      "9079915",
+      "7601844",
+      "9927430",
+      "21398630",
+      "12782316",
+      "14757243",
+      "32614400",
+      "35065417",
+      "9457862",
+      "29476659",
+      "26425847",
+      "38783209",
+      "33573428",
+      "8759847",
+      "15978084",
+      "24461193",
+      "29581236",
+      "2644197",
+      "2661828",
+      "17439543",
+      "9786190",
+      "21398637",
+      "17477048",
+      "19400791",
+      "14630944",
+      "9601026",
+      "9582376"
+    ],
+    "review": [
+      "42803614",
+      "12540296"
+    ],
+    "pmc": [
+      "13617569"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42803614/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bfg/article-lookup/doi/10.1093/bfgp/elag008",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
