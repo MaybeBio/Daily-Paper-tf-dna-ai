@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42853135",
+    "doi": "10.1083/jcb.202410020",
+    "title": "Single-cell imaging reveals a key role of Bck2 in yeast cell size adaptation to nutrient challenges."
+  },
+  "content": {
+    "abstract": "Cell size is tightly controlled to optimize cell function. In Saccharomyces cerevisiae, multiple regulators of cell size in steady-state conditions have been identified, such as the G1/S activators Cln3 and Bck2 and the inhibitor Whi5. Individual deletions of these regulators alter the mean cell volumes. However, size homeostasis remains largely intact. Here, we show that although the roles of Bck2 and Cln3 for cell size regulation appear largely redundant in steady state, a switch from fermentable to nonfermentable growth media reveals a unique role for Bck2 in cell size adaptation. We use live-cell microscopy and machine learning-assisted image analysis to track single cells and their progeny through the nutrient switch. We find that after the switch, bck2Delta cells experience longer cell cycle arrests and more arrest-associated enlargement than wild-type, whi5Delta, or cln3Delta cells, indicating that Bck2 becomes the critical G1/S activator in changing nutrients. Our work demonstrates that studying size regulation during nutrient shifts can resolve apparent redundancies observed in steady state.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Saccharomyces cerevisiae Proteins/metabolism/genetics",
+      "*Saccharomyces cerevisiae/metabolism/genetics/cytology/growth & development",
+      "*Cell Size",
+      "*Nutrients/metabolism",
+      "*Single-Cell Analysis/methods",
+      "Cyclins/metabolism/genetics",
+      "*Adaptation, Physiological",
+      "Repressor Proteins/metabolism/genetics",
+      "Gene Expression Regulation, Fungal"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chadha, Yagya",
+        "Kukhtevich, Igor V",
+        "Stegmaier, Timon",
+        "Padovani, Francesco",
+        "Schneider, Robert",
+        "Schmoller, Kurt M"
+      ],
+      "short_names": [
+        "Chadha Y",
+        "Kukhtevich IV",
+        "Stegmaier T",
+        "Padovani F",
+        "Schneider R",
+        "Schmoller KM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4824-9935",
+        "ORCID: 0000-0001-5734-7345",
+        "ORCID: 0009-0003-6354-2667",
+        "ORCID: 0000-0003-2540-8240",
+        "ORCID: 0000-0001-5303-0973",
+        "ORCID: 0000-0001-5790-5204"
+      ],
+      "affiliations": [
+        "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum Munchen , Neuherberg, Germany. ROR: https://ror.org/00cfam450",
+        "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum Munchen , Neuherberg, Germany. ROR: https://ror.org/00cfam450",
+        "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum Munchen , Neuherberg, Germany. ROR: https://ror.org/00cfam450",
+        "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum Munchen , Neuherberg, Germany. ROR: https://ror.org/00cfam450",
+        "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum Munchen , Neuherberg, Germany. ROR: https://ror.org/00cfam450",
+        "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum Munchen , Neuherberg, Germany. ROR: https://ror.org/00cfam450"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chadha, Yagya",
+        "short_name": "Chadha Y",
+        "identifiers": [
+          "0000-0002-4824-9935"
+        ],
+        "affiliations": [
+          "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum München , Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Kukhtevich, Igor V",
+        "short_name": "Kukhtevich IV",
+        "identifiers": [
+          "0000-0001-5734-7345"
+        ],
+        "affiliations": [
+          "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum München , Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Stegmaier, Timon",
+        "short_name": "Stegmaier T",
+        "identifiers": [
+          "0009-0003-6354-2667"
+        ],
+        "affiliations": [
+          "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum München , Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Padovani, Francesco",
+        "short_name": "Padovani F",
+        "identifiers": [
+          "0000-0003-2540-8240"
+        ],
+        "affiliations": [
+          "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum München , Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Schneider, Robert",
+        "short_name": "Schneider R",
+        "identifiers": [
+          "0000-0001-5303-0973"
+        ],
+        "affiliations": [
+          "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum München , Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Schmoller, Kurt M",
+        "short_name": "Schmoller KM",
+        "identifiers": [
+          "0000-0001-5790-5204"
+        ],
+        "affiliations": [
+          "Institute of Functional Epigenetics, Molecular Targets and Therapeutics Center, Helmholtz Zentrum München , Neuherberg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of cell biology"
+    ],
+    "journal_abbrev": [
+      "J Cell Biol"
+    ],
+    "pub_date": "2026 Dec 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42853135",
+      "10545447",
+      "19158491",
+      "27094800",
+      "23675312",
+      "42826133",
+      "19841732",
+      "26390151",
+      "34713806",
+      "39819572",
+      "15210110",
+      "32246903",
+      "12582131",
+      "35841111",
+      "37531631",
+      "12185498",
+      "32518113",
+      "29792825",
+      "31685990",
+      "18493058",
+      "7891677",
+      "35239649",
+      "25582350",
+      "16387649",
+      "15210111",
+      "19523118",
+      "38233717",
+      "23589851",
+      "17713537",
+      "21106074",
+      "8177212",
+      "24204289",
+      "38749424",
+      "10229668",
+      "15259988",
+      "8387915",
+      "8114735",
+      "18633409",
+      "28839131",
+      "20573214",
+      "8943334",
+      "32710403",
+      "9383611",
+      "34648313",
+      "42284327",
+      "26046481",
+      "16200502",
+      "11251821",
+      "31644918",
+      "9418890",
+      "29334655",
+      "38231863",
+      "15075273",
+      "9687505",
+      "10022927",
+      "15572683",
+      "22844257",
+      "39285615",
+      "19823668",
+      "15870262",
+      "9440509",
+      "23468524",
+      "21978826",
+      "20541107",
+      "23591772",
+      "25733686",
+      "15240820",
+      "23593391",
+      "39271795",
+      "24088572",
+      "42312597",
+      "23339867",
+      "11340165",
+      "14573462",
+      "18794370",
+      "24374311",
+      "41985085",
+      "7844175",
+      "7588610",
+      "23770701",
+      "22910358",
+      "24816736",
+      "24909323",
+      "17302822",
+      "1674674",
+      "11427965",
+      "28676626",
+      "19745812",
+      "33086048",
+      "30150288",
+      "15474022",
+      "38713088",
+      "30689022",
+      "40136661",
+      "22479149",
+      "22031291",
+      "9383053",
+      "10964564",
+      "29531309",
+      "33443080"
+    ],
+    "review": [
+      "42853135",
+      "9383611"
+    ],
+    "pmc": [
+      "13651637"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42851337",
+    "doi": "10.3389/fimmu.2026.1922742",
+    "title": "Jianpi Biyan formula ameliorates spleen-deficiency-type allergic rhinitis and modulates the gut-nose axis: Integrated evidence from gut microbiota, SCFA metabolism, and TLR4/NF-kappaB signaling."
+  },
+  "content": {
+    "abstract": "The Jianpi Biyan formula (JPBY) is a modern Chinese herbal compound derived from the classic Qing Dynasty formula \"Jiegeng Yuanshen Decoction.\" It is primarily used to treat allergic rhinitis (AR) with spleen deficiency as the core pathogenesis and has demonstrated good clinical efficacy; however, its modern biological mechanisms remain unclear. This study investigated the effects of JPBY on spleen-deficiency-type AR, with particular emphasis on the gut microbiota, short-chain fatty acid (SCFA) metabolism, mucosal barrier integrity, and TLR4/NF-kappaB-associated inflammatory responses. A rat model of spleen-deficiency-type AR was established to evaluate the effects of JPBY on nasal symptoms, spleen deficiency-related manifestations, gastrointestinal function, and intestinal and nasal mucosal integrity. Gut microbiota profiling, SCFA metabolomics, and transcriptomic analyses were integrated to characterize JPBY-associated changes in gut and nasal inflammatory and metabolic profiles. Serum-absorbed components of JPBY were identified using UHPLC-MS/MS, and network pharmacology, molecular docking, immunofluorescence, Western blotting, and ELISA were subsequently employed to investigate potential molecular targets and signaling pathways. JPBY significantly alleviated nasal symptoms and spleen deficiency-related manifestations, improved gastrointestinal digestive function, and enhanced intestinal and nasal mucosal barrier integrity in spleen-deficiency-type AR rats. JPBY also markedly altered the composition of the gut microbiota and SCFA metabolism. Integrated multi-omics analyses identified associations among gut microbial alterations, SCFA metabolism, mucosal barrier function, and inflammatory signaling. In particular, TLR4/NF-kappaB signaling was identified as a potential molecular pathway associated with inflammatory changes in both intestinal and nasal tissues. Consistent with these findings, JPBY suppressed TLR4/NF-kappaB-associated signaling in both colonic and nasal tissues and modulated the levels of Th1/Th2/Treg/Th17-related cytokines. Collectively, these findings indicate that JPBY ameliorates spleen-deficiency-type AR while simultaneously remodeling the gut microbiota and SCFA metabolism, improving intestinal and nasal mucosal barrier function, and attenuating TLR4/NF-kappaB-associated inflammation. The coordinated alterations observed across the gut and nasal compartments suggest that gut-nose axis-related mechanisms may be involved in the effects of JPBY, although a direct causal relationship remains to be established.",
+    "keywords": [
+      "Jianpi Biyan formula",
+      "TLR4/NF-kappaB pathway",
+      "allergic rhinitis",
+      "gut microbiota",
+      "gut-nose axis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Rhinitis, Allergic/drug therapy/metabolism/immunology/etiology",
+      "Signal Transduction/drug effects",
+      "*Gastrointestinal Microbiome/drug effects",
+      "*Toll-Like Receptor 4/metabolism",
+      "Rats",
+      "*Drugs, Chinese Herbal/pharmacology/therapeutic use",
+      "*NF-kappa B/metabolism",
+      "*Nasal Mucosa/metabolism/drug effects/immunology",
+      "*Fatty Acids, Volatile/metabolism",
+      "Male",
+      "Disease Models, Animal",
+      "Rats, Sprague-Dawley",
+      "Spleen",
+      "Intestinal Mucosa/metabolism",
+      "*Splenic Diseases/drug therapy"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tian, Meihui",
+        "Huang, Yurong",
+        "Sun, Weifang",
+        "Zhang, Yanan",
+        "Tang, Yong"
+      ],
+      "short_names": [
+        "Tian M",
+        "Huang Y",
+        "Sun W",
+        "Zhang Y",
+        "Tang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Traditional Chinese Medicine Rehabilitation, the Fourth Affiliated Hospital of School of Medicine, and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, China.",
+        "College of Integrated Chinese and Western Medicine, Changchun University of Chinese Medicine, Changchun, China.",
+        "College of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun, China.",
+        "College of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun, China.",
+        "College of Integrated Chinese and Western Medicine, Changchun University of Chinese Medicine, Changchun, China.",
+        "Department of Otolaryngology-Head and Neck Surgery, The People's Hospital of Jilin Province, Changchun, Jilin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tian, Meihui",
+        "short_name": "Tian M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Traditional Chinese Medicine Rehabilitation, the Fourth Affiliated Hospital of School of Medicine, and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yurong",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Integrated Chinese and Western Medicine, Changchun University of Chinese Medicine, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Weifang",
+        "short_name": "Sun W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yanan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Yong",
+        "short_name": "Tang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Integrated Chinese and Western Medicine, Changchun University of Chinese Medicine, Changchun, China.",
+          "Department of Otolaryngology-Head and Neck Surgery, The People's Hospital of Jilin Province, Changchun, Jilin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 05:30",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42851337",
+      "42576455",
+      "40010305",
+      "42294648",
+      "41248567",
+      "41453546",
+      "41814794",
+      "42442028",
+      "38764116",
+      "42167662",
+      "41724289",
+      "38294580",
+      "41197341",
+      "40330488",
+      "37268931",
+      "40929881",
+      "41619556",
+      "40967489",
+      "42322763",
+      "39788168",
+      "41570783",
+      "40252436",
+      "41564978",
+      "42076830",
+      "41961352",
+      "40578039",
+      "41693711",
+      "42694414",
+      "39053712",
+      "41274524",
+      "41389887",
+      "41482090",
+      "40738272",
+      "31669322",
+      "41435605",
+      "39450979",
+      "40339554",
+      "42025932",
+      "39991674",
+      "42725847",
+      "41246313",
+      "41980519",
+      "40243180",
+      "42600364",
+      "36030029",
+      "42664589",
+      "33900898",
+      "42061564",
+      "42580142",
+      "40252438",
+      "38388914",
+      "39608616",
+      "41951765",
+      "39396403",
+      "38580189",
+      "36350155",
+      "41763137",
+      "39285614",
+      "41728110",
+      "42697497",
+      "39708983",
+      "41946054",
+      "38697408",
+      "39662954",
+      "41864553",
+      "34634365",
+      "42468639",
+      "39133675",
+      "38670405",
+      "40158828",
+      "39566389",
+      "41485254",
+      "40120702",
+      "42653372",
+      "41717446",
+      "41800819",
+      "42349815",
+      "41812936",
+      "40242025",
+      "40815948",
+      "40350306",
+      "42236769",
+      "32585604",
+      "42196377",
+      "40253799",
+      "35085745",
+      "41876031",
+      "42173417",
+      "41932472",
+      "41694373",
+      "40674913",
+      "41541602",
+      "42570804",
+      "39180692",
+      "42632319",
+      "37186201",
+      "40815011",
+      "40754029",
+      "39043352",
+      "39201342"
+    ],
+    "review": [
+      "42851337",
+      "42061564"
+    ],
+    "pmc": [
+      "13645522"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

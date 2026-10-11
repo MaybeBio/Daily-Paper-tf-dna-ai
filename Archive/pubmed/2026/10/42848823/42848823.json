@@ -1,0 +1,223 @@
+{
+  "identity": {
+    "pmid": "42848823",
+    "doi": "10.1371/journal.pbio.3004038",
+    "title": "Type III effectors of symbiotic Rhizobia include diverse predicted transcriptional and post-transcriptional modulators."
+  },
+  "content": {
+    "abstract": "Rhizobia are soil bacteria that establish nitrogen-fixing symbioses with legumes. While many rhizobia use a Type III Secretion System to deliver \"Nodulation Outer Protein\" (Nop) effectors, some uniquely use these proteins to initiate nodule organogenesis, bypassing classical signalling. The molecular functions of these effectors remain largely unknown due to extreme sequence divergence. Using AlphaFold2-mediated structural proteomics, we identified a modular architecture in rhizobial effectors composed of 22 distinct structural units. We reveal that many Nop effectors are cryptic transcriptional or post-transcriptional regulators, harbouring unrecognised nucleic acid-binding modules and RNA-dependent RNA polymerase domains. Crucially, these modules are conserved in specific plant pathogens, such as gall-inducing Pantoea, where our predicted structural units align with experimentally validated DNA-binding domains. Furthermore, we discovered the BPN (B3 and PUA-like nucleic acid binding) domain as a structural mimic of plant B3-domain transcription factors, pointing to a direct mechanism for hijacking legume development. Our findings strongly suggest that rhizobia employ a modular domain-fusion strategy to act as direct genetic modulators, uncovering a conserved mechanism used by both symbionts and pathogens to hijack host developmental programmes.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Teulet, Albin",
+        "Schornack, Sebastian"
+      ],
+      "short_names": [
+        "Teulet A",
+        "Schornack S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3188-7260",
+        "ORCID: 0000-0002-7836-5881"
+      ],
+      "affiliations": [
+        "Sainsbury Laboratory, University of Cambridge, Cambridge, United Kingdom.",
+        "PHIM Plant Health Institute, Universite de Montpellier, IRD, CIRAD, INRAE, Institut Agro, Montpellier, France.",
+        "Sainsbury Laboratory, University of Cambridge, Cambridge, United Kingdom."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Teulet, Albin",
+        "short_name": "Teulet A",
+        "identifiers": [
+          "0000-0002-3188-7260"
+        ],
+        "affiliations": [
+          "Sainsbury Laboratory, University of Cambridge, Cambridge, United Kingdom.",
+          "PHIM Plant Health Institute, Université de Montpellier, IRD, CIRAD, INRAE, Institut Agro, Montpellier, France."
+        ]
+      },
+      {
+        "full_name": "Schornack, Sebastian",
+        "short_name": "Schornack S",
+        "identifiers": [
+          "0000-0002-7836-5881"
+        ],
+        "affiliations": [
+          "Sainsbury Laboratory, University of Cambridge, Cambridge, United Kingdom."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Biol"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42848823",
+      "26341483",
+      "33479414",
+      "25422918",
+      "26191069",
+      "33300250",
+      "35395168",
+      "27208242",
+      "33874257",
+      "35164560",
+      "36232385",
+      "27373538",
+      "32095335",
+      "41055214",
+      "36367542",
+      "31863481",
+      "31591240",
+      "33608284",
+      "34163511",
+      "25052910",
+      "42379826",
+      "36633436",
+      "19270720",
+      "42658362",
+      "40545786",
+      "32392829",
+      "33471549",
+      "28711576",
+      "42405792",
+      "30989446",
+      "34962095",
+      "22334517",
+      "27316960",
+      "35414717",
+      "27793823",
+      "23741336",
+      "19933107",
+      "19776163",
+      "31543454",
+      "26432878",
+      "31900357",
+      "24934080",
+      "38739430",
+      "39865396",
+      "12510586",
+      "20937853",
+      "33329456",
+      "29240711",
+      "40778777",
+      "40958419",
+      "40641649",
+      "32117343",
+      "37775072",
+      "36316454",
+      "11812174",
+      "24736593",
+      "32164262",
+      "31182497",
+      "29717018",
+      "24082124",
+      "24528861",
+      "41093569",
+      "28346361",
+      "35416699",
+      "41858307",
+      "28765224",
+      "41213871",
+      "23555278",
+      "21109563",
+      "24723933",
+      "20205931",
+      "35543503",
+      "22880057",
+      "39846764",
+      "29495432",
+      "34961125",
+      "20122221",
+      "29452030",
+      "23126265",
+      "38069142",
+      "42262896",
+      "40142410",
+      "37653881",
+      "27986730",
+      "24346350",
+      "34700374",
+      "42842926",
+      "34966395",
+      "10863362",
+      "38542415",
+      "30952658",
+      "35852362",
+      "26116977",
+      "33359013",
+      "25805123",
+      "32376762",
+      "30416059",
+      "32555346",
+      "29403508",
+      "35056636"
+    ],
+    "review": [
+      "42848823",
+      "26341483",
+      "26191069",
+      "33300250",
+      "35395168",
+      "36232385",
+      "36367542",
+      "25052910",
+      "19270720",
+      "42658362",
+      "33471549",
+      "34962095",
+      "12510586",
+      "33329456",
+      "40641649",
+      "37775072",
+      "24736593",
+      "32164262",
+      "28346361",
+      "24723933",
+      "29495432",
+      "34961125",
+      "40142410",
+      "37653881",
+      "10863362",
+      "26116977",
+      "25805123"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pbio.3004038",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

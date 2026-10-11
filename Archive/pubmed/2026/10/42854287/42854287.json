@@ -1,0 +1,374 @@
+{
+  "identity": {
+    "pmid": "42854287",
+    "doi": "10.1016/j.forsciint.2026.113158",
+    "title": "Autophagy-lysosomal related protein, TFEB, may serve as a biomarker of mechanical asphyxia: A primary study."
+  },
+  "content": {
+    "abstract": "The postmortem diagnosis of death from mechanical asphyxia (DMA) remains challenging owing to the absence of specific morphological signs. The present study evaluated the potential of transcription factor EB (TFEB), a master regulator of the autophagy-lysosomal pathway (ALP), as a biomarker for MA. Through transcriptomic analysis, molecular docking, molecular dynamics (MD) simulations, and an SH-SY5Y cell hypoxia model, we observed that TFEB expression was upregulated and nuclear translocation was induced during the initial phase of hypoxia. Following prolonged hypoxia (24 h), however, autophagy flux arrest and lysosomal dysfunction were observed. Mechanistically, we found that tomatidine (TA) could ameliorate these dysfunctions by activating the AMPK-TFEB signalling axis. In human brain tissue samples collected during the early postmortem interval (PMI), the MA group exhibited significantly increased TFEB and LC3 expression and decreased LAMP1 expression. ROC curve analysis demonstrated high diagnostic accuracy of TFEB for MA (AUC = 0.8526). Collectively, these findings identify TFEB and ALP-associated proteins as potential molecular markers for the postmortem diagnosis of MA.",
+    "keywords": [
+      "Biomarker",
+      "Cause of death",
+      "Forensic pathology",
+      "Mechanical asphyxia",
+      "TFEB"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Weigang",
+        "Shi, Yi",
+        "Chen, Yue",
+        "Wu, Tianpu",
+        "Zhang, Zhenghui",
+        "Xu, Hongmei",
+        "Jiang, Hanfeng",
+        "Wang, Qi",
+        "Shao, Yu",
+        "Zhang, Weiyi",
+        "Li, Wencan",
+        "Tian, Lu",
+        "Zhang, Dongchuan",
+        "Xiao, Bi",
+        "Ma, Kaijun",
+        "Liao, Xinbiao",
+        "Yan, Yifeng",
+        "Wang, Lin",
+        "Chen, Long"
+      ],
+      "short_names": [
+        "Zhang W",
+        "Shi Y",
+        "Chen Y",
+        "Wu T",
+        "Zhang Z",
+        "Xu H",
+        "Jiang H",
+        "Wang Q",
+        "Shao Y",
+        "Zhang W",
+        "Li W",
+        "Tian L",
+        "Zhang D",
+        "Xiao B",
+        "Ma K",
+        "Liao X",
+        "Yan Y",
+        "Wang L",
+        "Chen L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China.",
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China.",
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China.",
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China.",
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China.",
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China.",
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China.",
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China.",
+        "Fudan University Forensic Science Center, 138 Yixueyuan Road, Shanghai, 200032, China.",
+        "Fudan University Forensic Science Center, 138 Yixueyuan Road, Shanghai, 200032, China.",
+        "Institute of Criminal Scientific Technology, Pudong Branch, Shanghai Municipal Public Security Bureau, 1800 Kangqiao Road, Shanghai, 200125, China.",
+        "Institute of Criminal Scientific Technology, Pudong Branch, Shanghai Municipal Public Security Bureau, 1800 Kangqiao Road, Shanghai, 200125, China.",
+        "Forensic Lab, Institute of Criminal Science and Technology, Shanghai Municipal Public Security Bureau, 803 North Zhongshan Road, Shanghai, 200082, China.",
+        "Forensic Lab, Institute of Criminal Science and Technology, Shanghai Municipal Public Security Bureau, 803 North Zhongshan Road, Shanghai, 200082, China.",
+        "Forensic Lab, Institute of Criminal Science and Technology, Shanghai Municipal Public Security Bureau, 803 North Zhongshan Road, Shanghai, 200082, China.",
+        "Key Laboratory of Forensic Pathology, Guangdong Provincial Public Security Department, 97 Huanghua Road, Guangzhou, 510050, China.",
+        "Department of Forensic Medicine, Anhui Medical University, Hefei, 230032, China. Electronic address: yanyifeng@ahmu.edu.cn.",
+        "School of Basic Medicine, Wannan Medical University, Wuhu, 241002, China. Electronic address: wangl0607@wnmc.edu.cn.",
+        "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China. Electronic address: chenlong@shmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Weigang",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Yi",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yue",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Tianpu",
+        "short_name": "Wu T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhenghui",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Hongmei",
+        "short_name": "Xu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Hanfeng",
+        "short_name": "Jiang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qi",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Yu",
+        "short_name": "Shao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Fudan University Forensic Science Center, 138 Yixueyuan Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Weiyi",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Fudan University Forensic Science Center, 138 Yixueyuan Road, Shanghai, 200032, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wencan",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Criminal Scientific Technology, Pudong Branch, Shanghai Municipal Public Security Bureau, 1800 Kangqiao Road, Shanghai, 200125, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Lu",
+        "short_name": "Tian L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Criminal Scientific Technology, Pudong Branch, Shanghai Municipal Public Security Bureau, 1800 Kangqiao Road, Shanghai, 200125, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Dongchuan",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "Forensic Lab, Institute of Criminal Science and Technology, Shanghai Municipal Public Security Bureau, 803 North Zhongshan Road, Shanghai, 200082, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Bi",
+        "short_name": "Xiao B",
+        "identifiers": [],
+        "affiliations": [
+          "Forensic Lab, Institute of Criminal Science and Technology, Shanghai Municipal Public Security Bureau, 803 North Zhongshan Road, Shanghai, 200082, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Kaijun",
+        "short_name": "Ma K",
+        "identifiers": [],
+        "affiliations": [
+          "Forensic Lab, Institute of Criminal Science and Technology, Shanghai Municipal Public Security Bureau, 803 North Zhongshan Road, Shanghai, 200082, China."
+        ]
+      },
+      {
+        "full_name": "Liao, Xinbiao",
+        "short_name": "Liao X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Forensic Pathology, Guangdong Provincial Public Security Department, 97 Huanghua Road, Guangzhou, 510050, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Yifeng",
+        "short_name": "Yan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Forensic Medicine, Anhui Medical University, Hefei, 230032, China. Electronic address: yanyifeng@ahmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Lin",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Wannan Medical University, Wuhu, 241002, China. Electronic address: wangl0607@wnmc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chen, Long",
+        "short_name": "Chen L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Forensic Medicine and Science, Fudan University, 131 Dong'an Road, Shanghai, 200032, China. Electronic address: chenlong@shmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Forensic science international"
+    ],
+    "journal_abbrev": [
+      "Forensic Sci Int"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 23:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42854287",
+      "31856641",
+      "33422553",
+      "38636999",
+      "30304977",
+      "30894069",
+      "31508418",
+      "38403042",
+      "39663580",
+      "33330497",
+      "42184497",
+      "33734022",
+      "36868108",
+      "39855313",
+      "42759760",
+      "42165414",
+      "39936600",
+      "42322973",
+      "31987928",
+      "37143104",
+      "42793202",
+      "40570983",
+      "42049637",
+      "38390831",
+      "35248377",
+      "29170033",
+      "31160892",
+      "28017540",
+      "40387453",
+      "30677488",
+      "35122137",
+      "37992796",
+      "28240313",
+      "36779633",
+      "34313548",
+      "36879478",
+      "30653408",
+      "38241809",
+      "37172712",
+      "30335591",
+      "36719671",
+      "26509433",
+      "42579241",
+      "42020342",
+      "35090378",
+      "42206705",
+      "34338148",
+      "39875050",
+      "32597296",
+      "40440957",
+      "30870073",
+      "29467198",
+      "40138784",
+      "42650306",
+      "36131369",
+      "41450115",
+      "42732811",
+      "36794754",
+      "39832686",
+      "42470453",
+      "38328828",
+      "41290101",
+      "32037305",
+      "42102042",
+      "38488668",
+      "39680632",
+      "30706760",
+      "39675125",
+      "28292013",
+      "33691586",
+      "33622188",
+      "35253615",
+      "35739666",
+      "27396692",
+      "34970114",
+      "37187276",
+      "37210406",
+      "42494065",
+      "41673711",
+      "42343519",
+      "42299666",
+      "39033876",
+      "36608573",
+      "39454957",
+      "36164880",
+      "33795648",
+      "31690173",
+      "39787618",
+      "37332877",
+      "41781118",
+      "27620487",
+      "42229171",
+      "28993153",
+      "41654644",
+      "30654731",
+      "35230915",
+      "32580039",
+      "38481802",
+      "39940940",
+      "29209172"
+    ],
+    "review": [
+      "42854287",
+      "42759760"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

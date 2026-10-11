@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42848291",
+    "doi": "10.1007/s12032-026-03387-3",
+    "title": "Nano-Diosmin mitigates EAC-induced renal injury through Nrf2-mediated antioxidant activation and NF-kappaB-dependent apoptotic suppression."
+  },
+  "content": {
+    "abstract": "The present study provides the first evidence of the anticancer-associated renoprotective efficacy of diosmin (DI) delivered via chitosan nanoparticles (DI-CHNPs) in mice bearing Ehrlich ascites carcinoma (EAC). Sixty female Swiss albino mice were divided into six groups: controls, DI, DI-CHNPs, EAC, EAC+DI, and EAC+DI-CHNPs. Treatments involved DI or DI-CHNPs (100 mg/kg/day) for 20 days with or without tumor induction. DI-CHNPs significantly reduced tumor burden, as evidenced by lower body weight gain, abdominal circumference, tumor volume, and viable tumor cell count, and these effects were superior to free DI. DI-CHNPs also prolonged survival and improved renal function markers (urea, creatinine, electrolytes), indicating that attenuation of tumor progression was accompanied by reduced secondary renal injury. Antioxidant defenses in kidney tissues were strengthened through increased superoxide dismutase, catalase, glutathione peroxidase activities, and reduced glutathione levels, alongside reduced malondialdehyde. DI-CHNPs activated the Nrf2/HO-1/NQO1 pathway while down-regulated the inflammatory pathways controlling genes (Tgfb 1, Nfkb 1, Il6) and pro-apoptotic markers (Bax, Caspase-3), with increased Bcl-2 expression. Histopathological and ultrastructural analyses confirmed superior renal protection compared with DI. Molecular docking provided in silico supportive evidence for DI interaction with Nrf2, NF-kappaB, caspase-3, and TGF-beta-related molecular targets involved in oxidative stress, inflammation, and apoptosis. Overall, the findings suggest that nanoparticle formulation enhanced the therapeutic performance of DI, likely through improved stability and sustained-release properties, resulting in superior antitumor efficacy and attenuation of tumor-associated renal injury.",
+    "keywords": [
+      "Apoptosis",
+      "DI-CHNPs",
+      "Diosmin-loaded chitosan nanoparticles",
+      "Ehrlich ascites carcinoma",
+      "Oxidative stress",
+      "Renoprotection"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Female",
+      "*Carcinoma, Ehrlich Tumor/drug therapy/pathology/metabolism/complications",
+      "Mice",
+      "*Apoptosis/drug effects",
+      "*Nanoparticles/administration & dosage/chemistry",
+      "*NF-kappa B/metabolism",
+      "*Antioxidants/metabolism",
+      "*NF-E2-Related Factor 2/metabolism",
+      "*Diosmin/administration & dosage/pharmacology",
+      "Oxidative Stress/drug effects",
+      "Kidney/drug effects/metabolism/pathology",
+      "Chitosan/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alshammari, Ahmad Najem",
+        "Alfawaz, Mohammed Saleh",
+        "Oraby, Fatma",
+        "Mohamed, Ahmed M",
+        "Elmorsy, Ekramy M",
+        "Mohamed, Suzan S A",
+        "Atta, Marwa M F",
+        "El-Raghi, Ali Ali"
+      ],
+      "short_names": [
+        "Alshammari AN",
+        "Alfawaz MS",
+        "Oraby F",
+        "Mohamed AM",
+        "Elmorsy EM",
+        "Mohamed SSA",
+        "Atta MMF",
+        "El-Raghi AA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Medical Laboratory Technology, College of Applied Medical Sciences, Northern Border University, 73213, Arar, Saudi Arabia.",
+        "Department of Medical Laboratory Technology, College of Applied Medical Sciences, Northern Border University, 73213, Arar, Saudi Arabia.",
+        "Departmnet of Biochmeistry, Biochemistry Dept, Faculty of Medicine, Taif University, Taif, Saudi Arabia.",
+        "Department of Pharmacology, Collage of Medicine, Taif University, 821944, Taif, Saudi Arabia.",
+        "Center for Health Research, Northern Border University, 73213, Arar, Saudi Arabia.",
+        "Faculty of Applied Health Sciences Technology, October 6 University, 6Th of October City, Egypt.",
+        "Department of Biochemistry, Faculty of Veterinary Medicine, Egyptian Chinese University, Cairo, Egypt.",
+        "Department of Animal, Poultry, and Fish Production, Faculty of Agriculture, Damietta University, Damietta, 34517, Egypt. ali21384@yahoo.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Alshammari, Ahmad Najem",
+        "short_name": "Alshammari AN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory Technology, College of Applied Medical Sciences, Northern Border University, 73213, Arar, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alfawaz, Mohammed Saleh",
+        "short_name": "Alfawaz MS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory Technology, College of Applied Medical Sciences, Northern Border University, 73213, Arar, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Oraby, Fatma",
+        "short_name": "Oraby F",
+        "identifiers": [],
+        "affiliations": [
+          "Departmnet of Biochmeistry, Biochemistry Dept, Faculty of Medicine, Taif University, Taif, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Mohamed, Ahmed M",
+        "short_name": "Mohamed AM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Collage of Medicine, Taif University, 821944, Taif, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Elmorsy, Ekramy M",
+        "short_name": "Elmorsy EM",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Health Research, Northern Border University, 73213, Arar, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Mohamed, Suzan S A",
+        "short_name": "Mohamed SSA",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Applied Health Sciences Technology, October 6 University, 6Th of October City, Egypt."
+        ]
+      },
+      {
+        "full_name": "Atta, Marwa M F",
+        "short_name": "Atta MMF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Veterinary Medicine, Egyptian Chinese University, Cairo, Egypt."
+        ]
+      },
+      {
+        "full_name": "El-Raghi, Ali Ali",
+        "short_name": "El-Raghi AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal, Poultry, and Fish Production, Faculty of Agriculture, Damietta University, Damietta, 34517, Egypt. ali21384@yahoo.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Medical oncology (Northwood, London, England)"
+    ],
+    "journal_abbrev": [
+      "Med Oncol"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42848291",
+      "41528659",
+      "42310631",
+      "41326498",
+      "42087761",
+      "41784154",
+      "42072638",
+      "40850999",
+      "41291551",
+      "41301523",
+      "42478942",
+      "42224433",
+      "41579686",
+      "28686978",
+      "40519680",
+      "41028079",
+      "38722343",
+      "40580310",
+      "24231097",
+      "41361550",
+      "40360040",
+      "41288680",
+      "42116251",
+      "42001682",
+      "40742471",
+      "41683695",
+      "29694984",
+      "42283841",
+      "28115850",
+      "42546171",
+      "42589699",
+      "41812900",
+      "42325070",
+      "24246655",
+      "38458086",
+      "39885380",
+      "41396268",
+      "41958068",
+      "41815014",
+      "39952491",
+      "40185468",
+      "29490296",
+      "37512162",
+      "34400143",
+      "28750561",
+      "35068213",
+      "41978439",
+      "41024653",
+      "42356489",
+      "42793138",
+      "40956366",
+      "41109593",
+      "42571671",
+      "26222683",
+      "38865040",
+      "42359648",
+      "23070905",
+      "21819262",
+      "30575936",
+      "42794613",
+      "36081452",
+      "38909496",
+      "30915694",
+      "41644788",
+      "41047055",
+      "41192695",
+      "38098043",
+      "42249096",
+      "22545421",
+      "41967794",
+      "40494130",
+      "34118341",
+      "42775776",
+      "40543693",
+      "41143955",
+      "31197431",
+      "39307685",
+      "42139898",
+      "27940053",
+      "42533454",
+      "34653663",
+      "35444229",
+      "28558962",
+      "42085954",
+      "41346077",
+      "42693857",
+      "38468376",
+      "40664265",
+      "39959927",
+      "41578131",
+      "41268766",
+      "31441362",
+      "34224820",
+      "40017009",
+      "41229372",
+      "25488130",
+      "42208177",
+      "40143539",
+      "38368905",
+      "38005304"
+    ],
+    "review": [
+      "42848291"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/antioxidants.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antioxidants"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s12032-026-03387-3",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CASP3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4052",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

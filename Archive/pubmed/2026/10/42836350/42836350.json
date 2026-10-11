@@ -1,0 +1,257 @@
+{
+  "identity": {
+    "pmid": "42836350",
+    "doi": "10.1021/acsabm.6c01554",
+    "title": "Aloe-Emodin Interaction Study with Human Telomeric G-Quadruplex DNA under K+ and Na+ Conditions."
+  },
+  "content": {
+    "abstract": "Aloe-emodin (AED), a naturally occurring anthraquinone, was examined for its interaction with two model human telomeric G-quadruplex systems: wHTel26 adopting a hybrid-2 topology in K+-containing buffer and HTel22 adopting an antiparallel basket topology in Na+-containing buffer. UV-visible absorption, fluorescence, and circular dichroism spectroscopy showed concentration-dependent changes consistent with AED association with both G4 models. The apparent binding constants varied among the analytical techniques, spanning approximately 103 M-1-105 M-1, reflecting the distinct optical and conformational observables monitored by each method and the non-linear nature of the titration profiles. The limited wavelength shifts and preservation of the major CD signatures were consistent with a non-intercalative interaction, although the precise binding geometry and stoichiometry could not be resolved. AED produced an apparent thermal stabilization of approximately 14  degrees C for wHTel26 under the tested K+ condition, whereas no comparable stabilization was observed for HTel22 under the tested Na+ condition. Because the systems differed simultaneously in sequence, flanking residues, topology, and cation, this difference cannot be attributed solely to the ionic environment. Docking generated plausible AED association poses was used only as supportive, hypothesis-generating evidence. AED also reduced MCF-7 metabolic viability with an estimated IC50 of 18.82 microM; however, telomerase inhibition and intracellular G4 target engagement were not investigated. Thus, establishing sequence- and cation-controlled G4 selectivity and confirming intracellular target engagement remain important challenges. Future studies employing matched-sequence/cross-cation comparisons, direct cellular G4-target engagement, and telomerase-based mechanistic assays will be required to establish the molecular and biological significance of AED-G4 interactions.",
+    "keywords": [
+      "DNA binding",
+      "G-quadruplex",
+      "G4 stabilization",
+      "aloe-emodin",
+      "molecular docking",
+      "telomeric DNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kumari, Priya",
+        "Sengar, Manish S",
+        "Pandav, Kumud",
+        "Barthwal, Ritu",
+        "Kumar, Surat",
+        "Chandel, Arvind K Singh"
+      ],
+      "short_names": [
+        "Kumari P",
+        "Sengar MS",
+        "Pandav K",
+        "Barthwal R",
+        "Kumar S",
+        "Chandel AKS"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6426-2400",
+        "ORCID: 0000-0002-5410-9904",
+        "ORCID: 0000-0002-4513-1739",
+        "ORCID: 0000-0001-8829-3028",
+        "ORCID: 0000-0002-7130-7734"
+      ],
+      "affiliations": [
+        "Drug DNA Binding Laboratory, Department of Chemistry, Dayalbagh Educational Institute, Dayalbagh, Agra282005, India.",
+        "Department of Chemistry, Indian Institute of Technology, Kanpur208016, India.",
+        "Laboratory for Life Sciences and Technology (LiST), Faculty of Medicine and Dentistry, Danube Private University, Krems3500, Austria.",
+        "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Drug DNA Binding Laboratory, Department of Chemistry, Dayalbagh Educational Institute, Dayalbagh, Agra282005, India.",
+        "Bernal Institute, University of Limerick, LimerickV94 T9PX, Ireland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kumari, Priya",
+        "short_name": "Kumari P",
+        "identifiers": [
+          "0000-0002-6426-2400"
+        ],
+        "affiliations": [
+          "Drug DNA Binding Laboratory, Department of Chemistry, Dayalbagh Educational Institute, Dayalbagh, Agra282005, India.",
+          "Department of Chemistry, Indian Institute of Technology, Kanpur208016, India."
+        ]
+      },
+      {
+        "full_name": "Sengar, Manish S",
+        "short_name": "Sengar MS",
+        "identifiers": [
+          "0000-0002-5410-9904"
+        ],
+        "affiliations": [
+          "Laboratory for Life Sciences and Technology (LiST), Faculty of Medicine and Dentistry, Danube Private University, Krems3500, Austria."
+        ]
+      },
+      {
+        "full_name": "Pandav, Kumud",
+        "short_name": "Pandav K",
+        "identifiers": [
+          "0000-0002-4513-1739"
+        ],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Barthwal, Ritu",
+        "short_name": "Barthwal R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Kumar, Surat",
+        "short_name": "Kumar S",
+        "identifiers": [
+          "0000-0001-8829-3028"
+        ],
+        "affiliations": [
+          "Drug DNA Binding Laboratory, Department of Chemistry, Dayalbagh Educational Institute, Dayalbagh, Agra282005, India."
+        ]
+      },
+      {
+        "full_name": "Chandel, Arvind K Singh",
+        "short_name": "Chandel AKS",
+        "identifiers": [
+          "0000-0002-7130-7734"
+        ],
+        "affiliations": [
+          "Bernal Institute, University of Limerick, LimerickV94 T9PX, Ireland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS applied bio materials"
+    ],
+    "journal_abbrev": [
+      "ACS Appl Bio Mater"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 11:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42836350",
+      "38174595",
+      "40576743",
+      "42437278",
+      "33166559",
+      "30513661",
+      "31421170",
+      "16714449",
+      "27865994",
+      "31010072",
+      "26363462",
+      "39853099",
+      "2021636",
+      "41418964",
+      "29607778",
+      "37709220",
+      "38312345",
+      "36041576",
+      "26172836",
+      "38981290",
+      "28476011",
+      "38875355",
+      "34968256",
+      "1731941",
+      "31685331",
+      "8504107",
+      "15984871",
+      "22816788",
+      "36043100",
+      "36476719",
+      "34904892",
+      "42095640",
+      "26762575",
+      "28479277",
+      "30346761",
+      "42074067",
+      "9398273",
+      "35455044",
+      "24476914",
+      "24996049",
+      "17719085",
+      "34213273",
+      "36437795",
+      "12696891",
+      "28737386",
+      "25450185",
+      "31071547",
+      "29309865",
+      "29611599",
+      "19961180",
+      "26867976",
+      "23333713",
+      "31759020",
+      "24939133",
+      "23912807",
+      "28025082",
+      "31793724",
+      "25181397",
+      "41953945",
+      "23999095",
+      "18688502",
+      "32302880",
+      "29888501",
+      "41386043",
+      "39065762",
+      "34015406",
+      "28054120",
+      "19577954",
+      "31244096",
+      "41386029",
+      "17626043",
+      "27902935",
+      "19440632",
+      "27838396",
+      "25620220",
+      "24858349",
+      "19717545",
+      "37918592",
+      "26808196",
+      "34308065",
+      "19824637",
+      "36103341",
+      "33463477",
+      "29458089",
+      "30840852",
+      "34259614",
+      "42475469",
+      "26997208",
+      "24487181",
+      "17705383",
+      "42208840",
+      "31202994",
+      "26678174",
+      "20536245",
+      "32596589",
+      "32033198",
+      "34152657",
+      "35248982",
+      "22558271",
+      "31940851"
+    ],
+    "review": [
+      "42836350"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/aabmcb/article-lookup/doi/10.1021/acsabm.6c01554",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

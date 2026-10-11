@@ -1,0 +1,338 @@
+{
+  "identity": {
+    "pmid": "42851081",
+    "doi": "10.1111/1744-7917.70373",
+    "title": "A nuclear receptor PcHR96h regulates ABC transporters involved in spirodiclofen resistance in Panonychus citri."
+  },
+  "content": {
+    "abstract": "Transcription factors are known to regulate detoxification gene expression and contribute to resistance to insecticides and acaricides in arthropods. Our previous study revealed that the nuclear hormone receptor PcHR96h is associated with spirodiclofen resistance in Panonychus citri, but its regulatory mechanism remains unclear. Here, we used DAP-seq to identify genome-wide targets of PcHR96h and found that ABC transporter genes were significantly enriched. Dual-luciferase, yeast one-hybrid, and EMSA assays verified that PcHR96h directly binds to the promoters of PcABCA2 and PcABCB2. Functional validation via RNAi, subcellular localization, cytotoxicity tests, and molecular docking further confirmed that these two ABC transporters participate in spirodiclofen resistance. This study demonstrates that PcHR96h regulates specific ABC transporters involved in spirodiclofen resistance in P. citri, providing new insights into HR96-driven detoxification and acaricide resistance.",
+    "keywords": [
+      "ABC transporters",
+      "Panonychus citri",
+      "nuclear receptor",
+      "spirodiclofen resistance",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Sichen",
+        "Yu, Shijiang",
+        "Yang, Qiqi",
+        "Huang, Zehao",
+        "Li, Yang",
+        "Wang, Mengxia",
+        "Huang, Meiyi",
+        "Fu, Shijun",
+        "Wu, Zhen",
+        "Liu, Liu",
+        "Pan, Qi",
+        "Zhang, Wei",
+        "Liu, Haoqiang",
+        "Cong, Lin",
+        "Ran, Chun"
+      ],
+      "short_names": [
+        "Li S",
+        "Yu S",
+        "Yang Q",
+        "Huang Z",
+        "Li Y",
+        "Wang M",
+        "Huang M",
+        "Fu S",
+        "Wu Z",
+        "Liu L",
+        "Pan Q",
+        "Zhang W",
+        "Liu H",
+        "Cong L",
+        "Ran C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8302-9188"
+      ],
+      "affiliations": [
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Chongqing Kaizhou District Modern Agricultural Development Service Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China.",
+        "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Sichen",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Shijiang",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Qiqi",
+        "short_name": "Yang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Zehao",
+        "short_name": "Huang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Mengxia",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Meiyi",
+        "short_name": "Huang M",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Shijun",
+        "short_name": "Fu S",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Kaizhou District Modern Agricultural Development Service Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Zhen",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Liu",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Qi",
+        "short_name": "Pan Q",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wei",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Haoqiang",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Cong, Lin",
+        "short_name": "Cong L",
+        "identifiers": [],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Ran, Chun",
+        "short_name": "Ran C",
+        "identifiers": [
+          "0000-0002-8302-9188"
+        ],
+        "affiliations": [
+          "Citrus Research Institute, Southwest University, National Citrus Engineering Research Center, Chongqing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Insect science"
+    ],
+    "journal_abbrev": [
+      "Insect Sci"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 05:30",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42851081",
+      "38879306",
+      "41367105",
+      "42257625",
+      "36354837",
+      "40561500",
+      "39054269",
+      "41450265",
+      "26581334",
+      "32419680",
+      "34223705",
+      "39887928",
+      "41831897",
+      "22102515",
+      "31004937",
+      "21520486",
+      "39344807",
+      "37683749",
+      "22676046",
+      "41162023",
+      "23404785",
+      "26855383",
+      "38529524",
+      "38847112",
+      "23523619",
+      "35538494",
+      "20540074",
+      "39411835",
+      "38255901",
+      "30897799",
+      "31583806",
+      "33838715",
+      "42237131",
+      "41461425",
+      "29651254",
+      "41587351",
+      "30018104",
+      "40004208",
+      "39324440",
+      "38286058",
+      "42747573",
+      "40306507",
+      "31676883",
+      "42829199",
+      "37889506",
+      "40423860",
+      "34472702",
+      "31254664",
+      "27521916",
+      "31740345",
+      "19170251",
+      "42472608",
+      "37650774",
+      "34983008",
+      "32284140",
+      "27678067",
+      "33933003",
+      "40869167",
+      "39091106",
+      "32527432",
+      "24351815",
+      "41787595",
+      "38048568",
+      "25761976",
+      "36194468",
+      "21932399",
+      "35410476",
+      "36522839",
+      "29068552",
+      "27548163",
+      "32406167",
+      "41326080",
+      "33114558",
+      "40171483",
+      "33089887",
+      "19383151",
+      "15590837",
+      "24291285",
+      "42119893",
+      "39432018",
+      "37708138",
+      "21734725",
+      "40015849",
+      "32277324",
+      "15832810",
+      "35726920",
+      "24956999",
+      "38347517",
+      "35643224",
+      "39468238",
+      "28951207",
+      "20233711",
+      "21696458",
+      "36318043",
+      "25073980",
+      "28494332",
+      "21693596",
+      "21665979",
+      "36464369",
+      "32630416"
+    ],
+    "review": [
+      "42851081",
+      "26855383",
+      "33838715",
+      "39091106",
+      "33089887",
+      "24291285"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

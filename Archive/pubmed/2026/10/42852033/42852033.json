@@ -1,0 +1,213 @@
+{
+  "identity": {
+    "pmid": "42852033",
+    "doi": "10.1021/acsomega.6c04287",
+    "title": "Position-Dependent Activation and Repression by As(III) in an Engineered BetI Transcriptional Repressor."
+  },
+  "content": {
+    "abstract": "Arsenite [As-(III)]-responsive transcriptional regulation is widely employed by microorganisms for detoxification and homeostasis. Engineering As-(III)-responsive behavior into transcription factors that are intrinsically metal-insensitive remains challenging. Here, we introduced a third cysteine residue at different positions in the engineered BetI(L79C/Q81C) scaffold and evaluated the resulting whole-cell sfGFP reporter responses. The magnitude and direction of the As-(III)-dependent reporter change varied with the position of the introduced cysteine. Under combined As-(III) and choline inputs, selected variants exhibited operational OR-like or As-(III)-inhibited reporter-output patterns over defined concentration ranges. To explore possible structural interpretations for these reporter phenotypes, we performed molecular dynamics simulations using predefined dithiol- and trithiol-coordination models. Simulations of these models yielded distinct fluctuation patterns in the DNA-binding domain, providing testable structural hypotheses for the observed reporter phenotypes. Because neither As-(III) binding to the engineered cysteine sites nor As-(III)-dependent changes in BetI-DNA binding were directly measured, the reporter assays and simulations do not establish the underlying molecular mechanism. Nevertheless, our experiments show that cysteine placement can tune the direction of As-(III)-dependent whole-cell sfGFP output in an engineered BetI regulatory system and thereby expand the design space for multi-input transcriptional devices.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kamiya, Katsumasa",
+        "Yamaguchi, Ryo",
+        "Shimizu, Kojiro",
+        "Kawai-Noma, Shigeko"
+      ],
+      "short_names": [
+        "Kamiya K",
+        "Yamaguchi R",
+        "Shimizu K",
+        "Kawai-Noma S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4753-7652"
+      ],
+      "affiliations": [
+        "Center for Basic Education and Integrated Learning, Kanagawa Institute of Technology, Atsugi, Kanagawa 243-0292, Japan. RINGGOLD: 12852",
+        "Department of Applied Chemistry and Biotechnology, Chiba University, Chiba 263-8522, Japan. RINGGOLD: 12737",
+        "Department of Applied Chemistry and Biotechnology, Chiba University, Chiba 263-8522, Japan. RINGGOLD: 12737",
+        "Department of Applied Chemistry and Biotechnology, Chiba University, Chiba 263-8522, Japan. RINGGOLD: 12737"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kamiya, Katsumasa",
+        "short_name": "Kamiya K",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Basic Education and Integrated Learning, Kanagawa Institute of Technology, Atsugi, Kanagawa 243-0292, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamaguchi, Ryo",
+        "short_name": "Yamaguchi R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Chemistry and Biotechnology, Chiba University, Chiba 263-8522, Japan."
+        ]
+      },
+      {
+        "full_name": "Shimizu, Kojiro",
+        "short_name": "Shimizu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Chemistry and Biotechnology, Chiba University, Chiba 263-8522, Japan."
+        ]
+      },
+      {
+        "full_name": "Kawai-Noma, Shigeko",
+        "short_name": "Kawai-Noma S",
+        "identifiers": [
+          "0000-0002-4753-7652"
+        ],
+        "affiliations": [
+          "Department of Applied Chemistry and Biotechnology, Chiba University, Chiba 263-8522, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42852033",
+      "38617678",
+      "42475469",
+      "41427918",
+      "11501753",
+      "38585983",
+      "42219294",
+      "15819625",
+      "23912807",
+      "8626294",
+      "14660588",
+      "10395912",
+      "38768919",
+      "10866659",
+      "12906115",
+      "42777255",
+      "8816491",
+      "11018254",
+      "42478686",
+      "16483601",
+      "1922363",
+      "11532136",
+      "28196871",
+      "15377655",
+      "36321557",
+      "34132193",
+      "2661542",
+      "1708098",
+      "11454208",
+      "10567553",
+      "12054863",
+      "35856564",
+      "34688814",
+      "12890668",
+      "11703459",
+      "28517938",
+      "8626295",
+      "14610091",
+      "12791684",
+      "33910388",
+      "10348859",
+      "7651419",
+      "9774683",
+      "42055734",
+      "11059777",
+      "41340712",
+      "35685361",
+      "12930829",
+      "9211788",
+      "7610056",
+      "20641191",
+      "1324404",
+      "15496401",
+      "42825576",
+      "9870870",
+      "31155049",
+      "35880613",
+      "11278408",
+      "40894752",
+      "9278146",
+      "34613763",
+      "12391222",
+      "2040605",
+      "26344835",
+      "9544704",
+      "10982806",
+      "11697898",
+      "12939264",
+      "1639815",
+      "11133951",
+      "40277364",
+      "10599447",
+      "8662980",
+      "18261202",
+      "25161193",
+      "8628257",
+      "8932384",
+      "22594825",
+      "31354664",
+      "42578755",
+      "39998267",
+      "16954381",
+      "32819598",
+      "16158234",
+      "9614080",
+      "1323841",
+      "41616830",
+      "41959049",
+      "34369028",
+      "10082554",
+      "40446511",
+      "14996817",
+      "7579328",
+      "27058369",
+      "12161428",
+      "9308366",
+      "24380858",
+      "25561495",
+      "7494479",
+      "10684299"
+    ],
+    "review": [
+      "42852033",
+      "41427918",
+      "36321557",
+      "20641191",
+      "10599447",
+      "16158234"
+    ],
+    "pmc": [
+      "13648067"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

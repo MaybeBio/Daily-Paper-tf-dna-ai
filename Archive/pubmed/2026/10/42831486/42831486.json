@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42831486",
+    "doi": "10.1002/ajp.70208",
+    "title": "Inferring the Landscapes of Mutation and Recombination in the Common Marmoset (Callithrix jacchus) in the Presence of Twinning and Hematopoietic Chimerism."
+  },
+  "content": {
+    "abstract": "The common marmoset (Callithrix jacchus) is one of the most commonly used nonhuman primate models in biomedical research. Yet, the population genomics of the species remains relatively poorly characterized, despite the critical importance of this knowledge in many areas of research including genome-wide association studies, models of polygenic risk scores, and scans for the targets of selection. This neglect owes, at least in part, to two biological peculiarities related to the reproductive mode of the species-frequent twinning and sibling chimerism-which are likely to affect standard population genetic approaches relying on assumptions underlying the Wright-Fisher model. Using high-quality population genomic data, we here infer the rates and landscapes of mutation and recombination-two fundamental processes dictating the levels and patterns of genetic variability-in the presence of these biological features, and discuss our findings in light of recent work in primates. Our results suggest that, while the species exhibits relatively low neutral mutation rates, rates of recombination are in the range of those observed in other anthropoids. Moreover, the recombination landscape of common marmosets, like that of many vertebrates, appears dominated by PRDM9-mediated hotspots, with artificial intelligence-based models predicting an intricate 3D-structure of the species-specific PRDM9-DNA binding complex in silico. Apart from providing novel insights into the population genetics of common marmosets, given the importance of the availability of fine-scale maps of mutation and recombination for evolutionary inference, this work will also serve as a valuable resource to aid future genomic research in this widely studied system.",
+    "keywords": [
+      "Callitrichidae",
+      "mutation",
+      "neutral divergence",
+      "platyrrhine",
+      "primate",
+      "recombination"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Recombination, Genetic",
+      "*Callithrix/genetics",
+      "*Mutation",
+      "*Chimerism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Soni, Vivak",
+        "Versoza, Cyril J",
+        "Jensen, Jeffrey D",
+        "Pfeifer, Susanne P"
+      ],
+      "short_names": [
+        "Soni V",
+        "Versoza CJ",
+        "Jensen JD",
+        "Pfeifer SP"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9496-9562",
+        "ORCID: 0000-0002-4786-8064",
+        "ORCID: 0000-0003-1378-2913"
+      ],
+      "affiliations": [
+        "School of Life Sciences, Center for Evolution and Medicine, Arizona State University, Tempe, Arizona, USA.",
+        "School of Life Sciences, Center for Evolution and Medicine, Arizona State University, Tempe, Arizona, USA.",
+        "School of Life Sciences, Center for Evolution and Medicine, Arizona State University, Tempe, Arizona, USA.",
+        "School of Life Sciences, Center for Evolution and Medicine, Arizona State University, Tempe, Arizona, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Soni, Vivak",
+        "short_name": "Soni V",
+        "identifiers": [
+          "0000-0002-9496-9562"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Center for Evolution and Medicine, Arizona State University, Tempe, Arizona, USA."
+        ]
+      },
+      {
+        "full_name": "Versoza, Cyril J",
+        "short_name": "Versoza CJ",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Center for Evolution and Medicine, Arizona State University, Tempe, Arizona, USA."
+        ]
+      },
+      {
+        "full_name": "Jensen, Jeffrey D",
+        "short_name": "Jensen JD",
+        "identifiers": [
+          "0000-0002-4786-8064"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Center for Evolution and Medicine, Arizona State University, Tempe, Arizona, USA."
+        ]
+      },
+      {
+        "full_name": "Pfeifer, Susanne P",
+        "short_name": "Pfeifer SP",
+        "identifiers": [
+          "0000-0003-1378-2913"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Center for Evolution and Medicine, Arizona State University, Tempe, Arizona, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "American journal of primatology"
+    ],
+    "journal_abbrev": [
+      "Am J Primatol"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 11:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42831486",
+      "40631263",
+      "42574666",
+      "41062776",
+      "42620207",
+      "40418732",
+      "42475469",
+      "40631319",
+      "42481679",
+      "37501399",
+      "42483966",
+      "39990399",
+      "22429831",
+      "41648104",
+      "42244585",
+      "38137007",
+      "38655843",
+      "24411773",
+      "41195497",
+      "42598888",
+      "41648345",
+      "34340536",
+      "27762445",
+      "41190314",
+      "9751736",
+      "33910227",
+      "12597440",
+      "25038751",
+      "16193499",
+      "24379383",
+      "39763842",
+      "42239261",
+      "23099234",
+      "29267796",
+      "22323619",
+      "40855837",
+      "25186076",
+      "40808669",
+      "34933341",
+      "33823806",
+      "31926008",
+      "27521158",
+      "24387631",
+      "38242694",
+      "25805040",
+      "10327648",
+      "31028697",
+      "29109226",
+      "39304843",
+      "32233086",
+      "28400103",
+      "37449983",
+      "24977701",
+      "37276391",
+      "34499149",
+      "21505866",
+      "38975760",
+      "39466838",
+      "37451508",
+      "32241258",
+      "41474552",
+      "40402827",
+      "23079417",
+      "34878100",
+      "28215819",
+      "14524414",
+      "37398408",
+      "33063253",
+      "17389380",
+      "23658715",
+      "42747432",
+      "12753228",
+      "42262248",
+      "32211856",
+      "27498400",
+      "39436318",
+      "17487879",
+      "26502294",
+      "33119236",
+      "40596780",
+      "39761307",
+      "42348616",
+      "29263029",
+      "38465237",
+      "32349675",
+      "17513764",
+      "34552144",
+      "35535728",
+      "28203717",
+      "39790013",
+      "38207127",
+      "38513632",
+      "19121221",
+      "25683292",
+      "33058346",
+      "36508360",
+      "38809707",
+      "19696495",
+      "30335584",
+      "27450742"
+    ],
+    "review": [
+      "42831486",
+      "12597440",
+      "16193499",
+      "24387631",
+      "14524414",
+      "26502294",
+      "33119236",
+      "38465237",
+      "28203717"
+    ],
+    "pmc": [
+      "13636626"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/ajp.70208",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "identity": {
+    "pmid": "42832089",
+    "doi": "10.1007/s10735-026-11000-0",
+    "title": "Apigenin attenuates MASLD progression by suppressing lipogenesis and macrophage M1-like inflammatory activation: involvement of SMAD4-associated signaling."
+  },
+  "content": {
+    "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterized by dysregulated hepatic lipid metabolism and persistent inflammatory remodeling. Apigenin has lipid-regulatory and anti-inflammatory activities, but the molecular basis linking these effects remains incompletely understood. This study investigated whether SMAD4-associated signaling contributes to the coordinated regulation of hepatocyte lipogenesis and macrophage inflammatory activation by apigenin. C57BL/6J mice were fed a high-fat diet (HFD) to establish MASLD and treated with apigenin. Palmitic acid (PA)-treated HepG2 cells and lipopolysaccharide (LPS)-stimulated RAW264.7 macrophages were used as complementary in vitro models. Hepatic lipid accumulation, inflammatory responses, macrophage phenotype, and SMAD4-associated signaling were evaluated using biochemical assays, histological staining, ELISA, RT-qPCR, Western blotting, immunohistochemistry, and immunofluorescence. Molecular docking was used to predict the potential interaction between apigenin and SMAD4, a cellular thermal shift assay (CETSA) was performed in HepG2 cells to assess cellular target engagement of SMAD4 by apigenin, and SMAD4/Smad4 overexpression was used to evaluate functional involvement. Apigenin alleviated HFD-induced liver injury, dyslipidemia, and hepatic lipid deposition and suppressed the SREBP-1c/FAS/ACC lipogenic program in mouse liver and PA-treated HepG2 cells. Apigenin also reduced hepatic CD68-positive macrophage accumulation, decreased CD86 and iNOS expression and pro-inflammatory cytokine levels, and attenuated M1-like inflammatory activation in vivo and in LPS-stimulated RAW264.7 macrophages. Molecular docking predicted a favorable interaction between apigenin and SMAD4, while CETSA demonstrated increased thermal stability of SMAD4 following apigenin exposure in HepG2 cells, supporting cellular target engagement in this cellular context. Apigenin further attenuated SMAD4-associated signaling, whereas SMAD4/Smad4 overexpression partially counteracted its anti-lipogenic and anti-inflammatory effects in HepG2 cells and RAW264.7 macrophages, respectively. These findings indicate that apigenin alleviates HFD-induced MASLD by coordinately suppressing hepatocellular lipogenesis and macrophage-associated inflammatory activation and suggest that SMAD4-associated signaling contributes to these metabolic and inflammatory effects.",
+    "keywords": [
+      "Apigenin",
+      "Inflammation",
+      "Lipogenesis",
+      "Macrophage M1-like inflammatory activation",
+      "Metabolic dysfunction-associated steatotic liver disease",
+      "SMAD4"
+    ],
+    "mesh_terms": [
+      "*Smad4 Protein/metabolism",
+      "*Lipogenesis/drug effects",
+      "Animals",
+      "Humans",
+      "*Apigenin/pharmacology/therapeutic use",
+      "*Signal Transduction/drug effects",
+      "Mice",
+      "Mice, Inbred C57BL",
+      "*Macrophages/drug effects/metabolism",
+      "Hep G2 Cells",
+      "Male",
+      "RAW 264.7 Cells",
+      "Inflammation/metabolism/pathology",
+      "*Macrophage Activation/drug effects",
+      "Diet, High-Fat/adverse effects",
+      "Disease Progression",
+      "*Fatty Liver/drug therapy/pathology/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cao, Lijun",
+        "Zhao, Yongna",
+        "Li, Ping"
+      ],
+      "short_names": [
+        "Cao L",
+        "Zhao Y",
+        "Li P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Health and Smart Technology, Zhengzhou Health College, Zhengzhou, 450064, Henan, China. 15639710150@163.com.",
+        "School of Health and Smart Technology, Zhengzhou Health College, Zhengzhou, 450064, Henan, China.",
+        "School of Health and Smart Technology, Zhengzhou Health College, Zhengzhou, 450064, Henan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cao, Lijun",
+        "short_name": "Cao L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Health and Smart Technology, Zhengzhou Health College, Zhengzhou, 450064, Henan, China. 15639710150@163.com."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yongna",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Health and Smart Technology, Zhengzhou Health College, Zhengzhou, 450064, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ping",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Health and Smart Technology, Zhengzhou Health College, Zhengzhou, 450064, Henan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular histology"
+    ],
+    "journal_abbrev": [
+      "J Mol Histol"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 17:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42832089",
+      "41478535",
+      "42617521",
+      "42782800",
+      "41139042",
+      "42276391",
+      "39082187",
+      "42404850",
+      "39479173",
+      "40613220",
+      "39892308",
+      "40507104",
+      "41077131",
+      "40581331",
+      "41990925",
+      "42123354",
+      "38331323",
+      "42385428",
+      "42247178",
+      "42340400",
+      "42522177",
+      "41962267",
+      "39965865",
+      "42215136",
+      "42649118",
+      "42283841",
+      "41134388",
+      "42288160",
+      "33509902",
+      "42161228",
+      "42394490",
+      "40146248",
+      "31083413",
+      "42197235",
+      "40307114",
+      "42067127",
+      "40272632",
+      "42235713",
+      "39890803",
+      "42085514",
+      "40782762",
+      "39991675",
+      "42112357",
+      "32863955",
+      "40467680",
+      "42543068",
+      "42807288",
+      "42064759",
+      "33647584",
+      "30668424",
+      "40170593",
+      "42523651",
+      "42259496",
+      "40706204",
+      "31569635",
+      "42119325",
+      "42702958",
+      "32128893",
+      "41699012",
+      "42780534",
+      "42811992",
+      "41033444",
+      "41991343",
+      "42778691",
+      "41746510",
+      "37562090",
+      "42197046",
+      "42770528",
+      "42134621",
+      "41579710",
+      "37952731",
+      "39357546",
+      "40474566",
+      "40772840",
+      "32579753",
+      "40522193",
+      "40674914",
+      "41270396",
+      "42097399",
+      "42200446",
+      "41792213",
+      "42409346",
+      "42823860",
+      "23258548",
+      "42503305",
+      "41465302",
+      "28449683",
+      "39805479",
+      "42372586",
+      "27609031",
+      "31754401",
+      "42315051",
+      "27343380",
+      "40188525",
+      "41622160",
+      "42520528",
+      "41656838",
+      "41865215",
+      "36641101",
+      "42067188"
+    ],
+    "review": [
+      "42832089",
+      "42385428"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/steatoticliverdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Steatotic Liver Disease"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10735-026-11000-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-FAS-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1268",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

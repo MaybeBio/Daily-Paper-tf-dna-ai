@@ -1,0 +1,126 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.05.756664",
+  "title": "The bacterial iron sensor IdeR distinguishes DNA sequences by applying stress to non-cognate DNA",
+  "doi": "10.64898/2026.10.05.756664",
+  "abstract": "<h4>ABSTRACT</h4> The transcription factor IdeR regulates iron homeostasis in many gram-positive bacteria. It primarily functions as a repressor of iron uptake genes by binding to their promoters and blocking RNA polymerase access. IdeR recognizes a highly conserved DNA sequence consisting of four palindromic 5’-C 1 C 2 T 3 A 4 A 5 repeats. For target site recognition, IdeR requires a thymine in position 3 of the repeat and at least one cytosine in the first two positions, while the identity of the bases in positions 4 and 5 is less important. We have previously shown that IdeR recognizes its target sequences through indirect or shape readout, rather than direct interactions with the bases. However, the mechanism of indirect recognition is unknown. Here we employed molecular dynamics simulations, X-ray crystallography, and DNA-binding assays to investigate the thermodynamic principles underlying accurate pyrimidine recognition by IdeR. We found that the recognition helix of IdeR forms a differential dielectric cleft that accommodates the C-H edge of the 5’-C 1 C 2 T 3 sequence, with a polar pocket for the first two bases and a non-polar pocket for the third. The local dielectric environment of IdeR applies strain to non-cognate DNA, leading to non-productive binding and thereby ensuring the fidelity of target DNA reading. <h4>GRAPHICAL ABSTRACT</h4> Alt text: Graphical abstract illustrating IdeR recognition of cognate DNA through a differential dielectric environment, with polar and non-polar pockets accommodating C 1 C 2 T 3 , while non-cognate sequences incur energetic penalties and binding strain.",
+  "authors": [
+    "Ghosh S",
+    "Koshla O",
+    "Maurer D",
+    "Tieleman S",
+    "Åqvist J",
+    "Griese JJ",
+    "Satpati P"
+  ],
+  "published_date": "2026-10-06",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756664",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756664.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1335321",
+    "raw_record": {
+      "id": "PPR1335321",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.05.756664",
+      "title": "The bacterial iron sensor IdeR distinguishes DNA sequences by applying stress to non-cognate DNA",
+      "authorString": "Ghosh S, Koshla O, Maurer D, Tieleman S, Åqvist J, Griese JJ, Satpati P.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ghosh S",
+            "lastName": "Ghosh",
+            "firstName": "Suvankar",
+            "initials": "S"
+          },
+          {
+            "fullName": "Koshla O",
+            "lastName": "Koshla",
+            "firstName": "Oksana",
+            "initials": "O"
+          },
+          {
+            "fullName": "Maurer D",
+            "lastName": "Maurer",
+            "firstName": "Dirk",
+            "initials": "D"
+          },
+          {
+            "fullName": "Tieleman S",
+            "lastName": "Tieleman",
+            "firstName": "Stijn",
+            "initials": "S"
+          },
+          {
+            "fullName": "Åqvist J",
+            "lastName": "Åqvist",
+            "firstName": "Johan",
+            "initials": "J"
+          },
+          {
+            "fullName": "Griese JJ",
+            "lastName": "Griese",
+            "firstName": "Julia",
+            "initials": "JJ"
+          },
+          {
+            "fullName": "Satpati P",
+            "lastName": "Satpati",
+            "firstName": "Priyadarshi",
+            "initials": "P"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>ABSTRACT</h4>  The transcription factor IdeR regulates iron homeostasis in many gram-positive bacteria. It primarily functions as a repressor of iron uptake genes by binding to their promoters and blocking RNA polymerase access. IdeR recognizes a highly conserved DNA sequence consisting of four palindromic 5’-C  1 C  2 T  3 A  4 A  5 repeats. For target site recognition, IdeR requires a thymine in position 3 of the repeat and at least one cytosine in the first two positions, while the identity of the bases in positions 4 and 5 is less important. We have previously shown that IdeR recognizes its target sequences through indirect or shape readout, rather than direct interactions with the bases. However, the mechanism of indirect recognition is unknown. Here we employed molecular dynamics simulations, X-ray crystallography, and DNA-binding assays to investigate the thermodynamic principles underlying accurate pyrimidine recognition by IdeR. We found that the recognition helix of IdeR forms a differential dielectric cleft that accommodates the C-H edge of the 5’-C  1 C  2 T  3 sequence, with a polar pocket for the first two bases and a non-polar pocket for the third. The local dielectric environment of IdeR applies strain to non-cognate DNA, leading to non-productive binding and thereby ensuring the fidelity of target DNA reading.  <h4>GRAPHICAL ABSTRACT</h4>  Alt text: Graphical abstract illustrating IdeR recognition of cognate DNA through a differential dielectric environment, with polar and non-polar pockets accommodating C  1 C  2 T  3 , while non-cognate sequences incur energetic penalties and binding strain.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.05.756664"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-07",
+      "firstPublicationDate": "2026-10-06",
+      "firstIndexDate": "2026-10-07",
+      "hasEvaluations": "N"
+    }
+  }
+}

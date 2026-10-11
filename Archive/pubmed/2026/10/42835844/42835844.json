@@ -1,0 +1,269 @@
+{
+  "identity": {
+    "pmid": "42835844",
+    "doi": "10.3892/etm.2026.13312",
+    "title": "Integrated bioinformatics and clinical validation of oxidative stress-associated genes in atrial fibrillation and chronic kidney disease."
+  },
+  "content": {
+    "abstract": "Atrial fibrillation (AF) and chronic kidney disease (CKD) frequently coexist and worsen cardiovascular and renal outcomes. Oxidative stress (OS) contributes to both conditions, yet the OS-associated genes shared between the two conditions remain unclear. The present study aimed to identify OS-associated genes common to AF and CKD and explore potential therapeutic targets for AF-CKD comorbidity. Public microarray data for AF and CKD were obtained from the Gene Expression Omnibus. Differentially expressed genes (DEGs) were intersected with OS-associated genes to identify candidates, which then underwent functional enrichment and pathway analyses. A protein-protein interaction network was constructed to identify hub genes and three machine learning algorithms (Least Absolute Shrinkage And Selection Operator, support vector machine and random forest) obtained the final targets. Cell-type Identification by Estimating Relative Subsets of RNA Transcripts was used to estimate immune cell composition and assess the associations between target gene expression and immune cell subsets. Gene set variation analysis was used to delineate pathways associated with target genes. Transcription factor and microRNA regulatory networks were inferred using NetworkAnalyst and the Connectivity Map (CMap) database was queried to identify candidate small-molecule modulators. Target genes were validated in the peripheral blood of controls and patients with AF, CKD or concomitant AF and CKD. A total of 75 overlapping DEGs were identified between AF and CKD, 28 of which were associated with OS. Through a screening process integrating the three machine learning algorithms, three hub target genes were identified: BTG anti-proliferation factor 2 (BTG2), ZFP36 zinc finger CCCH-type (ZFP36) and natriuretic peptide B (NPPB). CMap analysis further suggested a number of candidate therapeutic compounds, such as histone deacetylase inhibitors, cyclin-dependent kinase inhibitors and proteasome inhibitors. In clinical samples, BTG2 and ZFP36 mRNA expression levels, as well as the concentrations of N-terminal pro-B-type natriuretic peptide, encoded by natriuretic peptide B (NPPB), were found to be significantly different between the control and disease groups. The present study identified BTG2, ZFP36 and NPPB as key OS-associated genes in AF and CKD. Furthermore, the three target genes were validated in human peripheral blood, supporting their potential as candidate biomarkers and therapeutic targets for cardiorenal comorbidities.",
+    "keywords": [
+      "atrial fibrillation",
+      "chronic kidney disease",
+      "clinical validation",
+      "integrated bioinformatics",
+      "oxidative stress"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Jiyi",
+        "Xie, Zezhou",
+        "Yu, Huimin",
+        "Sun, Fengzhi",
+        "Wang, Ruifeng",
+        "Ba, Yunbo",
+        "Huang, Hao",
+        "Yin, Xiaomeng",
+        "Wang, Yu"
+      ],
+      "short_names": [
+        "Liu J",
+        "Xie Z",
+        "Yu H",
+        "Sun F",
+        "Wang R",
+        "Ba Y",
+        "Huang H",
+        "Yin X",
+        "Wang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China.",
+        "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China.",
+        "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China.",
+        "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China.",
+        "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China.",
+        "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China.",
+        "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China.",
+        "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China.",
+        "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China.",
+        "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China.",
+        "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Jiyi",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China.",
+          "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xie, Zezhou",
+        "short_name": "Xie Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China.",
+          "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Yu, Huimin",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Sun, Fengzhi",
+        "short_name": "Sun F",
+        "identifiers": [],
+        "affiliations": [
+          "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruifeng",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Ba, Yunbo",
+        "short_name": "Ba Y",
+        "identifiers": [],
+        "affiliations": [
+          "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Huang, Hao",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Yin, Xiaomeng",
+        "short_name": "Yin X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yu",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Heart Centre, Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning 116001, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Experimental and therapeutic medicine"
+    ],
+    "journal_abbrev": [
+      "Exp Ther Med"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 11:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42835844",
+      "40078458",
+      "38274270",
+      "41257259",
+      "41200172",
+      "42363518",
+      "41393259",
+      "42530267",
+      "42814674",
+      "37057099",
+      "41826854",
+      "41760035",
+      "41291841",
+      "38951833",
+      "42715252",
+      "36860851",
+      "35911532",
+      "41858783",
+      "35023949",
+      "42327749",
+      "41630199",
+      "40102753",
+      "41145553",
+      "42364542",
+      "39331874",
+      "37971162",
+      "42180890",
+      "38867322",
+      "41357074",
+      "42107160",
+      "42642681",
+      "42269031",
+      "37933012",
+      "41316541",
+      "37161136",
+      "39811093",
+      "38863714",
+      "39251231",
+      "35713363",
+      "40406126",
+      "41787525",
+      "42292668",
+      "41620539",
+      "39139563",
+      "36923221",
+      "39351221",
+      "41044520",
+      "42819089",
+      "40374866",
+      "41686563",
+      "37264340",
+      "34597264",
+      "42227533",
+      "42730994",
+      "42784636",
+      "42499091",
+      "41262879",
+      "42424301",
+      "36341343",
+      "42227369",
+      "38044432",
+      "42123756",
+      "41961800",
+      "38505024",
+      "39142001",
+      "41756296",
+      "42302029",
+      "41991682",
+      "35278479",
+      "39588536",
+      "40997906",
+      "39507054",
+      "40849369",
+      "41878449",
+      "41006883",
+      "38077447",
+      "38476236",
+      "40406620",
+      "42158856",
+      "34198460",
+      "38637124",
+      "41388523",
+      "39257896",
+      "40329965",
+      "42316227",
+      "41146237",
+      "41132669",
+      "40901831",
+      "35958412",
+      "40916281",
+      "40216809",
+      "42274933",
+      "41052072",
+      "35836957",
+      "34421979",
+      "36733486",
+      "40129981",
+      "40607061",
+      "42306043",
+      "37115484"
+    ],
+    "review": [
+      "42835844"
+    ],
+    "pmc": [
+      "13635837"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

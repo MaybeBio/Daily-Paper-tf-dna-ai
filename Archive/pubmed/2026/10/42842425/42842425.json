@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "42842425",
+    "doi": "10.1093/bioinformatics/btag745",
+    "title": "VAEBAC: A representation-learning framework for proteome-scale prediction of amyloidogenic proteins and functional stratification of nucleic-acid-binding proteins."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Nucleic-acid-binding proteins (NABPs) govern transcription, replication and genome organization, yet the distribution of aggregation susceptibility within regulatory proteomes remains unresolved. Here, we systematically examine amyloidogenic potential across the nucleic-acid-binding proteomes of four phylogenetically diverse organisms-Escherichia coli, Bacillus subtilis, Saccharomyces cerevisiae and Homo sapiens-spanning prokaryotes and eukaryotes, to determine whether aggregation-prone sequence architectures are selectively constrained within transcriptional networks. RESULTS: Using VAEBAC, a representation-learning framework that integrates large-scale amyloid-family sequences with experimentally validated annotations, we performed proteome-scale prediction of amyloidogenicity across nucleic-acid-binding proteins in each organism. Predicted amyloidogenic proteins were consistently and significantly enriched in Gene Ontology categories associated with regulation of DNA-templated transcription, RNA biosynthesis, and gene expression across all four organisms, a pattern validated using three independent annotation tools. Fisher's exact test confirmed significant enrichment of amyloidogenic NABPs among transcription regulators in eukaryotic proteomes. Residue-level mapping demonstrated spatial separation between predicted aggregation-prone regions and DNA-binding interfaces, suggesting structural compatibility between regulatory function and conditional aggregation. Experimental validation confirmed fibrillar assembly of selected proteins. These findings support a conserved model in which aggregation susceptibility is functionally stratified across transcriptional regulatory tiers rather than uniformly suppressed within NABPs, a principle conserved across 3.5 billion years of evolution. AVAILABILITY AND IMPLEMENTATION: VAEBAC is freely accessible at https://www.vaebac.com. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+    "keywords": [
+      "amyloid prediction",
+      "cross-organism conservation",
+      "machine learning",
+      "nucleic-acid-binding proteins",
+      "protein aggregation",
+      "transcriptional regulation",
+      "variational autoencoder"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ashraf, Muhammad Uzair",
+        "Ahmad, Owais",
+        "Khan, Rizwan Hasan"
+      ],
+      "short_names": [
+        "Ashraf MU",
+        "Ahmad O",
+        "Khan RH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Interdisciplinary Biotechnology Unit, Faculty of Life Sciences, Aligarh Muslim University, 202002, Uttar Pradesh, India.",
+        "Interdisciplinary Biotechnology Unit, Faculty of Life Sciences, Aligarh Muslim University, 202002, Uttar Pradesh, India.",
+        "Interdisciplinary Biotechnology Unit, Faculty of Life Sciences, Aligarh Muslim University, 202002, Uttar Pradesh, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ashraf, Muhammad Uzair",
+        "short_name": "Ashraf MU",
+        "identifiers": [],
+        "affiliations": [
+          "Interdisciplinary Biotechnology Unit, Faculty of Life Sciences, Aligarh Muslim University, 202002, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Ahmad, Owais",
+        "short_name": "Ahmad O",
+        "identifiers": [],
+        "affiliations": [
+          "Interdisciplinary Biotechnology Unit, Faculty of Life Sciences, Aligarh Muslim University, 202002, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Khan, Rizwan Hasan",
+        "short_name": "Khan RH",
+        "identifiers": [],
+        "affiliations": [
+          "Interdisciplinary Biotechnology Unit, Faculty of Life Sciences, Aligarh Muslim University, 202002, Uttar Pradesh, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 17:33",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42842425",
+      "33001599",
+      "42478686",
+      "42475469",
+      "15262804",
+      "42707507",
+      "41022589",
+      "42605071",
+      "19389733",
+      "32707977",
+      "28257595",
+      "24234003",
+      "42333077",
+      "38830995",
+      "20079828",
+      "32822422",
+      "16651665",
+      "39990254",
+      "16204087",
+      "41283681",
+      "30399196",
+      "23912807",
+      "29741573",
+      "12844359",
+      "22574904",
+      "18753785",
+      "26587879",
+      "42320030",
+      "42508035",
+      "34905768",
+      "29879919",
+      "27993784",
+      "35150250",
+      "36707993",
+      "29155928",
+      "18586710",
+      "35758792",
+      "37200152",
+      "16772031",
+      "39833102",
+      "32573679",
+      "25364902",
+      "19958507",
+      "36945484",
+      "40919912",
+      "21810204",
+      "8126723",
+      "29522145",
+      "30020956",
+      "33780341",
+      "42323855",
+      "37824738",
+      "41801512",
+      "33576802",
+      "10090291",
+      "27153604",
+      "41208840",
+      "39345796",
+      "42636031",
+      "41099342",
+      "21232131",
+      "32448158",
+      "18796161",
+      "37366497",
+      "19487258",
+      "28499419",
+      "27993780",
+      "29330519",
+      "22113266",
+      "42107160",
+      "24063302",
+      "15173116",
+      "35521556",
+      "18831774",
+      "20443034",
+      "35054898",
+      "40449614",
+      "24015873",
+      "22456606",
+      "23812979",
+      "24349230",
+      "39576589",
+      "42336024",
+      "37391046",
+      "42154341",
+      "31584626",
+      "30032213",
+      "29722865",
+      "35293310",
+      "25255272",
+      "38281252",
+      "31888461",
+      "16723008",
+      "32303790",
+      "9973609",
+      "9682052",
+      "11751218",
+      "25497125",
+      "22436024",
+      "15166027"
+    ],
+    "review": [
+      "42842425",
+      "33001599",
+      "18753785",
+      "39833102",
+      "39345796",
+      "32303790"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag745",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "42844726",
+    "doi": "10.1111/cbdd.70415",
+    "title": "Targeting a Leukemia-Relevant Protein-Protein Interface: N-Aryl Anthranilic Acids as Disruptors of the c-Myb-CBP/p300 KIX Interaction."
+  },
+  "content": {
+    "abstract": "The interaction between c-Myb and the CBP/p300 KIX domain is a key transcriptional event in acute myeloid leukemia (AML) and represents an attractive target for small-molecule intervention. In this study, we applied an integrated computational-experimental strategy to identify new N-aryl anthranilic acid disruptors of the c-Myb-KIX protein-protein interaction. A scaffold-focused library of 3656 N-aryl anthranilic acid derivatives was filtered, docked to the c-Myb-binding groove of KIX (PDB 2AGH), and the top hits were further evaluated by MD simulations, MM/PBSA, FEL, and ADMET analyses. This workflow prioritized four hits (C1-C4) for experimental testing. Computational analyses showed that all four compounds remained bound within the alpha1/alpha3 Myb-facing groove, but differed markedly in their predicted effects on the c-Myb-KIX interface. Among them, C3 emerged as the strongest predicted disruptor, whereas C1 was predicted to stabilize the complex. The DeltaDeltaGPPI analysis further showed that C3 produced the largest destabilizing effect on the c-Myb-KIX interface (+4.57 kcal/mol), followed by C2 (+2.30 kcal/mol) and C4 (+1.40 kcal/mol), whereas C1 stabilized the complex (-6.47 kcal/mol). These predictions were validated by microscale thermophoresis (MST). The binary c-Myb-KIX interaction showed an apparent K(d) of 26.71 +/- 0.54 muM, and the compounds inhibited complex formation with IC(50) values of 99.6 +/- 20.5 muM (C1), 54.7 +/- 22.1 muM (C2), 16.5 +/- 0.8 muM (C3), and 27.2 +/- 2.7 muM (C4). Notably, C3 outperformed the reference inhibitor Naphthol AS-E phosphate (28.8 +/- 3.1 muM). Overall, these findings identify C3 as a promising lead and establish N-aryl anthranilic acids as a tractable scaffold for targeting the c-Myb-CBP/p300 KIX interaction.",
+    "keywords": [
+      "CBP/p300 KIX",
+      "N-aryl anthranilic acids",
+      "c-Myb",
+      "microscale thermophoresis",
+      "protein-protein interaction"
+    ],
+    "mesh_terms": [
+      "*ortho-Aminobenzoates/chemistry/metabolism/pharmacology",
+      "*Proto-Oncogene Proteins c-myb/metabolism/chemistry",
+      "Protein Binding/drug effects",
+      "Humans",
+      "Molecular Docking Simulation",
+      "Molecular Dynamics Simulation",
+      "Binding Sites",
+      "*Leukemia, Myeloid, Acute/metabolism/pathology",
+      "*E1A-Associated p300 Protein/metabolism/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alfassam, Haifa E",
+        "Kamel, Emadeldin M",
+        "Othman, Sarah I",
+        "Alharbi, Hanan M",
+        "Rudayni, Hassan A",
+        "Allam, Ahmed A",
+        "Lamsabhi, Al Mokhtar"
+      ],
+      "short_names": [
+        "Alfassam HE",
+        "Kamel EM",
+        "Othman SI",
+        "Alharbi HM",
+        "Rudayni HA",
+        "Allam AA",
+        "Lamsabhi AM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1279-9564"
+      ],
+      "affiliations": [
+        "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia.",
+        "Chemistry Department, Faculty of Science, Beni-Suef University, Beni-Suef, Egypt.",
+        "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia.",
+        "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia.",
+        "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, Saudi Arabia.",
+        "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, Saudi Arabia.",
+        "Departamento de Quimica and Institute for Advanced Research in Chemical Science (IAdChem), Facultad de Ciencias, Modulo 13, Universidad Autonoma de Madrid, Madrid, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Alfassam, Haifa E",
+        "short_name": "Alfassam HE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Kamel, Emadeldin M",
+        "short_name": "Kamel EM",
+        "identifiers": [
+          "0000-0002-1279-9564"
+        ],
+        "affiliations": [
+          "Chemistry Department, Faculty of Science, Beni-Suef University, Beni-Suef, Egypt."
+        ]
+      },
+      {
+        "full_name": "Othman, Sarah I",
+        "short_name": "Othman SI",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alharbi, Hanan M",
+        "short_name": "Alharbi HM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Rudayni, Hassan A",
+        "short_name": "Rudayni HA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Allam, Ahmed A",
+        "short_name": "Allam AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Lamsabhi, Al Mokhtar",
+        "short_name": "Lamsabhi AM",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Química and Institute for Advanced Research in Chemical Science (IAdChem), Facultad de Ciencias, Módulo 13, Universidad Autónoma de Madrid, Madrid, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical biology & drug design"
+    ],
+    "journal_abbrev": [
+      "Chem Biol Drug Des"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 05:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42844726",
+      "42442091",
+      "42592701",
+      "42664565",
+      "42633732",
+      "34491719",
+      "25740244",
+      "36883372",
+      "42397067",
+      "27082784",
+      "24340053",
+      "31515273",
+      "22438798",
+      "22474372",
+      "30232260",
+      "21497608",
+      "15019774",
+      "35058484",
+      "19220000",
+      "27707899",
+      "16253272",
+      "42019241",
+      "29394256",
+      "26631113",
+      "12205094",
+      "12384703",
+      "42658299",
+      "33958723",
+      "32098872",
+      "32430574",
+      "24596419",
+      "25002472",
+      "29890118",
+      "19737967",
+      "42611115",
+      "24753318",
+      "25651535",
+      "27080133",
+      "42210006",
+      "11073948",
+      "30784357",
+      "12196545",
+      "37525583",
+      "12437352",
+      "17707401",
+      "29317678",
+      "42498240",
+      "33527899",
+      "26195786",
+      "39612645",
+      "9765496",
+      "39885312",
+      "40818174",
+      "39890943",
+      "42665558",
+      "28786199",
+      "39251712",
+      "30301423",
+      "10409749",
+      "22972988",
+      "34948899",
+      "10815807",
+      "24019758",
+      "28495617",
+      "42196261",
+      "41381850",
+      "11585920",
+      "11017047",
+      "42685040",
+      "33382616",
+      "9210395",
+      "33284914",
+      "38086054",
+      "41006797",
+      "22387215",
+      "15507449",
+      "10744749",
+      "34256093",
+      "20969867",
+      "14744133",
+      "38829718",
+      "19821614",
+      "35452454",
+      "29954426",
+      "16768624",
+      "35408476",
+      "38649304",
+      "9528793",
+      "28017646",
+      "23618903",
+      "10350644",
+      "40058756",
+      "31253937",
+      "11094091",
+      "22725662",
+      "20962272",
+      "42580172",
+      "39017851",
+      "23026051",
+      "23300815"
+    ],
+    "review": [
+      "42844726",
+      "40818174",
+      "35408476",
+      "28017646"
+    ],
+    "pmc": [
+      "13646371"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/acutemyeloidleukemia.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Acute Myeloid Leukemia"
+      },
+      {
+        "url": "https://doi.org/10.1111/cbdd.70415",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1105",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

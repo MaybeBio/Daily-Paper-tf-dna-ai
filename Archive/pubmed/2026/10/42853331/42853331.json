@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42853331",
+    "doi": "10.1002/ardp.70354",
+    "title": "Novel Acridone-Based EGFR Inhibitors: Design, Synthesis, and Integrated In Silico-In Vitro Evaluation."
+  },
+  "content": {
+    "abstract": "The epidermal growth factor receptor (EGFR) family is a key biomarker and therapeutic target for cancer therapy. Although acridone scaffolds have previously inhibited other tyrosine kinases, their specific targeting of EGFR has not been reported. This study provides novel acridone-N-aceto/benzohydrazide derivatives with anti-EGFR activity. Cytotoxicity screening revealed AE4, AE11, and AF11 as highly effective against the A-431 cell line, with IC(50) values 3.22 microM, 2.43 microM, and 4.06 microM, respectively, keeping Erb as a standard with an IC(50) of 1.62 microM. In vitro EGFR kinase assays confirmed their inhibition, with IC(50) values of 3.95 microM (AE4), 3.49 microM (AE11), and 4.45 microM (AF11), selectively reduced p-EGFR Tyr(1068) and ERK1/2 levels in a dose-dependent manner, while inducing G(0)/G(1) cell-cycle arrest and apoptosis. SAR indicates isopropyl substitutions on the phenyl ring and 2-methoxy on the acridone ring are important for anti-proliferative activity. Notably, AE4 exhibited a high DNA-binding affinity (K(b) = 7.41 x 10(3)M(-) (1)), suggesting that its efficacy might be due to DNA intercalation. In contrast, AE11 and AF11 demonstrated significant cytotoxicity, implying the involvement of the RAS/ERK downregulating pathway. Molecular docking indicated favorable EGFR active site interactions. In silico studies predicted oral bioavailability and low toxicity, supported by kinetic solubility and plasma stability assays, highlighting their potential as selective p-EGFR Tyr(1068) inhibitors for further development.",
+    "keywords": [
+      "DNA-binding",
+      "SAR",
+      "acridone-N-aceto/benzohydrazide",
+      "molecular docking"
+    ],
+    "mesh_terms": [
+      "ErbB Receptors/antagonists & inhibitors/metabolism",
+      "Humans",
+      "Structure-Activity Relationship",
+      "*Drug Design",
+      "*Acridones/pharmacology/chemistry/chemical synthesis",
+      "*Antineoplastic Agents/pharmacology/chemical synthesis/chemistry",
+      "*Protein Kinase Inhibitors/pharmacology/chemical synthesis/chemistry",
+      "Cell Proliferation/drug effects",
+      "Dose-Response Relationship, Drug",
+      "Molecular Docking Simulation",
+      "Molecular Structure",
+      "Apoptosis/drug effects",
+      "Cell Line, Tumor",
+      "Drug Screening Assays, Antitumor",
+      "Tyrosine Kinase Inhibitors"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bhusare, Nilam",
+        "Kumar, Maushmi S"
+      ],
+      "short_names": [
+        "Bhusare N",
+        "Kumar MS"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-8173-0674",
+        "ORCID: 0000-0001-5097-3271"
+      ],
+      "affiliations": [
+        "Somaiya Institute for Research and Consultancy, Somaiya Vidyavihar University, Vidyavihar (East), Mumbai, India.",
+        "Somaiya Institute for Research and Consultancy, Somaiya Vidyavihar University, Vidyavihar (East), Mumbai, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bhusare, Nilam",
+        "short_name": "Bhusare N",
+        "identifiers": [
+          "0009-0005-8173-0674"
+        ],
+        "affiliations": [
+          "Somaiya Institute for Research and Consultancy, Somaiya Vidyavihar University, Vidyavihar (East), Mumbai, India."
+        ]
+      },
+      {
+        "full_name": "Kumar, Maushmi S",
+        "short_name": "Kumar MS",
+        "identifiers": [
+          "0000-0001-5097-3271"
+        ],
+        "affiliations": [
+          "Somaiya Institute for Research and Consultancy, Somaiya Vidyavihar University, Vidyavihar (East), Mumbai, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archiv der Pharmazie"
+    ],
+    "journal_abbrev": [
+      "Arch Pharm (Weinheim)"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 17:34",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42853331",
+      "40252017",
+      "32247112",
+      "41968548",
+      "42054875",
+      "42217499",
+      "41418598",
+      "41875675",
+      "34507234",
+      "41385860",
+      "40763666",
+      "40480106",
+      "41151328",
+      "41520616",
+      "39983403",
+      "41272919",
+      "40983162",
+      "39088827",
+      "41349320",
+      "41795438",
+      "33339080",
+      "39111120",
+      "40187030",
+      "41075751",
+      "42711921",
+      "42743607",
+      "34365057",
+      "32003485",
+      "32698735",
+      "42706361",
+      "41124878",
+      "40378576",
+      "42691879",
+      "40948301",
+      "41631797",
+      "41518939",
+      "35007724",
+      "38749114",
+      "37365789",
+      "32920363",
+      "34655841",
+      "40876225",
+      "38749115",
+      "41666628",
+      "42116746",
+      "40972427",
+      "40311244",
+      "42466546",
+      "42241777",
+      "34798457",
+      "39178704",
+      "41574568",
+      "34246754",
+      "40349531",
+      "40120497",
+      "31051400",
+      "39591690",
+      "40034406",
+      "33798850",
+      "40641102",
+      "40913964",
+      "40975960",
+      "39094428",
+      "33243490",
+      "39761615",
+      "42166815",
+      "41017166",
+      "39912365",
+      "41092822",
+      "39504637",
+      "40644815",
+      "39288634",
+      "32718297",
+      "42796451",
+      "31787359",
+      "38693732",
+      "42678354",
+      "34375195",
+      "31493743",
+      "37455449",
+      "41638089",
+      "35607598",
+      "33858315",
+      "41270615",
+      "32631532",
+      "42085935",
+      "39819342",
+      "30688116",
+      "34328857",
+      "41081424",
+      "41014811",
+      "28270084",
+      "39326340",
+      "40829241",
+      "31488358",
+      "32781872",
+      "29651967",
+      "28886509",
+      "34227457",
+      "39914141"
+    ],
+    "review": [
+      "42853331",
+      "32247112"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

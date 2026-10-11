@@ -1,0 +1,543 @@
+{
+  "identity": {
+    "pmid": "42853676",
+    "doi": "10.1016/j.celrep.2026.118025",
+    "title": "Inferring binding specificities of human transcription factors with the wisdom of crowds."
+  },
+  "content": {
+    "abstract": "DNA motif discovery and, particularly, computational modeling of transcription factor binding motifs, has been a mecca of algorithmic bioinformatics for several decades. Here, we report the results of the largest open community challenge in Inferring BInding Specificities (IBIS), where participants all over the world were invited to construct binding specificity models from multi-assay experimental data for poorly studied human transcription factors. The submissions were rigorously tested against a rich held-out dataset. Benchmarking demonstrated a consistent advantage of properly designed deep learning models over traditional positional weight matrices and other machine learning methods. Yet, the positional weight matrices displayed a surprisingly strong performance out of the box, being only slightly behind the best deep learning models. A post-challenge assessment of a selection of other deep learning methods further solidified this finding. IBIS highlights the power of benchmarking in finding adequate DNA motif representations, emphasizes the pros and cons of various machine learning methods applied to DNA motif modeling, and establishes a rich dataset, benchmarking protocols, and computational framework for a fair cross-platform evaluation of future models of transcription factor binding motifs in DNA sequences.",
+    "keywords": [
+      "CP: genomics",
+      "DNA motifs",
+      "PWM",
+      "TFBS",
+      "benchmarking",
+      "binding sites",
+      "binding specificity",
+      "crowdsourcing",
+      "deep learning",
+      "machine learning",
+      "transcription factors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gryzunov, Nikita",
+        "Penzar, Dmitry",
+        "Kamenets, Vasilii",
+        "Vyaltsev, Valery",
+        "Kozin, Ivan",
+        "Eliseeva, Irina A",
+        "Nozdrin, Vladimir",
+        "Vorontsov, Ilya E",
+        "Bushuev, Sergey",
+        "Strekalovskikh, Vadim",
+        "Zinkevich, Arsenii",
+        "Andrews, Gregory",
+        "Bedarew, Matwej",
+        "Blass, Ido",
+        "Frolov, Dmitry",
+        "Lariushina, Iuliia",
+        "Moore, Jill",
+        "Orenstein, Yaron",
+        "Roev, German",
+        "Salimov, Danil",
+        "Shimshoviz, Noam",
+        "Tziony, Ido",
+        "Weng, Zhiping",
+        "Bucher, Philipp",
+        "Deplancke, Bart",
+        "Fornes, Oriol",
+        "Grau, Jan",
+        "Grosse, Ivo",
+        "Jolma, Arttu",
+        "Kolpakov, Fedor A",
+        "Makeev, Vsevolod J",
+        "Hughes, Timothy R",
+        "Kulakovskiy, Ivan V"
+      ],
+      "short_names": [
+        "Gryzunov N",
+        "Penzar D",
+        "Kamenets V",
+        "Vyaltsev V",
+        "Kozin I",
+        "Eliseeva IA",
+        "Nozdrin V",
+        "Vorontsov IE",
+        "Bushuev S",
+        "Strekalovskikh V",
+        "Zinkevich A",
+        "Andrews G",
+        "Bedarew M",
+        "Blass I",
+        "Frolov D",
+        "Lariushina I",
+        "Moore J",
+        "Orenstein Y",
+        "Roev G",
+        "Salimov D",
+        "Shimshoviz N",
+        "Tziony I",
+        "Weng Z",
+        "Bucher P",
+        "Deplancke B",
+        "Fornes O",
+        "Grau J",
+        "Grosse I",
+        "Jolma A",
+        "Kolpakov FA",
+        "Makeev VJ",
+        "Hughes TR",
+        "Kulakovskiy IV"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Protein Research, Russian Academy of Sciences, Pushchino, Russia; Life Improvement By Future Technologies (LIFT) Center, Moscow, Russia.",
+        "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia; Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia.",
+        "Independent Researcher, Moscow, Russia.",
+        "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia.",
+        "Institute of Protein Research, Russian Academy of Sciences, Pushchino, Russia; Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia.",
+        "Institute of Protein Research, Russian Academy of Sciences, Pushchino, Russia.",
+        "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia.",
+        "Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia.",
+        "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia.",
+        "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia.",
+        "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia.",
+        "UMass Chan Medical School, Worcester, MA, USA.",
+        "Sirius University, Sirius, Russia.",
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel.",
+        "Sirius University, Sirius, Russia.",
+        "Independent Researcher, Yerevan, Armenia.",
+        "UMass Chan Medical School, Worcester, MA, USA.",
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel; Department of Computer Science and Artificial Intelligence, Bar-Ilan University, Ramat Gan, Israel.",
+        "Independent Researcher, Moscow, Russia.",
+        "Sirius University, Sirius, Russia.",
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel.",
+        "Department of Computer Science and Artificial Intelligence, Bar-Ilan University, Ramat Gan, Israel.",
+        "UMass Chan Medical School, Worcester, MA, USA.",
+        "Swiss Institute of Bioinformatics, Lausanne, Switzerland.",
+        "Swiss Institute of Bioinformatics, Lausanne, Switzerland; Laboratory of Systems Biology and Genetics, Institute of Bioengineering, School of Life Sciences, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+        "Department of Medical Genetics, Centre for Molecular Medicine and Therapeutics, BC Children's Hospital Research Institute, University of British Columbia, Vancouver, Canada.",
+        "Institute of Computer Science, Martin Luther University Halle-Wittenberg, Halle, Germany.",
+        "Institute of Computer Science, Martin Luther University Halle-Wittenberg, Halle, Germany.",
+        "Donnelly Centre and Department of Molecular Genetics, Toronto, Canada.",
+        "Sirius University, Sirius, Russia; Federal Research Center for Information and Computational Technologies, Novosibirsk, Russia.",
+        "Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia. Electronic address: vsevolod.makeev@gmail.com.",
+        "Donnelly Centre and Department of Molecular Genetics, Toronto, Canada. Electronic address: t.hughes@utoronto.ca.",
+        "Institute of Protein Research, Russian Academy of Sciences, Pushchino, Russia; Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia; Institute of Biochemistry and Genetics, Ufa Federal Research Centre of the Russian Academy of Sciences, Ufa, Russia. Electronic address: ivan.kulakovskiy@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gryzunov, Nikita",
+        "short_name": "Gryzunov N",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Protein Research, Russian Academy of Sciences, Pushchino, Russia; Life Improvement By Future Technologies (LIFT) Center, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Penzar, Dmitry",
+        "short_name": "Penzar D",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia; Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Kamenets, Vasilii",
+        "short_name": "Kamenets V",
+        "identifiers": [],
+        "affiliations": [
+          "Independent Researcher, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Vyaltsev, Valery",
+        "short_name": "Vyaltsev V",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Kozin, Ivan",
+        "short_name": "Kozin I",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Protein Research, Russian Academy of Sciences, Pushchino, Russia; Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Eliseeva, Irina A",
+        "short_name": "Eliseeva IA",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Protein Research, Russian Academy of Sciences, Pushchino, Russia."
+        ]
+      },
+      {
+        "full_name": "Nozdrin, Vladimir",
+        "short_name": "Nozdrin V",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Vorontsov, Ilya E",
+        "short_name": "Vorontsov IE",
+        "identifiers": [],
+        "affiliations": [
+          "Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Bushuev, Sergey",
+        "short_name": "Bushuev S",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Strekalovskikh, Vadim",
+        "short_name": "Strekalovskikh V",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Zinkevich, Arsenii",
+        "short_name": "Zinkevich A",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Andrews, Gregory",
+        "short_name": "Andrews G",
+        "identifiers": [],
+        "affiliations": [
+          "UMass Chan Medical School, Worcester, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bedarew, Matwej",
+        "short_name": "Bedarew M",
+        "identifiers": [],
+        "affiliations": [
+          "Sirius University, Sirius, Russia."
+        ]
+      },
+      {
+        "full_name": "Blass, Ido",
+        "short_name": "Blass I",
+        "identifiers": [],
+        "affiliations": [
+          "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Frolov, Dmitry",
+        "short_name": "Frolov D",
+        "identifiers": [],
+        "affiliations": [
+          "Sirius University, Sirius, Russia."
+        ]
+      },
+      {
+        "full_name": "Lariushina, Iuliia",
+        "short_name": "Lariushina I",
+        "identifiers": [],
+        "affiliations": [
+          "Independent Researcher, Yerevan, Armenia."
+        ]
+      },
+      {
+        "full_name": "Moore, Jill",
+        "short_name": "Moore J",
+        "identifiers": [],
+        "affiliations": [
+          "UMass Chan Medical School, Worcester, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Orenstein, Yaron",
+        "short_name": "Orenstein Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel; Department of Computer Science and Artificial Intelligence, Bar-Ilan University, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Roev, German",
+        "short_name": "Roev G",
+        "identifiers": [],
+        "affiliations": [
+          "Independent Researcher, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Salimov, Danil",
+        "short_name": "Salimov D",
+        "identifiers": [],
+        "affiliations": [
+          "Sirius University, Sirius, Russia."
+        ]
+      },
+      {
+        "full_name": "Shimshoviz, Noam",
+        "short_name": "Shimshoviz N",
+        "identifiers": [],
+        "affiliations": [
+          "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Tziony, Ido",
+        "short_name": "Tziony I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Artificial Intelligence, Bar-Ilan University, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Weng, Zhiping",
+        "short_name": "Weng Z",
+        "identifiers": [],
+        "affiliations": [
+          "UMass Chan Medical School, Worcester, MA, USA."
+        ]
+      },
+      {
+        "full_name": "",
+        "short_name": "",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bucher, Philipp",
+        "short_name": "Bucher P",
+        "identifiers": [],
+        "affiliations": [
+          "Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Deplancke, Bart",
+        "short_name": "Deplancke B",
+        "identifiers": [],
+        "affiliations": [
+          "Swiss Institute of Bioinformatics, Lausanne, Switzerland; Laboratory of Systems Biology and Genetics, Institute of Bioengineering, School of Life Sciences, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Fornes, Oriol",
+        "short_name": "Fornes O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, Centre for Molecular Medicine and Therapeutics, BC Children's Hospital Research Institute, University of British Columbia, Vancouver, Canada."
+        ]
+      },
+      {
+        "full_name": "Grau, Jan",
+        "short_name": "Grau J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Computer Science, Martin Luther University Halle-Wittenberg, Halle, Germany."
+        ]
+      },
+      {
+        "full_name": "Grosse, Ivo",
+        "short_name": "Grosse I",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Computer Science, Martin Luther University Halle-Wittenberg, Halle, Germany."
+        ]
+      },
+      {
+        "full_name": "Jolma, Arttu",
+        "short_name": "Jolma A",
+        "identifiers": [],
+        "affiliations": [
+          "Donnelly Centre and Department of Molecular Genetics, Toronto, Canada."
+        ]
+      },
+      {
+        "full_name": "Kolpakov, Fedor A",
+        "short_name": "Kolpakov FA",
+        "identifiers": [],
+        "affiliations": [
+          "Sirius University, Sirius, Russia; Federal Research Center for Information and Computational Technologies, Novosibirsk, Russia."
+        ]
+      },
+      {
+        "full_name": "Makeev, Vsevolod J",
+        "short_name": "Makeev VJ",
+        "identifiers": [],
+        "affiliations": [
+          "Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia. Electronic address: vsevolod.makeev@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Hughes, Timothy R",
+        "short_name": "Hughes TR",
+        "identifiers": [],
+        "affiliations": [
+          "Donnelly Centre and Department of Molecular Genetics, Toronto, Canada. Electronic address: t.hughes@utoronto.ca."
+        ]
+      },
+      {
+        "full_name": "Kulakovskiy, Ivan V",
+        "short_name": "Kulakovskiy IV",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Protein Research, Russian Academy of Sciences, Pushchino, Russia; Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia; Institute of Biochemistry and Genetics, Ufa Federal Research Centre of the Russian Academy of Sciences, Ufa, Russia. Electronic address: ivan.kulakovskiy@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 17:34",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42853676",
+      "41332515",
+      "39605530",
+      "40702706",
+      "41203846",
+      "32393327",
+      "26552868",
+      "17559676",
+      "35719916",
+      "41035197",
+      "42475469",
+      "20579334",
+      "21347314",
+      "20074339",
+      "42007520",
+      "37099664",
+      "40914877",
+      "35652477",
+      "38397134",
+      "18302777",
+      "23181585",
+      "35240993",
+      "42151513",
+      "18047721",
+      "23919388",
+      "39482734",
+      "38701417",
+      "26130577",
+      "23427988",
+      "40411397",
+      "39107889",
+      "31372637",
+      "39623329",
+      "32976105",
+      "20438625",
+      "31074373",
+      "39975017",
+      "23029415",
+      "38863710",
+      "18533028",
+      "42101927",
+      "35811788",
+      "23427986",
+      "23175603",
+      "34272562",
+      "22912568",
+      "38517697",
+      "32551184",
+      "38643066",
+      "25927199",
+      "29617876",
+      "17951829",
+      "30085218",
+      "28764727",
+      "23244338",
+      "34607350",
+      "21778525",
+      "41294241",
+      "14751969",
+      "39961524",
+      "21124986",
+      "26592556",
+      "24586611",
+      "32905524",
+      "28245811",
+      "24472686",
+      "25775564",
+      "21059262",
+      "12370781",
+      "38168434",
+      "39696434",
+      "27993786",
+      "37805453",
+      "17941998",
+      "41325984",
+      "39227799",
+      "41536793",
+      "22952610",
+      "29654070",
+      "42491247",
+      "26289072",
+      "23144830",
+      "20339533",
+      "27896980",
+      "38049725",
+      "18426806",
+      "22689783",
+      "32155318",
+      "41634097",
+      "30947433",
+      "41525315",
+      "37971293",
+      "15053842",
+      "41627694",
+      "17626633",
+      "37294804",
+      "26527718",
+      "36155619",
+      "39640721",
+      "42043940"
+    ],
+    "review": [
+      "42853676",
+      "37099664",
+      "35652477",
+      "18047721",
+      "42491247"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

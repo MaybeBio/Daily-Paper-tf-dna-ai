@@ -1,0 +1,346 @@
+{
+  "identity": {
+    "pmid": "42839831",
+    "doi": "10.1002/mabi.70268",
+    "title": "Active Field Theory Approach to Explain Size Control of Transcriptional Condensates."
+  },
+  "content": {
+    "abstract": "Transcription factors organize into liquid-like condensates to facilitate gene expression, yet the physical mechanisms governing their formation and properties remain poorly understood. We study the size statistics of transcriptional condensates in human HAP1 cells using widefield and super-resolution microscopy tagging the epigenetic reader BRD4. We find that hubs that appear monolithic in widefield resolve into clusters of smaller droplets that resist coarsening. We link this size control to Active Model B+, a non-equilibrium field theory that captures a regime of reverse Ostwald ripening out of thermal equilibrium. In this regime, chemically driven currents cause larger droplets to transfer mass back to smaller ones, stabilizing a state of microphase segregation. The observed exponential size distribution of BRD4 foci quantitatively matches our numerical simulations, suggesting a universal physical picture for the non-equilibrium self-limitation of cellular condensates.",
+    "keywords": [
+      "Ostwald ripening",
+      "chemical physics",
+      "effective field theory",
+      "nanotechnology",
+      "physics",
+      "resist",
+      "thermal equilibrium",
+      "transcription factor"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Transcription Factors/metabolism/genetics/chemistry",
+      "*Transcription, Genetic",
+      "*Biomolecular Condensates/chemistry/metabolism",
+      "Bromodomain Containing Proteins",
+      "Cell Cycle Proteins",
+      "*Nuclear Proteins/metabolism/genetics/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hertag, Kathrin",
+        "Shoup, Samuel",
+        "Thews, Leonhard T",
+        "Khatter, Radhika",
+        "Ferrario, Eugenio",
+        "Robinson, Joshua F",
+        "Wittmann, Sina",
+        "Schick, Sandra",
+        "Speck, Thomas"
+      ],
+      "short_names": [
+        "Hertag K",
+        "Shoup S",
+        "Thews LT",
+        "Khatter R",
+        "Ferrario E",
+        "Robinson JF",
+        "Wittmann S",
+        "Schick S",
+        "Speck T"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8119-3534",
+        "ORCID: 0009-0006-2858-3473",
+        "ORCID: 0009-0009-0095-3120",
+        "ORCID: 0000-0001-6429-7980",
+        "ORCID: 0000-0002-2613-3667",
+        "ORCID: 0000-0002-0074-5331",
+        "ORCID: 0000-0002-4061-2381",
+        "ORCID: 0000-0002-6357-1180"
+      ],
+      "affiliations": [
+        "Institute for Theoretical Physics IV, University of Stuttgart, Stuttgart, Germany.",
+        "Chromatin Regulation Group, Institute of Molecular Biology (IMB), Mainz, Germany.",
+        "Max Planck Graduate Center (MPGC), Mainz, Germany.",
+        "Protein Disorder in Transcription Group, Institute of Molecular Biology (IMB), Mainz, Germany.",
+        "Protein Disorder in Transcription Group, Institute of Molecular Biology (IMB), Mainz, Germany.",
+        "Protein Production Core Facility, Institute of Molecular Biology (IMB), Mainz, Germany.",
+        "STFC Hartree Centre, Sci-Tech Daresbury, Warrington, UK.",
+        "H. H. Wills Physics Laboratory, University of Bristol, Bristol, UK.",
+        "Protein Disorder in Transcription Group, Institute of Molecular Biology (IMB), Mainz, Germany.",
+        "Institute for Quantitative and Computational Biosciences (IQCB), Johannes Gutenberg University Mainz, Mainz, Germany.",
+        "Chromatin Regulation Group, Institute of Molecular Biology (IMB), Mainz, Germany.",
+        "Institute for Quantitative and Computational Biosciences (IQCB), Johannes Gutenberg University Mainz, Mainz, Germany.",
+        "Institute for Theoretical Physics IV, University of Stuttgart, Stuttgart, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hertäg, Kathrin",
+        "short_name": "Hertäg K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Theoretical Physics IV, University of Stuttgart, Stuttgart, Germany."
+        ]
+      },
+      {
+        "full_name": "Shoup, Samuel",
+        "short_name": "Shoup S",
+        "identifiers": [
+          "0000-0001-8119-3534"
+        ],
+        "affiliations": [
+          "Chromatin Regulation Group, Institute of Molecular Biology (IMB), Mainz, Germany.",
+          "Max Planck Graduate Center (MPGC), Mainz, Germany."
+        ]
+      },
+      {
+        "full_name": "Thews, Leonhard T",
+        "short_name": "Thews LT",
+        "identifiers": [
+          "0009-0006-2858-3473"
+        ],
+        "affiliations": [
+          "Protein Disorder in Transcription Group, Institute of Molecular Biology (IMB), Mainz, Germany."
+        ]
+      },
+      {
+        "full_name": "Khatter, Radhika",
+        "short_name": "Khatter R",
+        "identifiers": [
+          "0009-0009-0095-3120"
+        ],
+        "affiliations": [
+          "Protein Disorder in Transcription Group, Institute of Molecular Biology (IMB), Mainz, Germany."
+        ]
+      },
+      {
+        "full_name": "Ferrario, Eugenio",
+        "short_name": "Ferrario E",
+        "identifiers": [
+          "0000-0001-6429-7980"
+        ],
+        "affiliations": [
+          "Protein Production Core Facility, Institute of Molecular Biology (IMB), Mainz, Germany."
+        ]
+      },
+      {
+        "full_name": "Robinson, Joshua F",
+        "short_name": "Robinson JF",
+        "identifiers": [
+          "0000-0002-2613-3667"
+        ],
+        "affiliations": [
+          "STFC Hartree Centre, Sci-Tech Daresbury, Warrington, UK.",
+          "H. H. Wills Physics Laboratory, University of Bristol, Bristol, UK."
+        ]
+      },
+      {
+        "full_name": "Wittmann, Sina",
+        "short_name": "Wittmann S",
+        "identifiers": [
+          "0000-0002-0074-5331"
+        ],
+        "affiliations": [
+          "Protein Disorder in Transcription Group, Institute of Molecular Biology (IMB), Mainz, Germany.",
+          "Institute for Quantitative and Computational Biosciences (IQCB), Johannes Gutenberg University Mainz, Mainz, Germany."
+        ]
+      },
+      {
+        "full_name": "Schick, Sandra",
+        "short_name": "Schick S",
+        "identifiers": [
+          "0000-0002-4061-2381"
+        ],
+        "affiliations": [
+          "Chromatin Regulation Group, Institute of Molecular Biology (IMB), Mainz, Germany.",
+          "Institute for Quantitative and Computational Biosciences (IQCB), Johannes Gutenberg University Mainz, Mainz, Germany."
+        ]
+      },
+      {
+        "full_name": "Speck, Thomas",
+        "short_name": "Speck T",
+        "identifiers": [
+          "0000-0002-6357-1180"
+        ],
+        "affiliations": [
+          "Institute for Theoretical Physics IV, University of Stuttgart, Stuttgart, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Macromolecular bioscience"
+    ],
+    "journal_abbrev": [
+      "Macromol Biosci"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 05:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42839831",
+      "34271007",
+      "42190656",
+      "40680734",
+      "38656803",
+      "39136995",
+      "41818234",
+      "42557413",
+      "23912807",
+      "34772787",
+      "17329240",
+      "25512383",
+      "22952229",
+      "39605045",
+      "38241700",
+      "29930091",
+      "41992978",
+      "41343566",
+      "22334664",
+      "25263550",
+      "42632016",
+      "39716819",
+      "41984404",
+      "41291276",
+      "35881789",
+      "38658705",
+      "36732631",
+      "29463681",
+      "38874522",
+      "40812420",
+      "34303933",
+      "41478281",
+      "23762261",
+      "27624132",
+      "42240196",
+      "40505864",
+      "42186815",
+      "21890894",
+      "28630312",
+      "42659741",
+      "42492506",
+      "24525235",
+      "38573961",
+      "39938804",
+      "42126959",
+      "42475469",
+      "22084242",
+      "40614723",
+      "24939842",
+      "42743274",
+      "42791418",
+      "34090478",
+      "37942611",
+      "41990454",
+      "31075399",
+      "18223296",
+      "18039861",
+      "32422749",
+      "42561958",
+      "19596781",
+      "32669118",
+      "40628510",
+      "34772786",
+      "23086925",
+      "23317504",
+      "28525743",
+      "42754322",
+      "41828493",
+      "42160388",
+      "42844252",
+      "40801544",
+      "37488172",
+      "41354071",
+      "38831505",
+      "33074101",
+      "19812244",
+      "38564636",
+      "42460449",
+      "34520583",
+      "39498261",
+      "26870791",
+      "42086561",
+      "30012592",
+      "40401376",
+      "32353113",
+      "23686307",
+      "40195119",
+      "26858406",
+      "33637650",
+      "24189064",
+      "40501338",
+      "38581996",
+      "38192101",
+      "37509171",
+      "37570684",
+      "39454579",
+      "32324495",
+      "42686757",
+      "42126123",
+      "42530374"
+    ],
+    "review": [
+      "42839831",
+      "34271007",
+      "34772787",
+      "17329240",
+      "38658705",
+      "34303933",
+      "42492506",
+      "42791418",
+      "41990454",
+      "34772786",
+      "42754322",
+      "41828493",
+      "41354071",
+      "38831505",
+      "34520583",
+      "37509171"
+    ],
+    "pmc": [
+      "13643503"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/mabi.70268",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-APEX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-23",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

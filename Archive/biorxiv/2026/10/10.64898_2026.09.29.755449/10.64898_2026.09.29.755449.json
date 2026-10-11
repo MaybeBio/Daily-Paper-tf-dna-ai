@@ -1,0 +1,647 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.29.755449",
+  "title": "SARS-CoV-2 Nucleocapsid Protein forms biomolecular condensates and interacts with ALS-associated RNA binding proteins <i>in vitro</i>",
+  "doi": "10.64898/2026.09.29.755449",
+  "abstract": "As we have entered the endemic phase of COVID-19, there is a need to assess the long-term effects of SARS-CoV-2 infection on the trajectory of neurodegenerative disorders. Herein, we investigate whether the SARS-CoV-2 RNA-binding nucleocapsid protein (NCP; N-protein) may influence molecular processes relevant to motor neuron degeneration in amyotrophic lateral sclerosis (ALS). We detected N-protein immunoreactivity in ALS spinal cord motor neurons, including cytoplasmic N-protein-positive puncta that colocalized with cytoplasmic TAR DNA-binding protein 43 (TDP-43). In vitro, optogenetically induced N-protein biomolecular condensates (BMCs) showed reversible, liquid-like behavior and recovered after photobleaching. Using this model, we found that these condensates colocalized with TDP-43 and the RNA-binding proteins G3BP1/2, PABPC1 and TIA1. Condensate formation was associated with TDP-43 cytoplasmic mislocalization, altered TARDBP expression, and altered exon 3 splicing of POLDIP3 . The N-terminal portion of N-protein influenced BMC formation, whereas truncated C-terminal proteoforms did not form detectable BMCs or show detectable TDP-43 colocalization in this assay. Extending these observations to a human cell model, we show that optogenetically induced N-protein BMCs colocalize with TDP-43 in human iPSC-derived motor neurons. Collectively, these findings support further investigation into potential molecular links between SARS-CoV-2 exposure and the trajectory of neurodegenerative disease.",
+  "authors": [
+    "Joseph-Patrick W.E. Clarke",
+    "Alexandra Keating",
+    "Veronica Noches",
+    "Crystal McLellan",
+    "Davide Dulcis",
+    "John Ravits",
+    "Michael J. Strong"
+  ],
+  "published_date": "2026-10-06",
+  "updated_date": "2026-10-06T17:25:27Z",
+  "journal": "bioRxiv",
+  "category": "Neuroscience",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.29.755449",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.29.755449.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Neuroscience"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Neuroscience",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T06:51:02Z",
+        "timestamp": 1791615062409,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ]
+      },
+      "group-title": "Neuroscience",
+      "reference-count": 49,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                6
+              ]
+            ],
+            "date-time": "2026-10-06T00:00:00Z",
+            "timestamp": 1791244800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Wiley Family Foundation",
+          "id": [
+            {
+              "id": "https://ror.org/00e6hp348",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "award": [
+            "SOP-160442"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "SOP-160442"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01gavpb45",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  As we have entered the endemic phase of COVID-19, there is a need to assess the long-term effects of SARS-CoV-2 infection on the trajectory of neurodegenerative disorders. Herein, we investigate whether the SARS-CoV-2 RNA-binding nucleocapsid protein (NCP; N-protein) may influence molecular processes relevant to motor neuron degeneration in amyotrophic lateral sclerosis (ALS). We detected N-protein immunoreactivity in ALS spinal cord motor neurons, including cytoplasmic N-protein-positive puncta that colocalized with cytoplasmic TAR DNA-binding protein 43 (TDP-43). In vitro, optogenetically induced N-protein biomolecular condensates (BMCs) showed reversible, liquid-like behavior and recovered after photobleaching. Using this model, we found that these condensates colocalized with TDP-43 and the RNA-binding proteins G3BP1/2, PABPC1 and TIA1. Condensate formation was associated with TDP-43 cytoplasmic mislocalization, altered\n                  <jats:italic>TARDBP</jats:italic>\n                  expression, and altered exon 3 splicing of\n                  <jats:italic>POLDIP3</jats:italic>\n                  . The N-terminal portion of N-protein influenced BMC formation, whereas truncated C-terminal proteoforms did not form detectable BMCs or show detectable TDP-43 colocalization in this assay. Extending these observations to a human cell model, we show that optogenetically induced N-protein BMCs colocalize with TDP-43 in human iPSC-derived motor neurons. Collectively, these findings support further investigation into potential molecular links between SARS-CoV-2 exposure and the trajectory of neurodegenerative disease.\n                </jats:p>",
+      "DOI": "10.64898/2026.09.29.755449",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ],
+        "date-time": "2026-10-06T17:25:27Z",
+        "timestamp": 1791307527000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "SARS-CoV-2 Nucleocapsid Protein forms biomolecular condensates and interacts with ALS-associated RNA binding proteins\n                  <i>in vitro</i>"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5473-7479",
+          "authenticated-orcid": false,
+          "given": "Joseph-Patrick W.E.",
+          "family": "Clarke",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Molecular Medicine Group, Robarts Research Institute, Schulich School of Medicine and Dentistry, Western University, London, ON, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexandra",
+          "family": "Keating",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Molecular Medicine Group, Robarts Research Institute, Schulich School of Medicine and Dentistry, Western University, London, ON, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Veronica",
+          "family": "Noches",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Molecular Medicine Group, Robarts Research Institute, Schulich School of Medicine and Dentistry, Western University, London, ON, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Crystal",
+          "family": "McLellan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Molecular Medicine Group, Robarts Research Institute, Schulich School of Medicine and Dentistry, Western University, London, ON, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4672-7996",
+          "authenticated-orcid": false,
+          "given": "Davide",
+          "family": "Dulcis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Neurosciences, University of California San Diego School of Medicine, San Diego, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6521-4649",
+          "authenticated-orcid": false,
+          "given": "John",
+          "family": "Ravits",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Neurosciences, University of California San Diego School of Medicine, San Diego, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1988-6262",
+          "authenticated-orcid": false,
+          "given": "Michael J.",
+          "family": "Strong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Molecular Medicine Group, Robarts Research Institute, Schulich School of Medicine and Dentistry, Western University, London, ON, Canada"
+            },
+            {
+              "name": "Department of Clinical Neurological Sciences, Schulich School of Medicine and Dentistry, Western University, London, ON, Canada"
+            },
+            {
+              "name": "Department of Pathology and Laboratory Medicine, Schulich School of Medicine and Dentistry, Western University, London, ON, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kim DH , Kim JH , Jeon MT , Kim KS , Kim DG , Choi IS . The Role of TDP-43 in SARS-CoV-2-Related Neurodegenerative Changes. Viruses. 2025;17(5).",
+          "DOI": "10.3390/v17050724"
+        },
+        {
+          "issue": "2",
+          "key": "2026100923400901000_2026.09.29.755449v1.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "411",
+          "DOI": "10.3233/JAD-220717",
+          "article-title": "Association of COVID-19 with New-Onset Alzheimer’s Disease",
+          "volume": "89",
+          "year": "2022",
+          "journal-title": "J Alzheimers Dis"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Taquet M , Sillett R , Zhu L , Mendel J , Camplisson I , Dercon Q , et al. Neurological and psychiatric risk trajectories after SARS-CoV-2 infection: an anaysis of 2-year retrospective cohort studies including 1 284 437 patients. Lancet Psychiatry. 2022:1–13.",
+          "DOI": "10.1016/S2215-0366(22)00260-7"
+        },
+        {
+          "issue": "7",
+          "key": "2026100923400901000_2026.09.29.755449v1.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "950",
+          "DOI": "10.1002/acn3.51570",
+          "article-title": "Evolution of neurologic symptoms in non-hospitalized COVID-19 “long haulers”",
+          "volume": "9",
+          "year": "2022",
+          "journal-title": "Ann Clin Transl Neurol"
+        },
+        {
+          "issue": "5",
+          "key": "2026100923400901000_2026.09.29.755449v1.5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1073",
+          "DOI": "10.1002/acn3.51350",
+          "article-title": "Persistent neurologic symptoms and cognitive dysfunction in non-hospitalized Covid-19 “long haulers”",
+          "volume": "8",
+          "year": "2021",
+          "journal-title": "Ann Clin Transl Neurol"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hampshire A , Trender W , Chamberlain SR , Jolly AE , Grant JE , Patrick F , et al. Cognitive deficits in people who have recovered from COVID-19. EClinicalMedicine. 2021;39:101044.",
+          "DOI": "10.1016/j.eclinm.2021.101044"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Woo MS , Malsy J , Pottgen J , Seddiq Zai S , Ufer F , Hadjilaou A , et al. Frequent neurocognitive deficits after recovery from mild COVID-19. Brain Commun. 2020;2(2):fcaa205.",
+          "DOI": "10.1093/braincomms/fcaa205"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-022-04569-5 3"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.9",
+          "doi-asserted-by": "crossref",
+          "first-page": "110420",
+          "DOI": "10.1016/j.mehy.2020.110420",
+          "article-title": "The first psychiatric pandemic: Encephalitis lethargica, 1917-27",
+          "volume": "146",
+          "year": "2021",
+          "journal-title": "Med Hypotheses"
+        },
+        {
+          "issue": "2",
+          "key": "2026100923400901000_2026.09.29.755449v1.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.1111/jnc.15736",
+          "article-title": "SARS-CoV-2, aging, and Post-COVID-19 neurodegeneration",
+          "volume": "165",
+          "year": "2023",
+          "journal-title": "J Neurochem"
+        },
+        {
+          "issue": "4",
+          "key": "2026100923400901000_2026.09.29.755449v1.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "145",
+          "DOI": "10.14745/ccdr.v51i04a05",
+          "article-title": "Associations between self-reported SARS-CoV-2 infection status, serology and common longer-term COVID-19 symptoms among adults in Canada, a cross-sectional study",
+          "volume": "51",
+          "year": "2025",
+          "journal-title": "Can Commun Dis Rep"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/19336896.2023.2194212"
+        },
+        {
+          "issue": "6",
+          "key": "2026100923400901000_2026.09.29.755449v1.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1007/s00705-023-05801-x",
+          "article-title": "SARS-CoV-2 and the nervous system: current perspectives",
+          "volume": "168",
+          "year": "2023",
+          "journal-title": "Arch Virol"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tsoi PS , Quan MD , Ferreon JC , Ferreon ACM . Aggregation of Disordered Proteins Associated with Neurodegeneration. Int J Mol Sci. 2023;24(4).",
+          "DOI": "10.3390/ijms24043380"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/hmg/ddp534"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13024-020-00397-1"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.str.2016.07.007"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.RA118.007222"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bai Z , Cao Y , Liu W , Li J . The SARS-CoV-2 Nucleocapsid Protein and Its Role in Viral Structure, Biological Functions, and a Potential Target for Drug or Vaccine Mitigation. Viruses. 2021;13(6).",
+          "DOI": "10.3390/v13061115"
+        },
+        {
+          "issue": "1",
+          "key": "2026100923400901000_2026.09.29.755449v1.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "2",
+          "DOI": "10.1186/s43556-020-00001-4",
+          "article-title": "Structural characterization of the C-terminal domain of SARS-CoV-2 nucleocapsid protein",
+          "volume": "1",
+          "year": "2020",
+          "journal-title": "Mol Biomed"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pro.3909"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bbrc.2020.04.136"
+        },
+        {
+          "issue": "7",
+          "key": "2026100923400901000_2026.09.29.755449v1.23",
+          "doi-asserted-by": "crossref",
+          "first-page": "117613",
+          "DOI": "10.1016/j.celrep.2026.117613",
+          "article-title": "Type I unconventional protein secretion of the SARS-CoV-2 nucleocapsid protein promotes inflammatory cytokine release",
+          "volume": "45",
+          "year": "2026",
+          "journal-title": "Cell Rep"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2304087120"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Strong MJ , McLellan C , Kaplanis B , Droppelmann CA , Junop M . Phase Separation of SARS-CoV-2 Nucleocapsid Protein with TDP-43 Is Dependent on C-Terminus Domains. Int J Mol Sci. 2024;25(16).",
+          "DOI": "10.3390/ijms25168779"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pbio.3003646"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2016.11.054"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuron.2019.01.048"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.29",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zhang P , Fan B , Yang P , Temirov J , Messing J , Kim HJ , et al. Chronic optogenetic induction of stress granules is cytotoxic and reveals the evolution of ALS-FTD pathology. Elife. 2019;8.",
+          "DOI": "10.7554/eLife.39578"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.30",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Clarke JWE , Thibault PA , Salapa HE , Kim DE , Hutchinson C , Levin MC . Multiple Sclerosis-Associated hnRNPA1 Mutations Alter hnRNPA1 Dynamics and Influence Stress Granule Formation. Int J Mol Sci. 2021;22(6).",
+          "DOI": "10.3390/ijms22062909"
+        },
+        {
+          "issue": "12",
+          "key": "2026100923400901000_2026.09.29.755449v1.31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1194",
+          "DOI": "10.1016/j.scib.2021.01.013",
+          "article-title": "SARS-CoV-2 nucleocapsid protein phase separates with G3BPs to disassemble stress granules and facilitate viral production",
+          "volume": "66",
+          "year": "2021",
+          "journal-title": "Sci Bull (Beijing"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmb.2022.167516"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.33",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Miller MR , Dykstra M , Barmada S . Splicing the narrative: alternative TARDBP splicing and its relation to neurodegeneration in ALS and FTD. J Clin Invest. 2026;136(6).",
+          "DOI": "10.1172/JCI199846"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0043120"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.celrep.2024.114421"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/J.MOLCEL.2020.11.041"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.37",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tikhomirova MA , Kuzmenko OL , Arifulin EA , Shirokova OM , Musinova YR , Sheval EV . The Nucleocapsid (N) Proteins of Different Human Coronaviruses Demonstrate a Variable Capacity to Induce the Formation of Cytoplasmic Condensates. Int J Mol Sci. 2024;25(23).",
+          "DOI": "10.3390/ijms252313162"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-020-19843-1"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1098/rsob.210137"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.molcel.2015.08.018"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s13238-022-00905-7"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.15252/EMBJ.2020106478"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.celrep.2024.113965"
+        },
+        {
+          "issue": "4",
+          "key": "2026100923400901000_2026.09.29.755449v1.44",
+          "doi-asserted-by": "crossref",
+          "first-page": "823",
+          "DOI": "10.1021/acs.biochem.4c00536",
+          "article-title": "Disruption of Molecular Interactions between the G3BP1 Stress Granule Host Protein and the Nucleocapsid (NTD-N) Protein Impedes SARS-CoV-2 Virus Replication",
+          "volume": "64",
+          "year": "2025",
+          "journal-title": "Biochemistry"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-024-55024-0"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-025-62922-4"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuron.2011.06.031"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.48",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jordi L , Isacson O . Neuronal threshold functions: Determining symptom onset in neurological disorders. Prog Neurobiol. 2024;242:102673.",
+          "DOI": "10.1016/j.pneurobio.2024.102673"
+        },
+        {
+          "key": "2026100923400901000_2026.09.29.755449v1.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nmeth.2019"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.29.755449",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T06:40:22Z",
+        "timestamp": 1791614422000
+      },
+      "score": 78.821945,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.29.755449"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ]
+      },
+      "references-count": 49,
+      "URL": "https://doi.org/10.64898/2026.09.29.755449",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

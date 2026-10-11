@@ -1,0 +1,441 @@
+{
+  "identity": {
+    "pmid": "42844983",
+    "doi": "10.1002/ardp.70359",
+    "title": "Synergistic Cytotoxicity of Cafestol and Kahweol With Doxorubicin in Breast Cancer Cells Involves TNF‑alpha Targeting and NF‑kappaB Downregulation."
+  },
+  "content": {
+    "abstract": "Breast cancer (BC) is the most common cancer in women worldwide. Natural compounds have been studied to improve chemotherapy efficiency. Cafestol and kahweol (C&K) are diterpenes from coffee lipid fraction, with potential anticancer activity, whose effects and association with chemotherapeutic drug doxorubicin in BC cells are still unknown. Here, we evaluated the synergistic cytotoxic effects of the C&K with doxorubicin and their molecular mechanisms in BC cells. Cell viability was assessed by the MTT assay. Flow cytometry was used to analyze apoptosis, cell cycle, and NF-kappaB levels. The microarray assay was performed to identify altered signaling pathways, and molecular docking was utilized to predict the interaction between C&K and TNF-alpha. In addition, TCGA data were explored to evaluate the clinical association between the expression of C&K-regulated genes and TNF-alpha/NF-kappaB pathway genes. C&K was cytotoxic and increased the doxorubicin cytotoxicity, augmented the sub-G0/G1 phase, downregulated TNF-alpha/NF-kappaB pathway, decreased NF-kappaB protein levels, and showed affinity for TNF-alpha by molecular docking. Moreover, considering the C&K-modulated genes, BLOC1S1 acted as a protective factor for BC, and these genes were negatively correlated with TNF-alpha/NF-kappaB genes. Our data suggest that C&K have cytotoxic properties by inhibiting TNF-alpha/NF-kappaB pathway and interacting synergistically with doxorubicin in BC cells.",
+    "keywords": [
+      "NF-kappaB",
+      "TNF-alpha",
+      "breast cancer",
+      "coffee",
+      "diterpenes"
+    ],
+    "mesh_terms": [
+      "*Doxorubicin/pharmacology/administration & dosage",
+      "Humans",
+      "*NF-kappa B/metabolism/genetics/antagonists & inhibitors",
+      "Down-Regulation/drug effects",
+      "Female",
+      "Drug Synergism",
+      "*Diterpenes/pharmacology/chemistry",
+      "*Tumor Necrosis Factor-alpha/metabolism/genetics/antagonists & inhibitors",
+      "*Breast Neoplasms/drug therapy/pathology/genetics",
+      "Cell Survival/drug effects",
+      "Apoptosis/drug effects",
+      "Molecular Docking Simulation",
+      "Dose-Response Relationship, Drug",
+      "Signal Transduction/drug effects",
+      "Cell Cycle/drug effects",
+      "Cell Line, Tumor",
+      "Antibiotics, Antineoplastic/pharmacology",
+      "*Antineoplastic Combined Chemotherapy Protocols/pharmacology",
+      "Structure-Activity Relationship"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Souza, Layane D",
+        "Novaes, Fabio Junior M",
+        "Passos, Carlos Luan A",
+        "de Amorim, Isis S S",
+        "Nicolau-Neto, Pedro",
+        "Rodrigues, Juliana A",
+        "Teixeira, Adilson F",
+        "Ferreira, Christian",
+        "Dos Santos, Nathalia Alexia N",
+        "Camargo, Priscila G",
+        "Bispo, Marcelle L F",
+        "Lima, Camilo Henrique S",
+        "Pires, Bruno Ricardo B",
+        "Fonseca, Adenilson de Sousa da",
+        "Rezende, Claudia M",
+        "Fialho, Eliane",
+        "Mencalha, Andre Luiz"
+      ],
+      "short_names": [
+        "Souza LD",
+        "Novaes FJM",
+        "Passos CLA",
+        "de Amorim ISS",
+        "Nicolau-Neto P",
+        "Rodrigues JA",
+        "Teixeira AF",
+        "Ferreira C",
+        "Dos Santos NAN",
+        "Camargo PG",
+        "Bispo MLF",
+        "Lima CHS",
+        "Pires BRB",
+        "Fonseca ASD",
+        "Rezende CM",
+        "Fialho E",
+        "Mencalha AL"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2117-3448",
+        "ORCID: 0000-0003-2849-7875",
+        "ORCID: 0000-0002-9882-8222",
+        "ORCID: 0000-0002-2762-1400",
+        "ORCID: 0000-0003-3322-2120",
+        "ORCID: 0000-0002-4139-4080",
+        "ORCID: 0000-0001-7770-1778",
+        "ORCID: 0000-0003-0504-0354",
+        "ORCID: 0000-0003-4483-2119",
+        "ORCID: 0000-0002-6001-360X",
+        "ORCID: 0000-0002-5579-7809",
+        "ORCID: 0000-0002-0429-7871",
+        "ORCID: 0000-0002-4441-4008",
+        "ORCID: 0000-0003-2710-5702",
+        "ORCID: 0000-0001-7272-0021",
+        "ORCID: 0000-0003-3229-8094"
+      ],
+      "affiliations": [
+        "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Chemistry Department, Vicosa Federal University, Vicosa, Brazil.",
+        "Aromas Analysis Laboratory, Chemical Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Molecular Carcinogenesis Program, National Cancer Institute, Rio de Janeiro, Brazil.",
+        "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Laboratory of Synthesis of Medicinal Molecules, Chemistry Department, State University of Londrina, Londrina, Brazil.",
+        "Laboratory of Synthesis of Medicinal Molecules, Chemistry Department, State University of Londrina, Londrina, Brazil.",
+        "Chemistry Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Aromas Analysis Laboratory, Chemical Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Souza, Layane D",
+        "short_name": "Souza LD",
+        "identifiers": [
+          "0000-0003-2117-3448"
+        ],
+        "affiliations": [
+          "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Novaes, Fábio Junior M",
+        "short_name": "Novaes FJM",
+        "identifiers": [
+          "0000-0003-2849-7875"
+        ],
+        "affiliations": [
+          "Chemistry Department, Viçosa Federal University, Viçosa, Brazil.",
+          "Aromas Analysis Laboratory, Chemical Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Passos, Carlos Luan A",
+        "short_name": "Passos CLA",
+        "identifiers": [
+          "0000-0002-9882-8222"
+        ],
+        "affiliations": [
+          "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "de Amorim, Ísis S S",
+        "short_name": "de Amorim ÍSS",
+        "identifiers": [
+          "0000-0002-2762-1400"
+        ],
+        "affiliations": [
+          "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+          "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Nicolau-Neto, Pedro",
+        "short_name": "Nicolau-Neto P",
+        "identifiers": [
+          "0000-0003-3322-2120"
+        ],
+        "affiliations": [
+          "Molecular Carcinogenesis Program, National Cancer Institute, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Rodrigues, Juliana A",
+        "short_name": "Rodrigues JA",
+        "identifiers": [
+          "0000-0002-4139-4080"
+        ],
+        "affiliations": [
+          "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Teixeira, Adilson F",
+        "short_name": "Teixeira AF",
+        "identifiers": [
+          "0000-0001-7770-1778"
+        ],
+        "affiliations": [
+          "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Ferreira, Christian",
+        "short_name": "Ferreira C",
+        "identifiers": [
+          "0000-0003-0504-0354"
+        ],
+        "affiliations": [
+          "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Dos Santos, Nathalia Alexia N",
+        "short_name": "Dos Santos NAN",
+        "identifiers": [],
+        "affiliations": [
+          "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Camargo, Priscila G",
+        "short_name": "Camargo PG",
+        "identifiers": [
+          "0000-0003-4483-2119"
+        ],
+        "affiliations": [
+          "Laboratory of Synthesis of Medicinal Molecules, Chemistry Department, State University of Londrina, Londrina, Brazil."
+        ]
+      },
+      {
+        "full_name": "Bispo, Marcelle L F",
+        "short_name": "Bispo MLF",
+        "identifiers": [
+          "0000-0002-6001-360X"
+        ],
+        "affiliations": [
+          "Laboratory of Synthesis of Medicinal Molecules, Chemistry Department, State University of Londrina, Londrina, Brazil."
+        ]
+      },
+      {
+        "full_name": "Lima, Camilo Henrique S",
+        "short_name": "Lima CHS",
+        "identifiers": [
+          "0000-0002-5579-7809"
+        ],
+        "affiliations": [
+          "Chemistry Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Pires, Bruno Ricardo B",
+        "short_name": "Pires BRB",
+        "identifiers": [
+          "0000-0002-0429-7871"
+        ],
+        "affiliations": [
+          "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Fonseca, Adenilson de Sousa da",
+        "short_name": "Fonseca ASD",
+        "identifiers": [
+          "0000-0002-4441-4008"
+        ],
+        "affiliations": [
+          "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Rezende, Claudia M",
+        "short_name": "Rezende CM",
+        "identifiers": [
+          "0000-0003-2710-5702"
+        ],
+        "affiliations": [
+          "Aromas Analysis Laboratory, Chemical Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Fialho, Eliane",
+        "short_name": "Fialho E",
+        "identifiers": [
+          "0000-0001-7272-0021"
+        ],
+        "affiliations": [
+          "Functional Foods Laboratory, Nutrition Institute, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Mencalha, Andre Luiz",
+        "short_name": "Mencalha AL",
+        "identifiers": [
+          "0000-0003-3229-8094"
+        ],
+        "affiliations": [
+          "Department of Biophysics and Biometrics, Roberto Alcantara Biology Institute, State University of Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archiv der Pharmazie"
+    ],
+    "journal_abbrev": [
+      "Arch Pharm (Weinheim)"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 05:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42844983",
+      "26169986",
+      "32645343",
+      "26011589",
+      "37608270",
+      "28752270",
+      "20862547",
+      "15131058",
+      "31412018",
+      "21811763",
+      "24300974",
+      "18566223",
+      "17363495",
+      "22225778",
+      "26911804",
+      "18709644",
+      "16581782",
+      "23708311",
+      "29920287",
+      "23174100",
+      "33509300",
+      "24356372",
+      "29116428",
+      "17047073",
+      "42787218",
+      "40460610",
+      "24867094",
+      "23593410",
+      "15709200",
+      "32418059",
+      "32020859",
+      "20056115",
+      "42197115",
+      "23620411",
+      "15044484",
+      "22909797",
+      "32455624",
+      "21346553",
+      "14767544",
+      "22762853",
+      "23635099",
+      "30302629",
+      "16865287",
+      "16061678",
+      "21798852",
+      "39697011",
+      "17223244",
+      "17039268",
+      "29131009",
+      "24986326",
+      "12176740",
+      "30569541",
+      "21754991",
+      "23957955",
+      "18597088",
+      "41593181",
+      "38411783",
+      "15899819",
+      "21549825",
+      "28968948",
+      "23892407",
+      "24285354",
+      "28910332",
+      "24344116",
+      "26184135",
+      "10962577",
+      "21880146",
+      "33775688",
+      "21951285",
+      "17909069",
+      "21187919",
+      "28666869",
+      "33288558",
+      "17913854",
+      "24529079",
+      "23103562",
+      "22745335",
+      "35346647",
+      "18550789",
+      "25168152",
+      "29771406",
+      "29291370",
+      "22465880",
+      "21387297",
+      "29377600",
+      "27889231",
+      "26531258",
+      "24627159",
+      "36142441",
+      "33632157",
+      "24245692",
+      "38037106",
+      "21482450",
+      "23383209",
+      "24707876",
+      "42477385",
+      "31509261",
+      "40614544",
+      "29460212",
+      "29368698"
+    ],
+    "review": [
+      "42844983"
+    ],
+    "pmc": [
+      "13646870"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1002/ardp.70359",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "identity": {
+    "pmid": "42842304",
+    "doi": "10.1099/mic.0.001762",
+    "title": "Ecological and evolutionary diversification of LuxI/R quorum sensing and LuxR solo regulators in Pseudomonas."
+  },
+  "content": {
+    "abstract": "Bacterial quorum sensing (QS) is classically viewed as a population-density-dependent communication system mediated by canonical LuxI/R circuits. However, increasing evidence indicates that QS is also shaped by environmental and ecological contexts and that its regulatory architectures extend beyond canonical systems via the diversification of LuxR solo regulators lacking cognate LuxI synthases. Here, we performed a comprehensive comparative genomic analysis of 1,740 chromosome-level genomes across the genus Pseudomonas in order to investigate the distribution, organization, evolutionary diversification and ecological associations of LuxI/R QS systems and LuxR solos. We show that complete LuxI/R systems are patchily distributed across the genus, indicating that canonical N-acyl homoserine lactone-mediated QS is not a universally conserved trait in Pseudomonas. Instead, LuxI/R systems display strong lineage-dependent retention patterns, with selective expansion in specific taxa and recurrent absence in many others, suggesting dynamic evolutionary gain, loss and diversification. Phylogenetic analyses further revealed weak lineage constraint and evidence of both vertical inheritance and horizontal transfer. In contrast, LuxR solos are pervasive and frequently expanded, particularly in environmental and plant-associated species. Phylogenetic and AlphaFold3-guided structural analyses of LuxR solo ligand-binding domains revealed potential diversification of predicted signal response, suggesting possible broad evolution of ligand-recognition capabilities. Multiple LuxR solos within single genomes frequently occupied distinct phylogenetic and structural clades, possibly indicating that they are unlikely to be functionally redundant and this leads us to speculate that they could mediate responses to diverse environmental, microbial or host-derived signals. Ecological analyses further demonstrated that expansion of canonical LuxI/R systems appears to be associated primarily with rhizosphere-associated lifestyles, whereas LuxR solo diversification correlates with intimate plant-associated niches. Together, these findings indicate that QS-related evolution in Pseudomonas is characterized less by conservation of canonical signalling circuits and more by diversification via LuxR solos, expanding the ecological adaptability and communication potential of these bacteria.",
+    "keywords": [
+      "LuxR solo",
+      "Pseudomonas",
+      "comparative genomics, LuxI/R",
+      "quorum sensing"
+    ],
+    "mesh_terms": [
+      "*Quorum Sensing/genetics",
+      "*Trans-Activators/genetics/metabolism/chemistry",
+      "*Bacterial Proteins/genetics/metabolism/chemistry",
+      "*Pseudomonas/genetics/classification/physiology/metabolism",
+      "*Repressor Proteins/genetics/metabolism/chemistry",
+      "Phylogeny",
+      "*Evolution, Molecular",
+      "*Transcription Factors/genetics/metabolism",
+      "Gene Expression Regulation, Bacterial",
+      "Genome, Bacterial"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Al-Darwish, Hashem",
+        "Ezzahidi, Oumaima",
+        "Achouak, Wafa",
+        "Diab, Elmahdi",
+        "Ait El Aouad, Hayat",
+        "Essamdi, Ouissal",
+        "Sollitto, Marco",
+        "Bez, Cristina",
+        "Venturi, Vittorio"
+      ],
+      "short_names": [
+        "Al-Darwish H",
+        "Ezzahidi O",
+        "Achouak W",
+        "Diab E",
+        "Ait El Aouad H",
+        "Essamdi O",
+        "Sollitto M",
+        "Bez C",
+        "Venturi V"
+      ],
+      "auids": [],
+      "affiliations": [
+        "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco.",
+        "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco.",
+        "Institut de Biosciences et Biotechnologies Aix-Marseille (BIAM), CEA, CNRS, Aix-Marseille Universite, UMR 7265, Saint-Paul-lez-Durance, France.",
+        "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco.",
+        "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco.",
+        "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco.",
+        "The Vertebrate Genome Laboratory, The Rockefeller University, New York, USA.",
+        "Department of Biology, University of Florence, Sesto Fiorentino, Florence, Italy.",
+        "International Centre for Genetic Engineering and Biotechnology (ICGEB), Trieste, Italy.",
+        "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco.",
+        "International Centre for Genetic Engineering and Biotechnology (ICGEB), Trieste, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Al-Darwish, Hashem",
+        "short_name": "Al-Darwish H",
+        "identifiers": [],
+        "affiliations": [
+          "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco."
+        ]
+      },
+      {
+        "full_name": "Ezzahidi, Oumaima",
+        "short_name": "Ezzahidi O",
+        "identifiers": [],
+        "affiliations": [
+          "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco."
+        ]
+      },
+      {
+        "full_name": "Achouak, Wafa",
+        "short_name": "Achouak W",
+        "identifiers": [],
+        "affiliations": [
+          "Institut de Biosciences et Biotechnologies Aix-Marseille (BIAM), CEA, CNRS, Aix-Marseille Université, UMR 7265, Saint-Paul-lez-Durance, France."
+        ]
+      },
+      {
+        "full_name": "Diab, Elmahdi",
+        "short_name": "Diab E",
+        "identifiers": [],
+        "affiliations": [
+          "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco."
+        ]
+      },
+      {
+        "full_name": "Ait El Aouad, Hayat",
+        "short_name": "Ait El Aouad H",
+        "identifiers": [],
+        "affiliations": [
+          "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco."
+        ]
+      },
+      {
+        "full_name": "Essamdi, Ouissal",
+        "short_name": "Essamdi O",
+        "identifiers": [],
+        "affiliations": [
+          "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco."
+        ]
+      },
+      {
+        "full_name": "Sollitto, Marco",
+        "short_name": "Sollitto M",
+        "identifiers": [],
+        "affiliations": [
+          "The Vertebrate Genome Laboratory, The Rockefeller University, New York, USA.",
+          "Department of Biology, University of Florence, Sesto Fiorentino, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Bez, Cristina",
+        "short_name": "Bez C",
+        "identifiers": [],
+        "affiliations": [
+          "International Centre for Genetic Engineering and Biotechnology (ICGEB), Trieste, Italy."
+        ]
+      },
+      {
+        "full_name": "Venturi, Vittorio",
+        "short_name": "Venturi V",
+        "identifiers": [],
+        "affiliations": [
+          "African Genome Center, University Mohammed VI Polytechnic (UM6P), Ben Guerir, Morocco.",
+          "International Centre for Genetic Engineering and Biotechnology (ICGEB), Trieste, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbiology (Reading, England)"
+    ],
+    "journal_abbrev": [
+      "Microbiology (Reading)"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 17:33",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42842304",
+      "25621282",
+      "33789944",
+      "25759807",
+      "25815274",
+      "31732826",
+      "25478328",
+      "42088267",
+      "25389523",
+      "28765541",
+      "26029670",
+      "11496014",
+      "42078016",
+      "38240569",
+      "31325485",
+      "31447806",
+      "19534812",
+      "29756433",
+      "37227303",
+      "30884254",
+      "39524928",
+      "19735279",
+      "24498215",
+      "27848037",
+      "15014168",
+      "35876567",
+      "33964980",
+      "39315803",
+      "28083715",
+      "25550519",
+      "42475469",
+      "25923884",
+      "38702600",
+      "23626795",
+      "40197035",
+      "24132148",
+      "31359073",
+      "42714543",
+      "32332134",
+      "24191970",
+      "19383698",
+      "36802056",
+      "29208745",
+      "38010341",
+      "29625990",
+      "15660998",
+      "33143873",
+      "41920955",
+      "40240290",
+      "30967469",
+      "22060261",
+      "26350174",
+      "32756387",
+      "37110313",
+      "24273546",
+      "42146468",
+      "23851092",
+      "28515720",
+      "30320901",
+      "31628145",
+      "14617666",
+      "16484206",
+      "39636707",
+      "21317265",
+      "25691531",
+      "8905097",
+      "10781550",
+      "32001099",
+      "23324134",
+      "27510302",
+      "23056438",
+      "22983963",
+      "42845466",
+      "29382732",
+      "36364411",
+      "28484045",
+      "36386619",
+      "35525168",
+      "19201791",
+      "33951403",
+      "40963500",
+      "29507087",
+      "34298336",
+      "35400206",
+      "40107099",
+      "41128522",
+      "23839217",
+      "27647069",
+      "18553406",
+      "20705668",
+      "35471121",
+      "19222586",
+      "21154995",
+      "23820583",
+      "27222380",
+      "16272381",
+      "39998267",
+      "24281952",
+      "31745565",
+      "27191515"
+    ],
+    "review": [
+      "42842304",
+      "31732826",
+      "25389523",
+      "38240569",
+      "29756433",
+      "19383698",
+      "36802056",
+      "41920955",
+      "40240290",
+      "22060261",
+      "24273546",
+      "8905097",
+      "32001099",
+      "36364411",
+      "28484045"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://mic.microbiologyresearch.org/pubmed/content/journal/micro/10.1099/mic.0.001762",
+        "provider": "Ingenta plc",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

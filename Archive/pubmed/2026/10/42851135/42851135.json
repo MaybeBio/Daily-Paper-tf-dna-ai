@@ -1,0 +1,233 @@
+{
+  "identity": {
+    "pmid": "42851135",
+    "doi": "10.5603/fm.113594",
+    "title": "The combination of puerarin and simvastatin alleviates inflammatory responses and promotes osteogenic differentiation via an IRF4-mediated mechanism in periodontal ligament stem cells."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The impaired function of periodontal ligament stem cells (PDLSCs) impedes the restoration of periodontal tissues. Puerarin (Pue) is a natural flavonoid component derived from Pueraria lobata, and simvastatin (Sim) is a lactone-form statin. Both have been shown to promote proliferation and osteogenic differentiation and to exert anti-inflammatory effects in human PDLSCs. This study aimed to elucidate the effects of Pue and Sim in lipopolysaccharide (LPS)-stimulated PDLSCs and the underlying mechanism. MATERIALS AND METHODS: Bioinformatics, weighted gene coexpression network analysis (WGCNA), machine learning, and molecular docking were used to identify genes associated with periodontitis in the GSE10334 dataset. LPS was administered to simulate an inflammatory microenvironment in PDLSCs. IRF4 protein expression was assessed by western blotting. The mRNA levels of IRF4, RGS1, CD27, CXCR4, Runx2, ALP, and OCN were measured using quantitative real-time PCR. Cell viability was assessed using a Cell Counting Kit-8 (CCK-8) assay. The levels of lactate dehydrogenase (LDH), malondialdehyde (MDA), tumor necrosis factor-alpha (TNF-alpha), and interleukin-6 (IL-6) were measured using commercial kits or ELISA. Alkaline phosphatase (ALP) and Alizarin Red (AR) staining were performed to assess osteogenic differentiation. RESULTS: Diminished secretion of pro-inflammatory cytokines, reduced production of MDA and LDH, augmented ALP activity and calcium deposition, and elevated expression of osteogenic differentiation-related genes were observed in the Pue + Sim group compared with the Pue group, Sim group, and control group in LPS-treated PDLSCs. Bioinformatics, WGCNA, machine learning, and molecular docking identified IRF4 as a key gene associated with Pue and Sim treatment. The expression of IRF4 was significantly diminished following treatment with Pue, Sim, or Pue + Sim. The protective effect of Pue + Sim treatment was attenuated by IRF4 overexpression. CONCLUSIONS: The combination of Pue and Sim treatment showed strong effects in reducing inflammation and oxidative stress and promoting osteogenic differentiation via an IRF4-mediated mechanism in LPS-stimulated PDLSCs, providing a promising therapeutic strategy for treating periodontitis.",
+    "keywords": [
+      "IRF4",
+      "PDLSCs",
+      "periodontitis",
+      "puerarin",
+      "simvastatin"
+    ],
+    "mesh_terms": [
+      "*Simvastatin/pharmacology",
+      "Humans",
+      "*Osteogenesis/drug effects",
+      "*Isoflavones/pharmacology",
+      "*Periodontal Ligament/cytology",
+      "*Cell Differentiation/drug effects",
+      "*Stem Cells/drug effects/metabolism",
+      "Interferon Regulatory Factor-4",
+      "*Inflammation/drug therapy/metabolism/pathology",
+      "*Interferon Regulatory Factors/metabolism",
+      "Cells, Cultured"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lu, Zhenfei",
+        "Lu, Jin",
+        "Zeng, Bin",
+        "Chen, Liangjian"
+      ],
+      "short_names": [
+        "Lu Z",
+        "Lu J",
+        "Zeng B",
+        "Chen L"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-5847-8460",
+        "ORCID: 0009-0003-6466-1131",
+        "ORCID: 0009-0002-5888-1093",
+        "ORCID: 0009-0003-0674-8538"
+      ],
+      "affiliations": [
+        "Department of Stomatology, The Third Xiangya Hospital, Central South University, Changsha, China.",
+        "Chaling Xicheng Stomatological Hospital, Zhuzhou, China.",
+        "School of Stomatology, Changsha Medical University, Changsha, China.",
+        "Department of Stomatology, The Third Xiangya Hospital, Central South University, Changsha, China. chenlj654@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lu, Zhenfei",
+        "short_name": "Lu Z",
+        "identifiers": [
+          "0009-0007-5847-8460"
+        ],
+        "affiliations": [
+          "Department of Stomatology, The Third Xiangya Hospital, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Jin",
+        "short_name": "Lu J",
+        "identifiers": [
+          "0009-0003-6466-1131"
+        ],
+        "affiliations": [
+          "Chaling Xicheng Stomatological Hospital, Zhuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Bin",
+        "short_name": "Zeng B",
+        "identifiers": [
+          "0009-0002-5888-1093"
+        ],
+        "affiliations": [
+          "School of Stomatology, Changsha Medical University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Liangjian",
+        "short_name": "Chen L",
+        "identifiers": [
+          "0009-0003-0674-8538"
+        ],
+        "affiliations": [
+          "Department of Stomatology, The Third Xiangya Hospital, Central South University, Changsha, China. chenlj654@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Folia morphologica"
+    ],
+    "journal_abbrev": [
+      "Folia Morphol (Warsz)"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 05:30",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42851135",
+      "32222858",
+      "38475949",
+      "40220409",
+      "40532327",
+      "41863006",
+      "39078121",
+      "28833827",
+      "25676262",
+      "39979903",
+      "29779281",
+      "31487508",
+      "39538267",
+      "31792473",
+      "39190381",
+      "38553328",
+      "36104643",
+      "41389271",
+      "31957858",
+      "31885340",
+      "39871562",
+      "24112098",
+      "24887697",
+      "40259757",
+      "38699861",
+      "40132970",
+      "42316890",
+      "28598248",
+      "31541455",
+      "31931700",
+      "30894315",
+      "23911749",
+      "41275224",
+      "38636999",
+      "39113140",
+      "36684656",
+      "37087587",
+      "42394560",
+      "31401384",
+      "41641517",
+      "29621668",
+      "27117217",
+      "39151819",
+      "30682715",
+      "41650834",
+      "28295277",
+      "39667547",
+      "40287047",
+      "41161258",
+      "33137544",
+      "30851068",
+      "27523567",
+      "33485352",
+      "40980417",
+      "39301638",
+      "25498523",
+      "40032153",
+      "41771191",
+      "40455363",
+      "41772692",
+      "41013458",
+      "40899212",
+      "22905750",
+      "31831723",
+      "30819199",
+      "33719020",
+      "40653466",
+      "39500084",
+      "42387594",
+      "31440036",
+      "26884650",
+      "38636252",
+      "27604968",
+      "36705490",
+      "29996362",
+      "24231680",
+      "35249460",
+      "33377338",
+      "38193526",
+      "40381879",
+      "30387555",
+      "33368310",
+      "31718857",
+      "31974644",
+      "35589065",
+      "30221352",
+      "37056183",
+      "41170738",
+      "41497811",
+      "34647317",
+      "37852336",
+      "40259637",
+      "35436742",
+      "37712743",
+      "29786238",
+      "38539170",
+      "42247869",
+      "33202358",
+      "35562763",
+      "31398715"
+    ],
+    "review": [
+      "42851135"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

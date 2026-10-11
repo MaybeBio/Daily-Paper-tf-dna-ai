@@ -1,0 +1,101 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.30.755582",
+  "title": "The mammalian genome is punctuated by regularly spaced nucleosome islands",
+  "doi": "10.64898/2026.09.30.755582",
+  "abstract": "Nucleosome positioning plays a fundamental role in regulating DNA accessibility and cellular activity, yet the precise rules by which mammalian sequences instruct this organization have remained incomplete. Prior work has established that intrinsic sequence preferences dictate nucleosome architecture in yeast, but in mammals, this sequence code is modulated by chromatin state and cell-type–specific factors. Here, we train a deep-learning model on genome-wide maps from mouse embryonic stem cells to predict nucleosome occupancy directly from the primary DNA sequence. Our model accurately predicts in vivo occupancy and captures shared biological signals while effectively denoising assay-specific technical biases. Through in silico mutagenesis, we identify specific nucleosome positioning regions comprised of short 5-to-20-base-pair motifs concentrated within dense regulatory windows. Furthermore, we demonstrate that repetitive DNA elements play a major role in establishing these highly organized nucleosome arrays on a genomic scale. Specifically, CCCTC-binding factor motifs embedded within short interspersed nuclear elements, zinc-finger–bound motifs within long interspersed nuclear elements, and microsatellite repeats act as potent organizers of nucleosome phasing. Together, our findings extend the concept of sequence-encoded nucleosome architecture to mammalian genomes and reveal that regularly spaced nucleosome islands are shaped by short, recurrent sets of DNA motifs that couple local sequence to chromatin structure.",
+  "authors": [
+    "Christophe M",
+    "Altamirano L",
+    "Navarro P",
+    "Mozziconacci J"
+  ],
+  "published_date": "2026-10-04",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755582",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755582.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1334491",
+    "raw_record": {
+      "id": "PPR1334491",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.30.755582",
+      "title": "The mammalian genome is punctuated by regularly spaced nucleosome islands",
+      "authorString": "Christophe M, Altamirano L, Navarro P, Mozziconacci J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Christophe M",
+            "lastName": "Christophe",
+            "initials": "M"
+          },
+          {
+            "fullName": "Altamirano L",
+            "lastName": "Altamirano",
+            "initials": "L"
+          },
+          {
+            "fullName": "Navarro P",
+            "lastName": "Navarro",
+            "initials": "P"
+          },
+          {
+            "fullName": "Mozziconacci J",
+            "lastName": "Mozziconacci",
+            "initials": "J"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Nucleosome positioning plays a fundamental role in regulating DNA accessibility and cellular activity, yet the precise rules by which mammalian sequences instruct this organization have remained incomplete. Prior work has established that intrinsic sequence preferences dictate nucleosome architecture in yeast, but in mammals, this sequence code is modulated by chromatin state and cell-type–specific factors. Here, we train a deep-learning model on genome-wide maps from mouse embryonic stem cells to predict nucleosome occupancy directly from the primary DNA sequence. Our model accurately predicts  in vivo occupancy and captures shared biological signals while effectively denoising assay-specific technical biases. Through in silico mutagenesis, we identify specific nucleosome positioning regions comprised of short 5-to-20-base-pair motifs concentrated within dense regulatory windows. Furthermore, we demonstrate that repetitive DNA elements play a major role in establishing these highly organized nucleosome arrays on a genomic scale. Specifically, CCCTC-binding factor motifs embedded within short interspersed nuclear elements, zinc-finger–bound motifs within long interspersed nuclear elements, and microsatellite repeats act as potent organizers of nucleosome phasing. Together, our findings extend the concept of sequence-encoded nucleosome architecture to mammalian genomes and reveal that regularly spaced nucleosome islands are shaped by short, recurrent sets of DNA motifs that couple local sequence to chromatin structure.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.30.755582"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-06",
+      "firstPublicationDate": "2026-10-04",
+      "firstIndexDate": "2026-10-06",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "identity": {
+    "pmid": "42837419",
+    "doi": "10.1371/journal.pone.0359405",
+    "title": "Shenling Qige Granules inhibit esophageal squamous cell carcinoma progression in TE-1 xenograft and cell-based models by modulating the DCN-TGF-beta/Smad signaling axis."
+  },
+  "content": {
+    "abstract": "Shenling Qige Granules (SLQG), derived from the Qing Dynasty formula Qige San recorded in Yi Xue Xin Wu, has been used in clinical practice in China as an adjuvant traditional Chinese medicine preparation for esophageal squamous cell carcinoma (ESCC), but its molecular basis remains unclear. This study investigated the antitumor effects and mechanisms of SLQG using TE-1 xenograft mice and SLQG-containing serum-treated TE-1 cells. Transcriptome sequencing, network pharmacology, molecular docking, molecular dynamics simulation, and public-database analysis were integrated to prioritize candidate mechanisms. Histological, molecular, cellular, and siRNA-mediated decorin (DCN) knockdown assays were performed for validation. SLQG, especially at the medium dose, inhibited xenograft tumor growth and increased DCN expression. Transcriptomic analysis highlighted the transforming growth factor-beta (TGF-beta)/Smad pathway. In silico analyses suggested that several SLQG-derived compounds, particularly ursolic acid, may be associated with DCN-related regulation. Public-database analysis indicated lower DCN expression in esophageal carcinoma tumor samples than in normal samples and an association with pathological stage. In vivo and in vitro, SLQG increased DCN expression, reduced Smad2/3 phosphorylation, promoted pro-apoptotic signaling, and induced G0/G1 arrest; these effects were attenuated by DCN knockdown. These findings suggest that SLQG inhibited ESCC progression in TE-1 xenograft and cell-based models, potentially through modulation of the DCN-associated TGF-beta/Smad signaling axis.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "Humans",
+      "*Signal Transduction/drug effects",
+      "*Esophageal Neoplasms/drug therapy/pathology/metabolism/genetics",
+      "*Drugs, Chinese Herbal/pharmacology/therapeutic use",
+      "Mice",
+      "Cell Line, Tumor",
+      "*Esophageal Squamous Cell Carcinoma/drug therapy/pathology/metabolism/genetics",
+      "*Transforming Growth Factor beta/metabolism",
+      "Xenograft Model Antitumor Assays",
+      "*Decorin/metabolism/genetics",
+      "Mice, Nude",
+      "*Smad Proteins/metabolism",
+      "Cell Proliferation/drug effects",
+      "Apoptosis/drug effects",
+      "Gene Expression Regulation, Neoplastic/drug effects",
+      "Male",
+      "Molecular Docking Simulation",
+      "Disease Progression"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Zihui",
+        "Gu, Yiting",
+        "Fan, Huanfang",
+        "Huang, Mao",
+        "Li, Dehui",
+        "Guo, Wen",
+        "He, Yun",
+        "Zhang, Shuang",
+        "Du, Zhihua"
+      ],
+      "short_names": [
+        "Liu Z",
+        "Gu Y",
+        "Fan H",
+        "Huang M",
+        "Li D",
+        "Guo W",
+        "He Y",
+        "Zhang S",
+        "Du Z"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-1485-1889",
+        "ORCID: 0000-0002-3200-9371"
+      ],
+      "affiliations": [
+        "Graduate School, Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China.",
+        "Graduate School, Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China.",
+        "Second Department of Oncology, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China.",
+        "Department of Pediatric Rehabilitation, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China.",
+        "Second Department of Oncology, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China.",
+        "Graduate School, Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China.",
+        "Graduate School, Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China.",
+        "Second Department of Oncology, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China.",
+        "Second Department of Oncology, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Zihui",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0009-0009-1485-1889"
+        ],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Gu, Yiting",
+        "short_name": "Gu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Fan, Huanfang",
+        "short_name": "Fan H",
+        "identifiers": [
+          "0000-0002-3200-9371"
+        ],
+        "affiliations": [
+          "Second Department of Oncology, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Huang, Mao",
+        "short_name": "Huang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Rehabilitation, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Dehui",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "Second Department of Oncology, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Guo, Wen",
+        "short_name": "Guo W",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      },
+      {
+        "full_name": "He, Yun",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shuang",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Second Department of Oncology, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Du, Zhihua",
+        "short_name": "Du Z",
+        "identifiers": [],
+        "affiliations": [
+          "Second Department of Oncology, The First Affiliated Hospital of Hebei University of Chinese Medicine, Shijiazhuang, Hebei, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 17:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42837419",
+      "42030890",
+      "42216222",
+      "40821803",
+      "39985567",
+      "41039452",
+      "39694222",
+      "38994756",
+      "39341782",
+      "39046082",
+      "38914958",
+      "41092853",
+      "40854921",
+      "40140842",
+      "38923019",
+      "39792166",
+      "41668003",
+      "40383614",
+      "40250733",
+      "32863938",
+      "37017854",
+      "40615101",
+      "32678196",
+      "32653032",
+      "40021097",
+      "42607555",
+      "40456202",
+      "32619460",
+      "26099172",
+      "32727517",
+      "34003522",
+      "41966342",
+      "38653091",
+      "32867821",
+      "25464508",
+      "35317779",
+      "41720415",
+      "41315778",
+      "41811529",
+      "41254727",
+      "42438066",
+      "39700956",
+      "28764725",
+      "31438989",
+      "39891717",
+      "31296250",
+      "42288513",
+      "41088127",
+      "42628332",
+      "24551170",
+      "41963612",
+      "31481019",
+      "38954215",
+      "40383869",
+      "40186402",
+      "41645360",
+      "41317688",
+      "39503194",
+      "41759559",
+      "38924029",
+      "39383633",
+      "41430434",
+      "38682192",
+      "29781054",
+      "31783401",
+      "34839191",
+      "31908417",
+      "42274788",
+      "39618426",
+      "40684840",
+      "40265434",
+      "40760241",
+      "26302489",
+      "30569171",
+      "39763282",
+      "41102169",
+      "31747529",
+      "33757572",
+      "39672175",
+      "28233302",
+      "41966312",
+      "32239565",
+      "38697422",
+      "30609930",
+      "40513325",
+      "39321706",
+      "39764996",
+      "42518368",
+      "39832205",
+      "40486873",
+      "27456944",
+      "32323849",
+      "40135592",
+      "34476429",
+      "30119241",
+      "42704030",
+      "31331361",
+      "28633632",
+      "40660293",
+      "41787560"
+    ],
+    "review": [
+      "42837419"
+    ],
+    "pmc": [
+      "13641691"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/esophagealcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Esophageal Cancer"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0359405",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3854",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

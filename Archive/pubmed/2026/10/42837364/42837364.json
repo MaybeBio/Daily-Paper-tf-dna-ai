@@ -1,0 +1,237 @@
+{
+  "identity": {
+    "pmid": "42837364",
+    "doi": "10.1371/journal.pone.0359164",
+    "title": "GP-DHT: A dual-head transformer with supervised contrastive learning for shared-gene pretraining and single-cell GRN prediction."
+  },
+  "content": {
+    "abstract": "Gene Regulatory Networks (GRNs) are crucial for understanding cell fate decisions and disease mechanisms. However, inferring GRNs from single-cell RNA sequencing remains challenging due to noise, data sparsity, and species-specific distribution variations. We propose GP-DHT (Gene Pair-Dual Head Transformer), a single-cell GRN inference framework that pre-trains gene representations on a unified shared gene space using the BEELINE datasets of humans and mice. It models gene-cell expression relationships through a multi-relational heterograph and predicts transcription factor (TF)-target regulatory links using a dual-head Transformer. These two heads correspond to complementary task objectives: a classification head for regulatory link prediction and a projection head for gene pair-level supervised contrastive learning. This design enables the model to optimize both prediction accuracy and representation separability in a sparse single-cell setting. The human-mouse shared-gene stage is used to initialize expression-derived gene representations in a harmonized gene space. During dataset-wise supervised training, GenePairSupCon is applied within each training fold to regularize gene-pair representations, followed by fine-tuning and evaluation within each BEELINE dataset. To enhance reproducibility and interpretability, we further clarify the mapping of orthologous genes and gene symbol unification, TF-level data partitioning and leakage control, negative label sensitivity, and quantitative embedding quality assessment. Hard negative example experiments show that negative label construction has a substantial impact on task difficulty, while supervised contrastive learning significantly improves the separability of embeddings, as measured by Silhouette score, Davies-Bouldin index, Calinski-Harabasz score, and inter/intra distance ratio. GP-DHT can also recover prior-supported candidate regulatory modules and provide additional interpretable support through post-hoc pair-level attribution analysis on frozen predictors. In summary, these results support GP-DHT as a robust shared gene representation learning framework for dataset-level single-cell GRN prediction.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "*Gene Regulatory Networks",
+      "Humans",
+      "*Single-Cell Analysis/methods",
+      "Single-Cell Gene Expression Analysis",
+      "*Computational Biology/methods",
+      "Transcription Factors/metabolism/genetics",
+      "*Supervised Machine Learning",
+      "Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yan, Shuai",
+        "Yu, Qingzhi",
+        "Dai, Wenfeng",
+        "Cheng, Xiang"
+      ],
+      "short_names": [
+        "Yan S",
+        "Yu Q",
+        "Dai W",
+        "Cheng X"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-1919-3414"
+      ],
+      "affiliations": [
+        "School of Information Engineering, Jingdezhen Ceramic University, Jingdezhen, Jiangxi, China.",
+        "School of Information Engineering, Jingdezhen Ceramic University, Jingdezhen, Jiangxi, China.",
+        "School of Information Engineering, Jingdezhen Ceramic University, Jingdezhen, Jiangxi, China.",
+        "School of Information Engineering, Jingdezhen Ceramic University, Jingdezhen, Jiangxi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yan, Shuai",
+        "short_name": "Yan S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information Engineering, Jingdezhen Ceramic University, Jingdezhen, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Qingzhi",
+        "short_name": "Yu Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information Engineering, Jingdezhen Ceramic University, Jingdezhen, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Wenfeng",
+        "short_name": "Dai W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information Engineering, Jingdezhen Ceramic University, Jingdezhen, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Xiang",
+        "short_name": "Cheng X",
+        "identifiers": [
+          "0009-0006-1919-3414"
+        ],
+        "affiliations": [
+          "School of Information Engineering, Jingdezhen Ceramic University, Jingdezhen, Jiangxi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 17:31",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42837364",
+      "40251476",
+      "40662821",
+      "41317402",
+      "38950180",
+      "41206950",
+      "42265576",
+      "42059479",
+      "39960893",
+      "41288963",
+      "42337558",
+      "41489955",
+      "42752548",
+      "38980373",
+      "41883144",
+      "42650039",
+      "36070863",
+      "40315689",
+      "41498638",
+      "37985457",
+      "40062616",
+      "38778003",
+      "40633682",
+      "39550222",
+      "35050715",
+      "41632825",
+      "39487083",
+      "39975293",
+      "41643202",
+      "41067887",
+      "40116659",
+      "39605181",
+      "38342857",
+      "30547796",
+      "36585783",
+      "42482180",
+      "42527907",
+      "42653305",
+      "42793003",
+      "35961023",
+      "42086551",
+      "41896196",
+      "41093852",
+      "42464099",
+      "41554051",
+      "41300707",
+      "42308421",
+      "39062480",
+      "42734741",
+      "38653489",
+      "42475469",
+      "39401117",
+      "39417321",
+      "38744843",
+      "41984780",
+      "42024938",
+      "41871930",
+      "42799699",
+      "40856525",
+      "42399758",
+      "42776880",
+      "37085776",
+      "41805524",
+      "32207875",
+      "42106043",
+      "40037709",
+      "32174324",
+      "26564975",
+      "33170214",
+      "42061403",
+      "41043336",
+      "40862519",
+      "40966655",
+      "39934680",
+      "42560939",
+      "40708222",
+      "42056283",
+      "35062026",
+      "41191474",
+      "41191468",
+      "42335450",
+      "31985403",
+      "32054475",
+      "42419494",
+      "33294129",
+      "39207727",
+      "42398561",
+      "40220759",
+      "39939367",
+      "41518505",
+      "41105015",
+      "41269283",
+      "41557577",
+      "41771198",
+      "39636237",
+      "32606380",
+      "37889053",
+      "42636032",
+      "37897702",
+      "42614561"
+    ],
+    "review": [
+      "42837364",
+      "42734741",
+      "40966655",
+      "39207727"
+    ],
+    "pmc": [
+      "13641368"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0359164",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

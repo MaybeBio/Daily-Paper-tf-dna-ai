@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42841599",
+    "doi": "10.4081/ejh.2026.4587",
+    "title": "Sinensetin ameliorates osteoarthritis progression by modulating the NF-kappaB/NLRP3 signaling pathway and suppressing chondrocyte pyroptosis."
+  },
+  "content": {
+    "abstract": "Sinensetin (SIN) is a natural flavonoid with potential anti‑inflammatory effects. This study investigated whether SIN ameliorates osteoarthritis (OA) and explored its underlying mechanisms. In vitro, SIN (0.05-1 mug/mL) protected human OA chondrocytes from IL‑1beta‑induced viability loss. Transcriptome sequencing and molecular docking identified SERPINA3 as a candidate target of SIN. SIN reduced the expression of NLRP3, GSDMD, and ASC, inhibited pyroptotic morphology, decreased TUNEL‑positive cells and LDH release, and lowered IL‑1beta and IL‑18 secretion in IL‑1beta‑treated chondrocytes. Knockdown of SERPINA3 reversed these effects, suggesting that SIN acts through SERPINA3 to inhibit the NLRP3 inflammasome. In a rat DMM‑induced OA model, SIN (20 mg/kg/day for 6 weeks) alleviated pain, reduced OARSI scores, improved cartilage matrix staining (Safranin O, Masson's trichrome), attenuated synovial hyperplasia and posterior capsule adhesions, and decreased plasma IL‑1beta and IL‑18 levels. Western blot of rat cartilage confirmed that SIN suppressed GSDMD and NLRP3 expression. These results indicate that SIN ameliorates OA progression by inhibiting SERPINA3‑mediated NF‑kappaB/NLRP3‑driven chondrocyte pyroptosis. SIN may be a potential therapeutic candidate for OA.",
+    "keywords": [
+      "SERPINA3",
+      "Sinensetin",
+      "inflammation",
+      "osteoarthritis",
+      "pyroptosis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Pyroptosis/drug effects",
+      "*Chondrocytes/drug effects/metabolism",
+      "*NLR Family, Pyrin Domain-Containing 3 Protein/metabolism",
+      "*NF-kappa B/metabolism",
+      "*Osteoarthritis/drug therapy/metabolism/pathology",
+      "*Signal Transduction/drug effects",
+      "Rats",
+      "Humans",
+      "Male",
+      "Rats, Sprague-Dawley",
+      "Serpins/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Zhendong",
+        "Liu, Ruizhou",
+        "Yue, Hongwei",
+        "Liu, Peilai",
+        "Wang, Rui"
+      ],
+      "short_names": [
+        "Liu Z",
+        "Liu R",
+        "Yue H",
+        "Liu P",
+        "Wang R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Orthopedics, Qilu Hospital of Shandong University Dezhou Hospital, Dezhou, Shandong.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University Dezhou Hospital, Dezhou, Shandong.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, Shandong.",
+        "Department of Dermatology, Qilu Hospital of Shandong University Dezhou Hospital, Dezhou, Shandong."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Zhendong",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University Dezhou Hospital, Dezhou, Shandong."
+        ]
+      },
+      {
+        "full_name": "Liu, Ruizhou",
+        "short_name": "Liu R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang."
+        ]
+      },
+      {
+        "full_name": "Yue, Hongwei",
+        "short_name": "Yue H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University Dezhou Hospital, Dezhou, Shandong."
+        ]
+      },
+      {
+        "full_name": "Liu, Peilai",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, Shandong."
+        ]
+      },
+      {
+        "full_name": "Wang, Rui",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Qilu Hospital of Shandong University Dezhou Hospital, Dezhou, Shandong."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "European journal of histochemistry : EJH"
+    ],
+    "journal_abbrev": [
+      "Eur J Histochem"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 17:33",
+    "fetched_at": "2026-10-11 08:36:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42841599",
+      "39094365",
+      "41793791",
+      "39416781",
+      "42120779",
+      "31511005",
+      "39208260",
+      "42118016",
+      "33532039",
+      "40378435",
+      "41431146",
+      "39547017",
+      "32965793",
+      "33022338",
+      "36056701",
+      "41110175",
+      "38938065",
+      "38785157",
+      "38740234",
+      "40958892",
+      "35571243",
+      "41386507",
+      "42062631",
+      "34565303",
+      "38642047",
+      "41218795",
+      "37625369",
+      "36527845",
+      "42447973",
+      "42114575",
+      "40848578",
+      "42284731",
+      "42033182",
+      "40494201",
+      "38759289",
+      "37572566",
+      "41742252",
+      "42632530",
+      "39426577",
+      "41936305",
+      "41693246",
+      "39260675",
+      "42377751",
+      "32745911",
+      "42041039",
+      "41965191",
+      "34941874",
+      "38996984",
+      "39794700",
+      "30161099",
+      "31310911",
+      "39141224",
+      "40545529",
+      "41704066",
+      "31577939",
+      "41133454",
+      "39775461",
+      "42166861",
+      "41986586",
+      "33203418",
+      "35086536",
+      "41372379",
+      "42391922",
+      "40112602",
+      "41093224",
+      "39592517",
+      "33765556",
+      "40517919",
+      "36657317",
+      "32860098",
+      "37422640",
+      "39679472",
+      "35797941",
+      "39470921",
+      "34085175",
+      "42624454",
+      "42789005",
+      "34764819",
+      "41936260",
+      "41703558",
+      "32566090",
+      "38095638",
+      "34284715",
+      "38229660",
+      "41823031",
+      "42686685",
+      "34435650",
+      "39383631",
+      "28858724",
+      "41964672",
+      "41463396",
+      "39121926",
+      "41948887",
+      "42284764",
+      "28852776",
+      "31870428",
+      "32871523",
+      "41814794",
+      "41508268",
+      "40035483"
+    ],
+    "review": [
+      "42841599"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/osteoarthritis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Osteoarthritis"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1061",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.4081/ejh.2026.4587",
+        "provider": "PAGEPress Publications",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
