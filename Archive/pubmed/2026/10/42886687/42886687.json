@@ -1,0 +1,193 @@
+{
+  "identity": {
+    "pmid": "42886687",
+    "doi": "10.1371/journal.pntd.0014797",
+    "title": "Disclosing pathogenic processes of monkeypox (MPOX) and drug repurposing through host-transcriptomics analysis."
+  },
+  "content": {
+    "abstract": "Monkeypox (MPOX) virus infection outbreak in Africa in 2022 was initially considered a neglected tropical disease (NTD). Now it is recognized as a global health problem. The recent global spread has emphasized the need for increased attention to combat MPOX. Although there are some vaccines against MPOX, most people worldwide are still not vaccinated due to their unawareness or unavailability. However, so far, there is no approved drug against MPOX yet. Therefore, effective drugs against MPOX are also essential. This study attempted to disclose pathogenic processes and therapeutic strategies of MPOX based on MPOX-associated host key-genes (hKGs). At first, three transcriptomic profile datasets were analyzed, identifying 166 common host differentially expressed genes (hDEGs) between MPOX patients and control groups, comprising 75 upregulated and 91 downregulated hDEGs. Subsequently, six top-ranked host key genes (hKGs): ALB, HSP90AA1, CDH1, PTPRC, IGF1, and ABL1, were identified as potential MPOX-causing genes through protein-protein interaction (PPI) network analysis. Functional enrichment analysis of these hKGs revealed critical pathogenic processes of MPOX infection, including biological processes, molecular functions, cellular components, and KEGG pathways. Regulatory network analysis involving transcription factors and miRNAs provided further insights into disease mechanisms. Based on molecular docking analysis, five top-ranked drug molecules Tecovirimat, Beclabuvir, Maraviroc, Raltegravir, and Brincidofovir were identified as potential repurposable therapeutics against MPOX. ADME/T and drug-likeness evaluations confirmed favorable pharmacokinetic properties for these candidates. Additionally, 100 ns molecular dynamics (MD) simulations of the top three complexes (ALB-Tecovirimat, CDH1-Maraviroc, and PPARG-Beclabuvir) demonstrated strong binding stability, supported by RMSD, RMSF, and MM-GBSA results. Therefore, the results provided in this study might be potential resources for diagnosis and therapies of MPOX patients. However, the findings require experimental validation in wet lab for further confirmation.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Gene Expression Profiling",
+      "*Mpox, Monkeypox/drug therapy/genetics/virology",
+      "*Drug Repositioning",
+      "*Transcriptome",
+      "Molecular Docking Simulation",
+      "*Antiviral Agents/pharmacology",
+      "*Monkeypox virus/drug effects",
+      "Protein Interaction Maps"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mahmud, Sabkat",
+        "Ajadee, Alvira",
+        "Ali, Md Ahad",
+        "Ahmed, Md Feroj",
+        "Ahmmed, Reaz",
+        "Rana, Md Masud",
+        "Noor, Tasfia",
+        "Faysal, Md Fahim",
+        "Kabir, Md Hadiul",
+        "Mollah, Md Nurul Haque"
+      ],
+      "short_names": [
+        "Mahmud S",
+        "Ajadee A",
+        "Ali MA",
+        "Ahmed MF",
+        "Ahmmed R",
+        "Rana MM",
+        "Noor T",
+        "Faysal MF",
+        "Kabir MH",
+        "Mollah MNH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3883-3396"
+      ],
+      "affiliations": [
+        "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+        "Tulane Center for Biomedical Informatics and Genomics, Deming Department of Medicine, School of Medicine, Tulane University, New Orleans, Louisiana, United States of America.",
+        "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+        "Tulane Center for Biomedical Informatics and Genomics, Deming Department of Medicine, School of Medicine, Tulane University, New Orleans, Louisiana, United States of America.",
+        "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+        "Department of Chemistry and Biochemistry, University of Texas at El Paso, El Paso, Texas, United States of America.",
+        "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+        "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+        "Department of Biochemistry & Molecular Biology, University of Rajshahi, Rajshahi, Bangladesh.",
+        "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+        "Department of Statistics and Data Science, University of Barishal, Barishal, Bangladesh.",
+        "Department of Computer Science and Engineering, Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh.",
+        "Department of Computer Science and Engineering, Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh.",
+        "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+        "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mahmud, Sabkat",
+        "short_name": "Mahmud S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+          "Tulane Center for Biomedical Informatics and Genomics, Deming Department of Medicine, School of Medicine, Tulane University, New Orleans, Louisiana, United States of America."
+        ]
+      },
+      {
+        "full_name": "Ajadee, Alvira",
+        "short_name": "Ajadee A",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+          "Tulane Center for Biomedical Informatics and Genomics, Deming Department of Medicine, School of Medicine, Tulane University, New Orleans, Louisiana, United States of America."
+        ]
+      },
+      {
+        "full_name": "Ali, Md Ahad",
+        "short_name": "Ali MA",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+          "Department of Chemistry and Biochemistry, University of Texas at El Paso, El Paso, Texas, United States of America."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Md Feroj",
+        "short_name": "Ahmed MF",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Ahmmed, Reaz",
+        "short_name": "Ahmmed R",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+          "Department of Biochemistry & Molecular Biology, University of Rajshahi, Rajshahi, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Rana, Md Masud",
+        "short_name": "Rana MM",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh.",
+          "Department of Statistics and Data Science, University of Barishal, Barishal, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Noor, Tasfia",
+        "short_name": "Noor T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Engineering, Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Faysal, Md Fahim",
+        "short_name": "Faysal MF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Engineering, Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Kabir, Md Hadiul",
+        "short_name": "Kabir MH",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Mollah, Md Nurul Haque",
+        "short_name": "Mollah MNH",
+        "identifiers": [
+          "0000-0002-3883-3396"
+        ],
+        "affiliations": [
+          "Bioinformatics Lab (Dry), Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS neglected tropical diseases"
+    ],
+    "journal_abbrev": [
+      "PLoS Negl Trop Dis"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 19:05",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42886687"
+    ],
+    "review": [
+      "42886687"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

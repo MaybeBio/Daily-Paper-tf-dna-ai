@@ -1,0 +1,141 @@
+{
+  "identity": {
+    "pmid": "42865916",
+    "doi": "10.3389/fphar.2026.1944363",
+    "title": "Selective behavioral and prefrontal transcriptomic correlates of acute clozapine exposure in socially isolated mice."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Clozapine is an effective antipsychotic for treatment-resistant schizophrenia, but acute molecular responses to clozapine remain incompletely characterized. Social isolation rearing produces schizophrenia-relevant behavioral abnormalities and permits joint evaluation of housing and drug exposure. OBJECTIVE: To characterize behavioral and prefrontal transcriptomic correlates of an acute clozapine challenge in socially isolated mice, reassess previously prioritized Ank3 and Nrxn1, and provide external cellular-context hypotheses for candidate genes. METHODS: Male C57BL/6J mice were evaluated in a four-group housing-by-drug design using open-field, novel-object recognition and prepulse-inhibition tests. For a reproducible transcriptome-wide audit, 11 publicly retrievable prefrontal cortex libraries were re-quantified using a factorial DESeq2 model with false-discovery-rate control. Historical pairwise prioritization, network analysis, machine-learning screening, molecular docking and molecular-dynamics simulations were treated as exploratory analyses. Adult wild-type prefrontal cortex single-cell RNA-seq data were used for cellular localization, CellChat analysis and virtual knockout, whereas an embryonic cortical reference was used separately for CellOracle transcription-factor perturbation. RESULTS: Acute clozapine showed its clearest behavioral effect on isolation-associated hyperlocomotion, whereas recognition memory was not improved and prepulse-inhibition results varied by stimulus intensity. The primary DESeq2 analysis identified 56 housing-by-drug interaction genes at FDR <0.05; Lamb2 was the strongest FDR-supported transcriptomic signal. Nrxn1 showed directionally opposite changes in historical pairwise contrasts but did not reach FDR significance in the factorial model, whereas Ank3 showed no corresponding factorial support. In adult prefrontal cortex single-cell data, Lamb2 was concentrated in endothelial cells, while Ank3 and Nrxn1 were broadly detected in neuronal populations. Virtual Ank3 and Nrxn1 knockout profiles contained 16 and 15 significant non-target genes, respectively, with five shared genes and no significant reciprocal candidate effect. Embryonic CellOracle analyses identified model-dependent upstream transcription-factor sensitivity of Ank3 and Nrxn1. CONCLUSION: These findings define selective behavioral and prefrontal transcriptomic correlates of an acute clozapine challenge rather than generalized behavioral rescue or clinical treatment-response prediction. Lamb2 was the strongest FDR-supported signal in the primary model, whereas Ank3 and Nrxn1 remain exploratory computational candidates. The external single-cell and virtual-perturbation analyses provide testable cellular and regulatory hypotheses, not evidence of direct binding, causal regulation or clozapine-induced effects in vivo.",
+    "keywords": [
+      "RNA sequencing",
+      "acute pharmacological challenge",
+      "clozapine",
+      "prefrontal cortex",
+      "social isolation rearing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Youzhi",
+        "Gao, Ao",
+        "Zhang, Yixuan",
+        "Zhang, Zishen",
+        "Zhao, Yanzhi",
+        "Huo, Chunyue"
+      ],
+      "short_names": [
+        "Xu Y",
+        "Gao A",
+        "Zhang Y",
+        "Zhang Z",
+        "Zhao Y",
+        "Huo C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Capital Medical University Yanjing Medical College, Beijing, China.",
+        "Ciqu Community Healthcare Center of Tongzhou District, Beijing, China.",
+        "Capital Medical University Yanjing Medical College, Beijing, China.",
+        "Capital Medical University Yanjing Medical College, Beijing, China.",
+        "Capital Medical University Yanjing Medical College, Beijing, China.",
+        "Capital Medical University Yanjing Medical College, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Youzhi",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Medical University Yanjing Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Ao",
+        "short_name": "Gao A",
+        "identifiers": [],
+        "affiliations": [
+          "Ciqu Community Healthcare Center of Tongzhou District, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yixuan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Medical University Yanjing Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zishen",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Medical University Yanjing Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yanzhi",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Medical University Yanjing Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Huo, Chunyue",
+        "short_name": "Huo C",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Medical University Yanjing Medical College, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in pharmacology"
+    ],
+    "journal_abbrev": [
+      "Front Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 17:37",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42865916"
+    ],
+    "review": [
+      "42865916"
+    ],
+    "pmc": [
+      "13655524"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fphar.2026.1944363",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "identity": {
+    "pmid": "42858932",
+    "doi": "10.1016/j.gene.2026.150418",
+    "title": "Transcription factor CTCF activates KIAA1199 expression to inhibit ferroptosis and promote malignant behaviors in colorectal cancer based on bioinformatics and machine learning."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: Colorectal cancer (CRC) is a common malignancy of the colon and rectum, but its molecular mechanisms remain incompletely understood. METHODS: Gene expression omnibus (GEO) database was used to download CRC-related datasets. Weighted gene co-expression network analysis (WGCNA), least absolute shrinkage and selection operator (LASSO), support vector machine (SVM), and random forest (RF) were used to identify key CRC genes. Cell type identification by estimating relative subsets of rna transcripts (CIBERSORT) was used for immune infiltration analysis. Tumor immune estimation resource (TIMER) database was used to assess gene expression across multiple cancers. Human transcription factor target database (hTFtarget) was used to predict regulatory relationships between genes and transcription factors. Chromatin immunoprecipitation (ChIP), dual-luciferase assay, cell transfection, western blot (WB), and reverse transcription quantitative polymerase chain reaction (RT-qPCR) were used to detect protein-gene binding, transcriptional activity, gene knockdown and overexpression, protein expression, and mRNA expression. JASPAR database was used to identify transcription factor binding sites. Cells were treated with a BODIPY 581/591 C11 kit to assess intracellular reactive oxygen species (ROS) levels. The assay kits were employed to determine the levels of ferrous iron (Fe(2+)), malondialdehyde (MDA), and superoxide dismutase (SOD). Cell counting kit-8 (CCK-8) was performed to measure cell viability. RESULTS: Matrix metallopeptidase 7 (MMP7), KIAA1199, and cadherin 3 (CDH3) were identified as potential key CRC genes. Their expression correlated with altered immune cell infiltration patterns. KIAA1199 showed the highest upregulation in CRC tissues. CCCTC-binding factor (CTCF) transcriptionally activated KIAA1199. Knockdown of CTCF decreased the expression of solute carrier family 7 member 11 (SLC7A11) and glutathione peroxidase 4 (GPX4), while increasing ROS, Fe(2+), and MDA, and decreasing SOD levels. CTCF knockdown combined with KIAA1199 overexpression partially rescued these effects, modulating ferroptosis-related oxidative stress in CRC cells. CONCLUSION: CTCF transcriptionally activates KIAA1199 and regulates ferroptosis-related oxidative stress in CRC cells, providing new insights into the molecular mechanisms of CRC.",
+    "keywords": [
+      "CCCTC-binding factor",
+      "Colorectal cancer",
+      "Ferroptosis",
+      "KIAA1199",
+      "Machine learning"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fan, Xiaoye",
+        "Meng, Lei",
+        "Zheng, Song",
+        "He, Xiaoqing"
+      ],
+      "short_names": [
+        "Fan X",
+        "Meng L",
+        "Zheng S",
+        "He X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Gastrointestinal Surgery, The Second Affiliated Hospital of Xingtai Medical University, Xingtai, China. Electronic address: 19912068828@163.com.",
+        "Department of Gastrointestinal Surgery, The Second Affiliated Hospital of Xingtai Medical University, Xingtai, China.",
+        "Department of Gastrointestinal Surgery, The Second Affiliated Hospital of Xingtai Medical University, Xingtai, China.",
+        "Department of Gastrointestinal Surgery, The Second Affiliated Hospital of Xingtai Medical University, Xingtai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fan, Xiaoye",
+        "short_name": "Fan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The Second Affiliated Hospital of Xingtai Medical University, Xingtai, China. Electronic address: 19912068828@163.com."
+        ]
+      },
+      {
+        "full_name": "Meng, Lei",
+        "short_name": "Meng L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The Second Affiliated Hospital of Xingtai Medical University, Xingtai, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Song",
+        "short_name": "Zheng S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The Second Affiliated Hospital of Xingtai Medical University, Xingtai, China."
+        ]
+      },
+      {
+        "full_name": "He, Xiaoqing",
+        "short_name": "He X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The Second Affiliated Hospital of Xingtai Medical University, Xingtai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Gene"
+    ],
+    "journal_abbrev": [
+      "Gene"
+    ],
+    "pub_date": "2026 Oct 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 04:08",
+    "fetched_at": "2026-10-18 07:09:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42858932",
+      "42565568",
+      "41508240",
+      "42470494",
+      "39642461",
+      "39026029",
+      "40320855",
+      "41759995",
+      "42291098",
+      "41013556",
+      "41544530",
+      "40169394",
+      "42502316",
+      "40848133",
+      "40232565",
+      "42782425",
+      "41814763",
+      "40691523",
+      "42638028",
+      "42582956",
+      "41429385",
+      "39909592",
+      "39586719",
+      "39973554",
+      "41187650",
+      "42492799",
+      "40819642",
+      "39600281",
+      "41436831",
+      "36820954",
+      "42501233",
+      "40386612",
+      "42168991",
+      "40119400",
+      "40716132",
+      "41106221",
+      "42048794",
+      "42071066",
+      "39167283",
+      "42851943",
+      "41687474",
+      "42259544",
+      "41399129",
+      "41873218",
+      "40457383",
+      "38837315",
+      "42432583",
+      "37435214",
+      "37969834",
+      "42520089",
+      "39199281",
+      "41879909",
+      "37929351",
+      "41928291",
+      "38144919",
+      "41208840",
+      "38930897",
+      "42067922",
+      "42260313",
+      "35837768",
+      "31961485",
+      "40406620",
+      "40435908",
+      "35399515",
+      "38744789",
+      "41146237",
+      "41071315",
+      "39344518",
+      "41990693",
+      "37471707",
+      "42634545",
+      "41388523",
+      "42107160",
+      "42464548",
+      "42560559",
+      "40048831",
+      "38476236",
+      "40613296",
+      "42378631",
+      "41578384",
+      "38996537",
+      "42319418",
+      "40534808",
+      "42223720",
+      "37184781",
+      "37300304",
+      "41314556",
+      "40948782",
+      "41987446",
+      "38940027",
+      "41787525",
+      "40964101",
+      "42572499",
+      "38258976",
+      "41920257",
+      "41132349",
+      "37735401",
+      "40967560",
+      "41522747",
+      "40777817"
+    ],
+    "review": [
+      "42858932"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378-1119(26)00428-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

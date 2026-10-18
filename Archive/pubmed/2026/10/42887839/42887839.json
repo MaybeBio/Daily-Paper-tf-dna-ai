@@ -1,0 +1,176 @@
+{
+  "identity": {
+    "pmid": "42887839",
+    "doi": "10.1016/j.cellsig.2026.112952",
+    "title": "A cytoplasmic cis-acting circuit confines PI3K/AKT-driven lineage plasticity in bladder cancer."
+  },
+  "content": {
+    "abstract": "Bladder cancer (BCa) is a prevalent urological malignancy characterized by high recurrence rates and limited therapeutic options for advanced disease. Circular RNAs (circRNAs) have emerged as critical regulators of gene expression in cancer, yet their roles in BCa progression remain incompletely understood. Here, circ_0006845 (circNFAT5) is identified as a tumor-suppressive circRNA that is significantly downregulated in BCa tissues and cell lines. Functional assays demonstrate that circNFAT5 inhibits BCa cell proliferation, migration, and invasion in vitro and suppresses subcutaneous tumor growth in vivo. Mechanistically, circNFAT5 localizes predominantly to the cytoplasm and functions as a competing endogenous RNA (ceRNA) by competitively sponging miR-552-3p, thereby relieving post-transcriptional repression of the Forkhead box O1 (FoxO1) transcription factor. Single-cell RNA sequencing analysis further identifies Ubiquitin C (UBC) as a potential downstream target of FoxO1, with FoxO1 occupancy at the UBC promoter supported by ChIP-seq and computational docking predicting a potential interaction. Intercellular communication profiling identifies ANNEXIN, COMPLEMENT, SEMA3, VEGF, and VISFATIN as dominant PI3K/AKT-associated axis mediating cross-talk between FoxO1-low tumor subpopulations and stromal cells within the tumor microenvironment. Drug sensitivity analysis predicts that FoxO1-low BCa cells may exhibit enhanced sensitivity to cisplatin, gemcitabine, and PI3K/AKT/mTOR pathway inhibitors. These findings delineate a circNFAT5/miR-552-3p/FoxO1/UBC regulatory axis associated with PI3K/AKT signaling that may contribute to BCa progression, nominating FoxO1 as a candidate prognostic biomarker and a potential therapeutic stratification marker.",
+    "keywords": [
+      "Single-cell RNA sequencing",
+      "Therapeutic stratification",
+      "Tumor microenvironment",
+      "UBC",
+      "ceRNA network",
+      "circNFAT5"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dong, Xuan",
+        "Li, Yutong",
+        "Yan, Yongtai",
+        "Xiong, Hong",
+        "Wu, Pulin",
+        "Chen, Yongjie",
+        "Yi, Zhaofeng",
+        "Zhou, Cong",
+        "Zuo, Ling",
+        "Liu, Hongwei"
+      ],
+      "short_names": [
+        "Dong X",
+        "Li Y",
+        "Yan Y",
+        "Xiong H",
+        "Wu P",
+        "Chen Y",
+        "Yi Z",
+        "Zhou C",
+        "Zuo L",
+        "Liu H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China.",
+        "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China.",
+        "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China.",
+        "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China.",
+        "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China.",
+        "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China.",
+        "Department of Traditional Chinese Medicine, The Second Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524003, China.",
+        "Department of Traditional Chinese Medicine, The Second Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524003, China.",
+        "Department of Traditional Chinese Medicine, The Second Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524003, China. Electronic address: doctorzuoling@gdmu.edu.cn.",
+        "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China. Electronic address: lhwhongwei@gdmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dong, Xuan",
+        "short_name": "Dong X",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yutong",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Yongtai",
+        "short_name": "Yan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Hong",
+        "short_name": "Xiong H",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Pulin",
+        "short_name": "Wu P",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yongjie",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China."
+        ]
+      },
+      {
+        "full_name": "Yi, Zhaofeng",
+        "short_name": "Yi Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Traditional Chinese Medicine, The Second Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524003, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Cong",
+        "short_name": "Zhou C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Traditional Chinese Medicine, The Second Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524003, China."
+        ]
+      },
+      {
+        "full_name": "Zuo, Ling",
+        "short_name": "Zuo L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Traditional Chinese Medicine, The Second Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524003, China. Electronic address: doctorzuoling@gdmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liu, Hongwei",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Urology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong Province 524001, China. Electronic address: lhwhongwei@gdmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cellular signalling"
+    ],
+    "journal_abbrev": [
+      "Cell Signal"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 23:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42887839"
+    ],
+    "review": [
+      "42887839"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

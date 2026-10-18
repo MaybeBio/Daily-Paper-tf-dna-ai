@@ -1,0 +1,98 @@
+{
+  "identity": {
+    "pmid": "42886592",
+    "doi": "10.1109/TCBBIO.2026.3740828",
+    "title": "Inferring gene regulatory networks from single-cell transcriptomics jointly through graph neural networks and Transformer."
+  },
+  "content": {
+    "abstract": "Inferring gene regulatory networks (GRNs) is crucial for understanding the complex regulatory relationships that govern gene expression in cells. Recently, several computational methods have been proposed for reconstructing GRNs from single-cell RNA sequencing (scRNA-seq) data. However, most of these methods primarily focus on pairwise regulatory relationships between genes, failing to leverage the global regulatory structure of GRNs, which is crucial for exploring the complex regulatory interactions between transcription factors (TFs) and their target genes. To address these limitations, we propose GTGRNS, a supervised learning framework that integrates a graph neural network with a Transformer encoder for GRN inference from scRNA-seq data. Specifically, we utilize the GraphSAGE model to integrate regulatory network topological information with gene expression features, facilitating the learning of gene representations. By leveraging the Transformer model, we further extract complex dependencies of gene pairs, which are crucial for determining regulatory levels. The comparative experiments on several benchmark datasets demonstrate the effectiveness and competitiveness of the proposed GTGRNS in the task of GRN inference.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gan, Yanglan",
+        "Liu, Tao",
+        "Xu, Guangwei",
+        "Guo, Wenjing",
+        "Zou, Guobing"
+      ],
+      "short_names": [
+        "Gan Y",
+        "Liu T",
+        "Xu G",
+        "Guo W",
+        "Zou G"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Gan, Yanglan",
+        "short_name": "Gan Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liu, Tao",
+        "short_name": "Liu T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xu, Guangwei",
+        "short_name": "Xu G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Guo, Wenjing",
+        "short_name": "Guo W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zou, Guobing",
+        "short_name": "Zou G",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "IEEE transactions on computational biology and bioinformatics"
+    ],
+    "journal_abbrev": [
+      "IEEE Trans Comput Biol Bioinform"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 19:05",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42886592"
+    ],
+    "review": [
+      "42886592"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "identity": {
+    "pmid": "42890651",
+    "doi": "10.3389/fonc.2026.1900370",
+    "title": "Transcription factor-driven metabolic stratification reveals glycolytic and lipogenic subtypes with distinct prognostic and functional features in pancreatic cancer."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) exhibits profound molecular and metabolic heterogeneity associated with distinct phenotypic states. However, the contribution of transcription factor (TF)-driven regulatory programs to metabolic subtype stratification remains poorly understood. This study aims to determine whether TF-based classification can identify prognostically relevant glycolytic and lipogenic PDAC subtypes. METHODS: Bulk transcriptomic data from multiple PDAC cohorts and single-cell RNA sequencing data were integrated to characterize TF-associated metabolic heterogeneity. Metabolic signatures and TFs were quantified using single-sample gene set enrichment analysis (ssGSEA) and AddModule Score (AMS). Differential expression, enrichment analysis, integrative bulk and single-cell transcriptomic analysis, and deep neural network-based metabolic flux modeling were performed to investigate metabolic programs and functional differences between TF-defined subtypes. Additionally, RNA interference, RT-qPCR, lipid droplets staining, lactate assay, and transwell assays were used to evaluate the roles of TP63 in metabolic regulation. RESULTS: Glycolytic and lipogenic TF-defined metabolic subtypes were identified across multiple independent PDAC cohorts. These subtypes exhibited distinct metabolic programs, differentiation states, and prognostic outcomes. The glycolytic TF-defined subtype was associated with worse prognosis and differentiation, whereas the lipogenic TF-defined subtype exhibited more favorable clinical features. Integration of public bulk and single-cell transcriptomic analyses, together with deep neural network-based metabolic flux modeling, revealed consistent metabolic heterogeneity at both cellular and functional levels. Notably, TP63 was identified as a potential regulator of glycolytic-lipogenic metabolic reprogramming in PDAC. CONCLUSIONS: TF-based classification delineates glycolytic and lipogenic subtypes in PDAC, underscoring the critical role of TF-regulated metabolic programs in patient stratification. These findings highlight the prognostic significance of glycolytic and lipogenic metabolic heterogeneity and support the development of metabolism-targeted therapeutic strategies.",
+    "keywords": [
+      "glycolysis",
+      "lipogenesis",
+      "metabolic subtypes",
+      "pancreatic ductal adenocarcinoma",
+      "transcription factors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ke, Jie",
+        "Liu, Shuai",
+        "Xu, Junming",
+        "Wu, Fenfang"
+      ],
+      "short_names": [
+        "Ke J",
+        "Liu S",
+        "Xu J",
+        "Wu F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Central Laboratory, Shenzhen Hospital, Beijing University of Chinese Medicine, Shenzhen, Guangdong, China.",
+        "Biotherapy Center, Shenzhen Third People's Hospital, Shenzhen, Guangdong, China.",
+        "Department of Human Cell Biology and Genetics, SUSTech Homeostatic Medicine Institute, School of Medicine, Southern University of Science and Technology, Shenzhen, Guangdong, China.",
+        "Biotherapy Center, Shenzhen Third People's Hospital, Shenzhen, Guangdong, China.",
+        "Department of Hepatobiliary and Pancreatic Surgery, the Eighth Affiliated Hospital of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+        "Department of Central Laboratory, Shenzhen Hospital, Beijing University of Chinese Medicine, Shenzhen, Guangdong, China.",
+        "Biotherapy Center, Shenzhen Third People's Hospital, Shenzhen, Guangdong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ke, Jie",
+        "short_name": "Ke J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Central Laboratory, Shenzhen Hospital, Beijing University of Chinese Medicine, Shenzhen, Guangdong, China.",
+          "Biotherapy Center, Shenzhen Third People's Hospital, Shenzhen, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Shuai",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Cell Biology and Genetics, SUSTech Homeostatic Medicine Institute, School of Medicine, Southern University of Science and Technology, Shenzhen, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Junming",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Biotherapy Center, Shenzhen Third People's Hospital, Shenzhen, Guangdong, China.",
+          "Department of Hepatobiliary and Pancreatic Surgery, the Eighth Affiliated Hospital of Sun Yat-sen University, Shenzhen, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Fenfang",
+        "short_name": "Wu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Central Laboratory, Shenzhen Hospital, Beijing University of Chinese Medicine, Shenzhen, Guangdong, China.",
+          "Biotherapy Center, Shenzhen Third People's Hospital, Shenzhen, Guangdong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in oncology"
+    ],
+    "journal_abbrev": [
+      "Front Oncol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 23:38",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42890651"
+    ],
+    "review": [
+      "42890651"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

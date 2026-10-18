@@ -1,0 +1,147 @@
+{
+  "identity": {
+    "pmid": "42868581",
+    "doi": "10.1615/CritRevEukaryotGeneExpr.2026063605",
+    "title": "Gut-Mitophagy-Ferroptosis Axis in Asthma: Microvirga-TP53-PARP11 Crosstalk as a Quantifiable Target for Childhood Asthma Prevention."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Asthma affects over 260 million individuals globally; however, its heterogeneous subtypes pose significant challenges to precision prevention. Although gut microbiome dysbiosis and mitophagy and ferroptosis dysfunction have been implicated in asthma pathogenesis, the potential causal interactions between these pathways remain unclear. METHODS: We performed two-sample Mendelian randomization (MR) to assess the causal effects of 473 gut microbial taxa and 49 mitophagy-related genes on four distinct asthma subtypes. Mediation and reverse MR analyses were further employed to explore potential mitophagy-mediated pathways and assess feedback effects from asthma liability on the gut microbiota. For the mitophagy-related mediator genes, we further dissected the ferroptotic pathway-mediated downstream mechanisms and performed drug candidate enrichment and molecular docking. RESULTS: MR analysis identified 20, 19, 13, and 15 gut bacterial taxa that were causally associated with non-allergic, allergic, childhood, and eosinophilic asthma, respectively. Four mitophagy-related genes TP53, MAP1LC3A, NBR1, and CSNK2B exhibited subtype-specific associations. Mediation analysis suggested that TP53-mediated mitophagy mediates 7.7% of the total effect of Microvirga against childhood asthma. Approximately 49% of the total protective effect of TP53 was partially offset through its down-regulation of PARP11-mediated ferroptosis. DSigDB-selected baicalin and theaflavin both stably docked to TP53 at 7.8 kcal mol-1, which offers natural origin, low toxicity, and high affinity. CONCLUSION: Our findings support the existence of a gut-mitophagy-ferroptosis-lung axis in asthma pathogenesis. Notably, the Microvirga-TP53-PARP11axis demonstrates a quantifiable protective association with childhood asthma. These insights highlight a potential opportunity for precision, subtype-specific prevention strategies targeting this pathway in early life.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Asthma/prevention & control/microbiology/genetics/metabolism",
+      "Humans",
+      "*Mitophagy/genetics",
+      "*Tumor Suppressor Protein p53/genetics/metabolism",
+      "*Gastrointestinal Microbiome",
+      "*Ferroptosis/genetics",
+      "Dysbiosis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Teng",
+        "Bi, Junjie",
+        "Zhang, Jingjing",
+        "Ye, Lei"
+      ],
+      "short_names": [
+        "Sun T",
+        "Bi J",
+        "Zhang J",
+        "Ye L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Traditional Chinese Medicine, Binzhou Medical University, Yantai 264003, China.",
+        "Department of gerontology, Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250011, China.",
+        "Qilu Aerospace Information Research Institute, Jinan 250102, China.",
+        "Binzhou Medical University."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Teng",
+        "short_name": "Sun T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Traditional Chinese Medicine, Binzhou Medical University, Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Bi, Junjie",
+        "short_name": "Bi J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of gerontology, Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250011, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jingjing",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Qilu Aerospace Information Research Institute, Jinan 250102, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Lei",
+        "short_name": "Ye L",
+        "identifiers": [],
+        "affiliations": [
+          "Binzhou Medical University."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Critical reviews in eukaryotic gene expression"
+    ],
+    "journal_abbrev": [
+      "Crit Rev Eukaryot Gene Expr"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42868581"
+    ],
+    "review": [
+      "42868581"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/asthma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Asthma"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "http://www.begellhouse.com/journals/6dbf508d3b17c437,1b3ca8ea32a138e3,4b8c5f3a3c4b6988.html",
+        "provider": "BegellHouse Publisher, Inc.",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/asthma.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Asthma"
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "identity": {
+    "pmid": "42884061",
+    "doi": "10.3390/ijms27198819",
+    "title": "Artificial Intelligence for Plant Gene Regulatory Networks."
+  },
+  "content": {
+    "abstract": "Gene regulatory networks (GRNs) are the maps that plant biologists most want to draw, with arrows pointing from transcription factors to the genes they control, explaining how plants develop and respond to the environment. Since experimental validation of even one arrow can take years, and a single plant genome harbours tens of millions of candidate TF-target pairs, this gap has driven the development of numerous computational methods for GRN inference. Here I review three generations of computational approaches to plant GRN inference and measure them against a five-level ladder of evidence, including statistical association, conditional dependence, physical binding, functional regulation and causal circuits. Classical statistics and machine learning have simplified complex gene expression data into clear, prioritised predictions. Techniques like single-cell and multi-omics methods help uncover cell type-specific networks based on chromatin accessibility and binding motifs. Now, deep learning can interpret cis-regulatory grammar directly from genome sequences, and foundation models trained on plant genomes and millions of cells hold exciting potential to share regulatory insights across different species. The most promising route forward is a lab-in-the-loop division of labour in which foundation models serve not as oracles but as hypothesis engines, collapsing fifty million candidate TF-target pairs into the few hundred edges most worth the bench's time, with each round of validation sharpening the next round of prediction.",
+    "keywords": [
+      "artificial intelligence",
+      "cis-regulatory element",
+      "foundation model",
+      "gene regulatory network (GRN)",
+      "plant transcription factor",
+      "single-cell multi-omics"
+    ],
+    "mesh_terms": [
+      "*Gene Regulatory Networks",
+      "*Artificial Intelligence",
+      "*Plants/genetics",
+      "*Gene Expression Regulation, Plant",
+      "Computational Biology/methods",
+      "Transcription Factors/metabolism/genetics",
+      "Genome, Plant"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Haopeng"
+      ],
+      "short_names": [
+        "Yu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5184-2430"
+      ],
+      "affiliations": [
+        "Sainsbury Laboratory, University of Cambridge, Bateman Street, Cambridge CB2 1LR, UK.",
+        "Department of Cell and Developmental Biology, John Innes Centre, Norwich Research Park, Norwich NR4 7UH, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Haopeng",
+        "short_name": "Yu H",
+        "identifiers": [
+          "0000-0002-5184-2430"
+        ],
+        "affiliations": [
+          "Sainsbury Laboratory, University of Cambridge, Bateman Street, Cambridge CB2 1LR, UK.",
+          "Department of Cell and Developmental Biology, John Innes Centre, Norwich Research Park, Norwich NR4 7UH, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42884061"
+    ],
+    "review": [
+      "42884061"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

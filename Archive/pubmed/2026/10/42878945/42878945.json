@@ -1,0 +1,149 @@
+{
+  "identity": {
+    "pmid": "42878945",
+    "doi": "10.1007/s10822-026-00960-w",
+    "title": "Structure-guided discovery of a dual JAK2/RAGE modulator reveals a computationally driven strategy for targeting convergent oncogenic signaling in renal cell carcinoma."
+  },
+  "content": {
+    "abstract": "Renal cell carcinoma (RCC) is driven by convergent inflammatory and proliferative signaling pathways. RAGE-mediated NF-kappaB activation and JAK2-STAT3 signaling cooperate to amplify cytokine production and oncogenic progression. Targeting these interconnected pathways represents a rational therapeutic strategy. High-throughput virtual screening of ChemBridge libraries, 100 ns molecular dynamics simulations, and MM/PBSA analysis were performed. The lead compound RJS6641 was evaluated using biochemical assays (HTRF JAK2 kinase assay, differential scanning fluorimetry), a cell-free AGE-RAGE binding ELISA, and functional assays in RCC cell lines, including viability, reporter, cytokine, apoptosis, and migration analyses. RJS6641 showed stable binding to JAK2 (protein RMSD  approximately 0.28 nm; ligand RMSD 0.15-0.20 nm) and RAGE (protein RMSD 0.50-1.50 nm; ligand RMSD 0.30-0.35 nm). It inhibited JAK2 in an ATP-competitive manner (IC(5)(0) = 60.23 nM; ruxolitinib IC(5)(0) = 1.69 nM), with ATP-dependent shifts (35.04 --> 74.09 --> 305.6 nM) and thermal stabilization (DeltaTm +1.50  degrees C). AGE-RAGE binding was disrupted (IC(5)(0) = 118.2 nM). RJS6641 reduced RCC viability (GI(5)(0): 799.8-2021 nM) while sparing HK-2 cells (GI(5)(0) 12,816 nM; 6-16x difference). It suppressed STAT3 (IC(5)(0) 412.3-813.2 nM) and NF-kappaB (IC(5)(0) 435.7-1031 nM) signaling, reduced IL-6/IL-8 secretion, induced caspase-3/7 activation (EC(5)(0) 662.4-862.9 nM), and inhibited migration (up to 83%). Collectively, RJS6641 functions as a JAK2 inhibitor with additional modulation of RAGE-associated signaling, leading to coordinated suppression of STAT3/NF-kappaB pathways and anti-tumor effects in RCC, supporting further in vivo and selectivity evaluation.",
+    "keywords": [
+      "Cytokine suppression",
+      "Dual-target small molecule",
+      "JAK2 inhibitor",
+      "NF-kappaB",
+      "RAGE antagonist",
+      "RJS6641",
+      "Renal cell carcinoma",
+      "STAT3"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Janus Kinase 2/antagonists & inhibitors/metabolism/chemistry",
+      "*Carcinoma, Renal Cell/drug therapy/metabolism/pathology",
+      "Signal Transduction/drug effects",
+      "*Kidney Neoplasms/drug therapy/metabolism/pathology",
+      "Cell Line, Tumor",
+      "*Receptor for Advanced Glycation End Products/metabolism/antagonists & inhibitors/chemistry",
+      "STAT3 Transcription Factor/metabolism",
+      "*Antineoplastic Agents/pharmacology/chemistry",
+      "Molecular Dynamics Simulation",
+      "Apoptosis/drug effects",
+      "*Protein Kinase Inhibitors/pharmacology/chemistry",
+      "NF-kappa B/metabolism",
+      "Molecular Docking Simulation",
+      "Cell Survival/drug effects",
+      "Cell Movement/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mohammad-Al-Shahrani, Mesfer",
+        "Abohassan, Mohammad",
+        "Rajagopalan, Prasanna"
+      ],
+      "short_names": [
+        "Mohammad-Al-Shahrani M",
+        "Abohassan M",
+        "Rajagopalan P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia.",
+        "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia.",
+        "Health and Medical Research Centre, King Khalid University, 61421, Abha, Saudi Arabia.",
+        "DAV-IITM Centre for Indian Medical Knowledge (CIMK), Department of Medical Sciences and Technology, Indian Institute of Technology Madras, Chennai, Tamil Nadu, India. prachu.rg@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mohammad-Al-Shahrani, Mesfer",
+        "short_name": "Mohammad-Al-Shahrani M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Abohassan, Mohammad",
+        "short_name": "Abohassan M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia.",
+          "Health and Medical Research Centre, King Khalid University, 61421, Abha, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Rajagopalan, Prasanna",
+        "short_name": "Rajagopalan P",
+        "identifiers": [],
+        "affiliations": [
+          "DAV-IITM Centre for Indian Medical Knowledge (CIMK), Department of Medical Sciences and Technology, Indian Institute of Technology Madras, Chennai, Tamil Nadu, India. prachu.rg@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of computer-aided molecular design"
+    ],
+    "journal_abbrev": [
+      "J Comput Aided Mol Des"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42878945"
+    ],
+    "review": [
+      "42878945"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/kidneycancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Kidney Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10822-026-00960-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CASP3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

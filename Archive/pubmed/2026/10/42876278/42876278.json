@@ -1,0 +1,192 @@
+{
+  "identity": {
+    "pmid": "42876278",
+    "doi": "10.1002/em.70083",
+    "title": "A Hybrid Machine Learning Ensemble for Predicting Genetic Predisposition to Lung Cancer Based on Polymorphisms in the Mismatch DNA Repair Genes."
+  },
+  "content": {
+    "abstract": "The application of machine learning approaches has shown promising results in cancer prediction. In the present study, data for nine gene-based features that include MLH1 (rs1800734), MSH3 (rs26279), MSH6 (rs3136228), and several variants within MSH2 (rs2303423, rs4987188, rs17217772, rs63749993, rs2303426, and rs2303428), along with four additional features (Age, Gender, Smoking, and Pack Years) were used as input to develop a predictive model for assessing individual susceptibility to lung cancer. NumPy, Pandas, Scikit-learn, and Matplotlib were major libraries used during the modeling process. The models included CatBoost, XGBoost, gradient boosting, random forest, support vector machine (SVM), K-nearest neighbors (KNN), Gaussian Naive Bayes, and logistic regression, with their performance evaluated using stratified 5-fold cross-validation. The highest accuracy in predicting cancer predisposition was achieved by CatBoost (0.831 +/- 0.014), with Pack Years (27.94%), Age (10.75%), and MLH1 (9.97%) as the major predictors. Precision, recall, and F1-score were also used to assess performance, and all were within the range of 0.83-0.84. The models were further tested for performance across histological subtypes, gender, and smoking status. Gradient Boosting (0.868 +/- 0.028) and Random Forest (0.902 +/- 0.020) yielded the highest accuracy as histological subtype classifiers in ADCC and SCLC, respectively. When modeled using sex-stratified and smoking-status-specific models, the ensemble methods significantly outperformed logistic regression and Gaussian Naive Bayes, with MMR gene variants (MLH1, MSH2) emerging as key modulators of histology and risk stratification. This highlights the potential of ensemble methods to bridge the gap between genetic epidemiology and molecular pathology, enabling more accurate risk assessment.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Genetic Predisposition to Disease",
+      "*Lung Neoplasms/genetics",
+      "*Machine Learning",
+      "MutL Protein Homolog 1/genetics",
+      "*DNA Mismatch Repair/genetics",
+      "Boosting Machine Learning Algorithms",
+      "Female",
+      "Random Forest",
+      "*Polymorphism, Single Nucleotide",
+      "DNA-Binding Proteins/genetics",
+      "MutS Homolog 2 Protein/genetics",
+      "Male",
+      "MutS Homolog 3 Protein/genetics",
+      "Predictive Learning Models",
+      "Prediction Algorithms",
+      "Classification Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bagla, Abhay",
+        "Singh, Sidhartha",
+        "Kansal, Heena",
+        "Gupta, Anup Kumar",
+        "Sharma, Siddharth",
+        "Gupta, Puneet",
+        "Gupta, Vivek"
+      ],
+      "short_names": [
+        "Bagla A",
+        "Singh S",
+        "Kansal H",
+        "Gupta AK",
+        "Sharma S",
+        "Gupta P",
+        "Gupta V"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-3673-6821",
+        "ORCID: 0000-0003-4293-7662",
+        "ORCID: 0000-0001-9414-3771",
+        "ORCID: 0000-0003-3586-9315",
+        "ORCID: 0000-0003-0208-3922"
+      ],
+      "affiliations": [
+        "Department of Computer Science and Engineering, Thapar Institute of Engineering & Technology, Patiala, India.",
+        "School of Biosciences and Bioengineering, DY Patil International University, Pune, India.",
+        "Department of Biotechnology, Thapar Institute of Engineering & Technology, Patiala, India.",
+        "Department of Computer Science and Engineering, Indian Institute of Technology Indore, Indore, India.",
+        "Department of Biotechnology, Thapar Institute of Engineering & Technology, Patiala, India.",
+        "Department of Computer Science and Engineering, Indian Institute of Technology Indore, Indore, India.",
+        "Department of Civil Engineering, Thapar Institute of Engineering & Technology, Patiala, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bagla, Abhay",
+        "short_name": "Bagla A",
+        "identifiers": [
+          "0009-0002-3673-6821"
+        ],
+        "affiliations": [
+          "Department of Computer Science and Engineering, Thapar Institute of Engineering & Technology, Patiala, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Sidhartha",
+        "short_name": "Singh S",
+        "identifiers": [
+          "0000-0003-4293-7662"
+        ],
+        "affiliations": [
+          "School of Biosciences and Bioengineering, DY Patil International University, Pune, India."
+        ]
+      },
+      {
+        "full_name": "Kansal, Heena",
+        "short_name": "Kansal H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Thapar Institute of Engineering & Technology, Patiala, India."
+        ]
+      },
+      {
+        "full_name": "Gupta, Anup Kumar",
+        "short_name": "Gupta AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Engineering, Indian Institute of Technology Indore, Indore, India."
+        ]
+      },
+      {
+        "full_name": "Sharma, Siddharth",
+        "short_name": "Sharma S",
+        "identifiers": [
+          "0000-0001-9414-3771"
+        ],
+        "affiliations": [
+          "Department of Biotechnology, Thapar Institute of Engineering & Technology, Patiala, India."
+        ]
+      },
+      {
+        "full_name": "Gupta, Puneet",
+        "short_name": "Gupta P",
+        "identifiers": [
+          "0000-0003-3586-9315"
+        ],
+        "affiliations": [
+          "Department of Computer Science and Engineering, Indian Institute of Technology Indore, Indore, India."
+        ]
+      },
+      {
+        "full_name": "Gupta, Vivek",
+        "short_name": "Gupta V",
+        "identifiers": [
+          "0000-0003-0208-3922"
+        ],
+        "affiliations": [
+          "Department of Civil Engineering, Thapar Institute of Engineering & Technology, Patiala, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Environmental and molecular mutagenesis"
+    ],
+    "journal_abbrev": [
+      "Environ Mol Mutagen"
+    ],
+    "pub_date": "2026 Oct-Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 07:18",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42876278"
+    ],
+    "review": [
+      "42876278"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1002/em.70083",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

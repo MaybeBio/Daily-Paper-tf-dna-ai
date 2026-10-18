@@ -1,0 +1,156 @@
+{
+  "identity": {
+    "pmid": "42884657",
+    "doi": "10.3390/nu18193206",
+    "title": "From Genes to Diets: A Critical Review of Genetic, Nutrigenomic and Epigenetic Mechanisms in Type 2 Diabetes Mellitus."
+  },
+  "content": {
+    "abstract": "Type 2 diabetes mellitus (T2D) represents over 90% of diabetes cases globally, posing a growing public health crisis with an estimated 783 million adults projected to be affected by 2045. This condition arises from a complex interplay of insulin resistance, progressive pancreatic beta-cell dysfunction, and chronic low-grade inflammation, strongly influenced by genetic predisposition, obesity, sedentary lifestyle, and poor dietary habits. While genome-wide association studies (GWAS) have identified key susceptibility loci, including TCF7L2, PPARG, and KCNJ11, these varian0ts explain only ~10% of T2D heritability, underscoring the critical role of gene-environment interactions. This review synthesizes current evidence on the genetic, nutrigenomic, and epigenetic mechanisms underlying T2D pathogenesis and progression. We examine how dietary components, such as flavonoids, terpenoids, alkaloids, and bioactive compounds from natural products, modulate gene expression via transcription factors and influence insulin sensitivity, oxidative stress, and inflammation. Furthermore, we explore the emerging role of epigenetic modifications, including DNA methylation, histone acetylation, and chromatin remodeling, in mediating the lasting effects of hyperglycemia and environmental factors on T2D risk. The potential of epigenetic biomarkers for early diagnosis, patient stratification, and personalized therapy is discussed. Finally, we highlight how next-generation sequencing and artificial intelligence, particularly machine learning and deep learning models, are advancing multi-omics data integration, enabling improved T2D subtype classification, prognosis prediction, and the development of precision nutrition and pharmacoepigenetic strategies.",
+    "keywords": [
+      "artificial intelligence",
+      "epigenetics",
+      "genetic variants",
+      "insulin resistance",
+      "metabolic memory",
+      "nutrigenomics",
+      "precision nutrition",
+      "type 2 diabetes mellitus"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Diabetes Mellitus, Type 2/genetics",
+      "*Epigenesis, Genetic",
+      "*Nutrigenomics",
+      "Genetic Predisposition to Disease",
+      "*Diet",
+      "Gene-Environment Interaction",
+      "Genome-Wide Association Study",
+      "Insulin Resistance/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Araujo, Rafael G",
+        "Ortiz-Cruz, Gabriela",
+        "Nupo, Sunday Sedodo",
+        "Cordero, Yulianna",
+        "Cortes-Hernandez, Lauro",
+        "Teniente, Sandra Lucia"
+      ],
+      "short_names": [
+        "Araujo RG",
+        "Ortiz-Cruz G",
+        "Nupo SS",
+        "Cordero Y",
+        "Cortes-Hernandez L",
+        "Teniente SL"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3184-169X",
+        "ORCID: 0000-0003-2416-4678",
+        "ORCID: 0000-0003-1705-485X"
+      ],
+      "affiliations": [
+        "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico.",
+        "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico.",
+        "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico.",
+        "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico.",
+        "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico.",
+        "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Araújo, Rafael G",
+        "short_name": "Araújo RG",
+        "identifiers": [
+          "0000-0003-3184-169X"
+        ],
+        "affiliations": [
+          "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico."
+        ]
+      },
+      {
+        "full_name": "Ortiz-Cruz, Gabriela",
+        "short_name": "Ortiz-Cruz G",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico."
+        ]
+      },
+      {
+        "full_name": "Nupo, Sunday Sedodo",
+        "short_name": "Nupo SS",
+        "identifiers": [
+          "0000-0003-2416-4678"
+        ],
+        "affiliations": [
+          "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico."
+        ]
+      },
+      {
+        "full_name": "Cordero, Yulianna",
+        "short_name": "Cordero Y",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico."
+        ]
+      },
+      {
+        "full_name": "Cortes-Hernandez, Lauro",
+        "short_name": "Cortes-Hernandez L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico."
+        ]
+      },
+      {
+        "full_name": "Teniente, Sandra Lucía",
+        "short_name": "Teniente SL",
+        "identifiers": [
+          "0000-0003-1705-485X"
+        ],
+        "affiliations": [
+          "Center for Research in Genetics and Genomics (CIGEN), The Autonomous University of Coahuila, Saltillo 25000, Coahuila, Mexico."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nutrients"
+    ],
+    "journal_abbrev": [
+      "Nutrients"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42884657"
+    ],
+    "review": [
+      "42884657"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

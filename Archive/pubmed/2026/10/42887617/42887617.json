@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "pmid": "42887617",
+    "doi": "10.1016/j.phrs.2026.109685",
+    "title": "Low-dose Juglone Attenuates Pressure Overload-Induced Cardiac Hypertrophy through Lys207-dependent FoxO1 activation and Mitochondrial protection."
+  },
+  "content": {
+    "abstract": "Pressure overload-induced cardiac hypertrophy is characterized by mitochondrial dysfunction and redox imbalance. Here, we investigated the efficacy, safety window, and redox-regulatory mechanism of juglone, a naturally occurring 5-hydroxy-1,4-naphthoquinone. In mice subjected to transverse aortic constriction (TAC), high-dose juglone induced cardiac, hepatic, and renal toxicity, whereas 1mg/kg/day was well tolerated and attenuated cardiac hypertrophy. Juglone also suppressed Ang II-induced cardiomyocyte hypertrophy in vitro and preserved mitochondrial ultrastructure and mitochondrial membrane potential, respiration, ATP production, and redox homeostasis. Single-nucleus RNA sequencing (snRNA-seq) revealed that juglone reduced stress-associated cardiomyocyte states and enriched calcium-handling cardiomyocytes. Integrated transcriptomic analyses, Biotin-Juglone pull-down assay, surface plasmon resonance, cellular thermal shift assays, molecular docking, and mutational analyses identified FoxO1 as a functional target of juglone. Juglone engaged the FoxO1 DNA-binding domain in a Lys207-dependent manner, and was associated with FoxO1 deacetylation, nuclear accumulation, and transcriptional activation. Activated FoxO1 induced Sesn3 transcription and restored AMPK phosphorylation at Thr172. Sesn3 silencing markedly attenuated juglone-induced AMPK activation and impaired its protective effects against cardiomyocyte hypertrophy and mitochondrial dysfunction. FoxO1 silencing, FoxO1-K207Q mutation, blockade of FoxO1 deacetylation, or inhibition of FoxO1 transcriptional activity impaired these benefits. Importantly, myocardium from patients with aortic valve stenosis-associated hypertrophy exhibited increased FoxO1 acetylation, reduced cardiomyocyte nuclear FoxO1 localization, decreased Sesn3 expression and AMPK phosphorylation, and increased 4-HNE. Collectively, low-dose juglone attenuates pathological hypertrophy and preserves mitochondrial homeostasis through the FoxO1-Sesn3-AMPK axis, while highlighting the importance of dose-dependent redox effects in determining its therapeutic efficacy and systemic toxicity.",
+    "keywords": [
+      "Cardiac hypertrophy",
+      "FoxO1",
+      "Juglone",
+      "Mitochondrial homeostasis",
+      "Sesn3"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Hongyu",
+        "Yang, Zhihao",
+        "Zhang, Cheng",
+        "Ge, Chengxin",
+        "Zhao, Yingliang",
+        "Cheng, Shaopeng",
+        "Wang, Yilin",
+        "Chen, Hao",
+        "Xu, Can",
+        "Wang, Dongjin",
+        "Yang, Jie"
+      ],
+      "short_names": [
+        "Chen H",
+        "Yang Z",
+        "Zhang C",
+        "Ge C",
+        "Zhao Y",
+        "Cheng S",
+        "Wang Y",
+        "Chen H",
+        "Xu C",
+        "Wang D",
+        "Yang J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China; Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China.",
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China.",
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China.",
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China.",
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China.",
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China.",
+        "Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China; Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital Clinical College of Nanjing University of Chinese Medicine, Nanjing, Jiangsu, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Wannan Medical University, Wuhu, Anhui, China; The First Affiliated Hospital, Jinan University, Guangzhou, China.",
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China. Electronic address: skytiankong1023@njglyy.com.",
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China; Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China. Electronic address: wangdongjin@njglyy.com.",
+        "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China; Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China. Electronic address: yangjie1130@njglyy.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Hongyu",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China; Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhihao",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Cheng",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Chengxin",
+        "short_name": "Ge C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yingliang",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Shaopeng",
+        "short_name": "Cheng S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yilin",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China; Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital Clinical College of Nanjing University of Chinese Medicine, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Hao",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, School of Basic Medical Sciences, Wannan Medical University, Wuhu, Anhui, China; The First Affiliated Hospital, Jinan University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Can",
+        "short_name": "Xu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China. Electronic address: skytiankong1023@njglyy.com."
+        ]
+      },
+      {
+        "full_name": "Wang, Dongjin",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China; Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China. Electronic address: wangdongjin@njglyy.com."
+        ]
+      },
+      {
+        "full_name": "Yang, Jie",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Nanjing, Jiangsu, China; Department of Cardiothoracic Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China; Institute of Cardiothoracic Vascular Disease, Nanjing University, Nanjing, Jiangsu, China. Electronic address: yangjie1130@njglyy.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmacological research"
+    ],
+    "journal_abbrev": [
+      "Pharmacol Res"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 23:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42887617"
+    ],
+    "review": [
+      "42887617"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

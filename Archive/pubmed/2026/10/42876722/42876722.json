@@ -1,0 +1,139 @@
+{
+  "identity": {
+    "pmid": "42876722",
+    "doi": "10.3389/fimmu.2026.1958476",
+    "title": "Hemin suppresses interferon responses in periodontal cell models through JAK2-STAT1 inhibition."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Hemin, an oxidized heme species released during erythrocyte breakdown, is detectable in gingival crevicular fluid during periodontal inflammation, but its effects on local immune signaling remain unclear. We investigated whether hemin modifies cytokine-induced interferon responses in HSC-2 oral squamous cell carcinoma cells and primary human gingival fibroblasts. METHODS: Cells were stimulated with interleukin-1beta and tumor necrosis factor-alpha, or with interferon-gamma, in the presence or absence of hemin. Transcriptomic changes were assessed by RNA sequencing and pathway analysis, and selected transcripts and proteins were validated by reverse-transcription quantitative PCR, enzyme-linked immunosorbent assay, immunoblotting, and immunofluorescence. Ligand-kinase interactions were examined by molecular docking and molecular dynamics simulations, and recombinant Janus kinase 2 activity was measured in a cell-free assay. RESULTS: Hemin preferentially suppressed an interferon-associated gene network, including CXCL10, CXCL11, MX1, OAS1, IFIT1, IFIT3, and ISG15, while nuclear factor kappaB-associated responses were comparatively preserved. Hemin also reduced signal transducer and activator of transcription 1 Tyr701 phosphorylation and nuclear accumulation induced by either the cytokine combination or interferon-gamma. Computational analyses predicted stable hemin interactions within conserved ATP-binding pockets of Janus kinases, and the cell-free assay demonstrated inhibition of recombinant Janus kinase 2. DISCUSSION: Together, these findings show that hemin attenuates interferon-associated transcription in periodontal cell models, consistent with inhibition of the Janus kinase 2-signal transducer and activator of transcription 1 axis. This mechanism may enable blood-derived hemin to modify local mucosal immune signaling, although its relevance to periodontal tissues and antiviral defense requires confirmation in organotypic, infection, and in vivo models.",
+    "keywords": [
+      "CXCL10 (C-X-C motif ligand 10)",
+      "HSC2",
+      "JAK - STAT signaling pathway",
+      "hemin",
+      "interferon signaling",
+      "periodontal fibroblasts",
+      "periodontitis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Hemin/pharmacology/metabolism",
+      "*Janus Kinase 2/metabolism/antagonists & inhibitors",
+      "*STAT1 Transcription Factor/metabolism/antagonists & inhibitors",
+      "Signal Transduction/drug effects",
+      "Gingiva/cytology/metabolism",
+      "*Interferons/metabolism",
+      "Fibroblasts/metabolism/immunology/drug effects",
+      "Cytokines",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Xiaoyu",
+        "Gruber, Reinhard",
+        "Panahipour, Layla"
+      ],
+      "short_names": [
+        "Huang X",
+        "Gruber R",
+        "Panahipour L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Oral Biology, Medical University of Vienna, Vienna, Austria.",
+        "Department of Prosthodontics, The Affiliated Stomatological Hospital of Southwest Medical University, Luzhou, China.",
+        "Department of Oral Biology, Medical University of Vienna, Vienna, Austria.",
+        "Department of Periodontology, School of Dental Medicine, University of Bern, Bern, Switzerland.",
+        "Department of Oral Biology, Medical University of Vienna, Vienna, Austria."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Xiaoyu",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oral Biology, Medical University of Vienna, Vienna, Austria.",
+          "Department of Prosthodontics, The Affiliated Stomatological Hospital of Southwest Medical University, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Gruber, Reinhard",
+        "short_name": "Gruber R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oral Biology, Medical University of Vienna, Vienna, Austria.",
+          "Department of Periodontology, School of Dental Medicine, University of Bern, Bern, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Panahipour, Layla",
+        "short_name": "Panahipour L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oral Biology, Medical University of Vienna, Vienna, Austria."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 13:35",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42876722"
+    ],
+    "review": [
+      "42876722"
+    ],
+    "pmc": [
+      "13661988"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-IFIT1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1958476",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

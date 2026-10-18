@@ -1,0 +1,213 @@
+{
+  "identity": {
+    "pmid": "42870234",
+    "doi": "10.1186/s10020-026-01578-2",
+    "title": "A TRIM15-CDX2 loop drives bile acid-induced gastric intestinal metaplasia."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Gastric intestinal metaplasia (GIM), a precancerous lesion and risk factor for gastric cancer, is closely associated with chronic bile acid (BA) exposure; however, its molecular mechanisms remain unclear. This study aimed to identify key regulators involved in BA-associated GIM and to elucidate their functional roles. METHODS: TRIM15 and GIM markers (CDX2, MUC2, KLF4, and VIL1) were assessed in human GIM and paired normal tissues by RNA-seq, RT‒qPCR, Western blotting (WB), and immunofluorescence (IF). BA profiles were analyzed using UHPLC‒MS/MS. In vitro, GES-1 cells were treated with CDCA and subjected to TRIM15 gain- and loss-of-function assays. CDX2-mediated transcriptional regulation of TRIM15 was evaluated by dual-luciferase reporter and ChIP assays. NF-kappaB signaling and related proteins were assessed by WB and IF. The interaction between TRIM15 and IkappaBalpha and the levels of ubiquitination were investigated by coimmunoprecipitation, LC-MS/MS and protein-protein docking analysis. Functional assays were used to assess proliferation and apoptosis. In vivo validation was performed using an AAV9-mediated TRIM15 knockdown rat model. RESULTS: TRIM15 expression was consistently upregulated in GIM and increased stepwise with disease severity, accompanied by a positive association with CDX2 expression. BA profiling revealed the selective enrichment of cholic acid (CA) and chenodeoxycholic acid (CDCA), which induced GIM-associated phenotypes in vitro. Mechanistically, CDX2 directly bound to the TRIM15 promoter to increase its transcription, whereas TRIM15 promoted CDX2 expression via the NF-kappaB pathway, resulting in the formation of a regulatory loop. Further mechanistic analyses revealed that TRIM15 promoted K48-linked ubiquitination and subsequent proteasomal degradation of IkappaBalpha, thereby enhancing p65 phosphorylation. Notably, this effect was abolished by expression of the degradation-resistant IkappaBalpha S32A/S36A mutant. In vivo, TRIM15 knockdown attenuated gastric mucosal injury and intestinal metaplasia and reduced NF-kappaB signaling and CDX2 expression. CONCLUSION: These findings suggest the involvement of a TRIM15-NF-kappaB-CDX2 regulatory loop in BA-associated GIM. TRIM15 may contribute to epithelial reprogramming under BA exposure and could be a potential biomarker and therapeutic target for GIM progression.",
+    "keywords": [
+      "Bile acid",
+      "CDX2",
+      "Gastric intestinal metaplasia",
+      "IkappaBalpha",
+      "NF-kappaB",
+      "TRIM15",
+      "Ubiquitination"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*CDX2 Transcription Factor/metabolism/genetics",
+      "Metaplasia/metabolism",
+      "Animals",
+      "*Bile Acids and Salts/metabolism/adverse effects",
+      "Kruppel-Like Factor 4",
+      "Rats",
+      "Male",
+      "*Ubiquitin-Protein Ligases/metabolism/genetics",
+      "Signal Transduction",
+      "NF-kappa B/metabolism",
+      "Gastric Mucosa/pathology/metabolism",
+      "Cell Line",
+      "Female",
+      "Ubiquitination",
+      "Disease Models, Animal"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Dan",
+        "Chen, Jian",
+        "Xu, Wei",
+        "Shrestha, Sachin Mulmi",
+        "Lu, Qin",
+        "Ren, Lihua",
+        "Ji, Qinghua",
+        "Wu, Hailu",
+        "Shi, Ruihua"
+      ],
+      "short_names": [
+        "Wang D",
+        "Chen J",
+        "Xu W",
+        "Shrestha SM",
+        "Lu Q",
+        "Ren L",
+        "Ji Q",
+        "Wu H",
+        "Shi R"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1656-9376",
+        "ORCID: 0000-0003-4977-8801"
+      ],
+      "affiliations": [
+        "School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China.",
+        "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China. wuhailu_ruby@126.com.",
+        "School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, China. ruihuashi@126.com.",
+        "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China. ruihuashi@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Dan",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, China.",
+          "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jian",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, China.",
+          "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Wei",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China."
+        ]
+      },
+      {
+        "full_name": "Shrestha, Sachin Mulmi",
+        "short_name": "Shrestha SM",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Qin",
+        "short_name": "Lu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Lihua",
+        "short_name": "Ren L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Qinghua",
+        "short_name": "Ji Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Hailu",
+        "short_name": "Wu H",
+        "identifiers": [
+          "0000-0003-1656-9376"
+        ],
+        "affiliations": [
+          "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China. wuhailu_ruby@126.com."
+        ]
+      },
+      {
+        "full_name": "Shi, Ruihua",
+        "short_name": "Shi R",
+        "identifiers": [
+          "0000-0003-4977-8801"
+        ],
+        "affiliations": [
+          "School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, China. ruihuashi@126.com.",
+          "Department of Gastroenterology, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, China. ruihuashi@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular medicine (Cambridge, Mass.)"
+    ],
+    "journal_abbrev": [
+      "Mol Med"
+    ],
+    "pub_date": "2026 Aug 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42870234"
+    ],
+    "review": [
+      "42870234"
+    ],
+    "pmc": [
+      "13663074"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://molmed.biomedcentral.com/articles/10.1186/s10020-026-01578-2",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1497",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

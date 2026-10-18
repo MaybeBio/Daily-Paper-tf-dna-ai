@@ -1,0 +1,150 @@
+{
+  "identity": {
+    "pmid": "42869301",
+    "doi": "10.1016/j.ibmb.2026.104675",
+    "title": "MaltEms-MaltOBP9 axis mediates sexually dimorphic olfactory behavior in Monochamus alternatus via recognition of pheromone 2-methoxy-4-vinylphenol."
+  },
+  "content": {
+    "abstract": "The olfactory system is essential for insect survival and behavior, with odorant-binding proteins (OBPs) playing a key role by binding and transporting chemical signals to olfactory receptors. Although MaltOBP9 from Monochamus alternatus, a primary vector of pine wilt disease, has been linked to olfactory functions in M. alternatus, its regulatory mechanisms and specific roles are not well understood. In this study, we show that MaltOBP9 is highly expressed in the antennae of both male and female adults after sexual maturation. Using fluorescence spectroscopy, molecular docking, and site-directed mutagenesis, we identified the amino acid Phe54 as essential for MaltOBP9's ability to bind 18 different volatile compounds. RNA interference (RNAi) and behavioral tests revealed that MaltOBP9 is necessary for sexually mature adults to detect the pheromone 2-methoxy-4-vinylphenol (2M4VP). Additionally, dual-luciferase reporter assays, electrophoretic mobility shift assays, and RNAi experiments demonstrated that the transcription factor MaltEms positively regulates MaltOBP9 expression, thereby influencing the detection of 2M4VP. By combining insights into transcriptional regulation and protein-ligand interactions, this study clarifies the MaltEms-MaltOBP9-2M4VP axis as a mediator of sex-specific olfactory behavior-where females avoid and males are attracted to the pheromone-in sexually mature M. alternatus. These findings provide a theoretical basis for developing pest control methods that target MaltOBP9 and its critical residue Phe54 through behavior-based strategies.",
+    "keywords": [
+      "Chemical communication",
+      "Monochamus alternatus",
+      "Odorant-binding protein",
+      "Sexually dimorphic",
+      "Transcription factor MaltEms"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Mei-Jiao",
+        "Sun, Wei",
+        "Li, Qi-Cheng",
+        "Wei, Yan-Lin",
+        "Zhang, Pu-Yuan",
+        "Gu, Jian",
+        "Wang, Man-Qun"
+      ],
+      "short_names": [
+        "Yang MJ",
+        "Sun W",
+        "Li QC",
+        "Wei YL",
+        "Zhang PY",
+        "Gu J",
+        "Wang MQ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China; Yichang City Forest Pest Control and Quarantine Station, Yichang City Forestry Comprehens Law Enforcement D, Yichang, 443001, China.",
+        "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China. Electronic address: mqwang@mail.hzau.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Mei-Jiao",
+        "short_name": "Yang MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Wei",
+        "short_name": "Sun W",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qi-Cheng",
+        "short_name": "Li QC",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Yan-Lin",
+        "short_name": "Wei YL",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Pu-Yuan",
+        "short_name": "Zhang PY",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Jian",
+        "short_name": "Gu J",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China; Yichang City Forest Pest Control and Quarantine Station, Yichang City Forestry Comprehens Law Enforcement D, Yichang, 443001, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Man-Qun",
+        "short_name": "Wang MQ",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China. Electronic address: mqwang@mail.hzau.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Insect biochemistry and molecular biology"
+    ],
+    "journal_abbrev": [
+      "Insect Biochem Mol Biol"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869301"
+    ],
+    "review": [
+      "42869301"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0965-1748(26)00199-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

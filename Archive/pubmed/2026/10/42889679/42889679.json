@@ -1,0 +1,99 @@
+{
+  "identity": {
+    "pmid": "42889679",
+    "doi": "10.5114/ada.2026.164263",
+    "title": "Integrated multi-omics and experimental analyses identify JUNB as a candidate biomarker associated with immune-related processes in psoriasis."
+  },
+  "content": {
+    "abstract": "INTODUCTION: Psoriasis is an immune-mediated inflammatory skin disease involving abnormal keratinocyte activation and immune infiltration, while the key transcriptional regulators underlying epidermal-immune interactions remain insufficiently defined. AIM: To identify and validate core immune-related biomarkers linked to psoriasis pathogenesis, emphasising transcription factor JUNB, through integrated bioinformatics and experimental approaches. MATERIAL AND METHODS: Bulk transcriptome datasets (GSE14905, GSE66511, GSE154200) were examined to detect differentially expressed genes (DEGs), while three ML approaches (LASSO, random forest, and XGBoost) were used to identify hub genes. Diagnostic performance was evaluated via ROC curves. Immune infiltration patterns were assessed using CIBERSORT. Single-cell RNA-seq (GSE162183) was used for cellular localization. In vitro experiments were conducted in HaCaT cells stimulated with IL-17A, with JUNB knockdown via siRNA, and expression levels of IL-6, IL-22, and IFNG measured by qRT-PCR. RESULTS: JUNB and S100A7 were consistently upregulated in psoriasis across datasets and showed good diagnostic performance (AUC > 0.85). Gene set enrichment analysis (GSEA) demonstrated JUNB to be enriched in IL-17, NF-kappaB, and TNF signalling pathways. Immune analysis indicated JUNB was positively correlated with neutrophils and macrophages. Single-cell analysis confirmed JUNB and S100A7 were primarily expressed in keratinocytes. In vitro, IL-17A stimulation was associated with increased JUNB and S100A7 expression, while JUNB knockdown significantly reduced downstream inflammatory cytokines. CONCLUSIONS: These findings indicate that JUNB is closely associated with IL-17-related inflammatory responses and immune infiltration in psoriasis, providing mechanistic context for its involvement in disease pathogenesis and supporting its potential utility as a diagnostic biomarker.",
+    "keywords": [
+      "IL-17A",
+      "JUNB",
+      "immune infiltration",
+      "machine learning",
+      "psoriasis",
+      "single-cell RNA-seq"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Jiayin",
+        "Shi, Jiaqi",
+        "Zhong, Mi"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Shi J",
+        "Zhong M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Dermatology, Affiliated Hospital of Jiangnan University, Wuxi, Jiangsu, China.",
+        "Department of Dermatology, Affiliated Hospital of Jiangnan University, Wuxi, Jiangsu, China.",
+        "Department of Dermatology, Affiliated Hospital of Jiangnan University, Wuxi, Jiangsu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Jiayin",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Jiangnan University, Wuxi, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Jiaqi",
+        "short_name": "Shi J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Jiangnan University, Wuxi, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Mi",
+        "short_name": "Zhong M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Hospital of Jiangnan University, Wuxi, Jiangsu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Postepy dermatologii i alergologii"
+    ],
+    "journal_abbrev": [
+      "Postepy Dermatol Alergol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 23:12",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42889679"
+    ],
+    "review": [
+      "42889679"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

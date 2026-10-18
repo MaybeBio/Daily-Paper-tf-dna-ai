@@ -1,0 +1,144 @@
+{
+  "identity": {
+    "pmid": "42881146",
+    "doi": "10.1021/acssensors.6c01075",
+    "title": "Deep Learning and Domain Expertise for Fabricating High-Performance Biosensors."
+  },
+  "content": {
+    "abstract": "Transcription factor-based biosensors are essential for the scalable bioproduction of plant natural products. However, a major bottleneck in developing high-performance biosensors is the engineering of responsive promoters due to the vast sequence space and poorly understood sequence-function relationships. Here, we extend our previously published DeepSEED framework into an artificial intelligence-driven pipeline for efficient and extensible biosensor-responsive promoter optimization. This strategy integrates deep learning with domain-specific biological expertise. By fixing core promoter elements, varying the number and position of transcription factor binding sites (TFBSs) to define promoter backbones, and subsequently optimizing the flanking sequences, we enable the de novo design of promoters. We systematically apply this strategy to optimize a panel of biosensors across different transcription factors and regulatory modes, including four metabolite-responsive biosensors and a quorum-sensing-based environmental sensor. The resulting biosensors exhibit diverse dynamic behaviors with markedly improved sensitivity, expanded dynamic range, and increased maximum output. For instance, the optimized naringenin biosensor demonstrates a 32-fold broader dynamic range and a 27-fold higher maximum output compared to its parent. To illustrate its utility in metabolic engineering, we employed a DeepSEED-designed promoter to dynamically regulate a p-coumaric acid biosynthesis pathway, boosting production by 117.0%. Our work extends the previously published DeepSEED framework into a powerful pipeline for biosensor optimization and delivers a portfolio of high-performance regulatory elements, addressing a critical need and facilitating the development of more intelligent and productive metabolic engineering systems.",
+    "keywords": [
+      "biosensors",
+      "deepSEED",
+      "machine learning",
+      "metabolic engineering",
+      "naringenin",
+      "p-coumaric acid",
+      "promoter engineering",
+      "quorum sensing",
+      "synthetic biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiao, Mei-Ling",
+        "Zhang, Pengcheng",
+        "Li, Zhijie",
+        "Lin, Nuo-Qiao",
+        "Wang, Xiaowo",
+        "Liu, Jian-Zhong"
+      ],
+      "short_names": [
+        "Xiao ML",
+        "Zhang P",
+        "Li Z",
+        "Lin NQ",
+        "Wang X",
+        "Liu JZ"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2965-8036",
+        "ORCID: 0000-0002-1570-3214"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-Sen University, Guangzhou510275, China.",
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing100084, China.",
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing100084, China.",
+        "State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-Sen University, Guangzhou510275, China.",
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing100084, China.",
+        "State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-Sen University, Guangzhou510275, China.",
+        "Guangzhou Innovation Center of Biotechnology and Biomanufacturing, Guangzhou510275, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiao, Mei-Ling",
+        "short_name": "Xiao ML",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-Sen University, Guangzhou510275, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Pengcheng",
+        "short_name": "Zhang P",
+        "identifiers": [],
+        "affiliations": [
+          "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing100084, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhijie",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing100084, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Nuo-Qiao",
+        "short_name": "Lin NQ",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-Sen University, Guangzhou510275, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaowo",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0000-0003-2965-8036"
+        ],
+        "affiliations": [
+          "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing100084, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jian-Zhong",
+        "short_name": "Liu JZ",
+        "identifiers": [
+          "0000-0002-1570-3214"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-Sen University, Guangzhou510275, China.",
+          "Guangzhou Innovation Center of Biotechnology and Biomanufacturing, Guangzhou510275, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:32",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42881146"
+    ],
+    "review": [
+      "42881146"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

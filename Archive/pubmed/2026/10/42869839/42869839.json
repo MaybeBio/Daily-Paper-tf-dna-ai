@@ -1,0 +1,182 @@
+{
+  "identity": {
+    "pmid": "42869839",
+    "doi": "10.19540/j.cnki.cjcmm.20260603.802",
+    "title": "[Ergosterol peroxide inhibits proliferation of breast cancer MDA-MB-231 cells via synergistic ferroptosis and mitochondrial-dependent apoptosis mediated by p53 signaling pathway]."
+  },
+  "content": {
+    "abstract": "Based on proteomic methods, this paper aims to explore the target and action mechanism of ergosterol peroxide(EP) against triple-negative breast cancer. The effect of EP on the viability of breast cancer MDA-MB-231 cells was detected by the MTT method. The effect of EP on apoptosis, mitochondrial membrane potential(detected by JC-1), reactive oxygen species(ROS), and the cell cycle of MDA-MB-231 cells was detected by flow cytometry. The subcellular localization and differentially expressed proteins of MDA-MB-231 cells treated with EP were obtained by proteomic technology based on tandem mass spectrometry. GO function and KEGG enrichment analysis were conducted through the eggNOG and KAAS databases. A protein-protein interaction(PPI) network was constructed via the STRING database. Malondialdehyde(MDA), superoxide dismutase(SOD), and glutathione(GSH) concentrations, as well as iron contents, were measured using a microplate reader. A Western blot was performed to detect the expression of relevant proteins, and molecular docking was used to validate the binding affinity of EP to relevant core target proteins. MTT results demonstrate that EP significantly inhibits MDA-MB-231 cell viability in a time-and concentration-dependent manner. The results of flow cytometry show that after MDA-MB-231 cells are treated with EP of 10, 20, and 40 mumol.L~(-1) for 48 hours, the total apoptosis rate of the cells increases significantly. The mitochondrial membrane potential decreased significantly; the level of ROS increased significantly; cell cycle arrest occurred in the G_0/G_1 phase. Proteomic results demonstrate that compared with those in the blank group, 895 differentially expressed proteins are identified in the EP group, with 326 upregulated proteins and 569 downregulated proteins. Bioinformatics pathway enrichment analysis indicates significant enrichment of ferroptosis and tumor protein p53 signaling pathways among these differentially expressed proteins, suggesting that EP may exert an inhibitory effect on MDA-MB-231 cell proliferation through multiple pathways. The Western blot results show that the protein expressions of cytochrome C(Cyt C), B-cell lymphoma-2(Bcl-2)-associated X protein(Bax), cleaved cysteine-aspartic acid protease-7(cleaved caspase-7), heme oxygenase 1(HOMX1), p53, and p21 protein are increased in MDA-MB-231 cells treated with EP. In contrast, the protein expressions of Bcl-2, solute carrier family 7 member 11(SLC7A11), glutathione peroxidase 4(GPX4), regulatory subunit of glutamate-cysteine ligase(GCLM), p62 protein, and cyclin-dependent kinase 4(CDK4) are decreased. The above findings suggest that EP may promote apoptosis in MDA-MB-231 breast cancer cells by regulating the p53 signaling pathway and inducing ferroptosis.",
+    "keywords": [
+      "ergosterol peroxide",
+      "ferroptosis",
+      "p53 signaling pathway",
+      "proteomics",
+      "triple-negative breast cancer"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Apoptosis/drug effects",
+      "MDA-MB-231 Cells",
+      "Signal Transduction/drug effects",
+      "*Tumor Suppressor Protein p53/metabolism/genetics",
+      "*Ferroptosis/drug effects",
+      "Female",
+      "*Mitochondria/metabolism/drug effects",
+      "Cell Proliferation/drug effects",
+      "Reactive Oxygen Species/metabolism",
+      "*Ergosterol/analogs & derivatives/pharmacology",
+      "*Breast Neoplasms/physiopathology/metabolism/drug therapy/genetics",
+      "Membrane Potential, Mitochondrial/drug effects",
+      "Cell Line, Tumor",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hou, Li-Man",
+        "Luo, Ran",
+        "Wang, Qi",
+        "Wang, Lu",
+        "Deng, Si-Qi",
+        "Bu, Ming",
+        "Lin, Yu"
+      ],
+      "short_names": [
+        "Hou LM",
+        "Luo R",
+        "Wang Q",
+        "Wang L",
+        "Deng SQ",
+        "Bu M",
+        "Lin Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China.",
+        "School of Pharmaceutical Sciences, Southern Medical University Guangzhou 510515, China.",
+        "School of Basic Medical Sciences, Qiqihar Medical University Qiqihar 161006, China.",
+        "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China.",
+        "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China.",
+        "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China.",
+        "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hou, Li-Man",
+        "short_name": "Hou LM",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Ran",
+        "short_name": "Luo R",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, Southern Medical University Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qi",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Qiqihar Medical University Qiqihar 161006, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lu",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Si-Qi",
+        "short_name": "Deng SQ",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China."
+        ]
+      },
+      {
+        "full_name": "Bu, Ming",
+        "short_name": "Bu M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yu",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Qiqihar Medical University Qiqihar 161006, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica"
+    ],
+    "journal_abbrev": [
+      "Zhongguo Zhong Yao Za Zhi"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869839"
+    ],
+    "review": [
+      "42869839"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GCLM-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1474",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

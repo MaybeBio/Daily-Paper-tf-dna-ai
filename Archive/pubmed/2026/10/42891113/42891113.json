@@ -1,0 +1,161 @@
+{
+  "identity": {
+    "pmid": "42891113",
+    "doi": "10.20517/evcna.2026.55",
+    "title": "Rose-derived extracellular vesicle-like particles enable anti-melanogenesis by suppressing the key melanogenic pathway in skin cells."
+  },
+  "content": {
+    "abstract": "Aim: Abnormal skin pigmentation is not merely a common cosmetic concern but is also associated with pigmentation disorders and an elevated risk of malignant lesions such as melanoma. To overcome the adverse effects of existing antimelanogenic agents, we developed rose-derived extracellular vesicle-like particles (RS-EVLP) as a novel and biocompatible melanogenesis inhibitor. Methods: RS-EVLP were isolated from roses and characterized by transmission electron microscopy and mass spectrometry. Their anti-melanogenic effects were evaluated in B16 cells via melanin content and tyrosinase activity assays. Molecular mechanisms were investigated using molecular docking, molecular dynamics simulations, and surface plasmon resonance (SPR) analysis. In vivo efficacy was assessed in a zebrafish model, followed by a clinical trial in human volunteers. Results: RS-EVLP exhibited a bilayer nanostructure (50-150 nm) and contained natural anti-melanogenic components, including luteolin and procyanidin B3. They showed high binding affinity to microphthalmia-associated transcription factor (MITF) and tyrosinase-related protein 1 (TRP-1). In B16 cells, RS-EVLP dose-dependently reduced melanin content and tyrosinase activity by downregulating MITF and the transcription of tyrosinase (TYR)/TRP-1/TRP-2 enzyme system. In zebrafish, RS-EVLP reduced melanin spot area by 24% +/- 17.5%. Clinical studies confirmed that a 5% RS-EVLP formulation progressively enhanced skin brightness as skin penetration efficiency increased. Conclusion: RS-EVLP overcomes the limitations in bioavailability and toxicity associated with traditional synthetic whitening agents, offering a promising natural alternative for developing whitening cosmeceuticals.",
+    "keywords": [
+      "Rose-derived extracellular vesicle-like particles",
+      "melanogenesis",
+      "multidimensional molecular mechanism"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Sirui",
+        "Li, Huijing",
+        "Yang, Ying",
+        "Zeng, Weiying",
+        "Li, Dongxiao",
+        "Qiu, Tianxin",
+        "Lu, Weiguo",
+        "Zhao, Kewei"
+      ],
+      "short_names": [
+        "Zhou S",
+        "Li H",
+        "Yang Y",
+        "Zeng W",
+        "Li D",
+        "Qiu T",
+        "Lu W",
+        "Zhao K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Third Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Engineering Research Center of Chinese Herbal Vesicles, Guangzhou 510378, Guangdong, China.",
+        "The First Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510405, Guangdong, China.",
+        "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China.",
+        "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China.",
+        "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China.",
+        "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China.",
+        "The Third Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Engineering Research Center of Chinese Herbal Vesicles, Guangzhou 510378, Guangdong, China.",
+        "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China.",
+        "The Third Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Engineering Research Center of Chinese Herbal Vesicles, Guangzhou 510378, Guangdong, China.",
+        "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China.",
+        "The First Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510405, Guangdong, China.",
+        "The Third Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Engineering Research Center of Chinese Herbal Vesicles, Guangzhou 510378, Guangdong, China.",
+        "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Sirui",
+        "short_name": "Zhou S",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Engineering Research Center of Chinese Herbal Vesicles, Guangzhou 510378, Guangdong, China.",
+          "The First Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510405, Guangdong, China.",
+          "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Huijing",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Ying",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Weiying",
+        "short_name": "Zeng W",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Dongxiao",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Engineering Research Center of Chinese Herbal Vesicles, Guangzhou 510378, Guangdong, China.",
+          "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Tianxin",
+        "short_name": "Qiu T",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Engineering Research Center of Chinese Herbal Vesicles, Guangzhou 510378, Guangdong, China.",
+          "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Weiguo",
+        "short_name": "Lu W",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510405, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Kewei",
+        "short_name": "Zhao K",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Engineering Research Center of Chinese Herbal Vesicles, Guangzhou 510378, Guangdong, China.",
+          "The Third Clinical Medical College, Guangzhou University of Chinese Medicine, Guangzhou 510378, Guangdong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Extracellular vesicles and circulating nucleic acids"
+    ],
+    "journal_abbrev": [
+      "Extracell Vesicles Circ Nucl Acids"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 23:38",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42891113"
+    ],
+    "review": [
+      "42891113"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

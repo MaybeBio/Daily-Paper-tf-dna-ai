@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "42860505",
+    "doi": "10.1007/s40199-026-00668-0",
+    "title": "Neurotensin modulation of immune and oxido-inflammatory homeostasis targeting TGF-beta activated kinase 1/Nuclear factor-kappa betaeta pathway: an integrated in vivo and in silico study."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Neurotensin (NTS) is a brain peptide and is known to regulate several brain pathways. Subsequently NTS involvement in psychosis was administered having its promising therapeutic effects as an antipsychotic drug. Therefore, it has been deduced that targeting the NTS system in the regulation of the immune organs would prove to be a productive strategy for developing the novel immune modulatory drugs. OBJECTIVE: The present study elucidated the potential anti-inflammatory properties of NTS receptor 1 (NTSR1) agonist PD149163 (PD) in modulation of immune organs specifically, spleen and thymus investigating the potential immunomodulatory mechanisms targeting NF-kappaB /TAK1 signaling pathway. METHODS: Swiss albino female mice were randomly grouped: Group I-control, treatment groups- Group II, Group III and Group IV were intraperitoneally exposed with NTSR1-agonist PD low dose/ PD(50) (50 microg /kg bw), PD high dose/ PD(100) (100 microg /kg bw) and NTSR1-antagonist SR48692 (500 microg /kg bw), respectively for 28 days. Biochemical, hematological, histopathological, and bioinformatics analyses were performed. Differences were considered statistically significant at P < 0.05. RESULTS: The levels of Nuclear factor kappa beta/NF-kappaB, Tumor necrosis factor- alpha/TNF-alpha, Interleukine-6/IL-6, Corticosterone/CORT and pro-oxidant, Lipid-peroxidation/LPx were visibly similar to control after the treatment of PD(100) as well as PD(50) dose however the elevation was observed with the SR. PD(100) dose has a prominent effect on the plasma Interleukine-10/IL-10, CORT, NTS levels and tissue anti-oxidants superoxide dismutase/SOD, catalase/CAT as well as positively regulated the hematological and histological parameters, clearly deciphering NTS's immunomodulatory effects. Furthermore, in silico molecular docking analyses showed that PD exhibited high binding affinity with TGF-beta activated kinase 1/TAK1 inflammatory protein, indicating inhibition of TAK1/NF-kappaB downstream signaling pathways. CONCLUSION: NTS receptor 1 analogs might provide a better understanding of the mechanisms by which NTS regulates immune-system and could be further exploited for managing various immune-related disorders.",
+    "keywords": [
+      "Immune",
+      "Neurotensin",
+      "PD149163",
+      "SR48692",
+      "Spleen",
+      "Thymus"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Female",
+      "*NF-kappa B/metabolism/immunology",
+      "Mice",
+      "Signal Transduction/drug effects",
+      "Spleen/drug effects/immunology/metabolism",
+      "*Neurotensin/pharmacology/analogs & derivatives",
+      "MAP Kinase Kinase Kinase 7",
+      "*Receptors, Neurotensin/agonists/metabolism",
+      "MAP Kinase Kinase Kinases/metabolism",
+      "Thymus Gland/drug effects/immunology",
+      "Oxidative Stress/drug effects",
+      "Homeostasis/drug effects",
+      "*Anti-Inflammatory Agents/pharmacology",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mishra, Swarnima",
+        "Mohanty, Banalata"
+      ],
+      "short_names": [
+        "Mishra S",
+        "Mohanty B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Deapartmet of Zoology, University of Allahabad, Allahabad, India.",
+        "Deapartmet of Zoology, University of Allahabad, Allahabad, India. banalatamohanty@allduniv.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mishra, Swarnima",
+        "short_name": "Mishra S",
+        "identifiers": [],
+        "affiliations": [
+          "Deapartmet of Zoology, University of Allahabad, Allahabad, India."
+        ]
+      },
+      {
+        "full_name": "Mohanty, Banalata",
+        "short_name": "Mohanty B",
+        "identifiers": [],
+        "affiliations": [
+          "Deapartmet of Zoology, University of Allahabad, Allahabad, India. banalatamohanty@allduniv.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences"
+    ],
+    "journal_abbrev": [
+      "Daru"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42860505",
+      "40471330",
+      "39978709",
+      "39881060",
+      "42659935",
+      "39812770",
+      "41145945",
+      "36368076",
+      "42320252",
+      "41956324",
+      "42302947",
+      "42468682",
+      "34334065",
+      "38029502",
+      "42177887",
+      "33177202",
+      "27978490",
+      "41678235",
+      "33034134",
+      "23735482",
+      "27153994",
+      "40449268",
+      "29065410",
+      "42424752",
+      "42594971",
+      "34126414",
+      "40644858",
+      "39411878",
+      "11438700",
+      "40683208",
+      "42811961",
+      "38812159",
+      "26318254",
+      "41512388",
+      "41248633",
+      "40338445",
+      "42793111",
+      "21821108",
+      "41879903",
+      "41924773",
+      "36068741",
+      "39472133",
+      "42019124",
+      "40360040",
+      "34648903",
+      "40244452",
+      "37952698",
+      "38615654",
+      "39059100",
+      "42011618",
+      "25249545",
+      "33539010",
+      "42242487",
+      "40146271",
+      "29981433",
+      "22641218",
+      "32450432",
+      "41843120",
+      "22637723",
+      "38753858",
+      "41308385",
+      "25249538",
+      "38276990",
+      "40330488",
+      "27179306",
+      "27601471",
+      "38972238",
+      "41812937",
+      "26432169",
+      "35692206",
+      "39447411",
+      "16157589",
+      "12794154",
+      "34718343",
+      "35068213",
+      "42053960",
+      "12545162",
+      "23810444",
+      "41508081",
+      "39059571",
+      "37100262",
+      "42635925",
+      "23858099",
+      "40101851",
+      "41678912",
+      "42112357",
+      "38851471",
+      "38239137",
+      "29277609",
+      "42011623",
+      "39923228",
+      "42688597",
+      "10921914",
+      "39047882",
+      "34589395",
+      "40005451",
+      "40865401",
+      "33433362",
+      "37434032",
+      "39458546"
+    ],
+    "review": [
+      "42860505",
+      "34589395"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://link.springer.com/article/10.1007/s40199-026-00668-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SNCG-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-472",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

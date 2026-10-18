@@ -1,0 +1,180 @@
+{
+  "identity": {
+    "pmid": "42873088",
+    "doi": "10.1002/cns.71212",
+    "title": "Fingolimod Alleviates Neuroinflammation and Blood-Brain Barrier Disruption in Epilepsy by Upregulating S1PR5 and Inhibiting the Rho/ROCK/NF-kappaB Pathway."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: This study aimed to clarify the role of sphingosine-1-phosphate receptor 5 (S1PR5) in epileptic pathogenesis and the mechanism by which fingolimod exerts anti-epileptic effects, with a focus on neuroinflammation and blood-brain barrier (BBB) disruption. METHODS: Multi-omics integration and machine learning were used to identify S1PR5 as a key candidate gene. Molecular docking was performed to verify the binding affinity between fingolimod and S1PR5. AAV-mediated S1PR5 overexpression was conducted in mouse hippocampi before kainic acid (KA) administration. KA-induced epileptic mice were randomly divided into control, model, and fingolimod intervention groups. Behavioral tests, qRT-PCR, Western blot, immunofluorescence, ELISA, and Evans Blue assay were used for evaluations. RESULTS: S1PR5 expression was significantly downregulated in both epileptic patients and mouse hippocampi. Fingolimod bound stably to S1PR5 in silico. S1PR5 overexpression attenuated neuronal loss, microglial activation, and epileptic seizures in KA-treated mice, confirming that S1PR5 exerts protective effects in epilepsy. Fingolimod intervention upregulated S1PR5 expression, inhibited abnormal activation of the Rho/ROCK/NF-kappaB pathway, restored tight junction proteins (Claudin-5 and ZO-1), reduced BBB leakage, and lowered proinflammatory cytokines (TNF-alpha, IL-1beta, IL-6). These changes were accompanied by alleviated seizure severity and frequency. CONCLUSION: S1PR5 serves as a protective regulator in epilepsy. Fingolimod exerts anti-epileptic effects by upregulating S1PR5, thereby inhibiting the Rho/ROCK/NF-kappaB pathway, reducing neuroinflammation, and preserving BBB integrity. These findings support S1PR5 as a promising target and provide a mechanistic basis for repurposing fingolimod in epilepsy therapy.",
+    "keywords": [
+      "Fingolimod",
+      "S1PR5",
+      "epilepsy",
+      "rho/ROCK/NF-kappaB"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Fingolimod Hydrochloride/pharmacology/therapeutic use",
+      "*Blood-Brain Barrier/drug effects/metabolism",
+      "NF-kappa B/metabolism/antagonists & inhibitors",
+      "Mice",
+      "*Epilepsy/metabolism/drug therapy",
+      "rho-Associated Kinases/metabolism/antagonists & inhibitors",
+      "Up-Regulation/drug effects",
+      "Male",
+      "Signal Transduction/drug effects",
+      "*Sphingosine-1-Phosphate Receptors/biosynthesis/metabolism",
+      "Humans",
+      "*Neuroinflammatory Diseases/metabolism/drug therapy",
+      "Mice, Inbred C57BL",
+      "Hippocampus/drug effects/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Chen",
+        "Duan, Yanli",
+        "Ma, Mengmeng",
+        "Xu, Lin",
+        "Jin, Wei-Na",
+        "Zhang, Zhuoran"
+      ],
+      "short_names": [
+        "Zhang C",
+        "Duan Y",
+        "Ma M",
+        "Xu L",
+        "Jin WN",
+        "Zhang Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0626-5969",
+        "ORCID: 0000-0002-2196-9078",
+        "ORCID: 0000-0002-0036-1135"
+      ],
+      "affiliations": [
+        "Department of Neurology, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Department of Neurology, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Department of Clinical Laboratory, Zhaotong Hospital Affiliated to Kunming Medical University, Zhaotong, Yunnan Province, China.",
+        "Department of Neurology, Tianjin Medical University General Hospital, Tianjin, China.",
+        "China National Clinical Research Center for Neurological Diseases, Beijing Tiantan Hospital, Capital Medical University, Beijing, China.",
+        "Department of Neurology, Tianjin Medical University General Hospital, Tianjin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Chen",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Yanli",
+        "short_name": "Duan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Mengmeng",
+        "short_name": "Ma M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Zhaotong Hospital Affiliated to Kunming Medical University, Zhaotong, Yunnan Province, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Lin",
+        "short_name": "Xu L",
+        "identifiers": [
+          "0000-0003-0626-5969"
+        ],
+        "affiliations": [
+          "Department of Neurology, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Wei-Na",
+        "short_name": "Jin WN",
+        "identifiers": [
+          "0000-0002-2196-9078"
+        ],
+        "affiliations": [
+          "China National Clinical Research Center for Neurological Diseases, Beijing Tiantan Hospital, Capital Medical University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhuoran",
+        "short_name": "Zhang Z",
+        "identifiers": [
+          "0000-0002-0036-1135"
+        ],
+        "affiliations": [
+          "Department of Neurology, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "CNS neuroscience & therapeutics"
+    ],
+    "journal_abbrev": [
+      "CNS Neurosci Ther"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42873088"
+    ],
+    "review": [
+      "42873088"
+    ],
+    "pmc": [
+      "13664676"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/epilepsy.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Epilepsy"
+      },
+      {
+        "url": "https://doi.org/10.1002/cns.71212",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/epilepsy.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Epilepsy"
+      }
+    ],
+    "text_mined": []
+  }
+}

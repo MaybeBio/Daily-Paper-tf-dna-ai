@@ -1,0 +1,325 @@
+{
+  "identity": {
+    "pmid": "42861805",
+    "doi": "10.2174/0113862073486769260919093835",
+    "title": "Study of the Mechanism of Xianglian Anchang Decoction Ameliorating Ulcerative Colitis Based on Transcriptomics and Network Pharmacology Analysis."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: The therapeutic efficacy of Xianglian Anchang Decoction (XLAC) in Ulcerative Colitis (UC) has been established, but the underlying pharmacological mechanisms have remained poorly elucidated. In this study, we employed an integrated strategy combining network pharmacology, transcriptomic profiling, and in vivo experimentation to reveal these mechanisms, with a particular focus on how XLAC modulates the IL-17/AP-1 signaling axis to attenuate intestinal inflammation and promote mucosal repair. METHODS: UC was induced in mice by 2% Dextran Sulfate Sodium (DSS) administration in drinking water. The animals were randomly divided into five groups: control (untreated), model (DSS only), XLAC-L (12.4 g/kg/day XLAC extract), XLAC-H (24.8 g/kg/day XLAC extract), and sulfasalazine reference (SASP) (5 g/kg/day sulfasalazine reference drug). Following a 7-day treatment period, various parameters were evaluated, including body mass fluctuations, colon dimensions, microscopic tissue alterations, and intestinal barrier integrity biomarker levels. A computational target prediction analysis was performed to elucidate the pharmacological mechanisms of XLAC, with subsequent transcriptome sequencing verification. Analytical techniques including fluorescence-activated cell sorting, protein immunoblotting, and tissue staining were employed to investigate the modulatory impact of XLAC on UC via the IL-17/AP-1 molecular cascade. Molecular docking and molecular dynamics simulations were performed to evaluate constituent-target binding and complex stability. RESULTS: XLAC significantly prevented DSS-induced body weight loss, preserved colon length, and reduced the severity of colonic histopathological injury. The XLAC intervention suppressed the secretion of inflammatory mediators such as IL-6 and TNF-alpha, while concurrently promoting the expression of the tight junctional protein ZO-1. Integrated network pharmacology and transcriptomic profiling identified the IL-17 signaling pathway as a potential mechanism underlying the therapeutic effect of XLAC against UC. Further experiments validated that XLAC decreased IL-17A levels and inhibited both the expression and phosphorylation of the AP-1 transcription factors c-Jun and c-Fos. Molecular docking revealed stable binding between the principal bioactive constituents of XLAC (beta-sitosterol and quercetin) and the c-Jun/c-Fos protein complex. Molecular dynamics simulations demonstrate the structural stability of the beta-sitosterol-c-FOS complex. DISCUSSION: Our findings reveal a critical role of the IL‑17/AP‑1 signaling axis in the pathogenesis of Ulcerative Colitis (UC) and demonstrate that XLAC may exert its therapeutic effects through this pathway. The multi‑target regulatory mechanism of XLAC provides a molecular basis for its superior efficacy and fewer side effects compared with conventional single‑target therapies. These data support the potential of XLAC as a candidate drug for UC treatment. CONCLUSION: XLAC exerted protective effects against UC by regulating the IL-17/AP-1 signaling pathway, suppressing the inflammatory responses, and promoting intestinal mucosal barrier repair. These findings provide a mechanistic basis that supports the clinical application of XLAC in UC treatment.",
+    "keywords": [
+      "AP-1.",
+      "Chinese medicine",
+      "IL-17",
+      "Ulcerative colitis",
+      "Xianglian anchang decoction",
+      "network pharmacology",
+      "transcriptomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Tianyu",
+        "Zhao, Cuimei",
+        "Lu, Lishan",
+        "Luo, Ziyue",
+        "Wang, Chen",
+        "Ma, Junzhuo",
+        "Ren, Xuetong",
+        "Xu, Xiaosong",
+        "Chen, Jiong",
+        "Lv, Jingjing",
+        "Zhang, Shixiong",
+        "Yang, Qian",
+        "Wang, Yangang"
+      ],
+      "short_names": [
+        "Gao T",
+        "Zhao C",
+        "Lu L",
+        "Luo Z",
+        "Wang C",
+        "Ma J",
+        "Ren X",
+        "Xu X",
+        "Chen J",
+        "Lv J",
+        "Zhang S",
+        "Yang Q",
+        "Wang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+        "Jiaozhou Traditional Chinese Medicine Hospital, Shandong, China.",
+        "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+        "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+        "Graduate School, Beijing University of Chinese Medicine, Beijing, China.",
+        "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+        "The 980th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Hebei, China.",
+        "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China.",
+        "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China.",
+        "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China.",
+        "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+        "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China.",
+        "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+        "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China.",
+        "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+        "Graduate School, Beijing University of Chinese Medicine, Beijing, China.",
+        "The Third Affiliated Hospital of Beijing University of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Tianyu",
+        "short_name": "Gao T",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Cuimei",
+        "short_name": "Zhao C",
+        "identifiers": [],
+        "affiliations": [
+          "Jiaozhou Traditional Chinese Medicine Hospital, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Lishan",
+        "short_name": "Lu L",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Ziyue",
+        "short_name": "Luo Z",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chen",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Beijing University of Chinese Medicine, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Junzhuo",
+        "short_name": "Ma J",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Xuetong",
+        "short_name": "Ren X",
+        "identifiers": [],
+        "affiliations": [
+          "The 980th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiaosong",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jiong",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Jingjing",
+        "short_name": "Lv J",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shixiong",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+          "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Qian",
+        "short_name": "Yang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+          "The First Affiliated Hospital of Hebei University of Chinese Medicine, Hebei University of Chinese Medicine, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yangang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School, Hebei University of Chinese Medicine, Hebei, China.",
+          "Graduate School, Beijing University of Chinese Medicine, Beijing, China.",
+          "The Third Affiliated Hospital of Beijing University of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Combinatorial chemistry & high throughput screening"
+    ],
+    "journal_abbrev": [
+      "Comb Chem High Throughput Screen"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 11:41",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42861805",
+      "40933753",
+      "40330488",
+      "42570804",
+      "42542265",
+      "42729387",
+      "42251831",
+      "33301917",
+      "40151118",
+      "42837957",
+      "42785530",
+      "40672369",
+      "39788168",
+      "41895092",
+      "38024534",
+      "38043755",
+      "41344517",
+      "37282879",
+      "39024673",
+      "42284638",
+      "34675488",
+      "40675106",
+      "42421348",
+      "41455568",
+      "38488031",
+      "42314811",
+      "41796620",
+      "39427735",
+      "38428658",
+      "32891820",
+      "41005055",
+      "42011573",
+      "39395768",
+      "41908945",
+      "36933873",
+      "39369520",
+      "36738944",
+      "42516969",
+      "38537445",
+      "35777121",
+      "41781119",
+      "42202920",
+      "38677270",
+      "38176667",
+      "38428656",
+      "40414048",
+      "34177580",
+      "42606647",
+      "41693711",
+      "39342779",
+      "37086872",
+      "41161619",
+      "40678703",
+      "40544735",
+      "39717557",
+      "42653660",
+      "39032278",
+      "42092473",
+      "28119098",
+      "42531833",
+      "38144295",
+      "42302942",
+      "41962266",
+      "42544276",
+      "42322762",
+      "42166934",
+      "41800106",
+      "35688258",
+      "42636703",
+      "39993549",
+      "40907405",
+      "40749954",
+      "40324703",
+      "41472739",
+      "41189252",
+      "42200545",
+      "40049341",
+      "41161626",
+      "37356743",
+      "42482581",
+      "41953020",
+      "40907407",
+      "32574670",
+      "41124707",
+      "40158827",
+      "40264665",
+      "41997437",
+      "39489360",
+      "38380568",
+      "40541753",
+      "39393560",
+      "41241212",
+      "40056633",
+      "36868438",
+      "35299029",
+      "39369920",
+      "37161415",
+      "42727461",
+      "42392775",
+      "41031501"
+    ],
+    "review": [
+      "42861805"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-807",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

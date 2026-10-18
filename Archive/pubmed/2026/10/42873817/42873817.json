@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42873817",
+    "doi": "10.1093/jpp/rgag118",
+    "title": "QingGanJianPi oral solution ameliorates hyperlipidemia by facilitating crosstalk between multiple active metabolites and the PPARalpha-LXRalpha axis."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: QingGanJianPi oral solution (QGJP), a traditional Chinese patent medicine, exhibits lipid-lowering and hepatoprotective effects. This study aimed to elucidate the mechanisms by which QGJP promotes lipid and cholesterol efflux. METHODS: Drug efficacy was evaluated in HFD-mice. Serum metabolomics combined with network pharmacology was performed to predict the relative signaling pathways involved. Molecular docking and thermal stability assays were conducted to identify active ingredients interacting with potential targets. The mRNA levels and protein expression were analyzed by qPCR and Western blotting. KEY FINDING: QGJP significantly reduced serum lipid levels in a dose-dependent manner. It also effectively attenuated high-fat diet-induced body weight gain and fat deposition. Untargeted serum metabolomics combined with network pharmacology revealed activation of the PPARalpha-LXRalpha-ABCA1 signaling axis following treatment. Among the circulating metabolites, salvianolic acid A was found to activate PPARalpha, thereby promoting the interaction between PPARalpha and LXRalpha, and enhancing the expression of downstream target genes. Furthermore, emodin upregulates ABCA1 expression mainly through direct activation of LXRalpha, with limited dependence on PPARalpha. CONCLUSIONS: Salvianolic acid A and emodin upregulate ABCA1 expression via multiple mechanisms, including direct activation of LXRalpha or activation through PPARalpha, thereby demonstrating the multi-target advantages of traditional Chinese medicine and providing preliminary insights into the synergistic interactions among its complex metabolites.",
+    "keywords": [
+      "PPARalpha-LXRalpha axis",
+      "QingGanJianPi oral solution",
+      "hyperlipidemia",
+      "lipid transport",
+      "metabolomics"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*PPAR alpha/metabolism",
+      "*Hyperlipidemias/drug therapy/metabolism",
+      "*Drugs, Chinese Herbal/pharmacology/administration & dosage",
+      "*Liver X Receptors/metabolism",
+      "Mice",
+      "Administration, Oral",
+      "Male",
+      "Signal Transduction/drug effects",
+      "Diet, High-Fat/adverse effects",
+      "*Hypolipidemic Agents/pharmacology/administration & dosage",
+      "Mice, Inbred C57BL",
+      "ATP Binding Cassette Transporter 1/metabolism",
+      "Molecular Docking Simulation",
+      "Network Pharmacology",
+      "Lipid Metabolism/drug effects",
+      "Lipids/blood"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Jinji",
+        "Jing, Chenxu",
+        "Han, Yuna",
+        "Zhu, Zhijie",
+        "Yang, Ming",
+        "Zhuang, Xuefeng",
+        "Zhou, Kaixuan",
+        "Liu, Jia",
+        "Li, Lijing"
+      ],
+      "short_names": [
+        "Wang J",
+        "Jing C",
+        "Han Y",
+        "Zhu Z",
+        "Yang M",
+        "Zhuang X",
+        "Zhou K",
+        "Liu J",
+        "Li L"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-5904-6831",
+        "ORCID: 0000-0003-1889-6071",
+        "ORCID: 0000-0002-9469-1644"
+      ],
+      "affiliations": [
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "Research Center of Traditional Chinese Medicine, The Affiliated Hospital to Changchun University of Chinese Medicine, Changchun 130021, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "Tonghua Golden-Horse Pharmaceutical Industry Co., Ltd., Tonghua 134003, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Chinese Medicine, Bozhou University, Bozhou 236800, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Jinji",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0009-0002-5904-6831"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Jing, Chenxu",
+        "short_name": "Jing C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+          "Research Center of Traditional Chinese Medicine, The Affiliated Hospital to Changchun University of Chinese Medicine, Changchun 130021, China."
+        ]
+      },
+      {
+        "full_name": "Han, Yuna",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhijie",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Tonghua Golden-Horse Pharmaceutical Industry Co., Ltd., Tonghua 134003, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Ming",
+        "short_name": "Yang M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Zhuang, Xuefeng",
+        "short_name": "Zhuang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Kaixuan",
+        "short_name": "Zhou K",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chinese Medicine, Bozhou University, Bozhou 236800, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jia",
+        "short_name": "Liu J",
+        "identifiers": [
+          "0000-0003-1889-6071"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Li, Lijing",
+        "short_name": "Li L",
+        "identifiers": [
+          "0000-0002-9469-1644"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of pharmacy and pharmacology"
+    ],
+    "journal_abbrev": [
+      "J Pharm Pharmacol"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42873817"
+    ],
+    "review": [
+      "42873817"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cholesterolmedicines.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cholesterol Medicines"
+      },
+      {
+        "url": "https://academic.oup.com/jpp/article-lookup/doi/10.1093/jpp/rgag118",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

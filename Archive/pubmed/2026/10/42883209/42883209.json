@@ -1,0 +1,180 @@
+{
+  "identity": {
+    "pmid": "42883209",
+    "doi": "10.3390/molecules31193446",
+    "title": "Design, Synthesis and Antitumor Activity Evaluation of Novel Dual G9a/EZH2 Inhibitors."
+  },
+  "content": {
+    "abstract": "Targeting the crosstalk between histone methyltransferases G9a and EZH2 represents a promising strategy for cancer therapy. To improve upon our previously reported dual inhibitor SU08, we rationally designed and synthesized five series (SU, UA, UB, N, and L) of novel G9a/EZH2 dual inhibitors, incorporating diverse pyridone, urea, and thienopyrimidine moieties, yielding a total of 43 compounds. In vitro enzymatic screening revealed that compound SU101 against both EZH2 (IC(50) = 4.08 nM) and G9a (IC(50) = 2.92 nM) was comparable to SU08. Western blot analysis confirmed that SU101 and SU103 effectively suppressed both H3K27me3 and H3K9me2 expression in rhabdomyosarcoma RD cells. In cellular antiproliferative assays, SU101 showed the strongest activity (IC(50) = 15.33 muM). Molecular docking and dynamics simulations verified stable binding interactions between SU101 and both target proteins. Pharmacokinetic studies in rats demonstrated that SU101 possesses excellent oral bioavailability (94.3%), moderate plasma protein binding (84.6%), and an acceptable acute toxicity profile (LD(50) = 31.02 mg/kg in mice). Overall, these results suggest that SU101 may serve as a promising lead compound for further optimization and support the continued exploration of dual G9a/EZH2 inhibitors as a potential therapeutic approach for rhabdomyosarcoma.",
+    "keywords": [
+      "EZH2",
+      "G9a",
+      "antitumor",
+      "dual-target inhibitors"
+    ],
+    "mesh_terms": [
+      "*Antineoplastic Agents/pharmacology/chemical synthesis/chemistry",
+      "Humans",
+      "Animals",
+      "Cell Line, Tumor",
+      "*Drug Design",
+      "Molecular Docking Simulation",
+      "*Enhancer of Zeste Homolog 2 Protein/antagonists & inhibitors/chemistry",
+      "*Histone-Lysine N-Methyltransferase/antagonists & inhibitors/chemistry/metabolism",
+      "Cell Proliferation/drug effects",
+      "Mice",
+      "*Enzyme Inhibitors/pharmacology/chemical synthesis/chemistry",
+      "Histocompatibility Antigens/chemistry/metabolism",
+      "Rats",
+      "Structure-Activity Relationship"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Yajie",
+        "Zhang, Qiuyue",
+        "Zhang, Maoying",
+        "Zhao, Xiujuan",
+        "Zhang, Shuhang",
+        "Li, Jirui",
+        "Li, Haofeng",
+        "Fu, Chenglin",
+        "Chen, Guoliang"
+      ],
+      "short_names": [
+        "Shi Y",
+        "Zhang Q",
+        "Zhang M",
+        "Zhao X",
+        "Zhang S",
+        "Li J",
+        "Li H",
+        "Fu C",
+        "Chen G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Pharmacy, Heze University, Heze 274000, China.",
+        "Department of Pharmacology, Shenyang Pharmaceutical University, Shenyang 110016, China.",
+        "College of Pharmacy, Jilin Medical University, Changchun 132013, China.",
+        "Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, School of Pharmaceutical Engineering, Shenyang Pharmaceutical University, Shenyang 110016, China.",
+        "College of Pharmacy, Heze University, Heze 274000, China.",
+        "College of Pharmacy, Heze University, Heze 274000, China.",
+        "College of Pharmacy, Heze University, Heze 274000, China.",
+        "College of Pharmacy, Heze University, Heze 274000, China.",
+        "College of Pharmacy, Heze University, Heze 274000, China.",
+        "Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, School of Pharmaceutical Engineering, Shenyang Pharmaceutical University, Shenyang 110016, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Yajie",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Heze University, Heze 274000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qiuyue",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Shenyang Pharmaceutical University, Shenyang 110016, China.",
+          "College of Pharmacy, Jilin Medical University, Changchun 132013, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Maoying",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, School of Pharmaceutical Engineering, Shenyang Pharmaceutical University, Shenyang 110016, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xiujuan",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Heze University, Heze 274000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shuhang",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Heze University, Heze 274000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jirui",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Heze University, Heze 274000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Haofeng",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Heze University, Heze 274000, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Chenglin",
+        "short_name": "Fu C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Heze University, Heze 274000, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Guoliang",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, School of Pharmaceutical Engineering, Shenyang Pharmaceutical University, Shenyang 110016, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Sep 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883209"
+    ],
+    "review": [
+      "42883209"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

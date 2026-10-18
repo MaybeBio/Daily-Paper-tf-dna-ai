@@ -1,0 +1,174 @@
+{
+  "identity": {
+    "pmid": "42869801",
+    "doi": "10.19540/j.cnki.cjcmm.20260608.302",
+    "title": "[Compound Danshen Cataplasm promoting acclimatization to high-altitude environments]."
+  },
+  "content": {
+    "abstract": "To address acute mountain sickness(AMS) easily induced by low pressure, hypoxia, and intense ultraviolet radiation in high-altitude environments, a novel Compound Danshen Cataplasm(CDC) was developed, and its adhesive properties were evaluated. The hippocampal neuron(HT22) hypoxia model and small-animal hypoxia model were established. The anti-hypoxia and anti-AMS efficacy of CDC was assessed by an open field test, novel object recognition test, routine blood examination, sleep duration measurement, determination of brain and lung wet-to-dry ratios, detection of inflammatory and oxidative stress factors, and pathological section observation. In addition, network pharmacology and molecular docking simulations were employed to explore the underlying mechanism of action. The results show that CDC can significantly increase the survival rate of HT22 cells under hypoxia, reduce cell apoptosis, improve spontaneous exploration ability and cognitive function of hypoxic model mice, prolong sleep duration under hypoxic conditions, promote blood cell recovery, alleviate brain and lung edema, significantly reduce the levels of TNF-alpha, i NOS, IL-6, and MDA in blood, brain tissue, and lung tissue of mice, increase SOD activity(P&lt;0. 01), and markedly alleviate hypoxia-induced brain and lung edema as well as inflammatory cell infiltration. Network pharmacology results reveal that the binding energies between key active components of CDC and core disease targets are all less than-5 k J.mol~(-1), and that CDC can downregulate the protein expression levels of relevant genes STAT3, JAK1, JAK2, and their phosphorylated forms in the brain tissue of mice. In conclusion, CDC can meet the need for prolonged efficacy under urgent and special conditions, demonstrating significant potential application value.",
+    "keywords": [
+      "acclimatization promotion",
+      "acute mountain sickness",
+      "cataplasm",
+      "network pharmacology",
+      "transdermal drug delivery"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "*Altitude Sickness/drug therapy/metabolism/physiopathology/genetics",
+      "Altitude",
+      "Male",
+      "Humans",
+      "*Salvia miltiorrhiza/chemistry",
+      "*Drugs, Chinese Herbal/administration & dosage/chemistry",
+      "STAT3 Transcription Factor/metabolism/genetics",
+      "Hypoxia/metabolism",
+      "Apoptosis/drug effects",
+      "Molecular Docking Simulation",
+      "Tumor Necrosis Factor-alpha/metabolism/genetics",
+      "Oxidative Stress/drug effects"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Yu-Ting",
+        "Niu, Hong",
+        "Wang, Jing-Zhe",
+        "Li, Meng-Zhen",
+        "Guo, Jin",
+        "Jin, Yi-Guang",
+        "DU, Li-Na"
+      ],
+      "short_names": [
+        "Chen YT",
+        "Niu H",
+        "Wang JZ",
+        "Li MZ",
+        "Guo J",
+        "Jin YG",
+        "DU LN"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Pharmacy, Shandong University of Traditional Chinese Medicine Ji'nan 250355, China Academy of Military Medical Sciences Beijing 100850, China.",
+        "School of Pharmacy, Shandong University of Traditional Chinese Medicine Ji'nan 250355, China Academy of Military Medical Sciences Beijing 100850, China.",
+        "Academy of Military Medical Sciences Beijing 100850, China.",
+        "School of Pharmacy, Shandong University of Traditional Chinese Medicine Ji'nan 250355, China Academy of Military Medical Sciences Beijing 100850, China.",
+        "Chinese PLA General Hospital Beijing 100039, China.",
+        "Academy of Military Medical Sciences Beijing 100850, China.",
+        "Academy of Military Medical Sciences Beijing 100850, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Yu-Ting",
+        "short_name": "Chen YT",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Shandong University of Traditional Chinese Medicine Ji'nan 250355, China Academy of Military Medical Sciences Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Niu, Hong",
+        "short_name": "Niu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Shandong University of Traditional Chinese Medicine Ji'nan 250355, China Academy of Military Medical Sciences Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jing-Zhe",
+        "short_name": "Wang JZ",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Military Medical Sciences Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Li, Meng-Zhen",
+        "short_name": "Li MZ",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Shandong University of Traditional Chinese Medicine Ji'nan 250355, China Academy of Military Medical Sciences Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jin",
+        "short_name": "Guo J",
+        "identifiers": [],
+        "affiliations": [
+          "Chinese PLA General Hospital Beijing 100039, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Yi-Guang",
+        "short_name": "Jin YG",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Military Medical Sciences Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "DU, Li-Na",
+        "short_name": "DU LN",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Military Medical Sciences Beijing 100850, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica"
+    ],
+    "journal_abbrev": [
+      "Zhongguo Zhong Yao Za Zhi"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869801"
+    ],
+    "review": [
+      "42869801"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-JAK1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

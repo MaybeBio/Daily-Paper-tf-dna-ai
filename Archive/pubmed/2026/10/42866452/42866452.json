@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42866452",
+    "doi": "10.3389/fimmu.2026.1861285",
+    "title": "Notoginsenoside R1 modulates the ATF4-CHOP-Bcl2 signaling pathway to alleviate mitochondrial stress damage and apoptosis in asthmatic airway epithelial cells."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: To investigate whether Notoginsenoside R1 (NG-R1) improves mitochondrial homeostasis by targeting the integrin signaling response (ISR) core transcription factor ATF4, thereby alleviating damage and apoptosis in asthma airway epithelial cells. METHODS: House dust mites (HDM) were used to establish an in vivo asthma mouse model and an in vitro BEAS-2B cell model. The anti-inflammatory and immunomodulatory effects of NG-R1 were evaluated through pulmonary function testing, bronchoalveolar lavage fluid (BALF) cell counting, and hematoxylin and eosin (H&E) staining. We evaluated the effects of NG-R1 on apoptosis and mitochondrial function using TUNEL, Annexin V-FITC/PI staining, transmission electron microscopy, MitoSox Red, TMRE, JC-1, and Western blot analysis of mitochondrial dynamics-related proteins (p-Drp1/Drp1, Mfn2, ATP5F1A). We used lentiviral knockdown of ATF4 combined with RNA-seq, GO enrichment analysis, and the STRING database to predict its downstream mechanisms. Molecular docking was used to predict the binding affinity between NG-R1 and ATF4, and the expression levels of ATF4, CHOP, and Bcl-2 were validated using Western blot analysis in both in vivo and in vitro models. RESULTS: ATF4 expression was significantly elevated in lung tissue from asthmatic mice and in HDM-stimulated BEAS-2B cells, and was positively correlated with increased epithelial cell apoptosis and reduced migration and repair capacity. ATF4 knockdown alleviates HDM-induced increases in mitochondrial reactive oxygen species (ROS), decreases in membrane potential, mitochondrial ultrastructural damage, and disbalance in fission/fusion (downregulation of p-Drp1/Drp1 and upregulation of Mfn2 and ATP5F1A) via the ATF4-CHOP-Bcl2 signaling pathway, thereby inhibiting apoptosis. NG-R1 intervention significantly reduced airway hyperresponsiveness, total inflammatory cell counts in BALF, and levels of Th2 cytokines (IL-4, IL-13, IL-33) in asthmatic mice, and alleviated pulmonary inflammatory infiltration. Molecular docking and in vitro and in vivo experiments indicated that NG-R1 may specifically downregulate ATF4 (binding energies of -5.761 and -6.553 kcal/mol, respectively), modulate CHOP-Bcl2 expression levels, improve mitochondrial function and dynamic equilibrium, inhibit epithelial cell apoptosis, and promote migration and repair. CONCLUSION: NG-R1 may regulate the ATF4-CHOP-Bcl2 signaling pathway by specifically binding to and downregulating ATF4, thereby alleviating mitochondrial stress-induced damage, inhibiting airway epithelial cell apoptosis, and promoting epithelial repair, suggesting that NG-R1 is a potential candidate drug for targeted asthma therapy.",
+    "keywords": [
+      "ATF4-CHOP-Bc2 signaling pathway",
+      "airway epithelial damage",
+      "asthma",
+      "mitochondrial stress damage",
+      "notoginsenoside R1"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Activating Transcription Factor 4/metabolism/genetics",
+      "*Apoptosis/drug effects",
+      "*Asthma/drug therapy/metabolism/pathology/immunology",
+      "Signal Transduction/drug effects",
+      "*Proto-Oncogene Proteins c-bcl-2/metabolism",
+      "*Transcription Factor CHOP/metabolism",
+      "Mice",
+      "*Mitochondria/drug effects/metabolism/pathology",
+      "*Epithelial Cells/drug effects/metabolism/pathology",
+      "*Ginsenosides/pharmacology",
+      "Humans",
+      "Cell Line",
+      "Disease Models, Animal",
+      "Mice, Inbred BALB C",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ling, Yaozheng",
+        "Guan, Ling",
+        "Zhao, Yu",
+        "Fu, Zhou",
+        "Zou, Wenjing"
+      ],
+      "short_names": [
+        "Ling Y",
+        "Guan L",
+        "Zhao Y",
+        "Fu Z",
+        "Zou W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+        "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China.",
+        "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+        "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China.",
+        "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+        "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China.",
+        "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+        "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China.",
+        "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+        "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ling, Yaozheng",
+        "short_name": "Ling Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+          "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Ling",
+        "short_name": "Guan L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+          "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yu",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+          "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Zhou",
+        "short_name": "Fu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+          "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Zou, Wenjing",
+        "short_name": "Zou W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Children and Adolescents' Health and Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, Chongqing, China.",
+          "Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Chongqing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 17:37",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42866452"
+    ],
+    "review": [
+      "42866452"
+    ],
+    "pmc": [
+      "13656254"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/asthma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Asthma"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-DDIT3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-57",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1861285",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/asthma.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Asthma"
+      }
+    ],
+    "text_mined": []
+  }
+}

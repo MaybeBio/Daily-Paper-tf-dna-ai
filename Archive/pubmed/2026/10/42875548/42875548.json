@@ -1,0 +1,168 @@
+{
+  "identity": {
+    "pmid": "42875548",
+    "doi": "10.1007/s00210-026-05933-2",
+    "title": "Investigating potential prognostic genes and candidate therapeutic targets for acute myeloid leukemia in food-medicine homologous plants via integrated network pharmacology and transcriptomics."
+  },
+  "content": {
+    "abstract": "Acute myeloid leukemia (AML) is a hematologic malignancy. Conventional chemotherapy often causes substantial adverse effects, while food-medicine homologous plants with favorable safety profiles and multitarget regulatory activities offer a promising strategy for AML treatment. This study aimed to screen core bioactive compounds from 106 food-medicine homologous plants, identify potential prognostic genes related to AML, and explore the molecular mechanisms of their anti-AML activities. Public omics cohorts for AML were systematically analyzed to screen differentially expressed genes (DEGs). The DEGs were intersected with the target genes of 106 food-medicine homologous plants to obtain candidate genes for subsequent GO/KEGG functional enrichment analysis and PPI network analysis. Core bioactive compounds were screened and prioritized via the Graph-based Bilinear Attention Network (GraphBAN) combined with druggability and toxicology screening criteria. Potential prognostic genes were identified via univariate Cox proportional hazards regression analysis and further screening. Immune infiltration analysis and gene set enrichment analysis (GSEA) were performed on the identified potential prognostic genes. Bioinformatic prediction was conducted to identify upstream transcription factors (TFs) and microRNAs (miRNAs) targeting these genes and to analyze their chromosomal distribution and subcellular localization characteristics. Binding affinity and stability between core active compounds and proteins encoded by potential prognostic genes were systematically confirmed by molecular docking and molecular dynamics simulation analyses. The expression levels of potential prognostic genes were finally validated via reverse transcription quantitative polymerase chain reaction (RT-qPCR). We identified 1102 candidate genes, 542 core bioactive compounds, and 6 potential prognostic genes. The constructed prognostic model demonstrated moderate predictive performance. Immune infiltration analysis identified 18 types of differentially infiltrated immune-cell populations (P < 0.05), and GSEA results indicated that immunity-related signaling pathways were enriched in the AML high-risk subgroup. Moreover, 138 chemotherapeutic agents were identified. MYB-centered transcription factors and numerous microRNAs were found to regulate these potential prognostic genes. The genes reside on distinct chromosomes; for example, ITGB3 is located on chromosome 17. Further subcellular localization analysis revealed distinct protein distribution patterns. IGF1R, ITGB3, and SLC38A1 are predominantly located on the cell membrane, while KYNU, PDE4A, and GSTM2 are mostly located in the cytoplasm. Molecular docking revealed that the binding energy between IGF1R and MOL008397 was - 10.7 kcal/mol. Molecular dynamics simulation further confirmed the stability of this molecular complex. RT-qPCR verified distinct expression of the six prognostic genes in clinical AML blood samples. This study identified core active compounds and potential prognostic genes against AML derived from food-medicine homologous plants, which provides evidence for prognosis evaluation and targeted therapy.",
+    "keywords": [
+      "Acute myeloid leukemia",
+      "Food-medicine homologous plants",
+      "Molecular docking",
+      "Molecular dynamics simulation analysis",
+      "Potential prognostic genes"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Mingxia",
+        "Chen, Tao",
+        "Huang, Tao",
+        "Bai, Shanshan",
+        "Wang, Yajiang",
+        "Zhang, Yanling",
+        "Yan, Lian",
+        "He, Xia"
+      ],
+      "short_names": [
+        "Tang M",
+        "Chen T",
+        "Huang T",
+        "Bai S",
+        "Wang Y",
+        "Zhang Y",
+        "Yan L",
+        "He X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China. Tangmingxia135@163.com.",
+        "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China.",
+        "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China.",
+        "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China.",
+        "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China.",
+        "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China.",
+        "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China.",
+        "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China. hexia9000@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Mingxia",
+        "short_name": "Tang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China. Tangmingxia135@163.com."
+        ]
+      },
+      {
+        "full_name": "Chen, Tao",
+        "short_name": "Chen T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Tao",
+        "short_name": "Huang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Shanshan",
+        "short_name": "Bai S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yajiang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yanling",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Lian",
+        "short_name": "Yan L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China."
+        ]
+      },
+      {
+        "full_name": "He, Xia",
+        "short_name": "He X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, Sichuan, 625000, China. hexia9000@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Naunyn-Schmiedeberg's archives of pharmacology"
+    ],
+    "journal_abbrev": [
+      "Naunyn Schmiedebergs Arch Pharmacol"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 07:18",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42875548"
+    ],
+    "review": [
+      "42875548"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00210-026-05933-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GST+Mu2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

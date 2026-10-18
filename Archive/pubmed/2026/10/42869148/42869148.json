@@ -1,0 +1,152 @@
+{
+  "identity": {
+    "pmid": "42869148",
+    "doi": "10.1016/j.jbc.2026.113644",
+    "title": "Structural mechanism of TRPC3 inhibition by a potent antagonist."
+  },
+  "content": {
+    "abstract": "The transient receptor channel canonical family member 3 (TRPC3) is a non-selective, calcium-permeable cation channel within the larger TRP superfamily. TRPC3 is expressed in both excitable and non-excitable cells, where it integrates multiple signaling pathways and is directly activated by binding of diacylglycerol following activation of G-protein coupled receptors. Increased TRPC3 signaling is implicated in several diseases, highlighting TRPC3 as a potential therapeutic target. However, the development of TRPC3 inhibitors with suitable potency and selectivity has been challenging due to the channel's high structural and sequence homology with related family members, specifically TRPC6. Here, we present a highly potent TRPC3 antagonist (GSK2820986A) featuring an anilino-thiazole pharmacophore. Through a combination of molecular dynamic simulations and functional assays, we identify a putative binding site for GSK2820986A in the S4-S5 pocket and propose a potential inhibitory mechanism. Our findings provide a powerful tool compound and mechanistic framework to advance the investigation and therapeutic targeting of TRPC3.",
+    "keywords": [
+      "NFAT transcription factor",
+      "ataxia",
+      "drug discovery",
+      "inhibitor",
+      "molecular docking",
+      "molecular dynamics",
+      "transient receptor potential channels (TRP channels)"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Collingridge, Jodie",
+        "Cole, Bethan A",
+        "Rowlett, Molly A",
+        "Liddle, John",
+        "Gatfield, Kelly M",
+        "Biggin, Philip C",
+        "Becker, Ebe"
+      ],
+      "short_names": [
+        "Collingridge J",
+        "Cole BA",
+        "Rowlett MA",
+        "Liddle J",
+        "Gatfield KM",
+        "Biggin PC",
+        "Becker E"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3 9DU, UK; Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford OX1 3QU, UK; Structural Bioinformatics and Computational Biochemistry, Department of Biochemistry, University of Oxford, Oxford, OX1 3QU, UK.",
+        "Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3 9DU, UK; Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford OX1 3QU, UK.",
+        "Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3 9DU, UK; Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford OX1 3QU, UK.",
+        "GSK, Medicines Research Centre, Gunnels Wood Road, Stevenage, SG1 2NY, UK.",
+        "GSK, Medicines Research Centre, Gunnels Wood Road, Stevenage, SG1 2NY, UK.",
+        "Structural Bioinformatics and Computational Biochemistry, Department of Biochemistry, University of Oxford, Oxford, OX1 3QU, UK. Electronic address: philip.biggin@bioch.ox.ac.uk.",
+        "Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3 9DU, UK; Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford OX1 3QU, UK. Electronic address: philip.biggin@bioch.ox.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Collingridge, Jodie",
+        "short_name": "Collingridge J",
+        "identifiers": [],
+        "affiliations": [
+          "Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3 9DU, UK; Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford OX1 3QU, UK; Structural Bioinformatics and Computational Biochemistry, Department of Biochemistry, University of Oxford, Oxford, OX1 3QU, UK."
+        ]
+      },
+      {
+        "full_name": "Cole, Bethan A",
+        "short_name": "Cole BA",
+        "identifiers": [],
+        "affiliations": [
+          "Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3 9DU, UK; Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford OX1 3QU, UK."
+        ]
+      },
+      {
+        "full_name": "Rowlett, Molly A",
+        "short_name": "Rowlett MA",
+        "identifiers": [],
+        "affiliations": [
+          "Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3 9DU, UK; Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford OX1 3QU, UK."
+        ]
+      },
+      {
+        "full_name": "Liddle, John",
+        "short_name": "Liddle J",
+        "identifiers": [],
+        "affiliations": [
+          "GSK, Medicines Research Centre, Gunnels Wood Road, Stevenage, SG1 2NY, UK."
+        ]
+      },
+      {
+        "full_name": "Gatfield, Kelly M",
+        "short_name": "Gatfield KM",
+        "identifiers": [],
+        "affiliations": [
+          "GSK, Medicines Research Centre, Gunnels Wood Road, Stevenage, SG1 2NY, UK."
+        ]
+      },
+      {
+        "full_name": "Biggin, Philip C",
+        "short_name": "Biggin PC",
+        "identifiers": [],
+        "affiliations": [
+          "Structural Bioinformatics and Computational Biochemistry, Department of Biochemistry, University of Oxford, Oxford, OX1 3QU, UK. Electronic address: philip.biggin@bioch.ox.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Becker, Ebe",
+        "short_name": "Becker E",
+        "identifiers": [],
+        "affiliations": [
+          "Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3 9DU, UK; Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford OX1 3QU, UK. Electronic address: philip.biggin@bioch.ox.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of biological chemistry"
+    ],
+    "journal_abbrev": [
+      "J Biol Chem"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869148"
+    ],
+    "review": [
+      "42869148"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(26)02516-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

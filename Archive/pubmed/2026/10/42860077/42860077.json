@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42860077",
+    "doi": "10.1016/j.compbiolchem.2026.109438",
+    "title": "Mechanistic interpretability of a plant genomic foundation model: Data probes, causal interventions, and motif-grounded features."
+  },
+  "content": {
+    "abstract": "Foundation models trained on plant DNA are increasingly used across plant-biology pipelines, yet their internal representations remain opaque, and existing interpretability claims - based on attention visualization, small synthetic evaluations, or single-number benchmark gains - are vulnerable to GC-content and composition confounds. I present a reproducible, composition-controlled protocol for interpreting plant genomic foundation models: six annotated, chromosome-split benchmarks (80,000 windows) together with GC-matched, realistic-negative and repeat-masked variants of them, learned-from-scratch baselines, phylogenetic residualization, sparse autoencoders tested against JASPAR/PlantTFDB motifs, and per-component causal interventions. It is developed on Plant-DnaGemma and re-run, in its probing, control, sparse-autoencoder and block-ablation stages, on Plant DNABERT and AgroNT. Plant-DnaGemma exceeds a 4-mer logistic baseline by 12 percentage points and a DanQ-style convolutional network by 8 on 5-way region-type classification, but merely ties task-supervised convolutional networks on the binary transcription-start-site and promoter tasks. Against a random background almost every sparse-autoencoder feature matches some plant transcription-factor motif, which shows chiefly that such a background is too weak a control; against a dinucleotide-composition-matched background only four in five (245 of 299) retain a specific motif preference. Species classification reaches 67.5% on a GC-matched four-species subset (25% chance) and region discrimination survives repeat-masking, so those signals are not composition artefacts - but across twelve angiosperms, representational distance correlates with divergence time only because it correlates twice as strongly with GC, and the phylogenetic correlation is zero once GC is residualized out. Per-component ablations indicate that no individual attention head is necessary for the splice-site signal, whereas zeroing a single early-middle feed-forward block can cost a quarter of the classifier's accuracy; at whole-block resolution attention and feed-forward blocks contribute comparably, so the redundancy sits within the attention block rather than across it. The protocol is designed to be model-agnostic and is demonstrated here on three plant genomic foundation models.",
+    "keywords": [
+      "Activation patching",
+      "AgroNT",
+      "Arabidopsis",
+      "Mechanistic interpretability",
+      "Plant genomic foundation model",
+      "Plant-DnaGemma",
+      "Probing classifier",
+      "Sparse autoencoder",
+      "Transcription factor motif"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kendiukhov, Ihor"
+      ],
+      "short_names": [
+        "Kendiukhov I"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Medical Genetics and Applied Genomics, University of Tubingen, Tubingen, Germany. Electronic address: ihor.kendiukhov@student.uni-tuebingen.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kendiukhov, Ihor",
+        "short_name": "Kendiukhov I",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Medical Genetics and Applied Genomics, University of Tübingen, Tübingen, Germany. Electronic address: ihor.kendiukhov@student.uni-tuebingen.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 23:30",
+    "fetched_at": "2026-10-18 07:09:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42860077",
+      "42475469",
+      "42509463",
+      "42398561",
+      "42482180",
+      "42296381",
+      "42155660",
+      "36321557",
+      "41331856",
+      "42527907",
+      "42643448",
+      "42068429",
+      "42487110",
+      "41632593",
+      "41279662",
+      "41861778",
+      "42664659",
+      "42393111",
+      "42739244",
+      "42237097",
+      "42814674",
+      "41922963",
+      "37851522",
+      "40828027",
+      "42003104",
+      "42738668",
+      "41682543",
+      "42510136",
+      "42344510",
+      "42746241",
+      "42617349",
+      "42510046",
+      "42280967",
+      "42645260",
+      "34961145",
+      "38309959",
+      "40241982",
+      "38781405",
+      "42548755",
+      "41311650",
+      "42792676",
+      "42741410",
+      "26041800",
+      "42853536",
+      "15733327",
+      "36510136",
+      "24555803",
+      "41595447",
+      "33036834",
+      "42553427",
+      "42611646",
+      "42076514",
+      "39696434",
+      "42856583",
+      "42649636",
+      "42626856",
+      "42843424",
+      "42135287",
+      "21347314",
+      "42845125",
+      "32616067",
+      "38627290",
+      "22554552",
+      "41310253",
+      "42645938",
+      "40950025",
+      "41634097",
+      "39623329",
+      "42818846",
+      "42494157",
+      "41829550",
+      "42691619",
+      "42414424",
+      "40826008",
+      "42243901",
+      "42129472",
+      "41690150",
+      "41527074",
+      "41659531",
+      "42398019",
+      "33983921",
+      "40318423",
+      "41516662",
+      "41997996",
+      "40799805",
+      "42161036",
+      "42210373",
+      "41594154",
+      "42449777",
+      "42158023",
+      "40745106",
+      "42658401",
+      "39150724",
+      "34165931",
+      "23912807",
+      "33817015",
+      "42056187",
+      "39946426",
+      "25035402",
+      "42707273"
+    ],
+    "review": [
+      "42860077",
+      "36321557",
+      "38781405",
+      "39150724"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00565-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

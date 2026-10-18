@@ -1,0 +1,97 @@
+{
+  "identity": {
+    "pmid": "42874569",
+    "doi": "10.1016/j.xgen.2026.101392",
+    "title": "Deep learning uncovers hidden power of low-affinity motifs."
+  },
+  "content": {
+    "abstract": "Low-affinity transcription factor binding sites are functionally important but difficult to map and mechanistically poorly understood. In this issue of Cell Genomics, Weilert et al. leverage sequence-to-function deep learning models to systematically map low-affinity pioneer factor binding sites in mouse embryonic stem cells and reveal how these sites contribute to chromatin opening through soft-syntax nucleosomal cooperativity.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Deep Learning",
+      "Binding Sites",
+      "Mice",
+      "Transcription Factors/metabolism"
+    ],
+    "pub_types": [
+      "Comment",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bower, Grace",
+        "Kvon, Evgeny Z"
+      ],
+      "short_names": [
+        "Bower G",
+        "Kvon EZ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, USA; Department of Systems Biology, University of California, Irvine, Irvine, CA, USA. Electronic address: ekvon@uci.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bower, Grace",
+        "short_name": "Bower G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kvon, Evgeny Z",
+        "short_name": "Kvon EZ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, USA; Department of Systems Biology, University of California, Irvine, Irvine, CA, USA. Electronic address: ekvon@uci.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell genomics"
+    ],
+    "journal_abbrev": [
+      "Cell Genom"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comment",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 23:32",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42874569"
+    ],
+    "review": [
+      "42874569"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2666-979X(26)00254-5",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

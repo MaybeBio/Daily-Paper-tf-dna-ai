@@ -1,0 +1,147 @@
+{
+  "identity": {
+    "pmid": "42880058",
+    "doi": "10.1016/j.compbiolchem.2026.109478",
+    "title": "Integrative multi-omics analysis reveals the PFAS-gut microbiome-FN1 axis in chronic kidney disease: From exposome to therapeutic target."
+  },
+  "content": {
+    "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent environmental pollutants associated with chronic kidney disease (CKD), yet the molecular mechanisms linking PFAS exposure to renal fibrosis remain incompletely understood. We developed a Chemical-Microbiome-Metabolite-Target-Pathway-Disease (C-M-M-T-P-D) network framework integrating differential expression analysis of real GEO transcriptomic data (GSE104954, n = 195 kidney biopsies), gene set enrichment analysis across four pathway databases, two-sample Mendelian randomization with four complementary methods, molecular docking and molecular dynamics simulation of deoxycholic acid (DCA) to fibronectin 1 (FN1), and transcription factor and protein-protein interaction network analyses. FN1 was significantly upregulated in CKD (log(2)FC = 0.322, FDR = 6.67e-11), accompanied by elevated COL1A2, VIM, and POSTN, whereas TGFBR3 was downregulated (log(2)FC = -0.746, FDR = 1.67e-14). GSEA identified ECM-receptor interaction (NES = 2.23), interferon gamma response (NES = 2.70), and epithelial-mesenchymal transition (NES = 1.99) as top enriched pathways. MR analysis using real MiBioGen and CKDGen GWAS data (19 SNPs for Akkermansia, 12 SNPs for Desulfovibrio) revealed contrasting findings: Akkermansia to CKD showed no significant genetic association (0/4 methods, all p > 0.30), whereas Desulfovibrio to CKD demonstrated a robust positive genetic association across all four methods (IVW p = 0.008, WM p = 4.70e-04, MR-RAPS p = 1.46e-05, MR-cML p = 2.08e-06), though the significant Egger intercept (p = 0.005) for Desulfovibrio warrants cautious interpretation regarding pleiotropy. Molecular docking and 15-ns MD simulation confirmed stable DCA binding to FN1 (PDB: 2CG7, 1.20 A X-ray; MM/GBSA DeltaG(bind) = -32.4 kcal/mol). The C-M-M-T-P-D network positioned FN1 as the third highest-degree node, bridging metabolite and pathway layers. This integrative multi-omics analysis provides multi-omics evidence supporting the PFAS-gut microbiome-FN1 axis as a hypothesis-generating framework for understanding CKD pathogenesis, supported by transcriptomic, structural, and network-level evidence, with genetic associations warranting further experimental validation.",
+    "keywords": [
+      "Chronic kidney disease",
+      "Fibronectin 1",
+      "Gut microbiome",
+      "Mendelian randomization",
+      "Multi-omics",
+      "PFAS"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Dandan",
+        "Yin, Jingya",
+        "Zhou, Hui",
+        "Ge, Nan",
+        "Wang, Bingling",
+        "Wang, Tianyi"
+      ],
+      "short_names": [
+        "Li D",
+        "Yin J",
+        "Zhou H",
+        "Ge N",
+        "Wang B",
+        "Wang T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China.",
+        "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China.",
+        "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China.",
+        "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China.",
+        "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China. Electronic address: binglingw@yeah.net.",
+        "Department of Cardiovascular Surgery, Qingdao Municipal Hospital Group, No.5 Donghai Middle Rd, Qingdao, Shandong, 266000, China. Electronic address: hanktitan@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Dandan",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Jingya",
+        "short_name": "Yin J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Hui",
+        "short_name": "Zhou H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Nan",
+        "short_name": "Ge N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Bingling",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Environmental Health, Qingdao Municipal Center for Disease Control and Prevention, Qingdao Institute of Preventive Medicine, No.175 Shandong Rd, Qingdao, Shandong, 266033, China. Electronic address: binglingw@yeah.net."
+        ]
+      },
+      {
+        "full_name": "Wang, Tianyi",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiovascular Surgery, Qingdao Municipal Hospital Group, No.5 Donghai Middle Rd, Qingdao, Shandong, 266000, China. Electronic address: hanktitan@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Oct 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42880058"
+    ],
+    "review": [
+      "42880058"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00605-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1122",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

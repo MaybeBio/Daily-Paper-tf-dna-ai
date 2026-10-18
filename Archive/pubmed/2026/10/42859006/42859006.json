@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "42859006",
+    "doi": "10.1016/j.foodres.2026.120528",
+    "title": "Novel antioxidant peptides targeting the Keap1-Nrf2 pathway discovered from Ginkgo biloba seeds protein hydrolysate: Combining virtual screening, quantum chemical calculation, and zebrafish models in vivo validation."
+  },
+  "content": {
+    "abstract": "The development of safe, edible, and highly stable food-derived natural antioxidant peptides holds significant practical value for functional foods and dietary health management. Ginkgo biloba seeds (GBS), as a food resource rich in protein, are an ideal raw material for the preparation of food-grade antioxidant peptides. This study uses papain to hydrolyze Ginkgo biloba seeds protein (GBSP). Two novel peptides (LTGMAFR and IGINGFGR, LR-7 and IR-8) were first identified via peptidomics combined with computational approaches. Molecular docking revealed that the selected peptides all exhibit strong binding affinity to Keap1 (-7.8 to -8.2 kcal/mol), surpassing the positive ligand (9-mer Nrf2, -7.2 kcal/mol). Molecular dynamics simulations validated the complex's dynamic stability. Molecular orbital calculations and Fukui function analysis confirm that these two peptides exhibit excellent electron-donating properties. Furthermore, IR-8 exhibits stronger DPPH and ABTS scavenging activities than LR-7. In an H(2)O(2)-induced oxidative stress model in zebrafish, the target peptides reduced ROS and MDA levels in zebrafish larvae, upregulated antioxidant enzyme levels and the mRNA levels of genes downstream of the Nrf2 pathway, and effectively alleviated H(2)O(2)-induced oxidative damage. Western blot results further confirmed that H(2)O(2)-induced oxidative stress reduces nuclear Nrf2 protein levels and the Nrf2 nuclear-to-cytoplasmic ratio, while peptide intervention effectively restores Nrf2 nuclear accumulation. The Nrf2-specific inhibitor ML385 experiments further confirmed that the antioxidant activity of the target peptides depends on the activation of the Nrf2 pathway. This work elucidates the antioxidant mechanism of GBSP targeting the Keap1-Nrf2 pathway and provides an efficient multi-method strategy for natural antioxidant screening.",
+    "keywords": [
+      "Antioxidant peptides",
+      "Ginkgo biloba seeds",
+      "Keap1-Nrf2 pathway",
+      "Molecular docking",
+      "Molecular dynamics simulation",
+      "Peptidomics",
+      "Zebrafish"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Zebrafish",
+      "*NF-E2-Related Factor 2/metabolism/genetics",
+      "*Antioxidants/pharmacology/chemistry",
+      "*Ginkgo biloba/chemistry",
+      "*Seeds/chemistry",
+      "Molecular Docking Simulation",
+      "*Kelch-Like ECH-Associated Protein 1/metabolism/genetics",
+      "Bioactive Peptides, Dietary",
+      "Signal Transduction/drug effects",
+      "*Protein Hydrolysates/chemistry/pharmacology",
+      "Oxidative Stress/drug effects",
+      "*Zebrafish Proteins/metabolism/genetics",
+      "Molecular Dynamics Simulation",
+      "*Peptides/pharmacology",
+      "Papain/metabolism",
+      "Ginkgo Extract",
+      "Carrier Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yao, Mengru",
+        "Zhang, Yuhao",
+        "Yang, Caijing",
+        "Li, Tong",
+        "Liu, Haiyi",
+        "Zhao, Yiyun",
+        "Memtimin, Metsawur",
+        "Guo, Sheng",
+        "Duan, Jin-Ao",
+        "Xiao, Ping"
+      ],
+      "short_names": [
+        "Yao M",
+        "Zhang Y",
+        "Yang C",
+        "Li T",
+        "Liu H",
+        "Zhao Y",
+        "Memtimin M",
+        "Guo S",
+        "Duan JA",
+        "Xiao P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China; School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China. Electronic address: dja@njucm.edu.cn.",
+        "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China. Electronic address: xiaoping@njucm.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yao, Mengru",
+        "short_name": "Yao M",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuhao",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China; School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "full_name": "Yang, Caijing",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Tong",
+        "short_name": "Li T",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China."
+        ]
+      },
+      {
+        "full_name": "Liu, Haiyi",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yiyun",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China."
+        ]
+      },
+      {
+        "full_name": "Memtimin, Metsawur",
+        "short_name": "Memtimin M",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China."
+        ]
+      },
+      {
+        "full_name": "Guo, Sheng",
+        "short_name": "Guo S",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China."
+        ]
+      },
+      {
+        "full_name": "Duan, Jin-Ao",
+        "short_name": "Duan JA",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China. Electronic address: dja@njucm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xiao, Ping",
+        "short_name": "Xiao P",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, National and Local Collaborative Engineering Center of Chinese Medicinal Resources Industrialization and Formulae Innovative Medicine, and Jiangsu Provincial Key Laboratory of Functional Substances in Traditional Chinese Medicine Formulae and Innovative Drug Discovery, Nanjing University of Chinese Medicine, Nanjing 210023, PR China. Electronic address: xiaoping@njucm.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Nov 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 04:08",
+    "fetched_at": "2026-10-18 07:09:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42859006",
+      "41539815",
+      "40983012",
+      "41505276",
+      "35761579",
+      "42184520",
+      "41599969",
+      "42270250",
+      "41828583",
+      "42019124",
+      "38837798",
+      "39706064",
+      "41794516",
+      "40482480",
+      "34226415",
+      "40344592",
+      "41511542",
+      "42705710",
+      "38078849",
+      "33406386",
+      "40058928",
+      "37049715",
+      "40505314",
+      "42108975",
+      "17316704",
+      "41606864",
+      "39275137",
+      "42042215",
+      "37853837",
+      "41047055",
+      "36167232",
+      "40552091",
+      "39402722",
+      "36461408",
+      "40070225",
+      "42654213",
+      "38104880",
+      "30861618",
+      "41014668",
+      "41045622",
+      "38664646",
+      "42012660",
+      "38762209",
+      "39986787",
+      "39757650",
+      "40651143",
+      "41362005",
+      "41887383",
+      "38354876",
+      "40817841",
+      "41174394",
+      "40649755",
+      "31599006",
+      "36587710",
+      "38171429",
+      "40058266",
+      "41429090",
+      "37489104",
+      "31131946",
+      "34278476",
+      "39392363",
+      "41455169",
+      "36292968",
+      "40571328",
+      "40629919",
+      "42600300",
+      "34416627",
+      "40101822",
+      "39986793",
+      "42673932",
+      "38387316",
+      "40203694",
+      "39408975",
+      "32161178",
+      "40196985",
+      "39322309",
+      "38631199",
+      "40207866",
+      "39779560",
+      "42165632",
+      "40333848",
+      "42208325",
+      "41890732",
+      "30657578",
+      "39772591",
+      "32828016",
+      "41740690",
+      "37986452",
+      "37187359",
+      "39603427",
+      "40738354",
+      "42728926",
+      "36549163",
+      "31167117",
+      "30243843",
+      "42035997",
+      "36819782",
+      "39233848",
+      "42276016",
+      "40462737"
+    ],
+    "review": [
+      "42859006",
+      "41429090"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)02215-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/antioxidants.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antioxidants"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3409",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "identity": {
+    "pmid": "42870317",
+    "doi": "10.1111/cbdd.70416",
+    "title": "Machine Learning-Guided Identification of Madecassoside as a Potential RAD51 Modulator That Sensitizes Breast Cancer Cells to Cisplatin."
+  },
+  "content": {
+    "abstract": "Homologous recombination (HR) is an essential pathway for preserving the genomic stability of cells by repairing DNA damage, especially double-strand breaks and interstrand crosslinks. RAD51 recombinase plays a central role in the HR pathway, and when DNA damage occurs, RAD51 binds to single-stranded DNA at the cleavage site to form a helical nucleoprotein filament. Therefore, pharmacological inhibition of RAD51 is emerging as an attractive strategy to block the repair mechanisms of cancer cells and maximize the therapeutic efficacy of conventional radiation and chemotherapy. Several RAD51 small-molecule inhibitors, including CYT-0851, B02, and IBR2, have demonstrated preclinical or early clinical efficacy, but no candidate has yet received regulatory approval. In this study, we identified a novel RAD51 inhibitor from a natural product library using an in silico workflow that combines machine learning models and molecular docking simulations. Among the five machine learning models evaluated, the random forest (RF) model showed the best overall predictive performance after SMOTE-based class balancing and near-zero variance filtering, achieving an accuracy of 0.933, sensitivity of 0.800, specificity of 1.000, Cohen's kappa of 0.842, and ROC-AUC of 0.980. Using an optimized RF model, 1142 natural compounds were virtually screened, and Madecassoside was finally selected by molecular docking analysis. Biological validation showed that MDA-MB-231 cells increased susceptibility to cisplatin after Madecassoside treatment and also markedly inhibited the formation of RAD51 foci induced by cisplatin, strongly inhibiting DNA damage repair. These findings suggest that Madecassoside is a promising RAD51-modulating lead compound that may enhance cisplatin sensitivity by impairing RAD51-mediated DNA repair.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Cisplatin/pharmacology",
+      "*Rad51 Recombinase/metabolism/antagonists & inhibitors",
+      "Molecular Docking Simulation",
+      "Cell Line, Tumor",
+      "*Machine Learning",
+      "Breast Neoplasms/pathology/metabolism/drug therapy",
+      "*Antineoplastic Agents/pharmacology/chemistry",
+      "Female"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Oh, Minju",
+        "Jeong, Mi-Young",
+        "Choi, Jiwon"
+      ],
+      "short_names": [
+        "Oh M",
+        "Jeong MY",
+        "Choi J"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-9946-1500",
+        "ORCID: 0000-0002-0786-6187"
+      ],
+      "affiliations": [
+        "College of Pharmacy, Dongduk Women's University, Seoul, South Korea.",
+        "College of Pharmacy, Dongduk Women's University, Seoul, South Korea.",
+        "College of Pharmacy, Dongduk Women's University, Seoul, South Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Oh, Minju",
+        "short_name": "Oh M",
+        "identifiers": [
+          "0009-0003-9946-1500"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Dongduk Women's University, Seoul, South Korea."
+        ]
+      },
+      {
+        "full_name": "Jeong, Mi-Young",
+        "short_name": "Jeong MY",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Dongduk Women's University, Seoul, South Korea."
+        ]
+      },
+      {
+        "full_name": "Choi, Jiwon",
+        "short_name": "Choi J",
+        "identifiers": [
+          "0000-0002-0786-6187"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Dongduk Women's University, Seoul, South Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical biology & drug design"
+    ],
+    "journal_abbrev": [
+      "Chem Biol Drug Des"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:34",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42870317"
+    ],
+    "review": [
+      "42870317"
+    ],
+    "pmc": [
+      "13661784"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/cbdd.70416",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-RAD51C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1474",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

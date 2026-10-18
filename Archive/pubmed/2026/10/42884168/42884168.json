@@ -1,0 +1,128 @@
+{
+  "identity": {
+    "pmid": "42884168",
+    "doi": "10.3390/ijms27198926",
+    "title": "Integrated Transcriptomic and Network Analysis Identifies Candidate Kinase-Mediated Thyroid-Associated Targets of Withaferin A."
+  },
+  "content": {
+    "abstract": "Withaferin A (WA), a bioactive steroidal lactone derived from Withania somnifera, has been reported to exhibit diverse pharmacological activities, including anti-inflammatory and metabolic regulatory effects. Although previous studies suggest a potential link between WA and thyroid-related molecular pathways, the molecular mechanisms underlying these effects remain incompletely understood. Here, we employed a comprehensive computational approach to explore WA-responsive molecular changes potentially relevant to thyroid-associated processes. RNA-sequencing data from WA-treated MCF-10A human mammary epithelial cells (GSE158085) were analysed to identify differentially expressed genes (DEGs). Because thyroid-specific WA transcriptomic datasets are not currently available, the DEGs were intersected with curated hypothyroidism-associated genes to generate a cross-tissue, exploratory set of candidate genes. The genes that overlapped were used to construct protein-protein interaction networks, prioritize high-centrality candidate genes, and conduct enrichment analyses for transcription factors and kinases. Further analysis of selected upstream kinases was performed using molecular docking and molecular dynamics simulations with WA. A total of 1458 differentially expressed genes (DEGs) were identified, 10 of which overlapped with hypothyroidism-associated genes. Network analysis identified candidate interactions among the overlapping genes, while higher-confidence analysis retained four connected genes (PTPN22, STAT4, DUOX2, and DUOXA2). Transcription factor enrichment identified ERG, SUZ12, NANOG, TCF3, RUNX1, and TP63 as potential upstream regulators, while kinase enrichment identified candidate upstream kinases associated with the predicted regulatory network. Based on enrichment evidence, structural availability, and literature-supported biological relevance, MAPK14 (p38alpha), AKT1, and MAPK8 (JNK1) were selected for molecular docking and molecular dynamics simulations. Structural analyses suggested potential interactions between WA and the selected kinases, with target-specific dynamic behaviour across the simulated systems. Collectively, the findings highlight WA-responsive genes and predicted gene-TF-kinase relationships that may be relevant to thyroid-associated molecular processes. However, these associations are hypothesis-generating and provide a basis for further investigation in thyroid-derived experimental models.",
+    "keywords": [
+      "hypothyroidism",
+      "kinase enrichment",
+      "molecular docking",
+      "molecular dynamics",
+      "transcriptomics",
+      "withaferin A"
+    ],
+    "mesh_terms": [
+      "*Withanolides/pharmacology/chemistry",
+      "Humans",
+      "Molecular Docking Simulation",
+      "*Transcriptome/drug effects",
+      "*Gene Regulatory Networks/drug effects",
+      "Protein Interaction Maps/drug effects",
+      "Gene Expression Profiling",
+      "*Thyroid Gland/metabolism/drug effects",
+      "Molecular Dynamics Simulation",
+      "Hypothyroidism/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Abdullah, Ejlal Mohamed",
+        "Alameen, Alaa Alnoor",
+        "AlAfaleq, Nouf Omar",
+        "Alharbi, Mona Shujaa"
+      ],
+      "short_names": [
+        "Abdullah EM",
+        "Alameen AA",
+        "AlAfaleq NO",
+        "Alharbi MS"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1868-4706",
+        "ORCID: 0009-0007-4274-244X"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, College of Science, King Saud University, P.O. Box 2455, Riyadh 11451, Saudi Arabia.",
+        "Department of Pharmacology and Toxicology, College of Pharmacy, King Saud University, P.O. Box 2457, Riyadh 11451, Saudi Arabia.",
+        "Department of Biochemistry, College of Science, King Saud University, P.O. Box 2455, Riyadh 11451, Saudi Arabia.",
+        "Department of Biochemistry, College of Science, King Saud University, P.O. Box 2455, Riyadh 11451, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Abdullah, Ejlal Mohamed",
+        "short_name": "Abdullah EM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, College of Science, King Saud University, P.O. Box 2455, Riyadh 11451, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alameen, Alaa Alnoor",
+        "short_name": "Alameen AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Toxicology, College of Pharmacy, King Saud University, P.O. Box 2457, Riyadh 11451, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "AlAfaleq, Nouf Omar",
+        "short_name": "AlAfaleq NO",
+        "identifiers": [
+          "0000-0003-1868-4706"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, College of Science, King Saud University, P.O. Box 2455, Riyadh 11451, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alharbi, Mona Shujaa",
+        "short_name": "Alharbi MS",
+        "identifiers": [
+          "0009-0007-4274-244X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, College of Science, King Saud University, P.O. Box 2455, Riyadh 11451, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42884168"
+    ],
+    "review": [
+      "42884168"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "identity": {
+    "pmid": "42864650",
+    "doi": "10.1186/s43897-026-00251-w",
+    "title": "Machine learning-guided leaf margin classification and discovery that BcPHB promoter selection rewires a BcPHB-BcLMI1 module to shape leaf margins in Brassica campestris."
+  },
+  "content": {
+    "abstract": "The morphological diversification of leaf margins reflects the evolutionary reshaping of conserved developmental programs. However, fully deciphering the underlying molecular basis remains challenging due to difficulties in phenotype quantification and the incomplete characterization of complex regulatory networks. In this study, we established a computer-vision framework to decode leaf lobe trait and identified the HD-ZIP III factor PHABULOSA (BcPHB), combining genome-wide association studies (GWAS) and selective sweep analysis in Brassica campestris. We found that promoter variation defines two major haplotypes, BcPHB(HapI) and BcPHB(HapII), driving divergent expression levels associated with entire and lobed leaves. Functionally, BcPHB knockdown lines (BcPHB(ami)) exhibited lobed margins, whereas complementation of lobed accessions with the BcPHB(HapI) promoter partially restored the entire-leaf phenotype. Similarly, overexpression of LATE MERISTEM IDENTITY 1 (BcLMI1), a conserved regulator of leaf lobation, phenocopied the BcPHB(ami) lines. Mechanistically, BcPHB and BcLMI1 form a reciprocal negative feedback loop that stabilizes margin patterning. Furthermore, domestication-driven selection of BcPHB(HapI) facilitated the transition from ancestral lobed leaves to cultivated entire forms. This study reveals a pivotal developmental module and illustrates how regulatory evolution drives morphological diversification in crops.",
+    "keywords": [
+      "Digital phenotyping",
+      "Domestication",
+      "HD-ZIP transcription factor",
+      "Leaf development",
+      "Morphological diversification"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Jingwen",
+        "Li, Airong",
+        "Wu, Tianqi",
+        "Huang, Zhenyu",
+        "Li, Xiyao",
+        "Xu, Shan",
+        "Wu, Yujie",
+        "Tian, Yuan",
+        "Chen, Weiwei",
+        "Quan, Xinhua",
+        "Yao, Xiangtan",
+        "Lin, Sue",
+        "Feng, Xuping",
+        "Huang, Li"
+      ],
+      "short_names": [
+        "Chen J",
+        "Li A",
+        "Wu T",
+        "Huang Z",
+        "Li X",
+        "Xu S",
+        "Wu Y",
+        "Tian Y",
+        "Chen W",
+        "Quan X",
+        "Yao X",
+        "Lin S",
+        "Feng X",
+        "Huang L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4638-9678"
+      ],
+      "affiliations": [
+        "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China.",
+        "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China.",
+        "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China.",
+        "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou, 310058, China.",
+        "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou, 310058, China.",
+        "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou, 310058, China.",
+        "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China.",
+        "Hainan Institute of Zhejiang University, Sanya, 572025, China.",
+        "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China.",
+        "Zhejiang Provincial Key Laboratory of Wetland Intelligent Monitoring and Ecological Restoration, Zhejiang-Canada Joint Laboratory on Biodiversity and Global Change, College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, 310036, China.",
+        "Jiaxing Academy of Agricultural Sciences, Jiaxing, 314000, China.",
+        "Jiaxing Academy of Agricultural Sciences, Jiaxing, 314000, China.",
+        "Institute of Life Sciences, Wenzhou University, Wenzhou, 325000, China.",
+        "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou, 310058, China. fengxp@zju.edu.cn.",
+        "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China. lihuang@zju.edu.cn.",
+        "Hainan Institute of Zhejiang University, Sanya, 572025, China. lihuang@zju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Jingwen",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Li, Airong",
+        "short_name": "Li A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Tianqi",
+        "short_name": "Wu T",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Zhenyu",
+        "short_name": "Huang Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiyao",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Shan",
+        "short_name": "Xu S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yujie",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China.",
+          "Hainan Institute of Zhejiang University, Sanya, 572025, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Yuan",
+        "short_name": "Tian Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Weiwei",
+        "short_name": "Chen W",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Provincial Key Laboratory of Wetland Intelligent Monitoring and Ecological Restoration, Zhejiang-Canada Joint Laboratory on Biodiversity and Global Change, College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, 310036, China."
+        ]
+      },
+      {
+        "full_name": "Quan, Xinhua",
+        "short_name": "Quan X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiaxing Academy of Agricultural Sciences, Jiaxing, 314000, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Xiangtan",
+        "short_name": "Yao X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiaxing Academy of Agricultural Sciences, Jiaxing, 314000, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Sue",
+        "short_name": "Lin S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Life Sciences, Wenzhou University, Wenzhou, 325000, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Xuping",
+        "short_name": "Feng X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou, 310058, China. fengxp@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Huang, Li",
+        "short_name": "Huang L",
+        "identifiers": [
+          "0000-0002-4638-9678"
+        ],
+        "affiliations": [
+          "Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, Zhejiang University, Hangzhou, 310058, China. lihuang@zju.edu.cn.",
+          "Hainan Institute of Zhejiang University, Sanya, 572025, China. lihuang@zju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular horticulture"
+    ],
+    "journal_abbrev": [
+      "Mol Hortic"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864650",
+      "42666645",
+      "37578545",
+      "41554958",
+      "40509994",
+      "40847703",
+      "42475469",
+      "30219987",
+      "34615469",
+      "34985539",
+      "41005626",
+      "40694739",
+      "40224329",
+      "40284095",
+      "28389974",
+      "37762508",
+      "32816057",
+      "36535002",
+      "41877491",
+      "27999177",
+      "42388535",
+      "41272458",
+      "37851522",
+      "41871429",
+      "40983821",
+      "26070644",
+      "38782318",
+      "41867071",
+      "41219798",
+      "24394778",
+      "24368797",
+      "36484027",
+      "29467771",
+      "37314587",
+      "21129970",
+      "29606219",
+      "19176589",
+      "35491433",
+      "37845510",
+      "31975524",
+      "36724105",
+      "32981232",
+      "32126279",
+      "21300866",
+      "40540203",
+      "28704497",
+      "40744123",
+      "41252744",
+      "40692276",
+      "29351013",
+      "18408069",
+      "17520278",
+      "26739276",
+      "42836858",
+      "30334067",
+      "42704728",
+      "39524419",
+      "29532337",
+      "36964498",
+      "42278433",
+      "42213177",
+      "38887911",
+      "41155342",
+      "41830984",
+      "23972083",
+      "32611785",
+      "23578926",
+      "40247941",
+      "36362084",
+      "24302292",
+      "28068426",
+      "34087008",
+      "39991809",
+      "42515925",
+      "36057748",
+      "33790228",
+      "39721585",
+      "27137378",
+      "42341564",
+      "23640405",
+      "41923929",
+      "41840666",
+      "17869569",
+      "27385116",
+      "39596171",
+      "30612614",
+      "35634731",
+      "30689141",
+      "29599815",
+      "27526322",
+      "29267935",
+      "31889328",
+      "41486127",
+      "40619718",
+      "30769514",
+      "31410318",
+      "27558139",
+      "38898384",
+      "35807680",
+      "26637548"
+    ],
+    "review": [
+      "42864650",
+      "41219798",
+      "30334067",
+      "27137378",
+      "17869569"
+    ],
+    "pmc": [
+      "13660319"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

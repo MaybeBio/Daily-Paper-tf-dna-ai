@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42883238",
+    "doi": "10.3390/molecules31193472",
+    "title": "Identification of Imidazole-Benzenesulfonamide Derivatives with Anti-Inflammatory Activity Through Modulation of NF-kappaB Signaling."
+  },
+  "content": {
+    "abstract": "Inflammatory disorders remain an important therapeutic challenge, highlighting the need to identify novel small molecules capable of modulating inflammatory signaling. In this study, an in-house library of aromatic and heterocyclic drug-like compounds was screened for inhibition of lipopolysaccharide (LPS)-induced nuclear factor kappa B (NF-kappaB) activation using THP-1 dual-reporter cells. Eight compounds markedly suppressed NF-kappaB activity, and five structurally related 4-phenylimidazole-based benzenesulfonamide derivatives (1232, 1239, 1241, 1242, and 1245) were prioritized based on their cytotoxicity profiles. Functional activity was subsequently evaluated in LPS-stimulated RAW 264.7 macrophages. The selected compounds reduced nitrite production, attenuated LPS-induced nuclear localization of NF-kappaB, and differentially affected IL-6, KC/CXCL1, and TNF-alpha production. The naphthyl-substituted derivative 1239 showed prominent inhibition of nitrite, IL-6, and KC/CXCL1 production, whereas the ethylthio derivative 1232 preferentially reduced TNF-alpha. Molecular docking against a panel of inflammation-associated proteins revealed favorable predicted interactions of compound 1239 with IkappaB kinase(IKK) and p38 mitogen-activated protein kinase (p38 MAPK), with docking scores of -10.3 kcal/mol for both proteins and binding poses overlapping the corresponding crystallographic ligand-binding regions. Collectively, these findings identify 4-phenylimidazole-based benzenesulfonamides as a promising chemical series with anti-inflammatory activity and suggest IKK and p38 MAPK as potential components of the affected signaling network. Further structure-activity and mechanistic studies are required to define the molecular targets and optimize the activity of this compound class.",
+    "keywords": [
+      "NF-kappaB",
+      "anti-inflammatory activity",
+      "imidazole-benzenesulfonamide derivatives"
+    ],
+    "mesh_terms": [
+      "*Sulfonamides/chemistry/pharmacology",
+      "*NF-kappa B/metabolism",
+      "Animals",
+      "Mice",
+      "*Anti-Inflammatory Agents/pharmacology/chemistry",
+      "*Signal Transduction/drug effects",
+      "*Imidazoles/chemistry/pharmacology",
+      "Benzenesulfonamides",
+      "Molecular Docking Simulation",
+      "Humans",
+      "RAW 264.7 Cells",
+      "Lipopolysaccharides/pharmacology",
+      "p38 Mitogen-Activated Protein Kinases/metabolism",
+      "Macrophages/drug effects/metabolism",
+      "Structure-Activity Relationship"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kavaliauskas, Povilas",
+        "Vainauskas, Valdas",
+        "Petraitis, Vidmantas",
+        "Petraitiene, Ruta",
+        "Acevedo, Waldo",
+        "Grigaleviciute, Ramune",
+        "Grybaite, Birute",
+        "Golciene, Bozena",
+        "Stankevicius, Rolandas",
+        "Rakickas, Julius",
+        "Mickevicius, Vytautas"
+      ],
+      "short_names": [
+        "Kavaliauskas P",
+        "Vainauskas V",
+        "Petraitis V",
+        "Petraitiene R",
+        "Acevedo W",
+        "Grigaleviciute R",
+        "Grybaite B",
+        "Golciene B",
+        "Stankevicius R",
+        "Rakickas J",
+        "Mickevicius V"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-5857-6367",
+        "ORCID: 0000-0001-6811-4467",
+        "ORCID: 0000-0002-3269-8058",
+        "ORCID: 0000-0002-1182-0253",
+        "ORCID: 0000-0003-0982-1342",
+        "ORCID: 0000-0002-8036-9662",
+        "ORCID: 0000-0002-9961-2941"
+      ],
+      "affiliations": [
+        "Institute for Genome Sciences, School of Medicine, University of Maryland, 655 W. Baltimore Street, Baltimore, MD 21201, USA.",
+        "Department of Organic Chemistry, Kaunas University of Technology, Radvilenu Rd. 19, LT-50254 Kaunas, Lithuania.",
+        "Institute of Infectious Diseases and Pathogenic Microbiology, Birstono Str. 38A, LT-59116 Prienai, Lithuania.",
+        "Biological Research Center, Lithuanian University of Health Sciences, Tilzes Str. 18/7, LT-47181 Kaunas, Lithuania.",
+        "Department of Organic Chemistry, Kaunas University of Technology, Radvilenu Rd. 19, LT-50254 Kaunas, Lithuania.",
+        "Institute of Infectious Diseases and Pathogenic Microbiology, Birstono Str. 38A, LT-59116 Prienai, Lithuania.",
+        "Center for Discovery and Innovation, Hackensack Meridian Health, Nutley, NJ 07110, USA.",
+        "Institute of Infectious Diseases and Pathogenic Microbiology, Birstono Str. 38A, LT-59116 Prienai, Lithuania.",
+        "Center for Discovery and Innovation, Hackensack Meridian Health, Nutley, NJ 07110, USA.",
+        "Institute of Chemistry, Faculty of Sciences, Pontificia Universidad Catolica de Valparaiso, Valparaiso 2373223, Chile.",
+        "Center for Interdisciplinary Research in Biomedicine, Biotechnology and Well-Being (CID3B), Pontificia Universidad Catolica de Valparaiso, Valparaiso 2340025, Chile.",
+        "Biological Research Center, Lithuanian University of Health Sciences, Tilzes Str. 18/7, LT-47181 Kaunas, Lithuania.",
+        "Department of Animal Nutrition, Lithuanian University of Health Sciences, Tilzes Str. 18, LT-47181 Kaunas, Lithuania.",
+        "Department of Organic Chemistry, Kaunas University of Technology, Radvilenu Rd. 19, LT-50254 Kaunas, Lithuania.",
+        "Department of Organic Chemistry, Kaunas University of Technology, Radvilenu Rd. 19, LT-50254 Kaunas, Lithuania.",
+        "Department of Animal Nutrition, Lithuanian University of Health Sciences, Tilzes Str. 18, LT-47181 Kaunas, Lithuania.",
+        "Public Institution Silute Primary Health Care Center, Rusnes Str. 1, LT-99185 Silute, Lithuania.",
+        "Department of Organic Chemistry, Kaunas University of Technology, Radvilenu Rd. 19, LT-50254 Kaunas, Lithuania."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kavaliauskas, Povilas",
+        "short_name": "Kavaliauskas P",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Genome Sciences, School of Medicine, University of Maryland, 655 W. Baltimore Street, Baltimore, MD 21201, USA.",
+          "Department of Organic Chemistry, Kaunas University of Technology, Radvilėnų Rd. 19, LT-50254 Kaunas, Lithuania.",
+          "Institute of Infectious Diseases and Pathogenic Microbiology, Birštono Str. 38A, LT-59116 Prienai, Lithuania.",
+          "Biological Research Center, Lithuanian University of Health Sciences, Tilzes Str. 18/7, LT-47181 Kaunas, Lithuania."
+        ]
+      },
+      {
+        "full_name": "Vainauskas, Valdas",
+        "short_name": "Vainauskas V",
+        "identifiers": [
+          "0009-0008-5857-6367"
+        ],
+        "affiliations": [
+          "Department of Organic Chemistry, Kaunas University of Technology, Radvilėnų Rd. 19, LT-50254 Kaunas, Lithuania."
+        ]
+      },
+      {
+        "full_name": "Petraitis, Vidmantas",
+        "short_name": "Petraitis V",
+        "identifiers": [
+          "0000-0001-6811-4467"
+        ],
+        "affiliations": [
+          "Institute of Infectious Diseases and Pathogenic Microbiology, Birštono Str. 38A, LT-59116 Prienai, Lithuania.",
+          "Center for Discovery and Innovation, Hackensack Meridian Health, Nutley, NJ 07110, USA."
+        ]
+      },
+      {
+        "full_name": "Petraitiene, Ruta",
+        "short_name": "Petraitiene R",
+        "identifiers": [
+          "0000-0002-3269-8058"
+        ],
+        "affiliations": [
+          "Institute of Infectious Diseases and Pathogenic Microbiology, Birštono Str. 38A, LT-59116 Prienai, Lithuania.",
+          "Center for Discovery and Innovation, Hackensack Meridian Health, Nutley, NJ 07110, USA."
+        ]
+      },
+      {
+        "full_name": "Acevedo, Waldo",
+        "short_name": "Acevedo W",
+        "identifiers": [
+          "0000-0002-1182-0253"
+        ],
+        "affiliations": [
+          "Institute of Chemistry, Faculty of Sciences, Pontificia Universidad Católica de Valparaíso, Valparaíso 2373223, Chile.",
+          "Center for Interdisciplinary Research in Biomedicine, Biotechnology and Well-Being (CID3B), Pontificia Universidad Católica de Valparaíso, Valparaíso 2340025, Chile."
+        ]
+      },
+      {
+        "full_name": "Grigalevičiūtė, Ramunė",
+        "short_name": "Grigalevičiūtė R",
+        "identifiers": [],
+        "affiliations": [
+          "Biological Research Center, Lithuanian University of Health Sciences, Tilzes Str. 18/7, LT-47181 Kaunas, Lithuania.",
+          "Department of Animal Nutrition, Lithuanian University of Health Sciences, Tilzes Str. 18, LT-47181 Kaunas, Lithuania."
+        ]
+      },
+      {
+        "full_name": "Grybaitė, Birutė",
+        "short_name": "Grybaitė B",
+        "identifiers": [
+          "0000-0003-0982-1342"
+        ],
+        "affiliations": [
+          "Department of Organic Chemistry, Kaunas University of Technology, Radvilėnų Rd. 19, LT-50254 Kaunas, Lithuania."
+        ]
+      },
+      {
+        "full_name": "Golcienė, Božena",
+        "short_name": "Golcienė B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Organic Chemistry, Kaunas University of Technology, Radvilėnų Rd. 19, LT-50254 Kaunas, Lithuania."
+        ]
+      },
+      {
+        "full_name": "Stankevičius, Rolandas",
+        "short_name": "Stankevičius R",
+        "identifiers": [
+          "0000-0002-8036-9662"
+        ],
+        "affiliations": [
+          "Department of Animal Nutrition, Lithuanian University of Health Sciences, Tilzes Str. 18, LT-47181 Kaunas, Lithuania."
+        ]
+      },
+      {
+        "full_name": "Rakickas, Julius",
+        "short_name": "Rakickas J",
+        "identifiers": [],
+        "affiliations": [
+          "Public Institution Šilutė Primary Health Care Center, Rusnes Str. 1, LT-99185 Šilutė, Lithuania."
+        ]
+      },
+      {
+        "full_name": "Mickevičius, Vytautas",
+        "short_name": "Mickevičius V",
+        "identifiers": [
+          "0000-0002-9961-2941"
+        ],
+        "affiliations": [
+          "Department of Organic Chemistry, Kaunas University of Technology, Radvilėnų Rd. 19, LT-50254 Kaunas, Lithuania."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883238"
+    ],
+    "review": [
+      "42883238"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

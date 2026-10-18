@@ -1,0 +1,190 @@
+{
+  "identity": {
+    "pmid": "42877285",
+    "doi": "10.4055/cios25386",
+    "title": "Identification of Mitochondrial Dynamics-Related Genes as Diagnostic Biomarkers for Osteoarthritis Using Weighted Gene Co-expression Network Analysis and Machine Learning."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Osteoarthritis (OA) is a chronic, painful joint disease whose early diagnosis is critical for effective treatment. Since mitochondrial dynamics have been implicated in the onset and progression of OA, this study aimed to explore the diagnostic value of mitochondrial dynamics-related genes (MDRGs) in OA. METHODS: Weighted gene co-expression network analysis and 3 machine learning algorithms, including least absolute shrinkage and selection operator regression, support vector machine-recursive feature elimination, and Boruta, were used to screen signature genes. The intersection of genes identified by all 3 algorithms was taken as the candidate set. Expression levels of these genes were compared between OA and normal tissues, and receiver operating characteristic curves were used to validate their diagnostic performance, yielding final hub genes. An in vitro OA model was established, and the expression of key genes was validated using quantitative reverse transcription-polymerase chain reaction (qRT-PCR) and Western blot analysis. Immune infiltration in OA was assessed, and hub genes' functional analogs, microRNAs (miRNAs), transcription factors (TFs), and potential drugs were predicted. RESULTS: Two hub genes, CDH11 and MSX2, were identified. Both genes were up-regulated in OA and demonstrated promising diagnostic efficacy. qRT-PCR and Western blot validation revealed that mRNA and protein levels of CDH11 and MSX2 were significantly higher in OA cell models than in normal cells. Based on transcriptomic data, the single-sample gene set enrichment analysis algorithm inferred that significantly higher levels of B cells, macrophages, mast cells, neutrophils, T helper cells, and tumor-infiltrating lymphocytes were found in OA samples than in controls. Twenty functional analogs of the 2 hub genes were predicted, mainly enriched in skeletal system development and bone development functional pathways. Additionally, 34 miRNAs (e.g., hsa-miR-568, hsa-miR-548d-5p, hsa-miR-144) and 17 TFs (e.g., CEBPA, NFATC1, SP1, EGR1, FOXO1) were predicted based on CDH11 and MSX2. Entinostat, estradiol, cobaltous chloride, and valproic acid were identified as potential OA therapeutics. CONCLUSIONS: CDH11 and MSX2 may serve as candidate diagnostic biomarkers for OA, identified from a predefined MDRG set, but requiring further mechanistic and clinical validation.",
+    "keywords": [
+      "Biomarkers",
+      "Machine learning",
+      "Mitochondrial dynamics",
+      "Osteoarthritis",
+      "Weighted gene co-expression network analysis"
+    ],
+    "mesh_terms": [
+      "*Osteoarthritis/genetics/diagnosis",
+      "Humans",
+      "*Machine Learning",
+      "Biomarkers/metabolism",
+      "*Mitochondrial Dynamics/genetics",
+      "Gene Regulatory Networks",
+      "*Cadherins/genetics",
+      "*Homeodomain Proteins/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Hui",
+        "Zhang, Peng",
+        "Ren, Xinqiang",
+        "Tan, Kaitao",
+        "Qiu, Yongfeng",
+        "Li, Linqing"
+      ],
+      "short_names": [
+        "Wang H",
+        "Zhang P",
+        "Ren X",
+        "Tan K",
+        "Qiu Y",
+        "Li L"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-3712-1439",
+        "ORCID: 0009-0007-8734-4007",
+        "ORCID: 0009-0005-0151-5107",
+        "ORCID: 0009-0005-6784-6590",
+        "ORCID: 0009-0005-1791-468X",
+        "ORCID: 0009-0005-3195-5672"
+      ],
+      "affiliations": [
+        "Department of Orthopedics I, Xi'an Qinhuang Hospital, Xi'an, China.",
+        "Department of Orthopedics I, Xi'an Qinhuang Hospital, Xi'an, China.",
+        "Department of Orthopedics I, Xi'an Qinhuang Hospital, Xi'an, China.",
+        "Department of Orthopedics I, Xi'an Qinhuang Hospital, Xi'an, China.",
+        "Department of Orthopedic Trauma, Affiliated Hospital of Shaanxi University of Chinese Medicine, Xianyang, China.",
+        "Department of Orthopedics II, Yan'an University Xianyang Hospital, Xianyang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Hui",
+        "short_name": "Wang H",
+        "identifiers": [
+          "0009-0003-3712-1439"
+        ],
+        "affiliations": [
+          "Department of Orthopedics I, Xi'an Qinhuang Hospital, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Peng",
+        "short_name": "Zhang P",
+        "identifiers": [
+          "0009-0007-8734-4007"
+        ],
+        "affiliations": [
+          "Department of Orthopedics I, Xi'an Qinhuang Hospital, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Xinqiang",
+        "short_name": "Ren X",
+        "identifiers": [
+          "0009-0005-0151-5107"
+        ],
+        "affiliations": [
+          "Department of Orthopedics I, Xi'an Qinhuang Hospital, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Kaitao",
+        "short_name": "Tan K",
+        "identifiers": [
+          "0009-0005-6784-6590"
+        ],
+        "affiliations": [
+          "Department of Orthopedics I, Xi'an Qinhuang Hospital, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Yongfeng",
+        "short_name": "Qiu Y",
+        "identifiers": [
+          "0009-0005-1791-468X"
+        ],
+        "affiliations": [
+          "Department of Orthopedic Trauma, Affiliated Hospital of Shaanxi University of Chinese Medicine, Xianyang, China."
+        ]
+      },
+      {
+        "full_name": "Li, Linqing",
+        "short_name": "Li L",
+        "identifiers": [
+          "0009-0005-3195-5672"
+        ],
+        "affiliations": [
+          "Department of Orthopedics II, Yan'an University Xianyang Hospital, Xianyang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinics in orthopedic surgery"
+    ],
+    "journal_abbrev": [
+      "Clin Orthop Surg"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 17:38",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42877285"
+    ],
+    "review": [
+      "42877285"
+    ],
+    "pmc": [
+      "13662255"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/osteoarthritis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Osteoarthritis"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-FOXO1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-983",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.ecios.org/DOIx.php?id=10.4055/cios25386",
+        "provider": "The Korean Orthopaedic Association",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

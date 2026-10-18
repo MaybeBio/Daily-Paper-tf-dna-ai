@@ -1,0 +1,199 @@
+{
+  "identity": {
+    "pmid": "42867989",
+    "doi": "10.1016/j.celrep.2026.118131",
+    "title": "Quantifying the impact of genetic mutations on enhancer dynamics."
+  },
+  "content": {
+    "abstract": "Transcriptional regulation is mediated by enhancers, yet how genetic perturbations alter enhancer activity and gene expression remains unclear. We develop UDI-UMI-STARR-seq, integrating dual indexes and unique molecular identifiers, and combine it with RNA-seq to profile perturbation-associated changes in enhancer activity and gene expression. We apply this approach to 253,632 fragments representing 46,142 cell type-specific candidate enhancers and assess the impact of CRISPR/Cas9-mediated deletion of six transcription factors (ATF2, CTCF, FOXA1, LEF1, TCF7L2, and SCRT1). We identify responsive fragments that are repressed or induced and enriched for p53 family motifs. Enhancer-gene mapping reveals associations between responsive fragments and gene expression changes, including Wnt/p53 targets after ATF2 or LEF1 depletion. A deep learning model recapitulates enhancer grammar, including cooperative motif syntax and flanking sequence context. Applying this framework to 16p12.1 deletion identifies responsive fragments associated with genes involved in neuronal function, providing a scalable readout of enhancer dynamics across genetic perturbations.",
+    "keywords": [
+      "CP: molecular biology",
+      "STARR-seq",
+      "enhancer",
+      "gene expression",
+      "genetic perturbation",
+      "regulatory networks",
+      "transcription factor"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Das, Maitreya",
+        "Banerjee, Deepro",
+        "Hossain, Ayaan",
+        "Jensen, Matthew",
+        "Mogre, Saie",
+        "Sun, Jiawan",
+        "Mao, Joseph",
+        "Glick, Adam B",
+        "Salis, Howard M",
+        "Girirajan, Santhosh"
+      ],
+      "short_names": [
+        "Das M",
+        "Banerjee D",
+        "Hossain A",
+        "Jensen M",
+        "Mogre S",
+        "Sun J",
+        "Mao J",
+        "Glick AB",
+        "Salis HM",
+        "Girirajan S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA; Molecular and Cellular Integrative Biosciences Graduate program, University Park, PA 16802, USA.",
+        "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA; Bioinformatics and Genomics Graduate program, Pennsylvania State University, University Park, PA 16802, USA.",
+        "Bioinformatics and Genomics Graduate program, Pennsylvania State University, University Park, PA 16802, USA.",
+        "Bioinformatics and Genomics Graduate program, Pennsylvania State University, University Park, PA 16802, USA.",
+        "Department of Veterinary and Biomedical Sciences, Pennsylvania State University, University Park, PA 16802, USA.",
+        "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA; Molecular and Cellular Integrative Biosciences Graduate program, University Park, PA 16802, USA; Department of Veterinary and Biomedical Sciences, Pennsylvania State University, University Park, PA 16802, USA.",
+        "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA.",
+        "Molecular and Cellular Integrative Biosciences Graduate program, University Park, PA 16802, USA; Department of Veterinary and Biomedical Sciences, Pennsylvania State University, University Park, PA 16802, USA.",
+        "Department of Chemical Engineering, Pennsylvania State University, University Park, PA 16802, USA.",
+        "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA; Department of Anthropology, Pennsylvania State University, University Park, PA 16802, USA; Molecular and Cellular Integrative Biosciences Graduate program, University Park, PA 16802, USA; Bioinformatics and Genomics Graduate program, Pennsylvania State University, University Park, PA 16802, USA. Electronic address: sxg47@psu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Das, Maitreya",
+        "short_name": "Das M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA; Molecular and Cellular Integrative Biosciences Graduate program, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Banerjee, Deepro",
+        "short_name": "Banerjee D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA; Bioinformatics and Genomics Graduate program, Pennsylvania State University, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Hossain, Ayaan",
+        "short_name": "Hossain A",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics and Genomics Graduate program, Pennsylvania State University, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Jensen, Matthew",
+        "short_name": "Jensen M",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics and Genomics Graduate program, Pennsylvania State University, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Mogre, Saie",
+        "short_name": "Mogre S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary and Biomedical Sciences, Pennsylvania State University, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Sun, Jiawan",
+        "short_name": "Sun J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA; Molecular and Cellular Integrative Biosciences Graduate program, University Park, PA 16802, USA; Department of Veterinary and Biomedical Sciences, Pennsylvania State University, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Mao, Joseph",
+        "short_name": "Mao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Glick, Adam B",
+        "short_name": "Glick AB",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular and Cellular Integrative Biosciences Graduate program, University Park, PA 16802, USA; Department of Veterinary and Biomedical Sciences, Pennsylvania State University, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Salis, Howard M",
+        "short_name": "Salis HM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering, Pennsylvania State University, University Park, PA 16802, USA."
+        ]
+      },
+      {
+        "full_name": "Girirajan, Santhosh",
+        "short_name": "Girirajan S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, USA; Department of Anthropology, Pennsylvania State University, University Park, PA 16802, USA; Molecular and Cellular Integrative Biosciences Graduate program, University Park, PA 16802, USA; Bioinformatics and Genomics Graduate program, Pennsylvania State University, University Park, PA 16802, USA. Electronic address: sxg47@psu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42867989"
+    ],
+    "review": [
+      "42867989"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01210-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-660",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

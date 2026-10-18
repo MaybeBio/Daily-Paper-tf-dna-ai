@@ -1,0 +1,138 @@
+{
+  "identity": {
+    "pmid": "42870286",
+    "doi": "10.1111/cbdd.70409",
+    "title": "Integrative Multi-Omics and Experimental Validation Define RELB as an Immune-Related Prognostic Driver in Ovarian Cancer."
+  },
+  "content": {
+    "abstract": "Ovarian cancer (OC) is one of the most aggressive gynecological malignancies worldwide. The tumor microenvironment and transcriptomic alterations play important roles in OC progression and therapeutic response. Integrative bulk and single-cell transcriptomic analyses may facilitate the identification of prognostic biomarkers and potential therapeutic targets. Multi-Omic datasets from TCGA and GEO were analyzed. Immune-related genes were first integrated with survival information and screened using a random survival forest model to identify five core genes. GO/KEGG analyses were performed on differentially expressed genes, while GSEA and GSVA were used to characterize pathways associated with the core genes. Single-cell RNA-seq data were processed to determine cell-type-specific expression patterns. Molecular docking predicted potential gene-drug interactions. CCK-8, Transwell, and flow cytometry assays assessed the functional role of RELB in OC cells. Five core genes-RELB, CXCL9, PI3, TRAC, and CXCL11-were identified through integration of immune-related genes and random survival forest analysis. Drug sensitivity analysis showed that the expression of all five genes was associated with sensitivity to KU-55933. High expression of key genes was associated with altered immune-related features, while CXCL9, CXCL11, and TRAC were positively associated with CD8+ T-cell abundance and cytolytic activity. Single-cell sequencing identified seven cell types, among which CXCL9 and CXCL11 were highly expressed in monocytes, TRAC in T cells, and PI3 in epithelial cells. Molecular docking predicted a potential interaction between PI3 and 6atu-PROGESTERONE, with a binding energy of -6.35 kcal/mol. RELB was highly expressed in OC cells, and its knockdown significantly inhibited cell proliferation, migration, and invasion while promoting apoptosis. This study identifies a five-gene prognostic signature linked to the immune microenvironment in ovarian cancer. Among them, RELB showed a functional role in OC cell malignant phenotypes, supporting its potential as a biomarker and therapeutic target. Computational drug sensitivity and docking analyses provide hypothesis-generating evidence for potential therapeutic associations that require experimental validation.",
+    "keywords": [
+      "drug sensitivity",
+      "immune microenvironment",
+      "key genes",
+      "metabolic reprogramming",
+      "molecular docking",
+      "multi-omic",
+      "ovarian cancer"
+    ],
+    "mesh_terms": [
+      "Female",
+      "Humans",
+      "*Ovarian Neoplasms/genetics/immunology/pathology/diagnosis/metabolism",
+      "*Transcription Factor RelB/genetics/metabolism/antagonists & inhibitors",
+      "Chemokine CXCL9/genetics/metabolism",
+      "Chemokine CXCL11/genetics/metabolism",
+      "Molecular Docking Simulation",
+      "Cell Line, Tumor",
+      "Multiomics",
+      "Prognosis",
+      "Tumor Microenvironment",
+      "Gene Expression Regulation, Neoplastic",
+      "Biomarkers, Tumor/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Leng, Wenshu",
+        "Fan, Xingyue",
+        "Fang, Yichen"
+      ],
+      "short_names": [
+        "Leng W",
+        "Fan X",
+        "Fang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Gynecologic Oncology, Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research, The Affiliated Cancer Hospital of Nanjing Medical University, Nanjing, China.",
+        "Department of Rehabilitation, The Fourth People's Hospital of Lianyungang, Affiliated to Kangda College of Nanjing Medical University, Lianyungang, China.",
+        "Department of Gynecologic Oncology, Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research, The Affiliated Cancer Hospital of Nanjing Medical University, Nanjing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Leng, Wenshu",
+        "short_name": "Leng W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecologic Oncology, Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research, The Affiliated Cancer Hospital of Nanjing Medical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Xingyue",
+        "short_name": "Fan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rehabilitation, The Fourth People's Hospital of Lianyungang, Affiliated to Kangda College of Nanjing Medical University, Lianyungang, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Yichen",
+        "short_name": "Fang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecologic Oncology, Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research, The Affiliated Cancer Hospital of Nanjing Medical University, Nanjing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical biology & drug design"
+    ],
+    "journal_abbrev": [
+      "Chem Biol Drug Des"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:34",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42870286"
+    ],
+    "review": [
+      "42870286"
+    ],
+    "pmc": [
+      "13661770"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/ovariancancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Ovarian Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1111/cbdd.70409",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CXCL9-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "identity": {
+    "pmid": "42877042",
+    "doi": "10.3389/fmicb.2026.1944089",
+    "title": "Integrated multi-omics and genome mining strategies for activating cryptic polyketide biosynthetic gene clusters in Streptomyces: an overview."
+  },
+  "content": {
+    "abstract": "Beneficial microbes from soil or marine habitats are promising sources for discovery of new bioactive compounds for medicine and agriculture, largely through biosynthetic gene clusters (BGCs) that encode the production of complex natural products for drug and antibiotic discovery. However, most BGCs are transcriptionally silent under standard testing conditions and may require a complex, integrated approach for activation. In this review, we revisit previous approaches to activating BGCs, focusing on polyketides. We additionally discuss how integrating genome mining strategies with multi-omics integration, synthetic biology methods, and precise genome-editing tools is providing increasingly precise strategies for the discovery and engineering of polyketide-producing Streptomyces. We further discuss how to couple artificial intelligence (AI)-designed promoters could enable the production of novel compounds with improved yields, expanded chemical diversity, and enhanced industrial potential. We further examine how state-of-the-art CRISPR-Cas systems, including base editing, facilitate precise editing of high-GC-content genomes while circumventing the genome instability and Cas9-associated cellular toxicity that frequently accompany double-strand break formation in Streptomyces, and how chromatin topology rewiring dismantles transcriptional silencing. Unlike reviews that address genome mining, pathway engineering, or genome editing as separate approaches, this review presents an integrated framework linking computational BGC prediction, multi-omics validation, and precision engineering to prioritize and activate cryptic polyketide pathways in Streptomyces. We propose comprehensive computational genomics prediction approaches and integrate them with experimental validation through promoter engineering, transcription factor decoys, and chassis strain optimization, highlighting how these methods and tools are advancing the field from descriptive BGC catalogs to scalable, predictive models for next-generation drug discovery. Future efforts to couple AI-generated, sequence-orthogonal promoter libraries with biology-based modeling hold great promise.",
+    "keywords": [
+      "CRISPR",
+      "Streptomyces",
+      "artificial intelligence (AI)",
+      "base editing",
+      "heterologous expression",
+      "multi-omics",
+      "polyketides"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Santhoshkumar, R",
+        "Mohamed, Hafid",
+        "Jemo, Martin"
+      ],
+      "short_names": [
+        "Santhoshkumar R",
+        "Mohamed H",
+        "Jemo M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Agriculture and Environmental Science (CAES), University Mohammed VI Polytechnique (UM6P), Benguerir, Morocco.",
+        "Faculte des Sciences Semlalia, Laboratoire d'Excellence en Agrobiotechnologie et Bioingenierie, Centre AgroBiotech, Unite de Recherche Labellisee CNRST (URL05-CNRST), Universite Cadi Ayyad, Marrakech, Morocco.",
+        "College of Agriculture and Environmental Science (CAES), University Mohammed VI Polytechnique (UM6P), Benguerir, Morocco."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Santhoshkumar, R",
+        "short_name": "Santhoshkumar R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Environmental Science (CAES), University Mohammed VI Polytechnique (UM6P), Benguerir, Morocco."
+        ]
+      },
+      {
+        "full_name": "Mohamed, Hafid",
+        "short_name": "Mohamed H",
+        "identifiers": [],
+        "affiliations": [
+          "Faculté des Sciences Semlalia, Laboratoire d'Excellence en Agrobiotechnologie et Bioingénierie, Centre AgroBiotech, Unité de Recherche Labellisée CNRST (URL05-CNRST), Université Cadi Ayyad, Marrakech, Morocco."
+        ]
+      },
+      {
+        "full_name": "Jemo, Martin",
+        "short_name": "Jemo M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Environmental Science (CAES), University Mohammed VI Polytechnique (UM6P), Benguerir, Morocco."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 17:38",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42877042"
+    ],
+    "review": [
+      "42877042"
+    ],
+    "pmc": [
+      "13662764"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fmicb.2026.1944089",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

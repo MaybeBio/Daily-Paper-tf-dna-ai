@@ -1,0 +1,121 @@
+{
+  "identity": {
+    "pmid": "42880219",
+    "doi": "10.1016/j.molcel.2026.09.016",
+    "title": "Integration by parts: The multi-layered mechanisms of cis-regulatory control."
+  },
+  "content": {
+    "abstract": "Cis-regulatory elements (CREs) integrate signals from transcription factors (TFs) to control gene expression, yet mechanisms underlying this information processing remain poorly understood. Deep learning demonstrates expression is predictable from CRE sequence, suggesting that unifying principles of regulation are within reach. Here, we propose a framework dividing CRE regulatory logic into two layers: binding-level integration, where cooperative TF interactions modulate DNA occupancy; and transcriptional-level integration, where TF effector domains and cofactors convert binding configurations into expression. At the binding level, we classify TF cooperativity along orthogonal axes-specific versus general, and symmetric versus asymmetric-encompassing protein-protein interactions, nucleosome competition, pioneer activity, and assisted loading. At the transcriptional level, cofactor interactions generate additive, synergistic, or antagonistic logic. Emerging from this complexity is a recurring quantitative pattern: \"multiplication plus saturation,\" reconciling binding specificity with flexibility, explaining how short DNA motifs generate precise expression while maintaining evolvability, and informing synthetic biology and therapeutic applications.",
+    "keywords": [
+      "cis-regulation",
+      "cooperativity",
+      "enhancer",
+      "gene expression",
+      "pioneer factor",
+      "single molecule footprinting",
+      "synthetic biology",
+      "transcription"
+    ],
+    "mesh_terms": [
+      "*Transcription Factors/genetics/metabolism",
+      "Transcription, Genetic",
+      "Nucleosomes/metabolism/genetics",
+      "Animals",
+      "Humans",
+      "*Gene Expression Regulation",
+      "Protein Binding",
+      "Binding Sites",
+      "DNA/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cornwall-Scoones, Jake",
+        "Briscoe, James",
+        "Delas, M Joaquina"
+      ],
+      "short_names": [
+        "Cornwall-Scoones J",
+        "Briscoe J",
+        "Delas MJ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Francis Crick Institute, Midland Road, London NW1 1AT, UK; Department of Cell and Developmental Biology (CDB), University College London, Gower St., London WC1E 6BT, UK; The Gurdon Institute, University of Cambridge, Tennis Court Rd., Cambridge CB2 1QN, UK. Electronic address: j.cornwallscoones@ucl.ac.uk.",
+        "The Francis Crick Institute, Midland Road, London NW1 1AT, UK. Electronic address: james.briscoe@crick.ac.uk.",
+        "Laboratory for Molecular Cell Biology, University College London, Gower Street, London WC1E 6BT, UK. Electronic address: j.delas@ucl.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cornwall-Scoones, Jake",
+        "short_name": "Cornwall-Scoones J",
+        "identifiers": [],
+        "affiliations": [
+          "The Francis Crick Institute, Midland Road, London NW1 1AT, UK; Department of Cell and Developmental Biology (CDB), University College London, Gower St., London WC1E 6BT, UK; The Gurdon Institute, University of Cambridge, Tennis Court Rd., Cambridge CB2 1QN, UK. Electronic address: j.cornwallscoones@ucl.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Briscoe, James",
+        "short_name": "Briscoe J",
+        "identifiers": [],
+        "affiliations": [
+          "The Francis Crick Institute, Midland Road, London NW1 1AT, UK. Electronic address: james.briscoe@crick.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Delás, M Joaquina",
+        "short_name": "Delás MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Molecular Cell Biology, University College London, Gower Street, London WC1E 6BT, UK. Electronic address: j.delas@ucl.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42880219"
+    ],
+    "review": [
+      "42880219"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

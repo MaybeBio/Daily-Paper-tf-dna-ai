@@ -1,0 +1,254 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.11.751335",
+  "title": "Accelerating Molecular Dynamics with Hydrogen Mass Repartitioning to Prioritize Immunogenic Neoantigens for Cancer Vaccines through Peptide HLA Binding Free Energy Calculations",
+  "doi": "10.64898/2026.10.11.751335",
+  "abstract": "Personalized neoantigen based vaccines have progressed from concept to clinical evidence for some of the most aggressive human tumors, yet a key challenge remains: determining which candidates should be prioritized for vaccine inclusion. Public neoantigens, shared across tumor subtypes and patient populations, offer potential as off the shelf candidates for broad spectrum immunotherapy. Candidate selection relies on in silico pipelines that estimate binding; however, binding affinity alone is an imperfect marker of immunogenicity. Molecular dynamics (MD) combined with endpoint free energy methods estimates binding free energy directly from simulated trajectories, and hydrogen mass repartitioning (HMR) mitigates the computational cost of hydrogen involving bond vibrations. This study assessed whether HMR accelerated MD can prioritize immunogenic neoantigens through peptide HLA binding free energy calculations and quantified the trade off between accuracy and computational cost. Ten immunogenic public neoantigens (seven paired with their wild type counterparts and three frameshift neoantigens analyzed as unpaired references) were modeled in complex with their HLA I alleles, built de novo using AlphaFold3 and propagated with a 4 fs HMR time step. Mean binding free energy was computed across ten replicas per complex, and each SNV pair was scored concordant with experimental data when the neoantigen formed a more favorable complex than its wild type. Free energies were recomputed at 100 to 500 ns to identify the shortest trajectory preserving reliable ranking. Free energy calculations reproduced experimental concordance for six of seven SNV pairs and were inconclusive for TP53 R8H. Frameshift neoantigens yielded comparable values. Most complexes retained both peptide termini anchored to the HLA groove throughout, and RMSD and RMSF metrics agreed with one another and with the free energy rankings. The PIK3CA E545K (E11K) pair showed the most distinctive signature: the peptides engaged the groove almost identically over P1 to P8, with the entire difference confined to the C terminal pocket, where loss of the wild type's anchor also disrupted its backbone anchor. This pair showed the largest free energy separation in the panel, and restricting analysis to bound frames confirmed a substantial electrostatic and van der Waals advantage favoring the neoantigen. These findings support HMR accelerated binding free energy MD as a practical refinement step for neoantigen prioritization and its application to assessing public neoantigens for cancer vaccine design.",
+  "authors": [
+    "Diego Alfredo Amaya-Ramirez",
+    "Jorge Bruce Florez-Suarez",
+    "Juan Diego Mora-Fonseca",
+    "Carlos Alberto Parra-Lopez"
+  ],
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-18T04:30:13Z",
+  "journal": "bioRxiv",
+  "category": "Immunology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.11.751335",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.11.751335.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Immunology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Immunology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ],
+        "date-time": "2026-10-18T04:40:56Z",
+        "timestamp": 1792298456304,
+        "version": "4.4.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ]
+      },
+      "group-title": "Immunology",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                17
+              ]
+            ],
+            "date-time": "2026-10-17T00:00:00Z",
+            "timestamp": 1792195200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "Program 92191, Project 92268-Contract No. 800-2023"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "Program 92191, Project 92268-Contract No. 800-2023"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/03fd5ne08",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Personalized neoantigen based vaccines have progressed from concept to clinical evidence for some of the most aggressive human tumors, yet a key challenge remains: determining which candidates should be prioritized for vaccine inclusion. Public neoantigens, shared across tumor subtypes and patient populations, offer potential as off the shelf candidates for broad spectrum immunotherapy. Candidate selection relies on in silico pipelines that estimate binding; however, binding affinity alone is an imperfect marker of immunogenicity. Molecular dynamics (MD) combined with endpoint free energy methods estimates binding free energy directly from simulated trajectories, and hydrogen mass repartitioning (HMR) mitigates the computational cost of hydrogen involving bond vibrations. This study assessed whether HMR accelerated MD can prioritize immunogenic neoantigens through peptide HLA binding free energy calculations and quantified the trade off between accuracy and computational cost. Ten immunogenic public neoantigens (seven paired with their wild type counterparts and three frameshift neoantigens analyzed as unpaired references) were modeled in complex with their HLA I alleles, built de novo using AlphaFold3 and propagated with a 4 fs HMR time step. Mean binding free energy was computed across ten replicas per complex, and each SNV pair was scored concordant with experimental data when the neoantigen formed a more favorable complex than its wild type. Free energies were recomputed at 100 to 500 ns to identify the shortest trajectory preserving reliable ranking. Free energy calculations reproduced experimental concordance for six of seven SNV pairs and were inconclusive for TP53 R8H. Frameshift neoantigens yielded comparable values. Most complexes retained both peptide termini anchored to the HLA groove throughout, and RMSD and RMSF metrics agreed with one another and with the free energy rankings. The PIK3CA E545K (E11K) pair showed the most distinctive signature: the peptides engaged the groove almost identically over P1 to P8, with the entire difference confined to the C terminal pocket, where loss of the wild type's anchor also disrupted its backbone anchor. This pair showed the largest free energy separation in the panel, and restricting analysis to bound frames confirmed a substantial electrostatic and van der Waals advantage favoring the neoantigen. These findings support HMR accelerated binding free energy MD as a practical refinement step for neoantigen prioritization and its application to assessing public neoantigens for cancer vaccine design.</jats:p>",
+      "DOI": "10.64898/2026.10.11.751335",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ],
+        "date-time": "2026-10-18T04:30:13Z",
+        "timestamp": 1792297813000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Accelerating Molecular Dynamics with Hydrogen Mass Repartitioning to Prioritize Immunogenic Neoantigens for Cancer Vaccines through Peptide HLA Binding Free Energy Calculations"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3418-2522",
+          "authenticated-orcid": false,
+          "given": "Diego Alfredo",
+          "family": "Amaya-Ramirez",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Immunology & Translational Medicine Group. Department of Microbiology, Faculty of Medicine and Health Sciences. Universidad Nacional de Colombia. Bogota D.C."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8279-4593",
+          "authenticated-orcid": false,
+          "given": "Jorge Bruce",
+          "family": "Florez-Suarez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Immunology & Translational Medicine Group. Department of Microbiology, Faculty of Medicine and Health Sciences. Universidad Nacional de Colombia. Bogota D.C."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Juan Diego",
+          "family": "Mora-Fonseca",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Immunology & Translational Medicine Group. Department of Microbiology, Faculty of Medicine and Health Sciences. Universidad Nacional de Colombia. Bogota D.C."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6084-8981",
+          "authenticated-orcid": false,
+          "given": "Carlos Alberto",
+          "family": "Parra-Lopez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Immunology & Translational Medicine Group. Department of Microbiology, Faculty of Medicine and Health Sciences. Universidad Nacional de Colombia. Bogota D.C."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.11.751335",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ],
+        "date-time": "2026-10-18T04:30:13Z",
+        "timestamp": 1792297813000
+      },
+      "score": 69.44423,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.11.751335"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.11.751335",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

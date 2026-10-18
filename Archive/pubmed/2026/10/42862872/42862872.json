@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "42862872",
+    "doi": "10.1371/journal.pcbi.1014813",
+    "title": "Understanding cell fate decisions with temporal attention."
+  },
+  "content": {
+    "abstract": "Understanding non-genetic determinants of cell fate is critical for developing and improving cancer therapies, as genetically identical cells can exhibit divergent outcomes under the same treatment conditions. In this work, we present a deep learning approach for cell fate prediction from raw long-term live-cell recordings of cancer cell populations under chemotherapeutic treatment. Our Transformer model is trained to predict cell fate directly from raw image sequences, without relying on predefined morphological or molecular features. Beyond classification, we introduce a comprehensive explainability framework for interpreting the temporal and morphological cues guiding the model's predictions. We demonstrate that prediction of cell outcomes is possible based on the video only, our model achieves balanced accuracy of 0.94 and an F1-score of 0.93. Attention and masking experiments further indicate that the signal predictive of the cell fate is not uniquely located in the final frames of a cell trajectory, as reliable predictions are possible up to 8 h before the event. Our analysis reveals distinct temporal distribution of predictive information in the mitotic and apoptotic sequences, as well as the role of cell morphology and p53 signaling in determining cell outcomes. Together, these findings demonstrate that attention-based temporal models enable accurate cell fate prediction while providing biologically interpretable insights into non-genetic determinants of cellular decision-making.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Computational Biology/methods",
+      "*Deep Learning",
+      "Apoptosis/physiology",
+      "Cell Line, Tumor",
+      "Neoplasms/pathology",
+      "Cell Differentiation/physiology",
+      "Models, Biological",
+      "Signal Transduction",
+      "Tumor Suppressor Protein p53/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Burger, Florian",
+        "Dias Gomes, Martim",
+        "Granada, Adrian E",
+        "Moreau, Noemie",
+        "Bozek, Katarzyna"
+      ],
+      "short_names": [
+        "Burger F",
+        "Dias Gomes M",
+        "Granada AE",
+        "Moreau N",
+        "Bozek K"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1854-2409"
+      ],
+      "affiliations": [
+        "Institute for Biomedical Informatics, Faculty of Medicine, University of Cologne and University Hospital Cologne, Cologne, Germany.",
+        "Faculty of Mathematics and Natural Sciences, University of Cologne, Cologne, Germany.",
+        "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
+        "Center for Molecular Medicine Cologne (CMMC), University of Cologne and University Hospital Cologne, Cologne, Germany.",
+        "Institute for Biomedical Informatics, Faculty of Medicine, University of Cologne and University Hospital Cologne, Cologne, Germany.",
+        "Faculty of Mathematics and Natural Sciences, University of Cologne, Cologne, Germany.",
+        "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
+        "Center for Molecular Medicine Cologne (CMMC), University of Cologne and University Hospital Cologne, Cologne, Germany.",
+        "Granada Lab, Berlin, Germany.",
+        "Institute for Biomedical Informatics, Faculty of Medicine, University of Cologne and University Hospital Cologne, Cologne, Germany.",
+        "Faculty of Mathematics and Natural Sciences, University of Cologne, Cologne, Germany.",
+        "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
+        "Center for Molecular Medicine Cologne (CMMC), University of Cologne and University Hospital Cologne, Cologne, Germany.",
+        "Institute for Biomedical Informatics, Faculty of Medicine, University of Cologne and University Hospital Cologne, Cologne, Germany.",
+        "Faculty of Mathematics and Natural Sciences, University of Cologne, Cologne, Germany.",
+        "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
+        "Center for Molecular Medicine Cologne (CMMC), University of Cologne and University Hospital Cologne, Cologne, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bürger, Florian",
+        "short_name": "Bürger F",
+        "identifiers": [
+          "0000-0003-1854-2409"
+        ],
+        "affiliations": [
+          "Institute for Biomedical Informatics, Faculty of Medicine, University of Cologne and University Hospital Cologne, Cologne, Germany.",
+          "Faculty of Mathematics and Natural Sciences, University of Cologne, Cologne, Germany.",
+          "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
+          "Center for Molecular Medicine Cologne (CMMC), University of Cologne and University Hospital Cologne, Cologne, Germany."
+        ]
+      },
+      {
+        "full_name": "Dias Gomes, Martim",
+        "short_name": "Dias Gomes M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Biomedical Informatics, Faculty of Medicine, University of Cologne and University Hospital Cologne, Cologne, Germany.",
+          "Faculty of Mathematics and Natural Sciences, University of Cologne, Cologne, Germany.",
+          "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
+          "Center for Molecular Medicine Cologne (CMMC), University of Cologne and University Hospital Cologne, Cologne, Germany."
+        ]
+      },
+      {
+        "full_name": "Granada, Adrián E",
+        "short_name": "Granada AE",
+        "identifiers": [],
+        "affiliations": [
+          "Granada Lab, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Moreau, Noémie",
+        "short_name": "Moreau N",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Biomedical Informatics, Faculty of Medicine, University of Cologne and University Hospital Cologne, Cologne, Germany.",
+          "Faculty of Mathematics and Natural Sciences, University of Cologne, Cologne, Germany.",
+          "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
+          "Center for Molecular Medicine Cologne (CMMC), University of Cologne and University Hospital Cologne, Cologne, Germany."
+        ]
+      },
+      {
+        "full_name": "Bozek, Katarzyna",
+        "short_name": "Bozek K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Biomedical Informatics, Faculty of Medicine, University of Cologne and University Hospital Cologne, Cologne, Germany.",
+          "Faculty of Mathematics and Natural Sciences, University of Cologne, Cologne, Germany.",
+          "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
+          "Center for Molecular Medicine Cologne (CMMC), University of Cologne and University Hospital Cologne, Cologne, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 17:30",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42862872",
+      "42475469",
+      "42862867",
+      "41310253",
+      "41977286",
+      "40183298",
+      "40598008",
+      "41023936",
+      "42567496",
+      "29048401",
+      "27754743",
+      "41902287",
+      "39841552",
+      "24565264",
+      "42766171",
+      "23912807",
+      "39820247",
+      "41845230",
+      "37813920",
+      "32424393",
+      "38724920",
+      "42162854",
+      "42565475",
+      "40657529",
+      "38355559",
+      "19617533",
+      "28507149",
+      "41883361",
+      "42401875",
+      "41062795",
+      "23845991",
+      "41212592",
+      "40465350",
+      "41779826",
+      "25003668",
+      "40163555",
+      "42454932",
+      "42168900",
+      "40874821",
+      "39541410",
+      "39438715",
+      "26433055",
+      "39177093",
+      "22700930",
+      "38951700",
+      "41066756",
+      "36472304",
+      "41066820",
+      "27490187",
+      "42635222",
+      "40366860",
+      "40451921",
+      "41129075",
+      "40515391",
+      "30488759",
+      "42785349",
+      "42718595",
+      "39576667",
+      "41048978",
+      "41162515",
+      "42668985",
+      "39051924",
+      "34074758",
+      "40775734",
+      "42618942",
+      "42348933",
+      "39504283",
+      "42655610",
+      "32987354",
+      "24825908",
+      "41716413",
+      "41957146",
+      "34639222",
+      "42647569",
+      "30947287",
+      "36131239",
+      "34943859",
+      "24394419",
+      "40198985",
+      "33538038",
+      "26269925",
+      "40029522",
+      "24113167",
+      "39907554",
+      "19222862",
+      "20132225",
+      "39965455",
+      "26928575",
+      "25214434",
+      "41408184",
+      "41257887",
+      "40897689",
+      "38376371",
+      "39823821",
+      "41876710",
+      "25313037",
+      "33096023",
+      "41257586",
+      "41922963",
+      "40828572"
+    ],
+    "review": [
+      "42862872",
+      "38951700",
+      "34639222",
+      "26269925",
+      "24113167"
+    ],
+    "pmc": [
+      "13657290"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014813",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

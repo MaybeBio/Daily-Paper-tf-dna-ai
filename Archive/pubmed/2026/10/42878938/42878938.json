@@ -1,0 +1,177 @@
+{
+  "identity": {
+    "pmid": "42878938",
+    "doi": "10.1007/s10735-026-11004-w",
+    "title": "Network pharmacology-based investigation on the mechanism of aloin in ameliorating atherosclerosis by regulating macrophage polarization."
+  },
+  "content": {
+    "abstract": "Atherosclerosis (AS) is a chronic inflammatory vascular disease in which macrophage polarization plays a pivotal role in plaque progression and stability. Aloin, a major anthraquinone compound isolated from Aloe vera, possesses potent anti-inflammatory activities; however, its therapeutic potential and underlying mechanisms in AS remain insufficiently understood. In the present study, a network pharmacology approach combined with molecular docking, cellular experiments, and animal validation was employed to investigate the protective effects of aloin against AS and elucidate its molecular mechanism. Common targets shared by aloin, macrophage polarization, and AS were identified, followed by protein-protein interaction network construction and GO/KEGG enrichment analyses. Molecular docking demonstrated strong binding affinities of aloin toward key inflammatory targets, particularly NF-kappaB and STAT3. Experimental validation showed that aloin significantly suppressed nitric oxide production in lipopolysaccharide-induced RAW264.7 macrophages and inhibited M1 macrophage polarization while promoting the M2 phenotype, as evidenced by decreased expression of iNOS and TNF-alpha and increased expression of Arg-1 and IL-10. In ApoE-/- mice fed a high-fat diet, aloin markedly reduced aortic plaque formation and alleviated vascular pathological injury. Mechanistically, both in vitro and in vivo analyses revealed that aloin significantly attenuated the phosphorylation of NF-kappaB and STAT3, thereby blocking activation of the NF-kappaB/STAT3 signaling pathway. Collectively, these findings suggest that aloin may contribute to the amelioration of atherosclerotic lesions by modulating macrophage polarization balance through inhibition of NF-kappaB/STAT3 signaling, highlighting its potential as a candidate worthy of further investigation for the prevention and treatment of atherosclerosis.",
+    "keywords": [
+      "Aloin",
+      "Atherosclerosis",
+      "Macrophage polarization",
+      "Molecular docking",
+      "Network pharmacology"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Emodin/analogs & derivatives/pharmacology/therapeutic use/chemistry",
+      "*Atherosclerosis/drug therapy/pathology/metabolism",
+      "*Macrophages/drug effects/metabolism",
+      "Mice",
+      "*Network Pharmacology/methods",
+      "RAW 264.7 Cells",
+      "Molecular Docking Simulation",
+      "NF-kappa B/metabolism",
+      "STAT3 Transcription Factor/metabolism",
+      "*Macrophage Activation/drug effects",
+      "Signal Transduction/drug effects",
+      "Male",
+      "Protein Interaction Maps",
+      "*Cell Polarity/drug effects",
+      "Mice, Inbred C57BL"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tian, Ye",
+        "Mei, Xianghui",
+        "Zeng, Fang",
+        "Li, Baichao",
+        "Du, Wentao",
+        "Chen, Xianru"
+      ],
+      "short_names": [
+        "Tian Y",
+        "Mei X",
+        "Zeng F",
+        "Li B",
+        "Du W",
+        "Chen X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cardiology, Affiliated Hospital of Hebei University of Engineering, Handan, 056000, China.",
+        "School of Medicine, Ningbo University, Ningbo, 315000, China.",
+        "School of Clinical Medicine, Hebei University of Engineering, Handan, 056000, China.",
+        "Department of Gastroenterology, Affiliated Hospital of Hebei University of Engineering, Handan, 056000, China.",
+        "Department of Cardiology, Affiliated Hospital of Hebei University of Engineering, Handan, 056000, China. 1961147104@qq.com.",
+        "Department of Cardiology, Affiliated Hospital of Hebei University of Engineering, Handan, 056000, China. 18303056933@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tian, Ye",
+        "short_name": "Tian Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Hebei University of Engineering, Handan, 056000, China."
+        ]
+      },
+      {
+        "full_name": "Mei, Xianghui",
+        "short_name": "Mei X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Ningbo University, Ningbo, 315000, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Fang",
+        "short_name": "Zeng F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Clinical Medicine, Hebei University of Engineering, Handan, 056000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Baichao",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Affiliated Hospital of Hebei University of Engineering, Handan, 056000, China."
+        ]
+      },
+      {
+        "full_name": "Du, Wentao",
+        "short_name": "Du W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Hebei University of Engineering, Handan, 056000, China. 1961147104@qq.com."
+        ]
+      },
+      {
+        "full_name": "Chen, Xianru",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Affiliated Hospital of Hebei University of Engineering, Handan, 056000, China. 18303056933@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular histology"
+    ],
+    "journal_abbrev": [
+      "J Mol Histol"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42878938"
+    ],
+    "review": [
+      "42878938"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/atherosclerosis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Atherosclerosis"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10735-026-11004-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ARG1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

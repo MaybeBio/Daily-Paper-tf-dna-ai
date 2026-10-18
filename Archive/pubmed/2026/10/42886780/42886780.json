@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42886780",
+    "doi": "10.1126/sciadv.aec0781",
+    "title": "Phosphorylation by CaMKIV regulates the transcriptional repressor activity and half-life of REST/NRSF."
+  },
+  "content": {
+    "abstract": "Repressor Element-1 (RE1)-Silencing Transcription Factor (REST) homeostatically regulates neural activity by repressing a large cluster of neural genes. However, whether REST can be regulated by calcium(2+) (Ca(2+))-activated kinases is unknown. We investigated Ca(2+)/calmodulin-dependent protein kinases (CaMKs) as upstream regulators of REST fate and activity. We show that REST is phosphorylated by CaMKIV at Ser(322) site in the fifth-to-sixth Zn-finger domain linker. A phosphomimic mutant at Ser(322) decreased REST repressor activity and caused its transition to the cytosol, followed by degradation. Molecular dynamics simulations of the phosphomimic REST mutant revealed a sharp decrease in the stability of the REST-RE1 binding interface. Phosphorylation of REST by CaMKIV suppressed the downscaling of excitatory postsynaptic current (EPSC) frequency in response to hyperactivity. Moreover, the homeostatic effects of CaMKIV on EPSC amplitude were inhibited in the absence of REST. The results demonstrate that CaMKIV phosphorylation plays a crucial role in regulating REST levels and repressor activity and that an interplay exists between CaMKIV and REST in homeostatic plasticity mechanisms.",
+    "keywords": [],
+    "mesh_terms": [
+      "Phosphorylation",
+      "RE1-Silencing Transcription Factor",
+      "*Calcium-Calmodulin-Dependent Protein Kinase Type 4/metabolism/chemistry/genetics",
+      "*Repressor Proteins/metabolism/chemistry/genetics",
+      "Animals",
+      "Humans",
+      "Protein Binding",
+      "Molecular Dynamics Simulation",
+      "*Transcription, Genetic",
+      "HEK293 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tsushima Semini, Hanako",
+        "Corradi, Beatrice",
+        "Canevari, Caterina",
+        "Shmal, Dmytro",
+        "Chiacchiaretta, Martina",
+        "Liessi, Nara",
+        "Di Fonzo, Andrea",
+        "Carminati, Emanuele",
+        "Armirotti, Andrea",
+        "Fassio, Anna",
+        "Maragliano, Luca",
+        "Rocchi, Anna",
+        "Benfenati, Fabio"
+      ],
+      "short_names": [
+        "Tsushima Semini H",
+        "Corradi B",
+        "Canevari C",
+        "Shmal D",
+        "Chiacchiaretta M",
+        "Liessi N",
+        "Di Fonzo A",
+        "Carminati E",
+        "Armirotti A",
+        "Fassio A",
+        "Maragliano L",
+        "Rocchi A",
+        "Benfenati F"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3179-4301",
+        "ORCID: 0000-0002-9510-9388",
+        "ORCID: 0009-0004-8931-2680",
+        "ORCID: 0000-0003-1890-3091",
+        "ORCID: 0000-0002-2112-4753",
+        "ORCID: 0009-0001-0495-9978",
+        "ORCID: 0000-0002-3766-8755",
+        "ORCID: 0000-0002-8801-038X",
+        "ORCID: 0000-0002-5705-6967",
+        "ORCID: 0000-0002-0653-8368"
+      ],
+      "affiliations": [
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "Department of Experimental Medicine, Universita degli Studi di Genova, Viale Benedetto XV 3, 16132 Genova, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "Department of Experimental Medicine, Universita degli Studi di Genova, Viale Benedetto XV 3, 16132 Genova, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "Analytical Chemistry Facility, Istituto Italiano di Tecnologia, 16163 Genoa, Italy.",
+        "Analytical Chemistry Facility, Istituto Italiano di Tecnologia, 16163 Genoa, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "Department of Experimental Medicine, Universita degli Studi di Genova, Viale Benedetto XV 3, 16132 Genova, Italy.",
+        "Analytical Chemistry Facility, Istituto Italiano di Tecnologia, 16163 Genoa, Italy.",
+        "Department of Experimental Medicine, Universita degli Studi di Genova, Viale Benedetto XV 3, 16132 Genova, Italy.",
+        "IRCCS Azienda Ospedaliera Metropolitana, Largo Rosanna Benzi 10, 16132 Genova, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "Department of Life and Environmental Sciences, Polytechnic University of Marche, Via Brecce Bianche, 60131 Ancona, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+        "IRCCS Azienda Ospedaliera Metropolitana, Largo Rosanna Benzi 10, 16132 Genova, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tsushima Semini, Hanako",
+        "short_name": "Tsushima Semini H",
+        "identifiers": [
+          "0000-0003-3179-4301"
+        ],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+          "Department of Experimental Medicine, Università degli Studi di Genova, Viale Benedetto XV 3, 16132 Genova, Italy."
+        ]
+      },
+      {
+        "full_name": "Corradi, Beatrice",
+        "short_name": "Corradi B",
+        "identifiers": [
+          "0000-0002-9510-9388"
+        ],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+          "Department of Experimental Medicine, Università degli Studi di Genova, Viale Benedetto XV 3, 16132 Genova, Italy."
+        ]
+      },
+      {
+        "full_name": "Canevari, Caterina",
+        "short_name": "Canevari C",
+        "identifiers": [
+          "0009-0004-8931-2680"
+        ],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy."
+        ]
+      },
+      {
+        "full_name": "Shmal, Dmytro",
+        "short_name": "Shmal D",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy."
+        ]
+      },
+      {
+        "full_name": "Chiacchiaretta, Martina",
+        "short_name": "Chiacchiaretta M",
+        "identifiers": [
+          "0000-0003-1890-3091"
+        ],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy."
+        ]
+      },
+      {
+        "full_name": "Liessi, Nara",
+        "short_name": "Liessi N",
+        "identifiers": [
+          "0000-0002-2112-4753"
+        ],
+        "affiliations": [
+          "Analytical Chemistry Facility, Istituto Italiano di Tecnologia, 16163 Genoa, Italy."
+        ]
+      },
+      {
+        "full_name": "Di Fonzo, Andrea",
+        "short_name": "Di Fonzo A",
+        "identifiers": [
+          "0009-0001-0495-9978"
+        ],
+        "affiliations": [
+          "Analytical Chemistry Facility, Istituto Italiano di Tecnologia, 16163 Genoa, Italy."
+        ]
+      },
+      {
+        "full_name": "Carminati, Emanuele",
+        "short_name": "Carminati E",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+          "Department of Experimental Medicine, Università degli Studi di Genova, Viale Benedetto XV 3, 16132 Genova, Italy."
+        ]
+      },
+      {
+        "full_name": "Armirotti, Andrea",
+        "short_name": "Armirotti A",
+        "identifiers": [
+          "0000-0002-3766-8755"
+        ],
+        "affiliations": [
+          "Analytical Chemistry Facility, Istituto Italiano di Tecnologia, 16163 Genoa, Italy."
+        ]
+      },
+      {
+        "full_name": "Fassio, Anna",
+        "short_name": "Fassio A",
+        "identifiers": [
+          "0000-0002-8801-038X"
+        ],
+        "affiliations": [
+          "Department of Experimental Medicine, Università degli Studi di Genova, Viale Benedetto XV 3, 16132 Genova, Italy.",
+          "IRCCS Azienda Ospedaliera Metropolitana, Largo Rosanna Benzi 10, 16132 Genova, Italy."
+        ]
+      },
+      {
+        "full_name": "Maragliano, Luca",
+        "short_name": "Maragliano L",
+        "identifiers": [
+          "0000-0002-5705-6967"
+        ],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+          "Department of Life and Environmental Sciences, Polytechnic University of Marche, Via Brecce Bianche, 60131 Ancona, Italy."
+        ]
+      },
+      {
+        "full_name": "Rocchi, Anna",
+        "short_name": "Rocchi A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy."
+        ]
+      },
+      {
+        "full_name": "Benfenati, Fabio",
+        "short_name": "Benfenati F",
+        "identifiers": [
+          "0000-0002-0653-8368"
+        ],
+        "affiliations": [
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.",
+          "IRCCS Azienda Ospedaliera Metropolitana, Largo Rosanna Benzi 10, 16132 Genova, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 19:05",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42886780"
+    ],
+    "review": [
+      "42886780"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

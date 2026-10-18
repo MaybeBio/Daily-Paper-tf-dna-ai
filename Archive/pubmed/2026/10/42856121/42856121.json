@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "pmid": "42856121",
+    "doi": "10.64898/2026.09.25.753922",
+    "title": "Genetic risk and inflammatory signaling converge on cell type-specific regulatory programs in type 1 diabetes."
+  },
+  "content": {
+    "abstract": "Type 1 diabetes (T1D) is a complex autoimmune disease characterized by the destruction of insulin-producing pancreatic beta cells. Both genetic susceptibility and epigenetic dysregulation contribute to T1D risk. Recent studies have reported beta-cell dysfunction before disease onset, suggesting that beta-cell-intrinsic mechanisms contribute to pathogenesis. However, the mechanistic link between disease-associated variants and beta-cell dysfunction remains poorly understood. We hypothesized that a subset of T1D-associated variants directly influences cell type-specific candidate cis-regulatory elements (cCREs) by disrupting transcription factor (TF) binding and altering gene expression. To define cell type-specific cCREs in human islets, we integrated publicly available epigenomic datasets, including bulk histone modification profiles and single-cell multiomic data from human pancreatic islets. We combined these data with T1D genome-wide association study (GWAS) variants to identify disease-associated SNPs located within enhancer regions. Using multiomic datasets from PANC-DB, we characterized cell type-specific chromatin accessibility in nondiabetic and T1D islets and identified regulatory regions that may control gene expression in beta cells and other islet cell types. We then applied ChromBPNet, a deep learning model that predicts base-pair-resolution chromatin accessibility from scATAC-seq data, to evaluate how specific variants may alter local regulatory activity. In parallel, we used TF footprinting to nominate TFs likely to bind these variant-containing regions. These analyses identified several T1D-associated SNPs predicted to alter chromatin accessibility at candidate TF binding sites, suggesting mechanisms by which noncoding variants may contribute to beta-cell dysfunction and T1D susceptibility. Our findings link T1D-associated variants to cell type-specific enhancer activity and regulatory pathways and provide candidates for future mechanistic studies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Liu",
+        "Wei, Zong"
+      ],
+      "short_names": [
+        "Wang L",
+        "Wei Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8252-0170",
+        "ORCID: 0000-0002-4691-0101"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Liu",
+        "short_name": "Wang L",
+        "identifiers": [
+          "0000-0001-8252-0170"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wei, Zong",
+        "short_name": "Wei Z",
+        "identifiers": [
+          "0000-0002-4691-0101"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-18 07:09:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856121",
+      "32029221",
+      "29396371",
+      "40737125",
+      "34529725",
+      "35773720",
+      "30524468",
+      "37886586",
+      "37789374",
+      "40375390",
+      "34012112",
+      "28193859",
+      "36778047",
+      "41751598",
+      "42572286",
+      "24920305",
+      "39227839",
+      "42275102",
+      "42523508",
+      "26977395",
+      "35229021",
+      "33777101",
+      "42433374",
+      "24003923",
+      "31676868",
+      "28957321",
+      "26391391",
+      "26936771",
+      "40655014",
+      "31500627",
+      "33795864",
+      "38049589",
+      "23328127",
+      "25211022",
+      "30284014",
+      "41726869",
+      "38948875",
+      "24439111",
+      "33387073",
+      "28212332",
+      "32284404",
+      "36070683",
+      "35784577",
+      "34230558",
+      "30181159",
+      "35660116",
+      "24127591",
+      "34541447",
+      "42771182",
+      "29351903",
+      "34543288",
+      "29913182",
+      "24204704",
+      "39326643",
+      "40929272",
+      "22412385",
+      "37603758",
+      "34774128",
+      "41509220",
+      "39606421",
+      "42619906",
+      "37805453",
+      "30910956",
+      "41153727",
+      "35590387",
+      "38967666",
+      "28052964",
+      "42475469",
+      "34462306",
+      "41473285",
+      "35168626",
+      "34552866",
+      "37231096",
+      "40027657",
+      "27409348",
+      "38012720",
+      "40232951",
+      "39149326",
+      "38947339",
+      "29625024",
+      "41066696",
+      "38050341",
+      "35883430",
+      "33983929",
+      "42481940",
+      "26818008",
+      "37069576",
+      "40653482",
+      "29491471",
+      "41863598",
+      "40931195",
+      "23935528",
+      "38358392",
+      "41945357",
+      "41731605",
+      "39567827",
+      "40196246",
+      "42239198",
+      "42589667",
+      "35638288"
+    ],
+    "review": [
+      "42856121",
+      "40375390",
+      "41751598",
+      "24003923",
+      "26391391",
+      "33387073",
+      "28212332",
+      "29913182"
+    ],
+    "pmc": [
+      "13648395"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.25.753922",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

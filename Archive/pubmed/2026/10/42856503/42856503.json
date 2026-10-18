@@ -1,0 +1,288 @@
+{
+  "identity": {
+    "pmid": "42856503",
+    "doi": "10.64898/2026.09.28.754797",
+    "title": "Interpretable machine learning coupled to gene regulatory networks uncovers subcircuits underlying cell fate decisions."
+  },
+  "content": {
+    "abstract": "Gene regulatory networks (GRNs) model causal linkages that control cell fate decisions and differentiation transitions. Prioritizing regulatory subnetworks underlying cell state differences is of critical importance, but current methods including those reliant on topological metrics introduce circularity as the metrics prioritizing TFs are computed from the same networks whose assumptions they inherit. Separately, interpretable machine learning methods can identify latent factors (LFs) that discriminate cellular states with formal statistical guarantees but do not model regulatory linkages. Here, we present FOCAL (Factor-Outcome Coupling for Assessment of Linkages), a paradigm to prioritize regulatory subnetworks by coupling state-specific and dynamic GRNs with outcome-supervised LFs learned using interpretable machine learning without reference to network topology. This shifts GRN focus from macroscopic TF nodes to state-specific and dynamic TF-gene linkages. In B and T cells, FOCAL identified GIFs (GRNs coupled to Interpretable latent Factors), prioritized regulatory subnetworks underlying established states as well as transient regulatory episodes preceding them. By coupling LFs learnt from perturbation experiments of lineage-defining TFs, FOCAL identified transcriptional predisposition to alternative fates within progenitor cell populations before overt differentiation. This uncovered a novel NFATC2-IRF8 interplay in activated B cells, that was validated by in-vitro and in-vivo genetic perturbations. The two transcription factors act cooperatively to restrain extrafollicular plasmablast differentiation and promote germinal center B cell fate.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rarani, Zarifeh H",
+        "Keshari, Swapnil",
+        "Sachan, Akanksha",
+        "Saini, Ankur",
+        "Pease, Nicholas",
+        "Fan, Jingyu",
+        "Fu, Alayna",
+        "Liu, Yuchen C",
+        "Gurkar, Aditi U",
+        "Delgoffe, Greg M",
+        "Singh, Harinder",
+        "Das, Jishnu"
+      ],
+      "short_names": [
+        "Rarani ZH",
+        "Keshari S",
+        "Sachan A",
+        "Saini A",
+        "Pease N",
+        "Fan J",
+        "Fu A",
+        "Liu YC",
+        "Gurkar AU",
+        "Delgoffe GM",
+        "Singh H",
+        "Das J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6451-9432",
+        "ORCID: 0000-0002-6330-8526",
+        "ORCID: 0000-0002-5747-064X"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Rarani, Zarifeh H",
+        "short_name": "Rarani ZH",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Keshari, Swapnil",
+        "short_name": "Keshari S",
+        "identifiers": [
+          "0000-0001-6451-9432"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sachan, Akanksha",
+        "short_name": "Sachan A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Saini, Ankur",
+        "short_name": "Saini A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pease, Nicholas",
+        "short_name": "Pease N",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Fan, Jingyu",
+        "short_name": "Fan J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Fu, Alayna",
+        "short_name": "Fu A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liu, Yuchen C",
+        "short_name": "Liu YC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gurkar, Aditi U",
+        "short_name": "Gurkar AU",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Delgoffe, Greg M",
+        "short_name": "Delgoffe GM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Singh, Harinder",
+        "short_name": "Singh H",
+        "identifiers": [
+          "0000-0002-6330-8526"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Das, Jishnu",
+        "short_name": "Das J",
+        "identifiers": [
+          "0000-0002-5747-064X"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-18 07:09:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856503",
+      "41498638",
+      "42475469",
+      "36584685",
+      "40667223",
+      "41991769",
+      "29879919",
+      "41067887",
+      "24496624",
+      "26735242",
+      "42059479",
+      "40654959",
+      "41038227",
+      "27580035",
+      "41288963",
+      "28951888",
+      "24228871",
+      "41643202",
+      "42837364",
+      "19014692",
+      "27650846",
+      "42119563",
+      "29769331",
+      "38896510",
+      "32781932",
+      "42395443",
+      "40829640",
+      "42239343",
+      "42249125",
+      "31062304",
+      "42482180",
+      "41000825",
+      "41677026",
+      "41446109",
+      "38354497",
+      "36817475",
+      "40032872",
+      "32054475",
+      "32207875",
+      "37889053",
+      "34251620",
+      "33218352",
+      "28254369",
+      "34189529",
+      "38652107",
+      "38699303",
+      "28052084",
+      "38980373",
+      "37085776",
+      "25416748",
+      "25887857",
+      "40607808",
+      "29440259",
+      "39637134",
+      "40365911",
+      "42119148",
+      "40811358",
+      "42636032",
+      "42013480",
+      "30470703",
+      "39535258",
+      "42752548",
+      "33294129",
+      "40966655",
+      "30961611",
+      "30547796",
+      "37423592",
+      "40894159",
+      "39375864",
+      "40251476",
+      "21613984",
+      "38486083",
+      "42710863",
+      "18682805",
+      "35090587",
+      "32547596",
+      "34986805",
+      "32192535",
+      "41984780",
+      "33613551",
+      "38238840",
+      "37244909",
+      "39030497",
+      "38014297",
+      "27979774",
+      "37788349",
+      "37607190",
+      "42094455",
+      "21423715",
+      "42127893",
+      "35212624",
+      "35976093",
+      "30286071",
+      "28511648",
+      "35172134",
+      "39161769",
+      "39062480",
+      "25971253",
+      "41542560",
+      "41972591"
+    ],
+    "review": [
+      "42856503",
+      "26735242",
+      "36817475",
+      "39637134",
+      "42013480",
+      "40966655",
+      "32547596"
+    ],
+    "pmc": [
+      "13648664"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3399",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.28.754797",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

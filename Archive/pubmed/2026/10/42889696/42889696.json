@@ -1,0 +1,233 @@
+{
+  "identity": {
+    "pmid": "42889696",
+    "doi": "10.3897/imafungus.17.195218",
+    "title": "Population-specific transcriptomic shifts underlie secondary metabolic diversification in Aspergillus flavus Link and the domestication of Aspergillus oryzae (Ahlb.)."
+  },
+  "content": {
+    "abstract": "The genomic signatures of microbial domestication remain poorly understood within the context of natural population variation. Here, we demonstrate that Aspergillus oryzae, the filamentous fungus used in soy sauce and sake production, shares more recent ancestry with a predominantly northern, largely non-aflatoxigenic population of Aspergillus flavus (population C). A. oryzae isolates also overlap with the recently described, clinically enriched A. flavus population D, suggesting multiple domestication events. All isolates tested retained pathogenicity in a zebrafish infection model. At the transcriptomic level, populations are significantly differentiated and respond differently to spore density, suggesting population-specific adaptations to ecological conditions. Although most transcriptomic variation was consistent with phylogenetic relationships, several co-expression modules exhibited significantly greater divergence than expected from phylogeny alone, suggesting that phenotypic diversification may sometimes occur through the reorganization of transcriptomic architectures. A. oryzae also displayed elevated expression of a carbohydrate-metabolism module; however, this pattern was consistent with phylogenetic differentiation, suggesting that enhanced carbohydrate metabolism may have begun evolving prior to domestication or may be most apparent under fermentation-relevant conditions. Population-specific variation is also evident among secondary metabolite (SM) gene clusters. While A. oryzae shows markedly reduced expression of aflatoxin biosynthesis genes, this trend does not extend across the entire secondary metabolome. Using machine-learning-based gene regulatory network inference, we identified population-specific transcriptomic differences linked to distinct transcription factors, with evidence for both cis- and trans-acting regulatory divergence, but no changes in global regulators such as laeA. Together, these findings provide new insights into the domestication of A. oryzae, its global significance, and the microevolution of fungal secondary metabolic pathways.",
+    "keywords": [
+      "Evolution of secondary metabolism",
+      "mycotoxins",
+      "population transcriptomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Drott, Milton T",
+        "Wang, Yen-Wen",
+        "Hatmaker, E Anne",
+        "Mercado-Soto, Nayanna M",
+        "Elmore, J Mitch",
+        "Luciano-Rosaro, Dianiris",
+        "Yu, Jae-Hyuk",
+        "Rokas, Antonis",
+        "Gibbons, John G",
+        "Huttenlocher, Anna",
+        "Yang, Kunlong",
+        "Keller, Nancy P"
+      ],
+      "short_names": [
+        "Drott MT",
+        "Wang YW",
+        "Hatmaker EA",
+        "Mercado-Soto NM",
+        "Elmore JM",
+        "Luciano-Rosaro D",
+        "Yu JH",
+        "Rokas A",
+        "Gibbons JG",
+        "Huttenlocher A",
+        "Yang K",
+        "Keller NP"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9715-2200",
+        "ORCID: 0000-0002-6851-1646",
+        "ORCID: 0000-0002-7821-8160",
+        "ORCID: 0000-0003-3135-9086",
+        "ORCID: 0000-0003-4068-0373",
+        "ORCID: 0000-0002-9947-4729",
+        "ORCID: 0000-0002-6530-8407",
+        "ORCID: 0000-0002-7248-6551",
+        "ORCID: 0000-0003-1282-9345",
+        "ORCID: 0000-0002-9246-101X",
+        "ORCID: 0000-0002-4386-9473"
+      ],
+      "affiliations": [
+        "U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory, St. Paul, MN 55108, USA U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory St. Paul United States of America https://ror.org/04fx69j13.",
+        "Department of Biostatistics, Yale School of Public Health, New Haven, CT, USA Department of Biostatistics, Yale School of Public Health New Haven United States of America.",
+        "U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory, St. Paul, MN 55108, USA U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory St. Paul United States of America https://ror.org/04fx69j13.",
+        "Department of Plant Pathology, University of Georgia, Athens, GA, USA Department of Plant Pathology, University of Georgia Athens United States of America https://ror.org/00te3t702.",
+        "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA Department of Medical Microbiology and Immunology, University of Wisconsin-Madison Madison United States of America https://ror.org/01y2jtd41.",
+        "U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory, St. Paul, MN 55108, USA U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory St. Paul United States of America https://ror.org/04fx69j13.",
+        "U.S. Department of Agriculture-Agricultural Research Service, Food Quality Laboratory, Beltsville, MD, USA U.S. Department of Agriculture-Agricultural Research Service, Food Quality Laboratory Beltsville United States of America.",
+        "Department of Bacteriology, University of Wisconsin, Madison, WI, USA Department of Bacteriology, University of Wisconsin Madison United States of America https://ror.org/01y2jtd41.",
+        "Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA Department of Biological Sciences, Vanderbilt University Nashville United States of America.",
+        "Department of Food Science, College of Natural Sciences, University of Massachusetts Amherst, Amherst, Massachusetts, USA Department of Food Science, College of Natural Sciences, University of Massachusetts Amherst Amherst United States of America https://ror.org/0072zz521.",
+        "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA Department of Medical Microbiology and Immunology, University of Wisconsin-Madison Madison United States of America https://ror.org/01y2jtd41.",
+        "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA Department of Medical Microbiology and Immunology, University of Wisconsin-Madison Madison United States of America https://ror.org/01y2jtd41.",
+        "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA Department of Medical Microbiology and Immunology, University of Wisconsin-Madison Madison United States of America https://ror.org/01y2jtd41.",
+        "Department of Plant Pathology, University of Wisconsin, Madison, WI, USA Department of Plant Pathology, University of Wisconsin Madison United States of America https://ror.org/01y2jtd41."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Drott, Milton T",
+        "short_name": "Drott MT",
+        "identifiers": [
+          "0000-0001-9715-2200"
+        ],
+        "affiliations": [
+          "U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory, St. Paul, MN 55108, USA U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory St. Paul United States of America https://ror.org/04fx69j13."
+        ]
+      },
+      {
+        "full_name": "Wang, Yen-Wen",
+        "short_name": "Wang YW",
+        "identifiers": [
+          "0000-0002-6851-1646"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, Yale School of Public Health, New Haven, CT, USA Department of Biostatistics, Yale School of Public Health New Haven United States of America."
+        ]
+      },
+      {
+        "full_name": "Hatmaker, E Anne",
+        "short_name": "Hatmaker EA",
+        "identifiers": [
+          "0000-0002-7821-8160"
+        ],
+        "affiliations": [
+          "U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory, St. Paul, MN 55108, USA U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory St. Paul United States of America https://ror.org/04fx69j13.",
+          "Department of Plant Pathology, University of Georgia, Athens, GA, USA Department of Plant Pathology, University of Georgia Athens United States of America https://ror.org/00te3t702."
+        ]
+      },
+      {
+        "full_name": "Mercado-Soto, Nayanna M",
+        "short_name": "Mercado-Soto NM",
+        "identifiers": [
+          "0000-0003-3135-9086"
+        ],
+        "affiliations": [
+          "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA Department of Medical Microbiology and Immunology, University of Wisconsin-Madison Madison United States of America https://ror.org/01y2jtd41."
+        ]
+      },
+      {
+        "full_name": "Elmore, J Mitch",
+        "short_name": "Elmore JM",
+        "identifiers": [
+          "0000-0003-4068-0373"
+        ],
+        "affiliations": [
+          "U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory, St. Paul, MN 55108, USA U.S. Department of Agriculture-Agricultural Research Service, Cereal Disease Laboratory St. Paul United States of America https://ror.org/04fx69j13."
+        ]
+      },
+      {
+        "full_name": "Luciano-Rosaro, Dianiris",
+        "short_name": "Luciano-Rosaro D",
+        "identifiers": [
+          "0000-0002-9947-4729"
+        ],
+        "affiliations": [
+          "U.S. Department of Agriculture-Agricultural Research Service, Food Quality Laboratory, Beltsville, MD, USA U.S. Department of Agriculture-Agricultural Research Service, Food Quality Laboratory Beltsville United States of America."
+        ]
+      },
+      {
+        "full_name": "Yu, Jae-Hyuk",
+        "short_name": "Yu JH",
+        "identifiers": [
+          "0000-0002-6530-8407"
+        ],
+        "affiliations": [
+          "Department of Bacteriology, University of Wisconsin, Madison, WI, USA Department of Bacteriology, University of Wisconsin Madison United States of America https://ror.org/01y2jtd41."
+        ]
+      },
+      {
+        "full_name": "Rokas, Antonis",
+        "short_name": "Rokas A",
+        "identifiers": [
+          "0000-0002-7248-6551"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA Department of Biological Sciences, Vanderbilt University Nashville United States of America."
+        ]
+      },
+      {
+        "full_name": "Gibbons, John G",
+        "short_name": "Gibbons JG",
+        "identifiers": [
+          "0000-0003-1282-9345"
+        ],
+        "affiliations": [
+          "Department of Food Science, College of Natural Sciences, University of Massachusetts Amherst, Amherst, Massachusetts, USA Department of Food Science, College of Natural Sciences, University of Massachusetts Amherst Amherst United States of America https://ror.org/0072zz521."
+        ]
+      },
+      {
+        "full_name": "Huttenlocher, Anna",
+        "short_name": "Huttenlocher A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA Department of Medical Microbiology and Immunology, University of Wisconsin-Madison Madison United States of America https://ror.org/01y2jtd41."
+        ]
+      },
+      {
+        "full_name": "Yang, Kunlong",
+        "short_name": "Yang K",
+        "identifiers": [
+          "0000-0002-9246-101X"
+        ],
+        "affiliations": [
+          "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA Department of Medical Microbiology and Immunology, University of Wisconsin-Madison Madison United States of America https://ror.org/01y2jtd41."
+        ]
+      },
+      {
+        "full_name": "Keller, Nancy P",
+        "short_name": "Keller NP",
+        "identifiers": [
+          "0000-0002-4386-9473"
+        ],
+        "affiliations": [
+          "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA Department of Medical Microbiology and Immunology, University of Wisconsin-Madison Madison United States of America https://ror.org/01y2jtd41.",
+          "Department of Plant Pathology, University of Wisconsin, Madison, WI, USA Department of Plant Pathology, University of Wisconsin Madison United States of America https://ror.org/01y2jtd41."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "IMA fungus"
+    ],
+    "journal_abbrev": [
+      "IMA Fungus"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 23:12",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42889696"
+    ],
+    "review": [
+      "42889696"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

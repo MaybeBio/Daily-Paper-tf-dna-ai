@@ -1,0 +1,164 @@
+{
+  "identity": {
+    "pmid": "42883216",
+    "doi": "10.3390/molecules31193451",
+    "title": "Green Extraction and Molecular Docking-Guided Discovery of Asiaticoside as a Multi-Target Modulator of the SIRT1/HMGB1/p53-p21 Axis in H(2)O(2)-Induced Senescent Endothelial Cells."
+  },
+  "content": {
+    "abstract": "Endothelial cell senescence is a key contributor to vascular ageing and cardiovascular diseases. Asiaticoside, a pentacyclic triterpenoid saponin from Centella asiatica, exhibits anti-inflammatory and antioxidant activities, yet its potential to modulate endothelial senescence remains unexplored. Herein, we report the molecular docking-guided discovery of asiaticoside as a multi-target modulator of the SIRT1/HMGB1/p53-p21 senescence regulatory axis. Asiaticoside was isolated via a green acid-hydrolysis strategy using dilute HCl as the extraction solvent, followed by polyamide enrichment and C(18) reversed-phase purification (purity > 98%). Molecular docking revealed that asiaticoside binds favourably to SIRT1 (-8.1 kcal mol(-1)), the HMGB1-DNA complex (-10.7 kcal mol(-1)), and several senescence-associated secretory phenotype (SASP)-related inflammatory cytokines. In H(2)O(2)-induced senescent human umbilical vein endothelial cells (HUVECs), asiaticoside at 100 muM significantly reduced senescence-associated beta-galactosidase activity and alleviated G0/G1 cell cycle arrest without cytotoxicity. Mechanistically, asiaticoside restored SIRT1 expression, suppressed the secretion of IL-1beta, IL-6, IL-8, TNF-alpha, and HMGB1, downregulated p21 at both mRNA and protein levels, reduced p53 protein expression, and suppressed p16 mRNA expression. These findings demonstrate that asiaticoside attenuates endothelial senescence and SASP-driven inflammation, an effect associated with restoration of SIRT1 expression and suppression of the HMGB1/p53-p21 pathway.",
+    "keywords": [
+      "HMGB1",
+      "HUVECs",
+      "SASP",
+      "SIRT1",
+      "asiaticoside",
+      "endothelial senescence",
+      "green extraction",
+      "molecular docking"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Sirtuin 1/metabolism/chemistry",
+      "Molecular Docking Simulation",
+      "*Triterpenes/pharmacology/chemistry/isolation & purification",
+      "*Cellular Senescence/drug effects",
+      "*HMGB1 Protein/metabolism/chemistry",
+      "*Cyclin-Dependent Kinase Inhibitor p21/metabolism",
+      "*Tumor Suppressor Protein p53/metabolism",
+      "Human Umbilical Vein Endothelial Cells/metabolism/drug effects",
+      "*Hydrogen Peroxide/pharmacology",
+      "Signal Transduction/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Wenkai",
+        "Huang, Jianhua",
+        "Zeng, Fei",
+        "Wang, Yuping",
+        "Liu, Xiong",
+        "Wang, Junjie",
+        "Liu, Siyu"
+      ],
+      "short_names": [
+        "Li W",
+        "Huang J",
+        "Zeng F",
+        "Wang Y",
+        "Liu X",
+        "Wang J",
+        "Liu S"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-9918-3114",
+        "ORCID: 0000-0002-1555-1812"
+      ],
+      "affiliations": [
+        "School of Pharmacy, Xiangnan University, Chenzhou 423000, China.",
+        "School of Pharmacy, Xiangnan University, Chenzhou 423000, China.",
+        "School of Pharmacy, Xiangnan University, Chenzhou 423000, China.",
+        "School of Pharmacy, Xiangnan University, Chenzhou 423000, China.",
+        "School of Pharmacy, Xiangnan University, Chenzhou 423000, China.",
+        "Institute of Industrial Technology, Xiangnan University, Chenzhou 423000, China.",
+        "School of Pharmacy, Xiangnan University, Chenzhou 423000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Wenkai",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Xiangnan University, Chenzhou 423000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jianhua",
+        "short_name": "Huang J",
+        "identifiers": [
+          "0009-0004-9918-3114"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Xiangnan University, Chenzhou 423000, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Fei",
+        "short_name": "Zeng F",
+        "identifiers": [
+          "0000-0002-1555-1812"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Xiangnan University, Chenzhou 423000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuping",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Xiangnan University, Chenzhou 423000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiong",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Xiangnan University, Chenzhou 423000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Junjie",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Industrial Technology, Xiangnan University, Chenzhou 423000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Siyu",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Xiangnan University, Chenzhou 423000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883216"
+    ],
+    "review": [
+      "42883216"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

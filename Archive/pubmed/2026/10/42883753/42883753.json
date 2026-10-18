@@ -1,0 +1,127 @@
+{
+  "identity": {
+    "pmid": "42883753",
+    "doi": "10.3390/ijms27198505",
+    "title": "Calycosin Attenuates LPS-Induced Cardiomyocyte Injury Through Regulation of the PPARgamma/NF-kappaB Signaling Pathway."
+  },
+  "content": {
+    "abstract": "Calycosin (CAL) is an isoflavone monomer derived from Astragalus membranaceus that possesses potent anti-inflammatory and antioxidative pharmacological activities. However, the specific role of CAL in lipopolysaccharide (LPS)-induced inflammatory injury in cardiomyocytes remains to be elucidated. In this study, we established an in vitro inflammatory injury model using LPS-stimulated H9c2 cardiomyocytes to evaluate the cardioprotective effects of CAL. We assessed cell viability, live/dead cell staining, oxidative stress markers, inflammatory cytokine profiles, and cardiac injury biomarkers to characterize the protective efficacy of CAL. Quantitative proteomics combined with bioinformatics analysis was employed to explore the underlying mechanisms. Molecular docking and molecular dynamics simulations were performed to analyze the predicted binding affinity and complex stability between CAL and the target proteins PPARgamma and NF-kappaB. PPARgamma and NF-kappaB mRNA and protein levels were measured by qPCR and Western blotting, and rescue experiments with the PPARgamma-specific inhibitor GW9662 were performed to validate target dependency. Our results demonstrated that CAL exerted significant protective effects against LPS-induced cardiomyocyte injury, effectively enhancing cell viability, reducing cell death, alleviating intracellular ROS accumulation, modulating oxidative stress-related parameters, suppressing excessive inflammatory responses, and decreasing the release of cardiac injury biomarkers. Proteomic analysis revealed that differentially expressed proteins were significantly enriched in the PPAR signaling pathway. Molecular simulations predicted that CAL binds stably to both PPARgamma and NF-kappaB. PCR and Western blotting results showed that CAL upregulated PPARgamma and suppressed NF-kappaB-mediated pro-inflammatory gene expression at both the mRNA and protein levels. Notably, pharmacological blockade of PPARgamma with GW9662 partially abolished the cardioprotective effects of CAL. Collectively, these findings indicate that CAL ameliorates LPS-induced inflammatory injury in H9c2 cardiomyocytes through a protective mechanism that depends on activation of PPARgamma and subsequent inhibition of the NF-kappaB signaling pathway.",
+    "keywords": [
+      "PPARgamma signalling network",
+      "calycosin",
+      "cardiomyocyte injury",
+      "inflammation",
+      "oxidative stress"
+    ],
+    "mesh_terms": [
+      "*Isoflavones/pharmacology/chemistry",
+      "*PPAR gamma/metabolism/chemistry",
+      "*Myocytes, Cardiac/drug effects/metabolism/pathology",
+      "*Lipopolysaccharides/toxicity",
+      "*NF-kappa B/metabolism",
+      "Animals",
+      "*Signal Transduction/drug effects",
+      "Rats",
+      "Cell Line",
+      "Oxidative Stress/drug effects",
+      "Cell Survival/drug effects",
+      "Molecular Docking Simulation",
+      "Molecular Dynamics Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Rui",
+        "Wang, Zhiwang",
+        "Liu, Wuzhou",
+        "Liang, Keke"
+      ],
+      "short_names": [
+        "Zhao R",
+        "Wang Z",
+        "Liu W",
+        "Liang K"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-5799-0231"
+      ],
+      "affiliations": [
+        "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou 730000, China.",
+        "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou 730000, China.",
+        "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou 730000, China.",
+        "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou 730000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Rui",
+        "short_name": "Zhao R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou 730000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhiwang",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou 730000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Wuzhou",
+        "short_name": "Liu W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou 730000, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Keke",
+        "short_name": "Liang K",
+        "identifiers": [
+          "0009-0001-5799-0231"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou 730000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883753"
+    ],
+    "review": [
+      "42883753"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

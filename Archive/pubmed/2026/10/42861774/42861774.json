@@ -1,0 +1,259 @@
+{
+  "identity": {
+    "pmid": "42861774",
+    "doi": "10.1155/cdr/2843754",
+    "title": "Esmolol Alleviates Sepsis-Associated Myocardial Injury by Acting on the APAF1 and JAK2/STAT3 Inflammatory Pathways."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: The aim of this study is to explore the protective effect of esmolol against sepsis-associated myocardial injury (SAMI) and its underlying molecular mechanisms. METHODS: SAMI-related differentially expressed genes were identified from the Gene Expression Omnibus database (GSE267388). Potential targets of esmolol were predicted using PharmMapper. Overlapping genes were used for enrichment and molecular docking analyses. H9C2 cells were treated with LPS to establish an injury model, followed by esmolol treatment. Cell viability, apoptosis, oxidative stress, and mitochondrial function were also assessed. The expressions of apoptotic protease activating factor 1 (APAF1) and JAK2/STAT3 pathway molecules were detected using reverse transcription-quantitative polymerase chain reaction (RT-qPCR) and Western blotting. A rat model of sepsis was used to verify cardiac function, inflammation, oxidative stress, and related protein expression. RESULTS: Six core targets were screened, and esmolol showed the strongest binding to APAF1. Esmolol increased cell viability; reduced apoptosis, ROS, and MDA; restored mitochondrial membrane potential; downregulated APAF1, Bax, cleaved-caspase-9/3; and suppressed JAK2/STAT3 phosphorylation. Esmolol reversed APAF1 overexpression-induced injury. In vivo, esmolol alleviated myocardial pathological injury, decreased the concentrations of myocardial markers and inflammatory factors, and inhibited the APAF1 and JAK2/STAT3 pathways. CONCLUSION: Esmolol protects against SAMI by dual inhibition of the APAF1 mitochondrial apoptotic and JAK2/STAT3 inflammatory pathways, with APAF1 likely serving as a key downstream target of esmolol.",
+    "keywords": [
+      "APAF1",
+      "apoptosis",
+      "esmolol",
+      "inflammation",
+      "sepsis-associated myocardial injury"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*STAT3 Transcription Factor/metabolism",
+      "*Janus Kinase 2/metabolism",
+      "*Sepsis/complications/drug therapy/enzymology/pathology",
+      "Signal Transduction",
+      "Apoptosis/drug effects",
+      "Disease Models, Animal",
+      "Oxidative Stress/drug effects",
+      "*Apoptotic Protease-Activating Factor 1/metabolism/genetics",
+      "*Myocytes, Cardiac/drug effects/pathology/enzymology",
+      "Cell Line",
+      "Male",
+      "*Propanolamines/pharmacology",
+      "*Anti-Inflammatory Agents/pharmacology",
+      "Rats, Sprague-Dawley",
+      "Rats",
+      "*Inflammation Mediators/metabolism",
+      "Mitochondria, Heart/drug effects/pathology/enzymology",
+      "*Heart Diseases/prevention & control/pathology/enzymology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Lei",
+        "Dong, Hua",
+        "Dong, Shimin"
+      ],
+      "short_names": [
+        "Zhao L",
+        "Dong H",
+        "Dong S"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-9683-998X",
+        "ORCID: 0009-0003-7534-6284",
+        "ORCID: 0009-0008-5431-1943"
+      ],
+      "affiliations": [
+        "Department of Emergency Medicine, Hebei Medical University Fourth Hospital, Shijiazhuang, Hebei, China.",
+        "Department of Radiation Oncology, Hebei Medical University Fourth Hospital, Shijiazhuang, Hebei, China.",
+        "Department of Emergency, Hebei Medical University Third Hospital, Shijiazhuang, Hebei, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Lei",
+        "short_name": "Zhao L",
+        "identifiers": [
+          "0009-0005-9683-998X"
+        ],
+        "affiliations": [
+          "Department of Emergency Medicine, Hebei Medical University Fourth Hospital, Shijiazhuang, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Hua",
+        "short_name": "Dong H",
+        "identifiers": [
+          "0009-0003-7534-6284"
+        ],
+        "affiliations": [
+          "Department of Radiation Oncology, Hebei Medical University Fourth Hospital, Shijiazhuang, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Shimin",
+        "short_name": "Dong S",
+        "identifiers": [
+          "0009-0008-5431-1943"
+        ],
+        "affiliations": [
+          "Department of Emergency, Hebei Medical University Third Hospital, Shijiazhuang, Hebei, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cardiovascular therapeutics"
+    ],
+    "journal_abbrev": [
+      "Cardiovasc Ther"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 11:41",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42861774",
+      "42241977",
+      "40899121",
+      "41917427",
+      "39400781",
+      "39623277",
+      "38518637",
+      "41652232",
+      "34162128",
+      "42641547",
+      "35126626",
+      "41696987",
+      "29393473",
+      "41437212",
+      "23796350",
+      "26806299",
+      "40768888",
+      "26775564",
+      "42409347",
+      "39537043",
+      "33210595",
+      "39823793",
+      "42043457",
+      "34489160",
+      "42302946",
+      "42011617",
+      "39293311",
+      "32683850",
+      "42462475",
+      "42718780",
+      "41456630",
+      "42543346",
+      "41605309",
+      "42488940",
+      "37813285",
+      "29392420",
+      "30983593",
+      "28522550",
+      "33818552",
+      "39426573",
+      "31364140",
+      "42310989",
+      "31210324",
+      "41949569",
+      "41740623",
+      "29568942",
+      "32673665",
+      "33710777",
+      "41794278",
+      "41494591",
+      "37671635",
+      "38771126",
+      "40956785",
+      "29130998",
+      "41510919",
+      "31606729",
+      "31885809",
+      "25894538",
+      "42543306",
+      "32821085",
+      "31264277",
+      "41391279",
+      "34037971",
+      "34311527",
+      "39405898",
+      "31028804",
+      "41085788",
+      "33418304",
+      "32592888",
+      "31142701",
+      "28810537",
+      "42350800",
+      "31546082",
+      "41482061",
+      "28962085",
+      "27372651",
+      "30021198",
+      "32095825",
+      "39182268",
+      "42864290",
+      "34369901",
+      "33628378",
+      "40755506",
+      "39415524",
+      "38517565",
+      "40977551",
+      "31957855",
+      "29394239",
+      "42580140",
+      "30839512",
+      "34516361",
+      "41023284",
+      "40111530",
+      "42556489",
+      "31084615",
+      "33275272",
+      "42083524",
+      "39463229",
+      "40338919",
+      "33395603"
+    ],
+    "review": [
+      "42861774",
+      "40768888"
+    ],
+    "pmc": [
+      "13656344"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/heartdiseases.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Heart Diseases"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/cdr/2843754",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BAX-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

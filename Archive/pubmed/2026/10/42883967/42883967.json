@@ -1,0 +1,121 @@
+{
+  "identity": {
+    "pmid": "42883967",
+    "doi": "10.3390/ijms27198726",
+    "title": "Spatiotemporal Multi-Omics and Compartment-Resolved Metabolomic Analyses Reveal the Mechanisms and Core Regulatory Networks of Cuticular Wax Formation in Blueberry Fruits."
+  },
+  "content": {
+    "abstract": "The cuticular wax (bloom) of blueberries is crucial for postharvest storability and commercial value, yet the regulatory networks underlying its formation remain elusive. Here, we integrated scanning electron microscopy (SEM) with transcriptomic and compartment-resolved metabolomic analyses to elucidate the dynamic establishment of epicuticular wax in blueberry 'Bluecrop'. SEM revealed an ordered transition of wax crystals from a sparse fibrous structure at the green stage to a dense sponge-like three-dimensional network at maturity. Parallel untargeted liquid chromatography-tandem mass spectrometry (LC-MS/MS) metabolomics of the whole fruit (intracellular precursor pool) and epicuticular wax (extracellular assembly layer) captured the spatiotemporal surge of key triterpenoids, such as oleanolic and ursolic acids, the major constituents associated with wax crystal coarsening. Through weighted gene co-expression network analysis (WGCNA) and LASSO machine learning, we identified co-expression modules, most notably Turquoise, that were closely associated with lipid and triterpenoid synthesis. Hub genes, including a putative VcMYB96 transcription factor and plasma membrane-localized VcABCG-like transporters, are hypothesized to mediate carbon flux reallocation and transmembrane export of hydrophobic precursors. This study provides a \"phenotype-transcriptome-metabolome\" framework and candidate targets for functional validation and molecular breeding of blueberry cultivars with superior bloom traits.",
+    "keywords": [
+      "ABC transporter",
+      "WGCNA",
+      "blueberry",
+      "epicuticular wax",
+      "multi-omics analysis",
+      "triterpenoids"
+    ],
+    "mesh_terms": [
+      "*Waxes/metabolism",
+      "*Fruit/metabolism/genetics",
+      "*Blueberry Plants/metabolism/genetics",
+      "*Metabolomics/methods",
+      "Multiomics",
+      "*Gene Regulatory Networks",
+      "Gene Expression Regulation, Plant",
+      "Gene Expression Profiling",
+      "Transcriptome",
+      "Metabolome"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Shaopeng",
+        "Cheng, Yuxuan",
+        "Zhuang, Qianqian",
+        "Zhang, Yujie"
+      ],
+      "short_names": [
+        "Chen S",
+        "Cheng Y",
+        "Zhuang Q",
+        "Zhang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Agriculture, Jilin Agricultural Science and Technology College, Jilin 132101, China.",
+        "College of Agriculture, Jilin Agricultural Science and Technology College, Jilin 132101, China.",
+        "College of Agriculture, Jilin Agricultural Science and Technology College, Jilin 132101, China.",
+        "College of Agriculture, Jilin Agricultural Science and Technology College, Jilin 132101, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Shaopeng",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture, Jilin Agricultural Science and Technology College, Jilin 132101, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Yuxuan",
+        "short_name": "Cheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture, Jilin Agricultural Science and Technology College, Jilin 132101, China."
+        ]
+      },
+      {
+        "full_name": "Zhuang, Qianqian",
+        "short_name": "Zhuang Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture, Jilin Agricultural Science and Technology College, Jilin 132101, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yujie",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture, Jilin Agricultural Science and Technology College, Jilin 132101, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883967"
+    ],
+    "review": [
+      "42883967"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

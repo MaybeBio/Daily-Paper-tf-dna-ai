@@ -1,0 +1,221 @@
+{
+  "identity": {
+    "pmid": "42870290",
+    "doi": "10.1186/s12967-026-08655-4",
+    "title": "PF4 drives mechanical overload-induced temporomandibular joint osteoarthritis through TLR2-dependent activation of NF-kappaB."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Mechanical overload‑related cytokines contribute to temporomandibular joint osteoarthritis (TMJOA) pathogenesis. This study investigated the role of overload‑associated platelet factor 4 (PF4). METHODS: Combined proteomic screening of human TMJOA synovial fluid (SF) and finite element simulation identified mechanically linked cytokines. A rat unilateral anterior crossbite (UAC) model was used to induce TMJ cartilage degeneration. To dissect the mechanism, primary rat TMJ chondrocytes were treated with PF4 and analyzed by transcriptomics and functional assays. Further, specific inhibitors targeting the canonical nuclear factor‑kappaB (NF-kappaB) pathway (TPCA-1) or TLR2 (C29) were applied in vitro to pinpoint the signaling cascade. Their potential therapeutic effects were further assessed by administration in the UAC model. RESULTS: Clinical samples revealed elevated PF4 levels in the SF of TMJOA patients, correlating with simulated mechanical stress at the condyle. In a rat UAC model, mechanical overload similarly upregulated PF4 in TMJ, concomitant with cartilage degeneration, anabolic-catabolic imbalance, and cellular senescence. In vitro, PF4 stimulation of primary chondrocytes suppressed anabolic markers while upregulating catabolic factors and senescence markers. Mechanistically, PF4 uniquely activated the canonical NF-kappaB pathway by directly engaging surface TLR2, bypassing its classical chemokine receptor C-X-C motif chemokine receptor 3 (CXCR3). This PF4-TLR2 interaction was both necessary and sufficient for downstream NF-kappaB-driven gene dysregulation. Notably, this PF4-TLR2 axis upregulates B-cell CLL/lymphoma 3 (BCL3), which in turn promotes pathway activation by accelerating early phosphorylation of p65, revealing an intrinsic feedback loop that fine-tunes the inflammatory response. In vivo, inhibition of TLR2 or canonical NF-kappaB signaling in the UAC model significantly mitigated overload-induced cartilage dysregulation and subchondral bone damage. CONCLUSION: We delineate a novel mechanotransduction pathway in TMJOA, where overload-induced PF4 acts as an alarmin that signals through TLR2 to activate the canonical NF-kappaB cascade, a process further amplified by the downstream regulator BCL3, ultimately disrupting cartilage homeostasis. This work establishes the PF4-TLR2-NF-kappaB axis as a crucial pathogenic driver and a promising therapeutic target for load-related TMJ degeneration.",
+    "keywords": [
+      "Chondrocyte",
+      "Mechanical overload",
+      "Mechanosignalling mechanisms",
+      "Osteoarthritis",
+      "Temporomandibular joint"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Toll-Like Receptor 2/metabolism",
+      "*NF-kappa B/metabolism",
+      "*Osteoarthritis/pathology/metabolism",
+      "Humans",
+      "*Temporomandibular Joint/pathology",
+      "Chondrocytes/metabolism/pathology",
+      "Rats, Sprague-Dawley",
+      "*Stress, Mechanical",
+      "Signal Transduction",
+      "Male",
+      "Female",
+      "Disease Models, Animal",
+      "Synovial Fluid/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Wei",
+        "Wu, Jiashun",
+        "Liu, Yu",
+        "Li, Xiang",
+        "Zeng, Guozhong",
+        "Li, Kan",
+        "Su, Kai",
+        "Xia, Juan",
+        "Zheng, Guangsen"
+      ],
+      "short_names": [
+        "Sun W",
+        "Wu J",
+        "Liu Y",
+        "Li X",
+        "Zeng G",
+        "Li K",
+        "Su K",
+        "Xia J",
+        "Zheng G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China. suk@mail.sysu.edu.cn.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China. suk@mail.sysu.edu.cn.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China. xiajuan@mail.sysu.edu.cn.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China. xiajuan@mail.sysu.edu.cn.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China. zhenggs@mail.sysu.edu.cn.",
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China. zhenggs@mail.sysu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Wei",
+        "short_name": "Sun W",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiashun",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yu",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiang",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Guozhong",
+        "short_name": "Zeng G",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China."
+        ]
+      },
+      {
+        "full_name": "Li, Kan",
+        "short_name": "Li K",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China."
+        ]
+      },
+      {
+        "full_name": "Su, Kai",
+        "short_name": "Su K",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China. suk@mail.sysu.edu.cn.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China. suk@mail.sysu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xia, Juan",
+        "short_name": "Xia J",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China. xiajuan@mail.sysu.edu.cn.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China. xiajuan@mail.sysu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zheng, Guangsen",
+        "short_name": "Zheng G",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital of Stomatology, Guanghua School of Stomatology, Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, No.56 Lingyuanxi Rd., Yuexiu District, Guangzhou, Guangdong Province, 510055, China. zhenggs@mail.sysu.edu.cn.",
+          "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, No. 56 Lingyuan West Road, Yuexiu, Guangzhou, 510055, China. zhenggs@mail.sysu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of translational medicine"
+    ],
+    "journal_abbrev": [
+      "J Transl Med"
+    ],
+    "pub_date": "2026 Jul 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42870290"
+    ],
+    "review": [
+      "42870290"
+    ],
+    "pmc": [
+      "13663249"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-026-08655-4",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/osteoarthritis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Osteoarthritis"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-5615",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "identity": {
+    "pmid": "42884100",
+    "doi": "10.3390/ijms27198858",
+    "title": "Nanoscale Analysis of SSB-RecO Interplay in SSB Interaction with the Target."
+  },
+  "content": {
+    "abstract": "Single-stranded DNA-binding protein (SSB) coats single-stranded DNA (ssDNA) and recruits downstream factors, yet this same coating must be cleared for SSB-interacting proteins to bind. RecA is a central protein in homologous recombination, which requires SSB-free ssDNA to load during the process. RecO, a recombination mediator protein, is thought to regulate this handoff, but it has not been shown directly that RecO drives the release of full-length, ssDNA-bound SSB. Using atomic force microscopy, we show that RecO actively displaces full-length wild-type SSB from a defined ssDNA substrate, reducing occupancy from 67% to 29%. Displacement efficiency decreases after deleting the C-terminal tip of SSB (DeltaC8) or after adding a single alanine at the C-terminus of SSB (A179). Molecular dynamics simulations show that A179 retains its native RecO contact but additionally engages a non-native surface, producing a specific, over-engaged complex, suggesting that these interprotein interactions may affect SSB-ssDNA contacts. Together, these findings suggest that RecO-driven SSB clearance is governed by the protein-protein interface rather than by ssDNA-binding affinity alone, thereby acting as a checkpoint against indiscriminate SSB removal during genome maintenance.",
+    "keywords": [
+      "AFM",
+      "E. coli RecO",
+      "E. coli SSB",
+      "single molecule"
+    ],
+    "mesh_terms": [
+      "*DNA-Binding Proteins/metabolism/chemistry/genetics",
+      "*DNA, Single-Stranded/metabolism/chemistry",
+      "*Escherichia coli Proteins/metabolism/chemistry/genetics",
+      "Protein Binding",
+      "Microscopy, Atomic Force",
+      "Molecular Dynamics Simulation",
+      "*Escherichia coli/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Irukuvajjula, Shivkumar Sharma",
+        "Filliaux, Shaun",
+        "Lyubchenko, Yuri L"
+      ],
+      "short_names": [
+        "Irukuvajjula SS",
+        "Filliaux S",
+        "Lyubchenko YL"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3901-6213",
+        "ORCID: 0000-0003-0462-5203",
+        "ORCID: 0000-0001-9721-8302"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Sciences, University of Nebraska Medical Center, Omaha, NE 68198, USA.",
+        "Department of Pharmaceutical Sciences, University of Nebraska Medical Center, Omaha, NE 68198, USA.",
+        "Department of Pharmaceutical Sciences, University of Nebraska Medical Center, Omaha, NE 68198, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Irukuvajjula, Shivkumar Sharma",
+        "short_name": "Irukuvajjula SS",
+        "identifiers": [
+          "0000-0003-3901-6213"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, University of Nebraska Medical Center, Omaha, NE 68198, USA."
+        ]
+      },
+      {
+        "full_name": "Filliaux, Shaun",
+        "short_name": "Filliaux S",
+        "identifiers": [
+          "0000-0003-0462-5203"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, University of Nebraska Medical Center, Omaha, NE 68198, USA."
+        ]
+      },
+      {
+        "full_name": "Lyubchenko, Yuri L",
+        "short_name": "Lyubchenko YL",
+        "identifiers": [
+          "0000-0001-9721-8302"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, University of Nebraska Medical Center, Omaha, NE 68198, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42884100"
+    ],
+    "review": [
+      "42884100"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

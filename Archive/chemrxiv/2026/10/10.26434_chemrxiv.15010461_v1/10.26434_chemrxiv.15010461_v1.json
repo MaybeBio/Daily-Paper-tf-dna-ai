@@ -1,0 +1,178 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15010461/v1",
+  "title": "The eventful journey of a ligand in and out of the binding site",
+  "doi": "10.26434/chemrxiv.15010461/v1",
+  "abstract": "The route a ligand follows to reach and leave a protein binding site typically involves complex molecular mechanisms that shape its efficacy as a biologically active compound. These mechanisms are reflected in the binding and unbinding kinetics, which often predict biological activity better than binding affinity alone, yet their calculation remains a bottleneck in ligand characterization. Here, we propose an approach that combines committor-based enhanced sampling with spectral analysis of the infinitesimal generator to characterize in detail how a ligand reaches the binding site of a protein and is eventually expelled. Applied to the paradigmatic benzamidine (BEN)–trypsin complex and the congeneric para-amino benzamidine (PAB), this framework reveals distinct and multifaceted binding pathways for the two ligands, uncovering a previously uncharacterized BEN binding site that competes with the crystallographic site, while identifying a common rotational bottleneck for unbinding. The computed unbinding free energies closely agree with experimental measurements. The spectral decomposition of the infinitesimal generator provides access to the slow dynamical modes of the system. From the slowest mode, we derive residence times and kinetic rate constants that agree with available experimental data and with independent OPES flooding simulations, while requiring substantially less computational effort. This approach offers a privileged perspective to resolve the complexity of protein–ligand binding-unbinding process, with potential applications to ligand screening and the characterization of multiple binding sites.",
+  "authors": [
+    "Alessandro Berselli",
+    "Michele Parrinello"
+  ],
+  "published_date": "2026-10-14",
+  "updated_date": "2026-10-14T09:11:19Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15010461/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010461/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T09:50:49Z",
+        "timestamp": 1791971449493,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>The route a ligand follows to reach and leave a protein binding site typically involves complex molecular mechanisms that shape its efficacy as a biologically active compound. These mechanisms are reflected in the binding and unbinding kinetics, which often predict biological activity better than binding affinity alone, yet their calculation remains a bottleneck in ligand characterization. Here, we propose an approach that combines committor-based enhanced sampling with spectral analysis of the infinitesimal generator to characterize in detail how a ligand reaches the binding site of a protein and is eventually expelled. Applied to the paradigmatic benzamidine (BEN)–trypsin complex and the congeneric para-amino benzamidine (PAB), this framework reveals distinct and multifaceted binding pathways for the two ligands, uncovering a previously uncharacterized BEN binding site that competes with the crystallographic site, while identifying a common rotational bottleneck for unbinding. The computed unbinding free energies closely agree with experimental measurements. The spectral decomposition of the infinitesimal generator provides access to the slow dynamical modes of the system. From the slowest mode, we derive residence times and kinetic rate constants that agree with available experimental data and with independent OPES flooding simulations, while requiring substantially less computational effort. This approach offers a privileged perspective to resolve the complexity of protein–ligand binding-unbinding process, with potential applications to ligand screening and the characterization of multiple binding sites.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15010461/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T09:11:19Z",
+        "timestamp": 1791969079000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "The eventful journey of a ligand in and out of the binding site"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2241-3530",
+          "authenticated-orcid": true,
+          "given": "Alessandro",
+          "family": "Berselli",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Atomistic Simulations",
+              "place": [
+                "Genova, Italy"
+              ]
+            },
+            {
+              "name": "Italian Institute of Technology",
+              "place": [
+                "Genova, Italy"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michele",
+          "family": "Parrinello",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Atomistic Simulations",
+              "place": [
+                "Genova, Italy"
+              ]
+            },
+            {
+              "name": "Italian Institute of Technology",
+              "place": [
+                "Genova, Italy"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010461/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T09:11:19Z",
+        "timestamp": 1791969079000
+      },
+      "score": 111.12525,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010461/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15010461/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

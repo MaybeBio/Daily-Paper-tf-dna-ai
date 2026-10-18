@@ -1,0 +1,174 @@
+{
+  "identity": {
+    "pmid": "42872656",
+    "doi": "10.2174/0115734099489718260910060820",
+    "title": "In silico and Network Pharmacology Identification of Acacia senegal Phytochemicals as Potential alpha-Amylase Inhibitors."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Diabetes mellitus is a rapidly expanding chronic disease, prompting interest in plant-derived natural products as adjuncts to conventional therapy because of their improvements in glycaemic control and reduced complications. To evaluate phytochemicals' potential as alpha-amylase inhibitors using an integrated in-silico workflow. METHODS: Acacia senegal phytochemicals retrieved from the IMPPAT 2.0 database were evaluated their in-silico studies against alpha-amylase inhibitors using molecular docking, DFT, pharmacokinetic and toxicity profiling, in addition to PASS prediction, network pharmacology and MD simulations. RESULTS: Docking of 31 compounds was carried out, and the top three ligands, which are: IMPHY014840 (-9.321 kcal/mol), IMPHY014838 (-9.208 kcal/mol) and IMPHY006972 (-9.026 kcal/mol), were selected. Their favorable binding energies indicated strong predicted affinity toward the selected enzyme target. DFT calculations showed identical HOMO-LUMO gaps of 6.936 eV for the first two ligands, whereas the third one displayed a larger gap of 9.484 eV, indicating lower chemical reactivity. Furthermore, pharmacokinetic screening indicated high human intestinal absorption (75-86 %) and favorable Caco-2 permeability for the top three compounds, particularly for IMPHY014840 and IMPHY014838. PASS analysis suggested protease target affinity for IMPHY014840 and GPCR/transcription factor activity for IMPHY014838, expanding their therapeutic scope beyond alpha-amylase inhibition. MD trajectories confirmed overall complex stability, with IMPHY014838 exhibiting marginally lower ligand RMSD and therefore slightly superior dynamical stability. DISCUSSION: The present study identified IMPHY014840 and IMPHY014838 as promising alpha- amylase inhibitors, with docking scores of -9.321 and -9.208 kcal/mol, respectively. DFT, ADMET, toxicity, PASS, and 100 ns MD simulations indicate stable enzyme-ligand binding, high predicted intestinal absorption, and multitarget potential. Network pharmacology further suggests that these compounds act on a broad set of diabetes related targets, supporting their value as antidiabetic lead candidates. CONCLUSION: The combined computational evidence supports IMPHY014840 and IMPHY014838 as promising natural alpha-amylase inhibitors for type 2 DM management, and recommends in vitro, in vivo, and formulation optimization to address their limitations.",
+    "keywords": [
+      "Acacia senegal",
+      "DFT",
+      "molecular docking",
+      "molecular dynamics",
+      "network pharmacology",
+      "pharmacokinetic analysis",
+      "alpha-amylase inhibition"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Abdu, Abdulkadir",
+        "Bakrey, Hossamaldeen",
+        "Rikabi, Hind A",
+        "Ali, Amani Ahmed Osman",
+        "Abdelrahim, Israa",
+        "Abdulkareem, Eman M",
+        "Eltaib, Lina"
+      ],
+      "short_names": [
+        "Abdu A",
+        "Bakrey H",
+        "Rikabi HA",
+        "Ali AAO",
+        "Abdelrahim I",
+        "Abdulkareem EM",
+        "Eltaib L"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-7617-7574",
+        "ORCID: 0009-0002-6298-4992",
+        "ORCID: 0000-0001-7106-3517",
+        "ORCID: 0000-0002-2440-1509",
+        "ORCID: 0000-0001-6931-9755",
+        "ORCID: 0009-0003-9126-3569",
+        "ORCID: 0000-0001-8885-7903"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Sciences, Guru Nanak Dev University, Amritsar, Punjab, 143005, India.",
+        "Department of Pharmaceutical Sciences, Guru Nanak Dev University, Amritsar, Punjab, 143005, India.",
+        "Department of Clinical Practice, College of Pharmacy, Northern Border University, Rafha, 91911, Saudi Arabia.",
+        "Department of Pharmacology and Toxicology, College of Pharmacy, Northern Border University, Rafha, 91911, Saudi Arabia.",
+        "University of Medical Science and Technology, Khartoum, 11111, Sudan.",
+        "Department of Pharmacognosy and Alternative Medicine, Faculty of Pharmacy, Northern Border University, Rafha, 91911, Saudi Arabia.",
+        "Department of Pharmaceutics, College of Pharmacy, Northern Border University, Rafha 91911, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Abdu, Abdulkadir",
+        "short_name": "Abdu A",
+        "identifiers": [
+          "0009-0003-7617-7574"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, Guru Nanak Dev University, Amritsar, Punjab, 143005, India."
+        ]
+      },
+      {
+        "full_name": "Bakrey, Hossamaldeen",
+        "short_name": "Bakrey H",
+        "identifiers": [
+          "0009-0002-6298-4992"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, Guru Nanak Dev University, Amritsar, Punjab, 143005, India."
+        ]
+      },
+      {
+        "full_name": "Rikabi, Hind A",
+        "short_name": "Rikabi HA",
+        "identifiers": [
+          "0000-0001-7106-3517"
+        ],
+        "affiliations": [
+          "Department of Clinical Practice, College of Pharmacy, Northern Border University, Rafha, 91911, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ali, Amani Ahmed Osman",
+        "short_name": "Ali AAO",
+        "identifiers": [
+          "0000-0002-2440-1509"
+        ],
+        "affiliations": [
+          "Department of Pharmacology and Toxicology, College of Pharmacy, Northern Border University, Rafha, 91911, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Abdelrahim, Israa",
+        "short_name": "Abdelrahim I",
+        "identifiers": [
+          "0000-0001-6931-9755"
+        ],
+        "affiliations": [
+          "University of Medical Science and Technology, Khartoum, 11111, Sudan."
+        ]
+      },
+      {
+        "full_name": "Abdulkareem, Eman M",
+        "short_name": "Abdulkareem EM",
+        "identifiers": [
+          "0009-0003-9126-3569"
+        ],
+        "affiliations": [
+          "Department of Pharmacognosy and Alternative Medicine, Faculty of Pharmacy, Northern Border University, Rafha, 91911, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Eltaib, Lina",
+        "short_name": "Eltaib L",
+        "identifiers": [
+          "0000-0001-8885-7903"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutics, College of Pharmacy, Northern Border University, Rafha 91911, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current computer-aided drug design"
+    ],
+    "journal_abbrev": [
+      "Curr Comput Aided Drug Des"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42872656"
+    ],
+    "review": [
+      "42872656"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

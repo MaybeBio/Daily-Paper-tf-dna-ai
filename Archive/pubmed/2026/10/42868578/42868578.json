@@ -1,0 +1,137 @@
+{
+  "identity": {
+    "pmid": "42868578",
+    "doi": "10.1615/CritRevEukaryotGeneExpr.2026063041",
+    "title": "Exploration of Potential Molecular Mechanisms and Key Genes Related to T-Cell Exhaustion in Coronary Heart Disease from a Bioinformatics Perspective."
+  },
+  "content": {
+    "abstract": "Coronary heart disease (CHD), a major cardiovascular disorder, is associated with T cell exhaustion (TEX) in its pathogenesis. This study aimed to identify TEX-related key genes in CHD and explore their potential mechanisms. The training set, validation set, and TEX-related genes (TEX-RGs) were downloaded from public databases. Differentially expressed genes (DEGs) were identified and intersected with TEX-RGs to obtain candidate genes. LASSO regression and Wilcoxon rank-sum test were then used to screen key genes. A nomogram for CHD prediction was constructed and validated via calibration curves and ROC curves. Finally, analyses related to functional enrichment, cell infiltration, T cell state score (TCSS) evaluation, regulatory network construction, drug prediction, and molecular docking were performed for key genes. Initially, the 48 candidate genes were identified, followed by the determination of two key genes (BST2 and XPC). A nomogram integrating BST2 and XPC showed high prediction performance. Functional enrichment analysis indicated their involvement in oxidative phosphorylation, spliceosome, and other processes. Notably, CHD patients exhibited altered infiltration of CD8+ effector memory T cells and chondrocytes, with imbalanced TCSS in Quiescence and Terminal Exhaustion T cell subsets. Regulatory network analysis identified transcription factors (e.g., GATA1, and SP1), microRNAs (e.g., hsa-miR-942-5p), and long non-coding RNAs (e.g., H19) associated with key genes. Potential drugs interacting with key genes (e.g., alvespimycin, MG-262) were predicted, though molecular docking revealed weak binding ability. Collectively, these findings provided valuable insights into the molecular mechanisms of CHD, offering a theoretical basis for understanding the disease and developing targeted therapeutic strategies.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Coronary Disease/genetics/immunology",
+      "*T-Cell Exhaustion/genetics",
+      "*Computational Biology/methods",
+      "Gene Regulatory Networks",
+      "Molecular Docking Simulation",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Fei",
+        "Liu, Wen",
+        "Zhang, Zhiliang",
+        "Peng, Xiaoping",
+        "Wen, Yuan"
+      ],
+      "short_names": [
+        "Liu F",
+        "Liu W",
+        "Zhang Z",
+        "Peng X",
+        "Wen Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, 330006, PR China.",
+        "Department of Cardiology, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi 330006, PR China; Jiangxi Medical College of Nanchang University, Nanchang, Nanchang, Jiangxi 330006, PR China.",
+        "Department of Cardiology, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi 330006, PR China; Academician Workstation of Cardiovascular Innovative Materials, Nanchang, Jiangxi 330006, PR China; Hypertension Research Institute of Jiangxi Province, Nanchang, Jiangxi 330006, PR China.",
+        "Department of Cardiology, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi 330006, PR China; Academician Workstation of Cardiovascular Innovative Materials, Nanchang, Jiangxi 330006, PR China; Hypertension Research Institute of Jiangxi Province, Nanchang, Jiangxi 330006, PR China.",
+        "The First Affiliated Hospital of Nanchang University."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Fei",
+        "short_name": "Liu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, 330006, PR China."
+        ]
+      },
+      {
+        "full_name": "Liu, Wen",
+        "short_name": "Liu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi 330006, PR China; Jiangxi Medical College of Nanchang University, Nanchang, Nanchang, Jiangxi 330006, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhiliang",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi 330006, PR China; Academician Workstation of Cardiovascular Innovative Materials, Nanchang, Jiangxi 330006, PR China; Hypertension Research Institute of Jiangxi Province, Nanchang, Jiangxi 330006, PR China."
+        ]
+      },
+      {
+        "full_name": "Peng, Xiaoping",
+        "short_name": "Peng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi 330006, PR China; Academician Workstation of Cardiovascular Innovative Materials, Nanchang, Jiangxi 330006, PR China; Hypertension Research Institute of Jiangxi Province, Nanchang, Jiangxi 330006, PR China."
+        ]
+      },
+      {
+        "full_name": "Wen, Yuan",
+        "short_name": "Wen Y",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Nanchang University."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Critical reviews in eukaryotic gene expression"
+    ],
+    "journal_abbrev": [
+      "Crit Rev Eukaryot Gene Expr"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 07:08:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42868578"
+    ],
+    "review": [
+      "42868578"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "http://www.begellhouse.com/journals/6dbf508d3b17c437,1b3ca8ea32a138e3,1e521e4e4e331205.html",
+        "provider": "BegellHouse Publisher, Inc.",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "identity": {
+    "pmid": "42856906",
+    "doi": "10.3892/ol.2026.15884",
+    "title": "KRT14 activated by transcription factor E2F1 promotes bladder cancer progression."
+  },
+  "content": {
+    "abstract": "Bladder cancer is one of the most common cancers in the world, and its high malignancy threatens human health. Therefore, it is vital to explore new therapeutic targets for the early diagnosis and prognosis evaluation of bladder cancer. Keratin 14 (KRT14) is the oncogene of numerous cancers, but its role and mechanism in bladder cancer are not completely clear. The present study aimed to assess the molecular mechanism of KRT14 in bladder cancer. Bioinformatics analyses were performed to screen KRT14 as an oncogene in bladder cancer. Moreover, KRT14 small interfering RNA and KRT14 overexpression plasmids were transfected into 5637 and RT4 bladder cancer cells. Subsequently, Transwell, Cell Counting Kit-8 and cell colony formation assays were performed to assess changes in cell phenotype. Finally, bioinformatics analysis was performed to screen for transcription factors of KRT14. The results demonstrated that KRT14 was highly expressed in bladder cancer tissues and cell lines, and its expression was associated with a poor prognosis. KRT14 knockdown suppressed proliferation, migration and invasion of 5637 and RT4 cells, whereas ectopic KRT14 overexpression demonstrated the inverse phenotypic changes. E2F transcription factor 1 (E2F1) is an upstream transcription factor of KRT14 and the effects of KRT14 silencing on 5637 cell migration and invasion were attenuated by E2F1 overexpression. In addition, Gene Set Cancer Analysis, drug sensitivity correlation analysis and molecular docking simulation predicted that afatinib, erlotinib and vandetanib may serve as candidate small molecules with potential binding affinity to KRT14. This provides preliminary clues for developing KRT14-intervening agents for bladder cancer. In conclusion, KRT14 is an oncogenic gene that promotes bladder cancer progression upon transcriptional activation by the upstream transcription factor E2F1. Its high expression is associated with poor prognosis, supporting its potential as a prognostic biomarker and therapeutic target in bladder cancer.",
+    "keywords": [
+      "E2F transcription factor 1",
+      "bladder cancer",
+      "cell proliferation",
+      "keratin 14"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Xingheng",
+        "Liu, Sinan",
+        "Zhang, Xiaosong",
+        "Chen, Xiang",
+        "Wang, Chenlu"
+      ],
+      "short_names": [
+        "Chen X",
+        "Liu S",
+        "Zhang X",
+        "Chen X",
+        "Wang C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Clinical Laboratory, Clinical Innovation Research Center of Nantong University and Nantong City No. 1 People's Hospital, Nantong, Jiangsu 226001, P.R. China.",
+        "Department of Clinical Laboratory, Clinical Innovation Research Center of Nantong University and Nantong City No. 1 People's Hospital, Nantong, Jiangsu 226001, P.R. China.",
+        "Department of Urology, Nantong Tongzhou District People's Hospital, Nantong, Jiangsu 226300, P.R. China.",
+        "Department of Clinical Laboratory, Clinical Innovation Research Center of Nantong University and Nantong City No. 1 People's Hospital, Nantong, Jiangsu 226001, P.R. China.",
+        "Department of Clinical Laboratory, Clinical Innovation Research Center of Nantong University and Nantong City No. 1 People's Hospital, Nantong, Jiangsu 226001, P.R. China.",
+        "Nantong Clinical Medical College, Kangda College of Nanjing Medical University, Nanjing, Jiangsu 222000, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Xingheng",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Clinical Innovation Research Center of Nantong University and Nantong City No. 1 People's Hospital, Nantong, Jiangsu 226001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Sinan",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Clinical Innovation Research Center of Nantong University and Nantong City No. 1 People's Hospital, Nantong, Jiangsu 226001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiaosong",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Nantong Tongzhou District People's Hospital, Nantong, Jiangsu 226300, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiang",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Clinical Innovation Research Center of Nantong University and Nantong City No. 1 People's Hospital, Nantong, Jiangsu 226001, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chenlu",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Clinical Innovation Research Center of Nantong University and Nantong City No. 1 People's Hospital, Nantong, Jiangsu 226001, P.R. China.",
+          "Nantong Clinical Medical College, Kangda College of Nanjing Medical University, Nanjing, Jiangsu 222000, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Oncology letters"
+    ],
+    "journal_abbrev": [
+      "Oncol Lett"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-18 07:09:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856906",
+      "42749842",
+      "37929351",
+      "38219975",
+      "35581606",
+      "40189507",
+      "41249576",
+      "41013917",
+      "42486346",
+      "34797443",
+      "29445134",
+      "35545336",
+      "40437556",
+      "26268246",
+      "35837768",
+      "29602637",
+      "40916820",
+      "37528357",
+      "34799723",
+      "32377458",
+      "28258492",
+      "37646913",
+      "29393438",
+      "34093834",
+      "33649788",
+      "29351801",
+      "39501799",
+      "38343537",
+      "42565568",
+      "40224971",
+      "41935138",
+      "29448242",
+      "35127818",
+      "33549581",
+      "29687852",
+      "28199407",
+      "33062641",
+      "40252583",
+      "28794159",
+      "38515112",
+      "38339238",
+      "40423801",
+      "42010192",
+      "26684800",
+      "42724573",
+      "24755270",
+      "38438666",
+      "41085154",
+      "41877380",
+      "39958881",
+      "30977157",
+      "42183293",
+      "31190401",
+      "39907709",
+      "26987391",
+      "28209205",
+      "39935236",
+      "42074076",
+      "30680031",
+      "28463831",
+      "39566403",
+      "35592867",
+      "35186166",
+      "37824372",
+      "40197498",
+      "39344317",
+      "32129151",
+      "39473405",
+      "39856473",
+      "38844957",
+      "41272195",
+      "40496864",
+      "42306765",
+      "41588986",
+      "30414902",
+      "40713656",
+      "31524145",
+      "37274797",
+      "37052240",
+      "37602310",
+      "27206339",
+      "34589144",
+      "32346439",
+      "39513905",
+      "35662041",
+      "42344686",
+      "41609084",
+      "41372399",
+      "42260555",
+      "29329543",
+      "38981987",
+      "42724446",
+      "31929567",
+      "31316616",
+      "42737676",
+      "32019566",
+      "31463832",
+      "34736492",
+      "42305508",
+      "32863950"
+    ],
+    "review": [
+      "42856906"
+    ],
+    "pmc": [
+      "13650454"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3833",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
