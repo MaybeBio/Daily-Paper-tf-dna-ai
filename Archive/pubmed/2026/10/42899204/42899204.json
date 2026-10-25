@@ -1,0 +1,165 @@
+{
+  "identity": {
+    "pmid": "42899204",
+    "doi": "10.1039/d6ra07684j",
+    "title": "Mononuclear Mg(ii) and Ca(ii) metallocarboxylates of N-phthaloyl-gamma-aminobutyric acid: synthesis, characterization, ds-DNA binding, preliminary anticancer evaluation against MDA-MB-231 cells, and computational studies."
+  },
+  "content": {
+    "abstract": "This study reports the synthesis of neurotransmitter-inspired, biolabile mononuclear Mg(ii)/(NY1) and Ca(ii)/(NY2) metallocarboxylates of N-phthaloyl-gamma-aminobutyric acid ligand (NPGABA), motivated by the growing relevance of metallocarboxylates in addressing essential metal-ion deficiencies. Extensive spectral (i.e. IR, UV-vis, (1)H-NMR, (13)C-NMR, AAS, and ICP-AES) and analytical (SEM, micro-analysis and thermal gravimetric analysis) techniques were used to characterize and confirm the formation of the ligand and its metal carboxylate complexes. The complexes were confirmed to have the formulas [Mg(NPGABA)(2)(H(2)O)(2)](4) (NY1) and [Mg(NPGABA)(2)(H(2)O)(4)] (NY2), where NPGABA is the abbreviation of the ligand in its deprotonated form. The DNA-binding interactions of the NPGABA ligand (NY0) and its alkaline earth metal carboxylate complexes with magnesium (Mg/NY1) and calcium (Ca/NY2) were investigated through a combination of biophysical, computational, and biological assays. UV-visible absorption studies revealed a significant hyperchromic effect without a bathochromic/hypsochromic shift, indicative of a non-intercalative external binding mode (i.e., minor groove binding or electrostatic interaction with the anionic sugar phosphate backbone of DNA). Binding constants (K (b)) were calculated by UV-vis spectroscopy at a temperature of 310.15 K and pH of 7.4 as 2.18 x 10(5) M(-1) (NY0), 4.05 x 10(5) M(-1) (NY1), and 4.21 x 10(5) M(-1) (NY2), with Gibbs free energies (DeltaG degrees ) of -31.68, -33.28, and -33.38 kJ mol(-1), respectively, confirming spontaneous interactions. Similarly, fluorescence emission spectroscopic studies demonstrated eminent quenching without any shift, providing complementary evidence for the presence of external non-intercalative interactions. Accordingly, the binding constants (K (b)) calculated by this technique under the same physiological conditions were 1.2 x 10(4) M(-1) (NY0), 4.41 x 10(4) M(-1) (NY1), and 8.61 x 10(4) M(-1) (NY2), with binding site numbers of 0.86 (NY0), 0.95 (NY1), and 1.01 (NY2) and Gibbs free energies (DeltaG degrees ) of -24.23, -27.56, and -29.27 kJ mol(-1), respectively, confirming the spontaneity of the interaction process. Molecular docking simulations against the canonical B-DNA (PDB: 1BNA) and the aromatase cytochrome P450 enzyme (PDB: 3EQM) also supported the occurrence of non-intercalative external binding interactions, with NY2 demonstrating the most favorable binding pose and energy. This non-intercalative external binding interaction was further endorsed by minute perturbation in the DNA solution viscosity and analogical consistency with classical groove binders like netropsin and distamycin A (K (b)  approximately  10(5)-10(7) M(-1)). The observed DNA binding affinity trend (NY2 > NY1 > NY0) has a direct correlation with the cytotoxic potency of the investigated compounds against triple negative breast cancer cells (MDA-MB-231). This consolidated investigation proved NY2 as a non-intercalative DNA-binding small molecule with preliminary anticancer activity, offering a strategic route for developing sustainable metallocarboxylate-based therapeutics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Abbas, Naeem",
+        "Arfan, Muhammad",
+        "Iqbal, Yasir",
+        "Iqbal, Mudassir",
+        "Ahmed, Naeem",
+        "Alharbi, Mona G",
+        "Gatasheh, Mansour K"
+      ],
+      "short_names": [
+        "Abbas N",
+        "Arfan M",
+        "Iqbal Y",
+        "Iqbal M",
+        "Ahmed N",
+        "Alharbi MG",
+        "Gatasheh MK"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0695-840X",
+        "ORCID: 0000-0002-3143-6152",
+        "ORCID: 0000-0002-9830-8235"
+      ],
+      "affiliations": [
+        "Department of Chemistry, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan marfan@sns.nust.edu.pk nabbas.phdchem21sns@student.nust.edu.pk.",
+        "Pakistan Science Foundation 1-Constitution Avenue G-5/2 Islamabad 44000 Pakistan.",
+        "Department of Chemistry, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan marfan@sns.nust.edu.pk nabbas.phdchem21sns@student.nust.edu.pk.",
+        "Department of Physics & Astronomy, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan.",
+        "Department of Chemistry, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan marfan@sns.nust.edu.pk nabbas.phdchem21sns@student.nust.edu.pk.",
+        "Department of Chemistry, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan marfan@sns.nust.edu.pk nabbas.phdchem21sns@student.nust.edu.pk.",
+        "Department of Biochemistry, College of Science, King Saud University P.O. Box 2455 Riyadh 11451 Saudi Arabia.",
+        "Department of Biochemistry, College of Science, King Saud University P.O. Box 2455 Riyadh 11451 Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Abbas, Naeem",
+        "short_name": "Abbas N",
+        "identifiers": [
+          "0000-0002-0695-840X"
+        ],
+        "affiliations": [
+          "Department of Chemistry, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan marfan@sns.nust.edu.pk nabbas.phdchem21sns@student.nust.edu.pk.",
+          "Pakistan Science Foundation 1-Constitution Avenue G-5/2 Islamabad 44000 Pakistan."
+        ]
+      },
+      {
+        "full_name": "Arfan, Muhammad",
+        "short_name": "Arfan M",
+        "identifiers": [
+          "0000-0002-3143-6152"
+        ],
+        "affiliations": [
+          "Department of Chemistry, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan marfan@sns.nust.edu.pk nabbas.phdchem21sns@student.nust.edu.pk."
+        ]
+      },
+      {
+        "full_name": "Iqbal, Yasir",
+        "short_name": "Iqbal Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics & Astronomy, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan."
+        ]
+      },
+      {
+        "full_name": "Iqbal, Mudassir",
+        "short_name": "Iqbal M",
+        "identifiers": [
+          "0000-0002-9830-8235"
+        ],
+        "affiliations": [
+          "Department of Chemistry, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan marfan@sns.nust.edu.pk nabbas.phdchem21sns@student.nust.edu.pk."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Naeem",
+        "short_name": "Ahmed N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, School of Natural Sciences (SNS), National University of Sciences and Technology (NUST) Islamabad 44000 Pakistan marfan@sns.nust.edu.pk nabbas.phdchem21sns@student.nust.edu.pk."
+        ]
+      },
+      {
+        "full_name": "Alharbi, Mona G",
+        "short_name": "Alharbi MG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, College of Science, King Saud University P.O. Box 2455 Riyadh 11451 Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Gatasheh, Mansour K",
+        "short_name": "Gatasheh MK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, College of Science, King Saud University P.O. Box 2455 Riyadh 11451 Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RSC advances"
+    ],
+    "journal_abbrev": [
+      "RSC Adv"
+    ],
+    "pub_date": "2026 Oct 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 18:32",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42899204"
+    ],
+    "review": [
+      "42899204"
+    ],
+    "pmc": [
+      "13679565"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6ra07684j",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1474",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

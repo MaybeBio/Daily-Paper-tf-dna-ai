@@ -1,0 +1,368 @@
+{
+  "identity": {
+    "pmid": "42904630",
+    "doi": "10.1128/spectrum.01949-26",
+    "title": "DksA regulates intestinal colonization of Klebsiella pneumoniae through metabolic plasticity."
+  },
+  "content": {
+    "abstract": "Intestinal colonization by Klebsiella pneumoniae is recognized as a pivotal prerequisite for its systemic dissemination and subsequent invasive infection; however, the metabolic basis and regulatory mechanisms underlying this process remain poorly understood. In this study, we employed transposon insertion sequencing (Tn-seq) to systematically identify metabolic genes associated with intestinal colonization in K. pneumoniae. By integrating high-throughput screening with in vivo phenotypic validation, we identified the global transcriptional regulator DksA as a key factor that markedly enhances K. pneumoniae intestinal colonization. Mechanistically, DksA may contribute to intestinal colonization through modulation of central carbon metabolism. Integrated transcriptomic and metabolomic analyses, together with homology modeling and molecular dynamics simulations, suggested that DksA may contribute to allosteric remodeling of key RNA polymerase structural domains, thereby influencing the expression of metabolic genes, carbon source utilization, and intestinal colonization by K. pneumoniae. Collectively, our findings highlight the important role of metabolic plasticity associated with transcriptional regulation in K. pneumoniae intestinal colonization and provide a theoretical framework and potential targets for developing anti-colonization strategies that exploit pathogen metabolic vulnerabilities. IMPORTANCE: Intestinal colonization is a critical first step in the pathogenesis and transmission of Klebsiella pneumoniae, yet the bacterial factors that support persistence in the gut remain incompletely understood. In this study, we identified the transcriptional regulator DksA as an important contributor to intestinal colonization through genome-wide genetic screening and in vivo validation. Multi-omics analyses suggest that DksA is associated with the regulation of bacterial carbon metabolism and metabolic adaptation, processes that are likely important for survival in the nutrient-variable intestinal environment. Structural modeling further provides insight into how DksA may influence transcriptional regulation. These findings expand our understanding of the factors that facilitate K. pneumoniae gut colonization and highlight bacterial metabolic adaptation as a potential target for strategies aimed at limiting colonization and subsequent infection.",
+    "keywords": [
+      "RNAP allostery",
+      "carbon metabolism",
+      "intestinal colonization",
+      "transcription factor"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wan, Jia",
+        "Wang, Yixuan",
+        "Wang, Lin",
+        "Li, Yaxin",
+        "Xiong, Shun",
+        "Chu, Xiakun",
+        "Zhou, Dianrong",
+        "Li, Jiachen",
+        "Li, Meisong",
+        "Xia, Xue",
+        "Wang, Wenli",
+        "Yang, Meiting",
+        "Liu, Weiqing",
+        "Wen, Yiwu",
+        "Qiu, Zhilang",
+        "Feng, Siyuan",
+        "Tian, Guo-Bao"
+      ],
+      "short_names": [
+        "Wan J",
+        "Wang Y",
+        "Wang L",
+        "Li Y",
+        "Xiong S",
+        "Chu X",
+        "Zhou D",
+        "Li J",
+        "Li M",
+        "Xia X",
+        "Wang W",
+        "Yang M",
+        "Liu W",
+        "Wen Y",
+        "Qiu Z",
+        "Feng S",
+        "Tian G-B"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-3392-0953",
+        "ORCID: 0000-0001-9934-8637",
+        "ORCID: 0000-0003-2416-0693",
+        "ORCID: 0000-0001-6750-5482"
+      ],
+      "affiliations": [
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Center for AI and Computational Biology, Institute of Systems Medicine, Chinese Academy of Medical Sciences, Suzhou, Jiangsu, China. ROR: https://ror.org/02drdmm93",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Advanced Materials Thrust, Function Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, Guangdong, China. ROR: https://ror.org/050h0vm43",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "School of Laboratory Medicine, Chengdu Medical College, Chengdu, China. RINGGOLD: 74787. ROR: https://ror.org/01c4jmp52",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "School of Laboratory Medicine, Chengdu Medical College, Chengdu, China. RINGGOLD: 74787. ROR: https://ror.org/01c4jmp52",
+        "School of Biology and Engineering (School of Modern Industry for Health and Medicine), Guizhou Medical University, Guiyang, China. RINGGOLD: 74628. ROR: https://ror.org/035y7a716",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85",
+        "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China. ROR: https://ror.org/0064kty71",
+        "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China. RINGGOLD: 26469. ROR: https://ror.org/0064kty71",
+        "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. ROR: https://ror.org/01kcva023",
+        "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China. RINGGOLD: 26469. ROR: https://ror.org/0400g8r85"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wan, Jia",
+        "short_name": "Wan J",
+        "identifiers": [
+          "0009-0007-3392-0953"
+        ],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yixuan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lin",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for AI and Computational Biology, Institute of Systems Medicine, Chinese Academy of Medical Sciences, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yaxin",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0001-9934-8637"
+        ],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Shun",
+        "short_name": "Xiong S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chu, Xiakun",
+        "short_name": "Chu X",
+        "identifiers": [],
+        "affiliations": [
+          "Advanced Materials Thrust, Function Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Dianrong",
+        "short_name": "Zhou D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiachen",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Meisong",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Xue",
+        "short_name": "Xia X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Laboratory Medicine, Chengdu Medical College, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wenli",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Meiting",
+        "short_name": "Yang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Weiqing",
+        "short_name": "Liu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Yiwu",
+        "short_name": "Wen Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Laboratory Medicine, Chengdu Medical College, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Zhilang",
+        "short_name": "Qiu Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biology and Engineering (School of Modern Industry for Health and Medicine), Guizhou Medical University, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Siyuan",
+        "short_name": "Feng S",
+        "identifiers": [
+          "0000-0003-2416-0693"
+        ],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Guo-Bao",
+        "short_name": "Tian G-B",
+        "identifiers": [
+          "0000-0001-6750-5482"
+        ],
+        "affiliations": [
+          "Department of Immunology, Zhongshan School of Medicine, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong, China.",
+          "Advanced Medical Technology Center, The First Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.",
+          "Program in Pathobiology, The Fifth Affiliated Hospital, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong, China.",
+          "Key Laboratory of Tropical Diseases Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China.",
+          "State Key Laboratory of Oncology in South China, Sun Yat-sen University Cancer Center, Guangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbiology spectrum"
+    ],
+    "journal_abbrev": [
+      "Microbiol Spectr"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 17:33",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42904630"
+    ],
+    "review": [
+      "42904630"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/spectrum.01949-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

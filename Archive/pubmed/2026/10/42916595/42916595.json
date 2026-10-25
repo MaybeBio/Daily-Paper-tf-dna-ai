@@ -1,0 +1,153 @@
+{
+  "identity": {
+    "pmid": "42916595",
+    "doi": "10.1021/acssynbio.6c00207",
+    "title": "Promoter Engineering in Yeast Cell Factories: Strategies, Applications, and Perspectives."
+  },
+  "content": {
+    "abstract": "Yeasts serve as premier eukaryotic hosts for microbial cell factories, enabling the production of recombinant proteins, biofuels, and high-value natural products. Precise transcriptional control is paramount for balancing complex metabolic pathways and maximizing target product yields. Promoters, as the key regulatory elements governing transcription initiation, have thus become a focal point of metabolic and synthetic biology engineering. This review surveys promoter architecture, function, and engineering in yeast. It outlines promoter structure, from core elements to upstream regulatory sequences, and reviews current and emerging strategies for discovery, optimization, and de novo design, including random mutagenesis, combinatorial assembly, rational design based on transcription factor binding sites, intron-mediated enhancement, cross-species approaches. Importantly, this review highlights the rapidly growing role of machine learning (ML) and artificial intelligence (AI) in promoter engineering, from predictive modeling of promoter strength to in silico generation of synthetic variants. Special emphasis is placed on synthetic promoter engineering to yield tunable and inducible toolkits. The review also highlights applications in yeast cell factories, such as metabolic pathway optimization, dynamic regulation, high-throughput strain screening, and recombinant protein production. By summarizing these recent advances, it serves as a practical resource for researchers aiming to achieve precise metabolic control and improve bioproduction outcomes in yeast.",
+    "keywords": [
+      "cell factory",
+      "metabolic regulation",
+      "promoter",
+      "synthetic biology",
+      "transcriptional control",
+      "yeast"
+    ],
+    "mesh_terms": [
+      "*Promoter Regions, Genetic/genetics",
+      "*Metabolic Engineering/methods",
+      "Synthetic Biology/methods",
+      "*Saccharomyces cerevisiae/genetics/metabolism",
+      "Recombinant Proteins/genetics/metabolism",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "*Yeasts/genetics/metabolism",
+      "Metabolic Networks and Pathways/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bai, Zhenzhen",
+        "Jiao, Tian",
+        "Darvishi, Farshad",
+        "Chu, Haodong",
+        "Wang, Zheng",
+        "Shi, Shuobo"
+      ],
+      "short_names": [
+        "Bai Z",
+        "Jiao T",
+        "Darvishi F",
+        "Chu H",
+        "Wang Z",
+        "Shi S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7902-160X",
+        "ORCID: 0000-0002-0261-3105"
+      ],
+      "affiliations": [
+        "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "Department of Microbiology, Faculty of Biological Sciences, Alzahra University, Tehran1993893973, Iran.",
+        "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "State Key Laboratory of Green Biomanufacturing, Beijing University of Chemical Technology, Beijing100029, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bai, Zhenzhen",
+        "short_name": "Bai Z",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Jiao, Tian",
+        "short_name": "Jiao T",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Darvishi, Farshad",
+        "short_name": "Darvishi F",
+        "identifiers": [
+          "0000-0002-7902-160X"
+        ],
+        "affiliations": [
+          "Department of Microbiology, Faculty of Biological Sciences, Alzahra University, Tehran1993893973, Iran."
+        ]
+      },
+      {
+        "full_name": "Chu, Haodong",
+        "short_name": "Chu H",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zheng",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Shuobo",
+        "short_name": "Shi S",
+        "identifiers": [
+          "0000-0002-0261-3105"
+        ],
+        "affiliations": [
+          "Beijing Advanced Innovation Center for Soft Matter Science and Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+          "State Key Laboratory of Green Biomanufacturing, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916595"
+    ],
+    "review": [
+      "42916595"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

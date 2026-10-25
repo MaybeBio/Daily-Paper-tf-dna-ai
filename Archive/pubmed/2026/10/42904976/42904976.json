@@ -1,0 +1,192 @@
+{
+  "identity": {
+    "pmid": "42904976",
+    "doi": "10.1021/acs.jafc.6c03675",
+    "title": "Oleanolic Acid Alleviates Diabetic Nephropathy by Inhibiting Ferroptosis Involving the Activation of the NRF2/HO-1 Pathway."
+  },
+  "content": {
+    "abstract": "Oleanolic acid (OA), a pentacyclic triterpenoid found in agricultural products such as grapes and olives, exhibits potential in alleviating diabetic nephropathy (DN). We validated its renoprotective effects using high-fat diet/streptozotocin (HFD/STZ)-induced diabetic mice and high glucose-stimulated HK-2 cells. Network pharmacology predicted ferroptosis and the NRF2/HO-1 axis as key targets, which was supported by molecular docking and dynamics simulations indicating stable binding. Mechanistically, OA treatment upregulated the NRF2/HO-1 pathway, which was associated with the inhibition of ferroptosis horizontal line evidenced by suppressed lipid peroxidation and iron overload, improved mitochondrial function, and the regulation of key proteins (e.g., upregulating GPX4 and the iron-storage protein FTH1, while downregulating ACSL4). Its antiferroptotic effects were mimicked by the specific inhibitor Ferrostatin-1 (Fer-1) and abolished by the inducer Erastin (Era). Collectively, this study suggests that OA protects against DN potentially through modulating the NRF2/HO-1 axis to mitigate ferroptosis, supporting its potential as a promising bioactive dietary compound for the management of DN.",
+    "keywords": [
+      "NRF2/HO-1 signaling pathway",
+      "diabetic nephropathy",
+      "ferroptosis",
+      "oleanolic acid",
+      "renal protection"
+    ],
+    "mesh_terms": [
+      "*Ferroptosis/drug effects",
+      "*NF-E2-Related Factor 2/metabolism/genetics",
+      "Animals",
+      "*Oleanolic Acid/administration & dosage/chemistry",
+      "*Diabetic Nephropathies/drug therapy/metabolism/genetics/physiopathology",
+      "Mice",
+      "Humans",
+      "*Heme Oxygenase-1/metabolism/genetics",
+      "Male",
+      "Signal Transduction/drug effects",
+      "Mice, Inbred C57BL",
+      "*Membrane Proteins/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Gongyu",
+        "Wang, Yu",
+        "Guan, Yue",
+        "Gao, Changjiu",
+        "Chen, Peijian",
+        "Sun, Xueqing",
+        "Liu, Xuping",
+        "Guan, Huilin"
+      ],
+      "short_names": [
+        "Wu G",
+        "Wang Y",
+        "Guan Y",
+        "Gao C",
+        "Chen P",
+        "Sun X",
+        "Liu X",
+        "Guan H"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-1113-8525"
+      ],
+      "affiliations": [
+        "School of Pharmacy, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China.",
+        "Mudanjiang Maternal and Child Health Hospital, Mudanjiang, Heilongjiang157041, China.",
+        "Heilongjiang Nursing College, Harbin, Heilongjiang150086, China.",
+        "School of Pharmacy, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China.",
+        "College of Life Sciences, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China.",
+        "School of Pharmacy, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China.",
+        "Department of Student Affairs, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China.",
+        "School of Pharmacy, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Gongyu",
+        "short_name": "Wu G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yu",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Mudanjiang Maternal and Child Health Hospital, Mudanjiang, Heilongjiang157041, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Yue",
+        "short_name": "Guan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Heilongjiang Nursing College, Harbin, Heilongjiang150086, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Changjiu",
+        "short_name": "Gao C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Peijian",
+        "short_name": "Chen P",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xueqing",
+        "short_name": "Sun X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xuping",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Student Affairs, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Huilin",
+        "short_name": "Guan H",
+        "identifiers": [
+          "0009-0006-1113-8525"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Mudanjiang Medical University, Mudanjiang, Heilongjiang157011, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 17:33",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42904976"
+    ],
+    "review": [
+      "42904976"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/diabetickidneyproblems.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Diabetic Kidney Problems"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3809",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c03675",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "identity": {
+    "pmid": "42911944",
+    "doi": "10.1371/journal.pone.0359621",
+    "title": "Investigating potential molecular mechanisms linking 6PPD-quinone exposure to Intervertebral Disc Degeneration: A network toxicology, molecular docking, and molecular dynamics simulation study."
+  },
+  "content": {
+    "abstract": "As an emerging pollutant derived from tire rubber, 6PPD-quinone (6PPD-Q) has raised public health concerns due to widespread environmental exposure; however, its potential toxicological effects on avascular tissues such as intervertebral discs remain unclear. This study integrated network toxicology, molecular docking, and molecular dynamics (MD) simulation to investigate the potential mechanisms linking 6PPD-Q exposure to intervertebral disc degeneration (IVDD). ADMET toxicological predictions indicated high model-predicted probabilities for SR-MMP and SR-ARE activation. Through multidimensional database integration, 59 common targets potentially associated with 6PPD-Q and IVDD were identified. Protein-protein interaction network analysis further identified five hub genes: PTGS2, MMP2, SMAD3, RELA, and GSK3B. Functional enrichment analysis suggested that these targets were mainly involved in AGE-RAGE, PI3K-Akt, MAPK, TNF, and IL-17 signaling pathways, collectively implicating oxidative stress, inflammation, and apoptosis. Molecular docking showed favorable predicted binding between 6PPD-Q and the five hub proteins, with RELA exhibiting the most favorable docking score (-8.82 kcal/mol). A subsequent 100-ns MD simulation of the 6PPD-Q-RELA complex showed relatively stable RMSD, Rg, and SASA profiles and a concentrated low-energy conformational basin, supporting its dynamic stability under the simulated conditions. Collectively, these computational findings suggest potential molecular links between 6PPD-Q exposure and IVDD and provide hypotheses for subsequent experimental validation.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Docking Simulation",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "*Intervertebral Disc Degeneration/chemically induced/metabolism/pathology",
+      "Signal Transduction/drug effects",
+      "Protein Interaction Maps/drug effects",
+      "Cyclooxygenase 2/metabolism/genetics",
+      "Transcription Factor RelA/metabolism",
+      "Phenylenediamines",
+      "Benzoquinones"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Bin",
+        "Wang, Xiangjin",
+        "Zhuo, Li",
+        "Chen, Yutong",
+        "He, Qiansong"
+      ],
+      "short_names": [
+        "Yang B",
+        "Wang X",
+        "Zhuo L",
+        "Chen Y",
+        "He Q"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-1538-3958"
+      ],
+      "affiliations": [
+        "Bayi Orthopedic Hospital, China RongTong Medical Healthcare Group Co., Ltd., Chengdu, China.",
+        "Department of Orthopedics, Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Bayi Orthopedic Hospital, China RongTong Medical Healthcare Group Co., Ltd., Chengdu, China.",
+        "School of Sports Medicine and Health, Chengdu Sports University, Chengdu, China.",
+        "Bayi Orthopedic Hospital, China RongTong Medical Healthcare Group Co., Ltd., Chengdu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Bin",
+        "short_name": "Yang B",
+        "identifiers": [],
+        "affiliations": [
+          "Bayi Orthopedic Hospital, China RongTong Medical Healthcare Group Co., Ltd., Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiangjin",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zhuo, Li",
+        "short_name": "Zhuo L",
+        "identifiers": [],
+        "affiliations": [
+          "Bayi Orthopedic Hospital, China RongTong Medical Healthcare Group Co., Ltd., Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yutong",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Sports Medicine and Health, Chengdu Sports University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "He, Qiansong",
+        "short_name": "He Q",
+        "identifiers": [
+          "0009-0006-1538-3958"
+        ],
+        "affiliations": [
+          "Bayi Orthopedic Hospital, China RongTong Medical Healthcare Group Co., Ltd., Chengdu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42911944"
+    ],
+    "review": [
+      "42911944"
+    ],
+    "pmc": [
+      "13690237"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

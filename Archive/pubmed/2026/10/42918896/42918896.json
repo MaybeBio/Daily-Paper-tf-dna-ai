@@ -1,0 +1,150 @@
+{
+  "identity": {
+    "pmid": "42918896",
+    "doi": "10.1007/s10142-026-02087-5",
+    "title": "scHGNN: A single-cell gene regulatory network inference method based on heuristic graph neural networks."
+  },
+  "content": {
+    "abstract": "The construction of gene regulatory networks based on single-cell transcriptomics (scRNA-seq) data provides crucial technical support for decoding cell fate determination mechanisms at the single-cell level, elucidating molecular mechanisms underlying disease progression, and developing targeted therapeutics. Existing methods for constructing GRNs often rely excessively on gene expression features, struggling to achieve an effective balance between local direct regulatory signals and global multi-step regulatory pathways. This imbalance results in insufficient utilization of topological information within the network structure. Therefore, this study proposes a heuristic graph neural network-based GRN inference model (scHGNN). scHGNN integrates multi-order neighbor topological information into learnable weights through unified heuristic matrix and link prediction modules, thereby balancing local and global regulatory relationships. This approach effectively fuses gene expression features with network structural information to achieve precise inference of latent regulatory links within gene regulatory networks. Across GRN inference tasks using benchmark networks of varying gene scales and diverse origins, scHGNN consistently outperforms existing mainstream methods on key evaluation metrics. Furthermore, in target gene prediction cases for key transcription factors such as TP53, OTX2, and FOXP1, the model achieved validation rates as high as 76%-84% in the hTFtarget database. This not only supports its accuracy in identifying known regulatory relationships but also indicates its potential to identify high-confidence candidate regulatory interactions for further biological investigation. Collectively, these results demonstrate that scHGNN holds significant application value in elucidating gene regulatory mechanisms and exploring the molecular basis of related diseases.",
+    "keywords": [
+      "GNN",
+      "GRN",
+      "TF",
+      "Target gene",
+      "scRNA-seq"
+    ],
+    "mesh_terms": [
+      "*Graph Neural Networks",
+      "*Gene Regulatory Networks",
+      "Single-Cell Gene Expression Analysis",
+      "*Single-Cell Analysis/methods",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Tianjiao",
+        "Teng, Xiaopeng",
+        "Zhang, Hongfei",
+        "Zhao, Zhongqian",
+        "Li, Yang",
+        "Dong, Benzhi",
+        "Wang, Guohua"
+      ],
+      "short_names": [
+        "Zhang T",
+        "Teng X",
+        "Zhang H",
+        "Zhao Z",
+        "Li Y",
+        "Dong B",
+        "Wang G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China.",
+        "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China.",
+        "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China.",
+        "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China.",
+        "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China. yli@nefu.edu.cn.",
+        "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China. nefudbz@nefu.edu.cn.",
+        "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China. ghwang@nefu.edu.cn.",
+        "Faculty of Computing, Harbin Institute of Technology, No. 92 West Da Zhi Street, Nangang District, Harbin, 150001, China. ghwang@nefu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Tianjiao",
+        "short_name": "Zhang T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Teng, Xiaopeng",
+        "short_name": "Teng X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hongfei",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhongqian",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China. yli@nefu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Dong, Benzhi",
+        "short_name": "Dong B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China. nefudbz@nefu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Guohua",
+        "short_name": "Wang G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Artificial Intelligence, Northeast Forestry University, No. 26 Hexing Road, Xiangfang District, Harbin, 150040, China. ghwang@nefu.edu.cn.",
+          "Faculty of Computing, Harbin Institute of Technology, No. 92 West Da Zhi Street, Nangang District, Harbin, 150001, China. ghwang@nefu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Functional & integrative genomics"
+    ],
+    "journal_abbrev": [
+      "Funct Integr Genomics"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42918896"
+    ],
+    "review": [
+      "42918896"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

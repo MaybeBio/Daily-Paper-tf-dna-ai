@@ -1,0 +1,348 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.17.759831",
+  "title": "Network organization of protein binding-site landscapes across scales",
+  "doi": "10.64898/2026.10.17.759831",
+  "abstract": "Studying protein binding sites helps explain ligand recognition and selectivity, informing drug development and repurposing. Here, we combine protein language model embeddings with network analysis to investigate how local recognition environments organize across scales. We represented 121,673 non-redundant, experimentally identified binding sites using ProtT5 embeddings of ligand-contacting residues and constructed a mutual nearest-neighbor network. Embedding proximity was associated with local structural similarity, supporting the structural relevance of network relationships. Globally, the network exhibited ligand-related organization. At the mesoscopic scale, communities revealed heterogeneous landscapes within established protein classifications, with InterPro categories ranging from compact neighborhoods to dispersed recognition environments. Focusing on kinases, a major class of drug targets, we found that communities within individual proteins distinguished separate binding regions and resolved recurrent residue-defined microenvironments within broad structural classes. Local similarities also connected sites in proteins with low sequence identity and non-overlapping InterPro annotations, suggesting shared recognition features across distant proteins. Together, these results show how network organization captures both diversification within protein categories and local similarities across their boundaries. This multiscale framework complements conventional protein classifications and provides a basis for prioritizing structural and biochemical investigations of ligand cross-reactivity, selectivity, and repurposing opportunities.",
+  "authors": [
+    "G. Giordano",
+    "A. Chernomoretz"
+  ],
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19T10:55:12Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.17.759831",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.17.759831.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T02:39:35Z",
+        "timestamp": 1792636775124,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 17,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                19
+              ]
+            ],
+            "date-time": "2026-10-19T00:00:00Z",
+            "timestamp": 1792368000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "UBACyT 2022-20020220100181BA"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "UBACyT 2022-20020220100181BA"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/0081fs513",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Studying protein binding sites helps explain ligand recognition and selectivity, informing drug development and repurposing. Here, we combine protein language model embeddings with network analysis to investigate how local recognition environments organize across scales. We represented 121,673 non-redundant, experimentally identified binding sites using ProtT5 embeddings of ligand-contacting residues and constructed a mutual nearest-neighbor network. Embedding proximity was associated with local structural similarity, supporting the structural relevance of network relationships. Globally, the network exhibited ligand-related organization. At the mesoscopic scale, communities revealed heterogeneous landscapes within established protein classifications, with InterPro categories ranging from compact neighborhoods to dispersed recognition environments. Focusing on kinases, a major class of drug targets, we found that communities within individual proteins distinguished separate binding regions and resolved recurrent residue-defined microenvironments within broad structural classes. Local similarities also connected sites in proteins with low sequence identity and non-overlapping InterPro annotations, suggesting shared recognition features across distant proteins. Together, these results show how network organization captures both diversification within protein categories and local similarities across their boundaries. This multiscale framework complements conventional protein classifications and provides a basis for prioritizing structural and biochemical investigations of ligand cross-reactivity, selectivity, and repurposing opportunities.</jats:p>",
+      "DOI": "10.64898/2026.10.17.759831",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2026-10-19T10:55:12Z",
+        "timestamp": 1792407312000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Network organization of protein binding-site landscapes across scales"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "G.",
+          "family": "Giordano",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Dept. de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Argentina"
+            },
+            {
+              "name": "Laboratorio de Biologia de Sistemas Integrativa, Fundacion Instituto Leloir, Buenos Aires, Argentina"
+            },
+            {
+              "name": "Instituto de Investigaciones Bioquímicas de Buenos Aires (IIBBA) – CONICET, Argentina"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Chernomoretz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Dept. de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Argentina"
+            },
+            {
+              "name": "Instituto de Física Interdisciplinaria y Aplicada (INFINA), UBA-CONICET, Argentina"
+            },
+            {
+              "name": "Laboratorio de Biologia de Sistemas Integrativa, Fundacion Instituto Leloir, Buenos Aires, Argentina"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkae1082"
+        },
+        {
+          "issue": "4",
+          "key": "2026102119201194000_2026.10.17.759831v1.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "366",
+          "DOI": "10.1038/s41592-021-01101-x",
+          "article-title": "Sensitive Protein Alignments at Tree-of-Life Scale Using DIAMOND",
+          "volume": "18",
+          "year": "2021",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkae1091"
+        },
+        {
+          "issue": "1",
+          "key": "2026102119201194000_2026.10.17.759831v1.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1186/s13321-024-00821-4",
+          "article-title": "Learnt Representations of Proteins Can Be Used for Accurate Prediction of Small Molecule Binding Sites on Experimentally Determined and Predicted Protein Structures",
+          "volume": "16",
+          "year": "2024",
+          "journal-title": "Journal of Cheminformatics"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/ijms232012462"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TPAMI.2021.3095381"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2025.04.02.646906"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0065894"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.str.2008.11.009"
+        },
+        {
+          "issue": "8",
+          "key": "2026102119201194000_2026.10.17.759831v1.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "4097",
+          "DOI": "10.1021/acs.jcim.1c00454",
+          "article-title": "ProBiS-Dock Database: A Web Server and Interactive Web Repository of Small Ligand-Protein Binding Sites for Drug Design",
+          "volume": "61",
+          "year": "2021",
+          "journal-title": "Journal of Chemical Information and Modeling"
+        },
+        {
+          "issue": "1",
+          "key": "2026102119201194000_2026.10.17.759831v1.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "11652",
+          "DOI": "10.1038/s41598-017-10412-z",
+          "article-title": "Global Organization of a Binding Site Network Gives Insight into Evolution and Structure-Function Relationships of Proteins",
+          "volume": "7",
+          "year": "2017",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "issue": "1",
+          "key": "2026102119201194000_2026.10.17.759831v1.12",
+          "doi-asserted-by": "crossref",
+          "first-page": "731",
+          "DOI": "10.1021/acs.jcim.5c02481",
+          "article-title": "A Comparative Study of Deep Learning and Classical Modeling Approaches for Protein-Ligand Binding Pose and Affinity Prediction in Coronavirus Main Proteases",
+          "volume": "66",
+          "year": "2026",
+          "journal-title": "Journal of Chemical Information and Modeling"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0706851105"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.sbi.2025.103152"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.15",
+          "doi-asserted-by": "crossref",
+          "first-page": "1520382",
+          "DOI": "10.3389/fbinf.2025.1520382",
+          "article-title": "Machine Learning Approaches for Predicting Protein-Ligand Binding Sites from Sequence Data",
+          "volume": "5",
+          "year": "2025",
+          "journal-title": "Frontiers in Bioinformatics"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkad630"
+        },
+        {
+          "key": "2026102119201194000_2026.10.17.759831v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/prot.20752"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.17.759831",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T02:20:19Z",
+        "timestamp": 1792635619000
+      },
+      "score": 159.20871,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.17.759831"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ]
+      },
+      "references-count": 17,
+      "URL": "https://doi.org/10.64898/2026.10.17.759831",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

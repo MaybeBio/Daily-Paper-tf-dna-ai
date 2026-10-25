@@ -1,0 +1,125 @@
+{
+  "identity": {
+    "pmid": "42892156",
+    "doi": "10.1016/j.bioorg.2026.110650",
+    "title": "Carboplatin-derived dinuclear Pt(IV) prodrug linked by 1,6-Diaminohexane: Design, synthesis, reduction chemistry, DNA interaction, and antitumor activity."
+  },
+  "content": {
+    "abstract": "In this study, we investigated a new binuclear platinum(IV) prodrug using two main strategies. First, axial ligands were attached to the cancer drug carboplatin. This modification helps protect the drug from breaking down in the bloodstream and prevents unwanted reactions before it reaches cancer cells. It also allows two carboplatin units to be delivered into a cell at the same time using a single prodrug molecule. We designed, synthesized, and characterized a new binuclear Pt(IV) prodrug in which two carboplatin molecules are linked by a 1,6-diaminohexane chain. The stability and reduction behavior of this complex were studied in phosphate-buffered saline, both with and without reducing agents such as ascorbic acid (t(1/2) = 149.6 min). Its solubility and lipophilicity were also compared with those of clinically used platinum drugs, and theoretical calculations were used to study the reduction mechanism. DNA-binding studies showed that the Pt(IV) complex mainly interacts with DNA via groove binding (K(b) = 1441.8 M(-1)), which was confirmed by spectral monitoring, viscosity measurement, and molecular docking simulations. The biological activity of the new complex was tested on human breast cancer (MCF-7), ovarian cancer (Skov-3), and noncancerous (MCF-10 A) cell lines. The binuclear Pt(IV) prodrug showed higher anticancer activity (IC(50) = 33 muM) and greater intracellular accumulation (5.16 mug/million cell) than carboplatin (IC(50) = 67 muM and 1.68 mug/million cell). In vitro studies showed that this complex induces cancer cell death primarily through apoptosis, is associated with increased reactive oxygen species (ROS) levels (36.1%), and leads to cell cycle arrest at the G1/S checkpoint in MCF-7 cells. Western blot analysis demonstrated that the binuclear Pt(IV) prodrug increased Bax expression while decreasing Bcl-2 expression, consistent with involvement of mitochondrial apoptotic signaling. Furthermore, the binuclear Pt(IV) prodrug effectively inhibited tumor growth in a breast tumor-bearing mouse model without inducing significant body weight loss, supporting its promising in vivo antitumor activity and favorable tolerability. Overall, this research provides important guidance for designing new binuclear Pt(IV) prodrugs based on clinical Pt drugs to develop cancer treatments effectively.",
+    "keywords": [
+      "Binuclear Pt(IV) prodrugs",
+      "Carboplatin",
+      "Human breast cancer",
+      "In vivo study",
+      "Intercellular reduction mechanism",
+      "Western blot"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Keivanshekooh, Hosein",
+        "Eslami Moghadam, Mahboube",
+        "Ghassemzadeh, Mitra",
+        "Jafarkhani, Saeed"
+      ],
+      "short_names": [
+        "Keivanshekooh H",
+        "Eslami Moghadam M",
+        "Ghassemzadeh M",
+        "Jafarkhani S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Chemistry and Chemical Engineering Research Center of Iran, Tehran, Iran.",
+        "Chemistry and Chemical Engineering Research Center of Iran, Tehran, Iran. Electronic address: eslami_moghadam@ccerci.ac.ir.",
+        "Chemistry and Chemical Engineering Research Center of Iran, Tehran, Iran.",
+        "Division of Biomedical Engineering, Faculty of New Sciences and Technologies, University of Tehran, Tehran, 57131-14399, Iran."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Keivanshekooh, Hosein",
+        "short_name": "Keivanshekooh H",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry and Chemical Engineering Research Center of Iran, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Eslami Moghadam, Mahboube",
+        "short_name": "Eslami Moghadam M",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry and Chemical Engineering Research Center of Iran, Tehran, Iran. Electronic address: eslami_moghadam@ccerci.ac.ir."
+        ]
+      },
+      {
+        "full_name": "Ghassemzadeh, Mitra",
+        "short_name": "Ghassemzadeh M",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry and Chemical Engineering Research Center of Iran, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Jafarkhani, Saeed",
+        "short_name": "Jafarkhani S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Biomedical Engineering, Faculty of New Sciences and Technologies, University of Tehran, Tehran, 57131-14399, Iran."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioorganic chemistry"
+    ],
+    "journal_abbrev": [
+      "Bioorg Chem"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/18 05:37",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42892156"
+    ],
+    "review": [
+      "42892156"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0045-2068(26)01186-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BAX-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

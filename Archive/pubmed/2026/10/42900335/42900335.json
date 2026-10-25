@@ -1,0 +1,154 @@
+{
+  "identity": {
+    "pmid": "42900335",
+    "doi": "10.1186/s40643-026-01149-7",
+    "title": "A gut microbiota-metabolite-host gene score for subtyping and predicting the treatment response in rheumatoid arthritis: integrative analysis with in silico knockout validation."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The pathogenesis of rheumatoid arthritis (RA) involves a complex interplay between immune dysregulation and metabolic disturbance, with the gut microbiota and its metabolites playing pivotal roles. However, integrated biomarkers based on the \"gut microbiota-metabolite-host gene\" regulatory axis that can quantify its impact on RA stratification and therapeutic response are lacking. METHODS: We integrated multiple RA transcriptomic datasets to screen for host genes explicitly associated with the gut microbiota and metabolites using the gutMGene database. A gut microbiota-metabolite-host score (GMS) was constructed via principal component analysis (PCA). Immune infiltration patterns were evaluated using CIBERSORT. Furthermore, scRNA-seq was employed to map the cellular origins of key genes, and in silico knockout analysis using scTenifoldKnk was performed to simulate the functional ablation of core host genes within this regulatory axis. Additionally, molecular docking was conducted to validate the binding affinities between the key host proteins and the optimal small molecule. RESULTS: We identified seven microbiota-metabolite-host hub genes (FOS, JUN, IDO1, PEMT, EGFR, ABCC4, and FADS3) and constructed the GMS. The GMS stratified patients with RA into two distinct functional subtypes: an adaptive immune activation subtype and an inflammatory-metabolic composite subtype. Notably, the GMS demonstrated superior performance in predicting responses to anti-TNF and rituximab therapies. The scRNA-seq analysis revealed high expression of FOS and JUN in T cells and NK cells. In silico knockout analysis further revealed the central transcription factors FOS and JUN as key executors of this axis, as their ablation significantly affected osteoclast differentiation and the enrichment of TNF/MAPK inflammatory pathways. These computational findings support the core mechanism by which gut microbiota-metabolite signalling drives RA joint pathology via FOS/JUN. Molecular docking results confirmed strong binding interactions between the identified active molecules and their respective target proteins. CONCLUSION: This study establishes a GMS based on the gut microbiota-metabolite-host gene regulatory axis as a robust tool for molecular subtyping and predicting biological therapy responses in patients with RA. Crucially, through integrated computational modelling, including in silico knockout and molecular docking validation, we identified FOS/JUN as critical executor genes linking the gut microenvironment to RA bone destruction, providing novel targets for therapeutic strategies aimed at the gut-joint axis.",
+    "keywords": [
+      "GMS",
+      "Gut microbiota-metabolite-host gene axis",
+      "In silico knockout",
+      "Rheumatoid arthritis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Xiang-Fei",
+        "Yang, Yi-Jie",
+        "Li, Chen-Long",
+        "Huang, Tai",
+        "Wang, Qi",
+        "Yu, Qi"
+      ],
+      "short_names": [
+        "Sun XF",
+        "Yang YJ",
+        "Li CL",
+        "Huang T",
+        "Wang Q",
+        "Yu Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Management, Shanxi Medical University, Taiyuan, China.",
+        "School of Management, Shanxi Medical University, Taiyuan, China.",
+        "School of Management, Shanxi Medical University, Taiyuan, China.",
+        "School of Management, Shanxi Medical University, Taiyuan, China.",
+        "School of Management, Shanxi Medical University, Taiyuan, China. dr_wangqi_2020@163.com.",
+        "School of Management, Shanxi Medical University, Taiyuan, China. yuqi@sxmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Xiang-Fei",
+        "short_name": "Sun XF",
+        "identifiers": [],
+        "affiliations": [
+          "School of Management, Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yi-Jie",
+        "short_name": "Yang YJ",
+        "identifiers": [],
+        "affiliations": [
+          "School of Management, Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Chen-Long",
+        "short_name": "Li CL",
+        "identifiers": [],
+        "affiliations": [
+          "School of Management, Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Tai",
+        "short_name": "Huang T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Management, Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qi",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Management, Shanxi Medical University, Taiyuan, China. dr_wangqi_2020@163.com."
+        ]
+      },
+      {
+        "full_name": "Yu, Qi",
+        "short_name": "Yu Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Management, Shanxi Medical University, Taiyuan, China. yuqi@sxmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioresources and bioprocessing"
+    ],
+    "journal_abbrev": [
+      "Bioresour Bioprocess"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 17:34",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42900335"
+    ],
+    "review": [
+      "42900335"
+    ],
+    "pmc": [
+      "13683294"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://link.springer.com/article/10.1186/s40643-026-01149-7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MUC1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-807",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

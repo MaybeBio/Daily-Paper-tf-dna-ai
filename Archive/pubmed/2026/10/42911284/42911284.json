@@ -1,0 +1,196 @@
+{
+  "identity": {
+    "pmid": "42911284",
+    "doi": "10.1007/s10571-026-01764-0",
+    "title": "5-Hydroxytryptamine 6 Receptor Antagonism Ameliorates Depression-Like Behaviors in Temporal Lobe Epilepsy Rats with Potential Involvement of the MEF2C/NF-kappaB Pathway."
+  },
+  "content": {
+    "abstract": "This study aimed to investigate whether 5-HT6 receptor (5-HT6R) antagonism could ameliorate epilepsy-associated emotional and behavioral disturbances in rats with temporal lobe epilepsy (TLE) and to explore its potential association with the MEF2C/NF-kappaB pathway. Thirty rats were randomly divided into normal control (NC) group, Model group and 5-HT6R group. The TLE model was established using lithium chloride-pilocarpine. The rats in 5-HT6R group were treated with 5-HT6R antagonist SB271046. Behavioral tests were conducted to evaluate anxiety- and depression-like behaviors associated with epilepsy. Levels of inflammatory factors, 5-HT and KYN in hippocampal tissues were detected by enzyme-linked immunosorbent assay. Neuronal cell death in brain tissues was assessed by TUNEL staining, and the protein expressions of MEF2C and NF-kappaB p65 were measured by Western blotting. Molecular docking between SB271046 and MEF2C/NF-kappaB p65 was performed using AutoDock 4. In addition, JASPAR database was used to analyze the putative binding of CREB1 to MEF2C promoter. Rats in the Model group exhibited significant epilepsy-associated anxiety- and depression-like behaviors, accompanied by aggravated inflammation, decreased MEF2C protein expression and increased NF-kappaB p65 protein expression. Treatment with SB271046 significantly ameliorated these behavioral abnormalities and inflammatory responses, and was associated with upregulated MEF2C protein expression and downregulated NF-kappaB p65 protein expression. KEGG enrichment analysis suggested the involvement of NF-kappaB pathway in TLE. Molecular docking revealed potential interactions between SB271046 and MEF2C/NF-kappaB p65. 5-HT6R antagonist SB271046 may alleviate epilepsy-associated emotional and cognitive disturbances, potentially through neurostabilizing and anti-inflammatory effects linked to modulation of the MEF2C/NF-kappaB pathway. These mechanistic associations remain preliminary and warrant further validation using targeted gain- or loss-of-function approaches.",
+    "keywords": [
+      "5-hydroxytryptamine 6",
+      "Depression-like behaviors",
+      "MEF2C/NF-kappaB pathway",
+      "Temporal lobe epilepsy"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*MEF2 Transcription Factors/metabolism",
+      "*Epilepsy, Temporal Lobe/metabolism/drug therapy/complications",
+      "Male",
+      "*Depression/drug therapy/metabolism",
+      "Rats",
+      "*NF-kappa B/metabolism",
+      "*Signal Transduction/drug effects/physiology",
+      "Rats, Sprague-Dawley",
+      "*Behavior, Animal/drug effects",
+      "Hippocampus/metabolism/drug effects",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Yi-Fan",
+        "Shan, Ling",
+        "Wang, Zhi-Hao",
+        "Sun, Meng-Han",
+        "Mai, Ling-Ling",
+        "Lodder, Thijs",
+        "Zheng, Qi-Si",
+        "Huang, Bin"
+      ],
+      "short_names": [
+        "Xu YF",
+        "Shan L",
+        "Wang ZH",
+        "Sun MH",
+        "Mai LL",
+        "Lodder T",
+        "Zheng QS",
+        "Huang B"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-4969-8457",
+        "ORCID: 0009-0000-7634-0368",
+        "ORCID: 0009-0007-1611-3711",
+        "ORCID: 0009-0005-7779-7657",
+        "ORCID: 0009-0001-1400-7460",
+        "ORCID: 0009-0008-9896-126X",
+        "ORCID: 0009-0001-6936-6874",
+        "ORCID: 0009-0007-6653-9876"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, Nanjing Drum Tower Hospital, The Affiliated Hospital of Nanjing University Medical School, Nanjing, 210008, Jiangsu Province, China.",
+        "Department of Cognitive Neuroscience, Donders Institute for Brain, Radboud University Medical Center, Cognition, and Behavior, 6525 EN, Nijmegen, Netherlands.",
+        "Department of Neuropsychiatric Disorders, Netherlands Institute for Neuroscience, Institute of the Royal Netherlands Academy of Arts and Sciences, Amsterdam, Netherlands.",
+        "Department of Dentistry, Orthodontics and Craniofacial Biology, Research Institute for Medical Innovation, Radboud University Medical Center, 6525EX, Nijmegen, Netherlands.",
+        "Department of Cognitive Neuroscience, Donders Institute for Brain, Radboud University Medical Center, Cognition, and Behavior, 6525 EN, Nijmegen, Netherlands.",
+        "Department of Cognitive Neuroscience, Donders Institute for Brain, Radboud University Medical Center, Cognition, and Behavior, 6525 EN, Nijmegen, Netherlands.",
+        "Han University of Applied Sciences, 6524 TM, Nijmegen, Netherlands.",
+        "Department of Laboratory Medicine, Nanjing Drum Tower Hospital, The Affiliated Hospital of Nanjing University Medical School, Nanjing, 210008, Jiangsu Province, China. zhengqsndth@csc-edu.cn.",
+        "Comprehensive Cancer Center of Nanjing Drum Tower Hospital, The Affiliated Hospital of Nanjing University Medical School & Clinical Cancer Institute of Nanjing University, Nanjing, 210008, Jiangsu Province, China. huangbinccc@univ-edu.org.",
+        "Department of Radiotherapy, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China. huangbinccc@univ-edu.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Yi-Fan",
+        "short_name": "Xu YF",
+        "identifiers": [
+          "0009-0002-4969-8457"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery, Nanjing Drum Tower Hospital, The Affiliated Hospital of Nanjing University Medical School, Nanjing, 210008, Jiangsu Province, China.",
+          "Department of Cognitive Neuroscience, Donders Institute for Brain, Radboud University Medical Center, Cognition, and Behavior, 6525 EN, Nijmegen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Shan, Ling",
+        "short_name": "Shan L",
+        "identifiers": [
+          "0009-0000-7634-0368"
+        ],
+        "affiliations": [
+          "Department of Neuropsychiatric Disorders, Netherlands Institute for Neuroscience, Institute of the Royal Netherlands Academy of Arts and Sciences, Amsterdam, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhi-Hao",
+        "short_name": "Wang ZH",
+        "identifiers": [
+          "0009-0007-1611-3711"
+        ],
+        "affiliations": [
+          "Department of Dentistry, Orthodontics and Craniofacial Biology, Research Institute for Medical Innovation, Radboud University Medical Center, 6525EX, Nijmegen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Sun, Meng-Han",
+        "short_name": "Sun MH",
+        "identifiers": [
+          "0009-0005-7779-7657"
+        ],
+        "affiliations": [
+          "Department of Cognitive Neuroscience, Donders Institute for Brain, Radboud University Medical Center, Cognition, and Behavior, 6525 EN, Nijmegen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Mai, Ling-Ling",
+        "short_name": "Mai LL",
+        "identifiers": [
+          "0009-0001-1400-7460"
+        ],
+        "affiliations": [
+          "Department of Cognitive Neuroscience, Donders Institute for Brain, Radboud University Medical Center, Cognition, and Behavior, 6525 EN, Nijmegen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Lodder, Thijs",
+        "short_name": "Lodder T",
+        "identifiers": [
+          "0009-0008-9896-126X"
+        ],
+        "affiliations": [
+          "Han University of Applied Sciences, 6524 TM, Nijmegen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Zheng, Qi-Si",
+        "short_name": "Zheng QS",
+        "identifiers": [
+          "0009-0001-6936-6874"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine, Nanjing Drum Tower Hospital, The Affiliated Hospital of Nanjing University Medical School, Nanjing, 210008, Jiangsu Province, China. zhengqsndth@csc-edu.cn."
+        ]
+      },
+      {
+        "full_name": "Huang, Bin",
+        "short_name": "Huang B",
+        "identifiers": [
+          "0009-0007-6653-9876"
+        ],
+        "affiliations": [
+          "Comprehensive Cancer Center of Nanjing Drum Tower Hospital, The Affiliated Hospital of Nanjing University Medical School & Clinical Cancer Institute of Nanjing University, Nanjing, 210008, Jiangsu Province, China. huangbinccc@univ-edu.org.",
+          "Department of Radiotherapy, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China. huangbinccc@univ-edu.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cellular and molecular neurobiology"
+    ],
+    "journal_abbrev": [
+      "Cell Mol Neurobiol"
+    ],
+    "pub_date": "2026 Jul 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42911284"
+    ],
+    "review": [
+      "42911284"
+    ],
+    "pmc": [
+      "13691032"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

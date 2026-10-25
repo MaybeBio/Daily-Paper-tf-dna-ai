@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42919378",
+    "doi": "10.1186/s12967-026-08767-x",
+    "title": "Shikonin triggers apoptosis in lung adenocarcinoma through the FHL2-FOXO1 signaling axis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: FHL2 is an oncogenic scaffold protein that is overexpressed in lung adenocarcinoma (LUAD), making it a promising therapeutic target. SHK, a natural naphthoquinone, exhibits antitumor activity, but its molecular mechanism in LUAD, particularly its relationship with FHL2, remains unclear. AIM OF THIS STUDY: The present study aimed to define the effects of SHK on NSCLC and identify the potential underlying molecular mechanisms. METHODS: The anti-tumor effects of SHK were evaluated in LUAD cell lines (A549andH1299) and a patient-derived xenograft (PDX) model using CCK-8, colony formation, Transwell, and flow cytometry assays. Integrated proteomics, bioinformatics, molecular docking, and cellular thermal shift assays (CETSAs) were employed to identify the direct target of SHK. The underlying mechanism was investigated through co-immunoprecipitation (Co-IP), Western blotting, qRT-PCR, cycloheximide (CHX) chase assays, and immunofluorescence/immunohistochemiscal (IF/IHC) staining. RESULTS: In both in vitro and PDX models, SHK potently inhibited LUAD growthand metastasisand induced cell death. At the molecular level, FHL2 was identified as a direct target of SHK. The direct binding of SHK to FHL2 promoted its proteasomal degradation, thereby disrupting the FHL2-FOXO1 complex. The dissociation of this complex increased FOXO1 acetylation and promoted its nuclear translocation, leading to the subsequent activation of the caspase cascade and apoptosis. CONCLUSION: Our findings indicate a novel signaling pathway through which SHK inhibits LUAD: by directly targeting FHL2 for degradation, SHK disrupts the FHL2-FOXO1 complex, which activates FOXO1-mediated transcription and triggers apoptosis. This study not only provides mechanistic insight into the antitumor function of SHK but also identifies the FHL2-FOXO1 axis as a potential therapeutic target for LUAD.",
+    "keywords": [
+      "Apoptosis",
+      "FHL2",
+      "FOXO1",
+      "Lung adenocarcinoma",
+      "SHK"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*LIM-Homeodomain Proteins/metabolism",
+      "*Muscle Proteins/metabolism",
+      "*Apoptosis/drug effects",
+      "*Forkhead Box Protein O1/metabolism",
+      "*Signal Transduction/drug effects",
+      "*Adenocarcinoma of Lung/pathology/metabolism/drug therapy",
+      "Cell Line, Tumor",
+      "Animals",
+      "*Lung Neoplasms/pathology/metabolism/drug therapy",
+      "*Transcription Factors/metabolism",
+      "*Naphthoquinones/pharmacology/therapeutic use",
+      "Xenograft Model Antitumor Assays",
+      "Cell Proliferation/drug effects",
+      "Mice, Nude"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Shiqun",
+        "Zhou, Meirong",
+        "Zhang, Wen",
+        "Zhong, Jiyong",
+        "Han, Wenqian",
+        "Wang, Zhaoxuan",
+        "Wang, Shiqing",
+        "Gu, Chundong",
+        "Yu, Zhenlong",
+        "Zhao, Shilei"
+      ],
+      "short_names": [
+        "Chen S",
+        "Zhou M",
+        "Zhang W",
+        "Zhong J",
+        "Han W",
+        "Wang Z",
+        "Wang S",
+        "Gu C",
+        "Yu Z",
+        "Zhao S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Weinan Central Hospital, Weinan, 714000, China.",
+        "Second Affiliated Hospital, Dalian Medical University, Dalian, 116000, China.",
+        "Second Affiliated Hospital, Dalian Medical University, Dalian, 116000, China.",
+        "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China.",
+        "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China.",
+        "Weinan Central Hospital, Weinan, 714000, China.",
+        "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China.",
+        "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China.",
+        "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China.",
+        "Lung Cancer Diagnosis and Treatment Center of Dalian, The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116011, China.",
+        "College of Pharmacy, Dalian Medical University, Dalian, 116044, China. qdyuzl871123@163.com.",
+        "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China. bbstnt@126.com.",
+        "Lung Cancer Diagnosis and Treatment Center of Dalian, The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116011, China. bbstnt@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Shiqun",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Weinan Central Hospital, Weinan, 714000, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Meirong",
+        "short_name": "Zhou M",
+        "identifiers": [],
+        "affiliations": [
+          "Second Affiliated Hospital, Dalian Medical University, Dalian, 116000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wen",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Second Affiliated Hospital, Dalian Medical University, Dalian, 116000, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Jiyong",
+        "short_name": "Zhong J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China."
+        ]
+      },
+      {
+        "full_name": "Han, Wenqian",
+        "short_name": "Han W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China.",
+          "Weinan Central Hospital, Weinan, 714000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhaoxuan",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shiqing",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Chundong",
+        "short_name": "Gu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China.",
+          "Lung Cancer Diagnosis and Treatment Center of Dalian, The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116011, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Zhenlong",
+        "short_name": "Yu Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Dalian Medical University, Dalian, 116044, China. qdyuzl871123@163.com."
+        ]
+      },
+      {
+        "full_name": "Zhao, Shilei",
+        "short_name": "Zhao S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, First Affiliated Hospital of Dalian Medical University, Dalian, 116044, China. bbstnt@126.com.",
+          "Lung Cancer Diagnosis and Treatment Center of Dalian, The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116011, China. bbstnt@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of translational medicine"
+    ],
+    "journal_abbrev": [
+      "J Transl Med"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42919378"
+    ],
+    "review": [
+      "42919378"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

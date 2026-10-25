@@ -1,0 +1,177 @@
+{
+  "identity": {
+    "pmid": "42917303",
+    "doi": "10.1021/acs.orglett.6c03240",
+    "title": "Boereguasins A-D, Cytochalasins from Boeremia exigua with Differential MAPK/NF-kappaB Inhibition."
+  },
+  "content": {
+    "abstract": "Four unprecedented cytochalasins, boereguasins A-D (1-4, respectively), were purified from the endophytic fungus Boeremia exigua. Structurally, compound 1 contains an adenosine moiety and features a novel bridged 5/6/13/5/6/5 ring system. Compound 2 represents the first cytochalasin with an odd-numbered carbon chain (19 carbons), which is presumably assembled via the fungal polyketide synthase pathway from an unusual propionyl-CoA starter unit. Compound 3 incorporates an unusual 15-membered carbocyclic ring, while compound 4 possesses a novel 5/6/14/6 tetracyclic scaffold. The structures were established by comprehensive spectroscopic analysis, ECD calculations, and DP4+ analysis. Compound 2 exhibited potent anti-inflammatory activity in LPS-induced RAW264.7 macrophages, significantly reducing NO, TNF-alpha, IL-6, and PGE2 levels. It suppressed the MAPK/NF-kappaB signaling pathway by inhibiting the phosphorylation of ERK, JNK, IkappaBalpha, and p65 and downregulating iNOS and COX-2 expression. Transcriptomic and docking studies confirmed that 2 targets key regulators and stably binds to the active pockets of TPL2 and NF-kappaB p65. In vivo, 1 and 2 reduced foot edema and inflammatory cytokines, with no acute toxicity observed.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*NF-kappa B/antagonists & inhibitors/metabolism",
+      "Mice",
+      "Molecular Structure",
+      "Lipopolysaccharides/pharmacology",
+      "RAW 264.7 Cells",
+      "*Cytochalasins/chemistry/pharmacology/isolation & purification",
+      "*Mitogen-Activated Protein Kinases/antagonists & inhibitors/metabolism",
+      "Macrophages/drug effects",
+      "Nitric Oxide",
+      "Tumor Necrosis Factor-alpha/metabolism",
+      "Signal Transduction/drug effects",
+      "*Anti-Inflammatory Agents/pharmacology/chemistry/isolation & purification",
+      "*Ascomycota/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tian, Chun",
+        "Shi, Bao-Bao",
+        "Ma, Qin",
+        "Liu, Qing",
+        "Feng, Meng-Lin",
+        "Wei, Yue-Ping",
+        "Han, Shu-Yu",
+        "Ai, Hong-Lian",
+        "Liu, Ji-Kai"
+      ],
+      "short_names": [
+        "Tian C",
+        "Shi BB",
+        "Ma Q",
+        "Liu Q",
+        "Feng ML",
+        "Wei YP",
+        "Han SY",
+        "Ai HL",
+        "Liu JK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmacy, Anhui University of Chinese Medicine, Hefei230012, People's Republic of China.",
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+        "School of Pharmacy, Anhui University of Chinese Medicine, Hefei230012, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tian, Chun",
+        "short_name": "Tian C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+          "School of Pharmacy, Anhui University of Chinese Medicine, Hefei230012, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Shi, Bao-Bao",
+        "short_name": "Shi BB",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ma, Qin",
+        "short_name": "Ma Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qing",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Feng, Meng-Lin",
+        "short_name": "Feng ML",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wei, Yue-Ping",
+        "short_name": "Wei YP",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Han, Shu-Yu",
+        "short_name": "Han SY",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ai, Hong-Lian",
+        "short_name": "Ai HL",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ji-Kai",
+        "short_name": "Liu JK",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, South-Central Minzu University, Wuhan430074, People's Republic of China.",
+          "School of Pharmacy, Anhui University of Chinese Medicine, Hefei230012, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Organic letters"
+    ],
+    "journal_abbrev": [
+      "Org Lett"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917303"
+    ],
+    "review": [
+      "42917303"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

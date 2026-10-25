@@ -1,0 +1,205 @@
+{
+  "identity": {
+    "pmid": "42904776",
+    "doi": "10.1016/j.ijbiomac.2025.148392",
+    "title": "Computational screening and nanodelivery of Carya cathayensis-derived peptide DFR for targeted suppression of neuroinflammation via iNOS/NF-kappaB/MAPK pathways."
+  },
+  "content": {
+    "abstract": "Neuroinflammation, a critical innate immune response in the central nervous system (CNS), is closely associated with dysregulated inflammatory pathways. Targeting key mediators such as inducible nitric oxide synthase (iNOS) and the NF-kappaB/MAPK signaling axis offers a promising strategy for mitigating inflammatory cascades. In this study, three novel peptides derived from Carya cathayensis (DFR, GAR, NAK) were computationally screened via molecular docking and dynamics simulations for their iNOS inhibitory potential. DFR demonstrated superior binding affinity and stability, validated through in vitro assays where it significantly suppressed LPS-induced nitric oxide (NO) and pro-inflammatory cytokine (IL-1beta, TNF-alpha, IL-6) production in BV2 microglia. To enhance therapeutic efficacy, DFR was engineered into a nanostructured delivery system (pADFR) through conjugation with a targeting ligand and PEGylation. In vivo evaluations revealed that pADFR alleviated LPS-induced behavioral deficits and reduced inflammatory mediators in mice, with mechanistic studies highlighting its suppression of NF-kappaB/MAPK pathway activation. This study underscores the potential of peptide-based nanostructures for targeted modulation of neuroinflammatory pathways, offering a platform for precision therapeutic development.",
+    "keywords": [
+      "Hickory peptide",
+      "Nanodelivery system",
+      "Neuroinflammation",
+      "iNOS inhibition"
+    ],
+    "mesh_terms": [
+      "*Nitric Oxide Synthase Type II/metabolism",
+      "Animals",
+      "*NF-kappa B/metabolism",
+      "Mice",
+      "*Peptides/chemistry/pharmacology",
+      "Lipopolysaccharides",
+      "*Neuroinflammatory Diseases/drug therapy/metabolism/pathology",
+      "Molecular Docking Simulation",
+      "Microglia/drug effects/metabolism",
+      "Nitric Oxide/metabolism",
+      "*MAP Kinase Signaling System/drug effects",
+      "Cytokines/metabolism",
+      "Signal Transduction/drug effects",
+      "Cell Line",
+      "Anti-Inflammatory Agents/pharmacology/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Kexin",
+        "He, Yanling",
+        "Li, Shasha",
+        "Tao, Han",
+        "Wei, Liang",
+        "Huang, Jianqin",
+        "Jiang, Chenyu",
+        "Farag, Mohamed A",
+        "Song, Lili",
+        "Gao, Fei"
+      ],
+      "short_names": [
+        "Liu K",
+        "He Y",
+        "Li S",
+        "Tao H",
+        "Wei L",
+        "Huang J",
+        "Jiang C",
+        "Farag MA",
+        "Song L",
+        "Gao F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China.",
+        "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China.",
+        "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China.",
+        "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China.",
+        "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China.",
+        "State Key Laboratory of Subtropical Silviculture, Zhejiang A&F University, Lin'an, 311300, Zhejiang Province, China.",
+        "State Key Laboratory of Subtropical Silviculture, Zhejiang A&F University, Lin'an, 311300, Zhejiang Province, China.",
+        "Pharmacognosy Department, Faculty of Pharmacy, Cairo University, Cairo, Egypt.",
+        "State Key Laboratory of Subtropical Silviculture, Zhejiang A&F University, Hangzhou, 311300, China. Electronic address: lilisong@zafu.edu.cn.",
+        "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China. Electronic address: gfeitcm@zafu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Kexin",
+        "short_name": "Liu K",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China."
+        ]
+      },
+      {
+        "full_name": "He, Yanling",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shasha",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Han",
+        "short_name": "Tao H",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Liang",
+        "short_name": "Wei L",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jianqin",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Subtropical Silviculture, Zhejiang A&F University, Lin'an, 311300, Zhejiang Province, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Chenyu",
+        "short_name": "Jiang C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Subtropical Silviculture, Zhejiang A&F University, Lin'an, 311300, Zhejiang Province, China."
+        ]
+      },
+      {
+        "full_name": "Farag, Mohamed A",
+        "short_name": "Farag MA",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmacognosy Department, Faculty of Pharmacy, Cairo University, Cairo, Egypt."
+        ]
+      },
+      {
+        "full_name": "Song, Lili",
+        "short_name": "Song L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Subtropical Silviculture, Zhejiang A&F University, Hangzhou, 311300, China. Electronic address: lilisong@zafu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Gao, Fei",
+        "short_name": "Gao F",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University, Hangzhou, 311300, China. Electronic address: gfeitcm@zafu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological macromolecules"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Macromol"
+    ],
+    "pub_date": "2025 Nov",
+    "pub_year": "2025",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 17:33",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42904776"
+    ],
+    "review": [
+      "42904776"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141-8130(25)08949-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-910",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

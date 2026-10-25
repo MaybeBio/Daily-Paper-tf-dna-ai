@@ -1,0 +1,164 @@
+{
+  "identity": {
+    "pmid": "42907533",
+    "doi": "10.1038/s41587-026-03348-1",
+    "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells."
+  },
+  "content": {
+    "abstract": "Here we present DynaVelo, a generative neural ordinary differential equation model that learns the joint dynamics of gene expression and transcription factor (TF) motif activity from single-cell multiome data. DynaVelo learns a functional form of the vector field, such that the model can be perturbed in silico and not only used to draw trajectories. We show that DynaVelo recovers the bifurcating in vivo dynamics of wild-type murine germinal center (GC) B cells and reveals how these dynamics change under heterozygous loss of epigenetic regulators Arid1a and Ctcf. In silico perturbation yields dynamic and cell-state-specific gene regulatory networks (GRNs) that recover known TF-to-gene edges in the wild-type GC GRN and predicts those that are disrupted in mutants. Perturbing Arid1aHet GCs in silico identified Ctcf, Stat3 and Bcl6 as rescue targets for Arid1a loss. In vivo experiments in double-heterozygous mice confirmed rescue of the Arid1aHet dark-zone phenotype in all three cases, and multiome profiling of Arid1aHet;CtcfHet GCs validated the predicted shift toward wild-type dynamics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Karbalayghareh, Alireza",
+        "Pelzer, Benedikt",
+        "Chin, Christopher R",
+        "Melnick, Ari",
+        "Barisic, Darko",
+        "Leslie, Christina S"
+      ],
+      "short_names": [
+        "Karbalayghareh A",
+        "Pelzer B",
+        "Chin CR",
+        "Melnick A",
+        "Barisic D",
+        "Leslie CS"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4308-2582",
+        "ORCID: 0000-0002-2140-3197",
+        "ORCID: 0000-0002-8074-2287",
+        "ORCID: 0000-0001-7007-9138",
+        "ORCID: 0000-0002-4571-5910"
+      ],
+      "affiliations": [
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Department of Hematology and Stem Cell Transplantation, West German Cancer Center, University Duisburg-Essen, University Hospital Essen, Essen, Germany.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA.",
+        "Josep Carreras Leukaemia Research Institute, Barcelona, Spain.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA. dab2078@med.cornell.edu.",
+        "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA. dab2078@med.cornell.edu.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA. lesliec@mskcc.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Karbalayghareh, Alireza",
+        "short_name": "Karbalayghareh A",
+        "identifiers": [
+          "0000-0002-4308-2582"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Pelzer, Benedikt",
+        "short_name": "Pelzer B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+          "Department of Hematology and Stem Cell Transplantation, West German Cancer Center, University Duisburg-Essen, University Hospital Essen, Essen, Germany."
+        ]
+      },
+      {
+        "full_name": "Chin, Christopher R",
+        "short_name": "Chin CR",
+        "identifiers": [
+          "0000-0002-2140-3197"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Melnick, Ari",
+        "short_name": "Melnick A",
+        "identifiers": [
+          "0000-0002-8074-2287"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+          "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA.",
+          "Josep Carreras Leukaemia Research Institute, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Barisic, Darko",
+        "short_name": "Barisic D",
+        "identifiers": [
+          "0000-0001-7007-9138"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA. dab2078@med.cornell.edu.",
+          "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA. dab2078@med.cornell.edu."
+        ]
+      },
+      {
+        "full_name": "Leslie, Christina S",
+        "short_name": "Leslie CS",
+        "identifiers": [
+          "0000-0002-4571-5910"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA. lesliec@mskcc.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature biotechnology"
+    ],
+    "journal_abbrev": [
+      "Nat Biotechnol"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42907533"
+    ],
+    "review": [
+      "42907533"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41587-026-03348-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

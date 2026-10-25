@@ -1,0 +1,178 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15010963/v1",
+  "title": "Binding Mode of the Heterocyclic Amine 2-Amino-9H-pyrido[2,3-b] indole (AαC) to DNA Elucidated by Molecular Docking and Molecular Dynamics Simulation",
+  "doi": "10.26434/chemrxiv.15010963/v1",
+  "abstract": "Background: 2-Amino-9H-pyrido[2,3-b]indole (AαC) is a mutagenic and carcinogenic heterocyclic aromatic amine formed by pyrolysis of proteins in cooked meat and present in tobacco smoke. After metabolic activation to a reactive nitrenium ion, it modifies DNA covalently, mainly at guanine. How AαC first associates with DNA, before any covalent bond forms, is not well understood. Methods: We docked AαC to three B-DNA dodecamers (PDB IDs 1BNA, 2Z2G and 2HKC) with PatchDock and FireDock, and ran explicit-solvent molecular dynamics (MD) simulations of the docked complexes in NAMD 2.13 with the CHARMM36 force field (1BNA: 10 ns; 2Z2G: 50 ns; NPT, 300 K, 0.15 M NaCl). Results: AαC bound in the minor groove of all three dodecamers, with global binding energies of -50.08 (1BNA), -53.41 (2Z2G) and -45.22 kcal/mol (2HKC). Atomic van der Waals terms contributed -16.41 to -18.36 kcal/mol, and single hydrogen bonds to thymine, guanine or adenine oxygen atoms were identified (2.2–2.8 Å). In the simulations AαC remained bound with a low, stable backbone RMSD, whereas the DNA backbone fluctuated considerably more. The minor-groove poses were poorly oriented for covalent attack when the base pairs were intact and canonical. Conclusions: Neutral AαC forms stable, groove-bound non-covalent complexes with B-DNA, but these complexes do not by themselves position the amine for C8-guanine adduct formation. Local distortion of the DNA, or the charged nitrenium ion, may be required. The complexes presented here serve as starting structures for ongoing quantum-mechanical studies of nitrenium ion stability and covalent adduct formation.",
+  "authors": [
+    "Gurudeeban Selvaraj",
+    "Satyavani Kaliamurthi",
+    "Gilles H. Peslherbe",
+    "Dong-qing Wei"
+  ],
+  "published_date": "2026-10-23",
+  "updated_date": "2026-10-23T10:55:28Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15010963/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010963/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T11:39:16Z",
+        "timestamp": 1792755556154,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Background: 2-Amino-9H-pyrido[2,3-b]indole (AαC) is a mutagenic and carcinogenic heterocyclic aromatic amine formed by pyrolysis of proteins in cooked meat and present in tobacco smoke. After metabolic activation to a reactive nitrenium ion, it modifies DNA covalently, mainly at guanine. How AαC first associates with DNA, before any covalent bond forms, is not well understood. Methods: We docked AαC to three B-DNA dodecamers (PDB IDs 1BNA, 2Z2G and 2HKC) with PatchDock and FireDock, and ran explicit-solvent molecular dynamics (MD) simulations of the docked complexes in NAMD 2.13 with the CHARMM36 force field (1BNA: 10 ns; 2Z2G: 50 ns; NPT, 300 K, 0.15 M NaCl). Results: AαC bound in the minor groove of all three dodecamers, with global binding energies of -50.08 (1BNA), -53.41 (2Z2G) and -45.22 kcal/mol (2HKC). Atomic van der Waals terms contributed -16.41 to -18.36 kcal/mol, and single hydrogen bonds to thymine, guanine or adenine oxygen atoms were identified (2.2–2.8 Å). In the simulations AαC remained bound with a low, stable backbone RMSD, whereas the DNA backbone fluctuated considerably more. The minor-groove poses were poorly oriented for covalent attack when the base pairs were intact and canonical. Conclusions: Neutral AαC forms stable, groove-bound non-covalent complexes with B-DNA, but these complexes do not by themselves position the amine for C8-guanine adduct formation. Local distortion of the DNA, or the charged nitrenium ion, may be required. The complexes presented here serve as starting structures for ongoing quantum-mechanical studies of nitrenium ion stability and covalent adduct formation.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15010963/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T10:55:28Z",
+        "timestamp": 1792752928000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Binding Mode of the Heterocyclic Amine 2-Amino-9H-pyrido[2,3-b] indole (AαC) to DNA Elucidated by Molecular Docking and Molecular Dynamics Simulation"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7223-3853",
+          "authenticated-orcid": true,
+          "given": "Gurudeeban",
+          "family": "Selvaraj",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Satyavani",
+          "family": "Kaliamurthi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gilles H.",
+          "family": "Peslherbe",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dong-qing",
+          "family": "Wei",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010963/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T10:55:28Z",
+        "timestamp": 1792752928000
+      },
+      "score": 137.0834,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010963/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15010963/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

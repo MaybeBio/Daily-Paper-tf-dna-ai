@@ -1,0 +1,135 @@
+{
+  "identity": {
+    "pmid": "42896369",
+    "doi": "10.1016/j.plaphy.2026.111860",
+    "title": "KNOX-HDAC2 complex suppresses the CAND1 expression is involved in sporophytic development of Pyropia yezoensis."
+  },
+  "content": {
+    "abstract": "The alternation of generations is a critical developmental process in plants. Knotted1-like homeobox (KNOX) transcription factors are known to regulate cell fate and alternation of generations in land plants, while their regulatory mechanisms in basal photosynthetic eukaryotes remain elusive. Here, we characterized the PyKNOX, a highly conserved homeodomain transcription factor from the red algae Pyropia yezoensis and demonstrated its essential role in maintaining the sporophyte phase. Using affinity purification-mass spectrometry (AP-MS) alongside in vitro and in vivo interaction assays, we revealed that PyKNOX physically recruits the histone deacetylase PyHDAC2 to assemble a transcriptional repressor complex. Genome-wide binding landscape analysis via DNA affinity purification sequencing (DAP-seq) identified a conserved \"TGAG\" core motif and highlighted a significant enrichment of target genes within the Skp1-Cullin1-F-box (SCF) ubiquitin ligase complex. Further yeast one-hybrid (Y1H), EMAS and molecular docking assays unequivocally confirmed that PyKNOX directly targets and binds to the promoter of PyCAND1, a key exchange factor in the ubiquitin-proteasome pathway. Spatiotemporal expression profiling demonstrated that the PyKNOX-PyHDAC2 complex is highly upregulated during the diploid sporophyte stages (free-living filaments and conchosporangial branches), showing a strong negative correlation with the PyCAND1 expression. Together, our findings propose a coordinated epigenetic and transcriptional network where the PyKNOX-PyHDAC2 complex suppresses expression of the SCF component CAND1 in sporophytic development of P.yezoensis. This study provides evolutionary insights into the genetic cascades governing life cycle transitions in red algae P. yezoensis, and offers theoretical guidance for the future nori seedling industry.",
+    "keywords": [
+      "PyCAND1",
+      "PyHDAC2",
+      "PyKNOX",
+      "Pyropia yezoensis",
+      "Sporophytic development"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Xiuwen",
+        "Xu, Ling",
+        "He, Hongyan",
+        "Zeb, Aurang",
+        "Shen, Songdong"
+      ],
+      "short_names": [
+        "Yang X",
+        "Xu L",
+        "He H",
+        "Zeb A",
+        "Shen S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China.",
+        "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China.",
+        "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China.",
+        "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China; Key Laboratory of Environmental Medicine and Engineering, School of Public Health, Southeast University, Nanjing, 210009, China.",
+        "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China. Electronic address: shensongdong@suda.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Xiuwen",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ling",
+        "short_name": "Xu L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China."
+        ]
+      },
+      {
+        "full_name": "He, Hongyan",
+        "short_name": "He H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China."
+        ]
+      },
+      {
+        "full_name": "Zeb, Aurang",
+        "short_name": "Zeb A",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China; Key Laboratory of Environmental Medicine and Engineering, School of Public Health, Southeast University, Nanjing, 210009, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Songdong",
+        "short_name": "Shen S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Soochow University, Suzhou, 215101, China. Electronic address: shensongdong@suda.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant physiology and biochemistry : PPB"
+    ],
+    "journal_abbrev": [
+      "Plant Physiol Biochem"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 23:30",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42896369"
+    ],
+    "review": [
+      "42896369"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0981-9428(26)00846-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-LBX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

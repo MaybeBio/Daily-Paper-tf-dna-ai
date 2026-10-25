@@ -1,0 +1,140 @@
+{
+  "identity": {
+    "pmid": "42897609",
+    "doi": "10.1186/s13148-026-02208-8",
+    "title": "FUBP1 lactylation suppresses trophoblast function in fetal growth restriction."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Fetal growth restriction (FGR) is a common complication of pregnancy; however, its exact molecular mechanisms remain unclear. Excessive lactate accumulation in the placenta is often observed during FGR. High concentrations of lactate can regulate the proliferation of pathological cells through lactylation of key proteins. Therefore, we aimed to screen key lactylation modification-related genes (LMRGs) and provide new directions for the diagnosis and treatment of FGR. METHODS: The Differentially expressed LMRGs (DE-LMRGs) in FGR were evaluated using the Gene Expression Omnibus database. Functional enrichment analysis was performed, and a protein-protein interaction (PPI) network was created to explore the characteristics of placental gene networks associated with FGR. In addition, secondary cluster analysis was performed using a machine learning algorithm to screen critical genes. We evaluated the degree of immune cell infiltration of key genes using single-sample gene set enrichment analysis. The expression and function of key genes in FGR were verified experimentally. Furthermore, FUBP1 lactylation was assessed using mass spectrometry and immunoprecipitation. We overexpressed wild-type and mutant FUBP1 in HTR-8/SVneo cells to investigate how its lactylation regulates trophoblast function. Finally, patient-derived organoids (PDO) were cultured to confirm the underlying mechanism of FUBP1. RESULTS: In total, 35 DE-LMRGs were identified, and their PPI network was constructed. Two distinct FGR clusters were obtained using unsupervised consensus clustering. Moreover, the DE-LMRGs between the two patterns were mainly enriched in immune cell regulation-related molecular functions. We identified 5 overlapping key genes (BCLAF1, FUBP1, S100A6, CSRP1, CSRP2) by integrating the LASSO, random forest (RF), and SVM-RFE algorithms and screening for genes with a large fold change (using log2-FC). FUBP1 and BCLAF1 expression was lower in FGR placental tissues than in normal controls. Functional assays showed that both genes typically promote HTR-8/SVneo cell proliferation and invasion. However, lactylation of FUBP1 exerted the opposite effect by inhibiting proliferation and invasion and promoting apoptosis, indicating that FUBP1 lactylation regulates trophoblast function. Furthermore, PDO derived from the trophoblast tissues of patients with FGR revealed that FUBP1 lactylation suppressed PDO formation. CONCLUSIONS: FUBP1 lactylation is identified as a novel mechanism suppressing trophoblast function in FGR. This finding expands the field of FGR research by highlighting the role of lactylation-modified proteins and provides crucial insights into the pathological mechanisms of FGR.",
+    "keywords": [
+      "BCLAF1",
+      "FUBP1",
+      "Fetal growth restriction",
+      "Lactylation",
+      "Organoids"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Fetal Growth Retardation/genetics/metabolism",
+      "*Trophoblasts/metabolism",
+      "Female",
+      "Pregnancy",
+      "*RNA-Binding Proteins/genetics/metabolism",
+      "*DNA-Binding Proteins/genetics/metabolism",
+      "Placenta/metabolism",
+      "Gene Expression Profiling/methods",
+      "Protein Interaction Maps",
+      "Cell Proliferation",
+      "Cell Line",
+      "Gene Regulatory Networks"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liang, Xinyue",
+        "Yao, Shenshen",
+        "Ma, Jian",
+        "Wang, Dan"
+      ],
+      "short_names": [
+        "Liang X",
+        "Yao S",
+        "Ma J",
+        "Wang D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China.",
+        "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China.",
+        "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China. doctormajian@126.com.",
+        "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China. qwertyuiop-yxz@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liang, Xinyue",
+        "short_name": "Liang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Shenshen",
+        "short_name": "Yao S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Jian",
+        "short_name": "Ma J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China. doctormajian@126.com."
+        ]
+      },
+      {
+        "full_name": "Wang, Dan",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China. qwertyuiop-yxz@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinical epigenetics"
+    ],
+    "journal_abbrev": [
+      "Clin Epigenetics"
+    ],
+    "pub_date": "2026 Jul 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 05:30",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42897609"
+    ],
+    "review": [
+      "42897609"
+    ],
+    "pmc": [
+      "13681806"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-026-02208-8",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4028",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

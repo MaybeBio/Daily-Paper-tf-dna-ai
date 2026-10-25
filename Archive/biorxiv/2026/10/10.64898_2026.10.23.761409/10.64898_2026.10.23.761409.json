@@ -1,0 +1,112 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.23.761409",
+  "title": "Engineered proteins to restore and enhance neurotransmitter release",
+  "doi": "10.64898/2026.10.23.761409",
+  "abstract": "Synapse dysfunction is a hallmark feature of many neurological diseases. Synaptic transmission is initiated in nerve terminals, where active zone protein complexes control vesicle fusion for neurotransmitter release. Here, we engineer proteins that mediate active zone functions and demonstrate their use for reconstituting and strengthening neurotransmission. A protein composed of CaVβ4 and the RIM1 zinc finger, β4-Zn, restored neurotransmitter release after active zone disruption through recruitment of Munc13. We develop β4-MC, derived from the Munc13-1 MUN and C2C domains, which bypasses Munc13 recruitment and directly mediates vesicle docking, priming and fusion after active zone disruption. In β4-MC, MUN domain functions are dispensable for docking, but active MUN and C2C domains are both necessary for neurotransmitter release. In wild-type mouse and human neurons, β4-MC but not β4-Zn strengthens neurotransmitter release. Furthermore, β4-Zn and β4-MC restore and enhance dopamine release in the mouse striatum, respectively. Hence, β4 proteins are engineered secretory proteins with therapeutic potential as enhancers of synaptic function.",
+  "authors": [
+    "Chin M",
+    "Yang K",
+    "Lopez RC",
+    "Tan C",
+    "Kaeser PS"
+  ],
+  "published_date": "2026-10-24",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761409",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761409.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1349539",
+    "raw_record": {
+      "id": "PPR1349539",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.23.761409",
+      "title": "Engineered proteins to restore and enhance neurotransmitter release",
+      "authorString": "Chin M, Yang K, Lopez RC, Tan C, Kaeser PS.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Chin M",
+            "lastName": "Chin",
+            "firstName": "Morven",
+            "initials": "M"
+          },
+          {
+            "fullName": "Yang K",
+            "lastName": "Yang",
+            "firstName": "Ke",
+            "initials": "K"
+          },
+          {
+            "fullName": "Lopez RC",
+            "lastName": "Lopez",
+            "firstName": "Ricardo",
+            "initials": "RC"
+          },
+          {
+            "fullName": "Tan C",
+            "lastName": "Tan",
+            "firstName": "Chao",
+            "initials": "C"
+          },
+          {
+            "fullName": "Kaeser PS",
+            "lastName": "Kaeser",
+            "firstName": "Pascal",
+            "initials": "PS"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Synapse dysfunction is a hallmark feature of many neurological diseases. Synaptic transmission is initiated in nerve terminals, where active zone protein complexes control vesicle fusion for neurotransmitter release. Here, we engineer proteins that mediate active zone functions and demonstrate their use for reconstituting and strengthening neurotransmission. A protein composed of CaVβ4 and the RIM1 zinc finger, β4-Zn, restored neurotransmitter release after active zone disruption through recruitment of Munc13. We develop β4-MC, derived from the Munc13-1 MUN and C2C domains, which bypasses Munc13 recruitment and directly mediates vesicle docking, priming and fusion after active zone disruption. In β4-MC, MUN domain functions are dispensable for docking, but active MUN and C2C domains are both necessary for neurotransmitter release. In wild-type mouse and human neurons, β4-MC but not β4-Zn strengthens neurotransmitter release. Furthermore, β4-Zn and β4-MC restore and enhance dopamine release in the mouse striatum, respectively. Hence, β4 proteins are engineered secretory proteins with therapeutic potential as enhancers of synaptic function.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.23.761409"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-25",
+      "firstPublicationDate": "2026-10-24",
+      "firstIndexDate": "2026-10-25",
+      "hasEvaluations": "N"
+    }
+  }
+}

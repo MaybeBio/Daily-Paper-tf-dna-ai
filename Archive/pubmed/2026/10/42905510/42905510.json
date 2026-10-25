@@ -1,0 +1,114 @@
+{
+  "identity": {
+    "pmid": "42905510",
+    "doi": "10.1016/j.xpro.2026.104902",
+    "title": "Protocol for live-cell imaging and analysis of NF-kappaB localization and target gene transcription in Drosophila S2 * cells."
+  },
+  "content": {
+    "abstract": "NF-kappaB transcription factor (TF) activation is heterogeneous across identically stimulated cells, shaping innate immune responses. Here, we present a protocol to quantify this heterogeneity in live Drosophila melanogaster S2 * cells using dual reporters of NF-kappaB (Relish) subcellular localization and downstream transcription. We describe steps for reporter cell line generation, immune stimulation and time-lapse confocal imaging, and machine-learning-based single-cell analysis to classify signaling behaviors and predict transcriptional responses. For complete details on the use and execution of this protocol, please refer to Nawar et al.(1).",
+    "keywords": [
+      "Cell-based Assays",
+      "Gene Expression",
+      "Immunology",
+      "Microscopy",
+      "Single Cell",
+      "Systems biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nawar, Noshin",
+        "Rits, Emma",
+        "Wunderlich, Zeba"
+      ],
+      "short_names": [
+        "Nawar N",
+        "Rits E",
+        "Wunderlich Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedical Engineering, Boston University, Boston, MA 02215, USA; Biological Design Center, Boston University, Boston, MA 02215, USA. Electronic address: noshin@bu.edu.",
+        "Biological Design Center, Boston University, Boston, MA 02215, USA; Department of Biology, Boston University, Boston, MA 02215, USA.",
+        "Department of Biomedical Engineering, Boston University, Boston, MA 02215, USA; Biological Design Center, Boston University, Boston, MA 02215, USA; Department of Biology, Boston University, Boston, MA 02215, USA. Electronic address: zeba@bu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nawar, Noshin",
+        "short_name": "Nawar N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Boston University, Boston, MA 02215, USA; Biological Design Center, Boston University, Boston, MA 02215, USA. Electronic address: noshin@bu.edu."
+        ]
+      },
+      {
+        "full_name": "Rits, Emma",
+        "short_name": "Rits E",
+        "identifiers": [],
+        "affiliations": [
+          "Biological Design Center, Boston University, Boston, MA 02215, USA; Department of Biology, Boston University, Boston, MA 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Wunderlich, Zeba",
+        "short_name": "Wunderlich Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Boston University, Boston, MA 02215, USA; Biological Design Center, Boston University, Boston, MA 02215, USA; Department of Biology, Boston University, Boston, MA 02215, USA. Electronic address: zeba@bu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42905510"
+    ],
+    "review": [
+      "42905510"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00555-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

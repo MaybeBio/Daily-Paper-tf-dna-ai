@@ -1,0 +1,154 @@
+{
+  "identity": {
+    "pmid": "42915803",
+    "doi": "10.1021/acs.jafc.6c09355",
+    "title": "Immunomodulatory Effects of Galleria mellonella and Alphitobius diaperinus Protein Digestates Generated Using a Modified INFOGEST Protocol - In Vitro and In Silico Evidence."
+  },
+  "content": {
+    "abstract": "Insect-derived peptides have attracted increasing attention due to their potential health-promoting properties. This study investigated peptides released from Galleria mellonella (W) and Alphitobius diaperinus (B) proteins following a modified static INFOGEST protocol. Digestion-derived peptides were identified by LC-MS/MS and evaluated for anti-inflammatory activity using in vitro assays, bioinformatic prediction, and molecular docking, focusing on IKK-beta as a key regulator of the NF-kappaB pathway. At 500 mug protein/mL, W-I2h and B-I2h reduced NF-kappaB reporter activity by 28.7% and 53.5%, respectively, and decreased nitric oxide production by 31%. Digestates also reduced IL-6, TNF-alpha, IFN-gamma, and IL-1beta secretion at selected concentrations and decreased IL-6 and IL-1beta mRNA expression. Conversely, 25 mug protein/mL increased IL-1beta secretion by 109.4% and 102.1%, respectively. Increased HO-1 and gammaGCS transcripts suggested modulation of Nrf2-responsive gene expression, although pathway activation was not confirmed. These findings demonstrate concentration-dependent immunomodulatory effects and identify candidate peptides for future validation.",
+    "keywords": [
+      "NF-kappaB pathway",
+      "Nrf2 pathway",
+      "bioactive peptides",
+      "edible insects",
+      "inflammation",
+      "proinflammatory cytokines"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Insect Proteins/chemistry/pharmacology",
+      "NF-kappa B/immunology/genetics",
+      "*Moths/chemistry",
+      "Interleukin-6/immunology/genetics",
+      "Interleukin-1beta/immunology/genetics",
+      "*Immunologic Factors/chemistry/pharmacology",
+      "Molecular Docking Simulation",
+      "Nitric Oxide/immunology",
+      "Tumor Necrosis Factor-alpha/immunology/genetics",
+      "Cytokines/immunology/genetics",
+      "*Protein Hydrolysates/chemistry/pharmacology",
+      "Tandem Mass Spectrometry",
+      "Mice",
+      "Interferon-gamma/immunology/genetics",
+      "Bioactive Peptides, Dietary",
+      "Peptides/chemistry/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ma, Zidan",
+        "Boesch, Christine",
+        "Mondor, Martin",
+        "Sanchez-Velazquez, Oscar Abel",
+        "Hernandez-Alvarez, Alan Javier"
+      ],
+      "short_names": [
+        "Ma Z",
+        "Boesch C",
+        "Mondor M",
+        "Sanchez-Velazquez OA",
+        "Hernandez-Alvarez AJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6705-5709",
+        "ORCID: 0000-0003-4154-8630"
+      ],
+      "affiliations": [
+        "School of Food Science and Nutrition, University of Leeds, LeedsLS2 9JT, U.K.",
+        "School of Food Science, Southwest University, Chongqing400715, China.",
+        "School of Food Science and Nutrition, University of Leeds, LeedsLS2 9JT, U.K.",
+        "National Alternative Protein Innovation Centre (NAPIC), LeedsLS2 9JT, UK.",
+        "Department of Chemical Engineering and Biotechnological Engineering, Universite de Sherbrooke, Sherbrooke, QuebecJ1K 2R1, Canada.",
+        "Institute of Nutrition and Functional Foods (INAF), Universite Laval, Quebec, QuebecG1V 0A6, Canada.",
+        "School of Food Science and Nutrition, University of Leeds, LeedsLS2 9JT, U.K.",
+        "School of Food Science and Nutrition, University of Leeds, LeedsLS2 9JT, U.K.",
+        "National Alternative Protein Innovation Centre (NAPIC), LeedsLS2 9JT, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ma, Zidan",
+        "short_name": "Ma Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Nutrition, University of Leeds, LeedsLS2 9JT, U.K.",
+          "School of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      },
+      {
+        "full_name": "Boesch, Christine",
+        "short_name": "Boesch C",
+        "identifiers": [
+          "0000-0001-6705-5709"
+        ],
+        "affiliations": [
+          "School of Food Science and Nutrition, University of Leeds, LeedsLS2 9JT, U.K.",
+          "National Alternative Protein Innovation Centre (NAPIC), LeedsLS2 9JT, UK."
+        ]
+      },
+      {
+        "full_name": "Mondor, Martin",
+        "short_name": "Mondor M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering and Biotechnological Engineering, Université de Sherbrooke, Sherbrooke, QuebecJ1K 2R1, Canada.",
+          "Institute of Nutrition and Functional Foods (INAF), Université Laval, Quebec, QuebecG1V 0A6, Canada."
+        ]
+      },
+      {
+        "full_name": "Sánchez-Velázquez, Oscar Abel",
+        "short_name": "Sánchez-Velázquez OA",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Nutrition, University of Leeds, LeedsLS2 9JT, U.K."
+        ]
+      },
+      {
+        "full_name": "Hernández-Álvarez, Alan Javier",
+        "short_name": "Hernández-Álvarez AJ",
+        "identifiers": [
+          "0000-0003-4154-8630"
+        ],
+        "affiliations": [
+          "School of Food Science and Nutrition, University of Leeds, LeedsLS2 9JT, U.K.",
+          "National Alternative Protein Innovation Centre (NAPIC), LeedsLS2 9JT, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915803"
+    ],
+    "review": [
+      "42915803"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

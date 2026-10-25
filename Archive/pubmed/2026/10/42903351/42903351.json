@@ -1,0 +1,189 @@
+{
+  "identity": {
+    "pmid": "42903351",
+    "doi": "10.3389/fimmu.2026.1957511",
+    "title": "Variant-informed multimodal tissue-state modeling reveals an NRF2 stress niche and dependency axis in KEAP1/NFE2L2-altered cancer."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Cancer genotypes influence transcriptional programs, spatial organization, histopathology, and treatment-response states, yet these molecular and tissue-level features are often analyzed separately in public-data studies. VISTA was developed as a variant-informed, multimodal framework for modeling genotype-linked tissue states and prioritizing validation-ready biological hypotheses. METHODS: VISTA integrates somatic variants, protein-region and AlphaMissense-informed priors, RNA-state scoring, whole-slide image embeddings, immunotherapy cohorts, spatial and single-cell references, cell-line dependency maps, and pharmacogenomic screens. We evaluated the framework in KEAP1/NFE2L2-altered lung cancer and melanoma, using the NRF2 stress axis as a biologically defined test case. Analyses incorporated project-adjusted modeling, bootstrap confidence intervals, permutation testing, leave-project sensitivity analyses, independent tumor-level validation cohorts, fixed-effect external meta-analysis, model-system analyses using DepMap/CCLE, tissue-context analyses, immunotherapy cohorts, and exploratory whole-slide image analyses. RESULTS: In TCGA LUAD, LUSC, and SKCM pilot cohorts, KEAP1 and NFE2L2 alterations were consistently associated with NRF2 stress activation across project-adjusted models and sensitivity analyses. Independent analyses of CPTAC LUAD, CPTAC LSCC, and non-TCGA LUAD cohorts reproduced higher NRF2-state scores in KEAP1/NFE2L2-altered tumors. Fixed-effect external meta-analysis supported associations with both KEAP1 mutation and combined KEAP1-or-NFE2L2 alteration status. DepMap/CCLE analyses provided complementary model-system evidence: KEAP1/NFE2L2-mutant models had higher NRF2 scores, while NRF2-high or KEAP1/NFE2L2-mutant contexts showed stronger NFE2L2 dependency. Tissue-context analyses positioned NRF2 stress near hypoxic, stromal, myeloid, and immune programs. Immunotherapy cohorts supported the relevance of NRF2-associated states to treatment-response biology, while also indicating limited utility for static pan-cancer prediction. Exploratory whole-slide image analyses using pathology foundation-model embeddings identified morphology associations with myeloid, hypoxic, and CAF/TGF-beta barrier programs. DISCUSSION: VISTA provides an evidence-layered approach to variant-informed tissue-state modeling. By integrating genomic, transcriptomic, imaging, spatial, cellular, dependency, and pharmacogenomic evidence, it can help prioritize genotype-linked cancer states and validation-ready hypotheses. VISTA is not intended to function as a stand-alone clinical predictor; its claims are bounded by the evidence available in each data layer and by the biological and clinical context of the analyzed cohorts.",
+    "keywords": [
+      "KEAP1/NFE2L2 alterations",
+      "NRF2 stress response",
+      "cancer immunotherapy",
+      "multimodal tissue-state modeling",
+      "tumor microenvironment and immune contexture"
+    ],
+    "mesh_terms": [
+      "*NF-E2-Related Factor 2/genetics/metabolism",
+      "Humans",
+      "*Kelch-Like ECH-Associated Protein 1/genetics/metabolism",
+      "Gene Expression Regulation, Neoplastic",
+      "*Lung Neoplasms/genetics/metabolism/pathology",
+      "*Melanoma/genetics/metabolism/pathology",
+      "Mutation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kong, Mowei",
+        "Li, Qiuing",
+        "Zhao, Xingwei",
+        "Wang, Yu",
+        "Luo, Yamei",
+        "Yu, Yang",
+        "Zhang, Chunxiang"
+      ],
+      "short_names": [
+        "Kong M",
+        "Li Q",
+        "Zhao X",
+        "Wang Y",
+        "Luo Y",
+        "Yu Y",
+        "Zhang C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cardiology, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China.",
+        "Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Luzhou, Sichuan, China.",
+        "Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Luzhou, Sichuan, China.",
+        "The Key Laboratory of Optimal Utilization of Natural Medicine Resources (The Union Key Laboratory of Guiyang City-Guizhou Medical University), School of Pharmaceutical Sciences, Guizhou Medical University, Guiyang, Guizhou, China.",
+        "School of Medical Information and Engineering, Southwest Medical University, Luzhou, China.",
+        "Department of Cardiology, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China.",
+        "Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Luzhou, Sichuan, China.",
+        "Department of Cardiology, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China.",
+        "Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Luzhou, Sichuan, China.",
+        "Basic Medicine Research Innovation Center for Cardiometabolic Diseases, Ministry of Education, Southwest Medical University, Luzhou, Sichuan, China.",
+        "Nucleic Acid Medicine of Luzhou Key Laboratory, Luzhou, Sichuan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kong, Mowei",
+        "short_name": "Kong M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qiuing",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Luzhou, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xingwei",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Luzhou, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yu",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory of Optimal Utilization of Natural Medicine Resources (The Union Key Laboratory of Guiyang City-Guizhou Medical University), School of Pharmaceutical Sciences, Guizhou Medical University, Guiyang, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Yamei",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Information and Engineering, Southwest Medical University, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yang",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China.",
+          "Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Luzhou, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chunxiang",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China.",
+          "Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Luzhou, Sichuan, China.",
+          "Basic Medicine Research Innovation Center for Cardiometabolic Diseases, Ministry of Education, Southwest Medical University, Luzhou, Sichuan, China.",
+          "Nucleic Acid Medicine of Luzhou Key Laboratory, Luzhou, Sichuan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 17:33",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42903351"
+    ],
+    "review": [
+      "42903351"
+    ],
+    "pmc": [
+      "13680486"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/melanoma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Melanoma"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-VSIR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://proteomics.cancer.gov/programs/cptac",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1957511",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

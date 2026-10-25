@@ -1,0 +1,137 @@
+{
+  "identity": {
+    "pmid": "42900453",
+    "doi": "10.1007/s11064-026-04925-1",
+    "title": "Cinchonidine Ameliorates Traumatic Brain Injury-Related Neurobehavioral Deficits via the SRC/RAF1/NF-kappaB Pathway to Attenuate Mitochondrial Dysfunction."
+  },
+  "content": {
+    "abstract": "Cinchonidine (CD), a metabolite derived from gut microbiota, shows promise in protecting against traumatic brain injury (TBI), where mitochondrial dysfunction is a key driver of secondary damage. Using a mouse model of controlled cortical impact (CCI) and an in vitro primary neuron injury model, CD administration resulted in improved physiological status (weight recovery, stabilized heart rate) and behavioral outcomes (increased travel distance and speed) in TBI mice. Histological analysis showed reduced hippocampal neuronal damage, decreased pro-inflammatory cytokines (interleukin‑1beta, interleukin‑6, and tumor necrosis factor‑alpha), and upregulated blood-brain barrier tight-junction proteins (Claudin-5, Occludin, zonula occludens‑1). Mitochondrial function was improved, evidenced by increased mitochondrial DNA copy number, elevated expression of translocase of outer mitochondrial membrane 20 and cytochrome c oxidase subunit IV, and restoration of mitochondrial membrane potential. In addition, CD attenuated TBI-induced changes in mitochondrial dynamics and biogenesis, restoring the phosphorylated dynamin-related protein 1 (p-DRP1)/DRP1 ratio and the expression of mitofusin 1/2 (MFN-1/2) and peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PGC-1alpha), while reducing mitochondrial DRP1. Network pharmacology identified proto‑oncogene tyrosine‑protein kinase Src (SRC) as a key target, validated by stable binding in molecular docking and drug affinity responsive target stability assays. Furthermore, cellular thermal shift assays demonstrated a direct interaction between CD and SRC. CD treatment suppressed the activation of the SRC/RAF proto-oncogene serine/threonine-protein kinase (RAF1)/nuclear factor kappa B (NF-kappaB) signaling axis, as evidenced by reduced phosphorylation of SRC and p65, along with decreased expression of RAF1 and cleaved Caspase-3. Crucially, SRC knockdown mimicked CD's protection, while SRC overexpression abolished its benefits. These findings suggest that CD ameliorates post-TBI mitochondrial dysfunction, neuroinflammation, and neuronal damage by inhibiting SRC kinase activity and its downstream RAF1/NF-kappaB signaling pathway. Thus, CD may represent a promising SRC-targeted neuroprotective strategy for TBI.",
+    "keywords": [
+      "CD",
+      "Mitochondrial dysfunction",
+      "SRC/RAF1/NF-kappaB pathway",
+      "Traumatic brain injury"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Brain Injuries, Traumatic/drug therapy/metabolism",
+      "Male",
+      "NF-kappa B/metabolism",
+      "Mice",
+      "*Mitochondria/drug effects/metabolism",
+      "Signal Transduction/drug effects/physiology",
+      "src-Family Kinases/metabolism",
+      "Mice, Inbred C57BL",
+      "Proto-Oncogene Proteins c-raf/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Han",
+        "Huang, Jianchao",
+        "Sun, Caixia"
+      ],
+      "short_names": [
+        "Tang H",
+        "Huang J",
+        "Sun C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurosurgery, The First Affiliated Hospital, Hengyang Medical School, University of South China, Hengyang, 421001, Hunan, China.",
+        "Department of Neurosurgery, The First Affiliated Hospital, Hengyang Medical School, University of South China, Hengyang, 421001, Hunan, China. literatusyanyun@163.com.",
+        "Department of Emergency, The First Affiliated Hospital, Hengyang Medical School, University of South China, Hengyang, 421001, Hunan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Han",
+        "short_name": "Tang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital, Hengyang Medical School, University of South China, Hengyang, 421001, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jianchao",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital, Hengyang Medical School, University of South China, Hengyang, 421001, Hunan, China. literatusyanyun@163.com."
+        ]
+      },
+      {
+        "full_name": "Sun, Caixia",
+        "short_name": "Sun C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency, The First Affiliated Hospital, Hengyang Medical School, University of South China, Hengyang, 421001, Hunan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neurochemical research"
+    ],
+    "journal_abbrev": [
+      "Neurochem Res"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 17:34",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42900453"
+    ],
+    "review": [
+      "42900453"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/traumaticbraininjury.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Traumatic Brain Injury"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11064-026-04925-1",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CASP3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-57",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

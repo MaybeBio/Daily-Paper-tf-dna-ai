@@ -1,0 +1,216 @@
+{
+  "identity": {
+    "pmid": "42908757",
+    "doi": "10.3389/fimmu.2026.1872427",
+    "title": "Deciphering fibroblast and myeloid-cell states in keloids: an integrative analysis identifies ANKRD1 as a ferroptosis-related candidate gene."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Keloids are fibroproliferative skin disorders characterized by persistent extracellular matrix deposition and limited treatment options. Ferroptosis has been implicated in fibrosis, but the molecular basis of ferroptosis-related changes in keloids remains unclear. METHODS: Fibroblast-derived bulk transcriptomic datasets (GSE44270 and GSE145725) were integrated to identify differentially expressed ferroptosis-related genes. Weighted gene co-expression network analysis and machine-learning algorithms were used to identify candidate hub genes, which were evaluated in an external fibroblast dataset (GSE7890). Whole-tissue single-cell RNA-sequencing data (GSE191067) were used to characterize fibroblast and myeloid-cell states in keloid and normal-skin samples. Candidate regulatory relationships and potential ANKRD1-binding compounds were assessed in silico. Clinical tissue specimens were used for histological and protein-expression validation. RESULTS: A total of 163 differentially expressed genes were identified, and integration with 1,318 ferroptosis-related genes prioritized ANKRD1 as a candidate hub gene. ANKRD1 showed an area under the receiver operating characteristic curve above 0.80 in the external validation dataset and was positively associated with YAP1 expression in fibroblast-derived bulk transcriptomic data. Single-cell analysis identified a ECM-remodeling fibroblast state and three myeloid-cell states: inflammatory macrophages, resident-phagocytic macrophages, and DC-like myeloid cells. The ceRNA analysis identified a putative NEAT1/MALAT1-miR-493-5p-ANKRD1 regulatory axis. Molecular docking, molecular-dynamics simulation, and ADMET profiling prioritized oleanolic acid and quercetin as candidate ANKRD1-binding compounds. Histological analyses showed excessive collagen deposition and increased ANKRD1 protein expression in keloid tissues. CONCLUSION: ANKRD1 is a ferroptosis-related, fibroblast-associated candidate gene in keloids. The single-cell data describe fibroblast and myeloid-cell states in the keloid microenvironment. The proposed regulatory axis, candidate compounds, and potential role of ANKRD1 in fibroblast-myeloid interactions require further spatial and functional validation.",
+    "keywords": [
+      "ANKRD1",
+      "ferroptosis",
+      "keloid",
+      "machine learning",
+      "molecular docking"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Keloid/genetics/pathology/metabolism",
+      "*Ferroptosis/genetics",
+      "*Fibroblasts/metabolism/pathology",
+      "*Myeloid Cells/metabolism/pathology",
+      "*Repressor Proteins/genetics/metabolism",
+      "*Nuclear Proteins/genetics/metabolism",
+      "Gene Expression Profiling",
+      "Gene Regulatory Networks",
+      "Transcriptome",
+      "Female",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xie, Rongrong",
+        "Yao, Wanting",
+        "Chen, Peipei",
+        "Zhou, Xianying",
+        "Lin, Xingong",
+        "Jia, Xinyu",
+        "Lin, Yuyang",
+        "Yu, Zehao",
+        "Tang, Shijie",
+        "Chen, Caixiang",
+        "Chen, Penghong",
+        "Wang, Chaoyang"
+      ],
+      "short_names": [
+        "Xie R",
+        "Yao W",
+        "Chen P",
+        "Zhou X",
+        "Lin X",
+        "Jia X",
+        "Lin Y",
+        "Yu Z",
+        "Tang S",
+        "Chen C",
+        "Chen P",
+        "Wang C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Department of Obstetrics, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Laboratory for Molecular Cancer Biology, Center for Cancer Biology, VIB, Leuven, Belgium.",
+        "Department of Breast Surgery, Fujian Medical University Union Hospital, Fuzhou, Fujian, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+        "Fujian Key Laboratory of Lung Stem Cells, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, Fujian, China.",
+        "NHC Key Laboratory of Etiological Epidemiology of Chronic Diseases with High Incidence in Fujian-Taiwan Area (Co-construction), Fujian Medical University, Fuzhou, Fujian, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xie, Rongrong",
+        "short_name": "Xie R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Wanting",
+        "short_name": "Yao W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Peipei",
+        "short_name": "Chen P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xianying",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Xingong",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Xinyu",
+        "short_name": "Jia X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yuyang",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Zehao",
+        "short_name": "Yu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Shijie",
+        "short_name": "Tang S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Molecular Cancer Biology, Center for Cancer Biology, VIB, Leuven, Belgium."
+        ]
+      },
+      {
+        "full_name": "Chen, Caixiang",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, Fujian Medical University Union Hospital, Fuzhou, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Penghong",
+        "short_name": "Chen P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China.",
+          "Fujian Key Laboratory of Lung Stem Cells, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, Fujian, China.",
+          "NHC Key Laboratory of Etiological Epidemiology of Chronic Diseases with High Incidence in Fujian-Taiwan Area (Co-construction), Fujian Medical University, Fuzhou, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chaoyang",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 05:33",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42908757"
+    ],
+    "review": [
+      "42908757"
+    ],
+    "pmc": [
+      "13683095"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

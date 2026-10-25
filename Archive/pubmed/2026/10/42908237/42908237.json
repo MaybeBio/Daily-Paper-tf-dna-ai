@@ -1,0 +1,90 @@
+{
+  "identity": {
+    "pmid": "42908237",
+    "doi": "10.1002/cmdc.70477",
+    "title": "On Organic-Molecule and Peptide Non-Covalent Inhibitors of the TP53-MDM2/MDMX Interaction: An Inside View From the Interaction Energy at Residue-to-Residue Level."
+  },
+  "content": {
+    "abstract": "Depletion of the tumor-suppressor TP53 is known to open the door to cancer and, after 30 years of research, no remedy has been approved. When TP53 depletion is due to trapping by MDM2, a key requisite for non-covalent inhibitors is high affinity for MDM2 (and also for the MDMX analog, which plays an indirect role in depleting TP53). While inhibitor performance has always been measured by the binding energy, the present work offers a deeper view by evaluating the interaction energy and its electrostatic and vdW components at residue-to-residue level. In the absence of suitable experimental methods, the task was addressed using unrestricted MD and QM-MM, including all inhibitors that are currently in clinical trials, and for which the static structure at high resolution has been made available. It has emerged, in the framework of weak, dispersion-driven interactions that rarely exceed 6 kcal/mol, and with water solvation playing a major role, where the inhibitors bind better and where repulsions arise. In this scenario, a better pattern of interaction energies emerged with stabilized peptides than with organic-molecule inhibitors. All that should help designing the next generation of inhibitors.",
+    "keywords": [
+      "MD/QM-MM simulations",
+      "MDM2/MDMX",
+      "TP53 cancers"
+    ],
+    "mesh_terms": [
+      "*Proto-Oncogene Proteins c-mdm2/antagonists & inhibitors/metabolism/chemistry",
+      "*Tumor Suppressor Protein p53/antagonists & inhibitors/metabolism/chemistry",
+      "Humans",
+      "*Peptides/chemistry/pharmacology",
+      "Protein Binding/drug effects",
+      "Thermodynamics",
+      "Cell Cycle Proteins/antagonists & inhibitors/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Proto-Oncogene Proteins/antagonists & inhibitors/metabolism/chemistry",
+      "Molecular Structure",
+      "*Nuclear Proteins/antagonists & inhibitors/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pietra, Francesco"
+      ],
+      "short_names": [
+        "Pietra F"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3215-5376"
+      ],
+      "affiliations": [
+        "Classe di Scienze, Accademia Lucchese di Scienze, Lettere e Arti, Lucca, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pietra, Francesco",
+        "short_name": "Pietra F",
+        "identifiers": [
+          "0000-0003-3215-5376"
+        ],
+        "affiliations": [
+          "Classe di Scienze, Accademia Lucchese di Scienze, Lettere e Arti, Lucca, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ChemMedChem"
+    ],
+    "journal_abbrev": [
+      "ChemMedChem"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 05:32",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42908237"
+    ],
+    "review": [
+      "42908237"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

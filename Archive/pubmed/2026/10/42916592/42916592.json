@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "pmid": "42916592",
+    "doi": "10.1021/acssynbio.6c00579",
+    "title": "A Single Mutation Enhancing the DNA-Binding Affinity of Cra Redirects Metabolism for High-Yield Succinate Production in Escherichia coli."
+  },
+  "content": {
+    "abstract": "Rational engineering of transcription factors is an attractive strategy to modulate microbial metabolism. This study demonstrated its effectiveness through a key mutation (R60A) in the understudied linker region of the global transcription factor Cra. Transcriptional and enzymatic analyses revealed that R60A upregulated multiple genes and enhanced several key enzyme activities in central carbon metabolism, including the direct Cra targets pck and aceB, which were selected for further mechanistic investigation. In vitro binding assays confirmed that R60A bound to the promoter regions of these genes with enhanced affinity. Molecular docking analysis predicted that the top-ranked binding poses of the WT and R60A complexes differ in DNA placement, with an altered set of predicted hydrogen-bond contacts. This mutation altered the central carbon metabolism, leading to improved CO2 fixation and succinate biosynthesis. Coupled with an optimized exponential feeding strategy that precisely controlled the specific growth rate, this approach achieved a high succinate titer of 100.8 g/L. Our work suggests a possible role for linker-mediated geometric modulation of DNA binding by Cra and presents an integrated metabolic and process engineering strategy for efficient succinate production.",
+    "keywords": [
+      "Escherichia coli",
+      "cra",
+      "linker",
+      "protein engineering",
+      "succinate",
+      "transcription factor"
+    ],
+    "mesh_terms": [
+      "*Escherichia coli/metabolism/genetics",
+      "*Succinic Acid/metabolism",
+      "Mutation",
+      "*Escherichia coli Proteins/genetics/metabolism",
+      "Promoter Regions, Genetic/genetics",
+      "Molecular Docking Simulation",
+      "*DNA/metabolism",
+      "Metabolic Engineering/methods",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wei, Wan-Fang",
+        "Wang, Ruo-Lin",
+        "Huang, Ying",
+        "Tang, Meng-Ying",
+        "Jia, Kai-Zhi",
+        "Wang, Wei-Ping",
+        "Zhao, Wei",
+        "Liu, Xiao-Nan",
+        "Zhu, Li-Wen"
+      ],
+      "short_names": [
+        "Wei WF",
+        "Wang RL",
+        "Huang Y",
+        "Tang MY",
+        "Jia KZ",
+        "Wang WP",
+        "Zhao W",
+        "Liu XN",
+        "Zhu LW"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5177-5605",
+        "ORCID: 0000-0003-0305-8825"
+      ],
+      "affiliations": [
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China.",
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China.",
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China.",
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China.",
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China.",
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China.",
+        "State Key Laboratory of Microbial Technology, Shandong University, Qingdao266237, China.",
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China.",
+        "Guangxi Academy of Sciences, Nanning530007, China.",
+        "State Key Laboratory of Non-food Biomass Energy, Nanning530007, China.",
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wei, Wan-Fang",
+        "short_name": "Wei WF",
+        "identifiers": [],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruo-Lin",
+        "short_name": "Wang RL",
+        "identifiers": [],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Ying",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Meng-Ying",
+        "short_name": "Tang MY",
+        "identifiers": [],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Kai-Zhi",
+        "short_name": "Jia KZ",
+        "identifiers": [
+          "0000-0001-5177-5605"
+        ],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wei-Ping",
+        "short_name": "Wang WP",
+        "identifiers": [],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Wei",
+        "short_name": "Zhao W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Shandong University, Qingdao266237, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiao-Nan",
+        "short_name": "Liu XN",
+        "identifiers": [],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China.",
+          "Guangxi Academy of Sciences, Nanning530007, China.",
+          "State Key Laboratory of Non-food Biomass Energy, Nanning530007, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Li-Wen",
+        "short_name": "Zhu LW",
+        "identifiers": [
+          "0000-0003-0305-8825"
+        ],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan430068, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916592"
+    ],
+    "review": [
+      "42916592"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

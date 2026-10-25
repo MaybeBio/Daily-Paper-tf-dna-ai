@@ -1,0 +1,165 @@
+{
+  "identity": {
+    "pmid": "42893867",
+    "doi": "10.1248/cpb.c26-00135",
+    "title": "Synthesis and Evaluation of Aryloxy-Acetamide Derivatives as CBX2 Inhibitors."
+  },
+  "content": {
+    "abstract": "The CBX2 protein plays a key role in the methylation of histone lysine residues related to epigenetic silencing. In contrast to other polycomb paralogs, there are few examples of CBX2 modulators, which prompted us to develop small-molecule CBX2 inhibitors by synthetic evolution based on virtual screening hit scaffolds previously reported by our group. We synthesized a series of aryloxy-acetamide derivatives and evaluated their CBX2 inhibitory activities using the NanoBRET assay and the subsequent NanoBiT assay. Through structural modifications, compound 16 was identified as the best CBX2 inhibitor in this series.",
+    "keywords": [
+      "aryloxy-acetamide derivative",
+      "chromobox 2 inhibitor",
+      "docking study"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Acetamides/chemistry/chemical synthesis/pharmacology",
+      "Structure-Activity Relationship",
+      "*Polycomb Repressive Complex 1/antagonists & inhibitors/metabolism",
+      "Molecular Docking Simulation",
+      "Molecular Structure",
+      "Dose-Response Relationship, Drug"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kawamoto, Yuichiro",
+        "Takase, Shohei",
+        "Kumar, Ashutosh",
+        "Maemoto, Yuki",
+        "Zhang, Kam Y J",
+        "Ito, Hisanaka",
+        "Ito, Akihiro"
+      ],
+      "short_names": [
+        "Kawamoto Y",
+        "Takase S",
+        "Kumar A",
+        "Maemoto Y",
+        "Zhang KYJ",
+        "Ito H",
+        "Ito A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan.",
+        "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan.",
+        "Laboratory for Structural Bioinformatics, RIKEN Center for Biosystems Dynamics Research, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan.",
+        "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan.",
+        "Laboratory for Structural Bioinformatics, RIKEN Center for Biosystems Dynamics Research, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan.",
+        "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan.",
+        "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan.",
+        "Drug Discovery Seeds Development Unit, RIKEN Center for Sustainable Resource Science, 2-1 Hirosawa, Wako, Saitama 351-0198, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kawamoto, Yuichiro",
+        "short_name": "Kawamoto Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan."
+        ]
+      },
+      {
+        "full_name": "Takase, Shohei",
+        "short_name": "Takase S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan."
+        ]
+      },
+      {
+        "full_name": "Kumar, Ashutosh",
+        "short_name": "Kumar A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Structural Bioinformatics, RIKEN Center for Biosystems Dynamics Research, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan."
+        ]
+      },
+      {
+        "full_name": "Maemoto, Yuki",
+        "short_name": "Maemoto Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan."
+        ]
+      },
+      {
+        "full_name": "Zhang, Kam Y J",
+        "short_name": "Zhang KYJ",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Structural Bioinformatics, RIKEN Center for Biosystems Dynamics Research, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan."
+        ]
+      },
+      {
+        "full_name": "Ito, Hisanaka",
+        "short_name": "Ito H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan."
+        ]
+      },
+      {
+        "full_name": "Ito, Akihiro",
+        "short_name": "Ito A",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tokyo University of Pharmacy and Life Sciences, 1432-1 Horinouchi, Hachioji, Tokyo 192-0392, Japan.",
+          "Drug Discovery Seeds Development Unit, RIKEN Center for Sustainable Resource Science, 2-1 Hirosawa, Wako, Saitama 351-0198, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical & pharmaceutical bulletin"
+    ],
+    "journal_abbrev": [
+      "Chem Pharm Bull (Tokyo)"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/18 23:27",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42893867"
+    ],
+    "review": [
+      "42893867"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1248/cpb.c26-00135",
+        "provider": "J-STAGE, Japan Science and Technology Information Aggregator, Electronic",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.medicalonline.jp/meteo_linkout.php?issn=0009-2363&volume=74&issue=10&spage=779",
+        "provider": "Medical Online, Meteo Inc",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

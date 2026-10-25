@@ -1,0 +1,189 @@
+{
+  "identity": {
+    "pmid": "42896704",
+    "doi": "10.1016/j.lfs.2026.124746",
+    "title": "Role and mechanism of ATF6-mediated endoplasmic reticulum stress in ITLN-1 against cerebral ischemia-reperfusion injury."
+  },
+  "content": {
+    "abstract": "AIMS: Intelectin-1 (ITLN-1), a novel adipocytokine, exerts neuroprotective effects against cerebral ischemia-reperfusion injury (CIRI), yet its molecular mechanisms remain unclear. This study focused on activating transcription factor 6 (ATF6), a key endoplasmic reticulum stress sensor, to explore its role in CIRI-induced neuronal injury and determine whether ITLN-1 mediates neuroprotection through ATF6 regulation. MATERIALS AND METHODS: We established an N2a cell hypoxia/reoxygenation (H/R) model and a mouse middle cerebral artery occlusion (MCAO) model. Using protein-protein molecular docking, in situ proximity ligation assay, Western blotting, mitochondrial membrane potential assays, and TUNEL staining, we investigated ATF6 activation in neuronal apoptosis and its upstream regulatory mechanisms. KEY FINDINGS: H/R injury markedly induced ATF6 activation in N2a cells, triggering mitochondrial dysfunction and promoting apoptosis. ATF6 overexpression further aggravated these effects, supporting its critical pathogenic role in CIRI. Mechanistic analyses revealed that ITLN-1 physically associates with ATF6. Both ITLN-1 overexpression and exogenous recombinant ITLN-1 administration significantly suppressed excessive ATF6 activation, modulated the JNK signaling pathway, improved cell viability, reduced intracellular calcium overload and reactive oxygen species accumulation, and attenuated neuronal apoptosis. In vivo, ITLN-1 ameliorated neurological deficits, reduced neuronal damage, and alleviated demyelination, whereas ITLN-1 knockdown produced opposite effects. SIGNIFICANCE: Excessive ATF6 activation underlies CIRI-induced neuronal injury. ITLN-1 exerts neuroprotection by inhibiting ATF6 and modulating JNK signaling, thereby alleviating mitochondrial dysfunction and reducing apoptosis. These findings highlight the ITLN-1/ATF6 axis as a promising therapeutic target for ischemic stroke.",
+    "keywords": [
+      "ATF6",
+      "Cerebral ischemia-reperfusion injury",
+      "Intelectin-1",
+      "JNK"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Yanqing",
+        "Xu, Lu",
+        "Zhang, Zhe",
+        "Zhang, Caiqin",
+        "Liu, Peijie",
+        "Li, Pan",
+        "Wang, Shuya",
+        "Tian, Ye",
+        "Yang, Yang",
+        "Niu, Xiaochen"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Xu L",
+        "Zhang Z",
+        "Zhang C",
+        "Liu P",
+        "Li P",
+        "Wang S",
+        "Tian Y",
+        "Yang Y",
+        "Niu X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China.",
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China.",
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China.",
+        "Division of Cancer Biology, Laboratory Animal Center, The Fourth Military Medical University, Xi'an, Shaanxi, 710032, China.",
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China.",
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China.",
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China.",
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China; Xi'an Key Laboratory of Cardiovascular and Cerebrovascular Diseases, Xi'an No.3 Hospital, The Affiliated Hospital of Northwest University, Xi'an, 710021, China.",
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China. Electronic address: yang200214yy@nwu.edu.cn.",
+        "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China; Xi'an Key Laboratory of Cardiovascular and Cerebrovascular Diseases, Xi'an No.3 Hospital, The Affiliated Hospital of Northwest University, Xi'an, 710021, China. Electronic address: xiaochenniunw@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Yanqing",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Lu",
+        "short_name": "Xu L",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhe",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Caiqin",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cancer Biology, Laboratory Animal Center, The Fourth Military Medical University, Xi'an, Shaanxi, 710032, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Peijie",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China."
+        ]
+      },
+      {
+        "full_name": "Li, Pan",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shuya",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Ye",
+        "short_name": "Tian Y",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China; Xi'an Key Laboratory of Cardiovascular and Cerebrovascular Diseases, Xi'an No.3 Hospital, The Affiliated Hospital of Northwest University, Xi'an, 710021, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yang",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China. Electronic address: yang200214yy@nwu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Niu, Xiaochen",
+        "short_name": "Niu X",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Key Laboratory of Innovative Drug Research for Heart Failure, Faculty of Life Sciences and Medicine, Northwest University, 229 Taibai North Road, Xi'an, 710069, China; Xi'an Key Laboratory of Cardiovascular and Cerebrovascular Diseases, Xi'an No.3 Hospital, The Affiliated Hospital of Northwest University, Xi'an, 710021, China. Electronic address: xiaochenniunw@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Life sciences"
+    ],
+    "journal_abbrev": [
+      "Life Sci"
+    ],
+    "pub_date": "2026 Oct 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 23:30",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42896704"
+    ],
+    "review": [
+      "42896704"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0024-3205(26)00555-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MAPK8-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

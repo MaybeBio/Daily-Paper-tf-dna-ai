@@ -1,0 +1,184 @@
+{
+  "identity": {
+    "pmid": "42911670",
+    "doi": "10.1172/JCI209670",
+    "title": "Impairing Golgin-45 transcription factor activity unleashes malignant secretion in lung cancer."
+  },
+  "content": {
+    "abstract": "Golgin-45 (G45) is a coiled-coil protein that transits reversibly between the Golgi and nucleus. In the Golgi, G45 serves as a tether for effectors of a pro-tumorigenic secretory program, but its nuclear role remains unclear. Here, we report that, upon entering the nucleus, G45 functions as a basic leucine zipper transcription factor. From genomic mapping, RNA-sequencing, and functional validation studies, we identify G45-binding sites and show that nuclear G45 can function as a transcriptional activator or repressor, a versatility enabled by phase separation into nuclear bodies enriched in transcriptional co-regulators. In lung cancer models, Golgi-docking reinforces, whereas nuclear translocation opposes, pro-tumorigenic activity of G45. Nuclear G45 incorporates into dimeric transcription factors that silence pro-tumorigenic secreted cargos. Epigenetic events in lung cancer degrade nuclear G45 and sequester G45 in the Golgi, which unleashes malignant secretion. Thus, inter-organelle transitions govern a G45-dependent secretory axis that drives lung cancer progression.",
+    "keywords": [
+      "Cell biology",
+      "Lung cancer",
+      "Oncology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Chao",
+        "Kumar, Abhishek",
+        "Wang, Shike",
+        "Zhao, Weina",
+        "Xi, Yuanxin",
+        "Wang, Jing",
+        "Jain, Abhinav K",
+        "Russell, William K",
+        "Guo, Hou-Fu",
+        "Tan, Xiaochao",
+        "Kurie, Jonathan M"
+      ],
+      "short_names": [
+        "Wu C",
+        "Kumar A",
+        "Wang S",
+        "Zhao W",
+        "Xi Y",
+        "Wang J",
+        "Jain AK",
+        "Russell WK",
+        "Guo HF",
+        "Tan X",
+        "Kurie JM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Thoracic/Head and Neck Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, United States of America.",
+        "Department of Thoracic/Head and Neck Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, United States of America.",
+        "Department of Integrative Biology and Pharmacology, McGovern Medical School, University of Texas Health Science Center at Houston, Houston, United States of America.",
+        "Department of Thoracic/Head and Neck Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, United States of America.",
+        "Department of Bioinformatics and Computational Biology, University of Texas MD Anderson Cancer Center, Houston, United States of America.",
+        "Department of Bioinformatics and Computational Biology, University of Texas MD Anderson Cancer Center, Houston, United States of America.",
+        "Department of Epigenetics and Molecular Carcinogenesis, University of Texas MD Anderson Cancer Center, Houston, United States of America.",
+        "Department of Biochemistry, University of Texas Medical Branch, Galveston, United States of America.",
+        "Department of Molecular and Cellular Biochemistry, University of Kentucky, Lexington, United States of America.",
+        "Department of Integrative Biology and Pharmacology, McGovern Medical School, University of Texas Health Science Center at Houston, Houston, United States of America.",
+        "Department of Thoracic/Head and Neck Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Chao",
+        "short_name": "Wu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic/Head and Neck Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Kumar, Abhishek",
+        "short_name": "Kumar A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic/Head and Neck Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Wang, Shike",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biology and Pharmacology, McGovern Medical School, University of Texas Health Science Center at Houston, Houston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Zhao, Weina",
+        "short_name": "Zhao W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic/Head and Neck Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Xi, Yuanxin",
+        "short_name": "Xi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics and Computational Biology, University of Texas MD Anderson Cancer Center, Houston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Wang, Jing",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics and Computational Biology, University of Texas MD Anderson Cancer Center, Houston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Jain, Abhinav K",
+        "short_name": "Jain AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Epigenetics and Molecular Carcinogenesis, University of Texas MD Anderson Cancer Center, Houston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Russell, William K",
+        "short_name": "Russell WK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Texas Medical Branch, Galveston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Guo, Hou-Fu",
+        "short_name": "Guo HF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cellular Biochemistry, University of Kentucky, Lexington, United States of America."
+        ]
+      },
+      {
+        "full_name": "Tan, Xiaochao",
+        "short_name": "Tan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Biology and Pharmacology, McGovern Medical School, University of Texas Health Science Center at Houston, Houston, United States of America."
+        ]
+      },
+      {
+        "full_name": "Kurie, Jonathan M",
+        "short_name": "Kurie JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic/Head and Neck Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of clinical investigation"
+    ],
+    "journal_abbrev": [
+      "J Clin Invest"
+    ],
+    "pub_date": "2026 Oct 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42911670"
+    ],
+    "review": [
+      "42911670"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

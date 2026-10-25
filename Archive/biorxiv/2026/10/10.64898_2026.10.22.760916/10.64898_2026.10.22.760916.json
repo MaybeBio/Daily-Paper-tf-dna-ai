@@ -1,0 +1,146 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.22.760916",
+  "title": "Reconstructing human gene regulatory evolution using deep learning",
+  "doi": "10.64898/2026.10.22.760916",
+  "abstract": "Understanding the genetic changes that drove the evolution of human-specific traits is a central goal in biology. Changes in gene expression are thought to be a major source of phenotypic innovations, but identifying the underlying changes in cis-regulatory elements (CREs) along the human lineage has been difficult: functional data from great apes are scarce and unobtainable for extinct hominins, and pinpointing causal substitutions requires knowing which sequences determine CRE activity. Here, we used AlphaGenome, a sequence-to-function deep-learning model, to predict the cis-regulatory effects of ~17 million single-nucleotide substitutions specific to the human lineage and traced their consequences for gene expression evolution across 305 tissues and cell types. The 71,345 predicted cis-regulatory gains lie mostly outside human accelerated regions and arose either through creation of new CREs or, more often, through co-option of CREs ancestrally accessible in other tissues. They are also enriched for distal enhancers and for target gene functions characteristic of the corresponding tissues, suggesting that they contributed to the evolution of tissue-specific biology in humans. Genes linked to more gains were more likely to be upregulated in humans, and in silico reversion to ancestral alleles traced such upregulations to individual substitutions creating transcription factor binding motifs. Comparison with Neandertal and Denisovan genomes revealed that nearly all gains now fixed in humans predate the split from archaic hominins, yet a few modern-human-specific gains contribute substantially to gene upregulation. Our study provides a genome-wide, tissue-resolved map of cis-regulatory changes and their contribution to gene expression evolution along the human lineage.",
+  "authors": [
+    "Yamada T",
+    "Yuan X",
+    "Zeberg H",
+    "Soltys V",
+    "Lana Alberro M",
+    "Sarropoulos I",
+    "Paabo S",
+    "Kaessmann H"
+  ],
+  "published_date": "2026-10-23",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760916",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760916.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1349275",
+    "raw_record": {
+      "id": "PPR1349275",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.22.760916",
+      "title": "Reconstructing human gene regulatory evolution using deep learning",
+      "authorString": "Yamada T, Yuan X, Zeberg H, Soltys V, Lana Alberro M, Sarropoulos I, Paabo S, Kaessmann H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yamada T",
+            "lastName": "Yamada",
+            "firstName": "Tetsuya",
+            "initials": "T"
+          },
+          {
+            "fullName": "Yuan X",
+            "lastName": "Yuan",
+            "firstName": "Xuefei",
+            "initials": "X"
+          },
+          {
+            "fullName": "Zeberg H",
+            "lastName": "Zeberg",
+            "firstName": "Hugo",
+            "initials": "H"
+          },
+          {
+            "fullName": "Soltys V",
+            "lastName": "Soltys",
+            "firstName": "Volker",
+            "initials": "V"
+          },
+          {
+            "fullName": "Lana Alberro M",
+            "lastName": "Lana Alberro",
+            "firstName": "Mikel",
+            "initials": "M"
+          },
+          {
+            "fullName": "Sarropoulos I",
+            "lastName": "Sarropoulos",
+            "firstName": "Ioannis",
+            "initials": "I"
+          },
+          {
+            "fullName": "Paabo S",
+            "lastName": "Paabo",
+            "firstName": "Svante",
+            "initials": "S"
+          },
+          {
+            "fullName": "Kaessmann H",
+            "lastName": "Kaessmann",
+            "firstName": "Henrik",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7563-839X"
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7563-839X"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Understanding the genetic changes that drove the evolution of human-specific traits is a central goal in biology. Changes in gene expression are thought to be a major source of phenotypic innovations, but identifying the underlying changes in cis-regulatory elements (CREs) along the human lineage has been difficult: functional data from great apes are scarce and unobtainable for extinct hominins, and pinpointing causal substitutions requires knowing which sequences determine CRE activity. Here, we used AlphaGenome, a sequence-to-function deep-learning model, to predict the cis-regulatory effects of ~17 million single-nucleotide substitutions specific to the human lineage and traced their consequences for gene expression evolution across 305 tissues and cell types. The 71,345 predicted cis-regulatory gains lie mostly outside human accelerated regions and arose either through creation of new CREs or, more often, through co-option of CREs ancestrally accessible in other tissues. They are also enriched for distal enhancers and for target gene functions characteristic of the corresponding tissues, suggesting that they contributed to the evolution of tissue-specific biology in humans. Genes linked to more gains were more likely to be upregulated in humans, and in silico reversion to ancestral alleles traced such upregulations to individual substitutions creating transcription factor binding motifs. Comparison with Neandertal and Denisovan genomes revealed that nearly all gains now fixed in humans predate the split from archaic hominins, yet a few modern-human-specific gains contribute substantially to gene upregulation. Our study provides a genome-wide, tissue-resolved map of cis-regulatory changes and their contribution to gene expression evolution along the human lineage.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.22.760916"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by-nc",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-24",
+      "firstPublicationDate": "2026-10-23",
+      "firstIndexDate": "2026-10-24",
+      "hasEvaluations": "N"
+    }
+  }
+}

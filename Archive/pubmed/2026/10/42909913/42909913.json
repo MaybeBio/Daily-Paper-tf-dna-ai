@@ -1,0 +1,155 @@
+{
+  "identity": {
+    "pmid": "42909913",
+    "doi": "10.7150/ijbs.134668",
+    "title": "Targeting NCAPG with Arundanine Suppresses Neutrophil/NET-Mediated Immune Evasion and Enhances CD8(+) T Cell Function in Lung Squamous Cell Carcinoma."
+  },
+  "content": {
+    "abstract": "Non-SMC condensin I complex subunit G (NCAPG) is implicated in tumor progression and TGF-beta pathway activation, yet its roles in oncogenesis and immune modulation within the lung squamous cell carcinoma (LUSC) microenvironment remain largely unexplored. Here, we used bioinformatics analysis to identify key upregulated genes in LUSC and assessed the effects of NCAPG and its upstream regulator E2F transcription factor 8 (E2F8) on malignant phenotypes via gain- and loss-of-function assays in NCI-H226 and NCI-H1703 LUSC cell lines, with in vivo efficacy validated using KLN205 cell isografts and NTCU-induced primary LUSC mouse models. Neutrophil polarization, neutrophil extracellular trap (NET) formation, and CD8(+) T cell cytotoxicity was analyzed in co-culture systems and tumor tissues. Arundanine was identified as a potential NCAPG inhibitor via molecular docking and tested as monotherapy or in combination with anti-PD-1 therapy. We found that NCAPG was significantly upregulated in LUSC, and NCAPG depletion markedly impaired LUSC cell proliferation, migration, and invasion while promoting apoptosis. Mechanistically, NCAPG activated TGF-beta signaling, which drove pro-tumor N2 neutrophil polarization and induced NETosis; these NETs upregulated PD-L1 expression on tumor cells and suppressed the expansion and cytotoxic function of CD8(+) T cells. E2F8 was found to transcriptionally activate NCAPG by directly binding to its promoter. Furthermore, Arundanine destabilized NCAPG protein, suppressed TGF-beta-mediated NET formation, and potentiated anti-PD-1 therapy to significantly prolong survival in LUSC models. Collectively, the E2F8/NCAPG axis promotes LUSC progression by orchestrating a TGF-beta-driven immunosuppressive microenvironment, and targeting NCAPG with Arundanine represents a promising therapeutic strategy to overcome immune evasion and sensitize LUSC to PD-1 blockade.",
+    "keywords": [
+      "Arundanine",
+      "CD8+ T cells",
+      "LUSC",
+      "NCAPG",
+      "neutrophils"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Humans",
+      "*CD8-Positive T-Lymphocytes/metabolism/drug effects/immunology",
+      "Mice",
+      "*Lung Neoplasms/metabolism/immunology/drug therapy",
+      "*Neutrophils/metabolism/drug effects",
+      "*Carcinoma, Squamous Cell/metabolism/immunology/drug therapy",
+      "Cell Line, Tumor",
+      "*Cell Cycle Proteins/metabolism/genetics/antagonists & inhibitors",
+      "Immune Evasion/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gu, Xuyu",
+        "Lu, Dongning",
+        "Deng, Ming",
+        "Ge, Tao",
+        "Jin, Kaiqi",
+        "Xu, Xinnan",
+        "Xu, Li"
+      ],
+      "short_names": [
+        "Gu X",
+        "Lu D",
+        "Deng M",
+        "Ge T",
+        "Jin K",
+        "Xu X",
+        "Xu L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Oncology, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China.",
+        "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China.",
+        "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China.",
+        "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China.",
+        "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China.",
+        "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China.",
+        "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gu, Xuyu",
+        "short_name": "Gu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Dongning",
+        "short_name": "Lu D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Ming",
+        "short_name": "Deng M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Tao",
+        "short_name": "Ge T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Kaiqi",
+        "short_name": "Jin K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xinnan",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Li",
+        "short_name": "Xu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, 200433, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42909913"
+    ],
+    "review": [
+      "42909913"
+    ],
+    "pmc": [
+      "13685603"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

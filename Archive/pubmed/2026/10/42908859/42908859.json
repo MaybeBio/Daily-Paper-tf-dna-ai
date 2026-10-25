@@ -1,0 +1,98 @@
+{
+  "identity": {
+    "pmid": "42908859",
+    "doi": "10.1007/s40203-026-00758-6",
+    "title": "Targeting the Parkinson's disease interactome: a systems pharmacology and molecular dynamics investigation unveils Berberis aristata-derived phytoconstituents as potential modulators of tyrosine hydroxylase and p53: a systems and molecular dynamics investigation."
+  },
+  "content": {
+    "abstract": "Parkinson disease (PD) is a heterogeneous disorder of complex etiology involving the loss of motor activities. These findings included mitochondrial dysfunction, inflammation of the brain; the deposition of certain proteins within dopaminergic neurons. Berberis aristata DC, a plant traditionally used as anti-diabetic herb in Ayurvedic system of medicine. It has also been found to have neuro-protective properties. We first screened a broad range of the photochemical and then used network pharmacology to calculate association between the target proteins and proteome components. The map of protein-protein interactions produced a large overlap between plant targets and the known PD biomarkers; and the hub proteins, TP53, tyrosine hydroxylase, DRD2, MAOB, and CASP3 were highly central and showed central function in the pathophysiology of PD. Molecular docking demonstrated high binding affinities, especially between the compound meratin and the DNA-binding area of the TP53, and quercetin and the catalytic site of tyrosine hydroxylase. Integrated systems bioinformatics workflow was implemented. The stability of these complexes at long time was verified by molecular dynamics simulations at 100 ns. The functional enrichment analysis identified participation in dopaminergic synaptic signaling, apoptotic mechanisms, and neurotrophin-mediated mechanisms. Predictions of pharmacokinetics showed that key alkaloid constituents were able to traverse through the blood-brain barrier and displayed a low toxicity level. Comprehensively, these results underpin the traditional use of Berberis aristata DC, suggesting its potential to modulate dopamine transmission and apoptotic repression, and making it a good candidate in multi-target Parkinson disease treatments.",
+    "keywords": [
+      "Berberis aristata DC",
+      "Molecular docking",
+      "Molecular dynamics simulation",
+      "Network pharmacology",
+      "Neuroprotection",
+      "Parkinson's disease",
+      "Polypharmacology",
+      "Tyrosine hydroxylase",
+      "p53"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chatterjee, Aniruddha",
+        "De, Abhijit"
+      ],
+      "short_names": [
+        "Chatterjee A",
+        "De A"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-6833-3838",
+        "ORCID: 0000-0002-8927-9970"
+      ],
+      "affiliations": [
+        "Department of Pharmacology, School of Pharmacy, Seacom Skills University, Bolpur, Birbhum, West Bengal 731236 India. ROR: https://ror.org/02e635r17",
+        "Department of Pharmacology, Bengal School of Technology, Hooghly, West Bengal 712102 India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chatterjee, Aniruddha",
+        "short_name": "Chatterjee A",
+        "identifiers": [
+          "0009-0000-6833-3838"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, School of Pharmacy, Seacom Skills University, Bolpur, Birbhum, West Bengal 731236 India."
+        ]
+      },
+      {
+        "full_name": "De, Abhijit",
+        "short_name": "De A",
+        "identifiers": [
+          "0000-0002-8927-9970"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, Bengal School of Technology, Hooghly, West Bengal 712102 India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "In silico pharmacology"
+    ],
+    "journal_abbrev": [
+      "In Silico Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 05:33",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42908859"
+    ],
+    "review": [
+      "42908859"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

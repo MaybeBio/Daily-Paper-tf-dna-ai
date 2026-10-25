@@ -1,0 +1,144 @@
+{
+  "identity": {
+    "pmid": "42915140",
+    "doi": "10.1021/acs.jafc.6c00594",
+    "title": "Carnosol Accelerates Pressure Ulcer Healing via Keap1-Nrf2/HO-1-Mediated Mitochondrial Quality Control."
+  },
+  "content": {
+    "abstract": "Pressure ulcer pathogenesis involves ischemia-reperfusion-induced oxidative stress and mitochondrial dysfunction. Carnosol, a rosemary-derived diterpene with antioxidant properties, was investigated for its therapeutic potential in tissue repair. Carnosol pretreatment protected HaCaT keratinocytes from oxidative injury by enhancing viability, reducing reactive oxygen species and apoptosis, and promoting migration. Network pharmacology identified the Keap1-Nrf2/HO-1 axis as a candidate pathway; molecular dynamics simulations predicted and surface plasmon resonance demonstrated direct carnosol-Keap1 binding. Nrf2 silencing, HO-1 inhibition, or Keap1 overexpression attenuated carnosol's protective effects. Mechanistically, carnosol-induced HO-1 restored DRP1-mediated mitochondrial fission and PINK1-Parkin-dependent mitophagy, maintaining mitochondrial homeostasis via mitochondrial quality control. In vivo, topical carnosol accelerated wound closure, improved histological repair, and upregulated Nrf2/HO-1 in a mouse pressure ulcer model, with superior histological and angiogenic outcomes versus intraperitoneal delivery. Carnosol facilitates pressure ulcer healing via Nrf2/HO-1-driven mitochondrial quality control, supporting development as a topical therapeutic candidate.",
+    "keywords": [
+      "carnosol",
+      "keap1-Nrf2/HO-1",
+      "keratinocyte",
+      "mitochondrial quality control",
+      "pressure ulcer"
+    ],
+    "mesh_terms": [
+      "*Abietanes/administration & dosage",
+      "*NF-E2-Related Factor 2/metabolism/genetics",
+      "Animals",
+      "Humans",
+      "Mice",
+      "*Kelch-Like ECH-Associated Protein 1/metabolism/genetics",
+      "*Heme Oxygenase-1/metabolism/genetics",
+      "*Mitochondria/metabolism/drug effects/genetics",
+      "*Pressure Ulcer/drug therapy/metabolism/genetics/physiopathology",
+      "Wound Healing/drug effects",
+      "Male",
+      "Keratinocytes/drug effects/metabolism",
+      "Oxidative Stress/drug effects",
+      "*Plant Extracts/administration & dosage",
+      "Mice, Inbred C57BL",
+      "Reactive Oxygen Species/metabolism",
+      "HaCaT Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dong, Sheng",
+        "Ge, Xin",
+        "Lu, Xinyu",
+        "Meng, Jian"
+      ],
+      "short_names": [
+        "Dong S",
+        "Ge X",
+        "Lu X",
+        "Meng J"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-5118-2035",
+        "ORCID: 0000-0003-4218-8016",
+        "ORCID: 0009-0003-5262-8174",
+        "ORCID: 0009-0006-8327-2301"
+      ],
+      "affiliations": [
+        "Suzhou Medical College of Soochow University , Suzhou, Jiangsu215123, China.",
+        "Department of Emergency and Critical Care Medicine, Wuxi No. 9 People's Hospital Affiliated to Soochow University, Wuxi, Jiangsu214062, China.",
+        "Department of Emergency and Critical Care Medicine, Wuxi No. 9 People's Hospital Affiliated to Soochow University, Wuxi, Jiangsu214062, China.",
+        "Department of Emergency and Critical Care Medicine, Wuxi No. 9 People's Hospital Affiliated to Soochow University, Wuxi, Jiangsu214062, China.",
+        "Suzhou Medical College of Soochow University , Suzhou, Jiangsu215123, China.",
+        "Department of Surgery, Xuzhou Central Hospital, Xuzhou, Jiangsu221009, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dong, Sheng",
+        "short_name": "Dong S",
+        "identifiers": [
+          "0009-0003-5118-2035"
+        ],
+        "affiliations": [
+          "Suzhou Medical College of Soochow University , Suzhou, Jiangsu215123, China.",
+          "Department of Emergency and Critical Care Medicine, Wuxi No. 9 People's Hospital Affiliated to Soochow University, Wuxi, Jiangsu214062, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Xin",
+        "short_name": "Ge X",
+        "identifiers": [
+          "0000-0003-4218-8016"
+        ],
+        "affiliations": [
+          "Department of Emergency and Critical Care Medicine, Wuxi No. 9 People's Hospital Affiliated to Soochow University, Wuxi, Jiangsu214062, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Xinyu",
+        "short_name": "Lu X",
+        "identifiers": [
+          "0009-0003-5262-8174"
+        ],
+        "affiliations": [
+          "Department of Emergency and Critical Care Medicine, Wuxi No. 9 People's Hospital Affiliated to Soochow University, Wuxi, Jiangsu214062, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Jian",
+        "short_name": "Meng J",
+        "identifiers": [
+          "0009-0006-8327-2301"
+        ],
+        "affiliations": [
+          "Suzhou Medical College of Soochow University , Suzhou, Jiangsu215123, China.",
+          "Department of Surgery, Xuzhou Central Hospital, Xuzhou, Jiangsu221009, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915140"
+    ],
+    "review": [
+      "42915140"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

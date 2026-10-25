@@ -1,0 +1,196 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.13.758170",
+  "title": "DeepD enables efficient genome modeling and controllable long-context sequence generation across domains of life",
+  "doi": "10.64898/2026.10.13.758170",
+  "abstract": "Genome foundation models hold great potential for advancing biological research, but modeling diverse complex genomes and generating controllable genome-scale sequences remain challenging. We present DeepD, a phylogeny-informed sparse mixture-of-experts model operating at single-nucleotide resolution over a 1-million-token context while reducing active computation. Pretrained on unselected whole-genome sequences across all domains of life, DeepD learns genic and intergenic sequence features and supports broad sequence-to-function prediction across species. DeepD performs well in human protein fitness and disease variants effect prediction, such as BRCA1 and BRCA2, with particular strength in regulatory regions, such as promoter and transcription-factor binding sites. Expert routing captures exon-intron boundaries, transposable elements, and distal cis-regulatory elements. DeepD also generates experimentally validated core promoters with specified transcriptional strengths. Finally, the Context-Anchor-Body strategy enables generation of complete yeast chromosome sequences and megabase-scale Arabidopsis segments, preserving gene structure and order while introducing variations within natural ranges. Together, DeepD is an efficient genome foundation model that unifies accurate sequence-to-function prediction with controllable genome-scale generation, advancing predictive and generative design of complex genomes.",
+  "authors": [
+    "Lai J",
+    "Xin B",
+    "Wang Z",
+    "Yu A",
+    "Chen Z",
+    "Guo Y",
+    "Zhang M",
+    "Hu B",
+    "Ye C",
+    "Chen J",
+    "Liu Q",
+    "Zhao H",
+    "Song W",
+    "Dong N",
+    "Yang F",
+    "Yang Q",
+    "Zhao H"
+  ],
+  "published_date": "2026-10-18",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.13.758170",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.13.758170.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1345437",
+    "raw_record": {
+      "id": "PPR1345437",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.13.758170",
+      "title": "DeepD enables efficient genome modeling and controllable long-context sequence generation across domains of life",
+      "authorString": "Lai J, Xin B, Wang Z, Yu A, Chen Z, Guo Y, Zhang M, Hu B, Ye C, Chen J, Liu Q, Zhao H, Song W, Dong N, Yang F, Yang Q, Zhao H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lai J",
+            "lastName": "Lai",
+            "firstName": "Jinsheng",
+            "initials": "J"
+          },
+          {
+            "fullName": "Xin B",
+            "lastName": "Xin",
+            "firstName": "Beibei",
+            "initials": "B"
+          },
+          {
+            "fullName": "Wang Z",
+            "lastName": "Wang",
+            "firstName": "Zijian",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Yu A",
+            "lastName": "Yu",
+            "firstName": "An",
+            "initials": "A"
+          },
+          {
+            "fullName": "Chen Z",
+            "lastName": "Chen",
+            "firstName": "Ziyang",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Guo Y",
+            "lastName": "Guo",
+            "firstName": "Yucheng",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Zhang M",
+            "lastName": "Zhang",
+            "firstName": "Mingpei",
+            "initials": "M"
+          },
+          {
+            "fullName": "Hu B",
+            "lastName": "Hu",
+            "firstName": "Bozhen",
+            "initials": "B"
+          },
+          {
+            "fullName": "Ye C",
+            "lastName": "Ye",
+            "firstName": "Chonghang",
+            "initials": "C"
+          },
+          {
+            "fullName": "Chen J",
+            "lastName": "Chen",
+            "firstName": "Jian",
+            "initials": "J"
+          },
+          {
+            "fullName": "Liu Q",
+            "lastName": "Liu",
+            "firstName": "Qiujie",
+            "initials": "Q"
+          },
+          {
+            "fullName": "Zhao H",
+            "lastName": "Zhao",
+            "firstName": "Haiming",
+            "initials": "H"
+          },
+          {
+            "fullName": "Song W",
+            "lastName": "Song",
+            "firstName": "Weibin",
+            "initials": "W"
+          },
+          {
+            "fullName": "Dong N",
+            "lastName": "Dong",
+            "firstName": "Nanqing",
+            "initials": "N"
+          },
+          {
+            "fullName": "Yang F",
+            "lastName": "Yang",
+            "firstName": "Fan",
+            "initials": "F"
+          },
+          {
+            "fullName": "Yang Q",
+            "lastName": "Yang",
+            "firstName": "Qirong",
+            "initials": "Q"
+          },
+          {
+            "fullName": "Zhao H",
+            "lastName": "Zhao",
+            "firstName": "Hainan",
+            "initials": "H"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Genome foundation models hold great potential for advancing biological research, but modeling diverse complex genomes and generating controllable genome-scale sequences remain challenging. We present DeepD, a phylogeny-informed sparse mixture-of-experts model operating at single-nucleotide resolution over a 1-million-token context while reducing active computation. Pretrained on unselected whole-genome sequences across all domains of life, DeepD learns genic and intergenic sequence features and supports broad sequence-to-function prediction across species. DeepD performs well in human protein fitness and disease variants effect prediction, such as BRCA1 and BRCA2, with particular strength in regulatory regions, such as promoter and transcription-factor binding sites. Expert routing captures exon-intron boundaries, transposable elements, and distal cis-regulatory elements. DeepD also generates experimentally validated core promoters with specified transcriptional strengths. Finally, the Context-Anchor-Body strategy enables generation of complete yeast chromosome sequences and megabase-scale Arabidopsis segments, preserving gene structure and order while introducing variations within natural ranges. Together, DeepD is an efficient genome foundation model that unifies accurate sequence-to-function prediction with controllable genome-scale generation, advancing predictive and generative design of complex genomes.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.13.758170"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-20",
+      "firstPublicationDate": "2026-10-18",
+      "firstIndexDate": "2026-10-20",
+      "hasEvaluations": "N"
+    }
+  }
+}

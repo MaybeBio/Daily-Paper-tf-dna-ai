@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "42898173",
+    "doi": "10.3389/fneur.2026.1823039",
+    "title": "Ferroptosis-associated candidate genes in aneurysmal subarachnoid hemorrhage: evidence from human peripheral blood and mouse brain."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Aneurysmal subarachnoid hemorrhage (aSAH) has high morbidity and mortality. Ferroptosis may contribute to aSAH-related brain injury, but its peripheral and brain-associated signatures remain unclear. METHODS: Human peripheral-blood dataset GSE36791 (43 aSAH, 18 controls) was analyzed using limma, FerrDb intersection, WGCNA, GO/KEGG enrichment, and PPI-based prioritization. qPCR validation was performed in peripheral blood from 10 aSAH patients and 10 non-SAH controls; aSAH samples were collected within 24 h after rupture. Mean ages were 60.2 +/- 7.7 and 63.6 +/- 8.9 years, with 5 and 4 males, respectively. Brain-level validation used GSE79416 mouse cortex and OMIX006611 mouse SAH single-cell RNA-seq data. Male C57BL/6 J mice (8 weeks, 20-22 g) underwent cisterna magna autologous blood injection; brain tissues were collected 1 day after SAH (n = 6/group). Immune infiltration and molecular docking were also performed. RESULTS: Among 2,645 DEGs, 35 were ferroptosis-related. MAPK3, STAT3, G6PD, and PGD were prioritized as ferroptosis-associated candidate genes and were upregulated in human aSAH peripheral blood, mouse SAH cortex, and the clinical qPCR cohort. Single-cell analysis showed expression of the corresponding mouse genes across annotated brain cell types, especially immune/glial populations. In mouse SAH brain tissue, MAPK3/ERK1, STAT3, PGD, and G6PD protein levels increased, p-STAT3/STAT3 ratio was elevated, MDA content increased, and GPX4 activity decreased. Immune profiling showed increased neutrophils, mast cells, and activated dendritic cells. Ganoderic acid A was prioritized as a preliminary in silico candidate. CONCLUSION: MAPK3, STAT3, G6PD, and PGD are ferroptosis-associated candidate genes in aSAH, supported by human peripheral-blood, mouse cortex, single-cell, and mouse brain validation. Ganoderic acid A remains an exploratory in silico candidate requiring further functional validation.",
+    "keywords": [
+      "aneurysmal subarachnoid hemorrhage",
+      "bioinformatics",
+      "ferroptosis-associated genes",
+      "immune infiltration",
+      "weighted gene co-expression network analysis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Humans",
+      "*Subarachnoid Hemorrhage/genetics/blood/metabolism",
+      "*Ferroptosis/genetics",
+      "Male",
+      "Mice",
+      "Middle Aged",
+      "Mice, Inbred C57BL",
+      "*Brain/metabolism",
+      "Aged",
+      "STAT3 Transcription Factor/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Jia",
+        "Wang, Cong",
+        "Li, Hongwen",
+        "Liu, Yafan",
+        "Cheng, Chunchao",
+        "Zhao, Zilin",
+        "Jiang, Guifang",
+        "Cui, Xiaopeng",
+        "Ng, Ben Chat Fong",
+        "Zhao, Yan",
+        "Wu, Zhuolin",
+        "Yang, Xinyu"
+      ],
+      "short_names": [
+        "Li J",
+        "Wang C",
+        "Li H",
+        "Liu Y",
+        "Cheng C",
+        "Zhao Z",
+        "Jiang G",
+        "Cui X",
+        "Ng BCF",
+        "Zhao Y",
+        "Wu Z",
+        "Yang X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Neurosurgery Third Department, Baoding No.1 Central Hospital, Baoding, Hebei, China.",
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "School of Pharmaceutical Science, University of South China, Hengyang, China.",
+        "Department of Neurosurgery, Tianjin Fifth Central Hospital, Tianjin, China.",
+        "Department of Neurosurgery, Queen Elizabeth Hospital, Hong Kong, Hong Kong SAR, China.",
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Jia",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China.",
+          "Neurosurgery Third Department, Baoding No.1 Central Hospital, Baoding, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Cong",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Hongwen",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yafan",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Chunchao",
+        "short_name": "Cheng C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zilin",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Guifang",
+        "short_name": "Jiang G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Science, University of South China, Hengyang, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Xiaopeng",
+        "short_name": "Cui X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Fifth Central Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Ng, Ben Chat Fong",
+        "short_name": "Ng BCF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Queen Elizabeth Hospital, Hong Kong, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yan",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Zhuolin",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xinyu",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in neurology"
+    ],
+    "journal_abbrev": [
+      "Front Neurol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 11:33",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42898173"
+    ],
+    "review": [
+      "42898173"
+    ],
+    "pmc": [
+      "13677354"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-880",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fneur.2026.1823039",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

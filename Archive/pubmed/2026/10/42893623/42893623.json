@@ -1,0 +1,171 @@
+{
+  "identity": {
+    "pmid": "42893623",
+    "doi": "10.1016/j.plaphy.2026.111867",
+    "title": "Omics-driven improvement of safflower (Carthamus tinctorius L.) for climate resilience, oil quality, and high-value metabolites under changing environments."
+  },
+  "content": {
+    "abstract": "Safflower is an Asteraceae oilseed crop valued for its high-quality unsaturated fatty acids ( approximately 90% oleic and linoleic acids), natural floral pigments, and diverse bioactive compounds. These attributes underpin its applications in functional foods, nutraceuticals, pharmaceuticals, and various industrial sectors. Safflower inherent tolerance to drought, heat, cold, and salinity positions it as a climate-resilient alternative to more temperature-sensitive oilseeds; however, omics-based research in this crop remains comparatively fragmented. This review consolidates recent advances across major omics domains. Genomics covers chromosome-scale assemblies, GWAS panels, QTL mapping, and diagnostic candidate genes for molecular breeding. Transcriptomics summarizes regulatory networks for flavonoid and oil biosynthesis, stress-responsive transcription factors (NAC, WRKY, bZIP, AP2/ERF), and seed developmental programs. The proteomics section addresses stress-inducible, therapeutic, and storage/lipid metabolic proteins linked to quality and stress adaptation. Metabolomics outlines quinochalcone and flavonoid pathway architecture, color-specific metabolic profiles, and emerging clinical and nutraceutical applications. Phenomics highlights UAV-based high-throughput phenotyping, RGB and multispectral imaging for salt and drought screening, and machine-learning-assisted germplasm authentication. Epigenomics focuses on DNA methylation and miRNA-mediated regulation. Finally, lipidomics and metagenomics consider oil authentication biomarkers, refining optimization, and microbiome-driven nutrient cycling shaping medicinally important compounds. Despite these advances, critical gaps remain in multi-omics integration, CRISPR-based functional validation, genomic selection pipelines, and detailed characterization of root-shoot architecture under combined stresses. Addressing these gaps will advance mechanistic understanding of climate resilience and enable the development of stress-tolerant, high-yielding safflower cultivars with improved oil quality and bioactive profiles, thereby supporting climate-resilient production systems and high-value safflower-based products at scale.",
+    "keywords": [
+      "Climate resilience",
+      "Flavonoids",
+      "Genomics",
+      "Machine learning",
+      "Metabolomics",
+      "Multi-omics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ali, Fawad",
+        "Ali, Arif",
+        "Nadeem, Muhammad Azhar",
+        "Baloch, Faheem Shehzad",
+        "Kurt, Cemal",
+        "Do, Manh Cuong",
+        "Yu, Ju-Kyung",
+        "Chung, Yong Suk"
+      ],
+      "short_names": [
+        "Ali F",
+        "Ali A",
+        "Nadeem MA",
+        "Baloch FS",
+        "Kurt C",
+        "Do MC",
+        "Yu JK",
+        "Chung YS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Plant Resources and Environment, Jeju National University, Jeju, 63243, Republic of Korea.",
+        "Key Laboratory of Genetics and Germplasm Innovation of Tropical Special Forest Trees and Ornamental Plants, Ministry of Education, School of Tropical Agricultural and Forestry, Hainan University, Danzhou, 571737, China.",
+        "Department of Biotechnology, Faculty of Science, Mersin University, Mersin, Turkiye; Department of Biotechnology, Institute of Biochemistry, Sh. Rashidov Samarkand State University, Samarkand, 140104, Uzbekistan.",
+        "Department of Biotechnology, Faculty of Science, Mersin University, Mersin, Turkiye; Sh. Rashidov Samarkand State University, Institute of Biochemistry, Department of Genetics, Samarkand, Uzbekistan; An Giang UniversityAn Giang Province, Vietnam; Vietnam National University, Ho Chi Minh City, Vietnam.",
+        "Department of Field Crops, Cukurova Univerity, Balcali Adana, Turkey.",
+        "Institute of Theoretical and Applied Research, Duy Tan University, Hanoi, 100000, Viet Nam; College of Medicine and Pharmacy, Duy Tan University, Da Nang, 550000, Viet Nam.",
+        "Department of Crop Science. Chungbuk National University, Cheongju, Chungbuk, 28644, Republic of Korea. Electronic address: yujk0830@chungbuk.ac.kr.",
+        "Department of Plant Life and Environment, Hankyong National University, 17579, Republic of Korea. Electronic address: schung@hknu.ac.kr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ali, Fawad",
+        "short_name": "Ali F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Resources and Environment, Jeju National University, Jeju, 63243, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Ali, Arif",
+        "short_name": "Ali A",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Genetics and Germplasm Innovation of Tropical Special Forest Trees and Ornamental Plants, Ministry of Education, School of Tropical Agricultural and Forestry, Hainan University, Danzhou, 571737, China."
+        ]
+      },
+      {
+        "full_name": "Nadeem, Muhammad Azhar",
+        "short_name": "Nadeem MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Faculty of Science, Mersin University, Mersin, Türkiye; Department of Biotechnology, Institute of Biochemistry, Sh. Rashidov Samarkand State University, Samarkand, 140104, Uzbekistan."
+        ]
+      },
+      {
+        "full_name": "Baloch, Faheem Shehzad",
+        "short_name": "Baloch FS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Faculty of Science, Mersin University, Mersin, Türkiye; Sh. Rashidov Samarkand State University, Institute of Biochemistry, Department of Genetics, Samarkand, Uzbekistan; An Giang UniversityAn Giang Province, Vietnam; Vietnam National University, Ho Chi Minh City, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Kurt, Cemal",
+        "short_name": "Kurt C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Field Crops, Çukurova Univerity, Balcalı Adana, Turkey."
+        ]
+      },
+      {
+        "full_name": "Do, Manh Cuong",
+        "short_name": "Do MC",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Theoretical and Applied Research, Duy Tan University, Hanoi, 100000, Viet Nam; College of Medicine and Pharmacy, Duy Tan University, Da Nang, 550000, Viet Nam."
+        ]
+      },
+      {
+        "full_name": "Yu, Ju-Kyung",
+        "short_name": "Yu JK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Crop Science. Chungbuk National University, Cheongju, Chungbuk, 28644, Republic of Korea. Electronic address: yujk0830@chungbuk.ac.kr."
+        ]
+      },
+      {
+        "full_name": "Chung, Yong Suk",
+        "short_name": "Chung YS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Life and Environment, Hankyong National University, 17579, Republic of Korea. Electronic address: schung@hknu.ac.kr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant physiology and biochemistry : PPB"
+    ],
+    "journal_abbrev": [
+      "Plant Physiol Biochem"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/18 23:27",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42893623"
+    ],
+    "review": [
+      "42893623"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0981-9428(26)00853-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-FABP4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

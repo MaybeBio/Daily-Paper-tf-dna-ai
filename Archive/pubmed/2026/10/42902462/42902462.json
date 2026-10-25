@@ -1,0 +1,178 @@
+{
+  "identity": {
+    "pmid": "42902462",
+    "doi": "10.1002/bmc.70632",
+    "title": "Chaihu-Guizhi Decoction Attenuates Airway Remodelling in COPD Mice via the TGF-beta1/Smads Signalling Pathway: An Integrated Proteomic and Metabolomic Analysis."
+  },
+  "content": {
+    "abstract": "Chronic obstructive pulmonary disease (COPD) is characterised by persistent airway injury and remodelling, and the mechanisms by which Chai-Hu-Gui-Zhi Decoction (CGD) acts in COPD remain unclear. This study investigated whether CGD attenuates airway remodelling through the TGF-beta1/Smads-EMT-ECM signalling axis. A mouse COPD model was established by cigarette-smoke exposure plus intranasal lipopolysaccharide. After model induction, mice received dexamethasone acetate or low-, medium- or high-dose CGD for 28 days. UHPLC-MS/MS, network pharmacology, molecular docking, molecular dynamics, proteomics, metabolomics, ELISA, western blotting, RT-PCR, pulmonary function testing and histopathology were integrated. CGD dose-dependently improved pulmonary function and lung pathology and reduced BALF total protein, NO, VEGF, IFN-gamma, MPO, CXCL1 and serum 8-OHdG. Multi-omics and network analyses implicated phenylalanine/tyrosine/tryptophan biosynthesis, the histidine-glutamate-hypoxanthine axis, MAPK, PI3K-Akt and TGF-beta1-related pathways. Validation showed that CGD decreased TGF-beta1, p-SMAD2/3, SMAD2/3, MMP-9 and TIMP-1; increased SMAD7 and E-cadherin; and regulated Smad2/Smad3/Smad7 mRNA. CGD may attenuate COPD airway remodelling, in association with suppressed TGF-beta1/Smads signalling, restored SMAD7-mediated feedback, limited EMT and rebalanced ECM remodelling.",
+    "keywords": [
+      "Chai-Hu-Gui-Zhi decoction",
+      "TGF-beta1/Smads signalling pathway",
+      "UHPLC-MS/MS",
+      "chronic obstructive pulmonary disease",
+      "multi-omics"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Drugs, Chinese Herbal/pharmacology",
+      "*Pulmonary Disease, Chronic Obstructive/metabolism/drug therapy",
+      "*Transforming Growth Factor beta1/metabolism",
+      "Mice",
+      "Signal Transduction/drug effects",
+      "Proteomics",
+      "*Smad Proteins/metabolism",
+      "*Airway Remodeling/drug effects",
+      "Male",
+      "Metabolomics",
+      "Mice, Inbred C57BL",
+      "*Metabolome/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Jiuwang",
+        "Wu, Xiaodong",
+        "Chen, Zeyu",
+        "Zhai, Chenxu",
+        "A, Jinxiang",
+        "Zhang, Yuping"
+      ],
+      "short_names": [
+        "Yu J",
+        "Wu X",
+        "Chen Z",
+        "Zhai C",
+        "A J",
+        "Zhang Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-6588-664X"
+      ],
+      "affiliations": [
+        "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China.",
+        "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China.",
+        "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China.",
+        "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China.",
+        "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China.",
+        "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Jiuwang",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaodong",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zeyu",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Zhai, Chenxu",
+        "short_name": "Zhai C",
+        "identifiers": [],
+        "affiliations": [
+          "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "A, Jinxiang",
+        "short_name": "A J",
+        "identifiers": [],
+        "affiliations": [
+          "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuping",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0009-0003-6588-664X"
+        ],
+        "affiliations": [
+          "Hohhot Hospital of Traditional Chinese Medicine and Mongolian Medicine, Hohhot, Inner Mongolia, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedical chromatography : BMC"
+    ],
+    "journal_abbrev": [
+      "Biomed Chromatogr"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/21 05:32",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42902462"
+    ],
+    "review": [
+      "42902462"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/copd.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COPD"
+      },
+      {
+        "url": "https://doi.org/10.1002/bmc.70632",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MPO-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4047",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42905837",
+    "doi": "10.1126/sciadv.aef4365",
+    "title": "CCAN forms the spherical shell-like structure in interphase kinetochores."
+  },
+  "content": {
+    "abstract": "The kinetochore is an essential structure for the faithful chromosome segregation during mitosis. The 16-protein complex known as the constitutive centromere-associated network (CCAN) localizes the centromere throughout the cell cycle and forms the basis of the kinetochore. Although cryo-electron microscopy has provided a structural model of an individual CCAN unit, how multiple CCAN units are organized within cells remains unclear. Here, using in silico and in vivo analyses, we demonstrate that multiple CCAN units form a spherical shell-like structure in interphase DT40 kinetochores. CENP-T and CENP-N localize to the CCAN shell, whereas the CENP-C cupin domain clusters at the center. Molecular dynamics simulations of CCAN assembly suggest that CENP-C-DNA interactions constrain the orientation of CCAN units, supporting a spherical shell-like organization via CENP-C oligomerization. Super-resolution imaging reveals the spherical shell-like structure at DT40 kinetochores, and CENP-C knockout or expression of a CENP-C DNA binding deficient mutant abolishes the structure, consistent with the simulation-derived model. These findings provide important insights into the spatial organization of functional kinetochores within cells.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Kinetochores/metabolism/ultrastructure/chemistry",
+      "*Chromosomal Proteins, Non-Histone/metabolism/chemistry/genetics",
+      "*Interphase",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "*Centromere/metabolism",
+      "Cryoelectron Microscopy",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sakai, Yuji",
+        "Ariyoshi, Mariko",
+        "Hirano, Yasuhiro",
+        "Mahana, Yutaka",
+        "Suzuki, Aussie",
+        "Hirota, Toru",
+        "Tachikawa, Masashi",
+        "Fukagawa, Tatsuo"
+      ],
+      "short_names": [
+        "Sakai Y",
+        "Ariyoshi M",
+        "Hirano Y",
+        "Mahana Y",
+        "Suzuki A",
+        "Hirota T",
+        "Tachikawa M",
+        "Fukagawa T"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2184-4304",
+        "ORCID: 0000-0002-1361-2642",
+        "ORCID: 0000-0001-7339-4053",
+        "ORCID: 0000-0001-6218-6726",
+        "ORCID: 0000-0001-7390-5116",
+        "ORCID: 0000-0001-7064-9065",
+        "ORCID: 0000-0003-4355-6968",
+        "ORCID: 0000-0001-8564-6852"
+      ],
+      "affiliations": [
+        "School of Science and Graduate School of Nanobioscience, Yokohama City University, Yokohama, Kanagawa 236-0027, Japan.",
+        "Graduate School of Frontier Biosciences, The University of Osaka, Suita, Osaka 565-0871, Japan.",
+        "Graduate School of Frontier Biosciences, The University of Osaka, Suita, Osaka 565-0871, Japan.",
+        "Department of Chemistry, Faculty of Science, Ochanomizu University, Bunkyo-ku, Tokyo 112-8610, Japan.",
+        "Division of Experimental Pathology, Cancer Institute of the Japanese Foundation for Cancer Research, Tokyo 135-8550, Japan.",
+        "Graduate School of Frontier Biosciences, The University of Osaka, Suita, Osaka 565-0871, Japan.",
+        "McArdle Laboratory for Cancer Research, Department of Oncology, University of Wisconsin-Madison, Madison, WI, USA.",
+        "Division of Experimental Pathology, Cancer Institute of the Japanese Foundation for Cancer Research, Tokyo 135-8550, Japan.",
+        "School of Science and Graduate School of Nanobioscience, Yokohama City University, Yokohama, Kanagawa 236-0027, Japan.",
+        "Graduate School of Frontier Biosciences, The University of Osaka, Suita, Osaka 565-0871, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sakai, Yuji",
+        "short_name": "Sakai Y",
+        "identifiers": [
+          "0000-0002-2184-4304"
+        ],
+        "affiliations": [
+          "School of Science and Graduate School of Nanobioscience, Yokohama City University, Yokohama, Kanagawa 236-0027, Japan."
+        ]
+      },
+      {
+        "full_name": "Ariyoshi, Mariko",
+        "short_name": "Ariyoshi M",
+        "identifiers": [
+          "0000-0002-1361-2642"
+        ],
+        "affiliations": [
+          "Graduate School of Frontier Biosciences, The University of Osaka, Suita, Osaka 565-0871, Japan."
+        ]
+      },
+      {
+        "full_name": "Hirano, Yasuhiro",
+        "short_name": "Hirano Y",
+        "identifiers": [
+          "0000-0001-7339-4053"
+        ],
+        "affiliations": [
+          "Graduate School of Frontier Biosciences, The University of Osaka, Suita, Osaka 565-0871, Japan.",
+          "Department of Chemistry, Faculty of Science, Ochanomizu University, Bunkyo-ku, Tokyo 112-8610, Japan.",
+          "Division of Experimental Pathology, Cancer Institute of the Japanese Foundation for Cancer Research, Tokyo 135-8550, Japan."
+        ]
+      },
+      {
+        "full_name": "Mahana, Yutaka",
+        "short_name": "Mahana Y",
+        "identifiers": [
+          "0000-0001-6218-6726"
+        ],
+        "affiliations": [
+          "Graduate School of Frontier Biosciences, The University of Osaka, Suita, Osaka 565-0871, Japan."
+        ]
+      },
+      {
+        "full_name": "Suzuki, Aussie",
+        "short_name": "Suzuki A",
+        "identifiers": [
+          "0000-0001-7390-5116"
+        ],
+        "affiliations": [
+          "McArdle Laboratory for Cancer Research, Department of Oncology, University of Wisconsin-Madison, Madison, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Hirota, Toru",
+        "short_name": "Hirota T",
+        "identifiers": [
+          "0000-0001-7064-9065"
+        ],
+        "affiliations": [
+          "Division of Experimental Pathology, Cancer Institute of the Japanese Foundation for Cancer Research, Tokyo 135-8550, Japan."
+        ]
+      },
+      {
+        "full_name": "Tachikawa, Masashi",
+        "short_name": "Tachikawa M",
+        "identifiers": [
+          "0000-0003-4355-6968"
+        ],
+        "affiliations": [
+          "School of Science and Graduate School of Nanobioscience, Yokohama City University, Yokohama, Kanagawa 236-0027, Japan."
+        ]
+      },
+      {
+        "full_name": "Fukagawa, Tatsuo",
+        "short_name": "Fukagawa T",
+        "identifiers": [
+          "0000-0001-8564-6852"
+        ],
+        "affiliations": [
+          "Graduate School of Frontier Biosciences, The University of Osaka, Suita, Osaka 565-0871, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42905837"
+    ],
+    "review": [
+      "42905837"
+    ],
+    "pmc": [
+      "13685990"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aef4365?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

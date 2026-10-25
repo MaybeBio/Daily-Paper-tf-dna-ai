@@ -1,0 +1,748 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.19.760246",
+  "title": "A pan-cancer catalog of mutagenesis at transcription factor binding sites",
+  "doi": "10.64898/2026.10.19.760246",
+  "abstract": "Transcription factor (TF) binding can contribute to mutagenesis by altering DNA damage formation or interfering with DNA repair. Although these effects have been characterized for selected TFs and mutagenic processes, their prevalence across TFs and cancer types remains poorly understood. A systematic characterization of mutation enrichment at TF binding sites is needed to guide mechanistic studies and improve the interpretation of noncoding mutations in cancer. Here, we analyzed somatic mutations from over 4,000 tumors across 15 tissue types to generate a pan-cancer catalog of mutation patterns at binding sites for 655 TFs, organized into 276 motif clusters. We assessed mutation enrichment at single-nucleotide resolution, accounting for sequence-dependent and local variation in background mutation rates. Nearly one third of <TF- cluster, tissue> pairs with sufficient mutation counts showed significant enrichment at one or more binding site positions. Enrichment was most widespread in melanoma but was detected in all 15 tissue types, with the affected TFs and binding site positions varying across tissues. Highly expressed TFs were more likely to show enrichment than lowly expressed TFs, consistent with a role for TF binding in increased mutagenesis at the binding sites. Mutational signature analysis implicated processes beyond UV damage, including age-associated processes, deamination lesions, oxidative damage, and tobacco exposure, as potentially contributing to TF-induced mutagenesis. Together, these findings suggest that diverse interactions between TF binding, DNA damage, and DNA repair may contribute to mutation enrichment in regulatory DNA. Our pan-cancer catalog reveals position-specific enrichment of somatic mutations at TF binding sites across all 15 tissue types analyzed. By identifying specific TFs and binding site positions enriched for somatic mutations, together with potential mutagenic processes acting at these positions, our study provides a roadmap for experimental assessment of TF-induced mutagenesis and informs the interpretation and prioritization of non-coding mutations in cancer.",
+  "authors": [
+    "Harshit Sahay",
+    "Yuncheng Duan",
+    "Raluca Gordân"
+  ],
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-20T23:20:18Z",
+  "journal": "bioRxiv",
+  "category": "Cancer Biology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760246",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760246.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Cancer Biology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Cancer Biology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T22:40:25Z",
+        "timestamp": 1792795225224,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ]
+      },
+      "group-title": "Cancer Biology",
+      "reference-count": 82,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                20
+              ]
+            ],
+            "date-time": "2026-10-20T00:00:00Z",
+            "timestamp": 1792454400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "2529591"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2529591"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/021nxhr62",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "R01-GM135658"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "R01-GM135658"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01cwqze88",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ]
+      },
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>Transcription factor (TF) binding can contribute to mutagenesis by altering DNA damage formation or interfering with DNA repair. Although these effects have been characterized for selected TFs and mutagenic processes, their prevalence across TFs and cancer types remains poorly understood. A systematic characterization of mutation enrichment at TF binding sites is needed to guide mechanistic studies and improve the interpretation of noncoding mutations in cancer.</jats:p>\n                <jats:p>Here, we analyzed somatic mutations from over 4,000 tumors across 15 tissue types to generate a pan-cancer catalog of mutation patterns at binding sites for 655 TFs, organized into 276 motif clusters. We assessed mutation enrichment at single-nucleotide resolution, accounting for sequence-dependent and local variation in background mutation rates. Nearly one third of &lt;TF- cluster, tissue&gt; pairs with sufficient mutation counts showed significant enrichment at one or more binding site positions. Enrichment was most widespread in melanoma but was detected in all 15 tissue types, with the affected TFs and binding site positions varying across tissues. Highly expressed TFs were more likely to show enrichment than lowly expressed TFs, consistent with a role for TF binding in increased mutagenesis at the binding sites. Mutational signature analysis implicated processes beyond UV damage, including age-associated processes, deamination lesions, oxidative damage, and tobacco exposure, as potentially contributing to TF-induced mutagenesis. Together, these findings suggest that diverse interactions between TF binding, DNA damage, and DNA repair may contribute to mutation enrichment in regulatory DNA.</jats:p>\n                <jats:p>Our pan-cancer catalog reveals position-specific enrichment of somatic mutations at TF binding sites across all 15 tissue types analyzed. By identifying specific TFs and binding site positions enriched for somatic mutations, together with potential mutagenic processes acting at these positions, our study provides a roadmap for experimental assessment of TF-induced mutagenesis and informs the interpretation and prioritization of non-coding mutations in cancer.</jats:p>",
+      "DOI": "10.64898/2026.10.19.760246",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2026-10-20T23:20:18Z",
+        "timestamp": 1792538418000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A pan-cancer catalog of mutagenesis at transcription factor binding sites"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7955-6527",
+          "authenticated-orcid": false,
+          "given": "Harshit",
+          "family": "Sahay",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Program in Computational Biology & Bioinformatics, Durham, NC 27708, USA"
+            },
+            {
+              "name": "Center for Advanced Genomic Technologies, Durham, NC 27708, USA"
+            },
+            {
+              "name": "Department of Biostatistics & Bioinformatics, Durham, NC 27708, USA"
+            },
+            {
+              "name": "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6568-0081",
+          "authenticated-orcid": false,
+          "given": "Yuncheng",
+          "family": "Duan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Genomics and Computational Biology, University of Massachusetts Chan Medical School, MA 01605, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6404-6556",
+          "authenticated-orcid": false,
+          "given": "Raluca",
+          "family": "Gordân",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Advanced Genomic Technologies, Durham, NC 27708, USA"
+            },
+            {
+              "name": "Department of Biostatistics & Bioinformatics, Durham, NC 27708, USA"
+            },
+            {
+              "name": "Department of Genomics and Computational Biology, University of Massachusetts Chan Medical School, MA 01605, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1603388113"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-020-2843-2"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-020-1943-3"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature12477"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ng.2658"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2346101"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Buisson R , Langenbucher A , Bowen D , Kwan EE , Benes CH , Zou L , Lawrence MS . 2019. Passenger hotspot mutations in cancer driven by APOBEC3A and mesoscale genomic features. Science 364.",
+          "DOI": "10.1126/science.aaw2872"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aaz1776"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Corces MR , Granja JM , Shams S , Louie BH , Seoane JA , Zhou W , Silva TC , Groeneveld C , Wong CK , Cho SW et al. 2018. The chromatin accessibility landscape of primary human cancers. Science 362.",
+          "DOI": "10.1126/science.aav1898"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1016/j.coisb.2016.12.017",
+          "article-title": "Non-coding genetic variation in cancer",
+          "volume": "1",
+          "year": "2017",
+          "journal-title": "Curr Opin Syst Biol"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Diaz-Gay M , Vangara R , Barnes M , Wang X , Islam SMA , Vermes I , Duke S , Narasimman NB , Yang T , Jiang Z et al. 2023. Assigning mutational signatures to individual samples and individual somatic mutations with SigProfilerAssignment. Bioinformatics 39.",
+          "DOI": "10.1093/bioinformatics/btad756"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jacs.6b12604"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Duan M , Sivapragasam S , Antony JS , Ulibarri J , Hinz JM , Poon GMK , Wyrick JJ , Mao P . 2022. High-resolution mapping demonstrates inhibition of DNA excision repair by transcription factors. Elife 11.",
+          "DOI": "10.7554/eLife.73943"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2310854121"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-022-31872-6"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/287560a0"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.17",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1007849",
+          "DOI": "10.1371/journal.pgen.1007849",
+          "article-title": "Elevated pyrimidine dimer formation at distinct genomic bases underlies promoter mutation hotspots in UV-exposed cancers",
+          "volume": "14",
+          "year": "2018",
+          "journal-title": "PLoS Genet"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.18",
+          "doi-asserted-by": "crossref",
+          "first-page": "500",
+          "DOI": "10.1038/s41568-021-00371-z",
+          "article-title": "Non-coding driver mutations in human cancer",
+          "volume": "21",
+          "year": "2021",
+          "journal-title": "Nat Rev Cancer"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkaa1219"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "George N , Singh AK , Sabarinathan R . 2026. Transcription factor co-occupancy shapes the somatic mutational landscapes across regulatory regions in liver cancer. bioRxiv.",
+          "DOI": "10.64898/2026.08.22.745658"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.21",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1038/s41525-020-0133-4",
+          "article-title": "MutSpot: detection of non-coding mutation hotspots in cancer genomes",
+          "volume": "5",
+          "year": "2020",
+          "journal-title": "NPJ Genom Med"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aad9024"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/humu.21616"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1016/j.csda.2012.10.006",
+          "article-title": "On computing the distribution function for the Poisson binomial distribution",
+          "volume": "59",
+          "year": "2013",
+          "journal-title": "Computational Statistics & Data Analysis"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/gad.261271.115"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1706522114"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1229259"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00412-011-0347-4"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pgen.1006207"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ng.3335"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrg.2015.17"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature12213"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ncomms2502"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.34",
+          "doi-asserted-by": "crossref",
+          "first-page": "3339",
+          "DOI": "10.1038/s41598-021-82910-0",
+          "article-title": "Mutational processes in cancer preferentially affect binding of particular transcription factors",
+          "volume": "11",
+          "year": "2021",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-018-05064-0"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1606667113"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2217422120"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.38",
+          "doi-asserted-by": "crossref",
+          "first-page": "832",
+          "DOI": "10.1038/s41467-020-14644-y",
+          "article-title": "Androgen receptor-binding sites are highly mutated in prostate cancer",
+          "volume": "11",
+          "year": "2020",
+          "journal-title": "Nat Commun"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2012.04.024"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/mutage/gev073"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature17437"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/3-540-31390-7_10"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s42764-020-00009-8"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41576-024-00748-4"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0227180"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature08658"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13059-018-1582-2"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature14221"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.2778"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkx463"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.celrep.2016.11.055"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature14666"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btq033"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature14183"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-020-1965-x"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature14248"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.molcel.2009.11.007"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature17661"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature11273"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.60",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Seplyarskiy V , Lee DJ , Koch EM , Lichtman JS , Luan HH , Sunyaev SR . 2023. A mutation rate model at the basepair resolution identifies the mutagenic effect of Polymerase III transcription.",
+          "DOI": "10.1101/2022.08.20.504670"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41587-022-01353-8"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.62",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.15252/embj.2021107795"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ng.363"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature14173"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.65",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.dnarep.2019.102647"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jacs.1c10490"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gky1015"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.68",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aaz1776"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.69",
+          "first-page": "82",
+          "volume": "578",
+          "author": "The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium",
+          "year": "2020",
+          "journal-title": "Pan-cancer analysis of whole genomes. Nature"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature11232"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aaf9011"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pgen.1000592"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.73",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/jmbi.1995.0331"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.74",
+          "doi-asserted-by": "crossref",
+          "first-page": "904",
+          "DOI": "10.1002/humu.23014",
+          "article-title": "A Significant Regulatory Mutation Burden at a High-Affinity Position of the CTCF Motif in Gastrointestinal Cancers",
+          "volume": "37",
+          "year": "2016",
+          "journal-title": "Hum Mutat"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.75",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-020-2528-x"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.76",
+          "doi-asserted-by": "crossref",
+          "first-page": "791",
+          "DOI": "10.1137/1140093",
+          "article-title": "A refinement of the central limit theorem for sums of independent random indicators",
+          "volume": "40",
+          "year": "1996",
+          "journal-title": "Theory of Probability & Its Applications"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.77",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/3-540-31390-7_11"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.78",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wasserman HI , Chi B , Bohm KA , Duan M , Sahay H , Safi A , Crawford GE , Mao P , Wyrick JJ , Pufall MA et al. 2026. High-throughput characterization of transcription factors that modulate UV damage formation and repair at single-nucleotide resolution. Nat Commun 17.",
+          "DOI": "10.1038/s41467-026-75115-4"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.79",
+          "doi-asserted-by": "crossref",
+          "first-page": "190",
+          "DOI": "10.1186/s13059-018-1572-4",
+          "article-title": "Recurrent mutations at estrogen receptor binding sites alter chromatin topology and distal gene expression in breast cancer",
+          "volume": "19",
+          "year": "2018",
+          "journal-title": "Genome Biol"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.80",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1186/s12920-019-0525-4",
+          "article-title": "Impact of cancer mutational signatures on transcription factor motifs in the human genome",
+          "volume": "12",
+          "year": "2019",
+          "journal-title": "BMC Med Genomics"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41587-019-0055-9"
+        },
+        {
+          "key": "2026102315000824000_2026.10.19.760246v1.82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2025.07.003"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.19.760246",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T22:00:21Z",
+        "timestamp": 1792792821000
+      },
+      "score": 114.525055,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.19.760246"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ]
+      },
+      "references-count": 82,
+      "URL": "https://doi.org/10.64898/2026.10.19.760246",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

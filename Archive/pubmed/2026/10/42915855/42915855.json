@@ -1,0 +1,303 @@
+{
+  "identity": {
+    "pmid": "42915855",
+    "doi": "10.1021/acs.jafc.6c02243",
+    "title": "beta-Hydroxybutyrate Exacerbates Klebsiella pneumoniae-Induced Inflammatory Injury and Milk Synthesis Impairment via the GPR109A/NF-kappaB Signaling Axis."
+  },
+  "content": {
+    "abstract": "Ketotic cows exhibit a heightened mastitis risk through an unknown mechanism. This study investigated the influence of beta-hydroxybutyrate (BHBA) on mastitis development. Mammary tissues from ketotic cows with mastitis showed more severe pathological damage and suppression of lactation-related genes. BHBA pretreatment further increased NF-kappaB pathway activation, facilitated expressions of pro-inflammatory cytokines, and suppressed lactation proteins in Klebsiella pneumoniae (K. pneumoniae)-infected BMECs, thereby exacerbating inflammatory injury and milk synthesis impairment. Molecular docking, DARTS, and CETSA assays confirmed that BHBA directly bound to GPR109A. GPR109A knockdown blocked the activation of the NF-kappaB pathway, alleviated inflammatory injury, and mitigated milk synthesis impairment. Meanwhile, similar findings were identified with PTX (an inhibitor of GPR109A) treatment. These findings elucidated the role of BHBA and its endogenous receptor GPR109A in K. pneumoniae-induced inflammatory injury and milk synthesis impairment, which provided valuable insight for understanding the interplay between metabolic imbalance and postpartum mammary health.",
+    "keywords": [
+      "GPR109A",
+      "Klebsiella pneumoniae",
+      "ketosis",
+      "mastitis",
+      "milk synthesis impairment",
+      "beta-hydroxybutyrate"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Female",
+      "Cattle",
+      "*Receptors, G-Protein-Coupled/genetics/immunology/metabolism",
+      "*Milk/metabolism",
+      "*Klebsiella pneumoniae/physiology",
+      "*3-Hydroxybutyric Acid/metabolism",
+      "Signal Transduction/drug effects",
+      "*NF-kappa B/genetics/immunology/metabolism",
+      "*Klebsiella Infections/veterinary/immunology/genetics/microbiology/metabolism",
+      "*Mastitis, Bovine/immunology/genetics/microbiology/metabolism",
+      "Mammary Glands, Animal/immunology/metabolism",
+      "Lactation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Jue",
+        "Yuan, Changning",
+        "Cai, Siyi",
+        "Ni, Luanyu",
+        "Liu, Kangjun",
+        "Guo, Long",
+        "Cui, Luying",
+        "Dong, Junsheng",
+        "Li, Jianji",
+        "Zhu, Guoqiang",
+        "Wang, Ran",
+        "Zhang, Lili",
+        "He, Tao",
+        "Meng, Xia",
+        "Wang, Heng"
+      ],
+      "short_names": [
+        "Wang J",
+        "Yuan C",
+        "Cai S",
+        "Ni L",
+        "Liu K",
+        "Guo L",
+        "Cui L",
+        "Dong J",
+        "Li J",
+        "Zhu G",
+        "Wang R",
+        "Zhang L",
+        "He T",
+        "Meng X",
+        "Wang H"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-5669-0840",
+        "ORCID: 0000-0002-5491-0670",
+        "ORCID: 0000-0002-1581-4651"
+      ],
+      "affiliations": [
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "Institute of Food Safety and Nutrition, Jiangsu Academy of Agricultural Sciences, Nanjing210000, China.",
+        "Institute of Food Safety and Nutrition, Jiangsu Academy of Agricultural Sciences, Nanjing210000, China.",
+        "Institute of Food Safety and Nutrition, Jiangsu Academy of Agricultural Sciences, Nanjing210000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China.",
+        "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+        "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+        "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Jue",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0009-0002-5669-0840"
+        ],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Changning",
+        "short_name": "Yuan C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Siyi",
+        "short_name": "Cai S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Ni, Luanyu",
+        "short_name": "Ni L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Kangjun",
+        "short_name": "Liu K",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Long",
+        "short_name": "Guo L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Luying",
+        "short_name": "Cui L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Junsheng",
+        "short_name": "Dong J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jianji",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Guoqiang",
+        "short_name": "Zhu G",
+        "identifiers": [
+          "0000-0002-5491-0670"
+        ],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ran",
+        "short_name": "Wang R",
+        "identifiers": [
+          "0000-0002-1581-4651"
+        ],
+        "affiliations": [
+          "Institute of Food Safety and Nutrition, Jiangsu Academy of Agricultural Sciences, Nanjing210000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lili",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Safety and Nutrition, Jiangsu Academy of Agricultural Sciences, Nanjing210000, China."
+        ]
+      },
+      {
+        "full_name": "He, Tao",
+        "short_name": "He T",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Safety and Nutrition, Jiangsu Academy of Agricultural Sciences, Nanjing210000, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Xia",
+        "short_name": "Meng X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Heng",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Yangzhou University, Jiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou225009, China.",
+          "Jiangsu Interdisciplinary Center for Zoonoses and Biosafety, Yangzhou University, Yangzhou225009, China.",
+          "Jiangsu Key Laboratory of Zoonotic, Yangzhou University, Yangzhou225000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915855"
+    ],
+    "review": [
+      "42915855"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

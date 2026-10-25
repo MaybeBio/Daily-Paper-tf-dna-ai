@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42917941",
+    "doi": "10.1021/acs.jmedchem.6c02030",
+    "title": "Design of Wheat Protein-Derived Keap1-Targeting Antioxidant Peptides: Integrating Intelligent Screening, ProteinMPNN-Guided Sequence Optimization, and TAT-Fused Delivery."
+  },
+  "content": {
+    "abstract": "Wheat gliadin-derived peptides show promising antioxidant potential, but their target-guided discovery remains challenging. Here, we established a computation-driven pipeline for Keap1-targeting antioxidant peptides. From 2798 virtual oligopeptides generated using our Peptide_MDI platform, KCENEECTFP and RELVNSTCFA were selected through multitier screening and molecular dynamics simulations. KCENEECTFP exhibited antioxidant activity and modulated the Keap1-Nrf2 pathway in H2O2-stressed IPEC-J2 cells. Structure-guided ProteinMPNN optimization yielded SCDCPSCLYP, which showed enhanced radical scavenging activity, antioxidant enzyme responses, and regulation of Keap1-Nrf2-related genes. SCDCPSCLYP also promoted Nrf2 nuclear translocation and attenuated p65 activation. Surface plasmon resonance confirmed direct Keap1 binding (KD = 7.25 muM), while the cellular thermal shift assay (CETSA) supported Keap1 target engagement in cells. N-terminal TAT fusion further improved cellular uptake and antioxidant efficacy. These findings demonstrate an integrated strategy combining target-guided screening, structure-informed optimization, target validation, and intracellular delivery for the rational development of wheat gliadin-derived antioxidant peptides.",
+    "keywords": [
+      "Keap1-Nrf2 pathway",
+      "antioxidant peptides",
+      "cell-penetrating peptide",
+      "computational peptide design",
+      "wheat gliadin"
+    ],
+    "mesh_terms": [
+      "*Kelch-Like ECH-Associated Protein 1/metabolism/antagonists & inhibitors",
+      "*Antioxidants/pharmacology/chemistry/metabolism",
+      "*Triticum/chemistry",
+      "*Gliadin/chemistry",
+      "Humans",
+      "NF-E2-Related Factor 2/metabolism",
+      "*Drug Design",
+      "*Peptides/chemistry/pharmacology",
+      "Molecular Dynamics Simulation",
+      "Animals",
+      "Cell Line",
+      "Bioactive Peptides, Dietary",
+      "Gene Products, tat/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Tianfei",
+        "Lin, Qian",
+        "Sun, Zheng",
+        "Deng, Amin",
+        "Na, Kai",
+        "Lu, Ting",
+        "Zhang, Li",
+        "Yu, Chao",
+        "Li, Xiangyu",
+        "Guo, Xiaohua"
+      ],
+      "short_names": [
+        "Yu T",
+        "Lin Q",
+        "Sun Z",
+        "Deng A",
+        "Na K",
+        "Lu T",
+        "Zhang L",
+        "Yu C",
+        "Li X",
+        "Guo X"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2612-1452"
+      ],
+      "affiliations": [
+        "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China.",
+        "School of Chemistry Chemical Engineering and Life Science, Hubei Key Laboratory of Nanomedicine for Neurodegenerative Diseases, Wuhan University of Technology, Wuhan City430074, China.",
+        "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China.",
+        "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China.",
+        "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China.",
+        "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China.",
+        "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China.",
+        "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China.",
+        "Hubei Province Nutrition Chemicals Biosynthetic Engineering Technology Research Center, Wuhan City430074, China.",
+        "Hubei Province Nutrition Chemicals Biosynthetic Engineering Technology Research Center, Wuhan City430074, China.",
+        "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Tianfei",
+        "short_name": "Yu T",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China.",
+          "School of Chemistry Chemical Engineering and Life Science, Hubei Key Laboratory of Nanomedicine for Neurodegenerative Diseases, Wuhan University of Technology, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Qian",
+        "short_name": "Lin Q",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Zheng",
+        "short_name": "Sun Z",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Amin",
+        "short_name": "Deng A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Na, Kai",
+        "short_name": "Na K",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Ting",
+        "short_name": "Lu T",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Li",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Chao",
+        "short_name": "Yu C",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Province Nutrition Chemicals Biosynthetic Engineering Technology Research Center, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiangyu",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Province Nutrition Chemicals Biosynthetic Engineering Technology Research Center, Wuhan City430074, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Xiaohua",
+        "short_name": "Guo X",
+        "identifiers": [
+          "0000-0003-2612-1452"
+        ],
+        "affiliations": [
+          "Laboratory of Intelligent Nutrition Engineering, College of Life Science, South-Central Minzu University, No. 182, Minyuan Road, Hongshan District, Wuhan City430074, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "J Med Chem"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917941"
+    ],
+    "review": [
+      "42917941"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

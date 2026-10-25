@@ -1,0 +1,163 @@
+{
+  "identity": {
+    "pmid": "42919557",
+    "doi": "10.1016/j.pestbp.2026.107362",
+    "title": "Enterococcus mundtii regulates SfCYP6B39 expression to modulate chlorantraniliprole resistance in Spodoptera frugiperda."
+  },
+  "content": {
+    "abstract": "Microbiota-mediated adaptation is increasingly recognized as an important driver of insecticide resistance. Here, we demonstrate that gut symbionts promote chlorantraniliprole resistance in Spodoptera frugiperda through transcriptional regulation of host detoxification pathways. Resistant populations exhibited a distinct gut microbial community dominated by Enterococcus mundtii, accompanied by elevated cytochrome P450 (P450) activity and widespread upregulation of detoxification genes. Disruption of the gut microbiota reduced resistance, suppressed P450 activity, and downregulated multiple P450 genes, whereas recolonization with E. mundtii SC1 restored these effects. Functional analyses employing RNA interference and transgenic Drosophila melanogaster identified SfCYP6B39 as a key gene contributing to resistance. Molecular docking and molecular dynamics simulations further revealed that chlorantraniliprole can stably bind to SfCYP6B39. Mechanistically, E. mundtii SC1 promotes SfCYP6B39 overexpression via the transcription factors CncC and BR-C, forming a microbe-host regulatory axis that links symbiont presence to detoxification gene activation. Collectively, these findings demonstrate that gut symbionts enhance insecticide resistance through transcriptional reprogramming of host detoxification networks, providing mechanistic insight and suggesting microbiome-targeted strategies for sustainable pest management.",
+    "keywords": [
+      "Cytochrome P450",
+      "Insecticide resistance",
+      "Spodoptera frugiperda",
+      "Symbiotic bacteria",
+      "Transcription regulation"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Spodoptera/microbiology/genetics/drug effects/metabolism",
+      "*Insecticide Resistance/genetics",
+      "*ortho-Aminobenzoates/pharmacology",
+      "*Enterococcus/physiology",
+      "*Insecticides/pharmacology",
+      "Cytochrome P-450 Enzyme System/metabolism/genetics",
+      "Symbiosis",
+      "*Insect Proteins/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ren, Zhijie",
+        "Hu, Ziwei",
+        "Bao, Yueyue",
+        "Qin, Wu",
+        "Qin, Jiangmei",
+        "Wan, Hu",
+        "Tan, Huihua",
+        "Chen, Hongsong"
+      ],
+      "short_names": [
+        "Ren Z",
+        "Hu Z",
+        "Bao Y",
+        "Qin W",
+        "Qin J",
+        "Wan H",
+        "Tan H",
+        "Chen H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China.",
+        "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China; Plant Protection Research Institute, Guangxi Academy of Agricultural Sciences, Key Laboratory of Green Prevention and Control on Fruits and Vegetables in South China, Ministry of Agriculture and Rural Affairs, Guangxi Key Laboratory of Biology for Crop Diseases and Insect Pests, Nanning 530007, China.",
+        "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China.",
+        "Plant Protection Research Institute, Guangxi Academy of Agricultural Sciences, Key Laboratory of Green Prevention and Control on Fruits and Vegetables in South China, Ministry of Agriculture and Rural Affairs, Guangxi Key Laboratory of Biology for Crop Diseases and Insect Pests, Nanning 530007, China.",
+        "Plant Protection Research Institute, Guangxi Academy of Agricultural Sciences, Key Laboratory of Green Prevention and Control on Fruits and Vegetables in South China, Ministry of Agriculture and Rural Affairs, Guangxi Key Laboratory of Biology for Crop Diseases and Insect Pests, Nanning 530007, China.",
+        "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan 430070, China.",
+        "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China.",
+        "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China; Plant Protection Research Institute, Guangxi Academy of Agricultural Sciences, Key Laboratory of Green Prevention and Control on Fruits and Vegetables in South China, Ministry of Agriculture and Rural Affairs, Guangxi Key Laboratory of Biology for Crop Diseases and Insect Pests, Nanning 530007, China. Electronic address: chenhongsong2061@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ren, Zhijie",
+        "short_name": "Ren Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Ziwei",
+        "short_name": "Hu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China; Plant Protection Research Institute, Guangxi Academy of Agricultural Sciences, Key Laboratory of Green Prevention and Control on Fruits and Vegetables in South China, Ministry of Agriculture and Rural Affairs, Guangxi Key Laboratory of Biology for Crop Diseases and Insect Pests, Nanning 530007, China."
+        ]
+      },
+      {
+        "full_name": "Bao, Yueyue",
+        "short_name": "Bao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Wu",
+        "short_name": "Qin W",
+        "identifiers": [],
+        "affiliations": [
+          "Plant Protection Research Institute, Guangxi Academy of Agricultural Sciences, Key Laboratory of Green Prevention and Control on Fruits and Vegetables in South China, Ministry of Agriculture and Rural Affairs, Guangxi Key Laboratory of Biology for Crop Diseases and Insect Pests, Nanning 530007, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Jiangmei",
+        "short_name": "Qin J",
+        "identifiers": [],
+        "affiliations": [
+          "Plant Protection Research Institute, Guangxi Academy of Agricultural Sciences, Key Laboratory of Green Prevention and Control on Fruits and Vegetables in South China, Ministry of Agriculture and Rural Affairs, Guangxi Key Laboratory of Biology for Crop Diseases and Insect Pests, Nanning 530007, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Hu",
+        "short_name": "Wan H",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan 430070, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Huihua",
+        "short_name": "Tan H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Hongsong",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Agro-Environment and Agric-Products Safety, College of Agriculture, Guangxi University, Nanning, Guangxi 530004, China; Plant Protection Research Institute, Guangxi Academy of Agricultural Sciences, Key Laboratory of Green Prevention and Control on Fruits and Vegetables in South China, Ministry of Agriculture and Rural Affairs, Guangxi Key Laboratory of Biology for Crop Diseases and Insect Pests, Nanning 530007, China. Electronic address: chenhongsong2061@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pesticide biochemistry and physiology"
+    ],
+    "journal_abbrev": [
+      "Pestic Biochem Physiol"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:29:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42919557"
+    ],
+    "review": [
+      "42919557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}
