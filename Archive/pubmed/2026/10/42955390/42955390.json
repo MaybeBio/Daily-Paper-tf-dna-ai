@@ -1,0 +1,159 @@
+{
+  "identity": {
+    "pmid": "42955390",
+    "doi": "10.1007/s00425-026-05187-5",
+    "title": "Evolutionary origin of the WHIRLY gene families across 330 plant species: from algae to land plants."
+  },
+  "content": {
+    "abstract": "Phylogenomics of 921 WHIRLY genes across 330 plants reveals stepwise subfamily origins, purifying selection, and a novel AtWHY1/2/3 hetero-oligomeric stress complex. Whirly (WHY) transcription factors are a plant-specific, highly conserved family with central roles in organellar genome maintenance, retrograde signaling, and abiotic stress response, but their deep evolutionary trajectories across the full green plant lineage have remained largely unresolved. In the present study, 921 WHY genes were identified across 330 different species from algae to land plants, which were classified into three subfamilies (WHY I, WHY II, and WHY III) in this study. Structural characteristics of different subfamilies showed significant differences in the number of exons and protein motifs, which may have arisen due to functional differentiation. Collinearity was primarily observed among members of the same subfamily, and network clustering analysis further divided all WHY genes into three clusters, with genes within each cluster exhibiting significant collinearity. All three subfamilies are under intense long-term purifying selection, with average Ka/Ks ratios far below 1, indicating stringent evolutionary constraints on their core conserved single-stranded DNA binding domain. Using yeast two-hybrid assays, protein molecular docking and site-specific interaction validation, we further uncovered a previously unreported stable hetero-oligomeric complex formed by AtWHY1, AtWHY2, and AtWHY3, assembled via defined hydrogen bond networks and salt bridges at the conserved interface residues, which acts as a combinatorial regulatory switch to coordinate distinct subcellular stress responses. This work establishes a unified evolutionary framework for the WHY family and provides new mechanistic insights into how their hetero-oligomerization drives specialized stress adaptation during plant territorialization.",
+    "keywords": [
+      "Abiotic stress",
+      "Phylogenomic evolution",
+      "Protein interaction",
+      "Purifying selection",
+      "Synteny network",
+      "Whirly transcription factor"
+    ],
+    "mesh_terms": [
+      "*Evolution, Molecular",
+      "Phylogeny",
+      "*Multigene Family/genetics",
+      "*Plant Proteins/genetics/metabolism",
+      "*Transcription Factors/genetics/metabolism",
+      "*Embryophyta/genetics",
+      "*Plants/genetics",
+      "*Genes, Plant/genetics",
+      "Genome, Plant/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lan, Yanhong",
+        "Gong, Fangyi",
+        "Dong, Rongjiang",
+        "Fang, Chao",
+        "Cai, Peng"
+      ],
+      "short_names": [
+        "Lan Y",
+        "Gong F",
+        "Dong R",
+        "Fang C",
+        "Cai P"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-7678-7609"
+      ],
+      "affiliations": [
+        "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China.",
+        "Key Laboratory of Horticultural Crops Biology and Germplasm Enhancement in Southwest Regions, Ministry of Agriculture and Rural Affairs of the P.R. China, Chengdu, 610066, China.",
+        "Sichuan Province Engineering Technology Research Center of Vegetables, Chengdu, 611934, China.",
+        "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China.",
+        "Key Laboratory of Horticultural Crops Biology and Germplasm Enhancement in Southwest Regions, Ministry of Agriculture and Rural Affairs of the P.R. China, Chengdu, 610066, China.",
+        "Sichuan Province Engineering Technology Research Center of Vegetables, Chengdu, 611934, China.",
+        "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China.",
+        "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China. Fangchao@scsaas.cn.",
+        "Key Laboratory of Horticultural Crops Biology and Germplasm Enhancement in Southwest Regions, Ministry of Agriculture and Rural Affairs of the P.R. China, Chengdu, 610066, China. Fangchao@scsaas.cn.",
+        "Sichuan Province Engineering Technology Research Center of Vegetables, Chengdu, 611934, China. Fangchao@scsaas.cn.",
+        "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China. cp215@scsaas.cn.",
+        "Key Laboratory of Horticultural Crops Biology and Germplasm Enhancement in Southwest Regions, Ministry of Agriculture and Rural Affairs of the P.R. China, Chengdu, 610066, China. cp215@scsaas.cn.",
+        "Sichuan Province Engineering Technology Research Center of Vegetables, Chengdu, 611934, China. cp215@scsaas.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lan, Yanhong",
+        "short_name": "Lan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China.",
+          "Key Laboratory of Horticultural Crops Biology and Germplasm Enhancement in Southwest Regions, Ministry of Agriculture and Rural Affairs of the P.R. China, Chengdu, 610066, China.",
+          "Sichuan Province Engineering Technology Research Center of Vegetables, Chengdu, 611934, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Fangyi",
+        "short_name": "Gong F",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China.",
+          "Key Laboratory of Horticultural Crops Biology and Germplasm Enhancement in Southwest Regions, Ministry of Agriculture and Rural Affairs of the P.R. China, Chengdu, 610066, China.",
+          "Sichuan Province Engineering Technology Research Center of Vegetables, Chengdu, 611934, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Rongjiang",
+        "short_name": "Dong R",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Chao",
+        "short_name": "Fang C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China. Fangchao@scsaas.cn.",
+          "Key Laboratory of Horticultural Crops Biology and Germplasm Enhancement in Southwest Regions, Ministry of Agriculture and Rural Affairs of the P.R. China, Chengdu, 610066, China. Fangchao@scsaas.cn.",
+          "Sichuan Province Engineering Technology Research Center of Vegetables, Chengdu, 611934, China. Fangchao@scsaas.cn."
+        ]
+      },
+      {
+        "full_name": "Cai, Peng",
+        "short_name": "Cai P",
+        "identifiers": [
+          "0009-0005-7678-7609"
+        ],
+        "affiliations": [
+          "Key Laboratory of Germplasm Innovation & Utilization of Horticulture Crops of Sichuan Province, Horticulture Research Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China. cp215@scsaas.cn.",
+          "Key Laboratory of Horticultural Crops Biology and Germplasm Enhancement in Southwest Regions, Ministry of Agriculture and Rural Affairs of the P.R. China, Chengdu, 610066, China. cp215@scsaas.cn.",
+          "Sichuan Province Engineering Technology Research Center of Vegetables, Chengdu, 611934, China. cp215@scsaas.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Planta"
+    ],
+    "journal_abbrev": [
+      "Planta"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 17:36",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42955390"
+    ],
+    "review": [
+      "42955390"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00425-026-05187-5",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

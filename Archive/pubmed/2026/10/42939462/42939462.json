@@ -1,0 +1,151 @@
+{
+  "identity": {
+    "pmid": "42939462",
+    "doi": "10.3390/biology15201861",
+    "title": "Physiological Responses and Transcriptome Analysis of 'Hanfu' Apple Plants Under PEG-Simulated Drought Stress."
+  },
+  "content": {
+    "abstract": "Drought stress constitutes a major constraint on apple growth, development, and yield. Although drought responses have been extensively studied in apple, the early physiological and transcriptomic responses of 'Hanfu', a cultivar widely cultivated in the cool regions of northern China and reported to possess drought resistance, remain insufficiently characterized. Therefore, this study integrated physiological measurements and transcriptome analysis to characterize the short-term drought responses of 'Hanfu' apple. One-year-old grafted 'Hanfu' apple seedlings were grown hydroponically and then treated with 5%, 10%, and 15% PEG-6000 for 6, 12, 24, and 48 h to impose PEG-induced osmotic stress as a simulation of drought-related water deficit. Leaf water potential, photosynthetic pigments, superoxide anion (O(2).(-)), hydrogen peroxide (H(2)O(2)), malondialdehyde (MDA), and antioxidant enzyme activities were measured. RNA sequencing identified differentially expressed genes (DEGs), enriched pathways, and drought-responsive transcription factor families. The results showed that PEG-simulated drought stress aggravated leaf water deficit, reduced photosynthetic pigments, and downregulated photosynthetic-related genes expression (CAB, CP24, PSA, and PNSL2). ROS and MDA levels were increased, activities of SOD and POD were enhanced, and antioxidant-related genes (PPO, APX, PK1, and PER) were upregulated. Genes involved in plant hormone signal transduction showed marked differential expression, particularly those associated with the IAA and ABA signaling pathways. Related genes such as ARF5, GH3.1, SAUR32, ARG7, PP2C, ABI, and HAB1 could play important roles in responding to PEG-simulated drought stress. Also, MYB, WRKY, bZIP, AP2, bHLH, Dof, NAC, and ARF may be the major transcription factor families involved. Overall, 'Hanfu' apple leaves may coordinate photosynthesis, antioxidant defense, IAA and ABA signaling, and transcriptional regulation to respond to drought stress. These findings provide a physiological and molecular basis for further functional validation of drought-responsive genes and may contribute to future breeding for drought resistance and drought management in apple.",
+    "keywords": [
+      "antioxidant system",
+      "drought stress",
+      "photosynthetic pigments",
+      "plant hormone signal transduction",
+      "'Hanfu' apple"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Xingzhu",
+        "Zhou, Tongyu",
+        "Lyu, Deguo",
+        "Li, Lijie",
+        "Qin, Sijun"
+      ],
+      "short_names": [
+        "Chen X",
+        "Zhou T",
+        "Lyu D",
+        "Li L",
+        "Qin S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China.",
+        "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China.",
+        "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China.",
+        "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China.",
+        "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Xingzhu",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Tongyu",
+        "short_name": "Zhou T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China."
+        ]
+      },
+      {
+        "full_name": "Lyu, Deguo",
+        "short_name": "Lyu D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China."
+        ]
+      },
+      {
+        "full_name": "Li, Lijie",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Sijun",
+        "short_name": "Qin S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Shenyang Agricultural University, Shenyang 110866, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biology"
+    ],
+    "journal_abbrev": [
+      "Biology (Basel)"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42939462"
+    ],
+    "review": [
+      "42939462"
+    ],
+    "pmc": [
+      "13701644"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biology15201861",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42939462/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-FABP4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-23",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

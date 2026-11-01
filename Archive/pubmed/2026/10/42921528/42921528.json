@@ -1,0 +1,181 @@
+{
+  "identity": {
+    "pmid": "42921528",
+    "doi": "10.7717/peerj.21798",
+    "title": "Basic leucine zipper ATF-like transcription factor (BATF) as a candidate marker associated with venous thromboembolism risk factors in sepsis: an integrated bioinformatics and machine learning analysis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Sepsis affects over 19 million people worldwide annually and is associated with an increased risk of venous thromboembolism (VTE), which significantly worsens clinical outcomes. However, current biomarkers such as D-dimer lack specificity, and the molecular signatures associated with VTE risk in sepsis remain unclear. METHODS: We applied integrative transcriptomics and machine learning approaches to identify VTE-associated biomarkers in sepsis-related datasets. Weighted gene co-expression network analysis (WGCNA), differential gene expression analysis, and immune infiltration assessments were conducted using publicly available datasets. Candidate biomarkers were further evaluated using receiver operating characteristic (ROC) analysis, Cox regression, nomogram modeling, single-cell RNA sequencing, and quantitative polymerase chain reaction (qPCR) validation. RESULTS: Basic leucine zipper ATF-like transcription factor (BATF) emerged as a top candidate biomarker, significantly associated with both sepsis and VTE-related datasets (fold change >1.5, p < 0.001). BATF expression showed consistent elevation across multiple independent cohorts and demonstrated discriminatory performance for disease- or risk-score-defined phenotypes, with area under the curve (AUC) values ranging from 0.831 to 0.953. High BATF expression was associated with prolonged prothrombin time and 28-day mortality in sepsis patients (p = 0.024). Single-cell analysis showed BATF enrichment in macrophages and dendritic cells. CONCLUSION: BATF may serve as a candidate biomarker associated with high VTE risk phenotypes and 28-day mortality in sepsis-related cohorts. However, BATF was not validated against adjudicated or imaging-confirmed VTE events in this study; therefore, it should not be interpreted as a diagnostic marker for confirmed VTE or a direct predictor of thrombosis. Prospective cohorts with adjudicated VTE outcomes are required to confirm its clinical utility.",
+    "keywords": [
+      "BATF",
+      "Bioinformatics",
+      "GEO",
+      "Sepsis",
+      "Venous thromboembolism",
+      "WGCNA"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Sepsis/complications/genetics",
+      "*Venous Thromboembolism/genetics/etiology",
+      "*Machine Learning",
+      "Biomarkers/metabolism/blood",
+      "*Basic-Leucine Zipper Transcription Factors/genetics/metabolism",
+      "Computational Biology",
+      "Risk Factors",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Deng, Juxin",
+        "Kuai, Xiangyu",
+        "Zhang, Zhihao",
+        "Ge, Xiuyu",
+        "Wang, Zhenjie",
+        "Zhao, Hongchang",
+        "Li, Lei"
+      ],
+      "short_names": [
+        "Deng J",
+        "Kuai X",
+        "Zhang Z",
+        "Ge X",
+        "Wang Z",
+        "Zhao H",
+        "Li L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Plastic Surgery and Burn, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Institute of Emergency and Critical Care Medicine, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Institute of Emergency and Critical Care Medicine, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+        "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Deng, Juxin",
+        "short_name": "Deng J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Kuai, Xiangyu",
+        "short_name": "Kuai X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhihao",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Xiuyu",
+        "short_name": "Ge X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plastic Surgery and Burn, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhenjie",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+          "Institute of Emergency and Critical Care Medicine, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Hongchang",
+        "short_name": "Zhao H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China.",
+          "Institute of Emergency and Critical Care Medicine, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Lei",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Surgery, The First Affiliated Hospital of Bengbu Medical University, Bengbu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PeerJ"
+    ],
+    "journal_abbrev": [
+      "PeerJ"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-11-01 08:59:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42921528"
+    ],
+    "review": [
+      "42921528"
+    ],
+    "pmc": [
+      "13693607"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/sepsis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Sepsis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42921528/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7717/peerj.21798",
+        "provider": "PeerJ, Inc.",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

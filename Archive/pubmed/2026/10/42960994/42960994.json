@@ -1,0 +1,168 @@
+{
+  "identity": {
+    "pmid": "42960994",
+    "doi": "10.1093/bib/bbag599",
+    "title": "Cross-task benchmarking reveals variable transferability of deep learning models across molecular quantitative trait loci."
+  },
+  "content": {
+    "abstract": "Most genetic variants associated with complex traits reside in non-coding regions of the genome, complicating their functional interpretation. Recent deep learning models have advanced the prediction of expression quantitative trait loci (eQTLs), but whether these models generalize across diverse molecular phenotypes is unknown. Here, we assess the cross-task transferability of pretrained regulatory features from six representative sequence- and annotation-based models across nine classes of molecular quantitative trait loci (xQTLs). We observe that while all models perform well in eQTL prediction, their performance varies substantially across other xQTL predictions. Chromatin accessibility, transcription factor binding, and histone QTLs are generally well predicted, whereas chromatin looping and microRNA expression QTLs remain challenging. Foundation models, particularly AlphaGenome and Borzoi, consistently outperform models based on local sequence context and exhibit improved robustness across class-imbalance settings. Tree-based ensemble classifiers further enhance predictive performance, suggesting that nonlinear interactions among regulatory features contribute substantially to variant prioritization. Applying AlphaGenome and Borzoi to coronary artery disease-associated genome-wide association studies loci identifies 337 high-confidence candidate chromatin accessibility QTLs, including 11 previously reported and 326 candidates that display significantly larger allele-specific differences in predicted chromatin accessibility signals. Collectively, our results reveal substantial variability in the cross-task performance of current eQTL-centric models, highlight the advantages of long-range genomic representations and inform the prioritization of candidate regulatory variants contributing to complex diseases.",
+    "keywords": [
+      "coronary artery disease",
+      "deep learning models",
+      "gene regulation",
+      "molecular quantitative trait loci",
+      "non-coding variation",
+      "variant prediction"
+    ],
+    "mesh_terms": [
+      "*Quantitative Trait Loci",
+      "*Deep Learning",
+      "Humans",
+      "Benchmarking",
+      "Genome-Wide Association Study",
+      "Chromatin/metabolism/genetics",
+      "*Models, Genetic"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Sihan",
+        "Wang, Xiaoyu",
+        "Peleg, Anton Y",
+        "Xu, Shuting",
+        "Li, Fuyi",
+        "Webb, Geoffrey I",
+        "Song, Jiangning"
+      ],
+      "short_names": [
+        "Chen S",
+        "Wang X",
+        "Peleg AY",
+        "Xu S",
+        "Li F",
+        "Webb GI",
+        "Song J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4444-6197",
+        "ORCID: 0000-0001-8031-9086"
+      ],
+      "affiliations": [
+        "Monash Biomedicine Discovery Institute and Department of Biochemistry and Molecular Biology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+        "Monash Biomedicine Discovery Institute and Department of Biochemistry and Molecular Biology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+        "Department of Infectious Diseases, The Alfred Hospital and School of Translational Medicine, Monash University, 85 Commercial Road, Melbourne, Victoria 3004, Australia.",
+        "Monash Biomedicine Discovery Institute, Department of Microbiology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+        "Centre to Impact AMR, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+        "Monash Biomedicine Discovery Institute and Department of Biochemistry and Molecular Biology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+        "South Australian immunoGENomics Cancer Institute (SAiGENCI), Adelaide University, 4 North Terrace, Adelaide, South Australia 5005, Australia.",
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+        "Monash Biomedicine Discovery Institute and Department of Biochemistry and Molecular Biology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+        "Department of Infectious Diseases, The Alfred Hospital and School of Translational Medicine, Monash University, 85 Commercial Road, Melbourne, Victoria 3004, Australia.",
+        "Centre to Impact AMR, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Sihan",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Monash Biomedicine Discovery Institute and Department of Biochemistry and Molecular Biology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaoyu",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0000-0003-4444-6197"
+        ],
+        "affiliations": [
+          "Monash Biomedicine Discovery Institute and Department of Biochemistry and Molecular Biology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Peleg, Anton Y",
+        "short_name": "Peleg AY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infectious Diseases, The Alfred Hospital and School of Translational Medicine, Monash University, 85 Commercial Road, Melbourne, Victoria 3004, Australia.",
+          "Monash Biomedicine Discovery Institute, Department of Microbiology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+          "Centre to Impact AMR, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Xu, Shuting",
+        "short_name": "Xu S",
+        "identifiers": [],
+        "affiliations": [
+          "Monash Biomedicine Discovery Institute and Department of Biochemistry and Molecular Biology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Li, Fuyi",
+        "short_name": "Li F",
+        "identifiers": [],
+        "affiliations": [
+          "South Australian immunoGENomics Cancer Institute (SAiGENCI), Adelaide University, 4 North Terrace, Adelaide, South Australia 5005, Australia."
+        ]
+      },
+      {
+        "full_name": "Webb, Geoffrey I",
+        "short_name": "Webb GI",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Song, Jiangning",
+        "short_name": "Song J",
+        "identifiers": [
+          "0000-0001-8031-9086"
+        ],
+        "affiliations": [
+          "Monash Biomedicine Discovery Institute and Department of Biochemistry and Molecular Biology, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia.",
+          "Department of Infectious Diseases, The Alfred Hospital and School of Translational Medicine, Monash University, 85 Commercial Road, Melbourne, Victoria 3004, Australia.",
+          "Centre to Impact AMR, Monash University, Wellington Road, Clayton, Melbourne, Victoria 3800, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 11:41",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42960994"
+    ],
+    "review": [
+      "42960994"
+    ],
+    "pmc": [
+      "13720741"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

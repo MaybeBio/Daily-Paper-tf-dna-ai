@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "42935060",
+    "doi": "10.31557/APJCP.2026.27.10.3689",
+    "title": "Molecular Docking and Molecular Dynamics Simulation of Zn(II) Proline-Cysteine-Dithiocarbamate, Zn(II) Proline-Cysteine-Proline-Dithiocarbamate, and Zn(II) Arginine-Cysteine-Dithiocarbamate as Anticancer Agents against a DNA Target."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Cancer treatment has long relied on chemotherapy agents such as cisplatin, but their side effects and the development of resistance have spurred the search for alternative drugs. OBJECTIVE: This study explores the potential of Zn(II)-based complexes, namely ZnProCysDTC, ZnProCysProDTC, and ZnArgCysDTC, as DNA-targeting anticancer agents. METHODS: Molecular docking and molecular dynamics simulations were employed to assess the binding stability and structural effects of these complexes on DNA. RESULTS: The results revealed that ZnArgCysDTC showed the most significant interaction with DNA, exhibiting high RMSD, binding energy, and hydrogen-bonding stability. ZnProCysProDTC and ZnProCysDTC also demonstrated strong binding, but with weaker stability than ZnArgCysDTC. The findings suggest that ZnArgCysDTC holds promise as an alternative to cisplatin, offering similar or superior DNA-binding potential with potentially fewer side effects. CONCLUSION: This study provides valuable insights into the design of Zn(II)-based compounds for anticancer therapy and underscores the need for further optimization. Future research should focus on enhancing the stability and therapeutic efficacy of these complexes to develop safer and more effective cancer treatments.",
+    "keywords": [
+      "DNA binding",
+      "Molecular Dynamics Simulation",
+      "Molecular docking",
+      "Zn(II) complexes",
+      "anticancer agents"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Antineoplastic Agents/chemistry/pharmacology",
+      "*Molecular Docking Simulation",
+      "Humans",
+      "*Zinc/chemistry",
+      "*DNA/chemistry",
+      "Cysteine/chemistry",
+      "*Proline/chemistry",
+      "*Thiocarbamates/chemistry/pharmacology",
+      "Arginine/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Irfandi, Rizal",
+        "Raya, Indah",
+        "Fudholi, Ahmad",
+        "Ahmad, Ahyar",
+        "Muharram, Muharram",
+        "Luthfiana, Dewi",
+        "Ilham, Baso",
+        "Fauziah, Siti",
+        "Mazaya, Maulida",
+        "Putri, Suriati Eka",
+        "Pratiwi, Diana Eka",
+        "Ahmad, Fandi"
+      ],
+      "short_names": [
+        "Irfandi R",
+        "Raya I",
+        "Fudholi A",
+        "Ahmad A",
+        "Muharram M",
+        "Luthfiana D",
+        "Ilham B",
+        "Fauziah S",
+        "Mazaya M",
+        "Putri SE",
+        "Pratiwi DE",
+        "Ahmad F"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4845-3397",
+        "ORCID: 0000-0001-8575-1994",
+        "ORCID: 0000-0002-0913-4721"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia.",
+        "Department of Chemistry, Faculty of Mathematics, and Natural Science, Hasanuddin University Makassar 90245, Indonesia.",
+        "Solar Energy Research Institute, Universiti Kebangsaan Malaysia, UKM Bangi, Selangor 43600, Malaysia.",
+        "Research Centre for Electrical Power and Mechatronics, Institute of Science (LIPI), Bandung, Indonesia.",
+        "Department of Chemistry, Faculty of Mathematics, and Natural Science, Hasanuddin University Makassar 90245, Indonesia.",
+        "Department of Chemistry, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia.",
+        "Bioinformatics Research Center, Indonesian Institute of Bioinformatics (INBIO), Malang, Indonesia.",
+        "Department of Chemistry, Faculty of Science and Technology, Universitas Sipatokkong Mambo, Watampone, Indonesia.",
+        "Renewable Energy Engineering Technology, Vocational, Universitas Negeri Gorontalo.",
+        "Research Center for Computing, Research Organization for Electronics and Informatics, National Research and Innovation Agency (BRIN), Cibinong Science Center, Jl. Raya Jakarta-Bogor KM 46, Cibinong 16911, West Java, Indonesia.",
+        "Department of Chemistry, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia.",
+        "Department of Chemistry, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia.",
+        "Department of Chemistry Education, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Irfandi, Rizal",
+        "short_name": "Irfandi R",
+        "identifiers": [
+          "0000-0002-4845-3397"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Raya, Indah",
+        "short_name": "Raya I",
+        "identifiers": [
+          "0000-0001-8575-1994"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Mathematics, and Natural Science, Hasanuddin University Makassar 90245, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Fudholi, Ahmad",
+        "short_name": "Fudholi A",
+        "identifiers": [],
+        "affiliations": [
+          "Solar Energy Research Institute, Universiti Kebangsaan Malaysia, UKM Bangi, Selangor 43600, Malaysia.",
+          "Research Centre for Electrical Power and Mechatronics, Institute of Science (LIPI), Bandung, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Ahmad, Ahyar",
+        "short_name": "Ahmad A",
+        "identifiers": [
+          "0000-0002-0913-4721"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Mathematics, and Natural Science, Hasanuddin University Makassar 90245, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Muharram, Muharram",
+        "short_name": "Muharram M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Luthfiana, Dewi",
+        "short_name": "Luthfiana D",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Research Center, Indonesian Institute of Bioinformatics (INBIO), Malang, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Ilham, Baso",
+        "short_name": "Ilham B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science and Technology, Universitas Sipatokkong Mambo, Watampone, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Fauziah, Siti",
+        "short_name": "Fauziah S",
+        "identifiers": [],
+        "affiliations": [
+          "Renewable Energy Engineering Technology, Vocational, Universitas Negeri Gorontalo."
+        ]
+      },
+      {
+        "full_name": "Mazaya, Maulida",
+        "short_name": "Mazaya M",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Computing, Research Organization for Electronics and Informatics, National Research and Innovation Agency (BRIN), Cibinong Science Center, Jl. Raya Jakarta-Bogor KM 46, Cibinong 16911, West Java, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Putri, Suriati Eka",
+        "short_name": "Putri SE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Pratiwi, Diana Eka",
+        "short_name": "Pratiwi DE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Ahmad, Fandi",
+        "short_name": "Ahmad F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry Education, Faculty of Mathematics and Natural Science, Universitas Negeri Makassar, Makassar, Jalan Daeng Tata Raya Makassar, 90244, Indonesia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Asian Pacific journal of cancer prevention : APJCP"
+    ],
+    "journal_abbrev": [
+      "Asian Pac J Cancer Prev"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 05:29",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42935060"
+    ],
+    "review": [
+      "42935060"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://journal.waocp.org/?sid=Entrez:PubMed&id=pmid:42935060&key=2026.27.10.3689",
+        "provider": "Asian Pacific Organization for Cancer Prevention",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

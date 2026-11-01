@@ -1,0 +1,134 @@
+{
+  "identity": {
+    "pmid": "42965930",
+    "doi": "10.1080/10837450.2026.2755032",
+    "title": "pH/GSH-responsive dual chitosan/PLA-coated cobalt ferrite nanoparticles for targeted and selective quinidine delivery in hepatocellular carcinoma."
+  },
+  "content": {
+    "abstract": "Drug repurposing using smart nanocarriers may help overcome chemoresistance and poor tumor selectivity in hepatocellular carcinoma (HCC). Here, a pH/GSH-responsive dual chitosan/polylactic acid coated cobalt ferrite nanoparticle system (QL-CS/PLA-CFO NPs) has been explored to deliver QL for treating HCC. QL-CS/PLA-CFO NPs were prepared via ionotropic gelation and w/o/w emulsion with high loading (64.8%) and excellent stability (+28.0 mV). Comparative formulations, chitosan-only QL-CS-CFO (50.9%, -10.5 mV) and nonmagnetic QL-CS/PLA (60.7%, -21.0 mV), elucidated the roles of coating architecture and magnetic core. QL-CS/PLA-CFO NPs released 10.8% at pH 7.4 versus  approximately 95% at pH 4.5 with 10 mM GSH over 180 h, following quasi-Fickian diffusion kinetics. Encapsulation increased the WI38/HepG2 IC(5)(0) ratio from 1.12 to 1.93 through controlled endosomal release and protecting normal cells, with  approximately 1.2% hemolysis and enhanced DPPH antioxidants IC(5)(0) (47.9 vs. 71.9 mug/mL for free QL). DNA-binding studies revealed PLA-CFO synergy, yielding 38-fold enhanced affinity versus free QL through a minor-groove binding mode. Molecular docking suggested a potential interaction between quinidine and the HCC-associated biomarker glypican-3 (PDB 3GJB), supporting future investigation of its biological relevance. QL-CS/PLA-CFO NPs represent a promising platform for selective QL delivery in HCC, warranting further in vivo evaluation.",
+    "keywords": [
+      "Quinidine repurposing",
+      "chitosan/PLA coating cobalt ferrite",
+      "drug delivery",
+      "pH/GSH-responsive",
+      "stopped-flow kinetics",
+      "therapeutic selectivity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Anter, Esraa",
+        "Elshami, Fawzya I",
+        "Shereef, Hadeer A",
+        "Abdou, Safaa N",
+        "van Eldik, Rudi",
+        "Shaban, Shaban Y"
+      ],
+      "short_names": [
+        "Anter E",
+        "Elshami FI",
+        "Shereef HA",
+        "Abdou SN",
+        "van Eldik R",
+        "Shaban SY"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Chemistry Department, Faculty of Science, Kafrelsheikh University, Kafrelsheikh, Egypt.",
+        "Chemistry Department, Faculty of Science, Kafrelsheikh University, Kafrelsheikh, Egypt.",
+        "Clinical Pathology Department, University Hospital, Menoufia University, Egypt.",
+        "Chemistry Department, Al-Khurmah University College, Taif University, Al-Khurmah, Saudi Arabia.",
+        "Department of Chemistry and Pharmacy, University of Erlangen-Nuremberg, Erlangen, Germany.",
+        "Faculty of Chemistry, Nicolaus Copernicus University in Torun, Torun, Poland.",
+        "Chemistry Department, Faculty of Science, Kafrelsheikh University, Kafrelsheikh, Egypt."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Anter, Esraa",
+        "short_name": "Anter E",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry Department, Faculty of Science, Kafrelsheikh University, Kafrelsheikh, Egypt."
+        ]
+      },
+      {
+        "full_name": "Elshami, Fawzya I",
+        "short_name": "Elshami FI",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry Department, Faculty of Science, Kafrelsheikh University, Kafrelsheikh, Egypt."
+        ]
+      },
+      {
+        "full_name": "Shereef, Hadeer A",
+        "short_name": "Shereef HA",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pathology Department, University Hospital, Menoufia University, Egypt."
+        ]
+      },
+      {
+        "full_name": "Abdou, Safaa N",
+        "short_name": "Abdou SN",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry Department, Al-Khurmah University College, Taif University, Al-Khurmah, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "van Eldik, Rudi",
+        "short_name": "van Eldik R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Pharmacy, University of Erlangen-Nuremberg, Erlangen, Germany.",
+          "Faculty of Chemistry, Nicolaus Copernicus University in Torun, Torun, Poland."
+        ]
+      },
+      {
+        "full_name": "Shaban, Shaban Y",
+        "short_name": "Shaban SY",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry Department, Faculty of Science, Kafrelsheikh University, Kafrelsheikh, Egypt."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmaceutical development and technology"
+    ],
+    "journal_abbrev": [
+      "Pharm Dev Technol"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 23:25",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42965930"
+    ],
+    "review": [
+      "42965930"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

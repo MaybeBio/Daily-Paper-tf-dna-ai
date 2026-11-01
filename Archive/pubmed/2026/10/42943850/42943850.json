@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42943850",
+    "doi": "10.3390/molecules31203781",
+    "title": "In Silico Investigation of Candidate Anticancer Targets for Aryltetralin Lignans Previously Reported from Cleistanthus Species."
+  },
+  "content": {
+    "abstract": "Aryltetralin lignans isolated from the fruits of Cleistanthus species exhibit substantial cytotoxic activity, although the molecular interactions underlying these effects remain incompletely understood. This study combined computational target investigation with previously published experimental chemical characterization and cytotoxic evidence and no new isolation or cytotoxicity experiments were carried out. Cleistantoxin, 7-hydroxypicropolygamain, neo-cleistantoxin, cleisindoside A, cleisindoside D, and cleistonkinin D were previously isolated from C. indochinensis, C. tonkinensis, C. eberhardtii and characterized by complementary spectroscopic methods. Cleistantoxin showed potent activity against MCF-7, multidrug-resistant MCF-7R, and HT29 cells, with reported IC(50) values of 0.036, 0.014, and 0.035 muM, respectively. Structural similarity to podophyllotoxin-derived anticancer agents guided the investigation of DNA topoisomerase IIbeta, Bcl-2, and p53 Y220C as candidate targets. Docking with AutoDock Vina-GPU 2.1 was validated by redocking the co-crystallized inhibitors (RMSD < 2 A at the TOP2B and Bcl-2 sites; the p53 Y220C control is reported for both receptor preparations), and selected complexes were simulated in triplicate for 100 ns, followed by MM-GBSA calculations and ADMET predictions. Cleisindoside A and D kept etoposide-like hydrogen bonds to DNA in the TOP2B-DNA complex. Their MM-GBSA binding energies were -78.40 +/- 3.73 and -81.90 +/- 7.84 kcal.mol(-1) for two ligand copies, comparable to -79.62 +/- 5.14 kcal.mol(-1) for etoposide. In Bcl-2, S-10r was clearly more favorable than cleisindoside D. The predicted pharmacokinetic profiles differentiated the aglycones from the glycosides and identified potential cytochrome P450 inhibition liabilities. By linking previously reported experimentally characterized natural products and cytotoxic evidence with molecular modeling, this study provides testable hypotheses for the molecular recognition of Cleistanthus lignans. Direct biochemical and mechanism-focused cellular studies are nevertheless required to validate the proposed targets.",
+    "keywords": [
+      "ADMET",
+      "Cleistanthus",
+      "MM-GBSA",
+      "aryltetralin lignans",
+      "cleistantoxin",
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Lignans/chemistry/pharmacology",
+      "Molecular Docking Simulation",
+      "*Antineoplastic Agents, Phytogenic/pharmacology/chemistry",
+      "Computer Simulation",
+      "Cell Line, Tumor",
+      "MCF-7 Cells",
+      "DNA Topoisomerases, Type II/chemistry/metabolism",
+      "Proto-Oncogene Proteins c-bcl-2/chemistry/antagonists & inhibitors/metabolism",
+      "Tumor Suppressor Protein p53/chemistry/antagonists & inhibitors/metabolism",
+      "Molecular Structure"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nguyen, Lam-Hong",
+        "Nguyen, Thi-Thanh-Thuy",
+        "Nguyen, Dac-Nhan",
+        "Mai, Quang-Minh",
+        "Le, Thang",
+        "Pham-The, Hai",
+        "Pham, Van-Cuong",
+        "Doan, Thi-Mai-Huong",
+        "Tran, Viet-Hung",
+        "Thai, Khac-Minh"
+      ],
+      "short_names": [
+        "Nguyen LH",
+        "Nguyen TT",
+        "Nguyen DN",
+        "Mai QM",
+        "Le T",
+        "Pham-The H",
+        "Pham VC",
+        "Doan TM",
+        "Tran VH",
+        "Thai KM"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5521-7790",
+        "ORCID: 0009-0007-8815-9241",
+        "ORCID: 0009-0004-3349-3814",
+        "ORCID: 0000-0003-4531-7223",
+        "ORCID: 0000-0001-8077-1021",
+        "ORCID: 0000-0002-5279-9614"
+      ],
+      "affiliations": [
+        "Faculty of Analytical Chemistry and Drug Quality Control, Hanoi University of Pharmacy, 13-15 Le Thanh Tong, Hanoi 100000, Vietnam.",
+        "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Department of Medicine and Pharmacy, University of Science and Technology of Hanoi, Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam.",
+        "Institute of Chemistry, Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam.",
+        "Institute of Chemistry, Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam.",
+        "Institute of Drug Quality Control at Ho Chi Minh City, 200 Co Bac, Ho Chi Minh City 700000, Vietnam.",
+        "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+        "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nguyen, Lam-Hong",
+        "short_name": "Nguyen LH",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Analytical Chemistry and Drug Quality Control, Hanoi University of Pharmacy, 13-15 Le Thanh Tong, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Nguyen, Thi-Thanh-Thuy",
+        "short_name": "Nguyen TT",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+          "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Nguyen, Dac-Nhan",
+        "short_name": "Nguyen DN",
+        "identifiers": [
+          "0000-0001-5521-7790"
+        ],
+        "affiliations": [
+          "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+          "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Mai, Quang-Minh",
+        "short_name": "Mai QM",
+        "identifiers": [
+          "0009-0007-8815-9241"
+        ],
+        "affiliations": [
+          "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+          "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Le, Thang",
+        "short_name": "Le T",
+        "identifiers": [
+          "0009-0004-3349-3814"
+        ],
+        "affiliations": [
+          "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+          "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Pham-The, Hai",
+        "short_name": "Pham-The H",
+        "identifiers": [
+          "0000-0003-4531-7223"
+        ],
+        "affiliations": [
+          "Department of Medicine and Pharmacy, University of Science and Technology of Hanoi, Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Pham, Van-Cuong",
+        "short_name": "Pham VC",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chemistry, Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Doan, Thi-Mai-Huong",
+        "short_name": "Doan TM",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chemistry, Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Tran, Viet-Hung",
+        "short_name": "Tran VH",
+        "identifiers": [
+          "0000-0001-8077-1021"
+        ],
+        "affiliations": [
+          "Institute of Drug Quality Control at Ho Chi Minh City, 200 Co Bac, Ho Chi Minh City 700000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Thai, Khac-Minh",
+        "short_name": "Thai KM",
+        "identifiers": [
+          "0000-0002-5279-9614"
+        ],
+        "affiliations": [
+          "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam.",
+          "Research Center for Discovery and Development of Healthcare Products, Vietnam National University Ho Chi Minh City, Ho Chi Minh City 700000, Vietnam."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42943850"
+    ],
+    "review": [
+      "42943850"
+    ],
+    "pmc": [
+      "13707973"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=molecules31203781",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42943850/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42930481",
+    "doi": "10.3390/md24100352",
+    "title": "Synthesis and Biological Evaluation of a Marine Steroidal Alkaloid Analog (3S)-Peniadenisteroid A."
+  },
+  "content": {
+    "abstract": "Peniadenisteroid A, also known as striasteroid C, is a unique marine-derived natural steroidal alkaloid with a characteristic adenine-steroid hybrid scaffold, in which an adenine moiety is bound to the C-3 position of the steroid skeleton. This natural metabolite displays evident antiviral activity through neuraminidase inhibition, with an IC(50) value of 6.15 muM. In this work, the C-3 epimer, (3S)-peniadenisteroid A, was successfully synthesized in eight steps with an overall yield of 3.9%. Biological screening results revealed that the intermediate (3S)-P6 exhibited prominent inhibitory activity against cellular nitric oxide (NO) production, while both (3S)-peniadenisteroid A and peniadenisteroid A presented weak anti-inflammatory effects. Further mechanistic studies indicated that (3S)-P6 exerts significant anti-inflammatory bioactivity by negatively regulating the STAT3/NF-kappaB and HIF-1alpha signaling pathways. Moreover, network pharmacology combined with molecular docking predicted Heat Shock Protein 90alpha (HSP90alpha) as the putative binding target of (3S)-P6. Overall, this study completes the synthesis and biological evaluation of (3S)-peniadenisteroid A, highlighting that intermediate (3S)-P6 is a valuable lead compound for further anti-inflammatory drug discovery.",
+    "keywords": [
+      "(3S)-peniadenisteroid A",
+      "anti-inflammatory",
+      "network pharmacology",
+      "peniadenisteroid A",
+      "steroidal alkaloid",
+      "striasteroid C",
+      "synthesis"
+    ],
+    "mesh_terms": [
+      "*Alkaloids/pharmacology/chemical synthesis/chemistry",
+      "*Anti-Inflammatory Agents/pharmacology/chemical synthesis/chemistry",
+      "*Steroids/pharmacology/chemical synthesis/chemistry",
+      "Animals",
+      "Molecular Docking Simulation",
+      "Nitric Oxide/metabolism",
+      "Humans",
+      "Aquatic Organisms",
+      "Signal Transduction/drug effects",
+      "HSP90 Heat-Shock Proteins/metabolism",
+      "NF-kappa B/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Xuetao",
+        "Wang, Xiangyu",
+        "Maimaitiming, Mireguli",
+        "Yang, Jichen",
+        "Wang, Jie",
+        "Gao, Danling",
+        "Yang, Lujia",
+        "Zhang, Xinxin",
+        "Liu, Zhiqing",
+        "Wang, Pingyuan",
+        "Wang, Chang-Yun"
+      ],
+      "short_names": [
+        "Zhang X",
+        "Wang X",
+        "Maimaitiming M",
+        "Yang J",
+        "Wang J",
+        "Gao D",
+        "Yang L",
+        "Zhang X",
+        "Liu Z",
+        "Wang P",
+        "Wang CY"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0266-6677",
+        "ORCID: 0009-0005-0368-5070"
+      ],
+      "affiliations": [
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Department of Forensic Medicine, College of Basic Medical Sciences, Xinjiang Medical University, Urumqi 830011, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Marine Biomedical Research Institute of Qingdao, School of Medicine and Pharmacy, Ocean University of China, Qingdao 266003, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+        "Laboratory for Marine Drugs and Bioproducts, Qingdao Marine Science and Technology Center, Qingdao 266237, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Xuetao",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiangyu",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Maimaitiming, Mireguli",
+        "short_name": "Maimaitiming M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+          "Department of Forensic Medicine, College of Basic Medical Sciences, Xinjiang Medical University, Urumqi 830011, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jichen",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jie",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Danling",
+        "short_name": "Gao D",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Lujia",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xinxin",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Marine Biomedical Research Institute of Qingdao, School of Medicine and Pharmacy, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhiqing",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0000-0003-0266-6677"
+        ],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Pingyuan",
+        "short_name": "Wang P",
+        "identifiers": [
+          "0009-0005-0368-5070"
+        ],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chang-Yun",
+        "short_name": "Wang CY",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Marine Drugs and Key Laboratory of Evolution and Marine Biodiversity (Ministry of Education), School of Medicine and Pharmacy, Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China.",
+          "Laboratory for Marine Drugs and Bioproducts, Qingdao Marine Science and Technology Center, Qingdao 266237, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Marine drugs"
+    ],
+    "journal_abbrev": [
+      "Mar Drugs"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 17:31",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42930481"
+    ],
+    "review": [
+      "42930481"
+    ],
+    "pmc": [
+      "13706293"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=md24100352",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42930481/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-S100A12-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

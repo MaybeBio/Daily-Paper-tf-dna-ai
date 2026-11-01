@@ -1,0 +1,124 @@
+{
+  "identity": {
+    "pmid": "42925870",
+    "doi": "10.1016/j.pbi.2026.102987",
+    "title": "Plant metabolism in a dynamic temperature regime."
+  },
+  "content": {
+    "abstract": "Many plant species can efficiently adjust their metabolism to a changing temperature regime. As growth temperature significantly influences plant development, growth and distribution, it is of utmost importance to reveal how metabolism is linked to genetic regulation and phenotypic output. Key regulatory mechanisms include transcription factors which mediate responses to low and elevated temperatures, integrating signals related to carbon and nitrogen balance. Advances in high-throughput experimental techniques, mathematical modeling, and machine learning have deepened our understanding of gene regulatory networks, metabolic compartmentation, and the feedback loops between metabolism and gene expression. However, the complex, highly compartmentalized structure of plant cells poses challenges for interpreting metabolic regulation, particularly regarding subcellular allocation of sugars and energy signaling pathways. This review aims at identifying limitations of both experimental and computational analysis of plant metabolism which currently prevent the generation of predictive models of plant physiology in a changing temperature regime. Advances of machine learning and multi-omics integration are discussed in context of how genome sequence information can be linked to metabolic and phenotypic outcomes.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tung Lo, Wing",
+        "Bagshaw, Sophia Bianca",
+        "Brodsky, Vladimir",
+        "Suling, Bianca Emily",
+        "Nagele, Thomas"
+      ],
+      "short_names": [
+        "Tung Lo W",
+        "Bagshaw SB",
+        "Brodsky V",
+        "Suling BE",
+        "Nagele T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "LMU Munchen, Faculty of Biology, Plant Evolutionary Cell Biology, Grosshaderner Str. 2-4, 82152, Planegg, Germany.",
+        "LMU Munchen, Faculty of Biology, Plant Evolutionary Cell Biology, Grosshaderner Str. 2-4, 82152, Planegg, Germany.",
+        "LMU Munchen, Faculty of Biology, Plant Evolutionary Cell Biology, Grosshaderner Str. 2-4, 82152, Planegg, Germany.",
+        "LMU Munchen, Faculty of Biology, Plant Evolutionary Cell Biology, Grosshaderner Str. 2-4, 82152, Planegg, Germany.",
+        "LMU Munchen, Faculty of Biology, Plant Evolutionary Cell Biology, Grosshaderner Str. 2-4, 82152, Planegg, Germany. Electronic address: thomas.naegele@lmu.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tung Lo, Wing",
+        "short_name": "Tung Lo W",
+        "identifiers": [],
+        "affiliations": [
+          "LMU München, Faculty of Biology, Plant Evolutionary Cell Biology, Großhaderner Str. 2-4, 82152, Planegg, Germany."
+        ]
+      },
+      {
+        "full_name": "Bagshaw, Sophia Bianca",
+        "short_name": "Bagshaw SB",
+        "identifiers": [],
+        "affiliations": [
+          "LMU München, Faculty of Biology, Plant Evolutionary Cell Biology, Großhaderner Str. 2-4, 82152, Planegg, Germany."
+        ]
+      },
+      {
+        "full_name": "Brodsky, Vladimir",
+        "short_name": "Brodsky V",
+        "identifiers": [],
+        "affiliations": [
+          "LMU München, Faculty of Biology, Plant Evolutionary Cell Biology, Großhaderner Str. 2-4, 82152, Planegg, Germany."
+        ]
+      },
+      {
+        "full_name": "Süling, Bianca Emily",
+        "short_name": "Süling BE",
+        "identifiers": [],
+        "affiliations": [
+          "LMU München, Faculty of Biology, Plant Evolutionary Cell Biology, Großhaderner Str. 2-4, 82152, Planegg, Germany."
+        ]
+      },
+      {
+        "full_name": "Nägele, Thomas",
+        "short_name": "Nägele T",
+        "identifiers": [],
+        "affiliations": [
+          "LMU München, Faculty of Biology, Plant Evolutionary Cell Biology, Großhaderner Str. 2-4, 82152, Planegg, Germany. Electronic address: thomas.naegele@lmu.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current opinion in plant biology"
+    ],
+    "journal_abbrev": [
+      "Curr Opin Plant Biol"
+    ],
+    "pub_date": "2026 Oct 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-11-01 08:59:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42925870"
+    ],
+    "review": [
+      "42925870"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1369-5266(26)00130-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

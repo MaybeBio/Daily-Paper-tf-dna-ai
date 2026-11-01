@@ -1,0 +1,137 @@
+{
+  "identity": {
+    "pmid": "42943275",
+    "doi": "10.3390/ph19101578",
+    "title": "Drugging the Undruggable in Oncology: Structural Computation, Machine Learning, and Generative AI for Historically Intractable Targets."
+  },
+  "content": {
+    "abstract": "For four decades the central oncogenic drivers of human cancer the RAS GTPases, the transcription-factor MYC, mutant p53, and the protein-tyrosine phosphatases, fusion oncoproteins and intrinsically disordered regulators that surround them were regarded as undruggable: lacking deep, well-defined small-molecule binding pockets, governed by femtomolar substrate affinities, or driven through flat protein-protein interfaces that classical medicinal chemistry could not engage. The last decade has overturned that verdict. This narrative review argues that the convergence of three advances has made the undruggable proteome systematically approachable: the discovery of cryptic, allosteric and induced pockets through molecular dynamics and deep learning; the maturation of physics-based and machine-learned models that can read out binding from structure; and the rise in generative artificial intelligence that can design novel molecules conditioned directly on a three-dimensional target. We develop the argument in full formal detail. We set out the mathematics of modern molecular machine learning E(3)/SE(3)-equivariant graph neural networks, denoising diffusion and score-based generative models, and generative flow networks alongside the statistical mechanics of binding free energy (free-energy perturbation, thermodynamic integration, MM-PBSA), the kinetics of covalent inhibition, the equilibrium theory of ternary complexes and cooperativity that governs molecular glues and degraders, and the pharmacology that determines whether a designed molecule reaches and acts on a tumour. We then examine, target by target, the biology that made each oncoprotein intractable and the campaigns structural, chemical and increasingly computational that have begun to defeat it, distinguishing throughout what classical structural and computational work achieved, what machine learning demonstrably contributed, and what generative design has so far only promised: the switch-II pocket and the covalent KRAS-G12C and non-covalent KRAS-G12D and pan-RAS(ON) inhibitors; the mutation-created cavity of p53-Y220C and its first reactivators; the disordered MYC-MAX interface and the miniprotein Omomyc; and the allosteric tunnel of SHP2. These four are selected for mechanistic non-redundancy, on grounds we state explicitly, and the structured search framework and eligibility criteria underlying the review are documented. We foreground the newest evidence AlphaFold3, RoseTTAFold All-Atom, deep cryptic-pocket predictors, and the first generative-to-clinic existence proofs while maintaining candour about the field's hard limits: the physical-validity and generalisation gaps of deep docking, the bounded accuracy and cost of free-energy methods, the synthesizability gap, dual-use risk, and a clinical attrition that artificial intelligence has not yet reduced. The synthesis we offer is not that the problem is solved but that it has changed in kind: from a search for the rare tractable target to the deliberate, computable engineering of molecules against targets once thought beyond reach.",
+    "keywords": [
+      "AlphaFold",
+      "KRAS",
+      "MYC",
+      "SHP2",
+      "covalent inhibition",
+      "cryptic pockets",
+      "diffusion models",
+      "equivariant neural networks",
+      "free-energy perturbation",
+      "generative chemistry",
+      "molecular glues",
+      "p53",
+      "pan-cancer drug discovery",
+      "targeted protein degradation",
+      "undruggable targets"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Stanczak, Mikolaj",
+        "Niazi, Sarfaraz"
+      ],
+      "short_names": [
+        "Stanczak M",
+        "Niazi S"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-3931-0566",
+        "ORCID: 0000-0002-0513-0336"
+      ],
+      "affiliations": [
+        "School of Mathematical and Computer Science, Heriot-Watt University, Edinburgh EH14 4AS, UK.",
+        "College of Pharmacy and Pharmaceutical Sciences, Washington State University, Spokane, WA 99202, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Stańczak, Mikołaj",
+        "short_name": "Stańczak M",
+        "identifiers": [
+          "0009-0007-3931-0566"
+        ],
+        "affiliations": [
+          "School of Mathematical and Computer Science, Heriot-Watt University, Edinburgh EH14 4AS, UK."
+        ]
+      },
+      {
+        "full_name": "Niazi, Sarfaraz",
+        "short_name": "Niazi S",
+        "identifiers": [
+          "0000-0002-0513-0336"
+        ],
+        "affiliations": [
+          "College of Pharmacy and Pharmaceutical Sciences, Washington State University, Spokane, WA 99202, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmaceuticals (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Pharmaceuticals (Basel)"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42943275"
+    ],
+    "review": [
+      "42943275"
+    ],
+    "pmc": [
+      "13708652"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ph19101578",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42943275/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

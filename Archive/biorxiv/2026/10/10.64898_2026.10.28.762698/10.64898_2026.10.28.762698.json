@@ -1,0 +1,229 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.28.762698",
+  "title": "Transient diquat inclusion and carboxylate-rim binding to carboxymethyl-α-cyclodextrin: a molecular dynamics study",
+  "doi": "10.64898/2026.10.28.762698",
+  "abstract": "Rotaxane-based supramolecular scavengers have shown promise for diquat detoxification, but the relative contributions of cavity inclusion and interactions at the macrocycle rim remain unclear. We used all-atom molecular dynamics simulations in explicit water to examine diquat binding to carboxymethyl-α-cyclodextrin (CM-α-CD) and the behaviour of CM-α-CD on a poly(ethylene glycol) axle. Five systems were simulated: host-guest mixtures containing a neutral host (pH 3 model) or a hexaanionic host (pH 10 model), an explicitly constructed inclusion complex, and two-macrocycle pseudopolyrotaxanes initiated from pre-threaded or random configurations. The total production sampling was approximately 4.5 μs. A relaxed threaded geometry was obtained, with the diquat centroid 0.03 nm from the cavity axis and 9 of its 14 heavy atoms within the defined cavity cylinder. The guest left this geometry within the first 50 ps sampling interval and subsequently remained associated mainly with the carboxylate rim. During 1.2 μs of unbiased sampling of the hexaanionic host-guest system, only 5 of 802 guest-frame pairs contained a guest atom within the cavity cylinder, and all of these events occurred near a portal. Rim contacts were more frequent: each guest formed an average of 3.8-4.4 host heavy-atom contacts per frame, with 12.8-14.0% of guest heavy atoms in contact with the host. These interactions were substantially reduced for the neutral host. Sodium ions remained predominantly solvent-separated from the carboxylates. In the pseudopolyrotaxane simulations, pre-threaded rings satisfied the threading criterion in 1.6-8.4% of frames, and no spontaneous threading was observed from random configurations during 1 μs. Under the simulated conditions, CM-α-CD therefore bound diquat primarily through dynamic rim interactions rather than persistent cavity inclusion.",
+  "authors": [
+    "Jing Chen",
+    "Xu Wu",
+    "Yongjian Huang",
+    "Wei Fu"
+  ],
+  "published_date": "2026-10-30",
+  "updated_date": "2026-10-30T15:10:13Z",
+  "journal": "bioRxiv",
+  "category": "Biochemistry",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762698",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762698.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Biochemistry"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Biochemistry",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2026-10-30T15:38:27Z",
+        "timestamp": 1793374707510,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ]
+      },
+      "group-title": "Biochemistry",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                30
+              ]
+            ],
+            "date-time": "2026-10-30T00:00:00Z",
+            "timestamp": 1793318400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Rotaxane-based supramolecular scavengers have shown promise for diquat detoxification, but the relative contributions of cavity inclusion and interactions at the macrocycle rim remain unclear. We used all-atom molecular dynamics simulations in explicit water to examine diquat binding to carboxymethyl-α-cyclodextrin (CM-α-CD) and the behaviour of CM-α-CD on a poly(ethylene glycol) axle. Five systems were simulated: host-guest mixtures containing a neutral host (pH 3 model) or a hexaanionic host (pH 10 model), an explicitly constructed inclusion complex, and two-macrocycle pseudopolyrotaxanes initiated from pre-threaded or random configurations. The total production sampling was approximately 4.5 μs.\nA relaxed threaded geometry was obtained, with the diquat centroid 0.03 nm from the cavity axis and 9 of its 14 heavy atoms within the defined cavity cylinder. The guest left this geometry within the first 50 ps sampling interval and subsequently remained associated mainly with the carboxylate rim. During 1.2 μs of unbiased sampling of the hexaanionic host-guest system, only 5 of 802 guest-frame pairs contained a guest atom within the cavity cylinder, and all of these events occurred near a portal. Rim contacts were more frequent: each guest formed an average of 3.8-4.4 host heavy-atom contacts per frame, with 12.8-14.0% of guest heavy atoms in contact with the host. These interactions were substantially reduced for the neutral host. Sodium ions remained predominantly solvent-separated from the carboxylates. In the pseudopolyrotaxane simulations, pre-threaded rings satisfied the threading criterion in 1.6-8.4% of frames, and no spontaneous threading was observed from random configurations during 1 μs. Under the simulated conditions, CM-α-CD therefore bound diquat primarily through dynamic rim interactions rather than persistent cavity inclusion.</jats:p>",
+      "DOI": "10.64898/2026.10.28.762698",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2026-10-30T15:10:13Z",
+        "timestamp": 1793373013000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Transient diquat inclusion and carboxylate-rim binding to carboxymethyl-α-cyclodextrin: a molecular dynamics study"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Jing",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Shenzhen UniBindMD Computation Biotech Co., Ltd., Shenzhen, China;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xu",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shenzhen UniBindMD Computation Biotech Co., Ltd., Shenzhen, China;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yongjian",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shenzhen UniBindMD Computation Biotech Co., Ltd., Shenzhen, China;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0006-5412-5564",
+          "authenticated-orcid": false,
+          "given": "Wei",
+          "family": "Fu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "ShenZhen UnibindMD Computation Biotech Co., Ltd."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.28.762698",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2026-10-30T15:10:13Z",
+        "timestamp": 1793373013000
+      },
+      "score": 83.419205,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.28.762698"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.28.762698",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

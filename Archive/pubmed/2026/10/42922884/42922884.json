@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42922884",
+    "doi": "10.21203/rs.3.rs-8716015/v1",
+    "title": "DeepCNet: A multimodal deep learning model for predicting cell type-specific gene expression and promoter-enhancer interactions from single-cell multiome data."
+  },
+  "content": {
+    "abstract": "Understanding promoter-enhancer (PE) interactions is essential for elucidating gene regulation mechanisms. Although existing computational methods leverage DNA sequence to predict gene expression, many were developed primarily for bulk-level genomic data and emphasize predictive accuracy rather than regulatory inference. Here, we propose DeepCNet, a multimodal deep learning framework that predicts cell type-specific gene expression and infers cell type-specific PE interactions, enabling the construction of transcription factor gene regulatory networks (TF-GRNs) from single-cell multiome data. Evaluated on two single-cell multiome datasets from blood and brain tissues, DeepCNet consistently outperforms state-of-the-art methods in predicting cell type-specific gene expression. Importantly, PE interactions inferred by DeepCNet showed greater concordance with orthogonal chromatin interaction and CRISPR perturbation data than competing approaches. Analysis of cell type-specific GRNs identified TF hubs and highlighted both cell type-specific and shared regulatory programs. DeepCNet further extends to two-condition single-cell multiome studies, enabling the identification of differential PE interactions and characterization of TF-GRN alterations across conditions. As an illustrative application, we applied DeepCNet to single-cell multiome data from one Alzheimer's disease (AD) and one healthy control sample, identifying candidate differential PE interactions at AD risk loci and candidate TF hubs associated with AD-related pathways. Together, these results demonstrate the potential of DeepCNet to characterize transcriptional regulatory programs and cooperative TF interactions underlying cell type- and condition-specific gene expression.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jin, Weijia",
+        "Zhao, Fengdi",
+        "Ma, Xin",
+        "Lu, Qing",
+        "Esser, Karyn A",
+        "Sun, Ramon C",
+        "Chen, Li"
+      ],
+      "short_names": [
+        "Jin W",
+        "Zhao F",
+        "Ma X",
+        "Lu Q",
+        "Esser KA",
+        "Sun RC",
+        "Chen L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0644-5153",
+        "ORCID: 0009-0007-8754-7955",
+        "ORCID: 0009-0009-3347-4257",
+        "ORCID: 0000-0002-5791-1441",
+        "ORCID: 0000-0002-3009-1850",
+        "ORCID: 0000-0001-9372-5606"
+      ],
+      "affiliations": [
+        "Department of Biostatistics, University of Florida, Gainesville, FL, USA.",
+        "Department of Biostatistics, University of Florida, Gainesville, FL, USA.",
+        "Department of Biostatistics, University of Florida, Gainesville, FL, USA.",
+        "Department of Biostatistics, University of Florida, Gainesville, FL, USA.",
+        "Department of Physiology and Aging, University of Florida, Gainesville, FL, USA.",
+        "Claude D. Pepper Older Americans Independence Center, University of Florida, Gainesville, FL.",
+        "Department of Biochemistry and Molecular Biology, University of Florida, Gainesville, FL, USA.",
+        "Center for Advanced Spatial Biomolecular Research, University of Florida, Gainesville, FL, USA.",
+        "Evelyn F. and William L. McKnight Brain Institute, University of Florida, Gainesville, FL, USA.",
+        "Cancer Institute, University of Florida, Gainesville, FL, USA.",
+        "Department of Biostatistics, University of Florida, Gainesville, FL, USA.",
+        "Department of Biochemistry and Molecular Biology, University of Florida, Gainesville, FL, USA.",
+        "Center for Advanced Spatial Biomolecular Research, University of Florida, Gainesville, FL, USA.",
+        "Evelyn F. and William L. McKnight Brain Institute, University of Florida, Gainesville, FL, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jin, Weijia",
+        "short_name": "Jin W",
+        "identifiers": [
+          "0000-0002-0644-5153"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Fengdi",
+        "short_name": "Zhao F",
+        "identifiers": [
+          "0009-0007-8754-7955"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Ma, Xin",
+        "short_name": "Ma X",
+        "identifiers": [
+          "0009-0009-3347-4257"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Lu, Qing",
+        "short_name": "Lu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Esser, Karyn A",
+        "short_name": "Esser KA",
+        "identifiers": [
+          "0000-0002-5791-1441"
+        ],
+        "affiliations": [
+          "Department of Physiology and Aging, University of Florida, Gainesville, FL, USA.",
+          "Claude D. Pepper Older Americans Independence Center, University of Florida, Gainesville, FL."
+        ]
+      },
+      {
+        "full_name": "Sun, Ramon C",
+        "short_name": "Sun RC",
+        "identifiers": [
+          "0000-0002-3009-1850"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, University of Florida, Gainesville, FL, USA.",
+          "Center for Advanced Spatial Biomolecular Research, University of Florida, Gainesville, FL, USA.",
+          "Evelyn F. and William L. McKnight Brain Institute, University of Florida, Gainesville, FL, USA.",
+          "Cancer Institute, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Li",
+        "short_name": "Chen L",
+        "identifiers": [
+          "0000-0001-9372-5606"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, University of Florida, Gainesville, FL, USA.",
+          "Department of Biochemistry and Molecular Biology, University of Florida, Gainesville, FL, USA.",
+          "Center for Advanced Spatial Biomolecular Research, University of Florida, Gainesville, FL, USA.",
+          "Evelyn F. and William L. McKnight Brain Institute, University of Florida, Gainesville, FL, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Research square"
+    ],
+    "journal_abbrev": [
+      "Res Sq"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-11-01 08:59:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42922884"
+    ],
+    "review": [
+      "42922884"
+    ],
+    "pmc": [
+      "13684766"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42922884/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3399",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-8716015/v1",
+        "provider": "Research Square",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

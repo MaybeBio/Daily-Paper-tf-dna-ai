@@ -1,0 +1,152 @@
+{
+  "identity": {
+    "pmid": "42945383",
+    "doi": "10.1371/journal.pcbi.1014911",
+    "title": "An extensible deep learning framework for multi-type chromatin interaction prediction through hierarchical adaptation strategies."
+  },
+  "content": {
+    "abstract": "Three-dimensional chromatin interactions play essential roles in gene regulation, yet computational prediction of diverse interaction types remains largely dependent on specialized, single-task models. Here, we present UniLoopNet, a multi-task deep learning framework that predicts multiple types of chromatin interactions including enhancer-promoter interactions, enhancer-enhancer interactions, CTCF-mediated loops, and stripe-associated interactions from DNA sequences. UniLoopNet employs a shared encoder-decoder architecture with hierarchical adaptation strategies, integrating multi-task, transfer, and continual learning based on task semantic similarity. Comprehensive benchmarking across multiple cell lines demonstrates that UniLoopNet outperforms existing specialized and multi-task approaches, with AUROCs exceeding 0.90 in most tasks. Under stringent evaluation settings, including chromosome-matched, distance-matched, realistic imbalanced, and locus-disjoint tests, AUROCs range from 0.8934 to 0.9366. In the realistic 1:5 class-imbalance setting, the AUPRCs for enhancer-promoter and enhancer-enhancer interaction prediction are 0.7956 and 0.6935, respectively. Cross-cell-line transfer experiments further show that applying UniLoopNet to another cell line requires adaptation by supervised fine-tuning on target-cell-line data, after which performance is comparable to that of within-cell-line training. Notably, the framework exhibits data efficiency in experiments with substantially reduced training data. Interpretability analyses reveal that the learned sequence features are associated with known transcription factor binding sites and uncover differential regulatory effects of disease-associated variants. UniLoopNet provides a versatile and data-efficient framework for sequence-based prediction and interpretation of diverse 3D genome interactions, complementing existing sequence-to-map approaches while improving the understanding of sequence-encoded regulatory potential.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Shuaibin",
+        "Chen, Tong",
+        "Liu, Weixu",
+        "Zheng, Xuejie",
+        "Yang, Zhongxin",
+        "Liang, Zhen",
+        "Shen, Yin"
+      ],
+      "short_names": [
+        "Wang S",
+        "Chen T",
+        "Liu W",
+        "Zheng X",
+        "Yang Z",
+        "Liang Z",
+        "Shen Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7002-4022"
+      ],
+      "affiliations": [
+        "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China.",
+        "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China.",
+        "Department of Computer Science and Technology, Anhui Medical University, Hefei, Anhui, China.",
+        "Department of Pediatrics, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China.",
+        "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China.",
+        "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China.",
+        "The Affiliated Chuzhou Hospital of Anhui Medical University, The First People's Hospital of Chuzhou, Chuzhou, Anhui, China.",
+        "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China.",
+        "Second Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Shuaibin",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Tong",
+        "short_name": "Chen T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Weixu",
+        "short_name": "Liu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Technology, Anhui Medical University, Hefei, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Xuejie",
+        "short_name": "Zheng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhongxin",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Zhen",
+        "short_name": "Liang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China.",
+          "The Affiliated Chuzhou Hospital of Anhui Medical University, The First People's Hospital of Chuzhou, Chuzhou, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Yin",
+        "short_name": "Shen Y",
+        "identifiers": [
+          "0000-0001-7002-4022"
+        ],
+        "affiliations": [
+          "School of Biomedical Engineering, Anhui Medical University, Hefei, Anhui, China.",
+          "Second Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 17:30",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42945383"
+    ],
+    "review": [
+      "42945383"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014911",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

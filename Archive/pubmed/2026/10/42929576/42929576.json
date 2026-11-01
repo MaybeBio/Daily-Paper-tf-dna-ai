@@ -1,0 +1,153 @@
+{
+  "identity": {
+    "pmid": "42929576",
+    "doi": "10.1021/acs.jcim.6c02880",
+    "title": "Deciphering Cellular and Spatial Regulatory Identities from Sparse Chromatin Accessibility Landscapes."
+  },
+  "content": {
+    "abstract": "Chromatin accessibility profiling provides a powerful view of regulatory landscapes across heterogeneous biological systems, enabling the investigation of cell-state diversity and spatially organized regulatory programs. However, deciphering meaningful regulatory identities from sparse and noisy accessibility landscapes remains challenging, particularly for closely related cellular states and neighboring regulatory domains. Unlike transcriptomic measurements, chromatin accessibility does not directly capture canonical marker expression, and regulatory identities must therefore be inferred from indirect evidence, including gene activity scores, transcription factor motif activity, and reference-based annotation. These signals often become ambiguous, limiting the reliability of unsupervised clustering followed by post-hoc interpretation. Here, we present CASSIA (Chromatin Accessibility Semi-Supervised Identity-Aware representation learning), a unified label-guided framework for decoding cellular and spatial regulatory identities from chromatin accessibility landscapes. CASSIA leverages limited high-confidence anchors to learn informative accessibility representations while preserving intrinsic regulatory structures. The framework integrates a binary accessibility denoising autoencoder, a Jensen-Shannon divergence-based clustering constraint, and a similarity difference-aware triplet objective; spatial neighborhood consistency is further incorporated to preserve regulatory organization when spatial information is available. Across diverse chromatin accessibility datasets, CASSIA reconstructs cellular and spatial regulatory identities with improved agreement to biological annotations and tissue organization compared with representative baselines. Identity-associated accessible regions and transcription factor activity profiles reveal distinct regulatory programs underlying inferred identities, demonstrating that CASSIA transforms sparse accessibility landscapes into interpretable cellular and tissue-level regulatory maps.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Chromatin/metabolism/genetics",
+      "Clustering Algorithms",
+      "Autoencoder",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yunhe",
+        "Guo, Songyu",
+        "Qian, Jingjing",
+        "Liang, Heqiu",
+        "Su, Yanchi",
+        "Yu, Zhuohan",
+        "Li, Xiangtao"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Guo S",
+        "Qian J",
+        "Liang H",
+        "Su Y",
+        "Yu Z",
+        "Li X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0013-4530"
+      ],
+      "affiliations": [
+        "School of Artificial Intelligence, Hebei University of Technology, Tianjin300401, China.",
+        "School of Artificial Intelligence, Hebei University of Technology, Tianjin300401, China.",
+        "School of Artificial Intelligence, Hebei University of Technology, Tianjin300401, China.",
+        "School of Artificial Intelligence, Hebei University of Technology, Tianjin300401, China.",
+        "Department of Pharmacy and Pharmaceutical Sciences, National University of Singapore, Singapore119260.",
+        "School of Artificial Intelligence, Jilin University, Jilin130012, China.",
+        "School of Artificial Intelligence, Jilin University, Jilin130012, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yunhe",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0002-0013-4530"
+        ],
+        "affiliations": [
+          "School of Artificial Intelligence, Hebei University of Technology, Tianjin300401, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Songyu",
+        "short_name": "Guo S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Artificial Intelligence, Hebei University of Technology, Tianjin300401, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Jingjing",
+        "short_name": "Qian J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Artificial Intelligence, Hebei University of Technology, Tianjin300401, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Heqiu",
+        "short_name": "Liang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Artificial Intelligence, Hebei University of Technology, Tianjin300401, China."
+        ]
+      },
+      {
+        "full_name": "Su, Yanchi",
+        "short_name": "Su Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy and Pharmaceutical Sciences, National University of Singapore, Singapore119260."
+        ]
+      },
+      {
+        "full_name": "Yu, Zhuohan",
+        "short_name": "Yu Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Artificial Intelligence, Jilin University, Jilin130012, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiangtao",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Artificial Intelligence, Jilin University, Jilin130012, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 11:29",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42929576"
+    ],
+    "review": [
+      "42929576"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c02880",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

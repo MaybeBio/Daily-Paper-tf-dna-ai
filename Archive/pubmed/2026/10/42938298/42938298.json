@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "42938298",
+    "doi": "10.3390/genes17101180",
+    "title": "Shared Genetic and Regulatory Architecture of Congenital Heart Disease and Autism Spectrum Disorder Revealed by Cross-Tissue Multi-Omic Integration."
+  },
+  "content": {
+    "abstract": "Background: Congenital heart disease (CHD) and autism spectrum disorder (ASD) co-occur more frequently than expected, suggesting shared developmental susceptibility. We aimed to identify cross-tissue molecular candidates linking cardiac and neurodevelopmental abnormalities. Methods: CHD- and ASD-associated genes were curated from MalaCards and SFARI Gene, and their intersection was defined as the CHD- and ASD-associated gene set (CAGES). Shared gene enrichment was assessed against the human protein-coding genome. CHD and ASD genome-wide association data were integrated with heart and brain cis-expression quantitative trait loci using Bayesian colocalization and summary data-based Mendelian randomization with HEIDI testing. Candidates were further evaluated using bulk transcriptomics, six machine learning feature selection methods, independent cohorts, and scTenifoldKnk virtual knockout analyses in developing human heart and cerebral cortex. Results: Seventy-three genes were shared between CHD and ASD. CHD7 showed suggestive colocalization for CHD and ASD, while lower genetically predicted CHD7 expression was associated with higher odds of both disorders, with nonsignificant HEIDI tests. MEF2C was downregulated in tetralogy of Fallot myocardium and selected by all six ASD machine learning methods, with consistently lower expression in ASD. CAGES-derived signatures discriminated independent CHD, ASD cord blood, and cortical cohorts. CHD7 virtual knockout analysis identified MEF2C as a computationally predicted regulatory candidate in the prenatal brain, particularly in late-fetal excitatory neurons and intermediate progenitor cells, with cell-type-specific predicted effects also observed in the developing heart. Conclusions: CHD and ASD share molecular susceptibility involving pleiotropic developmental mechanisms. CHD7 and MEF2C emerge as connected cross-tissue candidates across complementary genetically informed, transcriptomic, and developmental regulatory analyses, highlighting prenatal neuronal populations and developmental windows for investigating the heart-brain axis.",
+    "keywords": [
+      "CHD7",
+      "MEF2C",
+      "autism spectrum disorder",
+      "congenital heart disease",
+      "developmental heart-brain axis",
+      "shared genetic susceptibility"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Autism Spectrum Disorder/genetics",
+      "*Heart Defects, Congenital/genetics",
+      "MEF2 Transcription Factors/genetics",
+      "Genome-Wide Association Study",
+      "Quantitative Trait Loci",
+      "Multiomics",
+      "Genetic Predisposition to Disease",
+      "Machine Learning",
+      "DNA-Binding Proteins/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhu, Min",
+        "Zhang, Jingkun Fred",
+        "Hu, Stella X",
+        "Wang, Xuechen",
+        "Xu, Weize"
+      ],
+      "short_names": [
+        "Zhu M",
+        "Zhang JF",
+        "Hu SX",
+        "Wang X",
+        "Xu W"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5265-2006",
+        "ORCID: 0000-0003-1350-0613"
+      ],
+      "affiliations": [
+        "Department of Colorectal Surgery and Oncology and School of Brain Science and Brain Medicine, The Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou 310009, China.",
+        "Liangzhu Laboratory, MOE Frontier Science Center for Brain Science and Brain-Machine Integration, State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, Hangzhou 311121, China.",
+        "The Pennington School, 112 W. Delaware Avenue, Pennington, NJ 08534, USA.",
+        "Trinity College of Arts & Sciences, Duke University, Durham, NC 27708, USA.",
+        "Shanghai Key Laboratory of Plant Molecular Sciences, College of Life Sciences, Shanghai Normal University, Shanghai 200234, China.",
+        "Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou 310052, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhu, Min",
+        "short_name": "Zhu M",
+        "identifiers": [
+          "0000-0002-5265-2006"
+        ],
+        "affiliations": [
+          "Department of Colorectal Surgery and Oncology and School of Brain Science and Brain Medicine, The Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou 310009, China.",
+          "Liangzhu Laboratory, MOE Frontier Science Center for Brain Science and Brain-Machine Integration, State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, Hangzhou 311121, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jingkun Fred",
+        "short_name": "Zhang JF",
+        "identifiers": [],
+        "affiliations": [
+          "The Pennington School, 112 W. Delaware Avenue, Pennington, NJ 08534, USA."
+        ]
+      },
+      {
+        "full_name": "Hu, Stella X",
+        "short_name": "Hu SX",
+        "identifiers": [],
+        "affiliations": [
+          "Trinity College of Arts & Sciences, Duke University, Durham, NC 27708, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Xuechen",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Plant Molecular Sciences, College of Life Sciences, Shanghai Normal University, Shanghai 200234, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Weize",
+        "short_name": "Xu W",
+        "identifiers": [
+          "0000-0003-1350-0613"
+        ],
+        "affiliations": [
+          "Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou 310052, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes"
+    ],
+    "journal_abbrev": [
+      "Genes (Basel)"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:31",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42938298"
+    ],
+    "review": [
+      "42938298"
+    ],
+    "pmc": [
+      "13704632"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=genes17101180",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/congenitalheartdefects.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Congenital Heart Defects"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42938298/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/autismspectrumdisorder.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Autism Spectrum Disorder"
+      }
+    ],
+    "text_mined": []
+  }
+}

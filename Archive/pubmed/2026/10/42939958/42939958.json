@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "42939958",
+    "doi": "10.3390/biomedicines14102151",
+    "title": "Integrative Multi-Omics and Machine Learning Unveil Plakophilin 1 as a Robust Diagnostic Biomarker for Thymoma."
+  },
+  "content": {
+    "abstract": "Background: Thymoma (THYM) is a rare epithelial tumor originating in the anterior mediastinum. Due to the lack of specific clinical manifestations and reliable molecular biomarkers, its diagnosis and treatment are often delayed until advanced stages. Although multi-omics technologies have provided new strategies for biomarker discovery, systematic integrative studies specifically focused on thymoma remain limited. Objectives: This study aimed to identify and validate potential diagnostic biomarkers for thymoma through the integration of multi-omics data and machine learning approaches. Methods: We integrated transcriptomic, proteomic, and epigenomic datasets and applied machine learning algorithms to screen for core candidate genes. The cell-type-specific expression patterns of the identified candidates were further evaluated using single-cell RNA sequencing (scRNA-seq), and their potential molecular functions were predicted via in silico perturbation analysis. In addition, immunohistochemistry (IHC) was performed to validate the differential expression of the candidate biomarker at the protein level. Results: Six core candidate genes-interferon regulatory factor 6 (IRF6), thyroid hormone receptor interactor 6 (TRIP6), plakophilin 1 (PKP1), cadherin 1 (CDH1), pre-B-cell leukemia transcription factor 1 (PBX1), and keratin 1 (KRT1)-were identified through machine learning. Among these, PKP1 demonstrated excellent diagnostic performance in both the training set (area under the receiver operating characteristic (ROC) curve, AUC: 0.83; sensitivity: 0.80; specificity: 0.875) and the validation set (AUC: 0.94; sensitivity: 0.93; specificity: 1.000). Single-cell RNA sequencing confirmed a significantly enriched expression pattern of PKP1 in thymoma tumor cells. In silico perturbation analysis suggested that PKP1 may be involved in cell adhesion and tumor progression through regulation of the extracellular matrix (ECM)-integrin-cytoskeleton axis. Immunohistochemistry further validated the significantly elevated protein expression level of PKP1 in thymoma tissues. Conclusions: This study identifies PKP1 as a potential diagnostic biomarker for thymoma with high diagnostic performance and tumor cell-enriched expression, providing new insights into the molecular mechanisms underlying thymoma progression and its potential clinical applications.",
+    "keywords": [
+      "PKP1",
+      "biomarker",
+      "machine learning",
+      "multi-omics",
+      "single-cell RNA sequencing",
+      "thymoma",
+      "virtual knockout simulations"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Yunhan",
+        "Zhang, Shen",
+        "Gao, Qian",
+        "Ding, Shanshan",
+        "Sun, Mengling",
+        "Xue, Haiying",
+        "Yang, Fan",
+        "Liu, Yangyang",
+        "An, Xiaokang",
+        "Dong, Xiaotao",
+        "Zhang, Guoyu"
+      ],
+      "short_names": [
+        "Li Y",
+        "Zhang S",
+        "Gao Q",
+        "Ding S",
+        "Sun M",
+        "Xue H",
+        "Yang F",
+        "Liu Y",
+        "An X",
+        "Dong X",
+        "Zhang G"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-2086-1563"
+      ],
+      "affiliations": [
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China.",
+        "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+        "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Yunhan",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shen",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Qian",
+        "short_name": "Gao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Shanshan",
+        "short_name": "Ding S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Mengling",
+        "short_name": "Sun M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Haiying",
+        "short_name": "Xue H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Fan",
+        "short_name": "Yang F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yangyang",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "An, Xiaokang",
+        "short_name": "An X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Xiaotao",
+        "short_name": "Dong X",
+        "identifiers": [
+          "0009-0006-2086-1563"
+        ],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Laboratory of Receptor Gene Regulation and Drug Discovery, School of Basic Medical Sciences, Henan University, Kaifeng 475004, China.",
+          "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Guoyu",
+        "short_name": "Zhang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Henan University, Kaifeng 475004, China.",
+          "Kaifeng Key Laboratory of Translational Medicine for Thoracic Diseases, Kaifeng 475004, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedicines"
+    ],
+    "journal_abbrev": [
+      "Biomedicines"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42939958"
+    ],
+    "review": [
+      "42939958"
+    ],
+    "pmc": [
+      "13701948"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biomedicines14102151",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42939958/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1599",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42935097",
+    "doi": "10.1016/j.molp.2026.10.016",
+    "title": "Single-cell multi-omics reveals distinct regulatory architectures coordinating carbon assimilation and cyclic electron flow in maize C(4) photosynthesis."
+  },
+  "content": {
+    "abstract": "C(4) photosynthesis arose repeatedly through redeployment of pre-existing regulatory circuitry, yet how a shared regulatory system coordinates its interdependent photosynthetic functions remains unresolved. Here we integrate single-nucleus RNA-seq and sci-ATAC-seq with bulk histone profiles from mesophyll- and bundle sheath-enriched fractions and transcription factor binding profiles obtained in protoplasts. We compare the C(4) shuttle and Calvin-Benson-Bassham cycle with NDH-mediated cyclic electron flow in bundle sheath cells. Selected carbon assimilation loci were associated with differential H3K27me3, whereas the NDH-associated branch showed regulatory inputs linked to DNA binding with one finger (DOF) transcription factors. Dissection of the ZmNdhU promoter identifies a 49 bp DOF-responsive cis element whose activity is sensitive to local sequence context and insertion position in the promoter constructs tested and that supports vascular bundle-associated reporter expression in a heterologous promoter context. Bundle sheath-enriched expression of ZmDOF30 increases NDH-associated expression, cyclic electron flow, leaf ATP content and photosynthetic performance. In a field trial, the transgenic lines showed increased growth and biomass. Comparative analyses revealed lineage-associated variation in predicted promoter-proximal DOF-binding potential within a broader H3K27me3-associated transcription factor background. These findings distinguish regulatory configurations among maize photosynthetic modules and identify DOF-NDH regulation as a candidate route for improving photosynthetic performance in maize, with broader relevance to NADP-ME grasses.",
+    "keywords": [
+      "C(4) photosynthesis",
+      "cyclic electron flow",
+      "interpretable machine learning",
+      "portable cis-regulatory elements",
+      "single-cell multi-omics",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Chuanshun",
+        "Zhang, You",
+        "Lin, Kande",
+        "Liu, Xiaojian",
+        "Zhang, Hanxiao",
+        "Yang, Jianzhao",
+        "Zhao, Caiyao",
+        "Yang, Leyi",
+        "Long, Zhengbiao",
+        "Li, Yangmeihui",
+        "Deng, Qilin",
+        "Ma, Bin",
+        "Wei, Tong",
+        "Zhong, Silin",
+        "Zhu, Xinguang",
+        "Li, Pinghua",
+        "Pan, Xiaoyong",
+        "Tu, Xiaoyu"
+      ],
+      "short_names": [
+        "Li C",
+        "Zhang Y",
+        "Lin K",
+        "Liu X",
+        "Zhang H",
+        "Yang J",
+        "Zhao C",
+        "Yang L",
+        "Long Z",
+        "Li Y",
+        "Deng Q",
+        "Ma B",
+        "Wei T",
+        "Zhong S",
+        "Zhu X",
+        "Li P",
+        "Pan X",
+        "Tu X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai, 200240, China.",
+        "The State Key Laboratory of Crop Biology, College of Agronomy, Shandong Agricultural University, Tai'an 271018, China.",
+        "State Key Laboratory for Plant Molecular Genetics, Center of Excellence for Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200032, China.",
+        "BGI Research, Wuhan 430047, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Zhongshan Biological Breeding Laboratory/Key Laboratory of Plant Functional Genomics of the Ministry of Education, Agricultural College of Yangzhou University, Yangzhou 225009, China.",
+        "BGI Research, Wuhan 430047, China.",
+        "State Key Laboratory of Agrobiotechnology, School of Life Sciences, The Chinese University of Hong Kong, Hong Kong, China.",
+        "State Key Laboratory for Plant Molecular Genetics, Center of Excellence for Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200032, China.",
+        "The State Key Laboratory of Crop Biology, College of Agronomy, Shandong Agricultural University, Tai'an 271018, China.",
+        "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai, 200240, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China. Electronic address: xiaoyutu@sjtu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Chuanshun",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, You",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Kande",
+        "short_name": "Lin K",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaojian",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai, 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hanxiao",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "The State Key Laboratory of Crop Biology, College of Agronomy, Shandong Agricultural University, Tai'an 271018, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jianzhao",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Plant Molecular Genetics, Center of Excellence for Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200032, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Caiyao",
+        "short_name": "Zhao C",
+        "identifiers": [],
+        "affiliations": [
+          "BGI Research, Wuhan 430047, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Leyi",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Long, Zhengbiao",
+        "short_name": "Long Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yangmeihui",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Qilin",
+        "short_name": "Deng Q",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Bin",
+        "short_name": "Ma B",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Zhongshan Biological Breeding Laboratory/Key Laboratory of Plant Functional Genomics of the Ministry of Education, Agricultural College of Yangzhou University, Yangzhou 225009, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Tong",
+        "short_name": "Wei T",
+        "identifiers": [],
+        "affiliations": [
+          "BGI Research, Wuhan 430047, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Silin",
+        "short_name": "Zhong S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Agrobiotechnology, School of Life Sciences, The Chinese University of Hong Kong, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Xinguang",
+        "short_name": "Zhu X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Plant Molecular Genetics, Center of Excellence for Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200032, China."
+        ]
+      },
+      {
+        "full_name": "Li, Pinghua",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "The State Key Laboratory of Crop Biology, College of Agronomy, Shandong Agricultural University, Tai'an 271018, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Xiaoyong",
+        "short_name": "Pan X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai, 200240, China."
+        ]
+      },
+      {
+        "full_name": "Tu, Xiaoyu",
+        "short_name": "Tu X",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, Joint Center for Single Cell Biology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China. Electronic address: xiaoyutu@sjtu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular plant"
+    ],
+    "journal_abbrev": [
+      "Mol Plant"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 05:29",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42935097"
+    ],
+    "review": [
+      "42935097"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1674-2052(26)00355-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3339",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

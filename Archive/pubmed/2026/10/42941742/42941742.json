@@ -1,0 +1,115 @@
+{
+  "identity": {
+    "pmid": "42941742",
+    "doi": "10.3390/ijms27208966",
+    "title": "Integrative Bioinformatics Analysis Incorporating Artificial Intelligence and Machine Learning Identifies Putative Pathogenic HNF1B Missense Variants Associated with HNF1B-MODY."
+  },
+  "content": {
+    "abstract": "Maturity-onset diabetes of the young type 5 (MODY5 or HNF1B-MODY) is a rare form of diabetes caused by variants in HNF1B. Patients with MODY5 exhibit high blood sugar levels and symptoms commonly associated with both type 1 and type 2 diabetes (T1D, T2D), along with kidney and pancreatic issues. Nonetheless, diagnosis, treatment and management approaches depend on specific genotype-phenotype associations. Interpretation of HNF1B missense variants remains challenging because of conflicting classifications and limited clinical evidence. This study aimed to improve the interpretation of HNF1B missense variants with conflicting evidence regarding pathogenicity and thereby advance the genetic and molecular understanding of HNF1B-MODY. An integrative computational approach combining artificial intelligence (AI), machine learning (ML), and conventional bioinformatic tools, including Panther, SIFT, SNAP2, Meta-SNP, PhD-SNP, PolyPhen-2, and AlphaMissense, was used to identify deleterious missense variants in the HNF1B gene. The variants were further processed to determine their effects on protein conformation, stability, function, and conservation across species. Among 982 reported variants retrieved from the ClinVar database, 368 were classified as missense. Only 47 missense variants were labelled with conflicting classification and reported with clinical uncertainty. Consensus analysis by all tools identified five candidate variants (His153Arg, Asn298Asp, Arg303His, Lys305Glu, and Val458Gly), representing 10.6% (5/47) as potentially pathogenic. AlphaMissense classified all five as likely pathogenic, with scores ranging from 0.8921 to 1.000. Secondary structure analysis indicates that the His153Arg, Asn298Asp, Arg303His, and Lys305Glu variants are in the helical region, while the Val458Gly variant is located within the coil region. Interestingly, all five filtered variants are predicted by the I-Mutant and MuPro tools to reduce protein stability. The three-dimensional (3D) protein structures were constructed using the Deep Learning-Based Iterative Threading Assembly Refinement (D-I-TASSER) tool and visualised by UCSF Chimera. Structural modelling showed similarity between the mutant and wild-type models, with RMSD values ranging from 0.77 to 1.36 A. The multiple sequence alignments show that amino acids at variant sites across all variants are highly conserved among species. These findings show that combining traditional bioinformatics with artificial intelligence and machine learning improves the interpretation of HNF1B missense variants with clinical uncertainty. Integrating computational predictions with structural, evolutionary, and clinical data provides a framework for prioritising variants for further functional and clinical investigation.",
+    "keywords": [
+      "HNF1B",
+      "MODY-5",
+      "artificial intelligence",
+      "diabetes mellitus",
+      "genetics"
+    ],
+    "mesh_terms": [
+      "*Mutation, Missense",
+      "Humans",
+      "*Hepatocyte Nuclear Factor 1-beta/genetics/chemistry",
+      "*Computational Biology/methods",
+      "*Machine Learning",
+      "*Diabetes Mellitus, Type 2/genetics",
+      "*Artificial Intelligence",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aldharee, Hitham"
+      ],
+      "short_names": [
+        "Aldharee H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4230-4462"
+      ],
+      "affiliations": [
+        "Department of Pathology, College of Medicine, Qassim University, Buraidah 52571, Saudi Arabia.",
+        "Department of Diabetes Center, Medical City, Qassim University, Buraidah 52571, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aldharee, Hitham",
+        "short_name": "Aldharee H",
+        "identifiers": [
+          "0000-0002-4230-4462"
+        ],
+        "affiliations": [
+          "Department of Pathology, College of Medicine, Qassim University, Buraidah 52571, Saudi Arabia.",
+          "Department of Diabetes Center, Medical City, Qassim University, Buraidah 52571, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42941742"
+    ],
+    "review": [
+      "42941742"
+    ],
+    "pmc": [
+      "13705104"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27208966",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/diabetestype2.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Diabetes Type 2"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42941742/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

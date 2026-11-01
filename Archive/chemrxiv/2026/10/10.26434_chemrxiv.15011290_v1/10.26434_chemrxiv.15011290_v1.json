@@ -1,0 +1,181 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15011290/v1",
+  "title": "Comparative Analysis of Basic Machine Learning and Rigorous Free-Energy Calculation on Benchmarking Datasets of Protein-Ligand Binding Affinity",
+  "doi": "10.26434/chemrxiv.15011290/v1",
+  "abstract": "Rigorous free-energy methods based on molecular dynamics simulations like free-energy perturbation (FEP) are nowadays widely applied in lead optimization in pharmaceutical companies. Due to sampling restrictions and potential force-field deficiencies, it is common practice to first validate the applicability of FEP to a target/chemical series using a small number of known compounds, before applying it prospectively. As rigorous methods require significant computational resources, we want to explore how basic machine learning (ML) methods perform under the same conditions, i.e., training on a small number of known compounds and estimating the affinity of novel variants in the same chemical series. We apply classical ML models using 2D and 3D molecular descriptors, alongside two implementations of 3D quantitative structure–activity relationship modeling, and integrate the predictions through meta-learning. For many of the standard benchmarking datasets, we find that one of the ML models matches or exceeds the performance of FEP. Interestingly, ML-based predictions generally exhibit flatter slopes in parity plots, but without substantial effect on the relative rank ordering of compounds. Given their lower computational cost and ease of deployment, basic ML methods, particularly the meta-learner, emerge as a powerful complement to rigorous free-energy methods for estimating binding affinities within chemical series.",
+  "authors": [
+    "Stefan J. P. Chrin",
+    "Gregory A. Landrum",
+    "Sereina Riniker"
+  ],
+  "published_date": "2026-10-29",
+  "updated_date": "2026-10-29T12:46:25Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15011290/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15011290/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            29
+          ]
+        ],
+        "date-time": "2026-10-29T13:36:16Z",
+        "timestamp": 1793280976817,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            29
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Rigorous free-energy methods based on molecular dynamics simulations like free-energy perturbation (FEP) are nowadays widely applied in lead optimization in pharmaceutical companies. Due to sampling restrictions and potential force-field deficiencies, it is common practice to first validate the applicability of FEP to a target/chemical series using a small number of known compounds, before applying it prospectively. As rigorous methods require significant computational resources, we want to explore how basic machine learning (ML) methods perform under the same conditions, i.e., training on a small number of known compounds and estimating the affinity of novel variants in the same chemical series. We apply classical ML models using 2D and 3D molecular descriptors, alongside two implementations of 3D quantitative structure–activity relationship modeling, and integrate the predictions through meta-learning. For many of the standard benchmarking datasets, we find that one of the ML models matches or exceeds the performance of FEP. Interestingly, ML-based predictions generally exhibit flatter slopes in parity plots, but without substantial effect on the relative rank ordering of compounds. Given their lower computational cost and ease of deployment, basic ML methods, particularly the meta-learner, emerge as a powerful complement to rigorous free-energy methods for estimating binding affinities within chemical series.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15011290/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            29
+          ]
+        ],
+        "date-time": "2026-10-29T12:46:25Z",
+        "timestamp": 1793277985000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Comparative Analysis of Basic Machine Learning and Rigorous Free-Energy Calculation on Benchmarking Datasets of Protein-Ligand Binding Affinity"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0008-0004-5141",
+          "authenticated-orcid": false,
+          "given": "Stefan J. P.",
+          "family": "Chrin",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Chemistry and Applied Biosciences, ETH Zürich, Vladimir-Prelog-Weg 2, Zürich, Switzerland, 8093"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6279-4481",
+          "authenticated-orcid": false,
+          "given": "Gregory A.",
+          "family": "Landrum",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemistry and Applied Biosciences, ETH Zürich, Vladimir-Prelog-Weg 2, Zürich, Switzerland, 8093"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1893-4031",
+          "authenticated-orcid": true,
+          "given": "Sereina",
+          "family": "Riniker",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemistry and Applied Biosciences, ETH Zürich, Vladimir-Prelog-Weg 2, Zürich, Switzerland, 8093"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15011290/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            29
+          ]
+        ],
+        "date-time": "2026-10-29T12:46:25Z",
+        "timestamp": 1793277985000
+      },
+      "score": 103.5762,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011290/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            29
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15011290/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            29
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42932011",
+    "doi": "10.1007/s10142-026-02098-2",
+    "title": "Integrated bulk and single-cell transcriptomics with virtual knockout analysis identifies FOS as an epithelial-associated candidate gene in chronic atrophic gastritis."
+  },
+  "content": {
+    "abstract": "Chronic atrophic gastritis (CAG) is a precancerous lesion characterized by epithelial injury, glandular atrophy, and impaired gastric function. Molecular targets linking epithelial alterations with potential traditional Chinese medicine-derived compounds remain unclear. GEO bulk transcriptomic datasets were analyzed to identify differentially expressed genes (DEGs), which were intersected with CAG-related genes for enrichment analysis. Protein-protein interaction (PPI) network analysis and reverse network pharmacology were used to identify key targets and construct a drug-component-target network. Single-cell RNA sequencing, virtual knockout, molecular docking, CCK-8 assay, and RT-qPCR in 1‑Methyl‑3‑nitro‑1‑nitrosoguanidine (MNNG)-treated GES-1 cells were then integrated to prioritize and evaluate FOS. A total of 502 DEGs and 54 intersected CAG-related genes were identified, with enrichment in wound healing, epithelial junction organization, tight junctions, cAMP signaling, gastric cancer, and digestive or secretory pathways. Five key genes-APOA1, CFTR, FOS, HMOX1, and VIM-were identified, all with AUCs above 0.80. Among 21,679 single cells, FOS was the only key gene predominantly enriched in gastric epithelial cells. Virtual knockout predicted associations between FOS-network perturbation and five genes involved in hormone processing and gastric secretory pathways. Docking generated candidate fisetin-FOS and kaempferol-FOS poses for preliminary compound prioritization. MNNG reduced GES-1 cell viability and significantly increased FOS mRNA expression. Integrated computational analyses highlighted FOS as an epithelial-associated candidate gene in CAG and suggested exploratory associations with gastric secretory pathways. These findings support further functional and compound-intervention studies of the FOS/AP-1 axis.",
+    "keywords": [
+      "Chronic atrophic gastritis",
+      "Reverse network pharmacology",
+      "ScTenifoldKnk",
+      "Single-cell RNA sequencing",
+      "Virtual knockout"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Gastritis, Atrophic/genetics/metabolism/pathology",
+      "*Proto-Oncogene Proteins c-fos/genetics/metabolism",
+      "Protein Interaction Maps",
+      "*Transcriptome",
+      "Single-Cell Analysis",
+      "Single-Cell Gene Expression Analysis",
+      "Methylnitronitrosoguanidine/pharmacology",
+      "Gene Regulatory Networks",
+      "Epithelial Cells/metabolism/drug effects",
+      "Cell Line"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Shilong",
+        "Duan, Huiqiang",
+        "Liu, Xin",
+        "Shan, Meihua",
+        "Shen, Zexuan",
+        "Wu, Mingze",
+        "Wang, Peiyao",
+        "Yao, Qianze",
+        "Fu, Weihua"
+      ],
+      "short_names": [
+        "Li S",
+        "Duan H",
+        "Liu X",
+        "Shan M",
+        "Shen Z",
+        "Wu M",
+        "Wang P",
+        "Yao Q",
+        "Fu W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+        "Tianjin General Surgery Institute, Tianjin, China.",
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+        "Tianjin General Surgery Institute, Tianjin, China.",
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+        "Tianjin General Surgery Institute, Tianjin, China.",
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+        "Tianjin General Surgery Institute, Tianjin, China.",
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+        "Tianjin General Surgery Institute, Tianjin, China.",
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+        "Tianjin General Surgery Institute, Tianjin, China.",
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+        "Tianjin General Surgery Institute, Tianjin, China.",
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+        "Tianjin General Surgery Institute, Tianjin, China.",
+        "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China. tjmughgs_fwh@163.com.",
+        "Tianjin General Surgery Institute, Tianjin, China. tjmughgs_fwh@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Shilong",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+          "Tianjin General Surgery Institute, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Huiqiang",
+        "short_name": "Duan H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+          "Tianjin General Surgery Institute, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xin",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+          "Tianjin General Surgery Institute, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Shan, Meihua",
+        "short_name": "Shan M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+          "Tianjin General Surgery Institute, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Zexuan",
+        "short_name": "Shen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+          "Tianjin General Surgery Institute, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Mingze",
+        "short_name": "Wu M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+          "Tianjin General Surgery Institute, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Peiyao",
+        "short_name": "Wang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+          "Tianjin General Surgery Institute, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Qianze",
+        "short_name": "Yao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China.",
+          "Tianjin General Surgery Institute, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Weihua",
+        "short_name": "Fu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Tianjin Medical University General Hospital, 154 Anshan Road, Heping District, Tianjin, 300052, China. tjmughgs_fwh@163.com.",
+          "Tianjin General Surgery Institute, Tianjin, China. tjmughgs_fwh@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Functional & integrative genomics"
+    ],
+    "journal_abbrev": [
+      "Funct Integr Genomics"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 17:31",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42932011"
+    ],
+    "review": [
+      "42932011"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s10142-026-02098-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-297",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

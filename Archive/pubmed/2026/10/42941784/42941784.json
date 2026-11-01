@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42941784",
+    "doi": "10.3390/ijms27209009",
+    "title": "Pyrazolate-Bridged PdCo and PdCu Complexes as Dual DNA-Binding and ROS-Driven Cytotoxic Agents."
+  },
+  "content": {
+    "abstract": "Heterometallic complexes offer a promising anticancer strategy owing to their simultaneous action on multiple biological targets. In this work, we report the synthesis and evaluation of the antitumor potential of two heterometallic pyrazolate-bridged complexes, [PdCo(phen)(micro-dmpz)(2)(OOCMe)(2)] (PdCo) and [PdCu(phen)(micro-dmpz)(2)(OOCMe)(2)] (PdCu) (phen = 1,10-phenanthroline, dmpz = 3,5-dimethylpyrazole). The complexes were comprehensively characterized using a combined spectroscopic and analytical approach, including single-crystal X-ray diffraction (SC-XRD), PXRD, FTIR, UV-Vis, and mass spectrometry, confirming their structural integrity in both solid state and solution. Their cytotoxicity was assessed in vitro against colon, A549 lung, and breast cancer cell lines, as well as normal human dermal fibroblasts. The complexes exhibited micromolar IC(50) values with selectivity indices up to 7. Using circular dichroism (CD) and fluorescence spectroscopy, it was demonstrated that PdCo binds to DNA, with minor groove binding (K(d) = 7.6 muM) being the preferred mode of interaction, dominating over intercalation (K(d) = 26.1 muM). Molecular docking simulations confirmed that the dissociated [Pd(phen)(micro-dmpz)(2)] fragment is capable of binding to DNA. Furthermore, chemiluminescence assays revealed pronounced peroxidase-like and superoxide dismutase-like activities of PdCu and PdCo, implicating ROS-mediated oxidative stress as a second, complementary cytotoxic pathway. Collectively, these findings highlight the dual-action mechanism of the synthesized complexes, combining DNA targeting with ROS-mediated oxidative damage, positioning them as highly potent candidates for further anticancer development.",
+    "keywords": [
+      "ROS",
+      "anticancer activity",
+      "crystal structure",
+      "docking",
+      "heterometallic compounds",
+      "palladium(II)"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Reactive Oxygen Species/metabolism",
+      "*DNA/metabolism/chemistry",
+      "*Antineoplastic Agents/pharmacology/chemistry",
+      "*Palladium/chemistry",
+      "*Copper/chemistry",
+      "*Coordination Complexes/pharmacology/chemistry/chemical synthesis",
+      "*Pyrazoles/chemistry/pharmacology",
+      "Cell Line, Tumor",
+      "*Cytotoxins/pharmacology/chemistry",
+      "Phenanthrolines/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Uvarova, Marina A",
+        "Kulikova, Vitalia V",
+        "Kozmenko, Yaroslav V",
+        "Revtovich, Svetlana V",
+        "Filippova, Arina D",
+        "Shmelev, Maxim A",
+        "Sokolova, Darina V",
+        "Pokrovsky, Vadim S",
+        "Kaverina, Alexandra P",
+        "Solyev, Pavel N",
+        "Eremenko, Igor L"
+      ],
+      "short_names": [
+        "Uvarova MA",
+        "Kulikova VV",
+        "Kozmenko YV",
+        "Revtovich SV",
+        "Filippova AD",
+        "Shmelev MA",
+        "Sokolova DV",
+        "Pokrovsky VS",
+        "Kaverina AP",
+        "Solyev PN",
+        "Eremenko IL"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4617-8966",
+        "ORCID: 0000-0003-0618-1407",
+        "ORCID: 0009-0004-3563-6612",
+        "ORCID: 0000-0003-1594-9334",
+        "ORCID: 0000-0002-2725-8891",
+        "ORCID: 0000-0002-7345-6856",
+        "ORCID: 0000-0003-3972-2425",
+        "ORCID: 0000-0003-4006-9320",
+        "ORCID: 0000-0002-5546-4975",
+        "ORCID: 0000-0001-6861-1404"
+      ],
+      "affiliations": [
+        "Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, Leninsky Prosp. 31, GSP-1, 119991 Moscow, Russia.",
+        "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia.",
+        "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia.",
+        "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia.",
+        "Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, Leninsky Prosp. 31, GSP-1, 119991 Moscow, Russia.",
+        "Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, Leninsky Prosp. 31, GSP-1, 119991 Moscow, Russia.",
+        "N.N. Blokhin National Medical Research Center of Oncology, Kashirskoe Shosse 23, 115522 Moscow, Russia.",
+        "N.N. Blokhin National Medical Research Center of Oncology, Kashirskoe Shosse 23, 115522 Moscow, Russia.",
+        "Peoples' Friendship University of Russia, Miklukho-Maklaya 6, 117198 Moscow, Russia.",
+        "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia.",
+        "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia.",
+        "Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, Leninsky Prosp. 31, GSP-1, 119991 Moscow, Russia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Uvarova, Marina A",
+        "short_name": "Uvarova MA",
+        "identifiers": [
+          "0000-0003-4617-8966"
+        ],
+        "affiliations": [
+          "Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, Leninsky Prosp. 31, GSP-1, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Kulikova, Vitalia V",
+        "short_name": "Kulikova VV",
+        "identifiers": [
+          "0000-0003-0618-1407"
+        ],
+        "affiliations": [
+          "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Kozmenko, Yaroslav V",
+        "short_name": "Kozmenko YV",
+        "identifiers": [
+          "0009-0004-3563-6612"
+        ],
+        "affiliations": [
+          "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Revtovich, Svetlana V",
+        "short_name": "Revtovich SV",
+        "identifiers": [
+          "0000-0003-1594-9334"
+        ],
+        "affiliations": [
+          "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Filippova, Arina D",
+        "short_name": "Filippova AD",
+        "identifiers": [
+          "0000-0002-2725-8891"
+        ],
+        "affiliations": [
+          "Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, Leninsky Prosp. 31, GSP-1, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Shmelev, Maxim A",
+        "short_name": "Shmelev MA",
+        "identifiers": [
+          "0000-0002-7345-6856"
+        ],
+        "affiliations": [
+          "Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, Leninsky Prosp. 31, GSP-1, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Sokolova, Darina V",
+        "short_name": "Sokolova DV",
+        "identifiers": [
+          "0000-0003-3972-2425"
+        ],
+        "affiliations": [
+          "N.N. Blokhin National Medical Research Center of Oncology, Kashirskoe Shosse 23, 115522 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Pokrovsky, Vadim S",
+        "short_name": "Pokrovsky VS",
+        "identifiers": [
+          "0000-0003-4006-9320"
+        ],
+        "affiliations": [
+          "N.N. Blokhin National Medical Research Center of Oncology, Kashirskoe Shosse 23, 115522 Moscow, Russia.",
+          "Peoples' Friendship University of Russia, Miklukho-Maklaya 6, 117198 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Kaverina, Alexandra P",
+        "short_name": "Kaverina AP",
+        "identifiers": [],
+        "affiliations": [
+          "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Solyev, Pavel N",
+        "short_name": "Solyev PN",
+        "identifiers": [
+          "0000-0002-5546-4975"
+        ],
+        "affiliations": [
+          "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Vavilova Str., 32, 119991 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Eremenko, Igor L",
+        "short_name": "Eremenko IL",
+        "identifiers": [
+          "0000-0001-6861-1404"
+        ],
+        "affiliations": [
+          "Kurnakov Institute of General and Inorganic Chemistry, Russian Academy of Sciences, Leninsky Prosp. 31, GSP-1, 119991 Moscow, Russia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42941784"
+    ],
+    "review": [
+      "42941784"
+    ],
+    "pmc": [
+      "13704585"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27209009",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42941784/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

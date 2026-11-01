@@ -1,0 +1,131 @@
+{
+  "identity": {
+    "pmid": "42929553",
+    "doi": "10.1021/acs.jcim.6c01817",
+    "title": "Decoding Conformational Dynamics and Hyperactivity of Histone H3K36 N-Methyltransferase in Oncogenic Mutations via tICA and Markov State Modeling."
+  },
+  "content": {
+    "abstract": "NSD2 is a histone methyltransferase that modifies lysine 36 in histone H3 (H3K36), playing a central role in chromatin organization and transcriptional regulation. Oncogenic mutations, such as E1099K and T1150A in NSD2, have been associated with hyperactive methylation, but the molecular mechanisms underlying this gain of function remain poorly understood. In this study, we performed all-atom molecular dynamics simulations of NSD2 bound to the nucleosome in wild type (WT), E1099K, T1150A, and the E1099K/T1150A double mutant. Analysis of MD simulations reveals that the global dynamics of the enzymes remain unaltered upon mutations. The time-lagged independent component analysis and Markov state modeling uncovered fundamental differences in free-energy landscapes among the variants. The WT NSD2 exhibited energetically and kinetically unfavorable transitions between the macrostates along with extended enzyme-substrate distances. On the other hand, the mutant systems demonstrate reduced SAM-H3K36 distances with modified energy landscapes that facilitate transitions or favor prolonged occupancy of catalytically competent states. Importantly, the mutations reorganize the network of intramolecular contacts around the catalytic site, SAM-binding pocket, and histone-binding interface, optimizing substance engagement geometry. These findings are consistent with experimental observations of enhanced catalytic activity and suggest that oncogenic mutations promote hyperactivity through strategic reorganization of conformational dynamics rather than simple destabilization, balancing local flexibility with global stability to enhance catalytic efficiency. Our results provide mechanistic insights into NSD2 dysregulation in cancer and establish a framework to develop novel therapeutics that target the enzyme's dynamic landscape.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Histone-Lysine N-Methyltransferase/chemistry/genetics/metabolism",
+      "*Mutation",
+      "*Markov Chains",
+      "Protein Conformation",
+      "Histones/metabolism",
+      "Humans",
+      "*Repressor Proteins/chemistry/genetics/metabolism",
+      "Nucleosomes/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shah, Tejas",
+        "Heidari, Sahar",
+        "Rydzewski, Jakub",
+        "Torabifard, Hedieh"
+      ],
+      "short_names": [
+        "Shah T",
+        "Heidari S",
+        "Rydzewski J",
+        "Torabifard H"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0125-3774",
+        "ORCID: 0000-0003-4325-4177",
+        "ORCID: 0000-0003-0687-6858"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Biochemistry, The University of Texas at Dallas, Richardson, Texas75080, United States.",
+        "Department of Chemistry and Biochemistry, The University of Texas at Dallas, Richardson, Texas75080, United States.",
+        "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudziadzka 5, 87-100Torun, Poland.",
+        "Department of Chemistry and Biochemistry, The University of Texas at Dallas, Richardson, Texas75080, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shah, Tejas",
+        "short_name": "Shah T",
+        "identifiers": [
+          "0000-0003-0125-3774"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, The University of Texas at Dallas, Richardson, Texas75080, United States."
+        ]
+      },
+      {
+        "full_name": "Heidari, Sahar",
+        "short_name": "Heidari S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, The University of Texas at Dallas, Richardson, Texas75080, United States."
+        ]
+      },
+      {
+        "full_name": "Rydzewski, Jakub",
+        "short_name": "Rydzewski J",
+        "identifiers": [
+          "0000-0003-4325-4177"
+        ],
+        "affiliations": [
+          "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudziadzka 5, 87-100Toruń, Poland."
+        ]
+      },
+      {
+        "full_name": "Torabifard, Hedieh",
+        "short_name": "Torabifard H",
+        "identifiers": [
+          "0000-0003-0687-6858"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, The University of Texas at Dallas, Richardson, Texas75080, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 11:29",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42929553"
+    ],
+    "review": [
+      "42929553"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01817",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

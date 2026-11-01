@@ -1,0 +1,162 @@
+{
+  "identity": {
+    "pmid": "42929831",
+    "doi": "10.3390/cells15201859",
+    "title": "Transcriptional Regulation of the Meiotic Cohesin Subunit RAD21L by Methylation of Two CpG Islands in Its Promoter and Characterization of Its Interactions with Histones."
+  },
+  "content": {
+    "abstract": "The meiosis-specific cohesin alpha-kleisin subunits REC8 and RAD21L regulate higher-order chromatin organization and germline-specific transcription in male germ cells. Rad21l exhibits high, testis-specific expression in mice, but the epigenetic mechanisms governing its promoter activity and those underlying its chromatin targeting and anchoring remain unclear. To address these questions, we investigated Rad21l using dual-luciferase reporter assays, in vitro methylation, bisulfite sequencing, molecular docking, transcriptome sequencing, and co-immunoprecipitation. We identified a distal regulatory region and mapped the core promoter of Rad21l to the -228 to -3 bp region. We further demonstrated that methylation of the promoter CpG islands represses its transcription. Molecular docking simulations suggested that KLF4 could bind a promoter sequence containing CpG5 and that methylation would not disrupt this interaction. Methylation was hypothesized to induce conformational remodeling of KLF4, shift its ability to recruit cofactors, and thereby enable bidirectional transcriptional regulation. Co-immunoprecipitation confirmed the co-occurrence of alpha-kleisin proteins with the meiosis-specific histone H1t and histone H3, detected modified H3 forms including H3K9me1 and H3S10phos, and showed their association with HP1beta. Histone modifications may regulate interaction affinity through long-range allosteric effects. This study proposes a working model for tissue-specific transcriptional regulation of Rad21l involving CpG methylation and KLF4 and establishes a hypothetical model of histone-dependent RAD21L chromatin anchoring, providing a basis for investigating male meiosis and identifying infertility-related targets.",
+    "keywords": [
+      "DNA methylation",
+      "RAD21L",
+      "chromatin anchoring",
+      "cohesin",
+      "histone modifications",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [
+      "*Histones/metabolism",
+      "Kruppel-Like Factor 4",
+      "*Promoter Regions, Genetic/genetics",
+      "Animals",
+      "*CpG Islands/genetics",
+      "*Cell Cycle Proteins/metabolism/genetics",
+      "*Meiosis/genetics",
+      "*Chromosomal Proteins, Non-Histone/metabolism/genetics",
+      "*DNA Methylation/genetics",
+      "Male",
+      "Mice",
+      "Cohesins",
+      "*Transcription, Genetic",
+      "Protein Binding",
+      "*Gene Expression Regulation",
+      "Molecular Docking Simulation",
+      "*Nuclear Proteins/genetics/metabolism",
+      "Humans",
+      "Kruppel-Like Transcription Factors/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dalai, Wuyun",
+        "Saeki, Keiichi",
+        "Jiya, Wuen",
+        "Jin, Xin",
+        "Rong, Mei"
+      ],
+      "short_names": [
+        "Dalai W",
+        "Saeki K",
+        "Jiya W",
+        "Jin X",
+        "Rong M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Life Science and Technology, Inner Mongolia Normal University, Hohhot 010022, China.",
+        "Key Laboratory of Biodiversity Conservation and Sustainable Utilization in Mongolian Plateau for College and University of Inner Mongolia Autonomous Region, Hohhot 010022, China.",
+        "Laboratory of Microbiology and Immunology, Graduate School of Agricultural Science, Kobe University, 1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan.",
+        "College of Life Science and Technology, Inner Mongolia Normal University, Hohhot 010022, China.",
+        "College of Life Science and Technology, Inner Mongolia Normal University, Hohhot 010022, China.",
+        "College of Life Science and Technology, Inner Mongolia Normal University, Hohhot 010022, China.",
+        "Key Laboratory of Biodiversity Conservation and Sustainable Utilization in Mongolian Plateau for College and University of Inner Mongolia Autonomous Region, Hohhot 010022, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dalai, Wuyun",
+        "short_name": "Dalai W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science and Technology, Inner Mongolia Normal University, Hohhot 010022, China.",
+          "Key Laboratory of Biodiversity Conservation and Sustainable Utilization in Mongolian Plateau for College and University of Inner Mongolia Autonomous Region, Hohhot 010022, China."
+        ]
+      },
+      {
+        "full_name": "Saeki, Keiichi",
+        "short_name": "Saeki K",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Microbiology and Immunology, Graduate School of Agricultural Science, Kobe University, 1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan."
+        ]
+      },
+      {
+        "full_name": "Jiya, Wuen",
+        "short_name": "Jiya W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science and Technology, Inner Mongolia Normal University, Hohhot 010022, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Xin",
+        "short_name": "Jin X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science and Technology, Inner Mongolia Normal University, Hohhot 010022, China."
+        ]
+      },
+      {
+        "full_name": "Rong, Mei",
+        "short_name": "Rong M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science and Technology, Inner Mongolia Normal University, Hohhot 010022, China.",
+          "Key Laboratory of Biodiversity Conservation and Sustainable Utilization in Mongolian Plateau for College and University of Inner Mongolia Autonomous Region, Hohhot 010022, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cells"
+    ],
+    "journal_abbrev": [
+      "Cells"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 11:29",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42929831"
+    ],
+    "review": [
+      "42929831"
+    ],
+    "pmc": [
+      "13703583"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cells15201859",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42929831/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "identity": {
+    "pmid": "42943819",
+    "doi": "10.3390/molecules31203750",
+    "title": "Butein Interacts at the Minor Groove of DNA: Multi-Spectroscopic, Thermodynamic, and Bioinformatic Analyses."
+  },
+  "content": {
+    "abstract": "DNA is an important therapeutic target, and characterizing its interactions with small molecules can inform drug development. Butein is a chalcone with reported antioxidant, anti-inflammatory, and anticancer activities. This study investigated the interaction between butein and calf thymus DNA using spectroscopic and computational methods. UV-visible absorption and fluorescence quenching measurements supported complex formation. Fluorescence-derived binding constants ranged from 4.04 x 10(3) to 5.62 x 10(3) M(-1), indicating weak to moderate binding affinity. Thermodynamic analysis indicated spontaneous binding that was both enthalpically and entropically favourable. DNA melting, urea disruption, viscosity, and competitive displacement assays supported a predominantly minor-groove binding mode. Molecular docking identified hydrogen bonds and van der Waals contacts between butein and DNA. Molecular dynamics simulations suggested that the complex remained stable over 250 ns at 310 K, with limited changes in DNA structure and dynamic hydrogen bonding. These findings characterize the interaction between butein and DNA and provide a basis for further investigation of its biological significance.",
+    "keywords": [
+      "DNA",
+      "butein",
+      "drug-DNA binding",
+      "molecular simulation",
+      "spectroscopy"
+    ],
+    "mesh_terms": [
+      "*DNA/chemistry",
+      "Thermodynamics",
+      "*Chalcones/chemistry",
+      "Molecular Docking Simulation",
+      "Molecular Dynamics Simulation",
+      "Hydrogen Bonding",
+      "Nucleic Acid Conformation",
+      "*Computational Biology",
+      "Cattle",
+      "Animals",
+      "Spectrometry, Fluorescence",
+      "Spectrum Analysis",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alrehaili, Jihad",
+        "Anwer, Razique"
+      ],
+      "short_names": [
+        "Alrehaili J",
+        "Anwer R"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5214-3204",
+        "ORCID: 0000-0002-9223-1951"
+      ],
+      "affiliations": [
+        "Department of Pathology, College of Medicine, Imam Mohammad ibn Saud Islamic University (IMSIU), Riyadh 4233-13317, Saudi Arabia.",
+        "Department of Pathology, College of Medicine, Imam Mohammad ibn Saud Islamic University (IMSIU), Riyadh 4233-13317, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Alrehaili, Jihad",
+        "short_name": "Alrehaili J",
+        "identifiers": [
+          "0000-0001-5214-3204"
+        ],
+        "affiliations": [
+          "Department of Pathology, College of Medicine, Imam Mohammad ibn Saud Islamic University (IMSIU), Riyadh 4233-13317, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Anwer, Razique",
+        "short_name": "Anwer R",
+        "identifiers": [
+          "0000-0002-9223-1951"
+        ],
+        "affiliations": [
+          "Department of Pathology, College of Medicine, Imam Mohammad ibn Saud Islamic University (IMSIU), Riyadh 4233-13317, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Oct 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42943819"
+    ],
+    "review": [
+      "42943819"
+    ],
+    "pmc": [
+      "13707773"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=molecules31203750",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42943819/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

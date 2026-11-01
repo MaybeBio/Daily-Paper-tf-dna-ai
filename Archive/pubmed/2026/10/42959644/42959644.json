@@ -1,0 +1,104 @@
+{
+  "identity": {
+    "pmid": "42959644",
+    "doi": "10.3389/fendo.2026.1871527",
+    "title": "Towards precision medicine in diabetes: pharmacogenomic approaches for MODY and type 2 diabetes with insights from GLIS3 gene variants."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Diabetes mellitus encompasses a heterogeneous group of metabolic disorders with a significant genetic basis that current standardized treatment protocols fail to adequately address. Type 2 diabetes in particular is driven by genetic factors that operate independently of lifestyle, with a substantial proportion of patients in South Asian populations developing the disease despite normal body weight and healthy habits. India presents a uniquely important context for pharmacogenomic research given its extraordinary population stratification across tribal, linguistic, religious, and geographic groups creating a genetic landscape that Western genomic data cannot adequately represent. OBJECTIVE: This review evaluates pharmacogenomic evidence across monogenic and polygenic diabetes subtypes, presents Indian clinical case studies demonstrating the consequences of genomic misclassification, and positions GLIS3 as an underexplored regulatory gene with cross-disease relevance spanning neonatal diabetes, Type 1, and Type 2 diabetes. It further examines the potential for expanded clinical implementation of genotype-guided therapy, particularly in genetically diverse populations. KEY INSIGHTS: GLIS3 encodes a zinc finger transcription factor that governs beta-cell development, insulin gene transcription, and endoplasmic reticulum stress protection by functioning as a master regulator of beta-cell survival rather than acting through a single pathway. Its association across multiple diabetes subtypes, combined with emerging evidence of population-specific variants in Indian cohorts, positions it as a compelling future pharmacogenomic target. However, no GLIS3-directed clinical testing or therapy is currently available, and its pharmacogenomic utility remains hypothetical pending prospective validation. Indian pharmacogenomic data further reveal 76 known variants affecting antidiabetic drug response, with higher frequencies of poor metformin response alleles compared to global population findings with immediate clinical implications for one of the world's highest diabetes-burden nations. CONCLUSION: Realizing the potential of precision medicine in diabetes requires population-specific genomic research, integration of pharmacogenomic testing into national health schemes such as Ayushman Bharat, development of AI-driven clinical decision tools, and policy frameworks guided by bodies such as ICMR. Genotype-guided therapy represents an emerging clinical priority with the potential to improve outcomes in genetically diverse populations where standardized protocols may be suboptimal.",
+    "keywords": [
+      "GLIS3",
+      "Indian population",
+      "artificial intelligence in diabetes prediction",
+      "health equity and well being",
+      "maturity-onset diabetes of the young",
+      "pharmacogenomics",
+      "precision medicine",
+      "type 2 diabetes"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Diabetes Mellitus, Type 2/genetics/drug therapy",
+      "*Precision Medicine/methods",
+      "*Pharmacogenetics/methods",
+      "*DNA-Binding Proteins/genetics",
+      "Hypoglycemic Agents/therapeutic use",
+      "India",
+      "Repressor Proteins",
+      "Trans-Activators"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lenin, Abhisheka",
+        "Sajini Rajayan, Jasmin"
+      ],
+      "short_names": [
+        "Lenin A",
+        "Sajini Rajayan J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Sri Ramachandra Faculty of Pharmacy, Sri Ramachandra Institute of Higher Education and Research, Chennai, India.",
+        "Sri Ramachandra Faculty of Pharmacy, Sri Ramachandra Institute of Higher Education and Research, Chennai, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lenin, Abhisheka",
+        "short_name": "Lenin A",
+        "identifiers": [],
+        "affiliations": [
+          "Sri Ramachandra Faculty of Pharmacy, Sri Ramachandra Institute of Higher Education and Research, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Sajini Rajayan, Jasmin",
+        "short_name": "Sajini Rajayan J",
+        "identifiers": [],
+        "affiliations": [
+          "Sri Ramachandra Faculty of Pharmacy, Sri Ramachandra Institute of Higher Education and Research, Chennai, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in endocrinology"
+    ],
+    "journal_abbrev": [
+      "Front Endocrinol (Lausanne)"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 11:41",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42959644"
+    ],
+    "review": [
+      "42959644"
+    ],
+    "pmc": [
+      "13717436"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

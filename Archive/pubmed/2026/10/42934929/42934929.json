@@ -1,0 +1,166 @@
+{
+  "identity": {
+    "pmid": "42934929",
+    "doi": "10.18926/AMO/71341",
+    "title": "Radiogenomic Analysis of Contrast-Enhanced MRI for Predicting Pathogenic BRCA Variants in Ovarian Cancer."
+  },
+  "content": {
+    "abstract": "This study evaluated the feasibility of predicting pathogenic BRCA1/2 variants in ovarian cancer using radiogenomic analysis of contrast-enhanced MRI. Twenty six patients were analyzed, including 14 with pathogenic BRCA1/2 variants and 12 without. Contrast enhanced MRI was used to generate two dimensional (2D) and three dimensional (3D) tumor segmentations. Radiomic features extracted with PyRadiomics were reduced using least absolute shrinkage and selection operator (LASSO) regression, yielding two selected features. Linear discriminant analysis (LDA) models were trained on 18 patients and tested on 8, with performance assessed using sensitivity, specificity, accuracy, and the area under the receiver operating characteristic (ROC) curve. The DeLong test compared AUCs between segmentation methods. Automated machine learning (AutoML) was performed with a training set of 20 patients and a test set of 6, with multiple performance metrics calculated. LDA achieved approximately 60% accuracy in both 2D and 3D test datasets. AUCs were 0.80 (3D) and 0.77 (2D), with no significant difference (p=0.85). AutoML identified CatBoost_BAG_L2_FULL as the optimal model, achieving accuracy above 80%. MRI-based radiogenomic analysis demonstrated moderate classification performance for identifying pathogenic BRCA1/2 variants in ovarian cancer. These preliminary findings suggest a potential role for noninvasive prediction, warranting further validation in larger cohorts.",
+    "keywords": [
+      "BRCA1/2",
+      "MRI",
+      "machine learning",
+      "ovarian cancer",
+      "radiogenomics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "*Ovarian Neoplasms/genetics/diagnostic imaging",
+      "*Magnetic Resonance Imaging/methods",
+      "Middle Aged",
+      "*BRCA1 Protein/genetics",
+      "Radiomics",
+      "Machine Learning",
+      "*BRCA2 Protein/genetics",
+      "Contrast Media",
+      "Aged",
+      "Adult"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saito, Hayato",
+        "Fukui, Ryohei",
+        "Sugihara, Hanako",
+        "Tada, Akihiro",
+        "Nagao, Shoji",
+        "Iguchi, Toshihiro"
+      ],
+      "short_names": [
+        "Saito H",
+        "Fukui R",
+        "Sugihara H",
+        "Tada A",
+        "Nagao S",
+        "Iguchi T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Radiological Technology, Graduate School of Health Sciences, Okayama University.",
+        "Department of Radiological Technology, Faculty of Health Sciences, Okayama University.",
+        "Department of Obstetrics and Gynecology, Okayama University.",
+        "Okayama Diagnostic Imaging Center.",
+        "Department of Obstetrics and Gynecology, Okayama University.",
+        "Department of Radiological Technology, Faculty of Health Sciences, Okayama University."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saito, Hayato",
+        "short_name": "Saito H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiological Technology, Graduate School of Health Sciences, Okayama University."
+        ]
+      },
+      {
+        "full_name": "Fukui, Ryohei",
+        "short_name": "Fukui R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiological Technology, Faculty of Health Sciences, Okayama University."
+        ]
+      },
+      {
+        "full_name": "Sugihara, Hanako",
+        "short_name": "Sugihara H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Okayama University."
+        ]
+      },
+      {
+        "full_name": "Tada, Akihiro",
+        "short_name": "Tada A",
+        "identifiers": [],
+        "affiliations": [
+          "Okayama Diagnostic Imaging Center."
+        ]
+      },
+      {
+        "full_name": "Nagao, Shoji",
+        "short_name": "Nagao S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Okayama University."
+        ]
+      },
+      {
+        "full_name": "Iguchi, Toshihiro",
+        "short_name": "Iguchi T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiological Technology, Faculty of Health Sciences, Okayama University."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Acta medica Okayama"
+    ],
+    "journal_abbrev": [
+      "Acta Med Okayama"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 05:29",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42934929"
+    ],
+    "review": [
+      "42934929"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/ovariancancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Ovarian Cancer"
+      },
+      {
+        "url": "https://doi.org/10.18926/AMO/71341",
+        "provider": "Okayama University Medical School",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-916",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

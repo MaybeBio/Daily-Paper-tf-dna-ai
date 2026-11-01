@@ -1,0 +1,201 @@
+{
+  "identity": {
+    "pmid": "42956506",
+    "doi": "10.1016/j.compbiolchem.2026.109504",
+    "title": "Computational prioritization and molecular dynamics analysis of FOXA2 missense variants with potential relevance to colorectal cancer."
+  },
+  "content": {
+    "abstract": "The pioneer transcription factor FOXA2 controls developmental gene programmes, metabolic homeostasis and epithelial-mesenchymal plasticity, and its expression dysregulation is a recognized feature of colorectal cancer. The structural and thermodynamic consequences of FOXA2 missense variants remain poorly defined. We interrogated 659 missense SNPs across the human FOXA2 locus within an integrated multi-algorithm framework. Sequential filtering with SIFT, PolyPhen-2, PhD-SNP and SNPs&GO converged on three high-confidence deleterious variants (M190I, R197Q and L402P), which were profiled further with ConSurf, I-Mutant 2.0, MUpro, MutPred2 and DynaMut2. Conservation and structural mapping placed M190I (ConSurf-8) and R197Q (ConSurf-9) in the winged-helix DNA-binding domain (PF00250) and L402P (ConSurf-5) in the HNF_C domain (PF09354). R197Q is solvent-exposed and predicted to perturb promoter DNA contacts, whereas the buried M190I and L402P substitutions are predicted to act through local destabilization at the substitution site. In three independent 50-ns molecular dynamics replicates per system, all variants deviated from wild-type backbone behavior. M190I converged prematurely into a displaced conformational state, whereas R197Q and L402P continued to drift late in the trajectories. Backbone fluctuations increased non-locally, clustering in flexible regulatory segments (~290-316) and the C-terminal transactivation domain 2 (452-456). Principal component analysis indicated a more concentrated collective-mode structure in the mutants, and dynamic cross-correlation analysis weakened residue coupling, consistent with disrupted long-range communication. Of twelve trajectory-level comparisons, only the R197Q hydrogen-bond reduction reached nominal significance (p = 0.025, Hedges' g = -2.28), indicating a large reduction in average hydrogen-bond count relative to wild-type; the remaining eleven comparisons showed non-significant moderate-to-large effects. Expression enrichment was highest in colorectal cancer cell lines, providing expression-level context for FOXA2 in CRC biology. These findings computationally prioritize M190I, R197Q and L402P as candidates for experimental validation.",
+    "keywords": [
+      "FOXA2",
+      "Missense SNPs",
+      "Molecular dynamics simulation",
+      "Pathogenicity prediction",
+      "Structural and functional analysis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mia, Md Sohel",
+        "Talukder, Md Enamul Kabir",
+        "Tanmoy, Md Shahed Imam",
+        "Raisa, Israt Jahan",
+        "Datta, Bimal Kumar",
+        "Shadhin, Md Saklain Tanver",
+        "Tahsin, Nowmee",
+        "Imon, Raihan Rahman",
+        "Aktaruzzaman, Md",
+        "Zargar, Seema",
+        "Wani, Tanveer A"
+      ],
+      "short_names": [
+        "Mia MS",
+        "Talukder MEK",
+        "Tanmoy MSI",
+        "Raisa IJ",
+        "Datta BK",
+        "Shadhin MST",
+        "Tahsin N",
+        "Imon RR",
+        "Aktaruzzaman M",
+        "Zargar S",
+        "Wani TA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh; Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh. Electronic address: soheldmc21@gmail.com.",
+        "Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh; Department of Genetic Engineering and Biotechnology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh; Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh.",
+        "Department of Mathematics, Shahjalal University of Science and Technology, Sylhet, 3114, Bangladesh.",
+        "Department of Mathematics and Statistics, Florida Atlantic University, Boca Raton, FL, 33431, United States.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh; Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh.",
+        "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh; Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh.",
+        "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China.",
+        "Department of Pharmacy, Jashore University of Science and Technology, Jashore, 7408, Bangladesh. Electronic address: aktaruzzaman.phar@gmail.com.",
+        "Department of Biochemistry, College of Science, King Saud University, Riyadh, 11495, Saudi Arabia.",
+        "Department of Pharmaceutical Chemistry, College of Pharmacy, King Saud University, Riyadh, 11451, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mia, Md Sohel",
+        "short_name": "Mia MS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh; Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh. Electronic address: soheldmc21@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Talukder, Md Enamul Kabir",
+        "short_name": "Talukder MEK",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh; Department of Genetic Engineering and Biotechnology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Tanmoy, Md Shahed Imam",
+        "short_name": "Tanmoy MSI",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh; Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Raisa, Israt Jahan",
+        "short_name": "Raisa IJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics, Shahjalal University of Science and Technology, Sylhet, 3114, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Datta, Bimal Kumar",
+        "short_name": "Datta BK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics and Statistics, Florida Atlantic University, Boca Raton, FL, 33431, United States."
+        ]
+      },
+      {
+        "full_name": "Shadhin, Md Saklain Tanver",
+        "short_name": "Shadhin MST",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh; Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Tahsin, Nowmee",
+        "short_name": "Tahsin N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Technology, Jashore University of Science and Technology, Jashore, 7408, Bangladesh; Laboratory of Computational Biology, Biological Solution Centre (BioSol Centre), Jashore, 7408, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Imon, Raihan Rahman",
+        "short_name": "Imon RR",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China."
+        ]
+      },
+      {
+        "full_name": "Aktaruzzaman, Md",
+        "short_name": "Aktaruzzaman M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Jashore University of Science and Technology, Jashore, 7408, Bangladesh. Electronic address: aktaruzzaman.phar@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Zargar, Seema",
+        "short_name": "Zargar S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, College of Science, King Saud University, Riyadh, 11495, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Wani, Tanveer A",
+        "short_name": "Wani TA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, College of Pharmacy, King Saud University, Riyadh, 11451, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 23:28",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42956506"
+    ],
+    "review": [
+      "42956506"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00631-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

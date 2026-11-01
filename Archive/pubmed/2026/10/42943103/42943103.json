@@ -1,0 +1,127 @@
+{
+  "identity": {
+    "pmid": "42943103",
+    "doi": "10.3390/plants15203151",
+    "title": "Developmental and Regulatory Framework of Shoot Branching in Plants."
+  },
+  "content": {
+    "abstract": "How do plants build a branch? Shoot branching is a fundamental determinant of plant architecture and is best understood as a dynamic developmental program governed by the coordinated action of multiple regulatory processes rather than by isolated pathways. Branch formation proceeds through a series of coordinated developmental transitions, from axillary meristem initiation and bud establishment to dormancy, activation, and sustained branch outgrowth, driven by interactions among phytohormones, transcription factors, environmental cues, and cellular processes. Here, we propose a developmental framework that integrates these successive stages and synthesize recent advances from both herbaceous and woody plants to illustrate how hormonal, transcriptional, and environmental signals coordinate branch development. We further highlight that these regulatory networks ultimately converge on fundamental cellular processes-including cell cycle progression, vascular differentiation, cell wall remodeling, and mechanical regulation-to execute branch formation. Finally, we discuss the evolutionary diversification of branching mechanisms and emerging technologies, including single-cell and spatial omics, comparative genomics, and artificial intelligence, that are advancing our understanding of shoot branching and accelerating the molecular design of plant architecture. This review provides an integrated framework for understanding how plants build branches and offers new perspectives for future research and crop improvement.",
+    "keywords": [
+      "axillary meristem",
+      "branch development",
+      "environmental signaling",
+      "molecular breeding",
+      "phytohormones",
+      "plant architecture",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yue, Linan",
+        "Liu, Shuo",
+        "Yu, Song"
+      ],
+      "short_names": [
+        "Yue L",
+        "Liu S",
+        "Yu S"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-2581-6960"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China.",
+        "The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China.",
+        "College of Landscape Architecture, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China.",
+        "The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yue, Linan",
+        "short_name": "Yue L",
+        "identifiers": [
+          "0009-0000-2581-6960"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China.",
+          "The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Shuo",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Landscape Architecture, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Song",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Forestry, Northeast Forestry University, Harbin 150040, China.",
+          "The Center for Basic Forestry Research, College of Forestry, Northeast Forestry University, Harbin 150040, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plants (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Plants (Basel)"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42943103"
+    ],
+    "review": [
+      "42943103"
+    ],
+    "pmc": [
+      "13708999"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=plants15203151",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42943103/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

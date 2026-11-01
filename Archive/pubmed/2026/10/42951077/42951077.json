@@ -1,0 +1,377 @@
+{
+  "identity": {
+    "pmid": "42951077",
+    "doi": "10.1016/j.jhepr.2026.102077",
+    "title": "Spatiotemporal Multi-Omics Reveals Primate-Specific Mechanisms of Liver Regeneration Following Partial Hepatectomy."
+  },
+  "content": {
+    "abstract": "BACKGROUND & AIMS: The liver is a vital metabolic organ with an extraordinary capacity for regeneration, making it a key focus for understanding tissue repair and developing therapeutic strategies for liver diseases. However, ethical limitations restrict liver regeneration research largely to rodents, leaving critical gaps in our understanding of primate-specific mechanisms. METHODS: We performed partial hepatectomy (PHx) using a novel laparoscopically assisted hepatic wedge resection (LAHWR) approach in two cynomolgus monkeys (Macaca fascicularis), one for mechanistic exploration and one for validation. Afterwards, we performed sequential sampling and applied integrative multi-omics approaches, including snRNA-Seq, snATAC-Seq, and spatial transcriptomics (Stereo-Seq), to systematically map cellular and molecular dynamics of primate liver regeneration. RESULTS: We successfully established two non-human primate models to study the spatiotemporal dynamics of liver regeneration following PHx. We generate a high-resolution map of cellular and molecular dynamics of primate liver regeneration. Our analysis identified a distinct hepatocyte subcluster with fetal liver-like transcriptional features and high regenerative activity emerging in the early stages post-PHx (18.83% in Day 3 vs. 0.48% in Day 0), which predominantly localizes in midlobular zone 2 (P < 0.0001). This subcluster was characterized by elevated expression of proliferation-associated genes and was regulated by key transcription factor POU2F1. Cross-species comparisons revealed that POU2F1 is a primate-specific regulator of liver regeneration, showing significant upregulation in primates (P < 0.01), but not in rodents. Importantly, POU2F1 expression was markedly upregulated in cirrhotic patients (2 for liver samples). CONCLUSION: Proliferative hepatocytes localize primarily to midlobular zone 2 during primate hepatectomy regeneration process. POU2F1 is a primate-specific regulator of liver regeneration, implying novel regulatory mechanisms and emphasizing species-specific features. IMPACT AND IMPLICATIONS: The specific mechanisms of liver regeneration in primates remain poorly understood. The hepatocyte population expressing POU2F1 is a hepatocyte cluster with high proliferative capacity, induced after PHx, mainly located in zone 2 of liver lobule. Comparative studies of liver regeneration across species indicate that POU2F1 is a specific regulator in the liver regeneration process of primates. The therapeutic targeting of POU2F1+ hepatocytes is of potential interest in human liver regeneration.",
+    "keywords": [
+      "Liver regeneration",
+      "Multi-omics sequencing",
+      "POU2F1",
+      "Partial hepatectomy",
+      "Primates"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Feng, Guihai",
+        "Wang, Xin",
+        "Li, Pengcheng",
+        "Wang, Yang",
+        "Wan, Haifeng",
+        "Dong, Kangning",
+        "Deng, Haohao",
+        "Zou, Yu",
+        "Hu, Yilong",
+        "Jiang, Shuyang",
+        "Zhang, Runxue",
+        "Li, Fan",
+        "Wang, Siqi",
+        "Ding, Yali",
+        "Wang, Shuai",
+        "Zhang, Jing",
+        "Chen, Xingming",
+        "Gao, Jiao",
+        "He, Feng",
+        "Liu, Xuelai",
+        "Zhang, Ying",
+        "Gao, Jie",
+        "Xu, Cheng-Ran",
+        "Zhang, Shihua",
+        "Zhou, Qi",
+        "Li, Xin",
+        "Li, Wei"
+      ],
+      "short_names": [
+        "Feng G",
+        "Wang X",
+        "Li P",
+        "Wang Y",
+        "Wan H",
+        "Dong K",
+        "Deng H",
+        "Zou Y",
+        "Hu Y",
+        "Jiang S",
+        "Zhang R",
+        "Li F",
+        "Wang S",
+        "Ding Y",
+        "Wang S",
+        "Zhang J",
+        "Chen X",
+        "Gao J",
+        "He F",
+        "Liu X",
+        "Zhang Y",
+        "Gao J",
+        "Xu CR",
+        "Zhang S",
+        "Zhou Q",
+        "Li X",
+        "Li W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China. Electronic address: fenggh@ioz.ac.cn.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; Medical School, University of Chinese Academy of Sciences, Beijing 100049, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; College of Life Sciences, Northeast Agricultural University, Harbin 150030, China.",
+        "Department of Hepatobiliary Surgery, Peking University People's Hospital, Beijing, 100044, China. Electronic address: richardwang@pku.edu.cn.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China.",
+        "NCMIS, CEMS, RCSDS, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing 100190, China.",
+        "BGI Research, Beijing 102601, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China; Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui, 230027, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China.",
+        "The Ninth Medical Center of Chinese PLA General Hospital, Beijing 100101, P. R. China.",
+        "The Ninth Medical Center of Chinese PLA General Hospital, Beijing 100101, P. R. China.",
+        "The Ninth Medical Center of Chinese PLA General Hospital, Beijing 100101, P. R. China.",
+        "Capital Institute of Pediatrics, Capital Center for Children's Health, Capital Medical University, Beijing 100020, China.",
+        "Capital Institute of Pediatrics, Capital Center for Children's Health, Capital Medical University, Beijing 100020, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China.",
+        "Department of Hepatobiliary Surgery, Peking University People's Hospital, Beijing, 100044, China.",
+        "State Key Laboratory of Female Fertility Promotion, Department of Medical Genetics, School of Basic Medical Sciences, Peking University, Beijing 100191, China.",
+        "NCMIS, CEMS, RCSDS, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing 100190, China. Electronic address: zsh@amss.ac.cn.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; Medical School, University of Chinese Academy of Sciences, Beijing 100049, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: zhouqi@ioz.ac.cn.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: xinli@ioz.ac.cn.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; Medical School, University of Chinese Academy of Sciences, Beijing 100049, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: liwei@ioz.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Feng, Guihai",
+        "short_name": "Feng G",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China. Electronic address: fenggh@ioz.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Xin",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; Medical School, University of Chinese Academy of Sciences, Beijing 100049, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Li, Pengcheng",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; College of Life Sciences, Northeast Agricultural University, Harbin 150030, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hepatobiliary Surgery, Peking University People's Hospital, Beijing, 100044, China. Electronic address: richardwang@pku.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wan, Haifeng",
+        "short_name": "Wan H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Kangning",
+        "short_name": "Dong K",
+        "identifiers": [],
+        "affiliations": [
+          "NCMIS, CEMS, RCSDS, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing 100190, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Haohao",
+        "short_name": "Deng H",
+        "identifiers": [],
+        "affiliations": [
+          "BGI Research, Beijing 102601, China."
+        ]
+      },
+      {
+        "full_name": "Zou, Yu",
+        "short_name": "Zou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Yilong",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China; Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui, 230027, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Shuyang",
+        "short_name": "Jiang S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Runxue",
+        "short_name": "Zhang R",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Li, Fan",
+        "short_name": "Li F",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Siqi",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yali",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shuai",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jing",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "The Ninth Medical Center of Chinese PLA General Hospital, Beijing 100101, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xingming",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "The Ninth Medical Center of Chinese PLA General Hospital, Beijing 100101, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jiao",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "The Ninth Medical Center of Chinese PLA General Hospital, Beijing 100101, P. R. China."
+        ]
+      },
+      {
+        "full_name": "He, Feng",
+        "short_name": "He F",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Institute of Pediatrics, Capital Center for Children's Health, Capital Medical University, Beijing 100020, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xuelai",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Institute of Pediatrics, Capital Center for Children's Health, Capital Medical University, Beijing 100020, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ying",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jie",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hepatobiliary Surgery, Peking University People's Hospital, Beijing, 100044, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Cheng-Ran",
+        "short_name": "Xu CR",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Female Fertility Promotion, Department of Medical Genetics, School of Basic Medical Sciences, Peking University, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shihua",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "NCMIS, CEMS, RCSDS, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing 100190, China. Electronic address: zsh@amss.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Qi",
+        "short_name": "Zhou Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; Medical School, University of Chinese Academy of Sciences, Beijing 100049, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: zhouqi@ioz.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Xin",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: xinli@ioz.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Wei",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Organ Regeneration and Reconstruction, Chinese Academy of Sciences, Beijing 100101, China; Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China; Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China; Medical School, University of Chinese Academy of Sciences, Beijing 100049, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: liwei@ioz.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JHEP reports : innovation in hepatology"
+    ],
+    "journal_abbrev": [
+      "JHEP Rep"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 23:27",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42951077"
+    ],
+    "review": [
+      "42951077"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2589-5559(26)00348-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2589-5559(26)00348-4",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "identity": {
+    "pmid": "42929409",
+    "doi": "10.1002/ardp.70372",
+    "title": "Integrative Modeling and Biochemical Analysis of the H(2)S-Keap1-Cul3 Mechanism That Stabilizes Nrf2 and Promotes Ferroptosis Resistance."
+  },
+  "content": {
+    "abstract": "Ferroptosis is an iron-dependent lipid-peroxidation program with few mechanism-based suppression strategies. Hydrogen sulfide (H(2)S), an endogenous gasotransmitter, may restrain ferroptosis, but the structural route linking H(2)S-responsive Keap1 chemistry to Nrf2 stabilization is unresolved. We combined network pharmacology, Keap1-Cul3 structural modeling, three independent 100-ns molecular dynamics (MD) simulations per state, exploratory molecular mechanics generalized Born surface area (MMGBSA) energy estimation, biochemical analysis of purified wild-type and Cys151-->Ser (C151S) Keap1, and cell-based western blotting and quantitative PCR. Trajectories were assessed by root-mean-square deviation (RMSD), radius of gyration (Rg), and root-mean-square fluctuation (RMSF). Network analysis prioritized NFE2L2, HMOX1, AKT1 and SIRT1. Across replicates, the persulfidated state showed higher Cys151, Cul3-binding-region, and Cul3 RMSD with unchanged Rg, while Bric-a-brac/Tramtrack/Broad-complex (BTB) self-RMSD was lower than wild type, indicating altered BTB-Cul3 docking, not BTB destabilization. Interface contacts expanded from 20 to 45 residues, and the Glu192-Lys68 salt bridge was lost. In purified protein, NaHS generated a Cys151-dependent persulfide without altering secondary structure, thermal stability, or BTB dimerization, reduced Cul3 affinity (dissociation constant: 0.9 +/- 0.2-2.4 +/- 0.5 muM) and lowered reconstituted Nrf2 ubiquitination to 40% of control; both effects were largely lost in C151S. In HepG2 cells, NaHS increased Nrf2, HMOX1, and phospho-Akt/Akt and restored GPX4 under erastin-induced stress. Persulfidation of Keap1 Cys151 weakens productive Cul3 engagement and reduces Nrf2 ubiquitination in vitro, with simulations indicating associated remodeling of the BTB-Cul3 interface, supporting H(2)S-responsive Keap1 modification as a contributor to Nrf2 stabilization and Akt/Nrf2/HMOX1-GPX4 anti-ferroptotic defense.",
+    "keywords": [
+      "Keap1 Cys151 persulfidation",
+      "Keap1-Cul3 interface",
+      "Nrf2 stabilization",
+      "ferroptosis",
+      "hydrogen sulfide"
+    ],
+    "mesh_terms": [
+      "*Kelch-Like ECH-Associated Protein 1/metabolism/chemistry/genetics",
+      "*NF-E2-Related Factor 2/metabolism",
+      "Humans",
+      "*Hydrogen Sulfide/metabolism/pharmacology/chemistry",
+      "*Ferroptosis/drug effects",
+      "*Cullin Proteins/metabolism/chemistry",
+      "Molecular Dynamics Simulation",
+      "Structure-Activity Relationship"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Qiuhong",
+        "Fan, Zhiru",
+        "Mai, Chendi",
+        "Ren, Yankai",
+        "Li, Yizhe",
+        "Jiao, Zhuoyue",
+        "Li, Dongliang"
+      ],
+      "short_names": [
+        "Li Q",
+        "Fan Z",
+        "Mai C",
+        "Ren Y",
+        "Li Y",
+        "Jiao Z",
+        "Li D"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-9219-3347",
+        "ORCID: 0009-0003-7083-2128"
+      ],
+      "affiliations": [
+        "Department of Physiology, North Henan Medical University, Xinxiang, China.",
+        "Department of Physiology, North Henan Medical University, Xinxiang, China.",
+        "Department of Physiology, Sichuan Railway College, Chengdu, China.",
+        "Xinxiang Key Laboratory of Targeted Intervention for Brain Cell Injury, North Henan Medical University, Xinxiang, China.",
+        "Medical Imaging Science, North Henan Medical University, Xinxiang, China.",
+        "Medical Imaging Science, North Henan Medical University, Xinxiang, China.",
+        "Xinxiang Key Laboratory of Targeted Intervention for Brain Cell Injury, Henan Medical University, Xinxiang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Qiuhong",
+        "short_name": "Li Q",
+        "identifiers": [
+          "0009-0003-9219-3347"
+        ],
+        "affiliations": [
+          "Department of Physiology, North Henan Medical University, Xinxiang, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Zhiru",
+        "short_name": "Fan Z",
+        "identifiers": [
+          "0009-0003-7083-2128"
+        ],
+        "affiliations": [
+          "Department of Physiology, North Henan Medical University, Xinxiang, China."
+        ]
+      },
+      {
+        "full_name": "Mai, Chendi",
+        "short_name": "Mai C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Sichuan Railway College, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Yankai",
+        "short_name": "Ren Y",
+        "identifiers": [],
+        "affiliations": [
+          "Xinxiang Key Laboratory of Targeted Intervention for Brain Cell Injury, North Henan Medical University, Xinxiang, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yizhe",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Imaging Science, North Henan Medical University, Xinxiang, China."
+        ]
+      },
+      {
+        "full_name": "Jiao, Zhuoyue",
+        "short_name": "Jiao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Imaging Science, North Henan Medical University, Xinxiang, China."
+        ]
+      },
+      {
+        "full_name": "Li, Dongliang",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "Xinxiang Key Laboratory of Targeted Intervention for Brain Cell Injury, Henan Medical University, Xinxiang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archiv der Pharmazie"
+    ],
+    "journal_abbrev": [
+      "Arch Pharm (Weinheim)"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 11:29",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42929409"
+    ],
+    "review": [
+      "42929409"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/ardp.70372",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-783",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

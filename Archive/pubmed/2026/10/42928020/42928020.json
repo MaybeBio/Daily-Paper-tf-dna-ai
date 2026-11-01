@@ -1,0 +1,159 @@
+{
+  "identity": {
+    "pmid": "42928020",
+    "doi": "10.1631/jzus.B2500424",
+    "title": "Integrative graph deep learning with directional decoding for robust gene regulatory network inference from single-cell transcriptomics."
+  },
+  "content": {
+    "abstract": "While gene regulatory networks (GRNs) are fundamental to understanding complex cellular mechanisms, the accurate inference from single-cell RNA-sequencing (scRNA-seq) data is hindered by the inherent noise, transcriptional dropout events, and dynamic nature of gene regulation. Current computational approaches often overlook long-range regulatory interactions, lack explicit modeling of regulatory directionality, and suffer from limited generalizability. To address these limitations, we introduce scGRAIL, a supervised deep learning framework that combines inductive local-aware graph aggregation (LGA) with an asymmetric relation decoder to enable robust GRN inference. Within this framework, LGA performs multi-hop neighborhood aggregation on a transcription factor (TF)-target graph, jointly leveraging topological structure and gene expression to capture long-range regulatory dependencies. A node reconstruction autoencoder (NAE) imposes gene expression reconstruction constraints on the latent embeddings, thereby enhancing robustness to noise and data heterogeneity and improving generalization. An asymmetric difference mechanism is introduced during decoding for distinct modeling of TFs and target genes; by computing an ordered difference vector between their embeddings, the model explicitly captures the directionality and target specificity of TF-target regulatory interactions, facilitating more accurate identification of potential causal regulatory relationships. Comprehensive evaluations demonstrate the model's superiority: it achieves optimal performance on 86.4% of benchmark datasets (38/44), surpassing state-of-the-art methods. Notably, scGRAIL achieves a 4.25% increase in average area under the receiver operating characteristic curve (AUROC) across four real-world networks compared to the graph contrastive link prediction (GCLink) model, yielding a 17.64% AUROC improvement for the TF500+ Non-Specific network in the mouse hematopoietic stem cells with lymphoid-lineage (mHSC-L) dataset, demonstrating its resilience to noise and scalability for large-scale GRNs. These results establish scGRAIL as a transformative tool for uncovering gene regulatory logic in single-cell transcriptomics. Overall, scGRAIL enhances structural modeling and directional discrimination in single-cell GRN inference by using multi-hop graph aggregation to capture long-range regulatory dependencies, expression reconstruction constraints to improve cross-dataset robustness, and an asymmetric decoding mechanism to explicitly model the regulatory directionality between TFs and target genes.",
+    "keywords": [
+      "Asymmetric relation decoder",
+      "Gene regulatory network (GRN) inference",
+      "Local-aware graph aggregation (LGA)",
+      "Node reconstruction autoencoder",
+      "Single-cell RNA sequencing (scRNA-seq)"
+    ],
+    "mesh_terms": [
+      "*Gene Regulatory Networks",
+      "*Deep Learning",
+      "Single-Cell Gene Expression Analysis",
+      "*Single-Cell Analysis",
+      "Autoencoder",
+      "Animals",
+      "*Transcriptome",
+      "Graph Neural Networks",
+      "Gene Expression Profiling",
+      "Transcription Factors",
+      "Computational Biology/methods",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Binhua",
+        "Feng, Yingying",
+        "Gao, Xinyu",
+        "Mao, Mengyao",
+        "Zhang, Yujia"
+      ],
+      "short_names": [
+        "Tang B",
+        "Feng Y",
+        "Gao X",
+        "Mao M",
+        "Zhang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China. bh.tang@hhu.edu.cn.",
+        "Shanghai Key Laboratory of Data Science, Fudan University, Shanghai 200438, China. bh.tang@hhu.edu.cn.",
+        "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China.",
+        "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China.",
+        "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China.",
+        "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Binhua",
+        "short_name": "Tang B",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China. bh.tang@hhu.edu.cn.",
+          "Shanghai Key Laboratory of Data Science, Fudan University, Shanghai 200438, China. bh.tang@hhu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Feng, Yingying",
+        "short_name": "Feng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Xinyu",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Mengyao",
+        "short_name": "Mao M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yujia",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing 213200, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of Zhejiang University. Science. B"
+    ],
+    "journal_abbrev": [
+      "J Zhejiang Univ Sci B"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 23:29",
+    "fetched_at": "2026-11-01 08:59:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42928020"
+    ],
+    "review": [
+      "42928020"
+    ],
+    "pmc": [
+      "13696101"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42928020/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3399",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "http://www.jzus.zju.edu.cn/article.php?doi=10.1631/jzus.B2500424",
+        "provider": "Zhejiang University Press",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "identity": {
+    "pmid": "42951970",
+    "doi": "10.1038/s41586-026-11173-4",
+    "title": "Genetic variants shape single-cell chromatin accessibility and disease risk."
+  },
+  "content": {
+    "abstract": "Understanding how genetic variation shapes gene regulation at single-cell resolution is crucial for elucidating complex disease mechanisms(1), but has been limited by the lack of large-scale single-cell multi-omics data(2-4). Here we present single-cell assay for transposase-accessible chromatin with sequencing of 3.5 million peripheral blood mononuclear cells from 1,042 donors with matched whole-genome sequencing. Across 28 immune cell types, we tested 440,996 chromatin accessibility peaks and identified 243,225 chromatin accessibility quantitative trait loci (caQTLs) at 100,483 peaks, 60% of them cell-type specific. Rare variant analysis identified 38,161 associated peaks, with predicted transcription factor-binding disruption implicated at individual loci. Colocalization with expression QTLs (eQTLs) from single-cell RNA sequencing data (5.4 million peripheral blood mononuclear cells)(5) defined 28,834 candidate cis-regulatory elements. Across genome-wide association studies for 16 diseases and 44 blood traits, caQTLs colocalized 4.5-22.6% more signals than eQTLs alone. Cell-type-specific and tissue-specific context, distal effects and multi-causal-variant models raised genome-wide association study-eQTL concordance from approximately 16% to approximately 65%. Cell state further modulates genetic effects, with 27% of over 200,000 caQTL-cell-state interactions lacking a main effect. At the inflammatory bowel disease risk gene ADCY7, accessibility effects varied with genotype and G protein-mediated pathway activity in CD4(+) T cells. A graph neural network trained on both eQTL and caQTL layers inferred peak-gene links in unpaired multiome data with up to 17.2% higher accuracy than QTL-agnostic data, uncovering 128 additional transcription factor-target pairs (22% increase). Together, these results show that genetic variants shape chromatin accessibility in a cell-type-specific and cell-state-specific manner, influencing immune function and disease risk.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xue, Angli",
+        "Fan, Jianan",
+        "Dong, Oscar A",
+        "Huang, Hao Lawrence",
+        "Chen, Ling",
+        "Allen, Peter C",
+        "Spenceley, Eleanor",
+        "Sagi-Zsigmond, Eszter",
+        "Bowen, Blake",
+        "Henry, Albert",
+        "Cuomo, Anna S E",
+        "Tanudisastro, Hope A",
+        "Qiao, Zhen",
+        "Dorans, Elizabeth",
+        "Ben-David, Eyal",
+        "Farh, Kyle Kai-How",
+        "Hu, Linfeng",
+        "Liu, Yijia Christiana",
+        "Neavin, Drew R",
+        "Lee, Arthur S",
+        "Senabouth, Anne",
+        "Bartie, Caitlin",
+        "McCloy, Rachael A",
+        "Chin, Venessa",
+        "Zhou, Wei",
+        "Price, Alkes L",
+        "de Lange, Katrina M",
+        "Figtree, Gemma A",
+        "Hewitt, Alex W",
+        "MacArthur, Daniel G",
+        "Powell, Joseph E"
+      ],
+      "short_names": [
+        "Xue A",
+        "Fan J",
+        "Dong OA",
+        "Huang HL",
+        "Chen L",
+        "Allen PC",
+        "Spenceley E",
+        "Sagi-Zsigmond E",
+        "Bowen B",
+        "Henry A",
+        "Cuomo ASE",
+        "Tanudisastro HA",
+        "Qiao Z",
+        "Dorans E",
+        "Ben-David E",
+        "Farh KK",
+        "Hu L",
+        "Liu YC",
+        "Neavin DR",
+        "Lee AS",
+        "Senabouth A",
+        "Bartie C",
+        "McCloy RA",
+        "Chin V",
+        "Zhou W",
+        "Price AL",
+        "de Lange KM",
+        "Figtree GA",
+        "Hewitt AW",
+        "MacArthur DG",
+        "Powell JE"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0285-0426",
+        "ORCID: 0009-0009-8275-2989",
+        "ORCID: 0009-0005-1326-4069",
+        "ORCID: 0000-0002-3950-9539",
+        "ORCID: 0009-0000-5543-2810",
+        "ORCID: 0000-0001-7422-2288",
+        "ORCID: 0000-0002-4561-305X",
+        "ORCID: 0000-0002-8360-9764",
+        "ORCID: 0000-0003-0514-0400",
+        "ORCID: 0000-0001-6947-8537",
+        "ORCID: 0000-0002-8798-9821",
+        "ORCID: 0000-0001-7791-4044",
+        "ORCID: 0000-0002-4630-4451",
+        "ORCID: 0000-0001-7719-0859",
+        "ORCID: 0000-0002-2971-7975",
+        "ORCID: 0000-0002-5123-5999",
+        "ORCID: 0000-0002-5771-2290",
+        "ORCID: 0000-0002-5070-4124"
+      ],
+      "affiliations": [
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia. a.xue@garvan.org.au.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia. a.xue@garvan.org.au.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Science, University of Sydney, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "UNSW Cellular Genomics Futures Institute, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Illumina Artificial Intelligence Laboratory, Illumina, San Diego, CA, USA.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "UNSW Cellular Genomics Futures Institute, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Centre for Population Genomics, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Centre for Population Genomics, Murdoch Children's Research Institute, Melbourne, Victoria, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Centre for Population Genomics, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Centre for Population Genomics, Murdoch Children's Research Institute, Melbourne, Victoria, Australia.",
+        "Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Genomics and Inherited Disease Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Illumina Artificial Intelligence Laboratory, Illumina, San Diego, CA, USA.",
+        "Illumina Artificial Intelligence Laboratory, Illumina, San Diego, CA, USA.",
+        "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland.",
+        "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Massachusetts General Hospital, Boston, MA, USA.",
+        "The Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "The Kinghorn Cancer Centre, St Vincent's Hospital, Sydney, New South Wales, Australia.",
+        "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland.",
+        "Psychiatric and Neurodevelopmental Genetics Unit, Center for Genomic Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA.",
+        "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, USA.",
+        "Centre for Population Genomics, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Centre for Population Genomics, Murdoch Children's Research Institute, Melbourne, Victoria, Australia.",
+        "Charles Perkins Centre, University of Sydney, Sydney, New South Wales, Australia.",
+        "Kolling Institute of Medical Research, Royal North Shore Hospital, Sydney, New South Wales, Australia.",
+        "Menzies Institute for Medical Research, University of Tasmania, Hobart, Tasmania, Australia.",
+        "Department of Ophthalmology, Royal Hobart Hospital, Hobart, Tasmania, Australia.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Centre for Population Genomics, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+        "Centre for Population Genomics, Murdoch Children's Research Institute, Melbourne, Victoria, Australia.",
+        "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia. j.powell@garvan.org.au.",
+        "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia. j.powell@garvan.org.au.",
+        "UNSW Cellular Genomics Futures Institute, University of New South Wales, Sydney, New South Wales, Australia. j.powell@garvan.org.au."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xue, Angli",
+        "short_name": "Xue A",
+        "identifiers": [
+          "0000-0002-0285-0426"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia. a.xue@garvan.org.au.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia. a.xue@garvan.org.au."
+        ]
+      },
+      {
+        "full_name": "Fan, Jianan",
+        "short_name": "Fan J",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Dong, Oscar A",
+        "short_name": "Dong OA",
+        "identifiers": [
+          "0009-0009-8275-2989"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Science, University of Sydney, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Huang, Hao Lawrence",
+        "short_name": "Huang HL",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+          "UNSW Cellular Genomics Futures Institute, University of New South Wales, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Chen, Ling",
+        "short_name": "Chen L",
+        "identifiers": [
+          "0009-0005-1326-4069"
+        ],
+        "affiliations": [
+          "Illumina Artificial Intelligence Laboratory, Illumina, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Allen, Peter C",
+        "short_name": "Allen PC",
+        "identifiers": [
+          "0000-0002-3950-9539"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Spenceley, Eleanor",
+        "short_name": "Spenceley E",
+        "identifiers": [
+          "0009-0000-5543-2810"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Sagi-Zsigmond, Eszter",
+        "short_name": "Sagi-Zsigmond E",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Bowen, Blake",
+        "short_name": "Bowen B",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Henry, Albert",
+        "short_name": "Henry A",
+        "identifiers": [
+          "0000-0001-7422-2288"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Cuomo, Anna S E",
+        "short_name": "Cuomo ASE",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+          "UNSW Cellular Genomics Futures Institute, University of New South Wales, Sydney, New South Wales, Australia.",
+          "Centre for Population Genomics, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Centre for Population Genomics, Murdoch Children's Research Institute, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Tanudisastro, Hope A",
+        "short_name": "Tanudisastro HA",
+        "identifiers": [
+          "0000-0002-4561-305X"
+        ],
+        "affiliations": [
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+          "Centre for Population Genomics, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Centre for Population Genomics, Murdoch Children's Research Institute, Melbourne, Victoria, Australia.",
+          "Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Qiao, Zhen",
+        "short_name": "Qiao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+          "Genomics and Inherited Disease Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Dorans, Elizabeth",
+        "short_name": "Dorans E",
+        "identifiers": [
+          "0000-0002-8360-9764"
+        ],
+        "affiliations": [
+          "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA.",
+          "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ben-David, Eyal",
+        "short_name": "Ben-David E",
+        "identifiers": [
+          "0000-0003-0514-0400"
+        ],
+        "affiliations": [
+          "Illumina Artificial Intelligence Laboratory, Illumina, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Farh, Kyle Kai-How",
+        "short_name": "Farh KK",
+        "identifiers": [
+          "0000-0001-6947-8537"
+        ],
+        "affiliations": [
+          "Illumina Artificial Intelligence Laboratory, Illumina, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Hu, Linfeng",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+          "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+          "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Liu, Yijia Christiana",
+        "short_name": "Liu YC",
+        "identifiers": [],
+        "affiliations": [
+          "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+          "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+          "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Neavin, Drew R",
+        "short_name": "Neavin DR",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Lee, Arthur S",
+        "short_name": "Lee AS",
+        "identifiers": [],
+        "affiliations": [
+          "Massachusetts General Hospital, Boston, MA, USA.",
+          "The Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Senabouth, Anne",
+        "short_name": "Senabouth A",
+        "identifiers": [
+          "0000-0002-8798-9821"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Bartie, Caitlin",
+        "short_name": "Bartie C",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "McCloy, Rachael A",
+        "short_name": "McCloy RA",
+        "identifiers": [
+          "0000-0001-7791-4044"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Chin, Venessa",
+        "short_name": "Chin V",
+        "identifiers": [
+          "0000-0002-4630-4451"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+          "The Kinghorn Cancer Centre, St Vincent's Hospital, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Zhou, Wei",
+        "short_name": "Zhou W",
+        "identifiers": [
+          "0000-0001-7719-0859"
+        ],
+        "affiliations": [
+          "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+          "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+          "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland.",
+          "Psychiatric and Neurodevelopmental Genetics Unit, Center for Genomic Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.",
+          "Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Price, Alkes L",
+        "short_name": "Price AL",
+        "identifiers": [
+          "0000-0002-2971-7975"
+        ],
+        "affiliations": [
+          "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA.",
+          "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+          "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "de Lange, Katrina M",
+        "short_name": "de Lange KM",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Population Genomics, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Centre for Population Genomics, Murdoch Children's Research Institute, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Figtree, Gemma A",
+        "short_name": "Figtree GA",
+        "identifiers": [],
+        "affiliations": [
+          "Charles Perkins Centre, University of Sydney, Sydney, New South Wales, Australia.",
+          "Kolling Institute of Medical Research, Royal North Shore Hospital, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Hewitt, Alex W",
+        "short_name": "Hewitt AW",
+        "identifiers": [
+          "0000-0002-5123-5999"
+        ],
+        "affiliations": [
+          "Menzies Institute for Medical Research, University of Tasmania, Hobart, Tasmania, Australia.",
+          "Department of Ophthalmology, Royal Hobart Hospital, Hobart, Tasmania, Australia."
+        ]
+      },
+      {
+        "full_name": "MacArthur, Daniel G",
+        "short_name": "MacArthur DG",
+        "identifiers": [
+          "0000-0002-5771-2290"
+        ],
+        "affiliations": [
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia.",
+          "Centre for Population Genomics, Garvan Institute of Medical Research, Sydney, New South Wales, Australia.",
+          "Centre for Population Genomics, Murdoch Children's Research Institute, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Powell, Joseph E",
+        "short_name": "Powell JE",
+        "identifiers": [
+          "0000-0002-5070-4124"
+        ],
+        "affiliations": [
+          "Translational Genomics Program, Garvan Institute of Medical Research, Sydney, New South Wales, Australia. j.powell@garvan.org.au.",
+          "Faculty of Medicine and Health, University of New South Wales, Sydney, New South Wales, Australia. j.powell@garvan.org.au.",
+          "UNSW Cellular Genomics Futures Institute, University of New South Wales, Sydney, New South Wales, Australia. j.powell@garvan.org.au."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 05:30",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42951970"
+    ],
+    "review": [
+      "42951970"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11173-4",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

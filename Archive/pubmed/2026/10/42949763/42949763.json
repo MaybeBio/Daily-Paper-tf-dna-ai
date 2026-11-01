@@ -1,0 +1,142 @@
+{
+  "identity": {
+    "pmid": "42949763",
+    "doi": "10.1002/advs.78456",
+    "title": "XChrom: A Cross-Cell Chromatin Accessibility Prediction Model Integrating Genomic Sequence and Cellular Context."
+  },
+  "content": {
+    "abstract": "Single-cell chromatin accessibility offers unique insights into transcriptional regulation beyond gene expression. However, paired datasets of these two modalities remain relatively scarce, and existing computational models cannot simultaneously predict chromatin accessibility for unseen genomic regions and cells. Here, we present XChrom, a deep learning framework for genome-wide cross-cell chromatin accessibility prediction that integrates genomic sequence and single-cell transcriptomics-derived cell identity into a unified model. Comprehensive evaluations show that XChrom consistently outperforms existing methods in cross-region and cross-cell predictions, and uniquely enables cross-both predictions. It also supports cross-sample prediction when batch effects are properly corrected. Cross-species analyses demonstrate XChrom's robust performance and its ability to capture evolutionarily conserved regulatory rules. Applied to peripheral blood mononuclear cells from COVID-19 patients, XChrom accurately identifies transcription factor activities in novel but related cell states and reveals pathogenesis-associated regulatory alterations. XChrom is available as an open-source Python package, facilitating single-cell transcriptional regulation research.",
+    "keywords": [
+      "chromatin accessibility",
+      "deep learning",
+      "multimodal integration",
+      "regulatory genomics",
+      "single-cell sequencing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Miao, Yuanyuan",
+        "Liang, Xuan",
+        "Zhang, Wenwen",
+        "Han, Dongmei",
+        "Li, Yurun",
+        "Wang, Zhen"
+      ],
+      "short_names": [
+        "Miao Y",
+        "Liang X",
+        "Zhang W",
+        "Han D",
+        "Li Y",
+        "Wang Z"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-6847-2031",
+        "ORCID: 0000-0001-8108-627X"
+      ],
+      "affiliations": [
+        "Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.",
+        "Zhejiang Key Laboratory of Signaling Mechanisms in Tumor Progression and Intervention, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou, China.",
+        "Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.",
+        "Zhejiang Key Laboratory of Signaling Mechanisms in Tumor Progression and Intervention, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou, China.",
+        "Yuhang Institute of Medical Science Innovation and Transformation, Hangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Miao, Yuanyuan",
+        "short_name": "Miao Y",
+        "identifiers": [
+          "0009-0002-6847-2031"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Xuan",
+        "short_name": "Liang X",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wenwen",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Han, Dongmei",
+        "short_name": "Han D",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Signaling Mechanisms in Tumor Progression and Intervention, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yurun",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhen",
+        "short_name": "Wang Z",
+        "identifiers": [
+          "0000-0001-8108-627X"
+        ],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Signaling Mechanisms in Tumor Progression and Intervention, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou, China.",
+          "Yuhang Institute of Medical Science Innovation and Transformation, Hangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 17:31",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42949763"
+    ],
+    "review": [
+      "42949763"
+    ],
+    "pmc": [
+      "13715924"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "identity": {
+    "pmid": "42940166",
+    "doi": "10.3390/biomedicines14102360",
+    "title": "Donor-Resolved Analysis of HES1-Associated Fibroblast States in Systemic Sclerosis."
+  },
+  "content": {
+    "abstract": "Background/Objectives: We examined HES1-associated fibroblast states in systemic sclerosis (SSc) and the rationale for testing upstream gamma-secretase inhibition with nirogacestat. Methods: We analysed 325,636 skin cells from 230 donors across five non-redundant cohorts using complete computational transcription-factor screens, donor-level activity and trajectory analyses, multiome data and spatial assays. Donors or independent simulations were the inference units, with cohort adjustment and multiplicity correction where applicable. Three independent 200 ns molecular dynamics runs per condition compared nirogacestat-bound and ligand-deleted gamma-secretase models. Results: HES1 activity was positively associated with model-derived myofibroblast fate in 98.1% of 206 donors (median Spearman's rho=0.282; 95% confidence interval [CI], 0.258-0.309). The adjusted SSc-healthy control activity difference was uncertain (0.21; 95% CI, -0.01 to 0.43; Benjamini-Hochberg q=0.061). HES1 ranked 28/107 and 30/109 in the descriptive screens; SMAD3 showed a stronger association with cell fate. Disease-specific communication and contact-enrichment tests did not provide statistical support. The adjusted Visium association was negative; Xenium showed a weak positive mean without section-level corrected support. Nirogacestat was selected retrospectively through mechanistic and translational evidence despite a weak expression-reversal signal and discordant tofacitinib-signature alignment. Simulations showed lower reference-defined pocket root mean square deviation (RMSD) in bound models, with substantial sampling and endpoint-energy uncertainty. Conclusions: HES1 activity marks a consistent fibroblast-state association, with uncertain causality and SSc specificity. Nirogacestat is a candidate compound for experimental testing of upstream Notch-pathway perturbation in SSc fibroblasts; the computational findings do not establish efficacy.",
+    "keywords": [
+      "HES1",
+      "Notch",
+      "drug repurposing",
+      "gene-regulatory network",
+      "myofibroblast",
+      "nirogacestat",
+      "systemic sclerosis",
+      "virtual perturbation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fang, Shenyi",
+        "Huang, Lin",
+        "Wang, Mingzhu"
+      ],
+      "short_names": [
+        "Fang S",
+        "Huang L",
+        "Wang M"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-7884-9666",
+        "ORCID: 0000-0002-8036-8408"
+      ],
+      "affiliations": [
+        "The First Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou 310053, China.",
+        "Innovation Center for Medical Basic Research of Autoimmune Diseases, China National Ministry of Education, College of Basic Medical Science, Zhejiang Chinese Medical University, Hangzhou 310053, China.",
+        "Innovation Center for Medical Basic Research of Autoimmune Diseases, China National Ministry of Education, College of Basic Medical Science, Zhejiang Chinese Medical University, Hangzhou 310053, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fang, Shenyi",
+        "short_name": "Fang S",
+        "identifiers": [
+          "0009-0005-7884-9666"
+        ],
+        "affiliations": [
+          "The First Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou 310053, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Lin",
+        "short_name": "Huang L",
+        "identifiers": [
+          "0000-0002-8036-8408"
+        ],
+        "affiliations": [
+          "Innovation Center for Medical Basic Research of Autoimmune Diseases, China National Ministry of Education, College of Basic Medical Science, Zhejiang Chinese Medical University, Hangzhou 310053, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Mingzhu",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Innovation Center for Medical Basic Research of Autoimmune Diseases, China National Ministry of Education, College of Basic Medical Science, Zhejiang Chinese Medical University, Hangzhou 310053, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedicines"
+    ],
+    "journal_abbrev": [
+      "Biomedicines"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42940166"
+    ],
+    "review": [
+      "42940166"
+    ],
+    "pmc": [
+      "13702352"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biomedicines14102360",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42940166/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

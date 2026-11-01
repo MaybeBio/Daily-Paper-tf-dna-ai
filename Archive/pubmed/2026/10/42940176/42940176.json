@@ -1,0 +1,167 @@
+{
+  "identity": {
+    "pmid": "42940176",
+    "doi": "10.3390/biomedicines14102371",
+    "title": "Identification of Genes Associated with Gut Microbiota Metabolites in Type 2 Diabetes Mellitus Complicated by Acute Cerebral Infarction Based on Bioinformatics and Mendelian Randomization."
+  },
+  "content": {
+    "abstract": "Background: Type 2 diabetes mellitus (T2DM) and acute cerebral infarction (ACI) are globally prevalent diseases that impose substantial public health burdens. While gut microbiota (GM) is increasingly recognized to regulate metabolic and immune homeostasis linked to both diseases, its shared genetically predicted microbial taxa and underlying metabolite-gene regulatory mechanisms in T2DM and ACI remain unclear, highlighting the need for systematic investigation. Accordingly, this study aimed to elucidate their regulatory mechanisms. Methods: Transcriptomic datasets, genome-wide association study (GWAS) data, and GM data were retrieved from public databases. Key microbial taxa were identified using two-sample Mendelian randomization (MR) and 16S rRNA sequencing. Metabolite-target genes (MTGs) were predicted via public databases. Key metabolites were screened based on Lipinski's rules and low toxicity, and key genes were prioritized by molecular docking. Regulatory networks and potential drugs were predicted using public databases. Results: Using the FinnGen diabetes endpoint as a proxy for T2DM-related genetic susceptibility, MR analysis identified 12 candidate microbial taxa shared by both diseases. Further intersection with the top 30 microbial taxa from 16S rRNA sequencing confirmed two key microbial taxa (Alistipes and Bifidobacterium). Subsequently, 602 MTGs were identified for metabolites derived from the key microbial taxa. After druggability evaluation and toxicity profiling, nine key metabolites with favorable druggability and low toxicity were identified. Molecular docking predicted binding affinities between these key metabolites and the encoded proteins, suggesting ANPEP and CYP1B1 as candidate key genes. Additionally, ANPEP interacted with 12 transcription factors (TFs), while CYP1B1 was regulated by six TFs and 13 microRNAs that further interacted with 26 long noncoding RNAs. Sixty-eight and 32 potential drugs targeting ANPEP and CYP1B1, respectively, were identified, providing candidates for translational research. Conclusion: This study systematically identified ANPEP and CYP1B1 as candidate key genes in the GM-associated regulatory network underlying T2DM-related genetic susceptibility and ACI, providing candidate molecular targets and candidate compounds for the development of GM-based targeted therapies.",
+    "keywords": [
+      "ANPEP",
+      "CYP1B1",
+      "Mendelian randomization",
+      "acute cerebral infarction",
+      "gut microbiota",
+      "type 2 diabetes mellitus"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Guimei",
+        "Ju, Jiasheng",
+        "Zhang, Run",
+        "Xu, Xiuyuan",
+        "Li, Lifeng",
+        "Zhao, Jing",
+        "Ju, Haibing"
+      ],
+      "short_names": [
+        "Zhang G",
+        "Ju J",
+        "Zhang R",
+        "Xu X",
+        "Li L",
+        "Zhao J",
+        "Ju H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China.",
+        "Department of Neurosurgery, Zhujiang Hospital of Southern Medical University, Guangzhou 510282, China.",
+        "Department of Neurosurgery, Zhujiang Hospital of Southern Medical University, Guangzhou 510282, China.",
+        "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China.",
+        "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China.",
+        "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China.",
+        "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Guimei",
+        "short_name": "Zhang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China."
+        ]
+      },
+      {
+        "full_name": "Ju, Jiasheng",
+        "short_name": "Ju J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Zhujiang Hospital of Southern Medical University, Guangzhou 510282, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Run",
+        "short_name": "Zhang R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Zhujiang Hospital of Southern Medical University, Guangzhou 510282, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiuyuan",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China."
+        ]
+      },
+      {
+        "full_name": "Li, Lifeng",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jing",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China."
+        ]
+      },
+      {
+        "full_name": "Ju, Haibing",
+        "short_name": "Ju H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, 920th Hospital of the Joint Logistics Support Force of the Chinese People's Liberation Army, Kunming 650032, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedicines"
+    ],
+    "journal_abbrev": [
+      "Biomedicines"
+    ],
+    "pub_date": "2026 Oct 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42940176"
+    ],
+    "review": [
+      "42940176"
+    ],
+    "pmc": [
+      "13702449"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biomedicines14102371",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42940176/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-460",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

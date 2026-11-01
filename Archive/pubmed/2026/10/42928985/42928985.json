@@ -1,0 +1,189 @@
+{
+  "identity": {
+    "pmid": "42928985",
+    "doi": "10.1002/cbf.70330",
+    "title": "Cordycepin Regulates the Nrf2/Hmox1 Signaling Pathway to Inhibit Ferroptosis and Improve AKI-CKD."
+  },
+  "content": {
+    "abstract": "Cordycepin (COR) exerts pharmacological effects in various diseases, yet its role in tissue repair following acute kidney injury (AKI) remains to be fully elucidated. This study aimed to investigate whether COR delays the progression from acute kidney injury to chronic kidney disease (AKI-CKD) and to explore its underlying mechanisms. Network pharmacology was employed to identify shared targets among ferroptosis, AKI-CKD, and COR using multiple databases. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses were performed, followed by molecular docking validation. In vivo, a renal unilateral ischemia-reperfusion (uIRI) mouse model was established in C57Bl/6N mice (n = 20), randomly divided into four groups (n = 5 each): Control, CKD model, COR, and CKD + COR. COR (10 mg/kg) or saline was administered intraperitoneally daily for 2 weeks. Renal pathology and fibrosis were assessed via H&E, PAS, and Masson staining; renal function by serum creatinine and proteinuria. In vitro, HK-2 cells were treated with H(2)O(2) with or without COR, and cell viability was measured by CCK-8. The Nrf2 inhibitor ML385 was used to verify pathway involvement. The mRNA and protein levels of GPX4, ACSL4, Nrf2, and Hmox1 were determined by qRT-PCR and Western blot. Cross-analysis of network pharmocology identified 42 common targets among 459 COR-related, 843 AKI-CKD-related, and 1866 ferroptosis-related genes. PPI network analysis suggested that TNF, IL6, and Hmox1 are key targets. Enrichment analyses indicated involvement in iron homeostasis and oxidative stress responses. Molecular docking revealed strong binding of COR to Nrf2 and Hmox1 (-8.5 and -6.7 kcal/mol). In vivo, model mice showed elevated serum creatinine and proteinuria, severe tubular damage, and increased fibrosis, all significantly ameliorated by COR. In vitro, H(2)O(2) reduced HK-2 cell viability, downregulated GPX4, Nrf2, and Hmox1, and upregulated ACSL4; COR reversed these effects and improved cell survival. ML385 partially blocked COR's protective and regulatory effects, confirming Nrf2/Hmox1 pathway dependence. Our finding indicated that COR inhibits ferroptosis via activation of the Nrf2/Hmox1 signaling pathway, thereby attenuating renal injury and fibrosis and slowing AKI-CKD progression.",
+    "keywords": [
+      "AKI-CKD",
+      "Nrf2/Hmox1 pathway",
+      "cordycepin",
+      "ferroptosis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Ferroptosis/drug effects",
+      "*NF-E2-Related Factor 2/metabolism/antagonists & inhibitors",
+      "Mice",
+      "*Signal Transduction/drug effects",
+      "*Heme Oxygenase-1/metabolism",
+      "Mice, Inbred C57BL",
+      "Humans",
+      "*Deoxyadenosines/pharmacology/chemistry",
+      "*Acute Kidney Injury/drug therapy/metabolism/pathology",
+      "Male",
+      "*Membrane Proteins/metabolism",
+      "Molecular Docking Simulation",
+      "Cell Line"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xi, Luming",
+        "Bai, Mengqi",
+        "Li, Junhu",
+        "Zhao, Zhibo",
+        "Zhou, Xiaoshuang"
+      ],
+      "short_names": [
+        "Xi L",
+        "Bai M",
+        "Li J",
+        "Zhao Z",
+        "Zhou X"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-7581-4933",
+        "ORCID: 0009-0008-3141-3808",
+        "ORCID: 0000-0002-1096-8395",
+        "ORCID: 0009-0005-9667-8645",
+        "ORCID: 0009-0007-9021-9100"
+      ],
+      "affiliations": [
+        "Shanxi University of Chinese Medicine Third Clinical College, Jinzhong, Shanxi, China.",
+        "Shanxi University of Chinese Medicine Third Clinical College, Jinzhong, Shanxi, China.",
+        "Department of Nephrology, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+        "Department of Nephrology, The Fifth Clinical Medical College of Shanxi Medical University, Taiyuan, Shanxi, China.",
+        "Big Data Center of Kidney Disease, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+        "Shanxi Provincial Key Laboratory of Kidney Disease, Taiyuan, Shanxi, China.",
+        "Department of Nephrology, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+        "Department of Nephrology, The Fifth Clinical Medical College of Shanxi Medical University, Taiyuan, Shanxi, China.",
+        "Big Data Center of Kidney Disease, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+        "Shanxi Provincial Key Laboratory of Kidney Disease, Taiyuan, Shanxi, China.",
+        "Shanxi University of Chinese Medicine Third Clinical College, Jinzhong, Shanxi, China.",
+        "Department of Nephrology, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+        "Department of Nephrology, The Fifth Clinical Medical College of Shanxi Medical University, Taiyuan, Shanxi, China.",
+        "Big Data Center of Kidney Disease, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+        "Shanxi Provincial Key Laboratory of Kidney Disease, Taiyuan, Shanxi, China.",
+        "Medicinal Basic Research Innovation Center of Chronic Kidney Disease, Ministry of Education, Shanxi Medical University, Taiyuan, Shanxi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xi, Luming",
+        "short_name": "Xi L",
+        "identifiers": [
+          "0009-0002-7581-4933"
+        ],
+        "affiliations": [
+          "Shanxi University of Chinese Medicine Third Clinical College, Jinzhong, Shanxi, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Mengqi",
+        "short_name": "Bai M",
+        "identifiers": [
+          "0009-0008-3141-3808"
+        ],
+        "affiliations": [
+          "Shanxi University of Chinese Medicine Third Clinical College, Jinzhong, Shanxi, China."
+        ]
+      },
+      {
+        "full_name": "Li, Junhu",
+        "short_name": "Li J",
+        "identifiers": [
+          "0000-0002-1096-8395"
+        ],
+        "affiliations": [
+          "Department of Nephrology, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+          "Department of Nephrology, The Fifth Clinical Medical College of Shanxi Medical University, Taiyuan, Shanxi, China.",
+          "Big Data Center of Kidney Disease, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+          "Shanxi Provincial Key Laboratory of Kidney Disease, Taiyuan, Shanxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhibo",
+        "short_name": "Zhao Z",
+        "identifiers": [
+          "0009-0005-9667-8645"
+        ],
+        "affiliations": [
+          "Department of Nephrology, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+          "Department of Nephrology, The Fifth Clinical Medical College of Shanxi Medical University, Taiyuan, Shanxi, China.",
+          "Big Data Center of Kidney Disease, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+          "Shanxi Provincial Key Laboratory of Kidney Disease, Taiyuan, Shanxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiaoshuang",
+        "short_name": "Zhou X",
+        "identifiers": [
+          "0009-0007-9021-9100"
+        ],
+        "affiliations": [
+          "Shanxi University of Chinese Medicine Third Clinical College, Jinzhong, Shanxi, China.",
+          "Department of Nephrology, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+          "Department of Nephrology, The Fifth Clinical Medical College of Shanxi Medical University, Taiyuan, Shanxi, China.",
+          "Big Data Center of Kidney Disease, Shanxi Provincial People's Hospital, Taiyuan, Shanxi, China.",
+          "Shanxi Provincial Key Laboratory of Kidney Disease, Taiyuan, Shanxi, China.",
+          "Medicinal Basic Research Innovation Center of Chronic Kidney Disease, Ministry of Education, Shanxi Medical University, Taiyuan, Shanxi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell biochemistry and function"
+    ],
+    "journal_abbrev": [
+      "Cell Biochem Funct"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 05:30",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42928985"
+    ],
+    "review": [
+      "42928985"
+    ],
+    "pmc": [
+      "13696976"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42928985/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/cbf.70330",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

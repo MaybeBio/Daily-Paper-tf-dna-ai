@@ -1,0 +1,177 @@
+{
+  "identity": {
+    "pmid": "42958669",
+    "doi": "10.19852/j.cnki.jtcm.2026.05.012",
+    "title": "Jianpi Huayu decoction induces hepatocellular carcinoma apoptosis through flavonoid components targeting tumor protein p53 activation and serine-threonine protein kinase 1/B-cell lymphoma 2 inhibition: a network pharmacology-based study with experimental validation."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: To investigate the bioactive components and molecular mechanisms by which Jianpi Huayu decoction (, JHD) promotes apoptosis in hepatocellular carcinoma (HCC). METHODS: A multi-omics strategy integrating serum pharmacochemistry, metabolomics, network analysis, molecular docking, and in vitro validation was employed. Serum-absorbed components were identified from JHD-treated rats. Core targets and pathways were analyzed viaprotein-protein interaction (PPI) networks and kyoto encyclopedia of genes and genomes (KEGG) pathway enrichment. The effects of key candidate components (apigenin, naringin, daidzein, curzerenone, curcumenol) were validated in human hepatoma G2 cell line cells through cell viability, apoptosis, and protein expression assays. RESULTS: Fifty-one serum-absorbed JHD compounds were identified, comprising eight alkaloids, fifteen flavonoids, nine terpenoids, three quinones, and three phenylpropanoids. Apigenin, naringin, and daidzein demonstrated the highest bioavailability. Network analysis identified tumor protein 53 (TP53), serine-threonine kinase 1 (AKT1), B-cell lymphoma 2 (BCL2), epidermal growth factor receptor (EGFR), and Jun proto-oncogene (JUN) as core targets, which converge on major cancer-related pathways, including phosphatidylinositol 3-kinase (PI3K)-serine-threonine kinase (AKT), mitogen-activated protein kinases (MAPK), and Janus kinase (JAK)-signal transducer and activator of transcription 3 (STAT3). Molecular docking revealed stable binding of naringin to AKT1 [binding energy: －12.6 kcal/mol; root mean square deviation (RMSD): 0.2-0.4 nm]. Apigenin showed the strongest binding affinity for TP53 (－8.2 kcal/mol) and AKT1 (－9.6 kcal/mol). In vitro, apigenin [half maximal inhibitory concentration (IC50) = 48.2 muM at 24 h] significantly upregulated TP53 (P < 0.01) while downregulating BCL2 (P < 0.05), AKT1 (P < 0.01), JUN (P < 0.0001), and EGFR (P < 0.01). Both naringin and curzerenone downregulated AKT1 and BCL2 at 48 h (P < 0.05). In contrast, curcumenol (a structural analog of curzerenone) exhibited no significant regulatory effects (P > 0.05). CONCLUSION: JHD promotes HCC apoptosis primarily viaits flavonoid-enriched components, notably apigenin and naringin, which function by activating TP53 and inhibiting the AKT1/BCL2 signaling axis. This study establishes a \"component-target-pathway\" framework for optimizing herbal formulations and bridges Traditional Chinese Medicine with precision oncology for flavonoid-based HCC therapy.",
+    "keywords": [
+      "Jianpi Huayu decoction",
+      "apoptosis",
+      "bioinformatics analysis",
+      "carcinoma, hepatocellular",
+      "liquid chromatography-mass spectrometry",
+      "network pharmacology"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Carcinoma, Hepatocellular/metabolism/genetics/drug therapy/physiopathology",
+      "*Drugs, Chinese Herbal/pharmacology/chemistry/administration & dosage",
+      "*Apoptosis/drug effects",
+      "Animals",
+      "*Liver Neoplasms/metabolism/genetics/drug therapy/physiopathology",
+      "Rats",
+      "Network Pharmacology",
+      "*Flavonoids/chemistry/pharmacology",
+      "*Tumor Suppressor Protein p53/metabolism/genetics",
+      "Proto-Oncogene Mas",
+      "Molecular Docking Simulation",
+      "*Proto-Oncogene Proteins c-bcl-2/metabolism/genetics",
+      "*Proto-Oncogene Proteins c-akt/metabolism/genetics",
+      "Hep G2 Cells",
+      "Male",
+      "Signal Transduction/drug effects",
+      "Pyruvate Dehydrogenase Acetyl-Transferring Kinase"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiaokai, Chen",
+        "Yingjie, Xie",
+        "Hui, W U",
+        "Yong, L I",
+        "Yantong, L U",
+        "Wei, Tan",
+        "Changjun, Wang",
+        "Xuhui, Huang"
+      ],
+      "short_names": [
+        "Xiaokai C",
+        "Yingjie X",
+        "Hui WU",
+        "Yong LI",
+        "Yantong LU",
+        "Wei T",
+        "Changjun W",
+        "Xuhui H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pharmacy, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510000, China.",
+        "One Departments of Cadre Ward, General Hospital of Southern Theater Command of Chinese PLA, Guangzhou 510000, China.",
+        "South China University of Technology School of Medicine, Guangzhou 510000, China.",
+        "Guangdong Provincial Key Laboratory for Research and Evaluation of Pharmaceutical Preparations, Guangdong Pharmaceutical University, Guangzhou 510000, China.",
+        "Science and Technology Innovation Center of Guangzhou University of Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou 510000, China.",
+        "Department of Traditional Chinese Medicine, Guangdong Geriatric institute, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510000, China.",
+        "Department of Traditional Chinese Medicine, Guangdong Geriatric institute, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510000, China.",
+        "Department of Traditional Chinese Medicine, Guangdong Geriatric institute, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510000, China.",
+        "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou 510000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiaokai, Chen",
+        "short_name": "Xiaokai C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510000, China."
+        ]
+      },
+      {
+        "full_name": "Yingjie, Xie",
+        "short_name": "Yingjie X",
+        "identifiers": [],
+        "affiliations": [
+          "One Departments of Cadre Ward, General Hospital of Southern Theater Command of Chinese PLA, Guangzhou 510000, China."
+        ]
+      },
+      {
+        "full_name": "Hui, W U",
+        "short_name": "Hui WU",
+        "identifiers": [],
+        "affiliations": [
+          "South China University of Technology School of Medicine, Guangzhou 510000, China."
+        ]
+      },
+      {
+        "full_name": "Yong, L I",
+        "short_name": "Yong LI",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory for Research and Evaluation of Pharmaceutical Preparations, Guangdong Pharmaceutical University, Guangzhou 510000, China."
+        ]
+      },
+      {
+        "full_name": "Yantong, L U",
+        "short_name": "Yantong LU",
+        "identifiers": [],
+        "affiliations": [
+          "Science and Technology Innovation Center of Guangzhou University of Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou 510000, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Tan",
+        "short_name": "Wei T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Traditional Chinese Medicine, Guangdong Geriatric institute, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510000, China."
+        ]
+      },
+      {
+        "full_name": "Changjun, Wang",
+        "short_name": "Changjun W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Traditional Chinese Medicine, Guangdong Geriatric institute, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510000, China."
+        ]
+      },
+      {
+        "full_name": "Xuhui, Huang",
+        "short_name": "Xuhui H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Traditional Chinese Medicine, Guangdong Geriatric institute, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510000, China.",
+          "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou 510000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan"
+    ],
+    "journal_abbrev": [
+      "J Tradit Chin Med"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 05:31",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42958669"
+    ],
+    "review": [
+      "42958669"
+    ],
+    "pmc": [
+      "13684375"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "identity": {
+    "pmid": "42943779",
+    "doi": "10.3390/molecules31203709",
+    "title": "Targeting FTSJ1 to Restore TP53 Function in Nonsense Mutation-Driven Cancer: Computational and Experimental Evaluation of 1,2,4-Triazole Derivatives."
+  },
+  "content": {
+    "abstract": "Nonsense mutations introduce premature termination codons (PTCs) into mRNA transcripts, leading to truncated and non-functional proteins, and accounting for approximately 10-15% of genetic disorders. In this context, the induction of translational readthrough by small molecules, known as translational readthrough-inducing drugs (TRIDs), has emerged as a promising therapeutic strategy to restore full-length protein expression. However, the mechanism of action of TRIDs is still under debate, and one emerging target is FTSJ1, a methyltransferase involved in tRNA modification. FTSJ1 regulates translational fidelity and nonsense-mediated mRNA decay, and its inhibition has been proposed to facilitate the restoration of full-length proteins from nonsense-mutated genes. In this study, we investigated the inhibition of FTSJ1 methyltransferase by a novel series of TRIDs, the 1,2,4-triazole derivatives IP14, IP15, IP17, and IP18, using a luciferase assay in HeLa cells transfected with the pFLuc190UGA plasmid, which in our previous studies showed the rescue of p53 expression in H1299 R213X cells with TP53 gene harboring the R213X nonsense mutation. An integrated computational workflow, including induced fit docking, binding pose metadynamics, molecular dynamics simulations, and MM-GBSA analysis, was employed to characterize their interaction within the FTSJ1 catalytic pocket. The computational results revealed stable binding modes and favorable energetic profiles, supporting the hypothesis that inhibition of FTSJ1 may contribute to their biological activity. Consistent with these findings, in vitro assays supported their translational readthrough activity, suggesting a possible mechanism of action.",
+    "keywords": [
+      "FTSJ1",
+      "TRIDs",
+      "induced fit docking",
+      "nonsense mutation",
+      "precision medicine",
+      "unbiased and biased molecular dynamics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Codon, Nonsense/genetics",
+      "*Triazoles/pharmacology/chemistry",
+      "*Tumor Suppressor Protein p53/genetics/metabolism/chemistry",
+      "Molecular Docking Simulation",
+      "*Methyltransferases/antagonists & inhibitors/chemistry/metabolism/genetics",
+      "HeLa Cells",
+      "Molecular Dynamics Simulation",
+      "*Neoplasms/genetics/drug therapy/metabolism",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Roomi, Muhammad Sohaib",
+        "Culletta, Giulia",
+        "Lombardo, Vincenzo",
+        "Vitale, Emanuele",
+        "Ricci, Davide",
+        "Varrica, Riccardo",
+        "Fiduccia, Ignazio",
+        "Pace, Andrea",
+        "Lentini, Laura",
+        "Pibiri, Ivana",
+        "Tutone, Marco"
+      ],
+      "short_names": [
+        "Roomi MS",
+        "Culletta G",
+        "Lombardo V",
+        "Vitale E",
+        "Ricci D",
+        "Varrica R",
+        "Fiduccia I",
+        "Pace A",
+        "Lentini L",
+        "Pibiri I",
+        "Tutone M"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6444-1655",
+        "ORCID: 0000-0001-9564-3962",
+        "ORCID: 0009-0008-2332-2498",
+        "ORCID: 0009-0000-0130-6878",
+        "ORCID: 0009-0000-8477-4182",
+        "ORCID: 0009-0008-0498-9772",
+        "ORCID: 0000-0003-1992-2024",
+        "ORCID: 0000-0002-1355-8252",
+        "ORCID: 0000-0001-5885-164X",
+        "ORCID: 0000-0001-5059-8686"
+      ],
+      "affiliations": [
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy.",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Roomi, Muhammad Sohaib",
+        "short_name": "Roomi MS",
+        "identifiers": [
+          "0000-0001-6444-1655"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Culletta, Giulia",
+        "short_name": "Culletta G",
+        "identifiers": [
+          "0000-0001-9564-3962"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Lombardo, Vincenzo",
+        "short_name": "Lombardo V",
+        "identifiers": [
+          "0009-0008-2332-2498"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Vitale, Emanuele",
+        "short_name": "Vitale E",
+        "identifiers": [
+          "0009-0000-0130-6878"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Ricci, Davide",
+        "short_name": "Ricci D",
+        "identifiers": [
+          "0009-0000-8477-4182"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Varrica, Riccardo",
+        "short_name": "Varrica R",
+        "identifiers": [
+          "0009-0008-0498-9772"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Fiduccia, Ignazio",
+        "short_name": "Fiduccia I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Pace, Andrea",
+        "short_name": "Pace A",
+        "identifiers": [
+          "0000-0003-1992-2024"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Lentini, Laura",
+        "short_name": "Lentini L",
+        "identifiers": [
+          "0000-0002-1355-8252"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Pibiri, Ivana",
+        "short_name": "Pibiri I",
+        "identifiers": [
+          "0000-0001-5885-164X"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      },
+      {
+        "full_name": "Tutone, Marco",
+        "short_name": "Tutone M",
+        "identifiers": [
+          "0000-0001-5059-8686"
+        ],
+        "affiliations": [
+          "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, University of Palermo, Via Archirafi 11, 90123 Palermo, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42943779"
+    ],
+    "review": [
+      "42943779"
+    ],
+    "pmc": [
+      "13707968"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=molecules31203709",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42943779/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

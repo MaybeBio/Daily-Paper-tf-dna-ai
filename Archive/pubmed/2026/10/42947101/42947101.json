@@ -1,0 +1,267 @@
+{
+  "identity": {
+    "pmid": "42947101",
+    "doi": "10.1186/s12902-026-02445-1",
+    "title": "Identification and validation of candidate biomarkers associated with mitochondrial metabolism in diabetic foot."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Although the precise regulatory mechanisms underlying diabetic foot (DF) remain incompletely understood, increasing evidence suggests that mitochondrial metabolism may be involved in DF progression. The study aimed to identify and validate candidate biomarkers associated with mitochondrial metabolism in DF. METHODS: Transcriptome sequencing data from 12 DF and 18 control tissue samples were analyzed together with 1,234 mitochondrial metabolism-related genes (MMRGs), which were obtained from MSigDB by integrating curated gene sets directly associated with mitochondrial metabolic processes. First, overlapping genes between MMRGs and DEGs between DF and control samples were used as candidate genes. Then, candidate biomarkers were identified using PPI network construction, two machine learning algorithms, and ROC curve analysis. Next, based on the candidate biomarkers, functional enrichment, immune infiltration, regulatory network, compound prediction, as well as molecular docking analyses were undertaken. Finally, to explore the expression of candidate biomarkers in clinical samples, the reverse transcription quantitative polymerase chain reaction (RT-qPCR) was performed. RESULTS: GPAT3 and PTGS2 were identified as mitochondrial metabolism-associated candidate biomarkers for DF, with area under the curve values of 0.963 and 0.958, respectively. Functional enrichment analysis showed that multiple pathways were significantly enriched by both GPAT3 and PTGS2, such as ribosome and Leishmania infection. GPAT3 had the strongest positive and negative correlations with neutrophils and resting CD4 memory T cells, respectively. In contrast, PTGS2 exhibited the strongest negative connection with M1 macrophages and the strongest positive correlation with neutrophils. Subsequently, multiple transcription factors (TFs) were found to co-target GPAT3 and PTGS2, such as BRD4 and NR0B1. Moreover, compound prediction analysis identified several compounds potentially associated with these biomarkers, such as lipopolysaccharides and cisplatin. The binding free energy between PTGS2 and tetradecanoylphorbol acetate was - 8.2 kcal/mol, while the binding free energy between GPAT3 and cyclosporine was - 10.4 kcal/mol, according to molecular docking data. Finally, the expression levels of GPAT3 and PTGS2 were significantly different in clinical samples. CONCLUSION: GPAT3 and PTGS2 were identified as candidate biomarkers associated with mitochondrial metabolism in DF, providing molecular clues for further investigation of DF pathogenesis and potential intervention strategies.",
+    "keywords": [
+      "Biomarker",
+      "Diabetic foot",
+      "Immune infiltration",
+      "Mitochondrial metabolism",
+      "Regulatory network"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Biomarkers/metabolism/analysis",
+      "*Mitochondria/metabolism/genetics",
+      "*Diabetic Foot/metabolism/genetics/pathology",
+      "*Cyclooxygenase 2/metabolism/genetics",
+      "Gene Expression Profiling",
+      "Gene Regulatory Networks",
+      "Molecular Docking Simulation",
+      "Case-Control Studies"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Haifeng",
+        "Ning, Yijie",
+        "Lu, Chuanlong",
+        "Zhang, Yuhang",
+        "Yan, Sheng",
+        "Chang, Wenkai",
+        "Jin, Haijiang",
+        "Tian, Qinqin",
+        "Shi, Yongbin",
+        "Qiao, Maolin",
+        "Zhang, Yudan",
+        "Dong, Honglin"
+      ],
+      "short_names": [
+        "Li H",
+        "Ning Y",
+        "Lu C",
+        "Zhang Y",
+        "Yan S",
+        "Chang W",
+        "Jin H",
+        "Tian Q",
+        "Shi Y",
+        "Qiao M",
+        "Zhang Y",
+        "Dong H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China.",
+        "Department of Obstetrics, The First Hospital of Shanxi Medical University, No.53 Jiefang Road, Yingze District, Taiyuan, Shanxi Province, China. zhyd2008.love@163.com.",
+        "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China. 1346708318@qq.com.",
+        "Vascular Institute of Shanxi Medical University, Taiyuan, China. 1346708318@qq.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Haifeng",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Ning, Yijie",
+        "short_name": "Ning Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Chuanlong",
+        "short_name": "Lu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuhang",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Sheng",
+        "short_name": "Yan S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Wenkai",
+        "short_name": "Chang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Haijiang",
+        "short_name": "Jin H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Qinqin",
+        "short_name": "Tian Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Yongbin",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Qiao, Maolin",
+        "short_name": "Qiao M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yudan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, The First Hospital of Shanxi Medical University, No.53 Jiefang Road, Yingze District, Taiyuan, Shanxi Province, China. zhyd2008.love@163.com."
+        ]
+      },
+      {
+        "full_name": "Dong, Honglin",
+        "short_name": "Dong H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, The Second Hospital of Shanxi Medical University, No.382 Wuyi Road, Xinghualing District, Taiyuan, Shanxi Province, China. 1346708318@qq.com.",
+          "Vascular Institute of Shanxi Medical University, Taiyuan, China. 1346708318@qq.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC endocrine disorders"
+    ],
+    "journal_abbrev": [
+      "BMC Endocr Disord"
+    ],
+    "pub_date": "2026 Jul 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 05:28",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42947101"
+    ],
+    "review": [
+      "42947101"
+    ],
+    "pmc": [
+      "13715296"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcendocrdisord.biomedcentral.com/articles/10.1186/s12902-026-02445-1",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/diabeticfoot.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Diabetic Foot"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42947101/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3697",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "identity": {
+    "pmid": "42925355",
+    "doi": "10.1007/s10895-026-04970-7",
+    "title": "DNA Binding of a Nitro-Substituted Schiff Base Cu (II) Complex: a Combined Spectroscopic, Viscometric, and Molecular Electrostatic Potential Study."
+  },
+  "content": {
+    "abstract": "An integrated experimental and computational approach, including UV-Vis absorption, fluorescence quenching, circular dichroism (CD) spectroscopy, viscosity measurements, agarose gel electrophoresis, thermodynamic analysis, molecular docking, and Molecular Electrostatic Potential (MEP) mapping, was used to study the DNA-binding behavior of a nitro-substituted Schiff base Cu (II) complex. With a binding constant of approximately 1.7 x 10(5) M(-1), spectroscopic analyses verified an efficient interaction with fish salmon DNA (FS-DNA). Thermodynamic characteristics revealed a spontaneous process supported mainly by hydrogen bonding and van der Waals interactions, while fluorescence data suggested a static quenching mechanism and approximately 1:1 binding stoichiometry. The molecular docking results, together with the absence of any significant change in DNA viscosity and the negligible DNA-cleavage activity, suggest that groove binding is more likely than classical intercalation. The electron withdrawing nitro substituent really changes how the complex's electrons are spread out, creating clear electrophilic and nucleophilic zones. These regions facilitate interaction through the groove, while also reducing the electron density that would be required for the classical pi-pi stacking, as indicated by the MEP analysis. Overall, these findings suggest the nitro group governs the DNA binding preference, providing valuable insights for the design of metal complexes aimed at nucleic acids in future applications.",
+    "keywords": [
+      "DNA Binding",
+      "Fluorescence Quenching",
+      "Groove Binding",
+      "Molecular Electrostatic potential",
+      "Nitro Substituent",
+      "Schiff Base Cu (II) Complex"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kondori, Tahere",
+        "Akbarzadeh-T, Niloufar"
+      ],
+      "short_names": [
+        "Kondori T",
+        "Akbarzadeh-T N"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-2028-2478"
+      ],
+      "affiliations": [
+        "Health Promotion Research Center, Zahedan University of Medical Sciences, Zahedan, Iran. tahere.kondori@zaums.ac.ir.",
+        "Department of Chemistry, University of Sistan and Baluchestan, Zahedan, Iran."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kondori, Tahere",
+        "short_name": "Kondori T",
+        "identifiers": [
+          "0009-0008-2028-2478"
+        ],
+        "affiliations": [
+          "Health Promotion Research Center, Zahedan University of Medical Sciences, Zahedan, Iran. tahere.kondori@zaums.ac.ir."
+        ]
+      },
+      {
+        "full_name": "Akbarzadeh-T, Niloufar",
+        "short_name": "Akbarzadeh-T N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of Sistan and Baluchestan, Zahedan, Iran."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of fluorescence"
+    ],
+    "journal_abbrev": [
+      "J Fluoresc"
+    ],
+    "pub_date": "2026 Oct 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:37",
+    "fetched_at": "2026-11-01 08:59:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42925355"
+    ],
+    "review": [
+      "42925355"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s10895-026-04970-7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SERPINA1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

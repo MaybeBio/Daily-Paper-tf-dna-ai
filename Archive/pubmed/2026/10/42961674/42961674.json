@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "42961674",
+    "doi": "10.1007/s11033-026-13008-x",
+    "title": "Icariin and kartogenin: research on the mechanism of combined intervention on chondrogenic differentiation of BMSCs via the Wnt/beta‑catenin pathway."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Although additional research is needed to identify the exact molecular mechanisms, studies have demonstrated that icariin (ICA) and kartogenin (KGN) can promote bone marrow mesenchymal stem cells to develop chondrogenically. METHODS: Employ SwissTarget prediction and PUBCHEM to ascertain the chemical composition and expected targets of KGN and ICA. OA chip data should be gathered for a bioinformatics investigation using the GEO database. To find targets associated with the disease, use \"osteoarthritis\" as a search criterion in the GeneCards database. Using chip and GeneCard data, determine which ICA and KGN targets overlap, then build core genes. Next, conduct KEGG and GO enrichment analyses. Use molecular docking to verify the hub genes' and essential components' binding activity. Alcian blue staining, QPCR, and western blot were used to identify the effects of ICA and KGN intervention on mouse BMSCs. RESULTS: The bioinformatics investigation of ICA and KGN treatment for OA revealed six possible therapeutic gene targets, primarily HSP90AA1 SOX9 COL2A1 ACAN GSK3B CTNNB1. Based on target enrichment research, ICA and KGN's biological effects in treating OA appear to be mostly associated with skeletal system development, positive control of protein degradation, chondrocyte differentiation, and negative regulation of the normal Wnt signaling pathway. According to KEGG enrichment analysis, the primary pathways impacted were the PI3K-Akt signaling pathway, the Wnt signaling, the ErbB signaling pathway, cell cycle, the mTOR signaling pathway, and necroptosis. Of these, the Wnt signaling pathway is crucial. CONCLUSION: According to this study, the combined intervention of ICA and KGN may be associated with the Wnt/beta‑catenin pathway to regulate chondrogenic differentiation of mouse BMSCs, providing new insights for OA treatment research.",
+    "keywords": [
+      "Icariin and KGN",
+      "Wnt/beta - catenin pathway",
+      "bone marrow mesenchymal stem cells",
+      "cartilage differentiation"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Mesenchymal Stem Cells/drug effects/metabolism/cytology",
+      "*Flavonoids/pharmacology/metabolism",
+      "*Wnt Signaling Pathway/drug effects",
+      "Cell Differentiation/drug effects",
+      "Mice",
+      "*Chondrogenesis/drug effects",
+      "beta Catenin/metabolism",
+      "Osteoarthritis/drug therapy/metabolism/genetics",
+      "Glycogen Synthase Kinase 3 beta/metabolism",
+      "Computational Biology/methods",
+      "Anilides",
+      "Phthalic Acids"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiang, Wei",
+        "Yu, Xia",
+        "Chen, Rui",
+        "Feng, Huirong",
+        "Zhang, Lei",
+        "Song, Chao",
+        "Wu, Jiaqi",
+        "Chen, Xiaojun"
+      ],
+      "short_names": [
+        "Xiang W",
+        "Yu X",
+        "Chen R",
+        "Feng H",
+        "Zhang L",
+        "Song C",
+        "Wu J",
+        "Chen X"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-7414-3776"
+      ],
+      "affiliations": [
+        "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China.",
+        "Intensive Care Unit (ICU), The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China.",
+        "Department of Orthopedic, People's Hospital of Guang'an District, Guang'an, Sichuan Province, China.",
+        "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China.",
+        "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China.",
+        "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China.",
+        "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China.",
+        "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China. chenxj20210630@swmu.edu.cn.",
+        "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, No.182 Chunhui Road, Longmatan District, Luzhou City, Sichuan Province, China. chenxj20210630@swmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiang, Wei",
+        "short_name": "Xiang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Xia",
+        "short_name": "Yu X",
+        "identifiers": [],
+        "affiliations": [
+          "Intensive Care Unit (ICU), The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Rui",
+        "short_name": "Chen R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic, People's Hospital of Guang'an District, Guang'an, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Huirong",
+        "short_name": "Feng H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lei",
+        "short_name": "Zhang L",
+        "identifiers": [
+          "0009-0003-7414-3776"
+        ],
+        "affiliations": [
+          "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Song, Chao",
+        "short_name": "Song C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiaqi",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaojun",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, Sichuan Province, China. chenxj20210630@swmu.edu.cn.",
+          "Department of Orthopedic/Emergency Department, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, No.182 Chunhui Road, Longmatan District, Luzhou City, Sichuan Province, China. chenxj20210630@swmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology reports"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Rep"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 17:43",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42961674"
+    ],
+    "review": [
+      "42961674"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

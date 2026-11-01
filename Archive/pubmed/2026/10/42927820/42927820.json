@@ -1,0 +1,177 @@
+{
+  "identity": {
+    "pmid": "42927820",
+    "doi": "10.1016/j.cellsig.2026.112937",
+    "title": "Elevated GANAB fuels PD-1/PD-L1 checkpoint-mediated immune escape by maintaining PD-L1 stability in bladder cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Bladder cancer (BCa) is one of the most common malignancies of the urinary system, with limited treatment options and extremely poor prognosis in advanced stages. Although immune checkpoint inhibitors targeting the PD-1/PD-L1 axis have been approved for clinical use, the objective response rate remains low (15%-25%), and acquired resistance frequently develops. The molecular mechanisms underlying PD-L1-mediated immune evasion in bladder cancer remain incompletely understood. Post-translational modification of PD-L1, particularly N-glycosylation, stabilizes the protein and enhances its immunosuppressive function; however, the specific enzymes regulating this process have not been systematically identified in BCa. METHODS: We analyzed single-cell sequencing data from public databases to identify malignant epithelial subpopulations and constructed prognostic models using high-dimensional weighted gene co-expression network analysis (hdWGCNA), LASSO regression, and machine learning. Crucially, we performed extensive experimental validation beyond bioinformatics prediction: Ganab was stably knocked down in MB49 bladder cancer cells using lentivirus-mediated shRNA, and the effects on cell proliferation and migration were assessed by CCK-8 and wound healing assays. An orthotopic bladder cancer model was established in C57BL/6 mice by intravesical inoculation of MB49-luciferase cells, with tumor growth monitored by live bioluminescence imaging. Tumor tissues were subjected to single-cell RNA sequencing to dissect the tumor immune microenvironment (TIME) at single-cell resolution. Mechanistically, Western blotting, PNGase F deglycosylation, immunofluorescence, and bidirectional co-immunoprecipitation were employed to elucidate how GANAB regulates PD-L1 glycosylation. Flow cytometry and CellChat analysis were used to evaluate T-cell subset remodeling and PD-L1/PD-1 signaling attenuation. RESULTS: We identified a malignant epithelial subpopulation (Epi_3) characterized by high tumor stemness scores and extensive copy number variations. A 15-gene prognostic signature was successfully constructed, in which GANAB exhibited the highest predictive weight. GANAB protein expression progressively increased along the pseudotime trajectory of tumor progression. Experimentally, inhibition of Ganab significantly suppressed MB49 cell proliferation and migration in vitro, and markedly inhibited orthotopic tumor growth in vivo. Mechanistically, GANAB regulated PD-L1 N-glycosylation, yielding two distinct PD-L1 bands: a 45 kDa glycosylated form (Gly-PD-L1) and a 33 kDa non-glycosylated form (Non-gly-PD-L1). Co-immunoprecipitation confirmed that GANAB specifically interacted with non-glycosylated PD-L1 (33 kDa) but not with glycosylated PD-L1 (45 kDa), indicating that GANAB interacts with non-glycosylated PD-L1 and may facilitate its entry into the ER glycosylation pathway. Single-cell analysis of shGanab tumor tissues revealed profound remodeling of the TIME: exhausted T cells (Tex) were reduced, effector memory T cells (Tem) were increased, and PD-L1/PD-1 signaling between tumor cells and T-cell subsets was attenuated. SCENIC analysis identified Stat1 as a key upstream transcription factor, and IMvigor210 cohort analysis confirmed positive correlations among GANAB, STAT1, PD-L1, and CD8A expression. Patients with high GANAB expression exhibited poorer immunotherapeutic responses and worse prognosis. CONCLUSIONS: Our findings establish a robust prognostic model for BCa patients through integrated single-cell and bulk transcriptome analysis. More importantly, we demonstrate through both in vitro and in vivo experiments that the core gene GANAB promotes bladder cancer progression and immune evasion by regulating PD-L1 N-glycosylation along the PD-1/PD-L1 axis, thereby remodeling the tumor immune microenvironment. In the TCGA cohort, GANAB expression correlated strongly with the T-cell-inflamed gene expression profile (TEP; Spearman R = 0.85, P < 2.2e-16), indicating that GANAB-high tumors represent an inflamed yet immunotherapy-resistant phenotype. We acknowledge that the relationship between GANAB and other established biomarkers, including tumor mutation burden and PD-L1 combined positive score, as well as its expression profile across normal tissues, remains to be characterized. Furthermore, specific GANAB inhibitors are currently unavailable, and the ubiquitous expression of GANAB as a housekeeping endoplasmic reticulum enzyme raises potential on-target safety concerns that preclude immediate therapeutic targeting. Therefore, rather than advocating direct GANAB inhibition, we propose that GANAB serves as a candidate stratification biomarker and mechanistic node for glycosylation-mediated checkpoint resistance. Its clinical utility should be evaluated alongside emerging modalities such as ferroptosis-targeted nanomedicines and antibody-drug conjugates, with future efforts focused on biomarker validation and the development of tumor-specific delivery strategies before any therapeutic application can be considered.",
+    "keywords": [
+      "Bladder cancer",
+      "GANAB",
+      "Glycosylation",
+      "Immune checkpoint",
+      "PD-L1",
+      "Single-cell RNA sequencing",
+      "Tumor immune microenvironment"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jin, Xuanxuan",
+        "Xu, Yi",
+        "Ling, Keyu",
+        "Li, Haoyu",
+        "Wang, Jianzhe",
+        "Liu, Jieyu",
+        "Yang, Xiangchou",
+        "Mu, Haiqi"
+      ],
+      "short_names": [
+        "Jin X",
+        "Xu Y",
+        "Ling K",
+        "Li H",
+        "Wang J",
+        "Liu J",
+        "Yang X",
+        "Mu H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Urology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China.",
+        "Department of Oncology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200030, China.",
+        "Department of Coloproctology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China.",
+        "Department of Urology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China.",
+        "Department of Urology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China.",
+        "Department of General Surgery, Lishui Second People's Hospital, Lishui, Zhejiang Province, 323000, China.",
+        "Department of Hematology and Medical Oncology, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China. Electronic address: yangxiangchou@163.com.",
+        "Department of Urology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China. Electronic address: muhaiqi8877@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jin, Xuanxuan",
+        "short_name": "Jin X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yi",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Ling, Keyu",
+        "short_name": "Ling K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Coloproctology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Haoyu",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jianzhe",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jieyu",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Lishui Second People's Hospital, Lishui, Zhejiang Province, 323000, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiangchou",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology and Medical Oncology, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China. Electronic address: yangxiangchou@163.com."
+        ]
+      },
+      {
+        "full_name": "Mu, Haiqi",
+        "short_name": "Mu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, China. Electronic address: muhaiqi8877@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cellular signalling"
+    ],
+    "journal_abbrev": [
+      "Cell Signal"
+    ],
+    "pub_date": "2026 Oct 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 23:29",
+    "fetched_at": "2026-11-01 08:59:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42927820"
+    ],
+    "review": [
+      "42927820"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0898-6568(26)00597-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

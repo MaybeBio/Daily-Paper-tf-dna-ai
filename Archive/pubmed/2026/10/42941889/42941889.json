@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42941889",
+    "doi": "10.3390/ijms27209120",
+    "title": "Novel Genetic Variants of the CHD2 Gene in cis Position in a Patient with Epileptic Encephalopathy: A Case Report and In Silico Analysis of the Impact of the Variants on the Protein."
+  },
+  "content": {
+    "abstract": "CHD2-related neurodevelopmental disorders are increasingly recognized as a distinct group of epileptic encephalopathies with heterogeneous clinical manifestations. Here, we report a 12-year-old female patient with pharmacoresistant epilepsy, mild cognitive impairment (IQ = 56), and extraneurological features including grade II kyphoscoliosis and planovalgus foot deformity. Video-EEG monitoring revealed a phenotype consistent with Jeavons syndrome, characterized by daily eyelid myoclonia with absences and marked photosensitivity with an eye closure sensitivity (ECS) phenomenon. Molecular genetic testing via whole-exome and Sanger sequencing identified two novel variants in the CHD2 gene (NM_001271.4): c.1634T>G (p.Leu545Arg) and c.3810G>C (p.Leu1270Phe). Long-read nanopore sequencing confirmed their de novo status and cis-positioning on the paternal allele. Structural bioinformatic analysis using AlphaFold3, FoldX/mCSM (v5.0 package), UCSF ChimeraX (v1.10.1), and PyMOL (v3.1.8) demonstrated that both variants individually destabilize the CHD2 protein, with a cumulative destabilizing effect when combined: p.Leu545Arg affects the ATP-binding domain, whereas p.Leu1270Phe disrupts hydrophobic packing within the C-terminal DNA-binding domain. These findings suggest accelerated protein degradation as a potential disease mechanism. Our data support the pathogenicity of these heterozygous cis-variants and implicate CHD2 haploinsufficiency as the leading etiopathogenic mechanism, though distinct domain-specific effects of each substitution may also contribute to the complex molecular synergy observed in this case.",
+    "keywords": [
+      "CHD2",
+      "Jeavons syndrome",
+      "c.1634T>G",
+      "c.3810G>C",
+      "epilepsy",
+      "eyelid myoclonia with absences",
+      "nanopore sequencing",
+      "protein stability",
+      "variant phasing"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "Child",
+      "*DNA-Binding Proteins/genetics/chemistry/metabolism",
+      "*Epilepsy/genetics",
+      "Computer Simulation",
+      "Phenotype",
+      "*Genetic Variation",
+      "Mutation"
+    ],
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zuev, Andrew S",
+        "Fonova, Elizaveta A",
+        "Kuznetsova, Daria S",
+        "Stepanov, Vadim A",
+        "Skryabin, Nikolay A"
+      ],
+      "short_names": [
+        "Zuev AS",
+        "Fonova EA",
+        "Kuznetsova DS",
+        "Stepanov VA",
+        "Skryabin NA"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9474-9335",
+        "ORCID: 0000-0002-1338-5451",
+        "ORCID: 0009-0001-7792-7491",
+        "ORCID: 0000-0002-5166-331X",
+        "ORCID: 0000-0002-2491-3141"
+      ],
+      "affiliations": [
+        "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia.",
+        "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia.",
+        "Department of Medical Genetics, Siberian State Medical University, Tomsk 634050, Russia.",
+        "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia.",
+        "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia.",
+        "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zuev, Andrew S",
+        "short_name": "Zuev AS",
+        "identifiers": [
+          "0000-0001-9474-9335"
+        ],
+        "affiliations": [
+          "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia."
+        ]
+      },
+      {
+        "full_name": "Fonova, Elizaveta A",
+        "short_name": "Fonova EA",
+        "identifiers": [
+          "0000-0002-1338-5451"
+        ],
+        "affiliations": [
+          "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia.",
+          "Department of Medical Genetics, Siberian State Medical University, Tomsk 634050, Russia."
+        ]
+      },
+      {
+        "full_name": "Kuznetsova, Daria S",
+        "short_name": "Kuznetsova DS",
+        "identifiers": [
+          "0009-0001-7792-7491"
+        ],
+        "affiliations": [
+          "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia."
+        ]
+      },
+      {
+        "full_name": "Stepanov, Vadim A",
+        "short_name": "Stepanov VA",
+        "identifiers": [
+          "0000-0002-5166-331X"
+        ],
+        "affiliations": [
+          "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia."
+        ]
+      },
+      {
+        "full_name": "Skryabin, Nikolay A",
+        "short_name": "Skryabin NA",
+        "identifiers": [
+          "0000-0002-2491-3141"
+        ],
+        "affiliations": [
+          "Research Institute of Medical Genetics, Tomsk National Research Medical Center, Tomsk 634009, Russia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42941889"
+    ],
+    "review": [
+      "42941889"
+    ],
+    "pmc": [
+      "13705119"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27209120",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/epilepsy.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Epilepsy"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42941889/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/epilepsy.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Epilepsy"
+      }
+    ],
+    "text_mined": []
+  }
+}

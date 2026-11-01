@@ -1,0 +1,213 @@
+{
+  "identity": {
+    "pmid": "42941971",
+    "doi": "10.3390/ijms27209201",
+    "title": "Fenvalerate Induces Airway Epithelial Injury Through CHRM3-Associated NF-kappaB Activation."
+  },
+  "content": {
+    "abstract": "Fenvalerate (FEN) is a widely used pyrethroid insecticide with potential respiratory toxicity; however, its contribution to chronic obstructive pulmonary disease (COPD)-related pathological processes remains unclear. We investigated molecular mechanisms linking FEN exposure to airway epithelial injury. COPD transcriptomic datasets were integrated with predicted FEN targets, and candidate genes were prioritized using machine-learning algorithms. Immune infiltration and single-cell transcriptomic analyses were used to examine immune associations and cell-type-specific expression. Molecular docking and molecular dynamics simulations assessed potential FEN-target interactions, followed by validation in BEAS-2B human bronchial epithelial cells. Intersecting FEN-COPD genes were enriched in inflammatory, immune-regulatory, neuroactive ligand-receptor, and epithelial injury-related pathways. Eight candidate genes showed distinct expression patterns across airway epithelial and immune cell populations. Computational analyses supported a potentially stable FEN-CHRM3 interaction. In BEAS-2B cells, FEN reduced viability, increased IL-6 and IL-8 secretion, promoted apoptosis, upregulated CHRM3, and enhanced IkappaBalpha and p65 phosphorylation. Pharmacological inhibition of CHRM3 or NF-kappaB partially attenuated these responses. Thus, FEN-induced epithelial inflammation and apoptosis may involve CHRM3-associated NF-kappaB activation, providing mechanistic insight into pesticide-related respiratory toxicity.",
+    "keywords": [
+      "CHRM3",
+      "NF-kappaB signaling pathway",
+      "chronic obstructive pulmonary disease",
+      "fenvalerate",
+      "inflammation",
+      "machine learning",
+      "single-cell RNA sequencing"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Pyrethrins/toxicity/adverse effects",
+      "*Nitriles/toxicity/adverse effects",
+      "*NF-kappa B/metabolism",
+      "*Epithelial Cells/drug effects/metabolism/pathology",
+      "*Insecticides/toxicity",
+      "Interleukin-8/metabolism",
+      "Cell Line",
+      "Apoptosis/drug effects",
+      "Molecular Docking Simulation",
+      "*Pulmonary Disease, Chronic Obstructive/metabolism/pathology/chemically induced/genetics",
+      "*Respiratory Mucosa/drug effects/metabolism/pathology",
+      "Signal Transduction/drug effects",
+      "NF-KappaB Inhibitor alpha/metabolism",
+      "Interleukin-6/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Yuxin",
+        "Li, Jixin",
+        "Liu, Tong",
+        "Sheng, Mingyang",
+        "Liu, Jiatong",
+        "Yang, Zidong",
+        "Chu, Hongbo",
+        "Jia, Ailing",
+        "Xu, Wei"
+      ],
+      "short_names": [
+        "Yang Y",
+        "Li J",
+        "Liu T",
+        "Sheng M",
+        "Liu J",
+        "Yang Z",
+        "Chu H",
+        "Jia A",
+        "Xu W"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-3210-1291",
+        "ORCID: 0009-0008-5887-7098"
+      ],
+      "affiliations": [
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Yuxin",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jixin",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Tong",
+        "short_name": "Liu T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Sheng, Mingyang",
+        "short_name": "Sheng M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiatong",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zidong",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Chu, Hongbo",
+        "short_name": "Chu H",
+        "identifiers": [
+          "0009-0008-3210-1291"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Ailing",
+        "short_name": "Jia A",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Wei",
+        "short_name": "Xu W",
+        "identifiers": [
+          "0009-0008-5887-7098"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42941971"
+    ],
+    "review": [
+      "42941971"
+    ],
+    "pmc": [
+      "13705351"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27209201",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/copd.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COPD"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42941971/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

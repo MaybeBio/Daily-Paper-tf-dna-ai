@@ -1,0 +1,161 @@
+{
+  "identity": {
+    "pmid": "42930868",
+    "doi": "10.3390/jfb17100532",
+    "title": "Machine Learning-Assisted Evaluation of Topography-Dependent Cellular Responses in Meniscus-Mimetic Piezoelectric Nanofibrous Scaffolds."
+  },
+  "content": {
+    "abstract": "Electrospun nanofibrous scaffolds provide topographical cues that regulate cellular behavior; however, relationships between scaffold design and multidimensional biological responses remain difficult to define because structural and material parameters act simultaneously. Here, we fabricated meniscus-mimetic piezoelectric nanofibrous scaffolds with different fiber architectures and compositions and systematically evaluated their cellular responses using machine learning (ML). Poly(vinylidene fluoride) (PVDF)-based scaffolds with random, aligned, and radial fiber architectures were prepared, including composite scaffolds containing barium titanate (BaTiO(3)) and multi-walled carbon nanotubes (MWCNTs). Scaffold morphology and fiber organization were quantitatively characterized, and mesenchymal stem cells (MSCs) cultured on the scaffolds were analyzed by DAPI, F-actin, and SRY-box transcription factor 9 (SOX9) fluorescence imaging. Quantitative image analysis revealed scaffold-dependent differences in cellularity, nuclear morphology and orientation, cytoskeletal organization, and SOX9-associated phenotype, demonstrating distinct cellular responses to fiber topography and material composition. Scaffold and cellular parameters were subsequently integrated into a quantitative dataset to develop and compare multiple ML models for modeling scaffold-dependent cellular responses. The ML framework captured relationships between scaffold characteristics and multidimensional biological outcomes. These findings establish an experimental-computational approach for linking electrospun scaffold design with cellular behavior and provide a data-driven framework for the rational evaluation and optimization of meniscus-mimetic piezoelectric scaffolds.",
+    "keywords": [
+      "fiber topography",
+      "machine learning",
+      "meniscus tissue engineering",
+      "mesenchymal stem cells",
+      "piezoelectric nanofibers"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Jeong In",
+        "Kim, Minyoung",
+        "Lee, Soonchul",
+        "Lim, Claire Haeyoon",
+        "Choi, Wonchul",
+        "Lee, Sung-Sahn"
+      ],
+      "short_names": [
+        "Kim JI",
+        "Kim M",
+        "Lee S",
+        "Lim CH",
+        "Choi W",
+        "Lee SS"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7728-0061"
+      ],
+      "affiliations": [
+        "Department of Orthopedic Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea.",
+        "Department of Orthopedic Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea.",
+        "Department of Orthopedic Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea.",
+        "Department of Anatomy, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea.",
+        "Yongsan International School of Seoul, Seoul 04347, Republic of Korea.",
+        "Department of Orthopedic Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea.",
+        "Department of Orthopedic Surgery, Incheon St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Incheon 21431, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Jeong In",
+        "short_name": "Kim JI",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Minyoung",
+        "short_name": "Kim M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Soonchul",
+        "short_name": "Lee S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea.",
+          "Department of Anatomy, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lim, Claire Haeyoon",
+        "short_name": "Lim CH",
+        "identifiers": [],
+        "affiliations": [
+          "Yongsan International School of Seoul, Seoul 04347, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Choi, Wonchul",
+        "short_name": "Choi W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam-Si 13488, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Sung-Sahn",
+        "short_name": "Lee SS",
+        "identifiers": [
+          "0000-0001-7728-0061"
+        ],
+        "affiliations": [
+          "Department of Orthopedic Surgery, Incheon St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Incheon 21431, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of functional biomaterials"
+    ],
+    "journal_abbrev": [
+      "J Funct Biomater"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 17:31",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42930868"
+    ],
+    "review": [
+      "42930868"
+    ],
+    "pmc": [
+      "13706403"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=jfb17100532",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42930868/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SOX9-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

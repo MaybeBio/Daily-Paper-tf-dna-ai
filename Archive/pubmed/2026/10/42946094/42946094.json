@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "42946094",
+    "doi": "10.1016/j.fitote.2026.107536",
+    "title": "Desoxo-narchinol A and water extract of Nardostachys jatamansi ameliorate house dust mite-induced atopic dermatitis by regulating Nrf2/HO-1 signaling."
+  },
+  "content": {
+    "abstract": "Nardostachys jatamansi has traditionally been used to treat gastrointestinal disorders. Although it was recently reported to have anti-inflammatory properties, the pharmacological potential of water extract of Nardostachys jatamansi (WENJ) against atopic dermatitis (AD)-like skin inflammation remains unclear. We investigated the effects of WENJ on a house dust mite-induced AD-like mouse model by assessing phenotypic severity, histopathological changes, and cytokine expression. Transcriptomic analysis of murine skin tissues was performed to identify gene expression signatures and key transcription factors contributing to the efficacy of WENJ. In addition, the role of the primary bioactive component of WENJ, desoxo-narchinol A, was examined in interleukin (IL)-4/IL-13-stimulated human keratinocytes, with a focus on nuclear factor erythroid 2-related factor 2 (Nrf2)/heme oxygenase-1 (HO-1) signaling. In the AD-like mouse model, oral administration of WENJ markedly alleviated AD-like symptoms, reduced immune cell infiltration and inflammatory mediator expression, and restored the expression of skin barrier proteins such as filaggrin. The Nrf2/HO-1 pathway was identified as a key molecular pathway underlying the effects of WENJ on AD-like skin inflammation. Moreover, desoxo-narchinol A significantly increased Nrf2/HO-1 expression in keratinocytes, and exhibited the ability to bind Keap1 in molecular docking analysis. These findings demonstrate that WENJ and its active constituent desoxo-narchinol A exert anti-inflammatory and skin-protective effects through activation of the Nrf2/HO-1 pathway, highlighting their potential as promising therapeutic candidates for AD and related inflammatory skin conditions.",
+    "keywords": [
+      "Atopic dermatitis",
+      "Inflammation",
+      "Nardostachys jatamansi",
+      "Nrf2/HO-1 signaling",
+      "Skin"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shim, Ki-Shuk",
+        "Kim, Hye Jin",
+        "Baek, Su-Jin",
+        "Gu, Dong Ryun",
+        "Kim, Yu Jin",
+        "Kim, Seong Cheol",
+        "Chae, Sungwook",
+        "Kim, Taesoo",
+        "Kim, Ki Mo"
+      ],
+      "short_names": [
+        "Shim KS",
+        "Kim HJ",
+        "Baek SJ",
+        "Gu DR",
+        "Kim YJ",
+        "Kim SC",
+        "Chae S",
+        "Kim T",
+        "Kim KM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: angeloshim@kiom.re.kr.",
+        "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: kimhyejin43@kiom.re.kr.",
+        "KM Data Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: baeksj@kiom.re.kr.",
+        "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: mrwonsin@kiom.re.kr.",
+        "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: jinjin0228@kiom.re.kr.",
+        "Biohealthcare R & D Center, Hynundai Bioland Co., Ltd., 152, Manhae-ro, Danwon-gu, Ansan, Gyeonggi 15407, Republic of Korea. Electronic address: iron0907@hyundaibioland.co.kr.",
+        "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea; Korean Convergence Medical Science Major, KIOM School, University of Science & Technology (UST), Daejeon 34054, Republic of Korea. Electronic address: kendall@kiom.re.kr.",
+        "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: xotn91@kiom.re.kr.",
+        "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea; Korean Convergence Medical Science Major, KIOM School, University of Science & Technology (UST), Daejeon 34054, Republic of Korea. Electronic address: vsrc@kiom.re.kr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shim, Ki-Shuk",
+        "short_name": "Shim KS",
+        "identifiers": [],
+        "affiliations": [
+          "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: angeloshim@kiom.re.kr."
+        ]
+      },
+      {
+        "full_name": "Kim, Hye Jin",
+        "short_name": "Kim HJ",
+        "identifiers": [],
+        "affiliations": [
+          "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: kimhyejin43@kiom.re.kr."
+        ]
+      },
+      {
+        "full_name": "Baek, Su-Jin",
+        "short_name": "Baek SJ",
+        "identifiers": [],
+        "affiliations": [
+          "KM Data Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: baeksj@kiom.re.kr."
+        ]
+      },
+      {
+        "full_name": "Gu, Dong Ryun",
+        "short_name": "Gu DR",
+        "identifiers": [],
+        "affiliations": [
+          "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: mrwonsin@kiom.re.kr."
+        ]
+      },
+      {
+        "full_name": "Kim, Yu Jin",
+        "short_name": "Kim YJ",
+        "identifiers": [],
+        "affiliations": [
+          "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: jinjin0228@kiom.re.kr."
+        ]
+      },
+      {
+        "full_name": "Kim, Seong Cheol",
+        "short_name": "Kim SC",
+        "identifiers": [],
+        "affiliations": [
+          "Biohealthcare R & D Center, Hynundai Bioland Co., Ltd., 152, Manhae-ro, Danwon-gu, Ansan, Gyeonggi 15407, Republic of Korea. Electronic address: iron0907@hyundaibioland.co.kr."
+        ]
+      },
+      {
+        "full_name": "Chae, Sungwook",
+        "short_name": "Chae S",
+        "identifiers": [],
+        "affiliations": [
+          "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea; Korean Convergence Medical Science Major, KIOM School, University of Science & Technology (UST), Daejeon 34054, Republic of Korea. Electronic address: kendall@kiom.re.kr."
+        ]
+      },
+      {
+        "full_name": "Kim, Taesoo",
+        "short_name": "Kim T",
+        "identifiers": [],
+        "affiliations": [
+          "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea. Electronic address: xotn91@kiom.re.kr."
+        ]
+      },
+      {
+        "full_name": "Kim, Ki Mo",
+        "short_name": "Kim KM",
+        "identifiers": [],
+        "affiliations": [
+          "KM Convergence Research Division, Korea Institute of Oriental Medicine, Yuseong-daero 1672, Yuseong-gu, Daejeon 34054, Republic of Korea; Korean Convergence Medical Science Major, KIOM School, University of Science & Technology (UST), Daejeon 34054, Republic of Korea. Electronic address: vsrc@kiom.re.kr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Fitoterapia"
+    ],
+    "journal_abbrev": [
+      "Fitoterapia"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 23:28",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42946094"
+    ],
+    "review": [
+      "42946094"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0367-326X(26)00456-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

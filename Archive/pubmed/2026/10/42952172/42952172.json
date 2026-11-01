@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42952172",
+    "doi": "10.1080/21691401.2026.2737622",
+    "title": "Identification of ageing-related genes in prostate cancer with type 2 Diabetes using machine learning: a multi-omics study focusing on SOX4, PRNP, and FOXO4."
+  },
+  "content": {
+    "abstract": "Prostate cancer (PCa) demonstrates complex associations with type 2 diabetes mellitus (T2DM) and ageing, though their interconnected molecular mechanisms remain poorly defined. This study aimed to identify and validate diagnostic biomarkers at the intersection of these pathways to enable early detection and risk stratification in high-risk populations. Bioinformatic analysis was performed on PCa and T2DM transcriptomic data downloaded from the GEO database, followed by differential expression analysis, weighted gene co-expression network analysis (WGCNA), and functional enrichment. Eight machine learning algorithms were applied to identify hub ageing-related genes (ARGs), with SHAP analysis interpreting feature importance. A nomogram model was constructed and validated across multiple cohorts. Immune infiltration, drug sensitivity, single-cell RNA sequencing, and spatial transcriptomics were used for mechanistic exploration. Three key ARGs (SOX4, PRNP, and FOXO4) were identified and used to develop a diagnostic model with high accuracy (AUCs: 0.726-0.905). SOX4 promoted immune evasion, PRNP exhibited context-dependent duality, and FOXO4 functioned as a tumor suppressor. Spatial and single-cell analyses revealed cell-type-specific expression and fibroblast-epithelial communication via MIF, LRP1, and FZD1. Drug sensitivity profiling identified abiraterone and docetaxel as potential therapeutics for high- and low-risk patients, respectively. In conclusion, SOX4, PRNP, and FOXO4 are key biomarkers linking PCa, T2DM, and ageing, and the diagnostic model shows robust performance and clinical utility, providing insights into microenvironment-driven mechanisms and personalized treatment strategies for PCa patients with T2DM.",
+    "keywords": [
+      "Prostate cancer",
+      "Type 2 diabetes mellitus",
+      "ageing-related genes",
+      "diagnostic model",
+      "machine learning",
+      "tumor microenvironment"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Prostatic Neoplasms/genetics/complications",
+      "*Diabetes Mellitus, Type 2/genetics/complications",
+      "*Machine Learning",
+      "*Aging/genetics",
+      "Male",
+      "*SOXC Transcription Factors/genetics",
+      "Multiomics",
+      "Gene Expression Regulation, Neoplastic",
+      "*Forkhead Transcription Factors/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Wei",
+        "Zhang, Xueqian",
+        "Zhang, Chenghao",
+        "Shi, Xinyang",
+        "Deng, Yiheng",
+        "Gao, Yan",
+        "Bi, Kaipeng",
+        "Wang, Zheng",
+        "Chen, Guanqiu",
+        "Ye, Zhoujie",
+        "An, Ziyan",
+        "Fu, Weijun"
+      ],
+      "short_names": [
+        "Zhang W",
+        "Zhang X",
+        "Zhang C",
+        "Shi X",
+        "Deng Y",
+        "Gao Y",
+        "Bi K",
+        "Wang Z",
+        "Chen G",
+        "Ye Z",
+        "An Z",
+        "Fu W"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-1154-1005",
+        "ORCID: 0000-0002-6054-1015",
+        "ORCID: 0000-0001-6904-7497"
+      ],
+      "affiliations": [
+        "School of Medicine, Nankai University, Tianjin, China.",
+        "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China.",
+        "School of Medicine, Nankai University, Tianjin, China.",
+        "School of Medicine, Nankai University, Tianjin, China.",
+        "School of Medicine, Nankai University, Tianjin, China.",
+        "School of Medicine, Nankai University, Tianjin, China.",
+        "School of Medical Technology, Hebei Medical University, Shijiazhuang, China.",
+        "School of Medicine, Nankai University, Tianjin, China.",
+        "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China.",
+        "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China.",
+        "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China.",
+        "School of Medicine, Nankai University, Tianjin, China.",
+        "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China.",
+        "Department of Urology, Beijing Shijitan Hospital, Capital Medical University, Beijing, China.",
+        "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Wei",
+        "short_name": "Zhang W",
+        "identifiers": [
+          "0009-0003-1154-1005"
+        ],
+        "affiliations": [
+          "School of Medicine, Nankai University, Tianjin, China.",
+          "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xueqian",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chenghao",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Xinyang",
+        "short_name": "Shi X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Yiheng",
+        "short_name": "Deng Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yan",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Technology, Hebei Medical University, Shijiazhuang, China."
+        ]
+      },
+      {
+        "full_name": "Bi, Kaipeng",
+        "short_name": "Bi K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Nankai University, Tianjin, China.",
+          "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zheng",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Guanqiu",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Zhoujie",
+        "short_name": "Ye Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Nankai University, Tianjin, China.",
+          "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "An, Ziyan",
+        "short_name": "An Z",
+        "identifiers": [
+          "0000-0002-6054-1015"
+        ],
+        "affiliations": [
+          "Department of Urology, Beijing Shijitan Hospital, Capital Medical University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Weijun",
+        "short_name": "Fu W",
+        "identifiers": [
+          "0000-0001-6904-7497"
+        ],
+        "affiliations": [
+          "Department of Urology, The Third Medical Center, PLA General Hospital, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Artificial cells, nanomedicine, and biotechnology"
+    ],
+    "journal_abbrev": [
+      "Artif Cells Nanomed Biotechnol"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 05:30",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42952172"
+    ],
+    "review": [
+      "42952172"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/21691401.2026.2737622?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/prostatecancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Prostate Cancer"
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1617",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

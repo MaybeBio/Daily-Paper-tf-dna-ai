@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42936004",
+    "doi": "10.3389/fnut.2026.1917718",
+    "title": "Integrated metabolomic and single-cell analyses reveal crotonylation-related epithelial remodeling and SDC4 dysregulation in adenomyosis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Adenomyosis (AM) is characterized by ectopic endometrial invasion and myometrial fibrosis, yet the molecular links between local metabolic remodeling, lysine crotonylation (Kcr), and epithelial dysfunction remain poorly understood. We investigated the metabolic and crotonylation-related landscape of AM and sought to identify epithelial molecular features associated with these alterations. METHODS: Clinical metabolic profiles, public and newly generated tissue metabolomic data, crotonyl-CoA measurements, and tissue crotonylation assays were integrated with single-cell and bulk transcriptomic analyses. Kcr-related transcriptional patterns were characterized using multiple gene-set scoring approaches and co-expression analysis, followed by multi-algorithm feature prioritization. SDC4-associated epithelial states were further examined using trajectory inference, cell-cell communication analysis, transcription-factor prediction, and in silico perturbation. RESULTS: Adjusted clinical analyses showed no robust differences in circulating lipid profiles, whereas tissue-level metabolomic analyses revealed alterations in lipid- and lysine-related metabolites in AM. Crotonyl-CoA estimates were higher in AM tissue, accompanied by increased H3K18cr. A higher p65-associated Kcr signal was also observed in a single IP comparison; given that only one IP measurement was available per group, this finding should be considered a preliminary descriptive observation. Single-cell analyses identified prominent Kcr-related transcriptional patterns in epithelial cells and linked this state to adhesion, junctional organization, and epithelial remodeling. SDC4 was consistently prioritized across five machine-learning procedures and was predominantly expressed in epithelial populations. SDC4-positive epithelial cells exhibited distinct inferred differentiation states and intercellular communication patterns, while computational perturbation further implicated SDC4-associated networks in epithelial adhesion, cytoskeletal organization, and junctional regulation. CONCLUSION: These findings connect local metabolic remodeling and crotonylation-related alterations with a distinct epithelial transcriptional state in AM and identify SDC4 as a consistently prioritized candidate associated with epithelial remodeling. The preliminary p65-associated Kcr observation provides additional context for investigating potential associations among Kcr, p65, and SDC4-related epithelial programs.",
+    "keywords": [
+      "NF-kappaB",
+      "adenomyosis",
+      "fibrosis",
+      "lysine crotonylation",
+      "metabolic remodeling",
+      "syndecan-4"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Jiaxi",
+        "Li, Yue",
+        "Zhang, Hongyu",
+        "Zhao, Yiling",
+        "Fan, Wei",
+        "Xin, Wenhu",
+        "Qiang, Chunhua",
+        "Qin, Tiansheng"
+      ],
+      "short_names": [
+        "Wang J",
+        "Li Y",
+        "Zhang H",
+        "Zhao Y",
+        "Fan W",
+        "Xin W",
+        "Qiang C",
+        "Qin T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "Department of Obstetrics and Gynecology, People's Hospital of Tianzhu Tibetan Autonomous County, Gansu, China.",
+        "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+        "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Jiaxi",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+          "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yue",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+          "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hongyu",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+          "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yiling",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+          "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Wei",
+        "short_name": "Fan W",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+          "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xin, Wenhu",
+        "short_name": "Xin W",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+          "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Qiang, Chunhua",
+        "short_name": "Qiang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, People's Hospital of Tianzhu Tibetan Autonomous County, Gansu, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Tiansheng",
+        "short_name": "Qin T",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China.",
+          "Department of Gynecology, The Second Hospital and Clinical Medical School, Lanzhou University, Lanzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in nutrition"
+    ],
+    "journal_abbrev": [
+      "Front Nutr"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 16:33",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42936004"
+    ],
+    "review": [
+      "42936004"
+    ],
+    "pmc": [
+      "13696502"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42936004/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fnut.2026.1917718",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

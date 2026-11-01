@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42964069",
+    "doi": "10.3389/fimmu.2026.1984202",
+    "title": "Yixintai granules enhance glucose and lipid metabolism after ischemic heart failure by regulating inflammatory factors via the LPS/TLR4/NF-kappaB signaling pathway."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Ischemic heart failure (IHF) severely impacts patients' quality of life and leads to frequent hospitalizations, increased healthcare costs, and increased mortality rates, thus posing a substantial global health challenge. Myocardial ischemia is a primary trigger of HF. Yixintai granules (YXT), a traditional Chinese medicine (TCM) formulation, have demonstrated clinical benefits in HF treatment; however, their underlying mechanisms remain unclear. METHODS: The components of YXT absorbed into the blood were identified using ultra-high-performance liquid chromatography coupled with mass spectrometry (UHPLC-MS/MS). The key regulatory mechanisms underlying its therapeutic effects on HF were clarified using network pharmacology, and the binding affinity of key YXT components to proteins associated with the LPS/TLR4/NF-kappaB pathway was assessed through molecular docking. In vivo experiments involved the establishment of an HF rat model through the ligation of the left anterior descending coronary artery. In vitro experiments utilized an H9C2 cell injury model induced by lipopolysaccharide (LPS), which was subsequently treated with YXT-containing serum. RESULTS: UHPLC-MS/MS analysis identified 2,581 active components in the YXT and 1,055 active components in the YXT-containing serum. Network pharmacology indicated that the expression of pro-inflammatory cytokines mediated by the LPS/TLR4/NF-kappaB pathway and glucolipid metabolic disorders may significantly contribute to the anti-HF effects of YXT. Subsequent in vivo experiments revealed that YXT enhanced cardiac function, reduced myocardial fibrosis, and improved mitochondrial morphology in HF rats. Additionally, it lowered inflammatory cytokine levels and was associated with altered glucose and lipid metabolic profiles and inhibition of the LPS/TLR4/NF-kappaB signaling pathway. In vitro experiments revealed that YXT-containing serum alleviated LPS-induced H9c2 cardiac cell injury, reduced reactive oxygen species and inflammatory cytokine levels, and was associated with altered glucose and lipid metabolic profiles and inhibition of the LPS/TLR4/NF-kappaB signaling pathway. CONCLUSION: YXT improved cardiac function and attenuated fibrosis and ultrastructural damage in IHF rats, with effects associated with LPS/TLR4/NF-kappaB signaling inhibition, reduced inflammation, and altered glucose/lipid metabolic profiles.",
+    "keywords": [
+      "LPS/TLR4/NF-kappaB signaling pathway",
+      "Yixintai granules",
+      "glucose and lipid metabolism",
+      "inflammatory factors",
+      "ischemic heart failure"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Toll-Like Receptor 4/metabolism",
+      "*NF-kappa B/metabolism",
+      "*Heart Failure/metabolism/drug therapy/etiology",
+      "Signal Transduction/drug effects",
+      "Rats",
+      "*Drugs, Chinese Herbal/pharmacology",
+      "*Myocardial Ischemia/drug therapy/metabolism",
+      "*Glucose/metabolism",
+      "*Lipid Metabolism/drug effects",
+      "Male",
+      "Lipopolysaccharides",
+      "Rats, Sprague-Dawley",
+      "Disease Models, Animal",
+      "Inflammation Mediators/metabolism",
+      "Cell Line"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Ziyan",
+        "Liu, Chengxin",
+        "Wei, Jiaming",
+        "Mao, Yiwen",
+        "Yuan, Hui",
+        "Shi, Min",
+        "Lin, Ruifang",
+        "Ding, Zehui",
+        "Zhou, Yinli",
+        "Guo, Zhihua",
+        "Ge, Jinwen",
+        "Long, Yun",
+        "Li, Ya"
+      ],
+      "short_names": [
+        "Wang Z",
+        "Liu C",
+        "Wei J",
+        "Mao Y",
+        "Yuan H",
+        "Shi M",
+        "Lin R",
+        "Ding Z",
+        "Zhou Y",
+        "Guo Z",
+        "Ge J",
+        "Long Y",
+        "Li Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "Department of Critical Care Medicine, The Second Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "Department of Chinese Medicine, Hunan Aerospace Hospital, The Affiliated Aerospace Hospital of Hunan Normal University, Changsha, China.",
+        "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan Academy of Traditional Chinese Medicine, Changsha, China.",
+        "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "School of Pharmacy, Hunan University of Chinese Medicine, Changsha, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Ziyan",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+          "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chengxin",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+          "Department of Critical Care Medicine, The Second Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Jiaming",
+        "short_name": "Wei J",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+          "School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Yiwen",
+        "short_name": "Mao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+          "School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Hui",
+        "short_name": "Yuan H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chinese Medicine, Hunan Aerospace Hospital, The Affiliated Aerospace Hospital of Hunan Normal University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Min",
+        "short_name": "Shi M",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+          "School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Ruifang",
+        "short_name": "Lin R",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+          "School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Zehui",
+        "short_name": "Ding Z",
+        "identifiers": [],
+        "affiliations": [
+          "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+          "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yinli",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Zhihua",
+        "short_name": "Guo Z",
+        "identifiers": [],
+        "affiliations": [
+          "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+          "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Jinwen",
+        "short_name": "Ge J",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Academy of Traditional Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Long, Yun",
+        "short_name": "Long Y",
+        "identifiers": [],
+        "affiliations": [
+          "Cardiovascular Medicine Department, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ya",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Key Laboratory of Colleges and Universities of Intelligent Traditional Chinese Medicine Diagnosis and Preventive Treatment of Chronic Diseases of Hunan Universities of Chinese Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+          "School of Pharmacy, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 05:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42964069"
+    ],
+    "review": [
+      "42964069"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

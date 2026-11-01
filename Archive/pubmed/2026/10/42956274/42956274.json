@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "42956274",
+    "doi": "10.1002/cphc.70604",
+    "title": "Salt-Mediated Long-Range Electrostatic Signature of Native Binding Surface Pre-Organizes Bound-Like Conformations of p53 C-Terminal Intrinsically Disordered Region."
+  },
+  "content": {
+    "abstract": "Intrinsically disordered proteins (IDPs) and regions (IDRs) often undergo a disorder-to-order transition via coupled folding and binding. The p53 C-terminal domain (CTD) IDR folds into a helical conformation upon binding S100B, yet the long-range influence of the ionic environment on this transition remains poorly understood. Using all-atom molecular dynamics simulations with a novel confinement setup, we investigated the conformational landscape of a 12-residue fragment of p53 CTD at varying distances from the S100B binding cleft. Comparing behavior in pure water and physiological salt (150 mM NaCl), we find that at 10 A from the native binding surface, the peptide spontaneously forms stable, bound-like helical segments exclusively in the salt solution. This effect is distance-dependent, vanishing at 20 A, and specific to the native binding surface, notably occurring without direct protein-IDR contacts. Our results demonstrate that the negatively charged S100B surface organizes solvated ions into a structured, long-range electrostatic microenvironment that thermodynamically stabilizes bound-like helical conformations prior to direct contact. This reveals a synergistic effect between native surface topology and physiological salt that biases the IDR's conformational ensemble to facilitate binding, identifying the ions in the solution as active participants in molecular recognition.",
+    "keywords": [
+      "CTD",
+      "biophysics",
+      "chemistry",
+      "conformational change",
+      "intrinsically disordered proteins",
+      "molecular dynamics",
+      "molecular recognition",
+      "molecular simulation",
+      "p53 tumor suppressor protein",
+      "peptide binding"
+    ],
+    "mesh_terms": [
+      "*Tumor Suppressor Protein p53/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "Static Electricity",
+      "*Sodium Chloride/chemistry",
+      "Protein Binding",
+      "Protein Domains",
+      "*Intrinsically Disordered Proteins/chemistry/metabolism",
+      "Binding Sites",
+      "Humans",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Das, Kingshuk",
+        "Jana, Biman"
+      ],
+      "short_names": [
+        "Das K",
+        "Jana B"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7684-1963"
+      ],
+      "affiliations": [
+        "School of Chemical Sciences, Indian Association for the Cultivation of Science, Kolkata, India.",
+        "School of Chemical Sciences, Indian Association for the Cultivation of Science, Kolkata, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Das, Kingshuk",
+        "short_name": "Das K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemical Sciences, Indian Association for the Cultivation of Science, Kolkata, India."
+        ]
+      },
+      {
+        "full_name": "Jana, Biman",
+        "short_name": "Jana B",
+        "identifiers": [
+          "0000-0001-7684-1963"
+        ],
+        "affiliations": [
+          "School of Chemical Sciences, Indian Association for the Cultivation of Science, Kolkata, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemphyschem : a European journal of chemical physics and physical chemistry"
+    ],
+    "journal_abbrev": [
+      "Chemphyschem"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 17:36",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42956274"
+    ],
+    "review": [
+      "42956274"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/cphc.70604",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

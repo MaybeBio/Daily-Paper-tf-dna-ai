@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42945964",
+    "doi": "10.1016/j.xgen.2026.101398",
+    "title": "TFXcan reveals transcription factor programs driving GWAS loci."
+  },
+  "content": {
+    "abstract": "Disease-associated loci identified by genome-wide association studies (GWASs) may induce effects by altering transcription factor (TF) binding. However, due to the scarcity of population-level TF-binding experiments, identifying these disrupted TFs remains challenging. To address this, we present the TFXcan framework, which correlates genetically predicted TF binding with phenotypes to nominate TF-tissue pairs that may regulate complex traits. Within this framework, we introduce Enpact, a deep learning-based approach that integrates Enformer and IMPACT to infer personalized TF-binding events. Leveraging Enpact, we correlate predicted binding profiles for 700 TF-tissue pairs with prostate cancer risk, identifying multiple implicated TFs at risk loci. Matrix decomposition further reveals clusters of TF-tissue pairs, termed \"programs,\" acting as candidate drivers of disease risk. TFXcan represents the first method capable of predicting TF binding from genotype data at scale, enabling systematic identification of TFs and regulatory programs underlying complex traits.",
+    "keywords": [
+      "Transcription-factor binding, prostate cancer, multi-omic prediction, association",
+      "study, TWAS, GWAS, machine learning"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Adeluwa, Temidayo",
+        "Salazar-Magana, Sofia",
+        "Sumner, Sarah",
+        "Gona, Saideep",
+        "Nyasimi, Festus",
+        "Carbonetto, Peter",
+        "Baca, Sylvan C",
+        "Freedman, Matthew",
+        "Gusev, Alexander",
+        "Liu, Boxiang",
+        "Madduri, Ravi",
+        "Stephens, Matthew",
+        "Gao, Guimin",
+        "Amariuta, Tiffany",
+        "Im, Hae Kyung"
+      ],
+      "short_names": [
+        "Adeluwa T",
+        "Salazar-Magana S",
+        "Sumner S",
+        "Gona S",
+        "Nyasimi F",
+        "Carbonetto P",
+        "Baca SC",
+        "Freedman M",
+        "Gusev A",
+        "Liu B",
+        "Madduri R",
+        "Stephens M",
+        "Gao G",
+        "Amariuta T",
+        "Im HK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Committee on Genetics, Genomics, and Systems Biology, The University of Chicago, Chicago, IL, USA.",
+        "Department of Medicine, Section of Genetic Medicine, The University of Chicago, Chicago, IL, USA.",
+        "Department of Medicine, Section of Genetic Medicine, The University of Chicago, Chicago, IL, USA.",
+        "Committee on Genetics, Genomics, and Systems Biology, The University of Chicago, Chicago, IL, USA.",
+        "Department of Human Genetics, The University of Chicago, Chicago, IL, USA.",
+        "Department of Human Genetics, The University of Chicago, Chicago, IL, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute & Harvard Medical School, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute & Harvard Medical School, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute & Harvard Medical School, Boston, MA, USA.",
+        "Department of Pharmacy and Pharmaceutical Sciences, Faculty of Science, National University of Singapore, Singapore, Singapore; Department of Biomedical Informatics, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore; Genome Institute of Singapore, A *STAR, Singapore, Singapore.",
+        "Data Science and Learning Division, Argonne National Laboratory, Lemont, IL, USA.",
+        "Department of Human Genetics, The University of Chicago, Chicago, IL, USA; Department of Statistics, The University of Chicago, Chicago, IL, USA.",
+        "Department of Public Health Sciences, Biostatistics Laboratory, The University of Chicago, Chicago, IL, USA.",
+        "Halicioglu Data Science Institute, University of California, San Diego, La Jolla, CA, USA; Division of Biomedical Informatics, Department of Medicine, University of California, San Diego, La Jolla, CA, USA. Electronic address: tamariuta@ucsd.edu.",
+        "Committee on Genetics, Genomics, and Systems Biology, The University of Chicago, Chicago, IL, USA; Department of Medicine, Section of Genetic Medicine, The University of Chicago, Chicago, IL, USA. Electronic address: haky@uchicago.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Adeluwa, Temidayo",
+        "short_name": "Adeluwa T",
+        "identifiers": [],
+        "affiliations": [
+          "Committee on Genetics, Genomics, and Systems Biology, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Salazar-Magaña, Sofia",
+        "short_name": "Salazar-Magaña S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Section of Genetic Medicine, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Sumner, Sarah",
+        "short_name": "Sumner S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Section of Genetic Medicine, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Gona, Saideep",
+        "short_name": "Gona S",
+        "identifiers": [],
+        "affiliations": [
+          "Committee on Genetics, Genomics, and Systems Biology, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Nyasimi, Festus",
+        "short_name": "Nyasimi F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Carbonetto, Peter",
+        "short_name": "Carbonetto P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Baca, Sylvan C",
+        "short_name": "Baca SC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute & Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Freedman, Matthew",
+        "short_name": "Freedman M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute & Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Gusev, Alexander",
+        "short_name": "Gusev A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute & Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Boxiang",
+        "short_name": "Liu B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy and Pharmaceutical Sciences, Faculty of Science, National University of Singapore, Singapore, Singapore; Department of Biomedical Informatics, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore; Genome Institute of Singapore, A∗STAR, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Madduri, Ravi",
+        "short_name": "Madduri R",
+        "identifiers": [],
+        "affiliations": [
+          "Data Science and Learning Division, Argonne National Laboratory, Lemont, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Stephens, Matthew",
+        "short_name": "Stephens M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, The University of Chicago, Chicago, IL, USA; Department of Statistics, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Gao, Guimin",
+        "short_name": "Gao G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Public Health Sciences, Biostatistics Laboratory, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Amariuta, Tiffany",
+        "short_name": "Amariuta T",
+        "identifiers": [],
+        "affiliations": [
+          "Halıcıoğlu Data Science Institute, University of California, San Diego, La Jolla, CA, USA; Division of Biomedical Informatics, Department of Medicine, University of California, San Diego, La Jolla, CA, USA. Electronic address: tamariuta@ucsd.edu."
+        ]
+      },
+      {
+        "full_name": "Im, Hae Kyung",
+        "short_name": "Im HK",
+        "identifiers": [],
+        "affiliations": [
+          "Committee on Genetics, Genomics, and Systems Biology, The University of Chicago, Chicago, IL, USA; Department of Medicine, Section of Genetic Medicine, The University of Chicago, Chicago, IL, USA. Electronic address: haky@uchicago.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell genomics"
+    ],
+    "journal_abbrev": [
+      "Cell Genom"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 23:28",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42945964"
+    ],
+    "review": [
+      "42945964"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-979X(26)00260-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2666-979X(26)00260-0",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

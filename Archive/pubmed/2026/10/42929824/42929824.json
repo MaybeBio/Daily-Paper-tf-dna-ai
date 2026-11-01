@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42929824",
+    "doi": "10.3390/cells15201850",
+    "title": "TDP-43 Coincides with Noradrenergic Neurons in Alzheimer's Disease (AD) and Primary Age-Related Tauopathy (PART)."
+  },
+  "content": {
+    "abstract": "TAR DNA-binding protein 43 (TDP-43) pathology is a major contributor to cognitive decline in Alzheimer's disease (AD), yet the cellular substrates and circuit-level consequences of its limbic accumulation remain poorly defined. Here, we combined multiplex immunofluorescence with 3D Artificial Intelligence (AI)-based object detection and quantitative colocalization to map phosphorylated TDP-43 (pTDP-43) across neuronal subtypes in the amygdala, hippocampal subfields, and entorhinal cortex (ERC) in human AD, AD with Lewy body disease (AD-LBD), and primary age-related tauopathy (PART). Across 15 deeply phenotyped cases, pTDP-43 showed preferential accumulation in neuromodulatory noradrenergic neurons, with more limited involvement of glutamatergic terminals and cholinergic populations. Noradrenergic neurons marked by dopamine beta-hydroxylase (DbetaH) demonstrated extensive colocalization with pTDP-43 across regions, correlating with APOE genotype, amyloid burden, and tau staging in this cross-sectional cohort, suggesting that neuromodulatory circuits might represent a major convergence point for AD-related molecular stressors. Dopaminergic (tyrosine hydroxylase (TH)) and cholinergic (choline acetyltransferase (ChAT)) neurons showed more restricted but pathology-dependent involvement, with LBD consistently showing lower pTDP-43 burden across multiple transmitter systems. Glutamatergic vesicular glutamate transporter-1 (VGLUT1)-positive neurons and terminals exhibited minimal colocalization except in PART. Principal component (PCA) and hierarchical clustering analyses (HCA) integrating pTDP-43 colocalization with neuropathologic staging metrics (A, B, C, Thal, Braak, LBD) reliably separated PART, AD-TDP, and AD-TDP-LBD groups, with LBD emerging as a dominant modifier of cellular vulnerability. Together, these findings point out that TDP-43 pathology in AD preferentially targets neuromodulatory circuits, is strongly shaped by coexisting synucleinopathy, and provides a cell-type-resolved framework for understanding how TDP-43 contributes to limbic network dysfunction in neurodegeneration.",
+    "keywords": [
+      "Alzheimer's disease (AD)",
+      "Artificial Intelligence (AI)",
+      "Lewy body disease (LBD)",
+      "TAR DNA-binding protein 43 (TDP-43)",
+      "cholinergic",
+      "glutamatergic",
+      "noradrenergic",
+      "primary age-related tauopathy (PART)"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Alzheimer Disease/metabolism/pathology",
+      "*Adrenergic Neurons/metabolism/pathology",
+      "*DNA-Binding Proteins/metabolism",
+      "*Tauopathies/metabolism/pathology",
+      "Male",
+      "Female",
+      "Aged, 80 and over",
+      "Aged"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Uruk, Gokhan",
+        "Youssef, Hossam",
+        "Gatto, Rodolfo G",
+        "Hossain, Nadia",
+        "Bhaskaran, Jerusha",
+        "Tian, Yuqi",
+        "Machulda, Mary M",
+        "Petersen, Ronald C",
+        "Whitwell, Jennifer L",
+        "Reichard, Robert Ross",
+        "Josephs, Keith A"
+      ],
+      "short_names": [
+        "Uruk G",
+        "Youssef H",
+        "Gatto RG",
+        "Hossain N",
+        "Bhaskaran J",
+        "Tian Y",
+        "Machulda MM",
+        "Petersen RC",
+        "Whitwell JL",
+        "Reichard RR",
+        "Josephs KA"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-8876-8038",
+        "ORCID: 0000-0003-2170-6662",
+        "ORCID: 0000-0001-9202-1172",
+        "ORCID: 0009-0008-4509-5425",
+        "ORCID: 0000-0003-4834-5967",
+        "ORCID: 0000-0001-6914-1563",
+        "ORCID: 0000-0003-2930-8634"
+      ],
+      "affiliations": [
+        "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Neuropsychiatry (Neuropsychology), Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Laboratory Medicine and Pathology (Neuropathology), Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.",
+        "Department of Neurology, Behavioral Neurology, and Movement Disorders, Mayo Clinic, College of Medicine, and Science, 200 1st Street Southwest, Rochester, MN 55905, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Uruk, Gokhan",
+        "short_name": "Uruk G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Youssef, Hossam",
+        "short_name": "Youssef H",
+        "identifiers": [
+          "0009-0000-8876-8038"
+        ],
+        "affiliations": [
+          "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Gatto, Rodolfo G",
+        "short_name": "Gatto RG",
+        "identifiers": [
+          "0000-0003-2170-6662"
+        ],
+        "affiliations": [
+          "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Hossain, Nadia",
+        "short_name": "Hossain N",
+        "identifiers": [
+          "0000-0001-9202-1172"
+        ],
+        "affiliations": [
+          "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Bhaskaran, Jerusha",
+        "short_name": "Bhaskaran J",
+        "identifiers": [
+          "0009-0008-4509-5425"
+        ],
+        "affiliations": [
+          "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Tian, Yuqi",
+        "short_name": "Tian Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Machulda, Mary M",
+        "short_name": "Machulda MM",
+        "identifiers": [
+          "0000-0003-4834-5967"
+        ],
+        "affiliations": [
+          "Department of Neuropsychiatry (Neuropsychology), Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Petersen, Ronald C",
+        "short_name": "Petersen RC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Whitwell, Jennifer L",
+        "short_name": "Whitwell JL",
+        "identifiers": [
+          "0000-0001-6914-1563"
+        ],
+        "affiliations": [
+          "Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Reichard, Robert Ross",
+        "short_name": "Reichard RR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Pathology (Neuropathology), Mayo Clinic, Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Josephs, Keith A",
+        "short_name": "Josephs KA",
+        "identifiers": [
+          "0000-0003-2930-8634"
+        ],
+        "affiliations": [
+          "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.",
+          "Department of Neurology, Behavioral Neurology, and Movement Disorders, Mayo Clinic, College of Medicine, and Science, 200 1st Street Southwest, Rochester, MN 55905, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cells"
+    ],
+    "journal_abbrev": [
+      "Cells"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 11:29",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42929824"
+    ],
+    "review": [
+      "42929824"
+    ],
+    "pmc": [
+      "13703715"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cells15201850",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/alzheimersdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Alzheimer's Disease"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42929824/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1087",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

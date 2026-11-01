@@ -1,0 +1,169 @@
+{
+  "identity": {
+    "pmid": "42945726",
+    "doi": "10.1016/j.plaphy.2026.111883",
+    "title": "Binding pocket optimization of Pueraria mirifica type II chalcone isomerase synergizing with a necrosis-attenuating host transcription factor for persistent daidzein biosynthesis."
+  },
+  "content": {
+    "abstract": "Pathway reconstitution of leguminous isoflavonoids in non-legume plant chassis offers a tractably controlled environment to probe specialized metabolism, yet it remains critically bottlenecked by suboptimal heterologous enzyme efficiency and severe host tissue necrosis. Here, we overcome these long-standing architectural limitations by establishing a highly synergistic, necrosis-attenuated Nicotiana benthamiana synthetic biology platform. We characterized chalcone isomerases from Pueraria mirifica (PmCHIs), revealing that PmCHI Type II operates as a biochemical junction exhibiting a specialized substrate-dependent alkaline optimum (pH 7.5-8.0) exclusively toward isoliquiritigenin. Combining 500-ns molecular dynamics simulations with structure-guided mutagenesis, active-site engineering identified an I195V variant with enhanced isoliquiritigenin preference. The conservative I195V substitution was predicted to reduce local steric crowding and produced an isoliquiritigenin selectivity ratio of 1.63 in vitro. For in planta pathway integration, we delivered a polycistronic cascade using P2A ribosome-skipping peptides to streamline multiplex multi-gene stacking. Crucially, substituting the conventional Arabidopsis thaliana MYB12 regulator with a host-derived N. benthamiana MYB60 transcription factor successfully attenuated tissue necrosis, accompanied by reduced electrolyte leakage. Quantitative proteomics showed no statistically significant difference in PmCHI abundance between the I195V and WT-II treatments in planta, while independent plant batches consistently showed higher daidzein accumulation with I195V, although the magnitude of enhancement varied among experiments. The NbMYB60-based platform extended the operational viability window up to 9 days, delivering a robust daidzein titer of 1.5 mg/g DW at 6 days post-infiltration, with individual high-performing replicates reaching up to 2.5 mg/g DW. Together, these results establish an integrated enzyme-engineering and necrosis-attenuating regulatory framework for persistent daidzein biosynthesis and specialized pathway reconstitution in planta.",
+    "keywords": [
+      "Active-site engineering",
+      "Chalcone isomerase",
+      "Daidzein biosynthesis",
+      "NbMYB60",
+      "Nicotiana benthamiana",
+      "Pueraria mirifica"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Suntichaikamolkul, Nithiwat",
+        "Sanachai, Kamonpan",
+        "Nutho, Bodee",
+        "Rungrotmongkol, Thanyada",
+        "Tubtimrattana, Apinya",
+        "Thirati, Parath",
+        "Sucharitakul, Jeerus",
+        "Sirikantaramas, Supaart"
+      ],
+      "short_names": [
+        "Suntichaikamolkul N",
+        "Sanachai K",
+        "Nutho B",
+        "Rungrotmongkol T",
+        "Tubtimrattana A",
+        "Thirati P",
+        "Sucharitakul J",
+        "Sirikantaramas S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, 10330, Thailand; Center of Excellence in Molecular Crop, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Science, Khon Kaen University, Khon Kaen, 40002, Thailand.",
+        "Department of Pharmacology, Faculty of Science, Mahidol University, Bangkok, 10400, Thailand.",
+        "Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, 10330, Thailand; Center of Excellence in Structural and Computational Biology, Chulalongkorn University, Bangkok, 10330, Thailand; Program in Bioinformatics and Computational Biology, College of Interdisciplinary and Integrative Studies, Chulalongkorn University, Bangkok, 10330, Thailand.",
+        "Department of Forensic Medicine, King Chulalongkorn Memorial Hospital, The Thai Red Cross Society, Bangkok, 10330, Thailand.",
+        "Department of Forensic Medicine, Faculty of Medicine, Chulalongkorn University, Bangkok, 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, 10330, Thailand. Electronic address: jeerus.s@chula.ac.th.",
+        "Center of Excellence in Molecular Crop, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, 10330, Thailand. Electronic address: supaart.s@chula.ac.th."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Suntichaikamolkul, Nithiwat",
+        "short_name": "Suntichaikamolkul N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, 10330, Thailand; Center of Excellence in Molecular Crop, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Sanachai, Kamonpan",
+        "short_name": "Sanachai K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Science, Khon Kaen University, Khon Kaen, 40002, Thailand."
+        ]
+      },
+      {
+        "full_name": "Nutho, Bodee",
+        "short_name": "Nutho B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Faculty of Science, Mahidol University, Bangkok, 10400, Thailand."
+        ]
+      },
+      {
+        "full_name": "Rungrotmongkol, Thanyada",
+        "short_name": "Rungrotmongkol T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, 10330, Thailand; Center of Excellence in Structural and Computational Biology, Chulalongkorn University, Bangkok, 10330, Thailand; Program in Bioinformatics and Computational Biology, College of Interdisciplinary and Integrative Studies, Chulalongkorn University, Bangkok, 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Tubtimrattana, Apinya",
+        "short_name": "Tubtimrattana A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Forensic Medicine, King Chulalongkorn Memorial Hospital, The Thai Red Cross Society, Bangkok, 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Thirati, Parath",
+        "short_name": "Thirati P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Forensic Medicine, Faculty of Medicine, Chulalongkorn University, Bangkok, 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Sucharitakul, Jeerus",
+        "short_name": "Sucharitakul J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, 10330, Thailand. Electronic address: jeerus.s@chula.ac.th."
+        ]
+      },
+      {
+        "full_name": "Sirikantaramas, Supaart",
+        "short_name": "Sirikantaramas S",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Molecular Crop, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, 10330, Thailand. Electronic address: supaart.s@chula.ac.th."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant physiology and biochemistry : PPB"
+    ],
+    "journal_abbrev": [
+      "Plant Physiol Biochem"
+    ],
+    "pub_date": "2026 Oct 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 23:28",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42945726"
+    ],
+    "review": [
+      "42945726"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0981-9428(26)00869-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

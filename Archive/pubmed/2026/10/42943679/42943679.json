@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42943679",
+    "doi": "10.3390/molecules31203606",
+    "title": "Effects of a Benzimidazolium Salt on Colorectal Cancer Cells: Involvement of Apoptosis and Autophagy."
+  },
+  "content": {
+    "abstract": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide, necessitating the identification of novel small molecules capable of targeting multiple survival pathways. In this study, the antiproliferative potential of dds benzimidazole-palladium (Pd) complexes was evaluated across breast cancer (4T1, MDA-MB-231) and CRC (DLD-1, HT-29) cell lines using MTT assays. Following initial screening, CRC models were prioritized for mechanistic investigation due to the complexes' superior cytotoxic profile, particularly that of the lead candidate 3a, which exhibited significant dose-dependent efficacy. Mechanistic analyses, employing immunofluorescence staining for LC3 and mTOR alongside Annexin V/PI flow cytometry, revealed that compound 3a triggers a potent dual response characterized by concomitant autophagy and apoptosis. Furthermore, functional assays indicated that 3a significantly impairs the metastatic hallmarks of CRC cells by inhibiting migration, cell adhesion, and colony formation. Gene expression profiling further elucidated that the anticancer efficacy of 3a is mediated by suppression of the AKT/mTOR/STAT3 signaling axis, thereby triggering an autophagic response that destabilizes cell adhesion and accelerates apoptosis. These molecular findings were corroborated by in silico molecular docking analyses, which demonstrated favorable binding affinities between compound 3a and key regulatory proteins, specifically BCL-2 and Caspase-3. Collectively, these results identify compound 3a as a promising multi-targeted anticancer agent that disrupts critical survival and metastatic pathways in CRC, warranting further preclinical and mechanistic exploration for therapeutic development.",
+    "keywords": [
+      "apoptosis",
+      "autophagy",
+      "benzimidazole",
+      "colon cancer"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Autophagy/drug effects",
+      "*Apoptosis/drug effects",
+      "*Benzimidazoles/pharmacology/chemistry",
+      "*Colorectal Neoplasms/drug therapy/metabolism/pathology",
+      "Cell Line, Tumor",
+      "*Antineoplastic Agents/pharmacology/chemistry",
+      "Molecular Docking Simulation",
+      "Cell Proliferation/drug effects",
+      "Signal Transduction/drug effects",
+      "TOR Serine-Threonine Kinases/metabolism",
+      "Cell Movement/drug effects",
+      "STAT3 Transcription Factor/metabolism",
+      "Gene Expression Regulation, Neoplastic/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cakir, Mustafa",
+        "Acikgoz, Eda",
+        "Kuzu, Burak",
+        "Akar, Sakine",
+        "Ozkol, Halil",
+        "Donmez-Altuntas, Hamiyet",
+        "Akkoc, Senem"
+      ],
+      "short_names": [
+        "Cakir M",
+        "Acikgoz E",
+        "Kuzu B",
+        "Akar S",
+        "Ozkol H",
+        "Donmez-Altuntas H",
+        "Akkoc S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8861-5485",
+        "ORCID: 0000-0002-6772-3081",
+        "ORCID: 0000-0002-7305-7177",
+        "ORCID: 0000-0001-6473-5813"
+      ],
+      "affiliations": [
+        "Department of Medical Biology, Faculty of Medicine, Van Yuzuncu Yil University, Van 65100, Turkiye.",
+        "Department of Histology and Embryology, Faculty of Medicine, Van Yuzuncu Yil University, Van 65100, Turkiye.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Van Yuzuncu Yil University, Van 65100, Turkiye.",
+        "Department of Medical Biology, Faculty of Medicine, Van Yuzuncu Yil University, Van 65100, Turkiye.",
+        "Department of Medical Biology, Faculty of Medicine, Van Yuzuncu Yil University, Van 65100, Turkiye.",
+        "Department of Medical Biology, Faculty of Medicine, Erciyes University, Kayseri 38039, Turkiye.",
+        "Department of Basic Pharmaceutical Sciences, Faculty of Pharmacy, Suleyman Demirel University, Isparta 32260, Turkiye.",
+        "Faculty of Engineering and Natural Sciences, Bahcesehir University, Istanbul 34353, Turkiye."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cakir, Mustafa",
+        "short_name": "Cakir M",
+        "identifiers": [
+          "0000-0002-8861-5485"
+        ],
+        "affiliations": [
+          "Department of Medical Biology, Faculty of Medicine, Van Yuzuncu Yıl University, Van 65100, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Acikgoz, Eda",
+        "short_name": "Acikgoz E",
+        "identifiers": [
+          "0000-0002-6772-3081"
+        ],
+        "affiliations": [
+          "Department of Histology and Embryology, Faculty of Medicine, Van Yuzuncu Yıl University, Van 65100, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Kuzu, Burak",
+        "short_name": "Kuzu B",
+        "identifiers": [
+          "0000-0002-7305-7177"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Van Yuzuncu Yıl University, Van 65100, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Akar, Sakine",
+        "short_name": "Akar S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biology, Faculty of Medicine, Van Yuzuncu Yıl University, Van 65100, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Ozkol, Halil",
+        "short_name": "Ozkol H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biology, Faculty of Medicine, Van Yuzuncu Yıl University, Van 65100, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Donmez-Altuntas, Hamiyet",
+        "short_name": "Donmez-Altuntas H",
+        "identifiers": [
+          "0000-0001-6473-5813"
+        ],
+        "affiliations": [
+          "Department of Medical Biology, Faculty of Medicine, Erciyes University, Kayseri 38039, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Akkoc, Senem",
+        "short_name": "Akkoc S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Basic Pharmaceutical Sciences, Faculty of Pharmacy, Suleyman Demirel University, Isparta 32260, Türkiye.",
+          "Faculty of Engineering and Natural Sciences, Bahçeşehir University, Istanbul 34353, Türkiye."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Oct 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42943679"
+    ],
+    "review": [
+      "42943679"
+    ],
+    "pmc": [
+      "13707498"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=molecules31203606",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/colorectalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Colorectal Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42943679/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SERPINA1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1360",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

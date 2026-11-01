@@ -1,0 +1,203 @@
+{
+  "identity": {
+    "pmid": "42953628",
+    "doi": "10.1021/jacsau.6c00925",
+    "title": "Prediction of Residue-Level Base Preference for DNA-Binding Proteins Using a Multimodal Learning Framework."
+  },
+  "content": {
+    "abstract": "Specific recognition between proteins and DNA governs essential cellular functions, yet the binding specificity of most DNA-binding proteins (DBPs) remains experimentally uncharacterized and high-throughput experimental methods still lag far behind the ever-growing protein data set. Here, we present 3M-BSIP (3-modal base-specific interaction predictor), a multimodal deep learning framework capable of predicting the DNA-binding interface and residue-level base preference for DBPs. 3M-BSIP constructs a holistic protein representation by integrating three distinct modalities: a protein language model capturing evolutionary conservation; a graph neural network encoding 3D structural features; and a hierarchical encoder characterizing physicochemical properties of protein surface pointclouds. Comprehensive benchmarking demonstrates that 3M-BSIP achieves SOTA performance on both interface-residue identification and base-preference predictions. Crucially, the model maintains robust performance on computationally constructed protein structures and is also tolerant toward those undergoing profound structural rearrangements upon DNA binding. Two real-world applications of 3M-BSIP demonstrate that our model not only can accurately predict the specific binding motif of structurally unknown transcription factors but also, more importantly, can guide rapid reprogramming of the base preference of DBPs based on a purely computational pipeline. Therefore, 3M-BSIP holds great potential in annotating the binding motifs of all DBPs in a high-throughput manner and designing new DBPs with desired base specificities.",
+    "keywords": [
+      "DNA base preference",
+      "DNA binding protein",
+      "DNA motif prediction",
+      "Deep learning",
+      "In silico mutant design",
+      "Multimodal model"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Siyuan",
+        "He, Wenyan",
+        "Zhang, Mengru",
+        "Zhang, Xin",
+        "Fang, Wei-Qun",
+        "Xu, Min-Juan",
+        "Shi, Yi",
+        "Cai, Yujia",
+        "Zhang, Yong",
+        "Da, Lin-Tai"
+      ],
+      "short_names": [
+        "Li S",
+        "He W",
+        "Zhang M",
+        "Zhang X",
+        "Fang WQ",
+        "Xu MJ",
+        "Shi Y",
+        "Cai Y",
+        "Zhang Y",
+        "Da LT"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-6499-3556",
+        "ORCID: 0000-0003-1768-208X",
+        "ORCID: 0000-0003-1497-5979",
+        "ORCID: 0000-0002-1589-5754"
+      ],
+      "affiliations": [
+        "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China. RINGGOLD: 12474",
+        "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China. RINGGOLD: 12474",
+        "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, and Joint International Research Laboratory of Metabolic & Developmental Sciences, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Department of Pediatric Hematology/Oncology, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 200240, China. RINGGOLD: 91603",
+        "Department of Anesthesiology, Songjiang Research Institute, Shanghai Key Laboratory of Emotions and Affective Disorders, Songjiang Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 200240, China. RINGGOLD: 576469",
+        "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China. RINGGOLD: 12474",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders, the Collaborative Innovation Center for Brain Science, and Brain Science and Technology Research Center, Shanghai Jiao Tong University, Shanghai 200240, China. RINGGOLD: 505524",
+        "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China. RINGGOLD: 12474",
+        "Key Laboratory of Gene Editing and Cell-Based Immunotherapy for Hematological Diseases, Shanghai 200240, China.",
+        "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, and Joint International Research Laboratory of Metabolic & Developmental Sciences, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China. RINGGOLD: 12474",
+        "Key Laboratory of Gene Editing and Cell-Based Immunotherapy for Hematological Diseases, Shanghai 200240, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Siyuan",
+        "short_name": "Li S",
+        "identifiers": [
+          "0009-0000-6499-3556"
+        ],
+        "affiliations": [
+          "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "He, Wenyan",
+        "short_name": "He W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Mengru",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, and Joint International Research Laboratory of Metabolic & Developmental Sciences, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xin",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Hematology/Oncology, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Wei-Qun",
+        "short_name": "Fang WQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Songjiang Research Institute, Shanghai Key Laboratory of Emotions and Affective Disorders, Songjiang Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Min-Juan",
+        "short_name": "Xu MJ",
+        "identifiers": [
+          "0000-0003-1768-208X"
+        ],
+        "affiliations": [
+          "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Yi",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders, the Collaborative Innovation Center for Brain Science, and Brain Science and Technology Research Center, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Yujia",
+        "short_name": "Cai Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China.",
+          "Key Laboratory of Gene Editing and Cell-Based Immunotherapy for Hematological Diseases, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yong",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0003-1497-5979"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, and Joint International Research Laboratory of Metabolic & Developmental Sciences, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Da, Lin-Tai",
+        "short_name": "Da LT",
+        "identifiers": [
+          "0000-0002-1589-5754"
+        ],
+        "affiliations": [
+          "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China.",
+          "Key Laboratory of Gene Editing and Cell-Based Immunotherapy for Hematological Diseases, Shanghai 200240, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JACS Au"
+    ],
+    "journal_abbrev": [
+      "JACS Au"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 15:20",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42953628"
+    ],
+    "review": [
+      "42953628"
+    ],
+    "pmc": [
+      "13714939"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jaaucr/article-lookup/doi/10.1021/jacsau.6c00925",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "identity": {
+    "pmid": "42926727",
+    "doi": "",
+    "title": "Unlocking the Regulatory Genome by ARGUS: An Evidence-Constrained Agentic Framework for Interpreting Single Nucleotide Variants."
+  },
+  "content": {
+    "abstract": "Over 90% of disease-associated variants from genome-wide association studies fall in noncoding regulatory regions, yet their functional interpretation remains a central open problem in genomic medicine. Large language models prompted to interpret such variants routinely hallucinate transcription factor (TF) binding changes, fabricate experimental support, and assign biological significance to statistically negligible signals. We present ARGUS (Agentic Regulatory Genomics for an Uncertainty-aware Scientist), which strictly separates deterministic biological computation from LLM-mediated reasoning. ARGUS wraps 458 DNABERT-based TF binding models in a hypothesis-directed investigation loop where a planner selects evidence sources based on current uncertainty, a verifier deterministically interprets each observation, and intermediate results change the investigation path. On variant rs6983267 at the 8q24 cancer risk locus, the same planner produces four divergent trajectories for four TFs. FOXA1 is rescued in 3 steps when real ADASTRA allele-specific binding data (15 experiments, FDR = 0.030) reveals a model false negative masked by saturation (both alleles predicted at near-maximal binding, leaving the model unable to resolve allelic differences). KLF6 traverses 8 steps across ADASTRA, JASPAR motif analysis, and ENCODE cCRE regulatory annotation before abstaining due to mixed indirect evidence. RAD21 abstains in 8 steps after ADASTRA returns a powered but nonsignificant allelic test (5 experiments, FDR = 0.65), and SP1, which shares FOXA1's saturated retained prediction, abstains because no direct experimental evidence exists at this locus. All trajectories are produced from real data against local ADASTRA, JASPAR, and ENCODE cCRE evidence sources, with no simulated observations. A comparison of fixed-priority and LLM-mediated planning shows that the LLM planner reaches identical verdicts with fewer tool calls by declining evidence that cannot resolve the claim under test.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dutta, Pratik",
+        "Obusan, Matthew B",
+        "Chao, Max",
+        "Sathian, Rekha",
+        "Papineni, Nimisha",
+        "Davuluri, Ramana V"
+      ],
+      "short_names": [
+        "Dutta P",
+        "Obusan MB",
+        "Chao M",
+        "Sathian R",
+        "Papineni N",
+        "Davuluri RV"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Stony Brook University, Stony Brook, NY, USA.",
+        "Renaissance School of Medicine at Stony Brook University, Stony Brook, NY, USA.",
+        "Stony Brook University, Stony Brook, NY, USA.",
+        "Stony Brook University, Stony Brook, NY, USA.",
+        "Stony Brook University, Stony Brook, NY, USA.",
+        "Stony Brook University, Stony Brook, NY, USA.",
+        "Renaissance School of Medicine at Stony Brook University, Stony Brook, NY, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dutta, Pratik",
+        "short_name": "Dutta P",
+        "identifiers": [],
+        "affiliations": [
+          "Stony Brook University, Stony Brook, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Obusan, Matthew B",
+        "short_name": "Obusan MB",
+        "identifiers": [],
+        "affiliations": [
+          "Renaissance School of Medicine at Stony Brook University, Stony Brook, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Chao, Max",
+        "short_name": "Chao M",
+        "identifiers": [],
+        "affiliations": [
+          "Stony Brook University, Stony Brook, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Sathian, Rekha",
+        "short_name": "Sathian R",
+        "identifiers": [],
+        "affiliations": [
+          "Stony Brook University, Stony Brook, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Papineni, Nimisha",
+        "short_name": "Papineni N",
+        "identifiers": [],
+        "affiliations": [
+          "Stony Brook University, Stony Brook, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Davuluri, Ramana V",
+        "short_name": "Davuluri RV",
+        "identifiers": [],
+        "affiliations": [
+          "Stony Brook University, Stony Brook, NY, USA.",
+          "Renaissance School of Medicine at Stony Brook University, Stony Brook, NY, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ArXiv"
+    ],
+    "journal_abbrev": [
+      "ArXiv"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 05:37",
+    "fetched_at": "2026-11-01 08:59:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42926727"
+    ],
+    "review": [
+      "42926727"
+    ],
+    "pmc": [
+      "13692667"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42926727/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "identity": {
+    "pmid": "42942136",
+    "doi": "10.3390/ijms27209369",
+    "title": "M4-like Macrophages Drive Skeletal Muscle Fibrosis and Suppress Myogenesis via the MMP12/SPP1/NF-kappaB Axis."
+  },
+  "content": {
+    "abstract": "Acute skeletal muscle repair depends on a finely tuned balance between myogenic regeneration and fibrotic remodeling. Macrophages are essential to this process, and specific subsets have been linked to fibrosis in some organs. The M4-like macrophage, a distinct polarization subset implicated in fibrotic diseases, has not been well characterized in the context of injured muscle, particularly regarding its impact on fibroblast activation and myogenic suppression. The study aims to explore the effects of M4-like macrophages in the repair of muscle injury and possible mechanism. We analyzed a murine single-cell RNA-sequencing dataset from cardiotoxin (CTX)-injured skeletal muscle to identify injury-expanded macrophage subsets and their molecular programs. Immunohistochemistry and immunofluorescence staining of muscle sections were used to assess CXCL4 expression and platelet (CD41(+)) infiltration in injured versus uninjured tissues. CXCL4-induced M4-like macrophages were established as an in vitro model to examine their effects on L929 fibroblasts and C2C12 myoblasts. The MMP12-SPP1 interaction was predicted by AlphaFold3 and validated by co-immunoprecipitation and immunofluorescence colocalization. Loss-of-function and rescue experiments targeting MMP12 and SPP1 were performed to determine their causal roles in fibroblast activation and myogenic suppression. Transcriptomic and biochemical analyses were used to define downstream macrophage-intrinsic NF-kappaB/TNF-alpha signaling. Finally, AAV-mediated macrophage-targeted SPP1 knockdown and pharmacological NF-kappaB inhibition were evaluated in the CTX injury model. Using a BALB/c mouse model of cardiotoxin (CTX)-induced acute skeletal muscle injury and a publicly available murine scRNA-seq dataset from CTX-injured skeletal muscle, we observed an injury-induced MMP12/SPP1-positive macrophage subset with an M4-like transcriptional signature. Mechanistically, co-immunoprecipitation assays and immunofluorescence colocalization supported an association between MMP12 and SPP1. MMP12 knockdown attenuated the pro-fibrotic and anti-myogenic effects of M4-like macrophages, whereas recombinant SPP1 largely restored these phenotypes. Furthermore, transcriptomic and biochemical analyses revealed that autocrine SPP1 activated NF-kappaB signaling in M4-like macrophages, and increased TNF-alpha secretion. Pharmacological inhibition of NF-kappaB signaling with QNZ reduced fibroblast activation and restored the expression of myogenic markers. However, QNZ is not TNF-alpha specific and may affect multiple cell types. In vivo, AAV-mediated macrophage-targeted SPP1 knockdown driven by the F4/80 promoter, as well as QNZ treatment in the CTX-induced muscle injury model, markedly decreased collagen deposition, enhanced myogenic regeneration, and improved functional recovery. These findings identify an MMP12/SPP1/NF-kappaB signaling pathway in M4-like macrophages, with TNF-alpha as a potential downstream mediator, that may contribute to an imbalance between regeneration and fibrosis and may represent a therapeutic target for enhancing skeletal muscle repair after acute injury.",
+    "keywords": [
+      "M4-like macrophage",
+      "MMP12",
+      "SPP1",
+      "fibrosis",
+      "skeletal muscle injury",
+      "skeletal muscle repair"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Macrophages/metabolism",
+      "Mice",
+      "*Muscle, Skeletal/metabolism/pathology",
+      "*NF-kappa B/metabolism",
+      "Fibrosis/metabolism",
+      "*Muscle Development",
+      "Signal Transduction",
+      "*Matrix Metalloproteinase 12/metabolism/genetics",
+      "Fibroblasts/metabolism",
+      "Cell Line",
+      "Male"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yao, Senwen",
+        "Lu, Zhenyuan",
+        "Zhao, Guosheng",
+        "Liu, Yang",
+        "Wu, Shan",
+        "Zhang, Jiaxuan",
+        "Dong, Renjie",
+        "Hu, Yangming",
+        "Zhang, Ye",
+        "Wang, Yang"
+      ],
+      "short_names": [
+        "Yao S",
+        "Lu Z",
+        "Zhao G",
+        "Liu Y",
+        "Wu S",
+        "Zhang J",
+        "Dong R",
+        "Hu Y",
+        "Zhang Y",
+        "Wang Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0609-2789",
+        "ORCID: 0000-0002-1580-9262"
+      ],
+      "affiliations": [
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China.",
+        "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yao, Senwen",
+        "short_name": "Yao S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Zhenyuan",
+        "short_name": "Lu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Guosheng",
+        "short_name": "Zhao G",
+        "identifiers": [
+          "0000-0003-0609-2789"
+        ],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Shan",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jiaxuan",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Renjie",
+        "short_name": "Dong R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Yangming",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ye",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yang",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0002-1580-9262"
+        ],
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Chongqing Medical University, Yuzhong, Chongqing 400010, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-01 08:59:21"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42942136"
+    ],
+    "review": [
+      "42942136"
+    ],
+    "pmc": [
+      "13704908"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27209369",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42942136/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SPP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3481",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
