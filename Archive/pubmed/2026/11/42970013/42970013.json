@@ -1,0 +1,187 @@
+{
+  "identity": {
+    "pmid": "42970013",
+    "doi": "10.1186/s43556-026-00647-6",
+    "title": "Super-enhancers: regulatory mechanisms, biological functions, diseases, and therapeutic targets."
+  },
+  "content": {
+    "abstract": "Super-enhancers (SEs) are operationally defined as clusters of cis-regulatory elements associated with high transcriptional activity and cell-identity genes. They display dense transcription factor and coactivator occupancy, strong H3K27 acetylation, and enhancer-promoter communication, but their annotation varies across platforms, algorithms, and thresholds. This review examines SE architecture, identification, and validation, distinguishing chromatin-based annotation from functional dependence demonstrated by locus-specific perturbations. Mechanisms of SE-associated transcription include pioneer factors, chromatin remodelers, three-dimensional genome organization, transcriptional condensates, non-coding RNAs, and extrachromosomal DNA. Physiological functions in development, immunity, and metabolic homeostasis are considered alongside context-dependent dysregulation in cancer, inflammatory and autoimmune diseases, neurological disorders, and metabolic diseases. Breast cancer provides a model for examining subtype-specific regulation and transcriptional plasticity. Particular attention is given to enhancer remodeling during endocrine therapy, cyclin-dependent kinase 4/6 (CDK4/6) inhibition, human epidermal growth factor receptor 2 (HER2)-targeted treatment, and chemotherapy, which may support bypass signaling, stemness, and persistent resistance. Causal regulatory changes must nevertheless be distinguished from correlates of treatment selection. Therapeutic approaches targeting bromodomain and extraterminal domain (BET) proteins, CDK7/9, chromatin regulators, enhancer RNAs, and regulatory loci are critically evaluated. Definitional uncertainty, model dependence, limited reproducibility, systemic toxicity, and insufficient clinical validation remain major barriers. Priorities include standardized annotation, temporally resolved perturbation, single-cell and spatial profiling, artificial intelligence-assisted integration, patient-derived models, and biomarker-guided therapeutic development. Together, these perspectives position SEs as a context-dependent framework linking regulatory architecture to disease progression and treatment resistance, while emphasizing the evidence required to establish therapeutic vulnerabilities.",
+    "keywords": [
+      "Breast cancer",
+      "Chromatin organization",
+      "Human diseases",
+      "Super-enhancers",
+      "Therapeutic targeting",
+      "Transcriptional regulation"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Super Enhancers/genetics",
+      "Animals",
+      "Gene Expression Regulation",
+      "Molecular Targeted Therapy"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Miao, Huijie",
+        "Liu, Yuanding",
+        "Yang, Kaini",
+        "Gu, Ao",
+        "Zhang, Cuifeng",
+        "Li, Mengyao",
+        "Wang, Jie"
+      ],
+      "short_names": [
+        "Miao H",
+        "Liu Y",
+        "Yang K",
+        "Gu A",
+        "Zhang C",
+        "Li M",
+        "Wang J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5890-6898"
+      ],
+      "affiliations": [
+        "Department of Breast Surgery, The International Peace Maternity and Child Health Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. doctormhj@163.com.",
+        "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Biliary-Pancreatic Surgery, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Biliary-Pancreatic Surgery, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Biliary-Pancreatic Surgery, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Breast Surgery, The International Peace Maternity and Child Health Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. limy@sioc.ac.cn.",
+        "Shanghai Key Laboratory for Cancer Systems Regulation and Clinical Translation, Shanghai Jiading District Central Hospital, Shanghai, China. limy@sioc.ac.cn.",
+        "Department of Breast Surgery, The International Peace Maternity and Child Health Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. jiewang76@hotmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Miao, Huijie",
+        "short_name": "Miao H",
+        "identifiers": [
+          "0000-0002-5890-6898"
+        ],
+        "affiliations": [
+          "Department of Breast Surgery, The International Peace Maternity and Child Health Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. doctormhj@163.com."
+        ]
+      },
+      {
+        "full_name": "Liu, Yuanding",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Department of Biliary-Pancreatic Surgery, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Kaini",
+        "short_name": "Yang K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Department of Biliary-Pancreatic Surgery, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Ao",
+        "short_name": "Gu A",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Department of Biliary-Pancreatic Surgery, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Cuifeng",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, The International Peace Maternity and Child Health Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Mengyao",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. limy@sioc.ac.cn.",
+          "Shanghai Key Laboratory for Cancer Systems Regulation and Clinical Translation, Shanghai Jiading District Central Hospital, Shanghai, China. limy@sioc.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Jie",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, The International Peace Maternity and Child Health Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. jiewang76@hotmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biomedicine"
+    ],
+    "journal_abbrev": [
+      "Mol Biomed"
+    ],
+    "pub_date": "2026 Nov 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/02 12:46",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42970013"
+    ],
+    "review": [
+      "42970013"
+    ],
+    "pmc": [
+      "13728089"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42970013/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-11",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-192",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

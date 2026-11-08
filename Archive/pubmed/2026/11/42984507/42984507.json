@@ -1,0 +1,148 @@
+{
+  "identity": {
+    "pmid": "42984507",
+    "doi": "10.3389/fcvm.2026.1848328",
+    "title": "Exploring biomarkers and regulatory mechanisms associated with 20 protein post-translational modifications in acute myocardial infarction based on transcriptomics."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Acute myocardial infarction (AMI) is a critical condition resulting from coronary occlusion, leading to myocardial necrosis and dysfunction. Protein posttranslational modifications (PTMs) regulate key inflammatory and signaling pathways in its pathogenesis. Accordingly, exploring transcriptomic signatures of genes encoding PTM-regulatory factors may provide valuable insights for improving early diagnosis and therapeutic stratification in AMI. METHODS: Candidate genes were obtained by integrating transcriptomic data on AMI from public databases with a previously published gene set encoding regulators for 20 categories of protein PTMs. Differentially expressed genes (DEGs) were intersected with this PTM-regulator gene set to identify PTM-related DEGs. Machine learning approaches together with expression analyses were employed to identify diagnostic biomarkers. Their potential mechanisms were systematically elucidated via multidimensional analyses, including deep neural network (DNN) model construction, biological pathway analysis, immune landscape profiling, regulatory network reconstruction, and therapeutic compound prioritization. Clinical validation of the key biomarkers was performed using RT-qPCR. RESULTS: This study identified three biomarkers among PTM-regulator-related genes for AMI: GABARAPL1, PELI1, and NLRP3. Enrichment profiling showed that all three biomarkers were prominently linked to pathways related to Leishmania infection. Correlation analysis of immune cell profiles showed that all three biomarkers were most strongly associated with plasmacytoid dendritic cells. Molecular regulatory network analysis uncovered their associated transcription factors, targeted miRNAs, and lncRNA interaction networks. Drug prediction and molecular docking identified several potential targeting compounds, among which 1,4-chrysenequinone exhibited docking scores of -7 kcal/mol and -8.9 kcal/mol with GABARAPL1 and PELI1, respectively, while calcitriol showed a docking score of -10.1 kcal/mol with NLRP3, indicating strong predicted binding affinity. RT-qPCR clinical validation confirmed significant upregulation of GABARAPL1, PELI1, and NLRP3 in AMI patients (all P < 0.01), consistent with the integrative multi-omics findings. CONCLUSION: Using transcriptome-based bioinformatics, this study identified and validated three transcriptomic biomarkers (GABARAPL1, PELI1, and NLRP3) among genes encoding PTM-regulatory factors for AMI, offering molecular resources for future investigations into diagnostic and therapeutic targets in AMI.",
+    "keywords": [
+      "acute myocardial infarction",
+      "biomarkers",
+      "immunity",
+      "protein post-translational modification",
+      "transcriptomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Jie",
+        "Li, Binhe",
+        "Yang, Mengyue",
+        "Lu, Jingchao",
+        "Jiang, Huiqing",
+        "Chen, Fei"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Li B",
+        "Yang M",
+        "Lu J",
+        "Jiang H",
+        "Chen F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China.",
+        "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China.",
+        "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China.",
+        "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China.",
+        "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China.",
+        "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Jie",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Li, Binhe",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Mengyue",
+        "short_name": "Yang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Jingchao",
+        "short_name": "Lu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Huiqing",
+        "short_name": "Jiang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Fei",
+        "short_name": "Chen F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, The Second Hospital of Hebei Medical University, Shijiazhuang, Hebei, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cardiovascular medicine"
+    ],
+    "journal_abbrev": [
+      "Front Cardiovasc Med"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 10:52",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42984507"
+    ],
+    "review": [
+      "42984507"
+    ],
+    "pmc": [
+      "13730922"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1532",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcvm.2026.1848328",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

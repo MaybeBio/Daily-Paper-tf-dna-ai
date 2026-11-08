@@ -1,0 +1,257 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.27.762204",
+  "title": "Multiple domains of Matɑ1 transcription factor contribute to binding site specificity",
+  "doi": "10.64898/2026.10.27.762204",
+  "abstract": "Among homologous transcription factors with the same function, DNA-binding specificity can diverge. Matɑ1 is a high mobility group (HMG) box transcription factor in budding yeast whose Saccharomyces cerevisiae and Candida albicans homologs regulate ɑ-specific genes but bind distinct cis -regulatory sequences. To identify the protein features underlying this divergence, we generated structure-guided chimeras and measured their activity using species-specific reporters. Replacing any of the four Matɑ1 regions reduced activation of the S. cerevisiae reporter, while all chimeras retained activity on the C. albicans reporter. Thus, all four regions of Matɑ1 – not just the HMG box domain – are important for sequence specificity.",
+  "authors": [
+    "Emily Knisely-Durham",
+    "Simone M. Giovanetti",
+    "Meru J. Sadhu"
+  ],
+  "published_date": "2026-11-02",
+  "updated_date": "2026-11-03T03:00:12Z",
+  "journal": "bioRxiv",
+  "category": "Genetics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762204",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762204.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Genetics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Genetics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            5
+          ]
+        ],
+        "date-time": "2026-11-05T14:25:12Z",
+        "timestamp": 1793888712169,
+        "version": "4.8.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ]
+      },
+      "group-title": "Genetics",
+      "reference-count": 6,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                2
+              ]
+            ],
+            "date-time": "2026-11-02T00:00:00Z",
+            "timestamp": 1793577600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "National Institutes of Health",
+          "award": [
+            "1ZIAHG200401"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "1ZIAHG200401"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Among homologous transcription factors with the same function, DNA-binding specificity can diverge. Matɑ1 is a high mobility group (HMG) box transcription factor in budding yeast whose\n                  <jats:italic>Saccharomyces cerevisiae</jats:italic>\n                  and\n                  <jats:italic>Candida albicans</jats:italic>\n                  homologs regulate ɑ-specific genes but bind distinct\n                  <jats:italic>cis</jats:italic>\n                  -regulatory sequences. To identify the protein features underlying this divergence, we generated structure-guided chimeras and measured their activity using species-specific reporters. Replacing any of the four Matɑ1 regions reduced activation of the\n                  <jats:italic>S. cerevisiae</jats:italic>\n                  reporter, while all chimeras retained activity on the\n                  <jats:italic>C. albicans</jats:italic>\n                  reporter. Thus, all four regions of Matɑ1 – not just the HMG box domain – are important for sequence specificity.\n                </jats:p>",
+      "DOI": "10.64898/2026.10.27.762204",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ],
+        "date-time": "2026-11-03T03:00:12Z",
+        "timestamp": 1793674812000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Multiple domains of Matɑ1 transcription factor contribute to binding site specificity"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Emily",
+          "family": "Knisely-Durham",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD 20892, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Simone M.",
+          "family": "Giovanetti",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD 20892, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Meru J.",
+          "family": "Sadhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD 20892, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026110505350895000_2026.10.27.762204v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1019177108"
+        },
+        {
+          "key": "2026110505350895000_2026.10.27.762204v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmb.2004.08.035"
+        },
+        {
+          "key": "2026110505350895000_2026.10.27.762204v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.73225"
+        },
+        {
+          "key": "2026110505350895000_2026.10.27.762204v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.90.24.11990"
+        },
+        {
+          "key": "2026110505350895000_2026.10.27.762204v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/376791a0"
+        },
+        {
+          "key": "2026110505350895000_2026.10.27.762204v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.tibs.2012.09.003"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.27.762204",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            5
+          ]
+        ],
+        "date-time": "2026-11-05T13:35:14Z",
+        "timestamp": 1793885714000
+      },
+      "score": 140.0648,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.27.762204"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ]
+      },
+      "references-count": 6,
+      "URL": "https://doi.org/10.64898/2026.10.27.762204",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

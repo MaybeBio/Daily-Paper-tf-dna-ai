@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "42980327",
+    "doi": "10.1002/bmc.70650",
+    "title": "UHPLC-Q-TOF-MS Identification of Intestinal Absorbable Components of Yindan Pinggan Capsule and Exploration of Its Anti-NAFLD Mechanism Based on NF-kappaB Signaling Regulation."
+  },
+  "content": {
+    "abstract": "Yindan Pinggan capsule (YDPG) is a traditional Chinese formula for liver disorders, but its mechanism against nonalcoholic fatty liver disease (NAFLD) remains unclear. Here, UHPLC-Q-TOF-MS was used to characterize YDPG's chemical profile, and the YDPG intestinal absorption solution (YDPGIAS) obtained via the everted gut sac model was analyzed to identify absorbable components. Network pharmacology, transcriptomic sequencing, molecular docking, and in vitro assays in oleic acid-induced BRL-3A hepatocytes were integrated to predict targets and validate effects. A total of 164 compounds were identified from YDPG; 84 were detected in YDPGIAS, with 15 confirmed by reference standards. YDPGIAS significantly reduced lipid accumulation and lowered triglyceride, total cholesterol, LDL-cholesterol, and HDL-cholesterol levels. Integrated analysis identified the NF-kappaB pathway as the core candidate mechanism, involving targets LYN, TNF, and IL1B, and key compounds including baicalin, ferulic acid, and gentiopicroside. Molecular docking predicted favorable binding affinities, and cellular experiments confirmed lipid-lowering effects. These results demonstrate that YDPG ameliorates NAFLD through multicomponent, multitarget regulation of the NF-kappaB-mediated inflammatory pathway, providing a preliminary basis for further pharmacological and clinical investigation in NAFLD management.",
+    "keywords": [
+      "UHPLC-Q-TOF-MS",
+      "Yindan Pinggan capsule",
+      "intestinal absorption fluid",
+      "network pharmacology",
+      "nonalcoholic fatty liver disease",
+      "transcriptomics"
+    ],
+    "mesh_terms": [
+      "*Drugs, Chinese Herbal/pharmacology/chemistry/analysis/pharmacokinetics/metabolism",
+      "Chromatography, High Pressure Liquid/methods",
+      "Animals",
+      "*NF-kappa B/metabolism",
+      "*Non-alcoholic Fatty Liver Disease/metabolism/drug therapy",
+      "Signal Transduction/drug effects",
+      "Molecular Docking Simulation",
+      "Rats",
+      "Cell Line",
+      "Mass Spectrometry/methods",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hou, Jinli",
+        "Zhao, Jie",
+        "Yang, Jicheng",
+        "Lai, Huaqing",
+        "Jia, Mengyu",
+        "Song, Wenrui",
+        "Han, Yutong",
+        "Li, Sen",
+        "Wu, Hongwei"
+      ],
+      "short_names": [
+        "Hou J",
+        "Zhao J",
+        "Yang J",
+        "Lai H",
+        "Jia M",
+        "Song W",
+        "Han Y",
+        "Li S",
+        "Wu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0205-7276",
+        "ORCID: 0000-0002-3515-5104",
+        "ORCID: 0000-0001-6124-0524",
+        "ORCID: 0000-0002-3768-4608"
+      ],
+      "affiliations": [
+        "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China.",
+        "Modern Research Center for Traditional Chinese Medicine, the Key Laboratory of Chemical Biology and Molecular Engineering of Ministry of Education, Shanxi University, Taiyuan, Shanxi, China.",
+        "Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on Prevention and Treatment for Major Diseases, Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, China.",
+        "Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on Prevention and Treatment for Major Diseases, Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, China.",
+        "Science and Technology Innovation Center, Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China.",
+        "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China.",
+        "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China.",
+        "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China.",
+        "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China.",
+        "Institute of Chinese Materia Medica, China Academy of Chinese Medical Sciences, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hou, Jinli",
+        "short_name": "Hou J",
+        "identifiers": [
+          "0000-0002-0205-7276"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China.",
+          "Modern Research Center for Traditional Chinese Medicine, the Key Laboratory of Chemical Biology and Molecular Engineering of Ministry of Education, Shanxi University, Taiyuan, Shanxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jie",
+        "short_name": "Zhao J",
+        "identifiers": [
+          "0000-0002-3515-5104"
+        ],
+        "affiliations": [
+          "Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on Prevention and Treatment for Major Diseases, Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jicheng",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on Prevention and Treatment for Major Diseases, Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Huaqing",
+        "short_name": "Lai H",
+        "identifiers": [
+          "0000-0001-6124-0524"
+        ],
+        "affiliations": [
+          "Science and Technology Innovation Center, Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Mengyu",
+        "short_name": "Jia M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China."
+        ]
+      },
+      {
+        "full_name": "Song, Wenrui",
+        "short_name": "Song W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China."
+        ]
+      },
+      {
+        "full_name": "Han, Yutong",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China."
+        ]
+      },
+      {
+        "full_name": "Li, Sen",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Hongwei",
+        "short_name": "Wu H",
+        "identifiers": [
+          "0000-0002-3768-4608"
+        ],
+        "affiliations": [
+          "Institute of Chinese Materia Medica, China Academy of Chinese Medical Sciences, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedical chromatography : BMC"
+    ],
+    "journal_abbrev": [
+      "Biomed Chromatogr"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 11:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42980327"
+    ],
+    "review": [
+      "42980327"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/steatoticliverdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Steatotic Liver Disease"
+      },
+      {
+        "url": "https://doi.org/10.1002/bmc.70650",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-2785",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "identity": {
+    "pmid": "42966706",
+    "doi": "10.1016/j.bulcan.2026.09.003",
+    "title": "TEAD as a druggable target in Hippo signaling: Structure-based discovery of small-molecule inhibitors."
+  },
+  "content": {
+    "abstract": "The Hippo signaling pathway is a well-conserved signaling pathway responsible for regulating tissue homeostasis, organ size, proliferation, apoptosis, and stem cell renewal. The dysregulation of the Hippo signaling pathway, specifically abnormal activation of the YAP/TAZ-TEAD transcriptional complex, has become a key player in initiating, promoting, metastasizing, and acquiring resistance to therapy in various tumors. Within the Hippo signaling pathway, transcription factors of the TEAD family have become the focus of growing interest as potential drug targets due to their status as the downstream mediators that convert oncogenic signals into transcription programs that ensure cancer cells' viability and proliferation. Thanks to advances in structural biology, the molecular structures of the TEAD proteins, such as the very well-conserved hydrophobic binding pocket and YAP/TAZ interaction site, have been revealed, making it possible to develop effective drugs rationally. Such drugs may inhibit TEAD proteins by preventing their post-translational modifications, blocking protein-protein interactions, or altering their conformation. Additionally, the development of computer-based methods, such as virtual screening based on structure, molecular docking, molecular dynamics, and drug discovery assisted by artificial intelligence, has significantly contributed to the improvement of TEAD inhibitor selection and optimization. Some of the identified inhibitors exhibit promising efficacy in preclinical experiments, whereas the first TEAD inhibitors have already started entering clinical trials. In this article, we will briefly discuss recent discoveries in the field of structural biology of TEAD, analyze current methods of structure-based drug discovery, examine the pharmacology of emerging inhibitors of TEAD, and address some current limitations and future perspectives in TEAD inhibition.",
+    "keywords": [
+      "Hippo signaling pathway",
+      "Small-molecule inhibitors",
+      "Structure-based drug discovery",
+      "TEAD transcription factors",
+      "YAP/TAZ"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Prasad, Monisha"
+      ],
+      "short_names": [
+        "Prasad M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Molecular Nutrition and genomics Lab, Department of Community medicine, Saveetha Medical College and Hospital, Saveetha Institute of Medical and Technical Sciences, Saveetha University, 602105 Chennai, India. Electronic address: monishaprasad.smc@saveetha.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Prasad, Monisha",
+        "short_name": "Prasad M",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Nutrition and genomics Lab, Department of Community medicine, Saveetha Medical College and Hospital, Saveetha Institute of Medical and Technical Sciences, Saveetha University, 602105 Chennai, India. Electronic address: monishaprasad.smc@saveetha.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bulletin du cancer"
+    ],
+    "journal_abbrev": [
+      "Bull Cancer"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/01 07:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42966706"
+    ],
+    "review": [
+      "42966706"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0007-4551(26)00433-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

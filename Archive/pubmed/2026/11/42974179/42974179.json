@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42974179",
+    "doi": "10.2147/IJN.S638932",
+    "title": "A Dual Mechanism-Based Physiologically Based Pharmacokinetic Model for Predicting Mitoxantrone and Liposomal Mitoxantrone Disposition: Preclinical Validation in Rats and Human Extrapolation with Clinical Evaluation."
+  },
+  "content": {
+    "abstract": "PURPOSE: This study aimed to develop a physiologically based pharmacokinetic (PBPK) model to quantitatively predict plasma and tissue concentrations of both liposomal-encapsulated and free mitoxantrone in rats and further extrapolate the model to human clinical scenarios. METHODS: A dual-compartment PBPK framework was constructed to separately describe the disposition of liposomal carriers and released free mitoxantrone. Global sensitivity analysis (GSA) based on partial rank correlation coefficient (PRCC) was performed to identify key parameters. The external validation was evaluated using rat plasma pharmacokinetic and human clinical data from previous reported studies. Allometric scaling was applied to extrapolate the model to adult humans, and Monte Carlo simulation was utilized to predict clinical plasma concentrations under fixed clinical doses of 20, 30, and 40 mg in lymphoma patients. RESULTS: PRCC analysis results demonstrated that tissue DNA binding capacity (T_DNA) and tissue-to-plasma liposome partition coefficient (Kp_n) were the most dominant parameters governing free drug and liposomal exposure, respectively (PRCC > 0.9). Overall average absolute fold error (AAFE) for tissue predictions was below 2.0. A slightly higher AAFE of 2.16 was observed for free drug submodel, which still complied with the widely accepted 3-fold error threshold for PBPK validation. Model external validation results also demonstrated acceptable predictive capacity of the model for both total and free mitoxantrone concentrations across preclinical and clinical dose levels (AAFE < 3). For human extrapolation, over 92% of clinically observed plasma concentrations from 37 lymphoma patients fell within the model's 90% predictive interval. CONCLUSION: This study established a robust, mechanism-driven PBPK model that distinguished encapsulated and free mitoxantrone disposition. The model achieved reliable prediction performance and effectively interprets pharmacokinetic characteristics of PEGylated liposomal mitoxantrone. The present framework provided a valuable mechanistic reference for the construction and optimization of liposomal mitoxantrone PBPK models and supported future translational pharmacokinetic studies of liposomal formulations.",
+    "keywords": [
+      "PBPK model",
+      "distribution",
+      "human scale-up",
+      "mitoxantrone liposome"
+    ],
+    "mesh_terms": [
+      "*Mitoxantrone/pharmacokinetics/administration & dosage/blood/chemistry",
+      "Animals",
+      "*Liposomes/pharmacokinetics/chemistry",
+      "Humans",
+      "Rats",
+      "*Models, Biological",
+      "Tissue Distribution",
+      "Monte Carlo Method",
+      "Antineoplastic Agents/pharmacokinetics/blood/administration & dosage",
+      "Computer Simulation",
+      "Male",
+      "Reproducibility of Results",
+      "Lymphoma/drug therapy/metabolism",
+      "Female",
+      "Adult"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Yuxiang",
+        "Li, Shuo",
+        "Yang, Zhixuan",
+        "Qiu, Yushuo",
+        "Dong, Jiameng",
+        "Gao, Xiaonan",
+        "Gao, Jinglin",
+        "Feng, Zhangying",
+        "Wang, Mingxia"
+      ],
+      "short_names": [
+        "Xu Y",
+        "Li S",
+        "Yang Z",
+        "Qiu Y",
+        "Dong J",
+        "Gao X",
+        "Gao J",
+        "Feng Z",
+        "Wang M"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-3071-426X",
+        "ORCID: 0000-0003-4845-9315",
+        "ORCID: 0000-0003-4662-2764",
+        "ORCID: 0000-0002-7881-6937"
+      ],
+      "affiliations": [
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China.",
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China.",
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China.",
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China.",
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China.",
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China.",
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China.",
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China.",
+        "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Yuxiang",
+        "short_name": "Xu Y",
+        "identifiers": [
+          "0009-0009-3071-426X"
+        ],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Shuo",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhixuan",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Yushuo",
+        "short_name": "Qiu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Dong, Jiameng",
+        "short_name": "Dong J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Gao, Xiaonan",
+        "short_name": "Gao X",
+        "identifiers": [
+          "0000-0003-4845-9315"
+        ],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jinglin",
+        "short_name": "Gao J",
+        "identifiers": [
+          "0000-0003-4662-2764"
+        ],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Feng, Zhangying",
+        "short_name": "Feng Z",
+        "identifiers": [
+          "0000-0002-7881-6937"
+        ],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Mingxia",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Pharmacology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of nanomedicine"
+    ],
+    "journal_abbrev": [
+      "Int J Nanomedicine"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 12:05",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42974179"
+    ],
+    "review": [
+      "42974179"
+    ],
+    "pmc": [
+      "13726636"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42974179/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.2147/IJN.S638932",
+        "provider": "Dove Medical Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

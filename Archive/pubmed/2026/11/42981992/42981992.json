@@ -1,0 +1,114 @@
+{
+  "identity": {
+    "pmid": "42981992",
+    "doi": "10.1016/j.ecoenv.2026.121015",
+    "title": "Integrative transcriptomic and single-cell analysis identifies a manganese-associated transcriptional signature and a potential JUN/HBEGF-associated endothelial signature in COPD pulmonary vascular remodeling."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Chronic obstructive pulmonary disease (COPD) is a heterogeneous respiratory disease involving airway inflammation, emphysema, and pulmonary vascular remodeling. Manganese exposure has been linked to pulmonary inflammation and oxidative stress, but its molecular association with COPD vascular pathology remains unclear. This study explored a manganese-associated transcriptional signature in COPD and investigated its potential relationship with endothelial cell dysfunction and vascular remodeling. METHODS: Bulk transcriptomic datasets were used to calculate a manganese-related transcriptional score, identify differentially expressed genes, and characterize WGCNA modules. Manganese-COPD-associated genes were obtained by intersecting manganese-related genes, COPD differentially expressed genes, and manganese-associated module genes. Functional enrichment, PPI analysis, machine-learning-based feature selection, diagnostic modeling, and consensus clustering were performed. Single-cell RNA sequencing data were analyzed to characterize HBEGF expression, endothelial subpopulations, CytoTRACE2 scores, pseudotime dynamics, transcription factor activity, cell-cell communication, and NicheNet ligand-target relationships. RESULTS: COPD samples showed significantly higher manganese-related transcriptional scores. A total of 43 manganese-COPD-associated candidate genes were identified and were enriched mainly in pathways related to inflammation, cytokines, immune chemotaxis, and vascular processes. Machine learning identified 14 core diagnostic genes, and the combined model showed good classification performance in the training and validation cohorts. Among these genes, HBEGF showed the highest contribution in the ElasticNet model and was prioritized for downstream analysis. Consensus clustering divided COPD samples into two molecular subtypes with distinct manganese-related scores and functional features. Single-cell analysis suggested that HBEGF was closely associated with endothelial cell alterations, especially venous endothelial cells. Pseudotime and transcription factor analyses suggested a potential JUN/HBEGF regulatory relationship. CellChat and NicheNet analyses further indicated that venous endothelial cell-derived HBEGF may participate in endothelial-smooth muscle cell communication. CONCLUSION: This study identified an elevated manganese-related transcriptional score in COPD and prioritized HBEGF as a key candidate associated with venous endothelial cell state changes and endothelial-smooth muscle communication. These findings suggest a potential JUN/HBEGF-associated endothelial signature relevant to COPD pulmonary vascular remodeling, which warrants further experimental validation.",
+    "keywords": [
+      "COPD",
+      "Endothelial cells",
+      "HBEGF",
+      "JUN",
+      "Manganese",
+      "Vascular remodeling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Ziyi",
+        "Nie, Li",
+        "Zeng, Huihui"
+      ],
+      "short_names": [
+        "Liu Z",
+        "Nie L",
+        "Zeng H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pulmonary and Critical Care Medicine, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China; Research Unit of Respiratory Disease, Central South University, Changsha, Hunan, China; Clinical Medical Research Center for Pulmonary and Critical Care Medicine in Hunan Province, Changsha, Hunan, China; Diagnosis and Treatment Center of Respiratory Disease in Hunan Province, Changsha, Hunan, China.",
+        "Department of Emergency Medicine, The Second Xiangya Hospital, Central South University, Changsha, China. Electronic address: 15580323676@163.com.",
+        "Department of Pulmonary and Critical Care Medicine, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China; Research Unit of Respiratory Disease, Central South University, Changsha, Hunan, China; Clinical Medical Research Center for Pulmonary and Critical Care Medicine in Hunan Province, Changsha, Hunan, China; Diagnosis and Treatment Center of Respiratory Disease in Hunan Province, Changsha, Hunan, China. Electronic address: bonemarrow@csu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Ziyi",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China; Research Unit of Respiratory Disease, Central South University, Changsha, Hunan, China; Clinical Medical Research Center for Pulmonary and Critical Care Medicine in Hunan Province, Changsha, Hunan, China; Diagnosis and Treatment Center of Respiratory Disease in Hunan Province, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Nie, Li",
+        "short_name": "Nie L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Medicine, The Second Xiangya Hospital, Central South University, Changsha, China. Electronic address: 15580323676@163.com."
+        ]
+      },
+      {
+        "full_name": "Zeng, Huihui",
+        "short_name": "Zeng H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China; Research Unit of Respiratory Disease, Central South University, Changsha, Hunan, China; Clinical Medical Research Center for Pulmonary and Critical Care Medicine in Hunan Province, Changsha, Hunan, China; Diagnosis and Treatment Center of Respiratory Disease in Hunan Province, Changsha, Hunan, China. Electronic address: bonemarrow@csu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Ecotoxicology and environmental safety"
+    ],
+    "journal_abbrev": [
+      "Ecotoxicol Environ Saf"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 23:28",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42981992"
+    ],
+    "review": [
+      "42981992"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0147-6513(26)01345-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-807",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "identity": {
+    "pmid": "42974766",
+    "doi": "10.1093/nar/gkag1082",
+    "title": "Varied Ensembles of Long-range ChROmatin interactions drive chromatin compartmentalization."
+  },
+  "content": {
+    "abstract": "The chromatin components that are involved in organizing eukaryotic genomes into active and inactive compartments remain unclear. In analysing viable Caenorhabditis elegans mutants lacking different chromatin-regulatory proteins, we found that the HP1-type factor HPL-2 and the MBT-domain protein LIN-61 jointly contribute to chromatin compartmentalization. Genomic regions bound by both proteins and their cognate histone mark H3 lysine 9 dimethylation (H3K9me2) form broad interfaces of 30-50 kilobases that engage in combinatorial interactions, which we term 'Varied Ensembles of Long-range ChROmatin interactions' (VELCROs). Remarkably, VELCROs are defined by high density of H3K9me2, HPL-2, and LIN-61 sites, but not by the intensity of their individual peaks. Mutants that display defective chromatin compartmentalization are impaired in VELCROs. Polymer simulations show that VELCROs can drive a phase transition that segregates B from A chromatin compartments depending on peak densities. Our work identifies VELCROs as stochastic ensembles of interactions constrained within defined chromatin hubs that shape genome compartmentalization.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "Caenorhabditis elegans/genetics/metabolism",
+      "*Chromatin/metabolism/genetics/chemistry",
+      "*Caenorhabditis elegans Proteins/metabolism/genetics",
+      "Histones/metabolism/genetics",
+      "Chromosomal Proteins, Non-Histone/genetics/metabolism",
+      "Mutation",
+      "Transcription Factors/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ostwal, Yogesh",
+        "Muzzopappa, Fernando",
+        "Heurteau, Alexandre",
+        "Raffel, Raoul",
+        "Veluchamy, Alaguraj",
+        "Eswara, Karthik",
+        "Boudellioua, Ahlem",
+        "Ali, Shakila",
+        "Kumari, Reema",
+        "Depierre, David",
+        "Vadlamani, Satya",
+        "Schickele, Naomi",
+        "Schaak, Stephane",
+        "Erdel, Fabian",
+        "Cuvier, Olivier",
+        "Fischle, Wolfgang"
+      ],
+      "short_names": [
+        "Ostwal Y",
+        "Muzzopappa F",
+        "Heurteau A",
+        "Raffel R",
+        "Veluchamy A",
+        "Eswara K",
+        "Boudellioua A",
+        "Ali S",
+        "Kumari R",
+        "Depierre D",
+        "Vadlamani S",
+        "Schickele N",
+        "Schaak S",
+        "Erdel F",
+        "Cuvier O",
+        "Fischle W"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5349-5794",
+        "ORCID: 0000-0001-7356-6361",
+        "ORCID: 0000-0003-2888-7777",
+        "ORCID: 0000-0002-2335-8932"
+      ],
+      "affiliations": [
+        "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia.",
+        "Mechanisms of Chromatin Patterning, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France.",
+        "Gen2i, 29 chemin du Marin, Toulouse 31100, France.",
+        "Gen2i, 29 chemin du Marin, Toulouse 31100, France.",
+        "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia.",
+        "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia.",
+        "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia.",
+        "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia.",
+        "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia.",
+        "Department of Genome & RNAs, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France.",
+        "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia.",
+        "Department of Genome & RNAs, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France.",
+        "Department of Genome & RNAs, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France.",
+        "Mechanisms of Chromatin Patterning, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France.",
+        "Dynamics of Biological Systems, Centre for Human and Molecular Biology (ZHMB), Saarland University, Saarbrucken 66123, Germany.",
+        "Department of Genome & RNAs, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France.",
+        "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ostwal, Yogesh",
+        "short_name": "Ostwal Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Muzzopappa, Fernando",
+        "short_name": "Muzzopappa F",
+        "identifiers": [],
+        "affiliations": [
+          "Mechanisms of Chromatin Patterning, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France."
+        ]
+      },
+      {
+        "full_name": "Heurteau, Alexandre",
+        "short_name": "Heurteau A",
+        "identifiers": [],
+        "affiliations": [
+          "Gen2i, 29 chemin du Marin, Toulouse 31100, France."
+        ]
+      },
+      {
+        "full_name": "Raffel, Raoul",
+        "short_name": "Raffel R",
+        "identifiers": [],
+        "affiliations": [
+          "Gen2i, 29 chemin du Marin, Toulouse 31100, France."
+        ]
+      },
+      {
+        "full_name": "Veluchamy, Alaguraj",
+        "short_name": "Veluchamy A",
+        "identifiers": [
+          "0000-0002-5349-5794"
+        ],
+        "affiliations": [
+          "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Eswara, Karthik",
+        "short_name": "Eswara K",
+        "identifiers": [
+          "0000-0001-7356-6361"
+        ],
+        "affiliations": [
+          "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Boudellioua, Ahlem",
+        "short_name": "Boudellioua A",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ali, Shakila",
+        "short_name": "Ali S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Kumari, Reema",
+        "short_name": "Kumari R",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Depierre, David",
+        "short_name": "Depierre D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genome & RNAs, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France."
+        ]
+      },
+      {
+        "full_name": "Vadlamani, Satya",
+        "short_name": "Vadlamani S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Schickele, Naomi",
+        "short_name": "Schickele N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genome & RNAs, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France."
+        ]
+      },
+      {
+        "full_name": "Schaak, Stéphane",
+        "short_name": "Schaak S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genome & RNAs, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France."
+        ]
+      },
+      {
+        "full_name": "Erdel, Fabian",
+        "short_name": "Erdel F",
+        "identifiers": [
+          "0000-0003-2888-7777"
+        ],
+        "affiliations": [
+          "Mechanisms of Chromatin Patterning, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France.",
+          "Dynamics of Biological Systems, Centre for Human and Molecular Biology (ZHMB), Saarland University, Saarbrücken 66123, Germany."
+        ]
+      },
+      {
+        "full_name": "Cuvier, Olivier",
+        "short_name": "Cuvier O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genome & RNAs, MCD unit (UMR5077), Centre for Integrative Biology (CBI-CNRS), University of Toulouse, Toulouse 31400, France."
+        ]
+      },
+      {
+        "full_name": "Fischle, Wolfgang",
+        "short_name": "Fischle W",
+        "identifiers": [
+          "0000-0002-2335-8932"
+        ],
+        "affiliations": [
+          "Bioscience Program, Division of Biomedical Sciences, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Oct 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 12:05",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42974766"
+    ],
+    "review": [
+      "42974766"
+    ],
+    "pmc": [
+      "13728634"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42974766/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-LGALS1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag1082",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

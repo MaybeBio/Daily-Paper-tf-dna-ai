@@ -1,0 +1,564 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.31.763282",
+  "title": "KH1 Domain of Poly C Binding Protein 1 (PCBP1) Interacts with Utrophin-A mRNA and Modulates Utrophin-A Expression in Mouse Myoblasts",
+  "doi": "10.64898/2026.10.31.763282",
+  "abstract": "Utrophin upregulation is an attractive strategy to ameliorate Duchenne Muscular Dystrophy (DMD). Here, we investigated whether the murine poly(C)-binding protein 1 (PCBP1) directly interacts with the utrophin-A mRNA, and how the interaction shapes the fate of utrophin-A in muscle cells. As no experimentally validated structure of the murine PCBP1 is available, AlphaFold2 was utilized to predict the structure of the full-length protein and the KH1-KH2 domain of the protein. The more stable and reliable model of the KH1-KH2 domain of PCBP1 was then docked with the 5′UTR of the utrophin-A mRNA, and the top-ranked docked complex was utilized for MD simulation to identify the most stable hydrogen bond-forming amino acid residues from PCBP1. ITC showed a thermodynamically favorable spontaneous interaction between the full-length PCBP1 and the 5′UTR of utrophin-A mRNA, but the deletion mutant of PCBP1, lacking the predicted contact region, failed to exhibit any interaction. This observation was also confirmed by an RNA-immunoprecipitation assay in C2C12 cells. However, the mutant PCBP1 was unable to alter the expression of the utrophin-A in the C2C12 cells. In cells, PCBP1 overexpression lowered utrophin-A expression, while shRNA knockdown produced reciprocal increases. A 5′UTR-luciferase reporter mirrored this observation. Finally, subcellular fractionation showed that PCBP1 promotes nuclear retention of utrophin-A transcripts and reduces their cytoplasmic availability, with reciprocal shifts upon PCBP1 knockdown. Considering earlier work on PCBP2, our data suggest both paralogs recognize the same 5′UTR element, and the KH1-dependent interaction represses utrophin-A by coupling nuclear retention to reduced protein output. Thus, the PCBP1-5′UTR interaction emerges as a potent target for utrophin de-repression in DMD.",
+  "authors": [
+    "Doel Pal",
+    "Arka Bagchi",
+    "Subhanwita Das",
+    "Gargi Ghosh",
+    "Soumyak Pal",
+    "Shreya Saha",
+    "Chhanda Sarkar",
+    "Utpal Basu"
+  ],
+  "published_date": "2026-11-03",
+  "updated_date": "2026-11-03T21:35:21Z",
+  "journal": "bioRxiv",
+  "category": "Molecular Biology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.763282",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.763282.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Molecular Biology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Molecular Biology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2026-11-06T21:29:20Z",
+        "timestamp": 1794000560259,
+        "version": "4.8.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "group-title": "Molecular Biology",
+      "reference-count": 44,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                3
+              ]
+            ],
+            "date-time": "2026-11-03T00:00:00Z",
+            "timestamp": 1793664000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Utrophin upregulation is an attractive strategy to ameliorate Duchenne Muscular Dystrophy (DMD). Here, we investigated whether the murine poly(C)-binding protein 1 (PCBP1) directly interacts with the utrophin-A mRNA, and how the interaction shapes the fate of utrophin-A in muscle cells. As no experimentally validated structure of the murine PCBP1 is available, AlphaFold2 was utilized to predict the structure of the full-length protein and the KH1-KH2 domain of the protein. The more stable and reliable model of the KH1-KH2 domain of PCBP1 was then docked with the 5′UTR of the utrophin-A mRNA, and the top-ranked docked complex was utilized for MD simulation to identify the most stable hydrogen bond-forming amino acid residues from PCBP1. ITC showed a thermodynamically favorable spontaneous interaction between the full-length PCBP1 and the 5′UTR of utrophin-A mRNA, but the deletion mutant of PCBP1, lacking the predicted contact region, failed to exhibit any interaction. This observation was also confirmed by an RNA-immunoprecipitation assay in C2C12 cells. However, the mutant PCBP1 was unable to alter the expression of the utrophin-A in the C2C12 cells. In cells, PCBP1 overexpression lowered utrophin-A expression, while shRNA knockdown produced reciprocal increases. A 5′UTR-luciferase reporter mirrored this observation. Finally, subcellular fractionation showed that PCBP1 promotes nuclear retention of utrophin-A transcripts and reduces their cytoplasmic availability, with reciprocal shifts upon PCBP1 knockdown. Considering earlier work on PCBP2, our data suggest both paralogs recognize the same 5′UTR element, and the KH1-dependent interaction represses utrophin-A by coupling nuclear retention to reduced protein output. Thus, the PCBP1-5′UTR interaction emerges as a potent target for utrophin de-repression in DMD.</jats:p>",
+      "DOI": "10.64898/2026.10.31.763282",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ],
+        "date-time": "2026-11-03T21:35:21Z",
+        "timestamp": 1793741721000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "KH1 Domain of Poly C Binding Protein 1 (PCBP1) Interacts with Utrophin-A mRNA and Modulates Utrophin-A Expression in Mouse Myoblasts"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0006-4150-8873",
+          "authenticated-orcid": false,
+          "given": "Doel",
+          "family": "Pal",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology and Biotechnology, University of Kalyani, Kalyani, Nadia, West Bengal, India. Pin: 741235"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4543-0245",
+          "authenticated-orcid": false,
+          "given": "Arka",
+          "family": "Bagchi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Gastroenterology, All India Institute of Medical Sciences (AIIMS) Kalyani, Basantpur, Nadia, West Bengal, India. Pin: 741245"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Subhanwita",
+          "family": "Das",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology and Biotechnology, University of Kalyani, Kalyani, Nadia, West Bengal, India. Pin: 741235"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-2669-8201",
+          "authenticated-orcid": false,
+          "given": "Gargi",
+          "family": "Ghosh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology and Biotechnology, University of Kalyani, Kalyani, Nadia, West Bengal, India. Pin: 741235"
+            },
+            {
+              "name": "University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, 19104-6069, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Soumyak",
+          "family": "Pal",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology and Biotechnology, University of Kalyani, Kalyani, Nadia, West Bengal, India. Pin: 741235"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shreya",
+          "family": "Saha",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology and Biotechnology, University of Kalyani, Kalyani, Nadia, West Bengal, India. Pin: 741235"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Chhanda",
+          "family": "Sarkar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology and Biotechnology, University of Kalyani, Kalyani, Nadia, West Bengal, India. Pin: 741235"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8063-3777",
+          "authenticated-orcid": false,
+          "given": "Utpal",
+          "family": "Basu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology and Biotechnology, University of Kalyani, Kalyani, Nadia, West Bengal, India. Pin: 741235"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Abraham MJ , Murtola T , Schulz R , Páll S , Smith JC , Hess B , Lindahl E . 2015. GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers. SoftwareX 1–2: 19–25.",
+          "DOI": "10.1016/j.softx.2015.06.001"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "34984",
+          "DOI": "10.1038/srep34984",
+          "article-title": "Structural insights into conformational stability of both wild-type and mutant EZH2 receptor",
+          "volume": "6",
+          "year": "2016",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "108239",
+          "DOI": "10.1016/j.jbc.2025.108239",
+          "article-title": "PDE4 inhibitor rolipram represses hedgehog signaling via ubiquitin-mediated proteolysis of GLI transcription factors to regress breast cancer",
+          "volume": "301",
+          "year": "2025",
+          "journal-title": "J Biol Chem"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "10963",
+          "DOI": "10.1038/s41598-025-95549-y",
+          "article-title": "A multifaceted examination of the action of PDE4 inhibitor rolipram on MMP2/9 reveals therapeutic implications",
+          "volume": "15",
+          "year": "2025",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4939-6433-8_13"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkz136"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1083/jcb.136.4.883"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nm1197-1216"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M116.773671"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0076-6879(09)68019-8"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "612",
+          "DOI": "10.1080/15476286.2021.2004683",
+          "article-title": "Poly C Binding Protein 2 dependent nuclear retention of the utrophin-A mRNA in C2C12 cells",
+          "volume": "18",
+          "year": "2021",
+          "journal-title": "RNA Biol"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ghosh T , Basu U. 2015. Cis-Acting Sequence Elements and Upstream Open Reading Frame in Mouse Utrophin-A 5’-UTR Repress Cap-Dependent Translation. PLOS ONE 10: e0134809.",
+          "DOI": "10.1371/journal.pone.0134809"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "994915",
+          "DOI": "10.3389/fmolb.2022.994915",
+          "article-title": "Dynamics and energetics of PCBP1 binding to severely oxidized RNA",
+          "volume": "9",
+          "year": "2022",
+          "journal-title": "Front Mol Biosci"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkn188"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuron.2013.10.036"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.16",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1016/j.omtm.2018.10.005",
+          "article-title": "Micro-utrophin Improves Cardiac and Skeletal Muscle Function of Severely Affected D2/mdx Mice",
+          "volume": "11",
+          "year": "2018",
+          "journal-title": "Mol Ther Methods Clin Dev"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41596-024-01060-5"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-59745-177-2_1"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-020-58737-6"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S1355838202024627"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2009.01.044"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bpj.2015.08.015"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41592-022-01488-1"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M503994200"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.25",
+          "doi-asserted-by": "crossref",
+          "first-page": "13459",
+          "DOI": "10.1038/s41598-020-69832-z",
+          "article-title": "Comparative structural analyses and nucleotide-binding characterization of the four KH domains of FUBP1",
+          "volume": "10",
+          "year": "2020",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1046-2023(02)00021-X"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ng0598-79"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1083/jcb.125.6.1275"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI90519"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.30",
+          "doi-asserted-by": "crossref",
+          "first-page": "711",
+          "DOI": "10.1111/nan.12735",
+          "article-title": "Utrophin modulator drugs as potential therapies for Duchenne and Becker muscular dystrophies",
+          "volume": "47",
+          "year": "2021",
+          "journal-title": "Neuropathol Appl Neurobiol"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3945/jn.116.241364"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3791/60824"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/384349a0"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ymeth.2006.06.010"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M205177200"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41596-020-0312-X"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkx407"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gks058"
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.39",
+          "unstructured": "GPP Web Portal - Clone Details. https://portals.broadinstitute.org/gpp/public/clone/details?cloneId=TRCN0000120938 (Accessed October 16, 2025a)."
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.40",
+          "unstructured": "RNAComposer. https://rnacomposer.cs.put.poznan.pl/ (Accessed October 16, 2025b)."
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.41",
+          "unstructured": "RNAfold web server. http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi (Accessed October 16, 2025c)."
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.42",
+          "unstructured": "The Amber Force Fields. https://ambermd.org/AmberModels.php (Accessed October 16, 2025d)."
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.43",
+          "unstructured": "UniProt. UniProt. https://www.uniprot.org/uniprotkb/P60335/entry (Accessed October 16, 2025e)."
+        },
+        {
+          "key": "2026110613201309000_2026.10.31.763282v1.44",
+          "unstructured": "UTRN utrophin [Homo sapiens (human)] - Gene - NCBI. https://www.ncbi.nlm.nih.gov/gene/7402 (Accessed October 16, 2025f)."
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.31.763282",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2026-11-06T21:20:24Z",
+        "timestamp": 1794000024000
+      },
+      "score": 82.48398,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.31.763282"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "references-count": 44,
+      "URL": "https://doi.org/10.64898/2026.10.31.763282",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

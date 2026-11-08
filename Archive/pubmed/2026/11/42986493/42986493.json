@@ -1,0 +1,267 @@
+{
+  "identity": {
+    "pmid": "42986493",
+    "doi": "10.1007/s12035-026-06270-4",
+    "title": "Truncating Kabuki Syndrome-associated KMT2D Mutation in FYR Domain Alters Chromatin Accessibility at Neurodevelopmental Loci."
+  },
+  "content": {
+    "abstract": "Kabuki syndrome (KS) is a congenital neurodevelopmental disorder characterized by distinctive facial features, developmental delay, and multisystem involvement. KS is primarily caused by de novo mutations in KMT2D, a H3 lysine 4 (H3K4) methyltransferase within the MLL3/4 COMPASS-like complex. Although the role of KMT2D in active chromatin organization is well established, the function of its FYR domain remains largely unknown. Here, we report a KS patient carrying a heterozygous KMT2D p.R5282* nonsense mutation located at the C-terminal side of the FYR domain. The patient exhibited a relatively mild phenotype, consistent with previously reported p.R5282* mutation carriers. ATAC-seq analysis of patient-derived PBMCs revealed 451 differentially accessible regions compared to controls, with reduced accessibility mainly at promoter regions of genes involved in neurogenesis. Motif and regulatory enrichment analyses identified loss of CTCF and WRAD complex components (WDR5, RBBP5, ASH2L), suggesting impaired chromatin organization. To examine the functional impact of FYR mutations, we expressed FLAG-tagged KMT2D p.R5282* and another FYR domain hotspot missense mutation (p.R5179C) in HEK293T cells and performed ATAC-seq. p.R5282*-specific chromatin changes mirrored those in the patient and were enriched for promoter regions and WRAD binding sites, whereas p.R5179C showed distinct patterns. AlphaFold3 modeling indicated that p.R5282* truncation disrupts the WIN motif required for WDR5 binding, compromising MLL3/4 complex stability. Both the patient and p.R5282*-expressing cells showed reduced chromatin accessibility at the CHD7 locus, linking KMT2D dysfunction to CHARGE syndrome pathways. These findings highlight the essential role of the KMT2D FYR domain in maintaining WRAD complex integrity and chromatin accessibility.",
+    "keywords": [
+      "Chromatin accessibility",
+      "FYR domain",
+      "KMT2D",
+      "Kabuki syndrome",
+      "WRAD complex",
+      "p.R5282*"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Abnormalities, Multiple/genetics",
+      "*Vestibular Diseases/genetics",
+      "*Face/abnormalities",
+      "*Hematologic Diseases/genetics",
+      "*DNA-Binding Proteins/genetics/chemistry",
+      "*Chromatin/metabolism/genetics",
+      "*Neoplasm Proteins/genetics/chemistry",
+      "*Mutation/genetics",
+      "HEK293 Cells",
+      "Protein Domains",
+      "Male"
+    ],
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ozden-Yilmaz, Gulden",
+        "Olmez, Akgun",
+        "Yilmazbilek, Irem",
+        "Tulu, Ahmet Can",
+        "Binokay, Leman",
+        "Gencpinar, Pinar",
+        "Hiz, Ayse Semra",
+        "Oktay, Yavuz",
+        "Karakulah, Gokhan",
+        "Karaca, Ezgi",
+        "Senturk, Serif",
+        "Erkek-Ozhan, Serap"
+      ],
+      "short_names": [
+        "Ozden-Yilmaz G",
+        "Olmez A",
+        "Yilmazbilek I",
+        "Tulu AC",
+        "Binokay L",
+        "Gencpinar P",
+        "Hiz AS",
+        "Oktay Y",
+        "Karakulah G",
+        "Karaca E",
+        "Senturk S",
+        "Erkek-Ozhan S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "Department of Pediatric Neurology, Private Clinic, Denizli, Turkiye.",
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "Department of Pediatric Neurology, Izmir Katip Celebi University, Izmir, Turkiye.",
+        "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "Department of Pediatric Neurology,Faculty of Medicine, Dokuz Eylul University, 35340, Inciralti, Izmir, Turkiye.",
+        "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye.",
+        "Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye. serap.erkek@ibg.edu.tr.",
+        "Dokuz Eylul University Izmir International Biomedicine and Genome Institute, 35340, Inciralti, Izmir, Turkiye. serap.erkek@ibg.edu.tr.",
+        "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciralti, Izmir, Turkiye. serap.erkek@ibg.edu.tr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Özden-Yılmaz, Gülden",
+        "short_name": "Özden-Yılmaz G",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Ölmez, Akgün",
+        "short_name": "Ölmez A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Neurology, Private Clinic, Denizli, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Yılmazbilek, İrem",
+        "short_name": "Yılmazbilek İ",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Tulu, Ahmet Can",
+        "short_name": "Tulu AC",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Binokay, Leman",
+        "short_name": "Binokay L",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Gençpınar, Pınar",
+        "short_name": "Gençpınar P",
+        "identifiers": [],
+        "affiliations": [
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye.",
+          "Department of Pediatric Neurology, Izmir Katip Çelebi University, Izmir, Türkiye.",
+          "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Hız, Ayşe Semra",
+        "short_name": "Hız AS",
+        "identifiers": [],
+        "affiliations": [
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye.",
+          "Department of Pediatric Neurology,Faculty of Medicine, Dokuz Eylül University, 35340, Inciraltı, Izmir, Türkiye.",
+          "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Oktay, Yavuz",
+        "short_name": "Oktay Y",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye.",
+          "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Karakülah, Gökhan",
+        "short_name": "Karakülah G",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Karaca, Ezgi",
+        "short_name": "Karaca E",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye.",
+          "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Senturk, Serif",
+        "short_name": "Senturk S",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Erkek-Ozhan, Serap",
+        "short_name": "Erkek-Ozhan S",
+        "identifiers": [],
+        "affiliations": [
+          "Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye. serap.erkek@ibg.edu.tr.",
+          "Dokuz Eylül University Izmir International Biomedicine and Genome Institute, 35340, Inciraltı, Izmir, Türkiye. serap.erkek@ibg.edu.tr.",
+          "The Rare and Undiagnosed Diseases Platform, Izmir Biomedicine and Genome Center, 35340, Inciraltı, Izmir, Türkiye. serap.erkek@ibg.edu.tr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular neurobiology"
+    ],
+    "journal_abbrev": [
+      "Mol Neurobiol"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 18:31",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42986493"
+    ],
+    "review": [
+      "42986493"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/blooddisorders.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Blood Disorders"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s12035-026-06270-4",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-978",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "identity": {
+    "pmid": "42983525",
+    "doi": "10.1186/s41065-026-00726-2",
+    "title": "Identification and validation of RNA-binding protein-associated biomarkers in esophageal cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Esophageal cancer (ESCA) is highly prevalent globally, but the role of RNA-binding proteins (RBPs) in it remains unclear. METHODS: ESCA datasets were analyzed to identify differentially expressed genes (DEGs). Candidates were derived by intersecting DEGs with RBP-related genes and validated via machine learning, expression analysis, and receiver operating characteristic (ROC) curves. Prognostic value, functional enrichment, immune microenvironment, regulatory networks, drug prediction, and Eca-109 cell validation were assessed. RESULTS: Four biomarkers (CDC20, COL7A1, DNMT3B, UBE2T) were confirmed. Low UBE2T/DNMT3B correlated with better survival. In addition, CDC20/UBE2T were linked to DNA replication; COL7A1/DNMT3B to olfactory transduction. Immune analysis showed 15 cell types differed significantly, with most chemokines negatively correlating with biomarkers. CONCLUSIONS: COL7A1, DNMT3B, and UBE2T were associated with transcription factor TET1. The four biomarkers corresponded to 79, 26, 67, and 23 targeted drugs, respectively, and all were highly expressed in Eca-109 cells, advancing insights into RBP-related mechanisms in ESCA.",
+    "keywords": [
+      "Biomarker",
+      "Esophageal cancer",
+      "GSEA",
+      "Immunoinfiltration",
+      "RNA-binding proteins"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Esophageal Neoplasms/genetics",
+      "*Biomarkers, Tumor/genetics",
+      "*RNA-Binding Proteins/genetics",
+      "Gene Expression Regulation, Neoplastic",
+      "Gene Expression Profiling",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Jie",
+        "Li, Rizhu",
+        "Wu, Xiangsheng",
+        "Feng, Xueping"
+      ],
+      "short_names": [
+        "Gao J",
+        "Li R",
+        "Wu X",
+        "Feng X"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5621-5535"
+      ],
+      "affiliations": [
+        "School of Basic Medical Sciences, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, PR China.",
+        "School of Clinical Medicine, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, PR China.",
+        "School of Clinical Medicine, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, PR China.",
+        "School of Basic Medical Sciences, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, PR China. fxp20020605@ymun.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Jie",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Rizhu",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "School of Clinical Medicine, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, PR China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiangsheng",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Clinical Medicine, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, PR China."
+        ]
+      },
+      {
+        "full_name": "Feng, Xueping",
+        "short_name": "Feng X",
+        "identifiers": [
+          "0000-0001-5621-5535"
+        ],
+        "affiliations": [
+          "School of Basic Medical Sciences, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, PR China. fxp20020605@ymun.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Hereditas"
+    ],
+    "journal_abbrev": [
+      "Hereditas"
+    ],
+    "pub_date": "2026 Aug 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 10:52",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42983525"
+    ],
+    "review": [
+      "42983525"
+    ],
+    "pmc": [
+      "13733133"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://hereditasjournal.biomedcentral.com/articles/10.1186/s41065-026-00726-2",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/esophagealcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Esophageal Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-UBE2T-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-3262",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "pmid": "42968513",
+    "doi": "10.1080/17460441.2026.2754037",
+    "title": "Crystallographic fragment screening in cancer and antiviral drug discovery: from electron density to translational outcomes."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Crystallographic fragment screening (CFS) provides an experimental starting point for small-molecule discovery by defining a fragment's binding site, pose and routes for chemical elaboration. By establishing a structural hypothesis before major medicinal-chemistry investment, CFS reduces early uncertainty and the risk of pursuing a binding mode inferred from activity or modeling but not supported by experimental structural evidence. AREAS COVERED: This review examines how CFS advances fragments into lead series, preclinical candidates and clinical molecules. Oncology examples include kinase inhibitors, the PHIP2 bromodomain, the transcription factor brachyury and the metabolic enzyme PYCR1. Antiviral examples include viral proteases, polymerases, the influenza PA endonuclease and the SARS-CoV-2 immune-evasion protein Mac1. It also considers the practical requirements and limitations of CFS, criteria for hit validation and prioritization, and how high-throughput crystallography, reusable structural datasets and computational or machine-learning methods can support chemical elaboration and translational decision-making. Relevant literature was identified through targeted PubMed searches conducted from March to September 2026, supplemented by reference-list screening of relevant primary studies and reviews. EXPERT OPINION: CFS is most powerful when it provides an experimentally grounded binding hypothesis early in discovery. It converts weak binding into actionable geometry, reveals ligandable pockets and supplies credible design starting points. Computational and machine-learning methods can extend this information by exploring chemical space, ranking fragment elaborations and supporting multiparameter prioritization, but they do not replace experimental determination of binding modes or functional validation. Future progress will depend on reusable structure-affinity datasets and tighter structure-design-synthesis-test cycles that connect crystallographic evidence to biological decisions.",
+    "keywords": [
+      "Antiviral drug discovery",
+      "cancer drug discovery",
+      "crystallographic fragment screening",
+      "fragment-based drug discovery",
+      "high-throughput crystallography",
+      "structure-based drug design",
+      "translational chemistry"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Balikci, Esra",
+        "Grimes, Jonathan M"
+      ],
+      "short_names": [
+        "Balikci E",
+        "Grimes JM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Division of Structural Biology, University of Oxford, Oxford, UK.",
+        "Division of Structural Biology, University of Oxford, Oxford, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Balıkçı, Esra",
+        "short_name": "Balıkçı E",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Structural Biology, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Grimes, Jonathan M",
+        "short_name": "Grimes JM",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Structural Biology, University of Oxford, Oxford, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Expert opinion on drug discovery"
+    ],
+    "journal_abbrev": [
+      "Expert Opin Drug Discov"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/02 05:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42968513"
+    ],
+    "review": [
+      "42968513"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/17460441.2026.2754037?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

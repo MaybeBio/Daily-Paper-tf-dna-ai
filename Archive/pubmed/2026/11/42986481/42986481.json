@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "42986481",
+    "doi": "10.1007/s13577-026-01456-3",
+    "title": "Licoflavone B mitigates allergic rhinitis by restraining epithelial PI3K-AKT/NF-kappaB NLRP3 inflammasome signaling."
+  },
+  "content": {
+    "abstract": "Allergic rhinitis remains highly prevalent and is often incompletely controlled by current therapies, while accumulating evidence implicates epithelial PI3K-AKT/NF-kappaB-mediated activation of the NLRP3 inflammasome in upper-airway inflammation. This study investigated whether the licorice-derived flavonoid Licoflavone B (LFB) alleviates allergic rhinitis by modulating this signaling axis. In an ovalbumin-induced murine model, allergic rhinitis-like symptoms and nasal histopathological changes were evaluated, cytokine levels were quantified by ELISA, and the activation of the NLRP3 inflammasome and PI3K-AKT/NF-kappaB signaling was assessed by immunoblotting. Unbiased RNA sequencing followed by KEGG and GO enrichment analyses was performed to identify potential upstream pathways. The involvement of PI3K-AKT/NF-kappaB signaling was further explored through PI3K-AKT reactivation with IGF-1 and TLR3 stimulation with poly(I) in vivo and in primary human nasal epithelial cells (HNEpCs). Molecular docking was also conducted to explore the potential interaction between LFB and PI3K. LFB reduced sneezing and nasal scratching, partially ameliorated epithelial thickening and inflammatory-cell infiltration, and decreased mast-cell staining. LFB also reduced the levels of IL-1beta, IL-6, IL-5, IL-13, and TNF-alpha, as well as the expression of NLRP3-inflammasome components. RNA-sequencing analysis identified PI3K-AKT signaling as one of the major enriched pathways, and immunoblotting confirmed that LFB decreased the phosphorylation of PI3K, AKT, and p65 without substantially altering their total protein levels. In HNEpCs, IGF-1 restored pathway phosphorylation and partially reinstated cytokine and inflammasome protein expression, thereby attenuating the effects of LFB. Similarly, IGF-1 or poly(I) partially diminished the symptomatic and histological improvements induced by LFB in vivo. Molecular docking positioned LFB within the PI3K catalytic pocket, providing structural plausibility for a potential LFB-PI3K interaction. Collectively, these findings indicate that LFB alleviates ovalbumin-induced allergic rhinitis-like inflammation and is associated with reduced activation of the PI3K-AKT/NF-kappaB/NLRP3 signaling axis in nasal tissues, HNEpCs, and stimulated mast-cell models. The partial reversal of these effects by IGF-1 or poly(I) further supports the involvement of this signaling pathway.",
+    "keywords": [
+      "Allergic rhinitis",
+      "Cytokines",
+      "IGF-1 rescue",
+      "Licoflavone B",
+      "Molecular docking",
+      "NF-kappaB",
+      "NLRP3 inflammasome",
+      "Nasal epithelium",
+      "PI3K-AKT",
+      "Poly(i:c)",
+      "RNA-seq"
+    ],
+    "mesh_terms": [
+      "*NLR Family, Pyrin Domain-Containing 3 Protein/metabolism",
+      "*Rhinitis, Allergic/drug therapy/genetics",
+      "*Signal Transduction/drug effects/genetics",
+      "*Proto-Oncogene Proteins c-akt/metabolism",
+      "Animals",
+      "*Phosphatidylinositol 3-Kinases/metabolism",
+      "*Inflammasomes/metabolism",
+      "Humans",
+      "*NF-kappa B/metabolism",
+      "Disease Models, Animal",
+      "*Flavones/pharmacology/therapeutic use",
+      "Cells, Cultured",
+      "*Phytotherapy",
+      "Mice",
+      "*Epithelial Cells/metabolism",
+      "Molecular Docking Simulation",
+      "Nasal Mucosa/cytology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shen, Qi",
+        "Ma, Xiaoyao",
+        "Liu, Hui",
+        "Li, Xuemin",
+        "Shao, Wenhui"
+      ],
+      "short_names": [
+        "Shen Q",
+        "Ma X",
+        "Liu H",
+        "Li X",
+        "Shao W"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-7785-2388"
+      ],
+      "affiliations": [
+        "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China.",
+        "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China. slmxy@hactcm.edu.cn.",
+        "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China.",
+        "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China.",
+        "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shen, Qi",
+        "short_name": "Shen Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Xiaoyao",
+        "short_name": "Ma X",
+        "identifiers": [
+          "0009-0005-7785-2388"
+        ],
+        "affiliations": [
+          "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China. slmxy@hactcm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liu, Hui",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuemin",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Wenhui",
+        "short_name": "Shao W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Otorhinolaryngology, The First Affiliated Hospital of Henan University of Chinese Medicine, No. 19, Renmin Road, Zhengzhou, 450000, Henan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Human cell"
+    ],
+    "journal_abbrev": [
+      "Hum Cell"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 18:31",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42986481"
+    ],
+    "review": [
+      "42986481"
+    ],
+    "pmc": [
+      "13739966"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/herbalmedicine.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Herbal Medicine"
+      },
+      {
+        "url": "https://doi.org/10.1007/s13577-026-01456-3",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-2677",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

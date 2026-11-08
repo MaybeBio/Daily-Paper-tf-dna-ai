@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "42989526",
+    "doi": "10.5607/en26043",
+    "title": "SERPINE1 Identifies a Shared Injury-associated Molecular Signature in Intracerebral Hemorrhage and Epilepsy."
+  },
+  "content": {
+    "abstract": "Intracerebral hemorrhage (ICH) and epilepsy are clinically linked neurological disorders, yet their shared molecular features remain incompletely understood. This study aimed to identify shared molecular candidates across ICH and epilepsy by integrating transcriptomic data with a curated set of genes with established circadian relevance. Transcriptomic datasets for ICH and epilepsy were retrieved from the Gene Expression Omnibus, and candidate genes were curated from the Molecular Signatures Database and GeneCards. Differentially expressed candidate genes were intersected, and an integrative machine-learning framework-including Boruta, LASSO, XGBoost, and CatBoost-was applied to prioritize shared genes. Integrated machine-learning and network analyses nominated SERPINE1 for further investigation. Single-sample gene set enrichment analysis identified higher scores for porphyrin, folate and pterine, and arachidonic acid metabolism in both disease comparisons. SERPINE1 expression correlated positively with arachidonic acid metabolism scores in both datasets, while Hallmark gene set enrichment analysis linked its expression to inflammatory transcriptional signatures, including TNFA signaling via NFKB and IL6-JAK-STAT3 signaling. Gene interaction, drug-mRNA, transcription factor-mRNA, and competing endogenous RNA networks further characterized its regulatory and pharmacological context. Independent bulk transcriptomic datasets and experimental models supported SERPINE1 upregulation, with single-nucleus RNA-sequencing providing complementary cellular context, while single-nucleus analyses and immunostaining further supported its preferential microglial localization. Collectively, these findings identify SERPINE1 as a shared injury-associated molecular feature of ICH and epilepsy, with preferential microglial localization and associations with inflammatory transcriptional signatures and metabolic pathway scores. Although SERPINE1 is known to be clock-regulated, whether its temporal expression pattern is altered in ICH or epilepsy remains to be determined.",
+    "keywords": [
+      "Epilepsy",
+      "Intracerebral hemorrhage",
+      "Microglia",
+      "SERPINE1"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Xu",
+        "Su, Lihan",
+        "Zhang, Shijie",
+        "Shen, Jing",
+        "Yao, Ensheng"
+      ],
+      "short_names": [
+        "Zhang X",
+        "Su L",
+        "Zhang S",
+        "Shen J",
+        "Yao E"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+        "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China.",
+        "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+        "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China.",
+        "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+        "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China.",
+        "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+        "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China.",
+        "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+        "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Xu",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+          "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China."
+        ]
+      },
+      {
+        "full_name": "Su, Lihan",
+        "short_name": "Su L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+          "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shijie",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+          "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Jing",
+        "short_name": "Shen J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+          "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Ensheng",
+        "short_name": "Yao E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, the First Affiliated Hospital of Shihezi University, Shihezi 832008, China.",
+          "NHC Key Laboratory of Prevention and Treatment of Central Asia High Incidence Diseases (Co-Construction), Shihezi University School of Medicine, Shihezi 832000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Experimental neurobiology"
+    ],
+    "journal_abbrev": [
+      "Exp Neurobiol"
+    ],
+    "pub_date": "2026 Nov 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 07:12",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42989526"
+    ],
+    "review": [
+      "42989526"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

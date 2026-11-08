@@ -1,0 +1,199 @@
+{
+  "identity": {
+    "pmid": "42986892",
+    "doi": "10.1371/journal.pone.0362296",
+    "title": "Harpagide alleviates neuroinflammation and cognitive dysfunction in sepsis-associated encephalopathy: Association with the MMP9/NF-kappaB signaling pathway."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Sepsis-associated encephalopathy (SAE) is a severe neurological complication of sepsis, characterized by uncontrolled neuroinflammation and cognitive decline, yet no specific therapy is currently available. Harpagide, a naturally occurring iridoid glycoside, has been reported to possess anti-inflammatory and neuroprotective activities; however, its therapeutic potential in SAE remains unexplored. This study aimed to investigate whether Harpagide exerts neuroprotective effects in SAE and to elucidate the underlying molecular mechanisms. METHODS: A mouse model of SAE was established by intraperitoneal injection of lipopolysaccharide (LPS, 18 mg/kg). Cognitive performance was assessed using behavioral assays. Brain tissue morphology and neuronal survival were evaluated through histopathological examination. Glial cell activation and the production of pro-inflammatory cytokines (TNF-alpha, IL-1beta, IL-6) were measured. Network pharmacology was employed to predict potential targets, followed by molecular docking and molecular dynamics simulations to predict binding interactions with core targets. Western blotting was performed to determine the expression levels of key proteins involved in the MMP9/NF-kappaB signaling pathway. RESULTS: Treatment with Harpagide significantly improved behavioral performance, ameliorated brain pathological changes, preserved hippocampal neurons, suppressed glial activation, and reduced the levels of TNF-alpha, IL-1beta, and IL-6 in SAE mice. Network pharmacology analysis predicted four core targets: GAPDH, CASP3, MMP9, and ICAM1. Molecular docking and molecular dynamics simulations suggested stable binding between Harpagide and MMP9. Western blot analysis further showed that Harpagide treatment was associated with reduced expression of MMP9 and phosphorylated NF-kappaB p65 in both hippocampal and cortical tissues. CONCLUSIONS: The present study demonstrates that Harpagide exerts neuroprotective effects in SAE, which are associated with mitigated neuroinflammation and reduced MMP9/NF-kappaB signaling, supporting its potential as a promising therapeutic candidate for this devastating condition.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Pyrans/pharmacology/therapeutic use",
+      "Mice",
+      "Signal Transduction/drug effects",
+      "*NF-kappa B/metabolism",
+      "Male",
+      "*Matrix Metalloproteinase 9/metabolism",
+      "*Sepsis-Associated Encephalopathy/drug therapy/metabolism/pathology/complications",
+      "*Cognitive Dysfunction/drug therapy/metabolism/etiology/pathology",
+      "*Iridoid Glycosides/pharmacology/therapeutic use",
+      "*Neuroinflammatory Diseases/drug therapy/metabolism/pathology",
+      "Neuroprotective Agents/pharmacology/therapeutic use",
+      "Disease Models, Animal",
+      "Cytokines/metabolism",
+      "Brain/pathology/drug effects",
+      "Mice, Inbred C57BL",
+      "Hippocampus/drug effects/pathology/metabolism",
+      "Lipopolysaccharides",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lou, Fen",
+        "Deng, Guochun",
+        "Chen, Jiejuan",
+        "Jing, Yijiang",
+        "Wang, Ao",
+        "Zhang, Mazhong",
+        "Zhang, Yongping",
+        "Wang, Bin"
+      ],
+      "short_names": [
+        "Lou F",
+        "Deng G",
+        "Chen J",
+        "Jing Y",
+        "Wang A",
+        "Zhang M",
+        "Zhang Y",
+        "Wang B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9102-6702"
+      ],
+      "affiliations": [
+        "The Second Clinical Medical College, Guizhou University of Traditional Chinese Medicine, Guiyang, China.",
+        "The Second Affiliated Hospital, Guizhou University of Traditional Chinese Medicine, Guiyang, China.",
+        "Guizhou Provincial People's Hospital, Guiyang, China.",
+        "Guizhou Medical University, Guiyang, China.",
+        "Guizhou Medical University, Guiyang, China.",
+        "Guizhou Medical University, Guiyang, China.",
+        "Guizhou Provincial People's Hospital, Guiyang, China.",
+        "Shanghai Children's Medical Center Guizhou Hospital, Guiyang, China.",
+        "The Second Affiliated Hospital, Guizhou University of Traditional Chinese Medicine, Guiyang, China.",
+        "Guizhou Provincial People's Hospital, Guiyang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lou, Fen",
+        "short_name": "Lou F",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Clinical Medical College, Guizhou University of Traditional Chinese Medicine, Guiyang, China.",
+          "The Second Affiliated Hospital, Guizhou University of Traditional Chinese Medicine, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Guochun",
+        "short_name": "Deng G",
+        "identifiers": [],
+        "affiliations": [
+          "Guizhou Provincial People's Hospital, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jiejuan",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Guizhou Medical University, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Jing, Yijiang",
+        "short_name": "Jing Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guizhou Medical University, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ao",
+        "short_name": "Wang A",
+        "identifiers": [],
+        "affiliations": [
+          "Guizhou Medical University, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Mazhong",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Guizhou Provincial People's Hospital, Guiyang, China.",
+          "Shanghai Children's Medical Center Guizhou Hospital, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yongping",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Affiliated Hospital, Guizhou University of Traditional Chinese Medicine, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Bin",
+        "short_name": "Wang B",
+        "identifiers": [
+          "0000-0002-9102-6702"
+        ],
+        "affiliations": [
+          "Guizhou Provincial People's Hospital, Guiyang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 18:31",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42986892"
+    ],
+    "review": [
+      "42986892"
+    ],
+    "pmc": [
+      "13739116"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0362296",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GAPDH-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-219",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "pmid": "42980051",
+    "doi": "10.1155/bmri/7855459",
+    "title": "Integrative Transcriptomic and Network Analyses Reveal Common Molecular Signatures and Turmeric-Derived Common Therapeutic Candidates for Neurological Diseases."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Neurological diseases (NDs), including Alzheimer's disease (AD), Parkinson's disease (PD), stroke, and brain tumors, impose a substantial global health burden. Although these disorders have distinct clinical manifestations and etiologies, accumulating evidence suggests that they share certain molecular mechanisms. However, their common molecular signatures and the therapeutic potential of turmeric-derived bioactive compounds have not been systematically investigated. OBJECTIVES: This study is aimed at identifying shared molecular mechanisms and key hub genes across AD, PD, stroke, and glioblastoma (GBM) using an integrative bioinformatics framework and at investigating turmeric-derived compounds as potential multitarget common therapeutic candidates. MATERIALS AND METHODS: Gene expression datasets (GSE22491, GSE5281, GSE122709, and GSE4290) were retrieved from the Gene Expression Omnibus (GEO) database. Common host differentially expressed genes (cHDEGs) were identified through integrated bioinformatics analysis. Protein-protein interaction (PPI) networks were subsequently constructed to identify common hub genes (cHubGs), followed by functional enrichment and transcription factor (TF) and miRNA-mediated regulatory network analyses. The interactions between the identified cHubGs and turmeric-derived compounds were further investigated using molecular docking and 500-ns molecular dynamics simulations (MDS). RESULTS: A total of 81 cHDEGs and four cHubGs (CCNB1, CDK1, CYCS, and STAT3) were identified. Functional enrichment and regulatory network analysis revealed shared biological processes and signaling pathways, as well as key TFs and miRNAs potentially associated with ND pathogenesis. Among the 77 turmeric-derived compounds that passed the toxicity screening, demethoxycurcumin, cyclocurcumin, and (1E,4E)-1-(4-hydroxy-3-methoxyphenyl)-5-(4-hydroxyphenyl)-1,4-pentadien-3-one exhibited the strongest predicted binding affinities. The selected compound-target complexes also showed stable behavior during the MDS. CONCLUSION: This study provides insights into the shared molecular features across AD, PD, stroke, and GBM and prioritizes turmeric-derived compounds as potential multitarget therapeutic candidates. These computational findings require further validation through independent datasets and experimental studies.",
+    "keywords": [
+      "Curcuma longa",
+      "hub genes",
+      "integrative bioinformatics",
+      "molecular dynamics simulation",
+      "network pharmacology",
+      "neurological diseases"
+    ],
+    "mesh_terms": [
+      "*Curcuma/chemistry",
+      "Humans",
+      "*Gene Regulatory Networks/drug effects",
+      "Protein Interaction Maps/drug effects/genetics",
+      "*Nervous System Diseases/genetics/drug therapy",
+      "Gene Expression Profiling",
+      "*Transcriptome/genetics/drug effects",
+      "Molecular Docking Simulation",
+      "Computational Biology/methods",
+      "MicroRNAs/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bayragi, Sumi Rani",
+        "Hossain, Riday",
+        "Islam, Md Zohurul",
+        "Sumi, Sharmin Akter",
+        "Ahmed, Fee Faysal"
+      ],
+      "short_names": [
+        "Bayragi SR",
+        "Hossain R",
+        "Islam MZ",
+        "Sumi SA",
+        "Ahmed FF"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-3226-1175",
+        "ORCID: 0009-0008-5857-4740",
+        "ORCID: 0000-0001-8196-8969",
+        "ORCID: 0009-0008-3449-1633",
+        "ORCID: 0000-0001-5692-6011"
+      ],
+      "affiliations": [
+        "Department of Mathematics, Faculty of Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd.",
+        "Department of Mathematics, Faculty of Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd.",
+        "High Performance Computing (HPC) Laboratory, Department of Mathematics, Faculty of Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd.",
+        "Department of Nursing and Health Science, Faculty of Health Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd.",
+        "Department of Mathematics, Faculty of Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bayragi, Sumi Rani",
+        "short_name": "Bayragi SR",
+        "identifiers": [
+          "0009-0007-3226-1175"
+        ],
+        "affiliations": [
+          "Department of Mathematics, Faculty of Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd."
+        ]
+      },
+      {
+        "full_name": "Hossain, Riday",
+        "short_name": "Hossain R",
+        "identifiers": [
+          "0009-0008-5857-4740"
+        ],
+        "affiliations": [
+          "Department of Mathematics, Faculty of Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd."
+        ]
+      },
+      {
+        "full_name": "Islam, Md Zohurul",
+        "short_name": "Islam MZ",
+        "identifiers": [
+          "0000-0001-8196-8969"
+        ],
+        "affiliations": [
+          "High Performance Computing (HPC) Laboratory, Department of Mathematics, Faculty of Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd."
+        ]
+      },
+      {
+        "full_name": "Sumi, Sharmin Akter",
+        "short_name": "Sumi SA",
+        "identifiers": [
+          "0009-0008-3449-1633"
+        ],
+        "affiliations": [
+          "Department of Nursing and Health Science, Faculty of Health Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Fee Faysal",
+        "short_name": "Ahmed FF",
+        "identifiers": [
+          "0000-0001-5692-6011"
+        ],
+        "affiliations": [
+          "Department of Mathematics, Faculty of Science, Jashore University of Science and Technology, Jashore, Bangladesh, just.edu.bd."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BioMed research international"
+    ],
+    "journal_abbrev": [
+      "Biomed Res Int"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 11:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42980051"
+    ],
+    "review": [
+      "42980051"
+    ],
+    "pmc": [
+      "13732813"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/neurologicdiseases.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Neurologic Diseases"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42980051/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/bmri/7855459",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-YWHAE-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3783",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

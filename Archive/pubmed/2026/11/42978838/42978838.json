@@ -1,0 +1,114 @@
+{
+  "identity": {
+    "pmid": "42978838",
+    "doi": "10.1155/vmi/3660248",
+    "title": "Nutrigenomics in Dairy Cattle: Causes and Implications."
+  },
+  "content": {
+    "abstract": "Nutrigenomics is a rapidly developing interdisciplinary field that investigates the interactions between nutrients and the genome, with particular emphasis on how dietary components regulate gene expression and metabolic pathways. In dairy cattle, nutrigenomics has gained increasing attention due to its potential to improve milk production, metabolic efficiency, health, reproduction, and overall animal performance. Nutrients and bioactive dietary compounds can influence gene activity directly through transcriptional regulation or indirectly through epigenetic mechanisms such as DNA methylation, histone modification, and noncoding RNA-mediated gene regulation. These nutrigenomic interactions affect important biological processes including lipid metabolism, adipogenesis, immune response, mammary gland development, and milk synthesis. Advances in omics technologies including transcriptomics, proteomics, metabolomics, and next-generation sequencing have enhanced understanding of the molecular responses of dairy cows to nutritional interventions. Dietary fatty acids, vitamins, methyl donors, and short-chain fatty acids such as butyrate have been shown to regulate key transcription factors including peroxisome proliferator-activated receptors (PPARs), sterol regulatory element binding proteins (SREBPs), and liver X receptors (LXRs), thereby modulating metabolic and physiological functions. Nutritional interventions, feed restriction, and supplementation produce tissue-specific molecular responses in the liver, adipose tissue, mammary gland, and immune system, demonstrating interaction between diet, physiological state, and metabolic regulation. Despite these advances, challenges with genetic and physiological variability, tissue-specific responses, integration of multi-omics data, and translation of molecular findings into practical feeding strategies remain unresolved. Future integration of nutrigenomics with microbiome research, multi-omics, artificial intelligence, and precision livestock technologies may facilitate nutritional strategies to improve dairy cattle health, productivity, feed efficiency, and product quality.",
+    "keywords": [
+      "dairy cattle",
+      "epigenetics",
+      "fatty acids",
+      "feed intake",
+      "gene expression",
+      "milk fat",
+      "nutrigenomics",
+      "nutritional genomics",
+      "transcription factors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tamasgen, Negasa",
+        "Asefa, Bacha"
+      ],
+      "short_names": [
+        "Tamasgen N",
+        "Asefa B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4454-1111"
+      ],
+      "affiliations": [
+        "Department of Animal Sciences Wollega University P.O. Box 395 Nekemte Ethiopia wollegauniversity.edu.et.",
+        "Livestock and Fisheries Agricultural Office Choman Guduru Oromia Ethiopia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tamasgen, Negasa",
+        "short_name": "Tamasgen N",
+        "identifiers": [
+          "0000-0002-4454-1111"
+        ],
+        "affiliations": [
+          "Department of Animal Sciences Wollega University P.O. Box 395 Nekemte Ethiopia wollegauniversity.edu.et."
+        ]
+      },
+      {
+        "full_name": "Asefa, Bacha",
+        "short_name": "Asefa B",
+        "identifiers": [],
+        "affiliations": [
+          "Livestock and Fisheries Agricultural Office Choman Guduru Oromia Ethiopia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Veterinary medicine international"
+    ],
+    "journal_abbrev": [
+      "Vet Med Int"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 05:31",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42978838"
+    ],
+    "review": [
+      "42978838"
+    ],
+    "pmc": [
+      "13728326"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42978838/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/vmi/3660248",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

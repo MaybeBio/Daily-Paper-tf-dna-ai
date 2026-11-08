@@ -1,0 +1,141 @@
+{
+  "identity": {
+    "pmid": "42967576",
+    "doi": "10.1049/syb2.70088",
+    "title": "Bioinformatics Analysis to Reveal Potential Targets of Huntington's Disease."
+  },
+  "content": {
+    "abstract": "Huntington's disease (HD) is a progressive neurodegenerative disease resulted from the expansion of CAG repeats in huntingtin (HTT) gene and characterised by motor impairment, psychiatric disorders and cognitive decline. Currently, there are no available disease-modifying treatments. In this study, we performed an integrative analysis of HD datasets downloaded from the Gene Expression Omnibus (GEO) database using machine learning approaches, Mendelian randomisation (MR) and single cell RNA-sequencing (scRNA-seq) analysis to elucidate underlying disease mechanisms. The machine learning algorithms of LASSO, random forest and SVM-RFE identified the decreased ADRA2A in HD. In addition, MR analysis revealed HD-associated proteins such as LILRA4 and UBE2D1, associated with immune response and ubiquitination metabolism, respectively. scRNA-seq analysis further identified the transcription factors of SOX4 and ETV1 through SCENIC analysis. Pseudotime trajectory analysis highlighted heparan sulphate sulfotransferase activity, involving genes CHST11, HS3ST3A1 and HS6ST3 that drive cell differentiation. Moreover, cell-cell communication analysis demonstrated enhanced NRG1/3-ERBB4 signalling pathway in HD. This study presents multiple potential targets for HD treatment but further experimental validation is required to confirm their functional relevance.",
+    "keywords": [
+      "Huntington's disease",
+      "bioinformatics",
+      "machine learning",
+      "neurophysiology"
+    ],
+    "mesh_terms": [
+      "*Huntington Disease/genetics/metabolism",
+      "Humans",
+      "*Computational Biology/methods",
+      "Machine Learning"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Shu",
+        "Xu, Xinjie",
+        "Liu, Weida",
+        "Zhang, Shuyang"
+      ],
+      "short_names": [
+        "Yang S",
+        "Xu X",
+        "Liu W",
+        "Zhang S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4755-5348"
+      ],
+      "affiliations": [
+        "Institute of Clinical Medicine, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China.",
+        "Institute of Clinical Medicine, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China.",
+        "Institute of Clinical Medicine, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China.",
+        "Department of Cardiology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Shu",
+        "short_name": "Yang S",
+        "identifiers": [
+          "0000-0003-4755-5348"
+        ],
+        "affiliations": [
+          "Institute of Clinical Medicine, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xinjie",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Clinical Medicine, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Weida",
+        "short_name": "Liu W",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Clinical Medicine, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shuyang",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "IET systems biology"
+    ],
+    "journal_abbrev": [
+      "IET Syst Biol"
+    ],
+    "pub_date": "2026 Jan-Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/01 23:27",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42967576"
+    ],
+    "review": [
+      "42967576"
+    ],
+    "pmc": [
+      "13724211"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/huntingtonsdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Huntington's Disease"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42967576/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1049/syb2.70088",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

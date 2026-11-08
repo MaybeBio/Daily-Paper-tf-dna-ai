@@ -1,0 +1,126 @@
+{
+  "identity": {
+    "pmid": "42990305",
+    "doi": "10.64898/2026.10.26.762037",
+    "title": "Optimization of the NFkappaB-DNA ensemble leads to high affinity binding of partial consensus sites."
+  },
+  "content": {
+    "abstract": "Our ability to respond to a myriad of external stressors is dependent on the activity of specific transcription factors that precisely regulate gene expression. While some transcription factors have high specificity for their consensus DNA binding site, others such as NFkappaB (RelA/p50) readily bind to partial and nonconsensus sites. In fact, ChIP-Seq data shows that nearly half of the DNA-bound RelA occupies sequences that don't match the consensus. Here we explore how NFkappaB (RelA/p50) binds to alternative sequences that differ subtly from the consensus. The two subunits of the NFkappaB heterodimer, RelA and p50, form an extensive pocket where DNA binding is mediated by both base-specific contacts and nonspecific interactions with the DNA backbone. RelA and p50 each form sequence-specific contacts with DNA at different 4-nucleotide sequences separated by two nucleotides, together forming a 10-base pair consensus binding sequence. Partial consensus sequences, known as \"half-sites\", match the consensus sequence at only one of these two 4-nucleotide interaction sites. Here, using hydrogen deuterium exchange mass spectrometry (HDX-MS) and molecular dynamics (MD) simulations to investigate protein structural dynamics, we observe that rearranging nucleotides at the RelA-interacting end of a consensus DNA sequence to form a half-site induces dynamic structural changes through both subunits of RelA/p50. MD simulations reveal a shift in the position of DNA within the RelA/p50 binding pocket that allows optimal interaction with the half-site sequence. Our results demonstrate how RelA/p50 fine-tunes its interactions to achieve high-affinity binding with multiple different target DNA sequences.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gunther, Tristan R",
+        "Hofmeister, Sophia M",
+        "Sebastian, Luke",
+        "Baughman, Hannah E R",
+        "Bethel, Neville",
+        "Komives, Elizabeth A"
+      ],
+      "short_names": [
+        "Gunther TR",
+        "Hofmeister SM",
+        "Sebastian L",
+        "Baughman HER",
+        "Bethel N",
+        "Komives EA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6704-1320",
+        "ORCID: 0000-0002-6863-9420",
+        "ORCID: 0000-0003-0615-2403",
+        "ORCID: 0000-0001-7576-9613",
+        "ORCID: 0000-0001-5264-3866"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Gunther, Tristan R",
+        "short_name": "Gunther TR",
+        "identifiers": [
+          "0000-0002-6704-1320"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hofmeister, Sophia M",
+        "short_name": "Hofmeister SM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sebastian, Luke",
+        "short_name": "Sebastian L",
+        "identifiers": [
+          "0000-0002-6863-9420"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Baughman, Hannah E R",
+        "short_name": "Baughman HER",
+        "identifiers": [
+          "0000-0003-0615-2403"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bethel, Neville",
+        "short_name": "Bethel N",
+        "identifiers": [
+          "0000-0001-7576-9613"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Komives, Elizabeth A",
+        "short_name": "Komives EA",
+        "identifiers": [
+          "0000-0001-5264-3866"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42990305"
+    ],
+    "review": [
+      "42990305"
+    ],
+    "pmc": [
+      "13733983"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

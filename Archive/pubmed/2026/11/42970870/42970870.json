@@ -1,0 +1,125 @@
+{
+  "identity": {
+    "pmid": "42970870",
+    "doi": "10.1016/j.foodchem.2026.151759",
+    "title": "Identification of potential regulators of caffeine biosynthesis in shading- and nano‑selenium-treated tea leaves based on integrated bioinformatics and AlphaFold3 analysis."
+  },
+  "content": {
+    "abstract": "Caffeine is an important flavor and bioactive compound in tea, yet external stimuli-induced regulatory networks of caffeine biosynthesis remain largely unclear. Our study showed that shading and nano‑selenium (SeNPs) treatments respectively increased caffeine content in tea leaves from 35.96 mg/g to approximately 43 mg/g, whereas their combined treatment exerted a synergistic effect, raising it to 51.12 mg/g. Correlation of transcriptome with caffeine content and treatment factors via WGCNA and Mantel tests identified 4 key gene modules and 64 transcription factors (TFs). To accelerate TF screening, we established a rapid and high-throughput screening strategy by integrating AlphaFold3 with JASPAR motif prediction, resulting in 10 candidate TF-DNA complexes. Subsequent validation in yeast and tobacco systems confirmed that CsTSO1 directly binds to the promoter of CsSAMS. Our study uncovers how shading and SeNPs modulate caffeine biosynthesis in tea plants, and provide an AI-assisted framework for efficient TF screening in plant metabolic network.",
+    "keywords": [
+      "AlphaFold3",
+      "Bioinformatics",
+      "Caffeine",
+      "Camellia sinensis L.",
+      "Nano‑selenium",
+      "Shading"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ye, Jianhui",
+        "Han, Qianou",
+        "Zhu, Jin",
+        "Li, Chunyang"
+      ],
+      "short_names": [
+        "Ye J",
+        "Han Q",
+        "Zhu J",
+        "Li C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Tea Research Institute, Zhejiang University, Hangzhou, 310058, China.",
+        "Tea Research Institute, Zhejiang University, Hangzhou, 310058, China.",
+        "Tea Research Institute, Zhejiang University, Hangzhou, 310058, China.",
+        "Tea Research Institute, Zhejiang University, Hangzhou, 310058, China. Electronic address: licy12@zju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ye, Jianhui",
+        "short_name": "Ye J",
+        "identifiers": [],
+        "affiliations": [
+          "Tea Research Institute, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Han, Qianou",
+        "short_name": "Han Q",
+        "identifiers": [],
+        "affiliations": [
+          "Tea Research Institute, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Jin",
+        "short_name": "Zhu J",
+        "identifiers": [],
+        "affiliations": [
+          "Tea Research Institute, Zhejiang University, Hangzhou, 310058, China."
+        ]
+      },
+      {
+        "full_name": "Li, Chunyang",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Tea Research Institute, Zhejiang University, Hangzhou, 310058, China. Electronic address: licy12@zju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/02 23:28",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42970870"
+    ],
+    "review": [
+      "42970870"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0308-8146(26)03919-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

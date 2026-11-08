@@ -1,0 +1,219 @@
+{
+  "identity": {
+    "pmid": "42976851",
+    "doi": "10.1016/j.neuron.2026.10.003",
+    "title": "Redox-dependent remodeling of mitochondrial nucleoids contributes to bioenergetic decline during neuronal aging."
+  },
+  "content": {
+    "abstract": "Why mitochondria progressively fail in aging neurons remains a fundamental question in neurobiology. Although bioenergetic decline and oxidative stress are hallmarks of aging, whether redox signaling remodels mitochondrial nucleoids (mt-nucleoids) to impair neuronal bioenergetics remains unclear. Using aged mouse neurons and human induced pluripotent stem cell (iPSC)-derived neurons, we demonstrate that redox-driven mt-nucleoid remodeling underlies reduced mtDNA transcript abundance and bioenergetic decline. Combining minimal photon fluxes (MINFLUX) nanoscopy with single-molecule transcription mapping, we identify distinct mt-nucleoid architectures governed by mitochondrial transcription factor A (TFAM)-mediated mtDNA compaction. Aging-associated oxidative stress drives mt-nucleoid remodeling from compact, transcriptionally active structures toward decompacted forms with reduced mtDNA transcript abundance and impaired mitochondrial ATP production. This remodeling involves species-specific TFAM redox mechanisms: cysteine oxidation promotes human TFAM polymerization, whereas methionine oxidation weakens mouse TFAM-mtDNA interactions. Notably, expressing an oxidation-resistant TFAM variant restores mt-nucleoid organization, mtDNA transcript abundance, and ATP production in aged neurons, identifying mt-nucleoid architecture as a potential target for preserving neuronal bioenergetics during aging.",
+    "keywords": [
+      "MINFLUX nanoscopy",
+      "TFAM-mtDNA condensates",
+      "machine learning",
+      "mitochondrial aging profile",
+      "mitochondrial bioenergetics",
+      "mitochondrial nucleoids",
+      "neuronal aging",
+      "oxidative stress",
+      "phase separation",
+      "redox signaling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cheng, Xiu-Tang",
+        "Gao, Yifei",
+        "Chan, Chung Yu",
+        "Xie, Yuxiang",
+        "Dai, Yuanyi",
+        "Xiong, Gui-Jing",
+        "Sathler, Alexandre R",
+        "Roney, Joseph C",
+        "Li, Sunan",
+        "Li, Yan",
+        "Wu, Ling-Gang",
+        "Sheng, Zu-Hang"
+      ],
+      "short_names": [
+        "Cheng XT",
+        "Gao Y",
+        "Chan CY",
+        "Xie Y",
+        "Dai Y",
+        "Xiong GJ",
+        "Sathler AR",
+        "Roney JC",
+        "Li S",
+        "Li Y",
+        "Wu LG",
+        "Sheng ZH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Transmission Section, NINDS, National Institutes of Health, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA.",
+        "Proteomics Core Facility, NINDS, National Institutes of Health, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Transmission Section, NINDS, National Institutes of Health, Bethesda, MD 20892-3706, USA.",
+        "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA. Electronic address: shengz@ninds.nih.gov."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cheng, Xiu-Tang",
+        "short_name": "Cheng XT",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Gao, Yifei",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Chan, Chung Yu",
+        "short_name": "Chan CY",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Transmission Section, NINDS, National Institutes of Health, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Xie, Yuxiang",
+        "short_name": "Xie Y",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Dai, Yuanyi",
+        "short_name": "Dai Y",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Xiong, Gui-Jing",
+        "short_name": "Xiong GJ",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Sathler, Alexandre R",
+        "short_name": "Sathler AR",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Roney, Joseph C",
+        "short_name": "Roney JC",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Sunan",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Yan",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Proteomics Core Facility, NINDS, National Institutes of Health, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Ling-Gang",
+        "short_name": "Wu LG",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Transmission Section, NINDS, National Institutes of Health, Bethesda, MD 20892-3706, USA."
+        ]
+      },
+      {
+        "full_name": "Sheng, Zu-Hang",
+        "short_name": "Sheng ZH",
+        "identifiers": [],
+        "affiliations": [
+          "Synaptic Function Section, National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health, 35 Convent Drive, Building 35, Room 2B-215, Bethesda, MD 20892-3706, USA. Electronic address: shengz@ninds.nih.gov."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neuron"
+    ],
+    "journal_abbrev": [
+      "Neuron"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 23:27",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42976851"
+    ],
+    "review": [
+      "42976851"
+    ],
+    "pmc": [
+      "13733432"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0896-6273(26)00773-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42976851/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

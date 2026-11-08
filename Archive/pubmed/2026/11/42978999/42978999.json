@@ -1,0 +1,109 @@
+{
+  "identity": {
+    "pmid": "42978999",
+    "doi": "10.1007/s40203-026-00785-3",
+    "title": "Computational identification of EBNA1-binding candidates using machine learning-based virtual screening and molecular docking."
+  },
+  "content": {
+    "abstract": "Epstein-Barr virus (EBV) is associated with several malignancies and multiple sclerosis, and Epstein-Barr nuclear antigen 1 (EBNA1) plays an essential role in viral genome replication and episome maintenance. The experimentally characterized KVD-associated pocket within the EBNA1 DNA-binding domain provides a structurally defined site for computational ligand prioritization. This study aimed to identify and prioritize predicted EBNA1-binding candidates using an integrated machine-learning and structure-based virtual screening framework. A PubChem EBNA1 bioactivity dataset comprising 304,124 records was curated to obtain 4,584 unique compounds. Molecular representation combined 1,024-bit Morgan fingerprints with 11 RDKit molecular descriptors. Random Forest, SVM-RBF, Logistic Regression, and XGBoost models were evaluated using scaffold-based independent testing. The optimized XGBoost model was applied to a non-overlapping DrugBank library of 12,287 compounds. Compounds with predicted activity probabilities >/=0.5 were subjected to Lipinski-based filtering, followed by molecular docking against the KVD-associated binding pocket of EBNA1 (PDB ID: 6NPM). Docking validation was performed by independent KVD redocking at exhaustiveness values of 8, 16, and 32. Post-docking candidates were further evaluated using PAINS, aggregation, frequent-hitter/promiscuity, assay-interference, redox-associated structural-alert, and ADMET assessments. XGBoost demonstrated the highest test-set ROC-AUC (0.835), PR-AUC (0.408), and best Brier score (0.067), and was selected for virtual screening. Screening identified 116 compounds above the probability threshold, of which 40 satisfied Lipinski criteria and were docked. Thirty-two compounds achieved docking scores </= -7.0 kcal/mol. Sequential liability assessment and integrated prioritization identified 10 computationally prioritized EBNA1-binding candidates with favorable combined machine-learning, docking, and structural-filter profiles. The integrated computational framework enabled systematic prioritization of structurally diverse predicted EBNA1-binding candidates for further experimental investigation. The identified candidates represent computationally prioritized molecules for subsequent biochemical and functional evaluation of EBNA1 binding and activity and should not be interpreted as experimentally validated antiviral or disease-modifying agents. GRAPHICAL ABSTRACT: Virtual screening for drug discovery using trained ML model for EBNA1 protein, Molecular Docking, and ADMET analysis.",
+    "keywords": [
+      "Drug discovery",
+      "Epstein-Barr virus",
+      "Machine Learning.",
+      "Molecular docking",
+      "Virtual screening"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pauskar, Akshata P",
+        "Natarajan, Elamathi"
+      ],
+      "short_names": [
+        "Pauskar AP",
+        "Natarajan E"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-9154-6225",
+        "ORCID: 0000-0002-1944-9137"
+      ],
+      "affiliations": [
+        "Department of Bioinformatics, AI & Machine Learning Biotecnika Info Labs Pvt Ltd, 2nd Floor, Enzyme Diamond, 150/2, Agara Village, 1st Sector, HSR Layout, Bangalore, 560102 India.",
+        "Department of Bioinformatics, AI & Machine Learning Biotecnika Info Labs Pvt Ltd, 2nd Floor, Enzyme Diamond, 150/2, Agara Village, 1st Sector, HSR Layout, Bangalore, 560102 India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pauskar, Akshata P",
+        "short_name": "Pauskar AP",
+        "identifiers": [
+          "0009-0000-9154-6225"
+        ],
+        "affiliations": [
+          "Department of Bioinformatics, AI & Machine Learning Biotecnika Info Labs Pvt Ltd, 2nd Floor, Enzyme Diamond, 150/2, Agara Village, 1st Sector, HSR Layout, Bangalore, 560102 India."
+        ]
+      },
+      {
+        "full_name": "Natarajan, Elamathi",
+        "short_name": "Natarajan E",
+        "identifiers": [
+          "0000-0002-1944-9137"
+        ],
+        "affiliations": [
+          "Department of Bioinformatics, AI & Machine Learning Biotecnika Info Labs Pvt Ltd, 2nd Floor, Enzyme Diamond, 150/2, Agara Village, 1st Sector, HSR Layout, Bangalore, 560102 India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "In silico pharmacology"
+    ],
+    "journal_abbrev": [
+      "In Silico Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 05:31",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42978999"
+    ],
+    "review": [
+      "42978999"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s40203-026-00785-3",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PGR-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

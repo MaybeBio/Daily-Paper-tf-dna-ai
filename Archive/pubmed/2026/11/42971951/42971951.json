@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "42971951",
+    "doi": "10.1038/s41419-026-09171-5",
+    "title": "Identification of YL064 as a novel inhibitor of ATXN3 to suppress tumor growth and metastasis by promoting degradation of oncogenic substrates."
+  },
+  "content": {
+    "abstract": "ATXN3 has recently emerged as a pro-oncogenic deubiquitinating enzyme (DUB) involved in the progression of multiple cancers, including breast and prostate cancer. However, the therapeutic potential of targeting ATXN3 remains largely unexplored due to the lack of effective inhibitors. In this study, we performed an Ub-AMC-based high-throughput screening assay using full-length ATXN3 and identified YL064, a derivative of the natural product sinomenine isolated from Sinomenium acutum, as a novel ATXN3 inhibitor. Direct interaction between YL064 and ATXN3 was confirmed by thermal shift assay, cellular thermal shift assay, surface plasmon resonance, and molecular docking analysis. Functionally, YL064 suppressed cancer cell proliferation, induced cell-cycle arrest, and reduced metastatic potential. Mechanistically, YL064 inhibited ATXN3 deubiquitinating activity and promoted the ubiquitination and proteasomal degradation of ATXN3 substrates, including KLF4 and YAP. Furthermore, YL064 significantly inhibited tumor growth in an orthotopic breast cancer model in vivo. Collectively, our findings establish YL064 as a promising ATXN3 inhibitor that targets the ubiquitin-proteasome pathway to exert anti-tumor effects, highlighting its potential as a novel therapeutic agent for ATXN3-driven cancers.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Ataxin-3/antagonists & inhibitors/metabolism/chemistry",
+      "Animals",
+      "Cell Proliferation/drug effects",
+      "Female",
+      "*Repressor Proteins/antagonists & inhibitors/metabolism",
+      "Kruppel-Like Factor 4",
+      "Cell Line, Tumor",
+      "Ubiquitination/drug effects",
+      "Mice",
+      "Mice, Nude",
+      "Molecular Docking Simulation",
+      "Proteolysis/drug effects",
+      "Neoplasm Metastasis",
+      "*Antineoplastic Agents/pharmacology",
+      "*Breast Neoplasms/drug therapy/pathology/metabolism",
+      "Mice, Inbred BALB C"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Zhenge",
+        "Bai, Wenhui",
+        "Tan, Yayue",
+        "Li, Guanyi",
+        "Zhang, Youping",
+        "Wu, Wenxuan",
+        "Zhu, Chujiao",
+        "Liu, Xingyu",
+        "Zhang, Manyu",
+        "Lei, Hu",
+        "Xu, Hanzhang",
+        "Yang, Li",
+        "Liu, Ligen",
+        "Zhao, Yaxue",
+        "Yao, Zhujun",
+        "Zhu, Qi",
+        "Wang, Yingying",
+        "Wu, Yingli"
+      ],
+      "short_names": [
+        "Zhang Z",
+        "Bai W",
+        "Tan Y",
+        "Li G",
+        "Zhang Y",
+        "Wu W",
+        "Zhu C",
+        "Liu X",
+        "Zhang M",
+        "Lei H",
+        "Xu H",
+        "Yang L",
+        "Liu L",
+        "Zhao Y",
+        "Yao Z",
+        "Zhu Q",
+        "Wang Y",
+        "Wu Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-1171-7281",
+        "ORCID: 0009-0008-5434-1923",
+        "ORCID: 0000-0003-3288-5205",
+        "ORCID: 0000-0002-3971-783X",
+        "ORCID: 0000-0002-6716-4232",
+        "ORCID: 0000-0001-7909-8757"
+      ],
+      "affiliations": [
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "School of Pharmaceutical Sciences, Shanghai Jiao Tong University, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "School of Pharmaceutical Sciences, Shanghai Jiao Tong University, Shanghai, China.",
+        "State Key Laboratory of Coordination Chemistry and Jiangsu Key Laboratory of Advanced Organic Materials, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, China.",
+        "Department of Oral and Maxillofacial-Head and Neck Oncology, Ninth People's Hospital, College of Stomatology, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China. wangyingying1990@shsmu.edu.cn.",
+        "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China. wuyingli@shsmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Zhenge",
+        "short_name": "Zhang Z",
+        "identifiers": [
+          "0009-0008-1171-7281"
+        ],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Wenhui",
+        "short_name": "Bai W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Yayue",
+        "short_name": "Tan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Guanyi",
+        "short_name": "Li G",
+        "identifiers": [
+          "0009-0008-5434-1923"
+        ],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Youping",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Wenxuan",
+        "short_name": "Wu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Chujiao",
+        "short_name": "Zhu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xingyu",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Manyu",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Lei, Hu",
+        "short_name": "Lei H",
+        "identifiers": [
+          "0000-0003-3288-5205"
+        ],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Hanzhang",
+        "short_name": "Xu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Li",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ligen",
+        "short_name": "Liu L",
+        "identifiers": [
+          "0000-0002-3971-783X"
+        ],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yaxue",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Zhujun",
+        "short_name": "Yao Z",
+        "identifiers": [
+          "0000-0002-6716-4232"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Coordination Chemistry and Jiangsu Key Laboratory of Advanced Organic Materials, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Qi",
+        "short_name": "Zhu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oral and Maxillofacial-Head and Neck Oncology, Ninth People's Hospital, College of Stomatology, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yingying",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China. wangyingying1990@shsmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wu, Yingli",
+        "short_name": "Wu Y",
+        "identifiers": [
+          "0000-0001-7909-8757"
+        ],
+        "affiliations": [
+          "Department of Hematology, Tongren Hospital & Department of Pathophysiology, Key Laboratory of Cell Differentiation and Apoptosis of the National Ministry of Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China. wuyingli@shsmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell death & disease"
+    ],
+    "journal_abbrev": [
+      "Cell Death Dis"
+    ],
+    "pub_date": "2026 Aug 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 05:30",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42971951"
+    ],
+    "review": [
+      "42971951"
+    ],
+    "pmc": [
+      "13728240"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41419-026-09171-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42971951/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

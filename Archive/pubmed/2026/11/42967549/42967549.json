@@ -1,0 +1,134 @@
+{
+  "identity": {
+    "pmid": "42967549",
+    "doi": "10.1016/j.gene.2026.150477",
+    "title": "MESP1 is transcriptionally activated by TFAP2A to promote malignant phenotypes and glycolysis in non-small cell lung cancer cells."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Lung cancer is a highly prevalent malignant tumor worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases and carrying a poor prognosis for patients. Mesoderm posterior basic helix-loop-helix (bHLH) transcription factor 1 (MESP1) encodes a bHLH transcription factor, and its mechanism in NSCLC remains incompletely understood. METHODS: Differentially expressed genes (DEGs) were identified through an integrated analysis of gene expression omnibus (GEO) datasets. Core genes were selected using least absolute shrinkage and selection operator (LASSO) regression and random forest (RF) machine learning algorithms, and their association with lung cancer risk was evaluated through logistic regression analyses. Western blot was used to detect protein expression. Cellular functions were assessed via colony formation, sphere formation, Transwell migration and invasion, extracellular acidification rate (ECAR), and lactate production assays. Upstream transcriptional regulatory mechanisms were validated using chromatin immunoprecipitation (ChIP) and dual-luciferase reporter assays. RESULTS: A total of 106 common DEGs were identified, with SERTM1, PYCR1, and MESP1 selected through machine learning. Logistic regression confirmed MESP1 as an independent risk factor for lung cancer, exhibiting significantly elevated expression across multiple datasets. In vitro experiments demonstrated that MESP1 knockdown markedly suppressed colony formation, stemness, migration, invasion, ECAR, and lactate production, as well as glucose transporter 1 (GLUT1), hexokinase 2 (HK2), and pyruvate kinase M2 (PKM2) protein expression in NSCLC cells. Mechanistic studies revealed that transcription factor AP-2alpha (TFAP2A) directly bound to the MESP1 promoter to activate its transcription, and MESP1 mediated the promotion effects of TFAP2A in vitro. CONCLUSION: MESP1 is highly expressed in NSCLC and transcriptionally regulated by TFAP2A. These findings unveil a novel TFAP2A/MESP1 regulatory axis in NSCLC that promotes malignant phenotypes and glycolysis. This axis may provide a potential molecular basis for the development of targeted strategies, although further in vivo validation is warranted.",
+    "keywords": [
+      "Glycolysis",
+      "Lung cancer",
+      "Mesoderm posterior basic helix-loop-helix (bHLH) transcription factor 1",
+      "Transcription factor AP-2alpha"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lv, Zhiping",
+        "Liu, Yang",
+        "Qiu, Rui",
+        "Zhang, Sheng",
+        "He, Wei"
+      ],
+      "short_names": [
+        "Lv Z",
+        "Liu Y",
+        "Qiu R",
+        "Zhang S",
+        "He W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China.",
+        "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China.",
+        "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China.",
+        "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China.",
+        "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China. Electronic address: hewei_8688@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lv, Zhiping",
+        "short_name": "Lv Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Rui",
+        "short_name": "Qiu R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Sheng",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China."
+        ]
+      },
+      {
+        "full_name": "He, Wei",
+        "short_name": "He W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Thoracic Surgery, General Hospital of Ningxia Medical University, Yinchuan, Ningxia, China. Electronic address: hewei_8688@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Gene"
+    ],
+    "journal_abbrev": [
+      "Gene"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/01 23:27",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42967549"
+    ],
+    "review": [
+      "42967549"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378-1119(26)00487-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3588",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

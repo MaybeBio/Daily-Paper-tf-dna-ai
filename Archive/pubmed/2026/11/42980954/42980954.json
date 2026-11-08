@@ -1,0 +1,203 @@
+{
+  "identity": {
+    "pmid": "42980954",
+    "doi": "10.1007/s11064-026-04948-8",
+    "title": "Rotigotine Attenuates Mechanical Hypersensitivity in 6-OHDA-Lesioned Rats: Associations with D2/D3 Receptors and Spinal Glial NF-kappaB/p65 Signaling."
+  },
+  "content": {
+    "abstract": "Pain is a debilitating non-motor symptom of Parkinson's disease (PD). This study investigated whether rotigotine attenuated pain hypersensitivity (allodynia and hyperalgesia) in hemiparkinsonian rats and explored D1/D2/D3 receptor involvement, NF-kappaB/p-p65 signaling modulation in glial cells, and spinal TNF-alpha and IL-1beta expression. The PD model was induced by unilateral 6-OHDA injection into the substantia nigra pars compacta (SNpc). Pain sensitivity was assessed using von Frey filaments. Immunohistochemistry and immunofluorescence were used to analyze tyrosine hydroxylase levels in the SNpc and striatum, GFAP, Iba-1, and NF-kappaB/p-p65 expression in the dorsal horn of the L5 spinal cord, and ELISA was used to determine TNF-alpha and IL-1beta levels in the lumbar spinal cord. Both acute (8 h) and subacute (5-day) intranasal rotigotine (0.1, 0.5, 0.75, and 1 mg/kg) showed antiallodynic and antihyperalgesic effects. These effects were prevented by selective D2 (L-741,626; 14.6 nmol) and D3 (nafadotride; 3 nmol) receptor antagonists, but not by the D1 receptor antagonist SCH-23,390 (30 nmol). Subacute rotigotine was associated with reduced 6-OHDA-induced glial activation, decreased NF-kappaB/p-p65 expression, and attenuated spinal TNF-alpha and IL-1beta levels. Molecular docking suggests a potential interaction between rotigotine and the p65 subunit of NF-kappaB, with favorable binding energy. In conclusion, rotigotine moderated PD-related pain, potentially through D2/D3 receptor activation and modulation of neuroinflammation. This suggested antinociceptive effect may be linked to suppressing glial activation and inhibiting spinal astrocytes' NF-kappaB/p-p65 signaling, potentially reducing subsequent proinflammatory cytokine release. These findings suggest that rotigotine may represent a promising therapeutic option for managing sensory hypersensitivity in PD.",
+    "keywords": [
+      "6-OHDA-Lesioned Rats",
+      "Allodynia",
+      "Astrocytes",
+      "Dopamine Receptor",
+      "Hyperalgesia",
+      "Microglia",
+      "NF-kappaB Signaling",
+      "Parkinson's Disease Pain",
+      "Rotigotine",
+      "Spinal Cord"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Tetrahydronaphthalenes/therapeutic use/pharmacology",
+      "*Thiophenes/therapeutic use/pharmacology",
+      "Oxidopamine/toxicity",
+      "Male",
+      "*Hyperalgesia/drug therapy/metabolism/chemically induced",
+      "*Spinal Cord/drug effects/metabolism",
+      "Signal Transduction/drug effects",
+      "Rats",
+      "Rats, Sprague-Dawley",
+      "*Transcription Factor RelA/metabolism",
+      "*Receptors, Dopamine D2/metabolism",
+      "*Receptors, Dopamine D3/metabolism",
+      "*Neuroglia/metabolism/drug effects",
+      "*Dopamine Agonists/therapeutic use/pharmacology",
+      "NF-kappa B/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Santamaria-Anzures, Jazmin",
+        "Martinez-Lorenzana, Guadalupe",
+        "Gonzalez-Morales, Estefania",
+        "Palmeros-Barreda, Dafne",
+        "De-la-Cruz-Martinez, Ledy",
+        "Cortes-Benitez, Francisco",
+        "Perez-Ramos, Julia",
+        "Condes-Lara, Miguel",
+        "Godinez-Chaparro, Beatriz"
+      ],
+      "short_names": [
+        "Santamaria-Anzures J",
+        "Martinez-Lorenzana G",
+        "Gonzalez-Morales E",
+        "Palmeros-Barreda D",
+        "De-la-Cruz-Martinez L",
+        "Cortes-Benitez F",
+        "Perez-Ramos J",
+        "Condes-Lara M",
+        "Godinez-Chaparro B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Departamento de Sistemas Biologicos, Division de Ciencias Biologicas y de la Salud, Universidad Autonoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de Mexico, 04960, Mexico.",
+        "Departamento de Neurobiologia del Desarrollo y Neurofisiologia, Instituto de Neurobiologia, Universidad Nacional Autonoma de Mexico, Campus UNAM Juriquilla, Queretaro, 76230, Mexico.",
+        "Departamento de Sistemas Biologicos, Division de Ciencias Biologicas y de la Salud, Universidad Autonoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de Mexico, 04960, Mexico.",
+        "Departamento de Sistemas Biologicos, Division de Ciencias Biologicas y de la Salud, Universidad Autonoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de Mexico, 04960, Mexico.",
+        "Departamento de Sistemas Biologicos, Division de Ciencias Biologicas y de la Salud, Universidad Autonoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de Mexico, 04960, Mexico.",
+        "Departamento de Sistemas Biologicos, Division de Ciencias Biologicas y de la Salud, Universidad Autonoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de Mexico, 04960, Mexico.",
+        "Departamento de Sistemas Biologicos, Division de Ciencias Biologicas y de la Salud, Universidad Autonoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de Mexico, 04960, Mexico.",
+        "Departamento de Neurobiologia del Desarrollo y Neurofisiologia, Instituto de Neurobiologia, Universidad Nacional Autonoma de Mexico, Campus UNAM Juriquilla, Queretaro, 76230, Mexico.",
+        "Departamento de Sistemas Biologicos, Division de Ciencias Biologicas y de la Salud, Universidad Autonoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de Mexico, 04960, Mexico. bgodinez@correo.xoc.uam.mx."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Santamaria-Anzures, Jazmin",
+        "short_name": "Santamaria-Anzures J",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Sistemas Biológicos, División de Ciencias Biológicas y de la Salud, Universidad Autónoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de México, 04960, México."
+        ]
+      },
+      {
+        "full_name": "Martínez-Lorenzana, Guadalupe",
+        "short_name": "Martínez-Lorenzana G",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Neurobiología del Desarrollo y Neurofisiología, Instituto de Neurobiología, Universidad Nacional Autónoma de México, Campus UNAM Juriquilla, Querétaro, 76230, México."
+        ]
+      },
+      {
+        "full_name": "González-Morales, Estefanía",
+        "short_name": "González-Morales E",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Sistemas Biológicos, División de Ciencias Biológicas y de la Salud, Universidad Autónoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de México, 04960, México."
+        ]
+      },
+      {
+        "full_name": "Palmeros-Barreda, Dafne",
+        "short_name": "Palmeros-Barreda D",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Sistemas Biológicos, División de Ciencias Biológicas y de la Salud, Universidad Autónoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de México, 04960, México."
+        ]
+      },
+      {
+        "full_name": "De-la-Cruz-Martínez, Ledy",
+        "short_name": "De-la-Cruz-Martínez L",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Sistemas Biológicos, División de Ciencias Biológicas y de la Salud, Universidad Autónoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de México, 04960, México."
+        ]
+      },
+      {
+        "full_name": "Cortés-Benítez, Francisco",
+        "short_name": "Cortés-Benítez F",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Sistemas Biológicos, División de Ciencias Biológicas y de la Salud, Universidad Autónoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de México, 04960, México."
+        ]
+      },
+      {
+        "full_name": "Pérez-Ramos, Julia",
+        "short_name": "Pérez-Ramos J",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Sistemas Biológicos, División de Ciencias Biológicas y de la Salud, Universidad Autónoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de México, 04960, México."
+        ]
+      },
+      {
+        "full_name": "Condés-Lara, Miguel",
+        "short_name": "Condés-Lara M",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Neurobiología del Desarrollo y Neurofisiología, Instituto de Neurobiología, Universidad Nacional Autónoma de México, Campus UNAM Juriquilla, Querétaro, 76230, México."
+        ]
+      },
+      {
+        "full_name": "Godínez-Chaparro, Beatriz",
+        "short_name": "Godínez-Chaparro B",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Sistemas Biológicos, División de Ciencias Biológicas y de la Salud, Universidad Autónoma Metropolitana-Xochimilco, Calzada del Hueso 1100, Colonia Villa Quietud, Ciudad de México, 04960, México. bgodinez@correo.xoc.uam.mx."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neurochemical research"
+    ],
+    "journal_abbrev": [
+      "Neurochem Res"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 17:30",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42980954"
+    ],
+    "review": [
+      "42980954"
+    ],
+    "pmc": [
+      "13736463"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11064-026-04948-8",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1739",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

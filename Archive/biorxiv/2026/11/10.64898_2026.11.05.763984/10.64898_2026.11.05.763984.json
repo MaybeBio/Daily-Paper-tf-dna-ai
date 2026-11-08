@@ -1,0 +1,287 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.05.763984",
+  "title": "Joint protein-DNA language modeling enables prediction and engineering of DNA recognition specificity",
+  "doi": "10.64898/2026.11.05.763984",
+  "abstract": "Protein-DNA recognition specificity underlies transcriptional regulation, DNA replication, chromatin remodeling and genome editing. Protein-DNA recognition depends on both interacting sequences, yet language models that learn this cross-molecular dependence explicitly during pretraining remain limited. Here, we developed the Protein-DNA Language Models (PDLMs), interaction-aware language models that jointly represent protein and DNA sequences. PDLMs were built by continued pretraining from ESM2 with masked language modeling on paired protein-DNA sequences. A shared encoder places amino acids and nucleotides in the same molecular context, enabling conditional sequence scoring and transferable pair representations. We further introduced a domain-aware masking strategy that increased masking probability within DNA-binding domains to strengthen learning of interaction-relevant regions. Across downstream tasks, PDLMs improved protein-DNA pair classification relative to independent-encoder baselines and supported prediction of mutation-associated binding changes. Zero-shot scoring recovered known changes in DNA-recognition specificity and prioritized variants with higher editing activity. Learned representations also supported cross-study prediction of base editor activity. After fine-tuning on transcription factor binding data, PDLMs predicted DNA motifs directly from protein sequences. Together, PDLMs provide a framework for interaction-aware biomolecular language modeling, with potential applications in protein engineering and genome editing.",
+  "authors": [
+    "Yangfang Xiong",
+    "Jiwu Ren",
+    "Xiaoxu Wei",
+    "Xiaoyu Li",
+    "Jiayi Li",
+    "Wensheng Wei"
+  ],
+  "published_date": "2026-11-06",
+  "updated_date": "2026-11-06T23:10:21Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.763984",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.763984.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2026-11-06T23:28:01Z",
+        "timestamp": 1794007681185,
+        "version": "4.8.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                6
+              ]
+            ],
+            "date-time": "2026-11-06T00:00:00Z",
+            "timestamp": 1793923200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "32530017"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "32530017"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Protein-DNA recognition specificity underlies transcriptional regulation, DNA replication, chromatin remodeling and genome editing. Protein-DNA recognition depends on both interacting sequences, yet language models that learn this cross-molecular dependence explicitly during pretraining remain limited. Here, we developed the Protein-DNA Language Models (PDLMs), interaction-aware language models that jointly represent protein and DNA sequences. PDLMs were built by continued pretraining from ESM2 with masked language modeling on paired protein-DNA sequences. A shared encoder places amino acids and nucleotides in the same molecular context, enabling conditional sequence scoring and transferable pair representations. We further introduced a domain-aware masking strategy that increased masking probability within DNA-binding domains to strengthen learning of interaction-relevant regions. Across downstream tasks, PDLMs improved protein-DNA pair classification relative to independent-encoder baselines and supported prediction of mutation-associated binding changes. Zero-shot scoring recovered known changes in DNA-recognition specificity and prioritized variants with higher editing activity. Learned representations also supported cross-study prediction of base editor activity. After fine-tuning on transcription factor binding data, PDLMs predicted DNA motifs directly from protein sequences. Together, PDLMs provide a framework for interaction-aware biomolecular language modeling, with potential applications in protein engineering and genome editing.</jats:p>",
+      "DOI": "10.64898/2026.11.05.763984",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2026-11-06T23:10:21Z",
+        "timestamp": 1794006621000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Joint protein-DNA language modeling enables prediction and engineering of DNA recognition specificity"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0002-5724-5159",
+          "authenticated-orcid": false,
+          "given": "Yangfang",
+          "family": "Xiong",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Peking university;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiwu",
+          "family": "Ren",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking university;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaoxu",
+          "family": "Wei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking university;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaoyu",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking university;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiayi",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking university;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8053-2423",
+          "authenticated-orcid": false,
+          "given": "Wensheng",
+          "family": "Wei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.05.763984",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2026-11-06T23:10:21Z",
+        "timestamp": 1794006621000
+      },
+      "score": 99.11703,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.05.763984"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.11.05.763984",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

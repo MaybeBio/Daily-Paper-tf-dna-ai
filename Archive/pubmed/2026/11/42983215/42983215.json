@@ -1,0 +1,135 @@
+{
+  "identity": {
+    "pmid": "42983215",
+    "doi": "10.2174/0113816128525942261006120739",
+    "title": "Integrated Computational Pharmacology and Experimental Validation Identify the PLK2-TFEB Axis as a Therapeutic Mechanism of Kunkui Baoshen Decoction in Diabetic Kidney Disease."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Metabolic stress and lipid homeostasis imbalance in proximal tubular cells (PTC) are increasingly recognized as critical contributors to diabetic kidney disease (DKD) progression, yet the underlying regulatory mechanisms remain unclear. Kunkui Baoshen Decoction (KKBS) has shown clinical benefits in DKD, but its molecular basis remains unclear. Therefore, this study aimed to investigate the therapeutic targets and regulatory mechanisms of KKBS in DKD-associated proximal tubular injury. METHODS: An integrated multi-omics strategy combining network pharmacology, transcriptomic analysis, machine learning, and single-cell RNA sequencing (scRNA-seq) was applied to identify candidate therapeutic targets of KKBS in DKD. Then, the protective effects of KKBS were further evaluated in db/db mice and high-glucose and high-lipid (HGHL)-induced HK-2 cells by assessing renal function, lipid metabolism, autophagic flux, transcription factor EB (TFEB) nuclear translocation, and fibrosis-related markers. RESULTS: KKBS effectively reduced urinary protein excretion, corrected aberrant lipid metabolism, and mitigated renal fibrotic lesions in db/db mice. Integrated multi-omics profiling highlighted polo-like kinase 2 (PLK2) as a potential therapeutic target, and scRNA-seq analysis demonstrated its progressive upregulation in PTC during DKD progression. Mechanistically, KKBS treatment reduced PLK2 expression, restored TFEB nuclear translocation, improved autophagic flux, and decreased lipid droplet accumulation. Similar effects were reproduced by PLK2 inhibition in HGHL-induced HK-2 cells. DISCUSSION: These findings support the PLK2-TFEB axis as a potential therapeutic target in DKD. CONCLUSION: KKBS may alleviate lipid accumulation and fibrotic alterations in DKD by suppressing PLK2 expression, facilitating TFEB nuclear translocation, and restoring autophagy-lysosome-related function.",
+    "keywords": [
+      "Diabetic kidney disease",
+      "Kunkui Baoshen decoction",
+      "PLK2",
+      "TFEB nuclear translocation",
+      "lipid accumulation",
+      "renal fibrosis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ni, Jing",
+        "Zhang, Li",
+        "Zhu, Haohan",
+        "Yang, Yanjun",
+        "Yu, Jiangyi"
+      ],
+      "short_names": [
+        "Ni J",
+        "Zhang L",
+        "Zhu H",
+        "Yang Y",
+        "Yu J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7159-5396"
+      ],
+      "affiliations": [
+        "Department of Endocrinology, Jiangsu Province Hospital of Chinese Medicine, Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing, China.",
+        "Department of Endocrinology, Nanjing Jiangning Hospital of Chinese Medicine, Affiliated Jiangning Hospital of Chinese Medicine, China Pharmaceutical University, Nanjing, China.",
+        "Department of Endocrinology, Jiangsu Province Hospital of Chinese Medicine, Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing, China.",
+        "Department of Endocrinology, Nanjing Jiangning Hospital of Chinese Medicine, Affiliated Jiangning Hospital of Chinese Medicine, China Pharmaceutical University, Nanjing, China.",
+        "School of Pharmacy, Affiliated Jiangning Hospital of Chinese Medicine, School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing, China.",
+        "Department of Endocrinology, Jiangsu Province Hospital of Chinese Medicine, Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ni, Jing",
+        "short_name": "Ni J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Jiangsu Province Hospital of Chinese Medicine, Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing, China.",
+          "Department of Endocrinology, Nanjing Jiangning Hospital of Chinese Medicine, Affiliated Jiangning Hospital of Chinese Medicine, China Pharmaceutical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Li",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Jiangsu Province Hospital of Chinese Medicine, Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Haohan",
+        "short_name": "Zhu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrinology, Nanjing Jiangning Hospital of Chinese Medicine, Affiliated Jiangning Hospital of Chinese Medicine, China Pharmaceutical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yanjun",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Affiliated Jiangning Hospital of Chinese Medicine, School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jiangyi",
+        "short_name": "Yu J",
+        "identifiers": [
+          "0000-0001-7159-5396"
+        ],
+        "affiliations": [
+          "Department of Endocrinology, Jiangsu Province Hospital of Chinese Medicine, Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current pharmaceutical design"
+    ],
+    "journal_abbrev": [
+      "Curr Pharm Des"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 10:52",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42983215"
+    ],
+    "review": [
+      "42983215"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4044",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

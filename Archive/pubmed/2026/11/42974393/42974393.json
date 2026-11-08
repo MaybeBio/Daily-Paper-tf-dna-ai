@@ -1,0 +1,109 @@
+{
+  "identity": {
+    "pmid": "42974393",
+    "doi": "10.3389/fgene.2026.1982712",
+    "title": "AI and computational methods for reconstructing cell-state-specific gene regulatory networks from single-cell transcriptome and chromatin accessibility data in cancer: methods, applications, and perspectives."
+  },
+  "content": {
+    "abstract": "Tumor heterogeneity is shaped by genetic, epigenetic, microenvironmental, and stochastic factors, among which cell-state-specific regulatory programs are a major determinant. Gene regulatory networks provide a systems-level model linking transcription factors, cis-regulatory elements, and target genes. Paired single-cell RNA sequencing (scRNA-seq) and single-cell assay for transposase-accessible chromatin using sequencing (scATAC-seq) measure chromatin accessibility and gene expression in the same cell, offering a direct view of regulatory elements and transcriptional output; matched-but-unpaired, imputed, and single-modality designs can extend coverage but introduce additional assumptions and artifacts. This mini-review focuses on AI and computational methods for reconstructing cell-state-specific GRNs from single-cell transcriptome and chromatin accessibility data in cancer. We define inclusion criteria, distinguish same-cell paired, matched-unpaired, imputed, and single-modality designs, and organize methods by inference objective and input requirement. We cover motif/co-accessibility inference, deep integration and graph learning, dynamic and cell-state-specific modeling, and virtual perturbation. We then discuss applications in epithelial-mesenchymal transition, treatment resistance, lineage plasticity, and tumor subtyping, emphasizing an evidence hierarchy from statistical association to directional prediction, in silico perturbation, and experimentally supported causal regulation. Finally, we examine benchmarking, limitations, and translational prospects. These approaches may help convert GRNs from descriptive maps into testable models of tumor regulation, but clinical utility still requires prospective validation.",
+    "keywords": [
+      "artificial intelligence",
+      "benchmarking",
+      "causal validation",
+      "chromatin accessibility",
+      "gene regulatory networks",
+      "single-cell multi-omics",
+      "tumor cell states",
+      "tumor heterogeneity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Jinying",
+        "Chen, Fenjuan"
+      ],
+      "short_names": [
+        "Wang J",
+        "Chen F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Internal Medicine, Shaoxing Second Hospital Medical Community General Hospital, Shaoxing, Zhejiang, China.",
+        "Department of Internal Medicine, Shaoxing Second Hospital Medical Community General Hospital, Shaoxing, Zhejiang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Jinying",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Shaoxing Second Hospital Medical Community General Hospital, Shaoxing, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Fenjuan",
+        "short_name": "Chen F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Shaoxing Second Hospital Medical Community General Hospital, Shaoxing, Zhejiang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in genetics"
+    ],
+    "journal_abbrev": [
+      "Front Genet"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 12:05",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42974393"
+    ],
+    "review": [
+      "42974393"
+    ],
+    "pmc": [
+      "13727319"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42974393/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fgene.2026.1982712",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

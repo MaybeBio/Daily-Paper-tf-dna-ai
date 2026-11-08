@@ -1,0 +1,299 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.04.764412",
+  "title": "PARP1-mediated PARylation of SPRTN restrains its DNA-protein crosslink repair activity",
+  "doi": "10.64898/2026.11.04.764412",
+  "abstract": "SPRTN is a DNA-dependent metalloprotease that resolves DNA-protein crosslinks, but how its activity is restrained on chromatin remains unclear. Here we show that SPRTN is PARylated in a PARP1- and HPF1-dependent manner. Mass spectrometry datasets identify seven modified residues in the C-terminal region, and substituting them (SPRTN-PARless) strongly reduces PARylation. The Nudix homology domain is required for SPRTN to interact with PARP1 and for efficient PARylation. SPRTN-PARless accumulates faster and to higher levels at laser-induced DNA damage than wild-type SPRTN. PARylation reduces single-stranded DNA binding of both cell-derived and purified SPRTN, and PARG treatment reverses this effect for cell-derived protein. SPRTN-PARless shows increased autocleavage and accelerates clearance of camptotheci-induced TOP1 cleavage complexes. These findings suggest that PARylation acts as negative feedback on SPRTN after its PAR-dependent recruitment, restraining its DNA engagement and proteolytic activity.",
+  "authors": [
+    "Ayesha Rahman",
+    "Veronika Quevedo",
+    "Martin Garcia",
+    "Andrew Rhiner",
+    "Quincee Simonson",
+    "Estella Perez",
+    "Jaime Lopez-Mosqueda"
+  ],
+  "published_date": "2026-11-06",
+  "updated_date": "2026-11-06T11:40:14Z",
+  "journal": "bioRxiv",
+  "category": "Molecular Biology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764412",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764412.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Molecular Biology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Molecular Biology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2026-11-06T12:25:49Z",
+        "timestamp": 1793967949977,
+        "version": "4.8.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ]
+      },
+      "group-title": "Molecular Biology",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                6
+              ]
+            ],
+            "date-time": "2026-11-06T00:00:00Z",
+            "timestamp": 1793923200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "MCB-2146384"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "MCB-2146384"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/021nxhr62",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ]
+      },
+      "abstract": "<jats:p>SPRTN is a DNA-dependent metalloprotease that resolves DNA-protein crosslinks, but how its activity is restrained on chromatin remains unclear. Here we show that SPRTN is PARylated in a PARP1- and HPF1-dependent manner. Mass spectrometry datasets identify seven modified residues in the C-terminal region, and substituting them (SPRTN-PARless) strongly reduces PARylation. The Nudix homology domain is required for SPRTN to interact with PARP1 and for efficient PARylation. SPRTN-PARless accumulates faster and to higher levels at laser-induced DNA damage than wild-type SPRTN. PARylation reduces single-stranded DNA binding of both cell-derived and purified SPRTN, and PARG treatment reverses this effect for cell-derived protein. SPRTN-PARless shows increased autocleavage and accelerates clearance of camptotheci-induced TOP1 cleavage complexes. These findings suggest that PARylation acts as negative feedback on SPRTN after its PAR-dependent recruitment, restraining its DNA engagement and proteolytic activity.</jats:p>",
+      "DOI": "10.64898/2026.11.04.764412",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2026-11-06T11:40:14Z",
+        "timestamp": 1793965214000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "PARP1-mediated PARylation of SPRTN restrains its DNA-protein crosslink repair activity"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Ayesha",
+          "family": "Rahman",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "The University of Texas as Austin;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Veronika",
+          "family": "Quevedo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "The University of Texas at Austin;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Martin",
+          "family": "Garcia",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "The University of Texas at Austin;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrew",
+          "family": "Rhiner",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "The University of Texas at Austin;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Quincee",
+          "family": "Simonson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "South Dakota State University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Estella",
+          "family": "Perez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "The University of Texas at Austin;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jaime",
+          "family": "Lopez-Mosqueda",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "The University of Texas at Austin;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.04.764412",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2026-11-06T11:40:14Z",
+        "timestamp": 1793965214000
+      },
+      "score": 76.94536,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.04.764412"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.11.04.764412",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            6
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

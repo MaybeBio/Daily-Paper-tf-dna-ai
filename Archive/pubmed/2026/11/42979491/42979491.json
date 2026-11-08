@@ -1,0 +1,192 @@
+{
+  "identity": {
+    "pmid": "42979491",
+    "doi": "10.2147/JIR.S638648",
+    "title": "Integrated Transcriptomic Analysis and Experimental Validation Identify ATF3 as a Mesangial Cell-Associated Candidate Regulator in IgA Nephropathy."
+  },
+  "content": {
+    "abstract": "BACKGROUND: IgA nephropathy (IgAN) is an immune-mediated glomerular disease marked by mesangial proliferation, inflammation, extracellular matrix accumulation, and progressive renal injury. This study aimed to identify IgAN-associated genes and evaluate the relevance of activating transcription factor 3 (ATF3) to mesangial cell activation. METHODS: Public bulk transcriptomic datasets were integrated for differential expression, co-expression network, machine learning, and immune infiltration analyses. Single-cell RNA sequencing, mesangial cell-specific high-dimensional weighted gene co-expression network analysis, and single-cell regulatory network inference were used to assess cell type-specific expression and regulatory activity. The findings were further evaluated using Nephroseq and an aggregated IgA1-stimulated human mesangial cell model with ATF3 knockdown. RESULTS: Integrated analysis identified 47 shared differentially expressed genes and a 12-gene candidate set with reduced expression in IgAN. ATF3 was prioritized as a mesangial cell-associated candidate and showed reduced expression and regulon activity in the analyzed single-cell dataset. Nephroseq analysis showed lower glomerular ATF3 expression in IgAN-related kidney disease samples; ATF3 expression was positively associated with estimated glomerular filtration rate and negatively associated with serum creatinine and proteinuria. Aggregated IgA1 reduced ATF3 expression in human mesangial cells, whereas ATF3 knockdown further increased inflammatory cytokine expression and proliferative activity. CONCLUSION: Reduced ATF3 expression is associated with IgAN-related mesangial cell activation. ATF3 may represent a mesangial cell-associated candidate regulator that warrants further mechanistic and clinical validation.",
+    "keywords": [
+      "ATF3",
+      "IgA nephropathy",
+      "bulk transcriptomics",
+      "mesangial cells",
+      "single-cell RNA sequencing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liang, Mingzhu",
+        "Gan, Xinyu",
+        "Shadekejiang, Halinuer",
+        "Hong, Huan",
+        "Li, Xu",
+        "Xia, Ting",
+        "Wang, Jie",
+        "Zhang, Xueqin",
+        "Lu, Chen"
+      ],
+      "short_names": [
+        "Liang M",
+        "Gan X",
+        "Shadekejiang H",
+        "Hong H",
+        "Li X",
+        "Xia T",
+        "Wang J",
+        "Zhang X",
+        "Lu C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9813-4087"
+      ],
+      "affiliations": [
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China.",
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China.",
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China.",
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China.",
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China.",
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China.",
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China.",
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China.",
+        "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liang, Mingzhu",
+        "short_name": "Liang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Gan, Xinyu",
+        "short_name": "Gan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Shadekejiang, Halinuer",
+        "short_name": "Shadekejiang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Hong, Huan",
+        "short_name": "Hong H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Xu",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xia, Ting",
+        "short_name": "Xia T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jie",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xueqin",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lu, Chen",
+        "short_name": "Lu C",
+        "identifiers": [
+          "0000-0002-9813-4087"
+        ],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, 830054, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of inflammation research"
+    ],
+    "journal_abbrev": [
+      "J Inflamm Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 11:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42979491"
+    ],
+    "review": [
+      "42979491"
+    ],
+    "pmc": [
+      "13729863"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42979491/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1178",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.2147/JIR.S638648",
+        "provider": "Dove Medical Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

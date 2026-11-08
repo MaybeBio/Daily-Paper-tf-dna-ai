@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42967484",
+    "doi": "10.1002/cbdv.71890",
+    "title": "A Novel Phenolic From the Heartwood of Cotinus coggygria Scop. With Potential Neuroprotective Effects: In Silico and In Vitro Studies."
+  },
+  "content": {
+    "abstract": "Seven known phenolic compounds (2-8) along with one new phenolic compound (1) were isolated from the heartwood of Cotinus coggygria Scop. (Anacardiaceae). Among them, compounds 3-5 are reported from the genus Cotinus for the first time, while compounds 2 and 6-8 are reported from the family Anacardiaceae for the first time. The structure of the new compound was elucidated by detailed spectroscopic analysis, including HR-ESI-MS, 1D, and 2D NMR experiments. In vitro assays showed that compound 1 attenuated glutamate-induced oxidative injury in HT22 cells (EC(50) = 3.852 microM, MTS assay) and inhibited TNF-alpha-induced NF‑kappaB activation in 293T luciferase reporter cells. Molecular docking suggested that compound 1 may bind to IKKbeta, consistent with the observed NF‑kappaB inhibition. Preliminary structure-activity relationship trend analysis indicated that compounds possessing a 6''-O-rhamnose-containing disaccharide moiety (6-8) showed stronger apparent protective activity than the 6''-O -galloyl derivatives (1-5) under the present assay conditions. These preliminary findings suggest that cotinusin A (1) may warrant further investigation for its potential against glutamate-induced oxidative neuronal injury. However, whether the observed NF‑kappaB inhibitory activity translates into anti-neuroinflammatory effects in relevant models remains to be determined, and further mechanistic and in vivo studies are needed to establish its therapeutic potential.",
+    "keywords": [
+      "Anacardiaceae",
+      "Cotinus coggygria Scop",
+      "Cotinusin A",
+      "heartwood",
+      "neuroprotective potential"
+    ],
+    "mesh_terms": [
+      "*Neuroprotective Agents/pharmacology/chemistry/isolation & purification",
+      "*Phenols/chemistry/pharmacology/isolation & purification",
+      "Animals",
+      "NF-kappa B/metabolism/antagonists & inhibitors",
+      "Molecular Docking Simulation",
+      "Structure-Activity Relationship",
+      "Humans",
+      "*Anacardiaceae/chemistry",
+      "Glutamic Acid/pharmacology",
+      "Mice",
+      "*Wood/chemistry",
+      "Tumor Necrosis Factor-alpha/antagonists & inhibitors/metabolism",
+      "Molecular Structure",
+      "Cell Line",
+      "Oxidative Stress/drug effects",
+      "Dose-Response Relationship, Drug",
+      "HEK293 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Meng, Caiwen",
+        "He, Yi",
+        "Wang, Zijia",
+        "Bai, Hongyun",
+        "Wang, Ruyi",
+        "Wang, Xiaoliang",
+        "Zhao, Chunlai",
+        "Li, Meichen"
+      ],
+      "short_names": [
+        "Meng C",
+        "He Y",
+        "Wang Z",
+        "Bai H",
+        "Wang R",
+        "Wang X",
+        "Zhao C",
+        "Li M"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-8653-1015",
+        "ORCID: 0000-0003-1717-1247"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Meng, Caiwen",
+        "short_name": "Meng C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+        ]
+      },
+      {
+        "full_name": "He, Yi",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zijia",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Bai, Hongyun",
+        "short_name": "Bai H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruyi",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaoliang",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Chunlai",
+        "short_name": "Zhao C",
+        "identifiers": [
+          "0009-0002-8653-1015"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Meichen",
+        "short_name": "Li M",
+        "identifiers": [
+          "0000-0003-1717-1247"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemistry & biodiversity"
+    ],
+    "journal_abbrev": [
+      "Chem Biodivers"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/01 23:27",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42967484"
+    ],
+    "review": [
+      "42967484"
+    ],
+    "pmc": [
+      "13724183"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42967484/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/cbdv.71890",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

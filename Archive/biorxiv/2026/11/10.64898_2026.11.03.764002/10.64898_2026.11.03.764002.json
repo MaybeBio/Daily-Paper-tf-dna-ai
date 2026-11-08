@@ -1,0 +1,335 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.03.764002",
+  "title": "Direct NMR evidence for transient binding of the vesicular SNARE protein synaptobrevin-2/VAMP2 to the α-synuclein C-terminus",
+  "doi": "10.64898/2026.11.03.764002",
+  "abstract": "The protein α-synuclein (α-syn) plays a central role in several neurodegenerative diseases, including Parkinson's disease; however, its physiological function remains enigmatic. We provide direct evidence by nuclear magnetic resonance (NMR) spectroscopy, microscale thermophoresis (MST), and biolayer interferometry (BLI) measurements that the α-synuclein C-terminus binds to the vesicular SNARE (soluble N-ethylmaleimide-sensitive factor attachment protein receptor) protein synaptobrevin-2 (syb-2), also known as VAMP2 (vesicle-associated membrane protein). The observed dissociation constant (Kd) in the 10 - 50 micromolar range falls within the estimated concentration range of α-synuclein in neurons, while local concentrations may be substantially higher. NMR chemical shift perturbation (CSP) and paramagnetic relaxation enhancement (PRE) experiments mapped the binding site with residue-specific resolution to the α-synuclein C-terminus (V118 - E137) and to the synaptobrevin-2 SNARE motif/linker domain interface (region A82 - K87), and also affected the synaptobrevin-2 N-terminus (M1 - S2). NMR CSPs and PREs indicate a transient interaction in the fast exchange (μs-ms) regime. These transient weak binding interactions are characteristic of intrinsically disordered proteins (IDPs) and allow both proteins to engage in multiple binding interactions, thereby enabling α-synuclein to play a regulatory role upstream of or during neuronal exocytosis. While the exact physiological role of α-synuclein remains debated, the involvement of its pathological form in several neurodegenerative diseases (dubbed synucleinopathies) is well established. Our data suggest a direct link between proteins involved in neurodegeneration and neuronal exocytosis.",
+  "authors": [
+    "Sophia Werner",
+    "Tobias Stief",
+    "Celina M Schulz",
+    "Katharina Vormann",
+    "Robin Backer",
+    "Marie P Schutzmann",
+    "Lothar Gremer",
+    "Wolfgang Hoyer",
+    "Nils-Alexander Lakomek"
+  ],
+  "published_date": "2026-11-04",
+  "updated_date": "2026-11-04T22:10:24Z",
+  "journal": "bioRxiv",
+  "category": "Biophysics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764002",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764002.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Biophysics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Biophysics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            4
+          ]
+        ],
+        "date-time": "2026-11-04T22:26:11Z",
+        "timestamp": 1793831171229,
+        "version": "4.6.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            4
+          ]
+        ]
+      },
+      "group-title": "Biophysics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                4
+              ]
+            ],
+            "date-time": "2026-11-04T00:00:00Z",
+            "timestamp": 1793750400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "433700474"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "433700474"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/018mejw64",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            4
+          ]
+        ]
+      },
+      "abstract": "<jats:p>The protein α-synuclein (α-syn) plays a central role in several neurodegenerative diseases, including Parkinson's disease; however, its physiological function remains enigmatic. We provide direct evidence by nuclear magnetic resonance (NMR) spectroscopy, microscale thermophoresis (MST), and biolayer interferometry (BLI) measurements that the α-synuclein C-terminus binds to the vesicular SNARE (soluble N-ethylmaleimide-sensitive factor attachment protein receptor) protein synaptobrevin-2 (syb-2), also known as VAMP2 (vesicle-associated membrane protein). The observed dissociation constant (Kd) in the 10 - 50 micromolar range falls within the estimated concentration range of α-synuclein in neurons, while local concentrations may be substantially higher. NMR chemical shift perturbation (CSP) and paramagnetic relaxation enhancement (PRE) experiments mapped the binding site with residue-specific resolution to the α-synuclein C-terminus (V118 - E137) and to the synaptobrevin-2 SNARE motif/linker domain interface (region A82 - K87), and also affected the synaptobrevin-2 N-terminus (M1 - S2). NMR CSPs and PREs indicate a transient interaction in the fast exchange (μs-ms) regime. These transient weak binding interactions are characteristic of intrinsically disordered proteins (IDPs) and allow both proteins to engage in multiple binding interactions, thereby enabling α-synuclein to play a regulatory role upstream of or during neuronal exocytosis.  While the exact physiological role of α-synuclein remains debated, the involvement of its pathological form in several neurodegenerative diseases (dubbed synucleinopathies) is well established. Our data suggest a direct link between proteins involved in neurodegeneration and neuronal exocytosis.</jats:p>",
+      "DOI": "10.64898/2026.11.03.764002",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            4
+          ]
+        ],
+        "date-time": "2026-11-04T22:10:24Z",
+        "timestamp": 1793830224000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Direct NMR evidence for transient binding of the vesicular SNARE protein synaptobrevin-2/VAMP2 to the α-synuclein C-terminus"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Sophia",
+          "family": "Werner",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Heinrich Heine University Dusseldorf;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tobias",
+          "family": "Stief",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Forschungszentrum Julich"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Celina M",
+          "family": "Schulz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Heinrich Heine University Dusseldorf;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Katharina",
+          "family": "Vormann",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Heinrich Heine University Dusseldorf;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Robin",
+          "family": "Backer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Heinrich Heine University Dusseldorf;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marie P",
+          "family": "Schutzmann",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Heinrich Heine University Dusseldorf;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lothar",
+          "family": "Gremer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Forschungszentrum Julich"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wolfgang",
+          "family": "Hoyer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Heinrich Heine University Dusseldorf;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4285-6339",
+          "authenticated-orcid": false,
+          "given": "Nils-Alexander",
+          "family": "Lakomek",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Forschungszentrum Julich"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.03.764002",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            4
+          ]
+        ],
+        "date-time": "2026-11-04T22:10:24Z",
+        "timestamp": 1793830224000
+      },
+      "score": 76.90128,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.03.764002"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            4
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.11.03.764002",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            4
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

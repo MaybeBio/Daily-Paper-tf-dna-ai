@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "42980214",
+    "doi": "10.3791/72679",
+    "title": "Identification and Validation of Autophagy- and Inflammatory-Related Genes in Childhood Asthma via Integrated Bioinformatics and Clinical Samples."
+  },
+  "content": {
+    "abstract": "Childhood asthma (CA) is a prevalent chronic airway disease, yet the roles of autophagy and inflammation in its pathogenesis remain poorly understood. Transcriptomic datasets were retrieved from the Gene Expression Omnibus (GEO). Inflammation- and autophagy-related genes were identified using weighted gene co-expression network analysis and consensus clustering and intersected with differentially expressed genes (DEGs) to identify candidate genes. Subsequently, 101 machine learning algorithm combinations were evaluated to select key genes for diagnostic model construction. Functional characterization involved immune infiltration analysis, gene set enrichment analysis, and transcription factor network construction. Mendelian randomization (MR) was used to assess potential causal relationships between key genes and CA, and gene expression was validated by quantitative polymerase chain reaction (qPCR) in clinical blood samples. The analysis identified 39 candidate genes associated with autophagy and inflammation. Machine learning identified 10 key genes, and the resulting diagnostic model achieved areas under the curve of 0.768, 0.751, and 0.710 in the training, test, and validation sets, respectively. Pathway and immune infiltration analyses revealed enrichment in signaling, metabolic, and immune-regulatory functions and significant correlations with immune cell infiltration. MR analysis suggested a potential causal association between genetically predicted STYXL1 expression and CA risk. qPCR analysis in five CA patients and five healthy controls showed expression patterns consistent with the transcriptomic findings. However, the small clinical validation cohort limits the generalizability of these results. This study identifies a 10-gene peripheral blood diagnostic signature associated with CA and highlights STYXL1 as a potential causal risk gene supported by genetic evidence. Larger clinical cohorts and functional studies are required to validate these findings.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Asthma/genetics/immunology",
+      "*Autophagy/genetics",
+      "*Inflammation/genetics",
+      "*Computational Biology/methods",
+      "Child",
+      "Machine Learning",
+      "Gene Expression Profiling/methods"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Video-Audio Media"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Mingjing",
+        "Wu, Jihua",
+        "Xu, Daliang"
+      ],
+      "short_names": [
+        "Huang M",
+        "Wu J",
+        "Xu D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Anhui Medical University Children's Medical Center.",
+        "Department of Respiratory Medicine, Anhui Provincial Children's Hospital.",
+        "Anhui Medical University Children's Medical Center.",
+        "Department of Neurology, Anhui Provincial Children's Hospital.",
+        "Department of Rheumatology, Anhui Provincial Children's Hospital; xdlmy0605@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Mingjing",
+        "short_name": "Huang M",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Medical University Children's Medical Center.",
+          "Department of Respiratory Medicine, Anhui Provincial Children's Hospital."
+        ]
+      },
+      {
+        "full_name": "Wu, Jihua",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Medical University Children's Medical Center.",
+          "Department of Neurology, Anhui Provincial Children's Hospital."
+        ]
+      },
+      {
+        "full_name": "Xu, Daliang",
+        "short_name": "Xu D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology, Anhui Provincial Children's Hospital; xdlmy0605@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of visualized experiments : JoVE"
+    ],
+    "journal_abbrev": [
+      "J Vis Exp"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Video-Audio Media"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 11:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42980214"
+    ],
+    "review": [
+      "42980214"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/asthma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Asthma"
+      },
+      {
+        "url": "https://medlineplus.gov/asthma.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Asthma"
+      },
+      {
+        "url": "https://doi.org//10.3791/72679",
+        "provider": "MyJove Corporation",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

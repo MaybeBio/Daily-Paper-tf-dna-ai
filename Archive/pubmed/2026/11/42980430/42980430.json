@@ -1,0 +1,192 @@
+{
+  "identity": {
+    "pmid": "42980430",
+    "doi": "10.1021/acs.jafc.6c11116",
+    "title": "Inulin Combined with Rosmarinic Acid Alleviates D-Galactose-Induced Cognitive Impairment by Regulating Indoxyl Sulfate and the AhR/NF-kappaB/NLRP3 Inflammatory Pathway."
+  },
+  "content": {
+    "abstract": "Age-related cognitive impairment is associated with oxidative stress, intestinal barrier dysfunction, and gut-brain axis disruption. This study evaluated how rosmarinic acid (RA), alone or combined with the prebiotic inulin, ameliorates D-galactose-induced cognitive impairment in mice. Male ICR mice received D-galactose for 6 weeks with RA, or RA plus inulin, followed by behavioral testing, histology, biochemical assays, 16S rRNA sequencing, serum metabolomics, molecular dynamics and inflammatory signaling analyses. RA ameliorated exploratory behavior and recognition and spatial memory, restored antioxidant enzyme (SOD/CAT/GSH-Px) activities, reduced lipid peroxidation (MDA), and attenuated hippocampal neuronal injury and glial activation. The RA-inulin combination exhibited additional protection, improving colonic barrier markers, increasing Lactobacillus and Lachnospiraceae, lowering indoxyl sulfate, and modulating AhR/NF-kappaB/NLRP3 activation. Meanwhile, the level of IL-1beta/IL-18 (in the hippocampus) decreased by 15.96% and 24.41%, respectively. These findings suggest that the combined dietary intervention of RA and inulin mitigates aging-related cognitive impairment through the gut-brain axis.",
+    "keywords": [
+      "Aging",
+      "Cognitive impairment",
+      "Gut-brain axis",
+      "Inulin",
+      "Rosmarinic acid"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Rosmarinic Acid",
+      "*Depsides/administration & dosage",
+      "*Cinnamates/administration & dosage",
+      "*Inulin/administration & dosage",
+      "Male",
+      "*Cognitive Dysfunction/drug therapy/genetics/psychology/chemically induced/immunology/metabolism/etiology",
+      "Mice",
+      "Galactose/adverse effects",
+      "*NF-kappa B/genetics/metabolism/immunology",
+      "Mice, Inbred ICR",
+      "*NLR Family, Pyrin Domain-Containing 3 Protein/genetics/metabolism/immunology",
+      "Humans",
+      "Signal Transduction/drug effects",
+      "Oxidative Stress/drug effects",
+      "Hippocampus/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Huajian",
+        "Xu, Jinghong",
+        "Li, Zheng",
+        "Zhang, Qing",
+        "Che, Jing",
+        "Yi, Haozhe",
+        "Zhang, Binjia",
+        "Li, Bowen"
+      ],
+      "short_names": [
+        "Xu H",
+        "Xu J",
+        "Li Z",
+        "Zhang Q",
+        "Che J",
+        "Yi H",
+        "Zhang B",
+        "Li B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3481-4788",
+        "ORCID: 0000-0002-4199-7164"
+      ],
+      "affiliations": [
+        "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China.",
+        "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China.",
+        "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China.",
+        "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China.",
+        "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China.",
+        "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China.",
+        "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China.",
+        "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Huajian",
+        "short_name": "Xu H",
+        "identifiers": [],
+        "affiliations": [
+          "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jinghong",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zheng",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qing",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      },
+      {
+        "full_name": "Che, Jing",
+        "short_name": "Che J",
+        "identifiers": [],
+        "affiliations": [
+          "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      },
+      {
+        "full_name": "Yi, Haozhe",
+        "short_name": "Yi H",
+        "identifiers": [],
+        "affiliations": [
+          "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Binjia",
+        "short_name": "Zhang B",
+        "identifiers": [
+          "0000-0002-3481-4788"
+        ],
+        "affiliations": [
+          "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      },
+      {
+        "full_name": "Li, Bowen",
+        "short_name": "Li B",
+        "identifiers": [
+          "0000-0002-4199-7164"
+        ],
+        "affiliations": [
+          "China-Hungary Belt and Road Joint Laboratory on Food Science, Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, College of Food Science, Southwest University, Chongqing400715, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 11:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42980430"
+    ],
+    "review": [
+      "42980430"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-472",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c11116",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

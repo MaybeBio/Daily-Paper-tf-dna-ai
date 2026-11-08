@@ -1,0 +1,149 @@
+{
+  "identity": {
+    "pmid": "42986316",
+    "doi": "10.1177/00368504261504501",
+    "title": "Explainable hybrid vision transformer-convolutional neural network with cross-attention fusion for multi-institutional breast cancer receptor status prediction from H&E histopathology images."
+  },
+  "content": {
+    "abstract": "The integration of artificial intelligence (AI) into digital pathology has revolutionised breast cancer diagnostics, offering transformative opportunities to automate and refine molecular profiling, which is essential to precision oncology. Accurate determination of receptor status-estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2)-remains pivotal in guiding personalised treatment planning and prognostic assessment. However, traditional immunohistochemistry (IHC) and molecular assays are limited by resource intensity, lengthy turnaround times, and inter-observer variability, underscoring the need for scalable computational alternatives. This study proposes a novel integrative AI-driven framework for predicting breast cancer receptor profiles directly from hematoxylin and eosin (H&E)-stained histopathology images. The framework employs a hybrid vision transformer-convolutional neural network (ViT-CNN) architecture with a cross-attention fusion mechanism to capture both global contextual information and fine-grained local features. Experiments show AUCs of 0.967, 0.952, and 0.941 for ER, PR, and HER2 prediction, respectively, representing relative improvements of 12.4%, 9.8%, and 10.8% over the best-performing prior method (DCS-ST), re-evaluated under our identical protocol (absolute AUC differences of 0.107, 0.085 and 0.092). Furthermore, the framework enables automated molecular subtyping into luminal A, luminal B, HER2-enriched, and triple-negative categories with a macro-averaged F1-score of 95.7%. A comprehensive multi-institutional validation was performed on 2,847 external whole-slide images from three partner institutions (not including the primary BINO Hospital test set), showing consistent performance (a mean AUC reduction of 0.83 percentage points relative to the internal test set) across the staining protocols and scanners represented. Integrated explainability modules, including attention visualisations and Grad-CAM, enhance interpretability, supporting pathologist review. In a single-institution retrospective workflow audit, AI assistance was associated with an estimated 72.7% reduction in diagnostic turnaround time (from a conventional mean of 72.4 hours to 19.8 hours; Section 6.10, where approximately 65% of the AI-assisted time is un-itemised queueing and logistics) and, in a 120-WSI reader study, with higher inter-observer agreement (kappa 0.847 to 0.967). These clinical-impact estimates are hypothesis-generating and require prospective validation. The findings position the framework as a promising, explainable approach to AI-assisted digital pathology that warrants prospective, multi-centre clinical evaluation.",
+    "keywords": [
+      "Breast Cancer",
+      "Convolutional Neural Networks",
+      "Digital Pathology",
+      "Explainable AI",
+      "Molecular Subtyping",
+      "Receptor Status Prediction",
+      "Vision Transformers"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "Convolutional Neural Networks",
+      "*Breast Neoplasms/pathology/metabolism/diagnosis",
+      "*Erb-b2 Receptor Tyrosine Kinases/metabolism",
+      "*Receptors, Progesterone/metabolism",
+      "*Receptors, Estrogen/metabolism",
+      "Eosine Yellowish-(YS)/chemistry",
+      "Artificial Intelligence",
+      "Image Processing, Computer-Assisted",
+      "Hematoxylin/chemistry",
+      "Immunohistochemistry",
+      "Neural Networks, Computer"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Albalawi, Elham Saleh",
+        "Qayyum, Jibran",
+        "Qayyum, Junaid"
+      ],
+      "short_names": [
+        "Albalawi ES",
+        "Qayyum J",
+        "Qayyum J"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-3906-6047"
+      ],
+      "affiliations": [
+        "Department of Pathology, Faculty of Medicine, University of Tabuk, Tabuk, Kingdom of Saudi Arabia.",
+        "Department of Pharmacy, University of Peshawar, Peshawar, Pakistan. RINGGOLD: 54736",
+        "College of Information Engineering, Jinhua University of Vocational Technology, Jinhua, Zhejiang, China.",
+        "Waikato International College, Jinhua University of Vocational Technology, Jinhua, Zhejiang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Albalawi, Elham Saleh",
+        "short_name": "Albalawi ES",
+        "identifiers": [
+          "0009-0004-3906-6047"
+        ],
+        "affiliations": [
+          "Department of Pathology, Faculty of Medicine, University of Tabuk, Tabuk, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Qayyum, Jibran",
+        "short_name": "Qayyum J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, University of Peshawar, Peshawar, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Qayyum, Junaid",
+        "short_name": "Qayyum J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Jinhua University of Vocational Technology, Jinhua, Zhejiang, China.",
+          "Waikato International College, Jinhua University of Vocational Technology, Jinhua, Zhejiang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science progress"
+    ],
+    "journal_abbrev": [
+      "Sci Prog"
+    ],
+    "pub_date": "2026 Oct-Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 11:46",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42986316"
+    ],
+    "review": [
+      "42986316"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.sagepub.com/doi/10.1177/00368504261504501?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-11",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-192",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

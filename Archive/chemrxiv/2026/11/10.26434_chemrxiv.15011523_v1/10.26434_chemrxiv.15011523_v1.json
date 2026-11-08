@@ -1,0 +1,150 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15011523/v1",
+  "title": "From a Tight-Binding Hessian to an AMBER Iron-Sulfur Site: A Rubredoxin Stress Test",
+  "doi": "10.26434/chemrxiv.15011523/v1",
+  "abstract": "Parameterized bonded metal sites represent the lowest cost option for molecular dynamics (MD) studies of metalloproteins. However, their quality depends entirely upon the underlying quantum computation and validation. Here, we have asked whether it is possible to generate reliable AMBER force field parameters for a rubredoxin Fe-S4 active site from an extended tight-binding (xTB-family) Hessian. The Hessian derived from a 49-atom cluster was projected using the Seminario method to give parameters for Fe-S and S-Fe-S interactions. The active site was then solvated explicitly, and three 100 ns trajectories were generated. The entire process was performed end-to-end. The trajectories all maintained the protein secondary structure (RMSD Cα mean 1.2-1.6 Å). Two of the trajectories maintained a tetrahedral iron site, while one did not. At around 31.4 ns, the mean Fe-S bond length increased from 2.41 to 2.63 Å, and the deviation from tetrahedral geometry increased from 8.8 to 43.5°. Two cysteine sulfur atoms also approached each other to a bond length of 2.04 Å. None of these issues were identified using global measures. The parameters are reported along with the cause of failure, likely reasons, and missing provenance, meaning this is merely a proof of concept, not a validated force field.",
+  "authors": [
+    "Devashish Das",
+    "Anurag Kumar"
+  ],
+  "published_date": "2026-11-02",
+  "updated_date": "2026-11-02T12:56:47Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15011523/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15011523/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2026-11-02T13:30:05Z",
+        "timestamp": 1793626205823,
+        "version": "4.5.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Parameterized bonded metal sites represent the lowest cost option for molecular dynamics (MD) studies of metalloproteins. However, their quality depends entirely upon the underlying quantum computation and validation. Here, we have asked whether it is possible to generate reliable AMBER force field parameters for a rubredoxin Fe-S4 active site from an extended tight-binding (xTB-family) Hessian. The Hessian derived from a 49-atom cluster was projected using the Seminario method to give parameters for Fe-S and S-Fe-S interactions. The active site was then solvated explicitly, and three 100 ns trajectories were generated. The entire process was performed end-to-end. The trajectories all maintained the protein secondary structure (RMSD Cα mean 1.2-1.6 Å). Two of the trajectories maintained a tetrahedral iron site, while one did not. At around 31.4 ns, the mean Fe-S bond length increased from 2.41 to 2.63 Å, and the deviation from tetrahedral geometry increased from 8.8 to 43.5°. Two cysteine sulfur atoms also approached each other to a bond length of 2.04 Å. None of these issues were identified using global measures. The parameters are reported along with the cause of failure, likely reasons, and missing provenance, meaning this is merely a proof of concept, not a validated force field.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15011523/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2026-11-02T12:56:47Z",
+        "timestamp": 1793624207000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "From a Tight-Binding Hessian to an AMBER Iron-Sulfur Site: A Rubredoxin Stress Test"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "given": "Devashish",
+          "family": "Das",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anurag",
+          "family": "Kumar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15011523/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2026-11-02T12:56:47Z",
+        "timestamp": 1793624207000
+      },
+      "score": 108.0544,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011523/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15011523/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

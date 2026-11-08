@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "pmid": "42990375",
+    "doi": "10.64898/2026.10.29.762938",
+    "title": "ChAI-Net learns a regulatory code for chromatin co-accessibility."
+  },
+  "content": {
+    "abstract": "The regulation of chromatin accessibility is critical for cell function and identity. Advances in single-molecule long-read footprinting have enabled near-nucleotide-resolution readout of chromatin fiber organization, capturing both coordination of transcription factor (TF) binding and variation in nucleosome positioning previously obscured by bulk methods. Here we combine this technique with deep learning to study how protein-DNA interactions are coordinated within different types of cis -regulatory elements in mouse embryonic stem cells. First, we quantify the frequency with which pairs of positions are simultaneously accessible on individual molecules. Then, we train ChAI-Net, a neural network that predicts these locus-specific chromatin co-accessibility maps from the underlying DNA sequence. Through model interpretation and in silico experiments, we show that ChAI-Net learns unique combinations of sequence motifs underlying co-accessibility within enhancers, promoters, and CTCF-bound sites. Many of these motifs are missed when modeling average accessibility, suggesting a specific role in coordinated binding. ChAI-Net's regulatory grammar also highlights the importance of TF motif orientation, spacing, positioning, and co-occurrence in driving co-accessibility. Thus, our framework for extracting regulatory rules from footprinting data expands understanding of TF cooperativity, while laying the groundwork to elucidate how these rules vary across cellular contexts as single-molecule genomics is deployed at scale.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lee, Jodi",
+        "Zhang, Kaite",
+        "Shurberg, Ethan",
+        "Ramani, Vijay",
+        "Pollard, Katherine S"
+      ],
+      "short_names": [
+        "Lee J",
+        "Zhang K",
+        "Shurberg E",
+        "Ramani V",
+        "Pollard KS"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9870-6196"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Lee, Jodi",
+        "short_name": "Lee J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhang, Kaite",
+        "short_name": "Zhang K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shurberg, Ethan",
+        "short_name": "Shurberg E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ramani, Vijay",
+        "short_name": "Ramani V",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pollard, Katherine S",
+        "short_name": "Pollard KS",
+        "identifiers": [
+          "0000-0002-9870-6196"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42990375"
+    ],
+    "review": [
+      "42990375"
+    ],
+    "pmc": [
+      "13734088"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

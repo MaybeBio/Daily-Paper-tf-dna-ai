@@ -1,0 +1,173 @@
+{
+  "identity": {
+    "pmid": "42968013",
+    "doi": "10.1186/s12859-026-06592-z",
+    "title": "miR-206 orchestrates breast cancer radiosensitivity through a SIRT1/p53 feedback loop: a network medicine modelling study."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Radiotherapy remains a cornerstone of breast cancer treatment, yet radioresistance limits its efficacy. miR-206 acts as a tumor suppressor by inhibiting SIRT1 and stabilizing p53. However, how these molecular components are organized within larger regulatory networks, and whether such network-level hubs can be therapeutically prioritized, remains unclear. RESULTS: Network modeling predicted a previously unrecognized double-negative feedback loop (miR-206  dash, vertical SIRT1  dash, vertical p53 --> miR-206) that functions as a predicted bistable switch, driving mutually exclusive commitment to either a radiosensitive (apoptotic) or a radioresistant (proliferative) fate. Monte Carlo simulations revealed that opposite perturbations of this circuit consistently drove the system toward the corresponding stable attractor. Edge disruption analysis identified the miR-206/SIRT1 and p53/miR-206 interactions as essential for maintaining bistability, while ATM exerted p53-dependent context-specific effects. Model predictions were consistent with independent experimental observations that miR-206 overexpression suppresses SIRT1, enhances p53 acetylation, and increases radiosensitivity. CONCLUSIONS: This network medicine framework identifies the miR-206/SIRT1/p53 bistable switch as a key regulatory module governing cell-fate decisions in breast cancer radioresistance. The model provides a systems-level platform for prioritizing experimentally testable therapeutic strategies to overcome radioresistance.",
+    "keywords": [
+      "Boolean model, feedback loop",
+      "Breast cancer",
+      "SIRT1",
+      "miR-206",
+      "p53"
+    ],
+    "mesh_terms": [
+      "*MicroRNAs/genetics/metabolism",
+      "*Tumor Suppressor Protein p53/metabolism/genetics",
+      "*Sirtuin 1/metabolism/genetics",
+      "Humans",
+      "*Breast Neoplasms/genetics/radiotherapy/metabolism/pathology",
+      "*Radiation Tolerance/genetics",
+      "Female",
+      "Feedback, Physiological",
+      "Gene Regulatory Networks",
+      "Gene Expression Regulation, Neoplastic",
+      "Cell Line, Tumor",
+      "Models, Biological"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fontinele, Djorkaeff O",
+        "Reiniger, Klaus A R",
+        "Azevedo, Arthur H D",
+        "Lima, Joao Paulo M S",
+        "Gupta, Shantanu"
+      ],
+      "short_names": [
+        "Fontinele DO",
+        "Reiniger KAR",
+        "Azevedo AHD",
+        "Lima JPMS",
+        "Gupta S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Bioinformatics Multidisciplinary Environment-BioME - Digital Metropole Institute, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil.",
+        "Department of Biophysics and Pharmacology, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil.",
+        "Department of Biochemistry, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil.",
+        "Bioinformatics Multidisciplinary Environment-BioME - Digital Metropole Institute, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil.",
+        "Department of Biochemistry, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil.",
+        "Bioinformatics Multidisciplinary Environment-BioME - Digital Metropole Institute, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil. shantanu.gupta@imd.ufrn.br."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fontinele, Djorkaeff O",
+        "short_name": "Fontinele DO",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Multidisciplinary Environment-BioME - Digital Metropole Institute, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil."
+        ]
+      },
+      {
+        "full_name": "Reiniger, Klaus A R",
+        "short_name": "Reiniger KAR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics and Pharmacology, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil."
+        ]
+      },
+      {
+        "full_name": "Azevedo, Arthur H D",
+        "short_name": "Azevedo AHD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil."
+        ]
+      },
+      {
+        "full_name": "Lima, Joao Paulo M S",
+        "short_name": "Lima JPMS",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Multidisciplinary Environment-BioME - Digital Metropole Institute, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil.",
+          "Department of Biochemistry, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil."
+        ]
+      },
+      {
+        "full_name": "Gupta, Shantanu",
+        "short_name": "Gupta S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Multidisciplinary Environment-BioME - Digital Metropole Institute, Federal University of Rio Grande Do Norte, Natal, RN, 59076550, Brazil. shantanu.gupta@imd.ufrn.br."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC bioinformatics"
+    ],
+    "journal_abbrev": [
+      "BMC Bioinformatics"
+    ],
+    "pub_date": "2026 Aug 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/02 05:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42968013"
+    ],
+    "review": [
+      "42968013"
+    ],
+    "pmc": [
+      "13726001"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-026-06592-z",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42968013/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42974488",
+    "doi": "10.2147/CCID.S642546",
+    "title": "Integrative Analysis of Epidermal Barrier Dysfunction Regulators in Psoriasis."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Psoriasis is a chronic inflammatory skin disease characterized by keratinocyte hyperproliferation and compromised epidermal barrier function. Although tight junction disruption is a key pathological hallmark, the upstream transcriptional mechanisms driving the downregulation of core barrier proteins such as claudin-1 (CLDN1) remain insufficiently characterized. METHODS: We implemented an integrative multi-omics framework combining weighted gene co-expression network analysis (WGCNA), single-cell RNA sequencing (scRNA-seq), and machine-learning algorithms to prioritize core diagnostic features in psoriasis. Upstream transcription factors regulating CLDN1 were computationally predicted using the JASPAR, hTFtarget, and KnockTF databases. The regulatory effect of E74-like ETS transcription factor 3 (ELF3) on the CLDN1 promoter was evaluated using dual-luciferase reporter assays, and the inflammatory response of the axis was examined in TNF-alpha-stimulated HaCaT keratinocytes via quantitative real-time PCR. RESULTS: Machine-learning prioritization identified CLDN1 as a robust diagnostic feature that is significantly downregulated in psoriatic lesions. Multi-database integration converged on ELF3 as a candidate negative regulator of CLDN1. Dual-luciferase reporter assays demonstrated that ELF3 overexpression significantly suppressed wild-type CLDN1 promoter activity, whereas mutation of the predicted binding site abolished this repression. In TNF-alpha-stimulated HaCaT cells, ELF3 was markedly upregulated with a concurrent downregulation of CLDN1. DISCUSSION : These findings suggest that ELF3 functions as a candidate transcriptional repressor of CLDN1 promoter activity and provide preliminary in vitro and computational insights into the transcriptional alterations associated with epidermal barrier disruption in psoriasis, highlighting potential avenues for restoring structural barrier integrity.",
+    "keywords": [
+      "CLDN1",
+      "ELF3",
+      "epidermal barrier",
+      "psoriasis",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Yingdi",
+        "Wang, Yinglin",
+        "Zhu, Haijun",
+        "Liu, Yang",
+        "Wang, Jinyan",
+        "Li, Fangfang",
+        "Zhang, Yuxin",
+        "Peng, Zhanli",
+        "Wang, Wenxin"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Wang Y",
+        "Zhu H",
+        "Liu Y",
+        "Wang J",
+        "Li F",
+        "Zhang Y",
+        "Peng Z",
+        "Wang W"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-6415-0516"
+      ],
+      "affiliations": [
+        "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China.",
+        "Department of Dermatology, Affiliated Fuling Hospital of Chongqing University, Chongqing, People's Republic of China.",
+        "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China.",
+        "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China.",
+        "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China.",
+        "Department of Dermatology, Municipal Hospital of Chifeng, Chifeng, People's Republic of China.",
+        "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China.",
+        "Department of Vascular Surgery, Beijing Friendship Hospital, Capital Medical University, Beijing, People's Republic of China.",
+        "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Yingdi",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yinglin",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Affiliated Fuling Hospital of Chongqing University, Chongqing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Haijun",
+        "short_name": "Zhu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0009-0000-6415-0516"
+        ],
+        "affiliations": [
+          "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jinyan",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Fangfang",
+        "short_name": "Li F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Municipal Hospital of Chifeng, Chifeng, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuxin",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Peng, Zhanli",
+        "short_name": "Peng Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Vascular Surgery, Beijing Friendship Hospital, Capital Medical University, Beijing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wenxin",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Cosmetic, Municipal Hospital of Chifeng, Chifeng, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinical, cosmetic and investigational dermatology"
+    ],
+    "journal_abbrev": [
+      "Clin Cosmet Investig Dermatol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 12:05",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42974488"
+    ],
+    "review": [
+      "42974488"
+    ],
+    "pmc": [
+      "13726643"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42974488/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.2147/CCID.S642546",
+        "provider": "Dove Medical Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

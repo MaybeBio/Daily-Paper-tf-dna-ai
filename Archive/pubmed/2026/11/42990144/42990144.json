@@ -1,0 +1,133 @@
+{
+  "identity": {
+    "pmid": "42990144",
+    "doi": "10.64898/2026.10.12.757977",
+    "title": "Generative design of functional disordered regions in a developmental transcription factor."
+  },
+  "content": {
+    "abstract": "Rapid advances in protein structure design have not translated to intrinsically disordered regions (IDRs). This is largely due to our incomplete understanding of how IDR sequence encodes function. Here, we use stem cell differentiation as a model to map functional sequence features in the C-terminal IDR of the transcription factor RUNX2, which is required to bind chromatin and regulate gene expression during osteogenesis. Surprisingly, linear IDR motifs are dispensable; instead, the conformational dynamics of the IDR predict function. We develop an algorithm for rational IDR design based on biophysical principles, and use it to generate functional IDRs de novo . These findings extend generative protein design beyond the folded proteome.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Denes, Lance",
+        "Emenecker, Ryan J",
+        "Wang, Nongyun",
+        "Chirumamilla, Devi",
+        "Mohotti, Rashmi",
+        "Holehouse, Alex S",
+        "Holt, Liam",
+        "Lionnet, Timothee"
+      ],
+      "short_names": [
+        "Denes L",
+        "Emenecker RJ",
+        "Wang N",
+        "Chirumamilla D",
+        "Mohotti R",
+        "Holehouse AS",
+        "Holt L",
+        "Lionnet T"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1763-3325",
+        "ORCID: 0000-0003-1508-0202"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Denes, Lance",
+        "short_name": "Denes L",
+        "identifiers": [
+          "0000-0003-1763-3325"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Emenecker, Ryan J",
+        "short_name": "Emenecker RJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Nongyun",
+        "short_name": "Wang N",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chirumamilla, Devi",
+        "short_name": "Chirumamilla D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mohotti, Rashmi",
+        "short_name": "Mohotti R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Holehouse, Alex S",
+        "short_name": "Holehouse AS",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Holt, Liam",
+        "short_name": "Holt L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lionnet, Timothee",
+        "short_name": "Lionnet T",
+        "identifiers": [
+          "0000-0003-1508-0202"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42990144"
+    ],
+    "review": [
+      "42990144"
+    ],
+    "pmc": [
+      "13733706"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

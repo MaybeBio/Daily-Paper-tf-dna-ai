@@ -1,0 +1,169 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.29.762447",
+  "title": "Unsupervised prioritization of gene-regulatory variants with isolation forests",
+  "doi": "10.64898/2026.10.29.762447",
+  "abstract": "Most common variants occur in non-coding genomic regions. Numerous expression quantitative trait loci (eQTLs) can influence nearby gene expression. Across diverse traits and diseases, many genome-wide association study (GWAS) loci have been shown to colocalize with eQTLs, supporting gene-regulatory causal mechanisms. However, linkage disequilibrium (LD) obscures the identification of the causal variant(s), necessitating prioritization by functional annotations. Previously published variant prioritization tools relied on the machine-learning-based combination of diverse feature types like evolutionary conservation and chromatin information, whereas more recent deep learning tools learn and describe gene-regulatory DNA sequence grammar. However, the latter approaches often generate a large number of scores per variant. We designed a novel unsupervised machine-learning approach based on isolation forests to integrate the predictions from the broadly used Enformer deep learning model into a single gene-regulatory predictive score for each common variant. Our novel approach eQTL prediction with isolation forests (eQIF) demonstrates strong performance in predicting eQTLs and gene-regulatory GWAS variants. We show that top eQIF variants are located in evolutionarily conserved transcription factor binding site (TFBS) footprints, and that the frequency of top eQIF variants within overrepresented TFBS motifs recapitulates the motif information content. eQIF predictions are precomputed for 9,421,183 common variants and publicly available. <h4>Abstract Figure</h4> Graphical Abstract. eQIF is a novel score for predicting the gene-regulatory impact of variants. eQIF is based on the top 20 principal components (PCs) from the publicly available precomputed Enformer deep-learning chromatin predictions overlapping common gnomAD variants. The PCs were provided to an isolation forest to learn global density within the multi-dimensional feature space. After training the model, it was applied to predict a global anomaly score (eQIF) for all gnomAD variants. eQIF was finally used for fine-mapped variant classification, functional variant discovery and precise prioritization of highly informative TFBS positions. Created in BioRender. Schmidt, A. W. (2026) https://BioRender.com/6dgiji3",
+  "authors": [
+    "Schmidt AW",
+    "Rosendahl J",
+    "Laumen H",
+    "Ossowski S"
+  ],
+  "published_date": "2026-11-03",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762447",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762447.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1357466",
+    "raw_record": {
+      "id": "PPR1357466",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.29.762447",
+      "title": "Unsupervised prioritization of gene-regulatory variants with isolation forests",
+      "authorString": "Schmidt AW, Rosendahl J, Laumen H, Ossowski S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Schmidt AW",
+            "lastName": "Schmidt",
+            "firstName": "Andreas",
+            "initials": "AW"
+          },
+          {
+            "fullName": "Rosendahl J",
+            "lastName": "Rosendahl",
+            "firstName": "Jonas",
+            "initials": "J"
+          },
+          {
+            "fullName": "Laumen H",
+            "lastName": "Laumen",
+            "firstName": "Helmut",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5885-5242"
+            }
+          },
+          {
+            "fullName": "Ossowski S",
+            "lastName": "Ossowski",
+            "firstName": "Stephan",
+            "initials": "S"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5885-5242"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Most common variants occur in non-coding genomic regions. Numerous expression quantitative trait loci (eQTLs) can influence nearby gene expression. Across diverse traits and diseases, many genome-wide association study (GWAS) loci have been shown to colocalize with eQTLs, supporting gene-regulatory causal mechanisms. However, linkage disequilibrium (LD) obscures the identification of the causal variant(s), necessitating prioritization by functional annotations. Previously published variant prioritization tools relied on the machine-learning-based combination of diverse feature types like evolutionary conservation and chromatin information, whereas more recent deep learning tools learn and describe gene-regulatory DNA sequence grammar. However, the latter approaches often generate a large number of scores per variant. We designed a novel unsupervised machine-learning approach based on isolation forests to integrate the predictions from the broadly used Enformer deep learning model into a single gene-regulatory predictive score for each common variant. Our novel approach eQTL prediction with isolation forests (eQIF) demonstrates strong performance in predicting eQTLs and gene-regulatory GWAS variants. We show that top eQIF variants are located in evolutionarily conserved transcription factor binding site (TFBS) footprints, and that the frequency of top eQIF variants within overrepresented TFBS motifs recapitulates the motif information content. eQIF predictions are precomputed for 9,421,183 common variants and publicly available. <h4>Abstract Figure</h4>  Graphical Abstract. eQIF is a novel score for predicting the gene-regulatory impact of variants. eQIF is based on the top 20 principal components (PCs) from the publicly available precomputed Enformer deep-learning chromatin predictions overlapping common gnomAD variants. The PCs were provided to an isolation forest to learn global density within the multi-dimensional feature space. After training the model, it was applied to predict a global anomaly score (eQIF) for all gnomAD variants. eQIF was finally used for fine-mapped variant classification, functional variant discovery and precise prioritization of highly informative TFBS positions. Created in BioRender. Schmidt, A. W. (2026)  https://BioRender.com/6dgiji3",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Open Access Publication Fund of the University of Tübingen",
+            "orderIn": 0
+          },
+          {
+            "agency": "European Commission",
+            "orderIn": 0
+          },
+          {
+            "agency": "Federal Ministry of Research, Technology and Space of Germany",
+            "orderIn": 0
+          },
+          {
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "grantId": "RO3929/4-1",
+            "orderIn": 0
+          },
+          {
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "grantId": "RO3929/6-1",
+            "orderIn": 0
+          },
+          {
+            "agency": "European Union",
+            "grantId": "N°101156595",
+            "orderIn": 0
+          },
+          {
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "grantId": "RO3929/8-1",
+            "orderIn": 0
+          },
+          {
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "grantId": "441914366 (NFDI 1/1)",
+            "orderIn": 0
+          },
+          {
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "grantId": "RO3929/5-1",
+            "orderIn": 0
+          },
+          {
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "grantId": "RO3929/7-1",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.29.762447"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-04",
+      "firstPublicationDate": "2026-11-03",
+      "firstIndexDate": "2026-11-04",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "identity": {
+    "pmid": "42975739",
+    "doi": "10.1007/s10142-026-02103-8",
+    "title": "Integrative multi-omics analysis reveals a GALNT6/Smad2/CDC7 axis promoting cisplatin resistance through enhanced DNA damage repair in bladder cancer."
+  },
+  "content": {
+    "abstract": "Cisplatin-based neoadjuvant chemotherapy remains an important treatment for advanced bladder cancer (BLCA), yet approximately half of patients derive limited benefit because of chemoresistance. Although DNA damage repair (DDR) is a key determinant of this resistance, how DDR heterogeneity contributes to chemoresistance remains unclear. Single-cell transcriptomic analysis revealed DDR heterogeneity among BLCA epithelial cells, with epithelial cells exhibiting higher DDR activity showing greater malignant potential. Bulk transcriptomic and proteomic analyses identified two molecular subtypes of BLCA. Compared with the DDR-Base subtype, the DDR-Active subtype exhibited enhanced DDR function and worse clinical outcomes. Integrative machine-learning modeling and SHapley Additive exPlanations (SHAP) prioritized GALNT6 as a glycosylation-related regulator associated with the DDR-Active phenotype. GALNT6 was highly expressed in the DDR-Active subtype and progressively increased along the epithelial-cell trajectory toward the DDR-enhanced malignant state. Functionally, GALNT6 knockdown impaired DNA damage repair efficiency, thereby overcoming cisplatin resistance in BLCA. Mechanistically, GALNT6 stabilized SMAD2 through O-glycosylation, after which SMAD2 transcriptionally activated CDC7 to enhance repair capacity against exogenous DNA damage. Moreover, GALNT6 and SMAD2 co-expression was a hallmark of the DDR-Active subtype and was associated with advanced tumor stage. This study defines clinically relevant DDR subtypes in BLCA and identifies the GALNT6/SMAD2/CDC7 axis as a driver of cisplatin resistance. These findings provide a biological framework for understanding heterogeneity in cisplatin response and for future treatment stratification.",
+    "keywords": [
+      "Bladder cancer",
+      "Cisplatin resistance",
+      "DNA damage repair",
+      "GALNT6",
+      "Molecular subtyping"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Cisplatin/pharmacology/therapeutic use",
+      "*N-Acetylgalactosaminyltransferases/metabolism/genetics",
+      "*Urinary Bladder Neoplasms/genetics/metabolism/drug therapy/pathology",
+      "*Drug Resistance, Neoplasm/genetics",
+      "*DNA Repair",
+      "Polypeptide N-acetylgalactosaminyltransferase",
+      "DNA Damage",
+      "*Smad2 Protein/metabolism/genetics",
+      "Cell Line, Tumor",
+      "*Cell Cycle Proteins/metabolism/genetics",
+      "*Protein Serine-Threonine Kinases/metabolism/genetics",
+      "Gene Expression Regulation, Neoplastic",
+      "Animals",
+      "Multiomics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Yang",
+        "Bian, Ziming",
+        "Hu, Jianting",
+        "Xie, Yuanxin",
+        "Cheng, Guanyu",
+        "Zhang, Yan",
+        "Fan, Sairong",
+        "Chen, Xiaoming"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Bian Z",
+        "Hu J",
+        "Xie Y",
+        "Cheng G",
+        "Zhang Y",
+        "Fan S",
+        "Chen X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+        "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China.",
+        "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+        "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China.",
+        "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+        "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China.",
+        "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+        "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China.",
+        "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+        "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China.",
+        "Department of Urology, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, China.",
+        "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China. fansairong@wmu.edu.cn.",
+        "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China. fansairong@wmu.edu.cn.",
+        "Wenzhou Key Laboratory of Cancer Pathogenesis and Translation, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, China. fansairong@wmu.edu.cn.",
+        "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China. xmc@wmu.edu.cn.",
+        "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China. xmc@wmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+          "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+        ]
+      },
+      {
+        "full_name": "Bian, Ziming",
+        "short_name": "Bian Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+          "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Jianting",
+        "short_name": "Hu J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+          "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Yuanxin",
+        "short_name": "Xie Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+          "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Guanyu",
+        "short_name": "Cheng G",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China.",
+          "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Sairong",
+        "short_name": "Fan S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China. fansairong@wmu.edu.cn.",
+          "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China. fansairong@wmu.edu.cn.",
+          "Wenzhou Key Laboratory of Cancer Pathogenesis and Translation, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, China. fansairong@wmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaoming",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Laboratory Medicine, School of Laboratory Medicine and Life Sciences, Ministry of Education, Wenzhou Medical University, Wenzhou, China. xmc@wmu.edu.cn.",
+          "Institute of Glycobiological Engineering, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China. xmc@wmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Functional & integrative genomics"
+    ],
+    "journal_abbrev": [
+      "Funct Integr Genomics"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 17:35",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42975739"
+    ],
+    "review": [
+      "42975739"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/bladdercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Bladder Cancer"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s10142-026-02103-8",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

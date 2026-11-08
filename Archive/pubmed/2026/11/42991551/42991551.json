@@ -1,0 +1,174 @@
+{
+  "identity": {
+    "pmid": "42991551",
+    "doi": "10.3389/fimmu.2026.1679212",
+    "title": "The STAT1 lexicon: translating signaling codes in H. pylori-driven gastric carcinogenesis."
+  },
+  "content": {
+    "abstract": "Helicobacter pylori (H. pylori) is a chronic gastric mucosa colonizer that leads to the Correa cascade of gastric adenocarcinoma progression: chronic gastritis, intestinal metaplasia, and dysplasia. Signal transducer and activator of transcription 1 (STAT1) is one of the key mediators at the host immunity-tumor cell interface. The interaction of H. pylori with pattern recognition receptors on gastric epithelial cells induces tyrosine phosphorylation of STAT1 by Janus kinase (JAK), which in turn leads to dimerization and nuclear translocation of the protein, resulting in the suppression of pathogen survival enabled by interferon (IFN)-regulatory transcriptional programs. Ironically, STAT1 has a dual role in gastric carcinogenesis in a context-dependent manner: in the early disease, it acts as a tumor suppressor by facilitating apoptosis and cell-cycle arrest in gastric lesions, but in the advanced disease, it plays a role in immune evasion and tumor progression through the expression of programed death-ligand 1 (PD-L1) and tumor microenvironment (TME) modulation. This review critically assesses how H. pylori manipulates the STAT1 signaling during the infection process, crosstalk between the STAT1 and STAT3 pathways, and the future use of this understanding to therapeutically target and develop biomarkers. New strategies such as small-molecule STAT inhibitors, combination immunotherapy, and artificial intelligence (AI)-based biomarker discovery are discussed, as well as existing limitations and future research directions.",
+    "keywords": [
+      "H. pylori",
+      "STAT1",
+      "biomarker",
+      "gastric cancer",
+      "immunotherapy",
+      "interferons",
+      "tumor microenvironment",
+      "tumorigenesis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*STAT1 Transcription Factor/metabolism",
+      "*Helicobacter pylori/immunology",
+      "*Stomach Neoplasms/metabolism/microbiology/pathology/immunology/etiology",
+      "*Helicobacter Infections/immunology/microbiology/complications/metabolism",
+      "*Signal Transduction",
+      "Animals",
+      "*Carcinogenesis/immunology",
+      "Tumor Microenvironment/immunology",
+      "Host-Pathogen Interactions",
+      "Gastric Mucosa/microbiology/metabolism/immunology/pathology"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Han, Wei",
+        "He, Hongzheng",
+        "Ye, Bei",
+        "Sun, Yilin",
+        "Wang, XiuPing",
+        "Liu, Tingting",
+        "Cui, Hanwei",
+        "Wang, Jianjun"
+      ],
+      "short_names": [
+        "Han W",
+        "He H",
+        "Ye B",
+        "Sun Y",
+        "Wang X",
+        "Liu T",
+        "Cui H",
+        "Wang J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Science and Education Department, Kunshan Maternity and Children's Health Care Hospital, Suzhou, Jiangsu, China.",
+        "Department of General Surgery, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China.",
+        "Department of Clinical Laboratory, Jinxi People's Hospital of Kunshan, Suzhou, Jiangsu, China.",
+        "Department of Clinical Laboratory, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China.",
+        "Department of Clinical Laboratory, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China.",
+        "Department of Clinical Laboratory, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China.",
+        "Science and Technology Talent Department, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China.",
+        "Central Laboratory, The Fourth People's Hospital of Shenzhen, Shenzhen, Guangdong, China.",
+        "Department of Clinical Laboratory, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Han, Wei",
+        "short_name": "Han W",
+        "identifiers": [],
+        "affiliations": [
+          "Science and Education Department, Kunshan Maternity and Children's Health Care Hospital, Suzhou, Jiangsu, China.",
+          "Department of General Surgery, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "He, Hongzheng",
+        "short_name": "He H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Jinxi People's Hospital of Kunshan, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Bei",
+        "short_name": "Ye B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yilin",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, XiuPing",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Tingting",
+        "short_name": "Liu T",
+        "identifiers": [],
+        "affiliations": [
+          "Science and Technology Talent Department, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Hanwei",
+        "short_name": "Cui H",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, The Fourth People's Hospital of Shenzhen, Shenzhen, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jianjun",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Kunshan Hospital Affiliated to Jiangsu University, Suzhou, Jiangsu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42991551"
+    ],
+    "review": [
+      "42991551"
+    ],
+    "pmc": [
+      "13736037"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

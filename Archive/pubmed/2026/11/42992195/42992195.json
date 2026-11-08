@@ -1,0 +1,153 @@
+{
+  "identity": {
+    "pmid": "42992195",
+    "doi": "10.7717/peerj.21903",
+    "title": "Identification of Endoplasmic reticulum Homeostasis-associated diagnostic biomarkers for Sarcopenia through integrated Bioinformatics and Experimental Validation."
+  },
+  "content": {
+    "abstract": "Sarcopenia is an age-related skeletal muscle disorder characterized by progressive loss of muscle mass and function, yet reliable biomarkers for early diagnosis remain limited. Emerging evidence suggests that disruption of endoplasmic reticulum (ER) homeostasis contributes to skeletal muscle aging, however, the diagnostic relevance of ER stress- and reticulophagy-related alterations in sarcopenia remains poorly understood. In this study, three skeletal muscle transcriptomic datasets (GSE25941, GSE28422, and GSE38718) were integrated following batch-effect correction to identify differentially expressed genes (DEGs) between sarcopenic and control samples. DEGs were intersected with ER stress and reticulophagy related gene sets to obtain sarcopenia-associated candidate genes. Subsequently, three machine-learning algorithms, including least absolute shrinkage and selection operator (LASSO), random forest (RF), and support vector machine (SVM), were applied to identify key hub genes. Functional enrichment analyses, transcription factor (TF)-miRNA regulatory network construction, protein-chemical interaction analyses, external validation, nomogram development, and quantitative real-time PCR (qRT-PCR) verification were performed. A total of 236 DEGs were identified, comprising 34 upregulated and 202 downregulated genes. Intersection analysis with 1,772 ER stress and reticulophagy related genes yielded 10 candidate genes, from which five hub genes (ACTC1, NPY, CDKN2B, GADD45G, and GRIA1) were consistently identified by machine-learning analyses. Functional enrichment analysis indicated significant involvement in extracellular matrix organization, cytokine-cytokine receptor interaction, mitochondrial translation, and respiratory electron transport pathways. Regulatory network analyses further revealed potential interactions with multiple transcription factors, miRNAs, and chemical compounds. In the independent validation cohort (GSE1428), ACTC1 showed strong individual discriminative performance, NPY and GADD45G showed moderate performance, whereas GRIA1 showed limited discrimination and CDKN2B showed near-chance individual performance, whereas the combined gene signature exhibited improved discriminative ability. A predictive nomogram was established. Moreover, qRT-PCR analysis of human skeletal muscle biopsy specimens confirmed significantly increased expression of ACTC1, NPY, CDKN2B, and GRIA1, together with decreased expression of GADD45G in sarcopenic muscle tissues compared with controls (all p < 0.05). Collectively, our findings identified a five-gene signature associated with ER stress and reticulophagy related molecular networks in sarcopenia. Although these genes are not established core regulators of ER stress or reticulophagy, they exhibited promising diagnostic value and may reflect ER homeostasis-related molecular alterations during skeletal muscle aging, providing novel biomarkers and potential insights into the molecular basis of sarcopenia.",
+    "keywords": [
+      "Diagnostic value",
+      "ER-stress",
+      "Function information",
+      "Sarcopenia"
+    ],
+    "mesh_terms": [
+      "*Sarcopenia/diagnosis/genetics/metabolism",
+      "Humans",
+      "Biomarkers/metabolism",
+      "*Computational Biology/methods",
+      "*Endoplasmic Reticulum/metabolism/genetics",
+      "Muscle, Skeletal/metabolism/pathology",
+      "*Homeostasis",
+      "Gene Expression Profiling",
+      "*Endoplasmic Reticulum Stress/genetics",
+      "Gene Regulatory Networks",
+      "Transcriptome",
+      "MicroRNAs/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Long",
+        "Yan, Hongyu",
+        "Lu, Junliang",
+        "Yu, Wenkai",
+        "Li, Yang",
+        "Zhang, Zhiwen"
+      ],
+      "short_names": [
+        "Shi L",
+        "Yan H",
+        "Lu J",
+        "Yu W",
+        "Li Y",
+        "Zhang Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Acupuncture and Orthopedics, Hubei University of Traditional Chinese Medicine, Wuhan, China.",
+        "The Third Affiliated Hospital of Beijing University of Chinese Medicine, Beijing, China.",
+        "First Clinical Medical College, Hubei University of Traditional Chinese Medicine, Wuhan, China.",
+        "State Key Laboratory of Magnetic Resonance and Imaging, National Centre for Magnetic Resonance in Wuhan, Innovation Academy of Precision Measurement Science and Technology, Chinese Academy of Sciences (CAS), Wuhan, China.",
+        "Department of Orthopedic Surgery, Hubei Provincial Hospital of Traditional Chinese Medicine /Affiliated Hospital of Hubei University of Chinese Medicine, Wuhan, China.",
+        "Hubei Key Laboratory of Theory and Application Research of Liver and Kidney in Traditional Chinese Medicine (Hubei Province Hospital of Traditional Chinese Medicine), Wuhan, China.",
+        "Hubei Shizhen Laboratory, Wuhan, China.",
+        "Department of Orthopedic Surgery, Hubei Provincial Hospital of Traditional Chinese Medicine /Affiliated Hospital of Hubei University of Chinese Medicine, Wuhan, China.",
+        "Hubei Key Laboratory of Theory and Application Research of Liver and Kidney in Traditional Chinese Medicine (Hubei Province Hospital of Traditional Chinese Medicine), Wuhan, China.",
+        "Hubei Shizhen Laboratory, Wuhan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Long",
+        "short_name": "Shi L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Acupuncture and Orthopedics, Hubei University of Traditional Chinese Medicine, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Hongyu",
+        "short_name": "Yan H",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Affiliated Hospital of Beijing University of Chinese Medicine, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Junliang",
+        "short_name": "Lu J",
+        "identifiers": [],
+        "affiliations": [
+          "First Clinical Medical College, Hubei University of Traditional Chinese Medicine, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Wenkai",
+        "short_name": "Yu W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Magnetic Resonance and Imaging, National Centre for Magnetic Resonance in Wuhan, Innovation Academy of Precision Measurement Science and Technology, Chinese Academy of Sciences (CAS), Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, Hubei Provincial Hospital of Traditional Chinese Medicine /Affiliated Hospital of Hubei University of Chinese Medicine, Wuhan, China.",
+          "Hubei Key Laboratory of Theory and Application Research of Liver and Kidney in Traditional Chinese Medicine (Hubei Province Hospital of Traditional Chinese Medicine), Wuhan, China.",
+          "Hubei Shizhen Laboratory, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhiwen",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, Hubei Provincial Hospital of Traditional Chinese Medicine /Affiliated Hospital of Hubei University of Chinese Medicine, Wuhan, China.",
+          "Hubei Key Laboratory of Theory and Application Research of Liver and Kidney in Traditional Chinese Medicine (Hubei Province Hospital of Traditional Chinese Medicine), Wuhan, China.",
+          "Hubei Shizhen Laboratory, Wuhan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PeerJ"
+    ],
+    "journal_abbrev": [
+      "PeerJ"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42992195"
+    ],
+    "review": [
+      "42992195"
+    ],
+    "pmc": [
+      "13738190"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

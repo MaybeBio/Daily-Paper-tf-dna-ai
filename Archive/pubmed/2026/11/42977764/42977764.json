@@ -1,0 +1,184 @@
+{
+  "identity": {
+    "pmid": "42977764",
+    "doi": "10.1038/s41467-026-78787-0",
+    "title": "GATA transcription factors coordinate developmental progression in the arabidopsis root."
+  },
+  "content": {
+    "abstract": "Proper organ development requires the coordination of cell type-specific differentiation programs with general maturation processes through precise spatiotemporal gene regulation. In plants, where RNA polymerase pausing is not well established, alternative mechanisms must ensure this coordination. Here, using single-cell resolution transcriptomic and chromatin accessibility data, we reconstruct developmental trajectories of the Arabidopsis root ground tissue to investigate these mechanisms. We describe phased transcriptional landscapes governing the transition from stem cell to early differentiation, in which chromatin accessibility marks the activation of key developmental regulators. A major transcriptional switch in the late meristematic zone, underpinned by extensive chromatin remodeling, drives the transition from cell division to differentiation. Leveraging machine learning to examine integrated transcriptomic and chromatin accessibility trajectories, we identify GATA transcription factors (TFs) as central coordinators of this switch; a role we validate experimentally. We show that the GATA TFs sit at the tipping point of a feedback-driven bistable system that integrates inputs from auxin and cytokinin to balance proliferation and differentiation, ensuring temporal precision in root development at both the tissue and organ scales.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Arabidopsis/genetics/growth & development/metabolism",
+      "*Plant Roots/growth & development/genetics/metabolism",
+      "*GATA Transcription Factors/metabolism/genetics",
+      "*Arabidopsis Proteins/metabolism/genetics",
+      "Gene Expression Regulation, Plant",
+      "Cell Differentiation/genetics",
+      "Indoleacetic Acids/metabolism",
+      "Meristem/metabolism/genetics/growth & development",
+      "Chromatin Assembly and Disassembly",
+      "Cytokinins/metabolism",
+      "Chromatin/metabolism",
+      "Gene Expression Regulation, Developmental",
+      "Transcriptome"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Denyer, Tom",
+        "Solansky, Pavel",
+        "Herrmann, Arvid",
+        "de Martino, Francesco",
+        "Symeonidi, Efthymia",
+        "Brosamle, Valentin",
+        "Timmermans, Marja C P"
+      ],
+      "short_names": [
+        "Denyer T",
+        "Solansky P",
+        "Herrmann A",
+        "de Martino F",
+        "Symeonidi E",
+        "Brosamle V",
+        "Timmermans MCP"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7413-9855",
+        "ORCID: 0000-0002-1608-8655",
+        "ORCID: 0009-0008-2640-1503",
+        "ORCID: 0000-0003-1931-9209"
+      ],
+      "affiliations": [
+        "Center for Plant Molecular Biology, University of Tubingen, Auf der Morgenstelle 32, Tubingen, 72076, Germany. thomas.denyer@zmbp.uni-tuebingen.de.",
+        "Center for Plant Molecular Biology, University of Tubingen, Auf der Morgenstelle 32, Tubingen, 72076, Germany.",
+        "Center for Plant Molecular Biology, University of Tubingen, Auf der Morgenstelle 32, Tubingen, 72076, Germany.",
+        "Center for Plant Molecular Biology, University of Tubingen, Auf der Morgenstelle 32, Tubingen, 72076, Germany.",
+        "Center for Plant Molecular Biology, University of Tubingen, Auf der Morgenstelle 32, Tubingen, 72076, Germany.",
+        "School of Biological Sciences, University of Utah, Salt Lake City, Utah, 84112, USA.",
+        "Center for Plant Molecular Biology, University of Tubingen, Auf der Morgenstelle 32, Tubingen, 72076, Germany.",
+        "Center for Plant Molecular Biology, University of Tubingen, Auf der Morgenstelle 32, Tubingen, 72076, Germany. marja.timmermans@zmbp.uni-tuebingen.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Denyer, Tom",
+        "short_name": "Denyer T",
+        "identifiers": [
+          "0000-0001-7413-9855"
+        ],
+        "affiliations": [
+          "Center for Plant Molecular Biology, University of Tübingen, Auf der Morgenstelle 32, Tübingen, 72076, Germany. thomas.denyer@zmbp.uni-tuebingen.de."
+        ]
+      },
+      {
+        "full_name": "Solansky, Pavel",
+        "short_name": "Solansky P",
+        "identifiers": [
+          "0000-0002-1608-8655"
+        ],
+        "affiliations": [
+          "Center for Plant Molecular Biology, University of Tübingen, Auf der Morgenstelle 32, Tübingen, 72076, Germany."
+        ]
+      },
+      {
+        "full_name": "Herrmann, Arvid",
+        "short_name": "Herrmann A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Plant Molecular Biology, University of Tübingen, Auf der Morgenstelle 32, Tübingen, 72076, Germany."
+        ]
+      },
+      {
+        "full_name": "de Martino, Francesco",
+        "short_name": "de Martino F",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Plant Molecular Biology, University of Tübingen, Auf der Morgenstelle 32, Tübingen, 72076, Germany."
+        ]
+      },
+      {
+        "full_name": "Symeonidi, Efthymia",
+        "short_name": "Symeonidi E",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Plant Molecular Biology, University of Tübingen, Auf der Morgenstelle 32, Tübingen, 72076, Germany.",
+          "School of Biological Sciences, University of Utah, Salt Lake City, Utah, 84112, USA."
+        ]
+      },
+      {
+        "full_name": "Brösamle, Valentin",
+        "short_name": "Brösamle V",
+        "identifiers": [
+          "0009-0008-2640-1503"
+        ],
+        "affiliations": [
+          "Center for Plant Molecular Biology, University of Tübingen, Auf der Morgenstelle 32, Tübingen, 72076, Germany."
+        ]
+      },
+      {
+        "full_name": "Timmermans, Marja C P",
+        "short_name": "Timmermans MCP",
+        "identifiers": [
+          "0000-0003-1931-9209"
+        ],
+        "affiliations": [
+          "Center for Plant Molecular Biology, University of Tübingen, Auf der Morgenstelle 32, Tübingen, 72076, Germany. marja.timmermans@zmbp.uni-tuebingen.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 05:31",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42977764"
+    ],
+    "review": [
+      "42977764"
+    ],
+    "pmc": [
+      "13731660"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78787-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42977764/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

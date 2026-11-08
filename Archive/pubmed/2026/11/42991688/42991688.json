@@ -1,0 +1,96 @@
+{
+  "identity": {
+    "pmid": "42991688",
+    "doi": "10.1016/j.jpi.2026.100750",
+    "title": "Tumor-area mitosis proportion as an image-derived mitotic phenotype in lung squamous cell carcinoma: Patient-level prognostic and multi-omics evaluation."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Mitotic activity is a recognized marker of tumor proliferation, yet its reproducible assessment across whole-slide images (WSIs) remains difficult. We developed a transfer-learning framework for lung squamous cell carcinoma (LUSC) and evaluated whether a patch-derived tumor-area mitosis proportion (TAMP) was associated with survival and molecular tumor characteristics. METHODS: The analysis combined MIDOG 2022 with TCGA-LUSC, including 478 patients and 512 diagnostic WSIs after quality control. Tumor regions and mitotic figures were reviewed by two pathologists with interobserver agreement of Cohen's kappa >/= 0.85. A ResNet-50 model was trained on MIDOG and subsequently adapted to TCGA-LUSC using Focal Loss and stain-aware augmentation. Target-domain performance was evaluated using patient-level stratified 5-fold cross-validation and an additional WSI-level holdout analysis to address potential leakage from the initial patch-level partitioning. TAMP was calculated from patient-level out-of-fold predictions as the proportion of evaluable tumor patches classified as mitosis-positive. Associations with overall survival, immune and genomic features, transcriptomic programs, predicted drug response, and transcription-factor activity were subsequently examined. Multivariable Cox regression adjusted for age, sex, smoking status, tumor stage, and Eastern Cooperative Oncology Group performance status. RESULTS: The model achieved an area under the receiver operating characteristic curve (AUC) of 0.975 (95% confidence interval (CI): 0.965-0.980) on the held-out MIDOG test set. In TCGA-LUSC, fine-tuning increased the initial patch-level AUC from 0.82 to 0.92. Patient-level cross-validation yielded a mean AUC of 0.89 (95% CI: 0.86-0.90), and WSI-level holdout validation yielded an AUC of 0.90 (95% CI: 0.84-0.90). High TAMP was associated with poorer overall survival (log-rank p = 0.008; HR = 1.82, 95% CI: 1.18-2.81) and remained associated with mortality after multivariable adjustment (adjusted HR = 1.68, 95% CI: 1.08-2.62; p = 0.022). Higher TAMP was also associated with lower stromal fraction, selected immune-cell differences, greater indel-derived neoantigen load and indel burden, and enrichment of stem-cell proliferation, growth-factor-response, E2F-target, G2M-checkpoint, and MYC-target programs. Additional associations were observed with predicted sensitivity to selected cell-cycle-targeting compounds and with proliferation-related transcription-factor activity. CONCLUSIONS: TAMP provides a patient-level, image-derived representation of mitosis-positive tumor regions that was associated with survival and several molecular features in TCGA-LUSC. Its association with overall survival persisted after adjustment for major clinical covariates. External multicenter validation, prespecified threshold evaluation, and prospective assessment are required before clinical use.",
+    "keywords": [
+      "Computational pathology",
+      "Deep learning",
+      "Lung squamous cell carcinoma",
+      "Mitosis",
+      "Transfer learning",
+      "Tumor-area mitosis proportion"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gunes, Gulcin Yilmaz",
+        "Cifci, Mehmet Akif"
+      ],
+      "short_names": [
+        "Gunes GY",
+        "Cifci MA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pulmonology, Bandirma Training and Research Hospital, Bandirma, Turkiye.",
+        "Institute of Research and Development, Duy Tan University, Da Nang, Viet Nam.",
+        "School of Engineering and Technology, Duy Tan University, Da Nang, Viet Nam.",
+        "Department of Computer Engineering, Bandirma Onyedi Eylul University, Bandirma, Balikesir 10200, Turkiye.",
+        "Engineering and Informatics Department, Klaipedos Valstybine Kolegija/Higher Education Institution, 92294 Klaipeda, Lithuania."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gunes, Gulcin Yilmaz",
+        "short_name": "Gunes GY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonology, Bandırma Training and Research Hospital, Bandırma, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Cifci, Mehmet Akif",
+        "short_name": "Cifci MA",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Research and Development, Duy Tan University, Da Nang, Viet Nam.",
+          "School of Engineering and Technology, Duy Tan University, Da Nang, Viet Nam.",
+          "Department of Computer Engineering, Bandırma Onyedi Eylül University, Bandırma, Balıkesir 10200, Türkiye.",
+          "Engineering and Informatics Department, Klaipėdos Valstybinė Kolegija/Higher Education Institution, 92294 Klaipėda, Lithuania."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of pathology informatics"
+    ],
+    "journal_abbrev": [
+      "J Pathol Inform"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42991688"
+    ],
+    "review": [
+      "42991688"
+    ],
+    "pmc": [
+      "13738293"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

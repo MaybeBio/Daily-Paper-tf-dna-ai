@@ -1,0 +1,156 @@
+{
+  "identity": {
+    "pmid": "42980419",
+    "doi": "10.1021/acs.jafc.6c01607",
+    "title": "Allobaculum stercoricanis and Its Postbiotics Alleviate Dextran Sulfate Sodium (DSS)-Induced Colitis through the Regulation of theTLR4/NF-kappaB Signaling Pathway."
+  },
+  "content": {
+    "abstract": "Inflammatory bowel disease (IBD) is a chronic intestinal disorder that has become a global public health concern. Postbiotics offer advantages in biosafety and reproducibility over probiotics. Here, we demonstrated that live Allobaculum stercoricanis (A. stercoricanis) and its two postbiotic preparations horizontal line inactivated bacterial cells (POST) and cell-free fermentation supernatant (CFS) horizontal line effectively alleviated dextran sulfate sodium (DSS)-induced colitis in mice. Integrated gut microbiome and serum metabolomics analyses indicated that these interventions may act through modulating bile acid metabolism and Toll-like receptor signaling pathways. Further investigations combining postbiotic metabolomics, network pharmacology, molecular docking, and molecular dynamics simulations identified alpha-muricholic acid (alpha-MCA) as a candidate functional metabolite, with the farnesoid X receptor (FXR) as a potential target. We hypothesize that alpha-MCA may contribute to ameliorating intestinal inflammation through engagement of FXR and suppression of the TLR4/NF-kappaB signaling pathway. These findings provide new insights into postbiotic-based therapeutic strategies for IBD.",
+    "keywords": [
+      "Allobaculum stercoricanis",
+      "FXR",
+      "Inflammatory bowel disease",
+      "postbiotics",
+      "alpha-Muricholic Acid"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Dextran Sulfate/adverse effects",
+      "*NF-kappa B/genetics/metabolism/immunology",
+      "*Toll-Like Receptor 4/genetics/metabolism/immunology",
+      "Signal Transduction/drug effects",
+      "*Colitis/genetics/chemically induced/drug therapy/metabolism/microbiology/therapy/immunology",
+      "Mice",
+      "Humans",
+      "*Receptors, Cytoplasmic and Nuclear/genetics/metabolism/immunology",
+      "*Probiotics/administration & dosage",
+      "Receptor, Farnesoid X-Activated",
+      "Mice, Inbred C57BL",
+      "Male",
+      "Gastrointestinal Microbiome"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Teng",
+        "Wang, Jiantang",
+        "Huangfu, Bingxin",
+        "He, Xiaoyun",
+        "Huang, Kunlun"
+      ],
+      "short_names": [
+        "Wang T",
+        "Wang J",
+        "Huangfu B",
+        "He X",
+        "Huang K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9503-8532",
+        "ORCID: 0000-0003-1717-8713"
+      ],
+      "affiliations": [
+        "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China.",
+        "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China.",
+        "Zhejiang Center for Drug & Cosmetic Evaluation, Zhejiang Center for ADR Monitoring, Zhejiang310007, China.",
+        "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China.",
+        "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Safety Assessment of Genetically Modified Organism (Food Safety), The Ministry of Agriculture and Rural Affairs of the PR China, Beijing100125, China.",
+        "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Safety Assessment of Genetically Modified Organism (Food Safety), The Ministry of Agriculture and Rural Affairs of the PR China, Beijing100125, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Teng",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiantang",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China.",
+          "Zhejiang Center for Drug & Cosmetic Evaluation, Zhejiang Center for ADR Monitoring, Zhejiang310007, China."
+        ]
+      },
+      {
+        "full_name": "Huangfu, Bingxin",
+        "short_name": "Huangfu B",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China."
+        ]
+      },
+      {
+        "full_name": "He, Xiaoyun",
+        "short_name": "He X",
+        "identifiers": [
+          "0000-0002-9503-8532"
+        ],
+        "affiliations": [
+          "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China.",
+          "Key Laboratory of Safety Assessment of Genetically Modified Organism (Food Safety), The Ministry of Agriculture and Rural Affairs of the PR China, Beijing100125, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Kunlun",
+        "short_name": "Huang K",
+        "identifiers": [
+          "0000-0003-1717-8713"
+        ],
+        "affiliations": [
+          "Beijing Laboratory for Food Quality and Safety, College of Food Science and Nutritional Engineering, China Agricultural University, Beijing100083, China.",
+          "Key Laboratory of Safety Assessment of Genetically Modified Organism (Food Safety), The Ministry of Agriculture and Rural Affairs of the PR China, Beijing100125, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 11:29",
+    "fetched_at": "2026-11-08 08:49:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42980419"
+    ],
+    "review": [
+      "42980419"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c01607",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
