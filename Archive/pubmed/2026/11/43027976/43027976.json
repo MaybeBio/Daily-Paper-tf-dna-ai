@@ -1,0 +1,193 @@
+{
+  "identity": {
+    "pmid": "43027976",
+    "doi": "10.3390/ijms27219728",
+    "title": "Arecoline Induces Testicular Injury and Impairs Spermatogenesis in Rats Through Notch Signaling-Mediated Oxidative Stress."
+  },
+  "content": {
+    "abstract": "Millions of people chew areca nut to boost work efficiency and relieve stress. Areca nut contains arecoline, which adversely affects reproductive function, although the underlying molecular mechanisms remain unclear. Herein, we evaluated arecoline-mediated reproductive toxicity using Sprague-Dawley (SD) rat models and an in vitro GC-1 cell model. Molecular docking, quantitative reverse transcription PCR (qRT-PCR), Western blot, cell-based assays, and functional rescue experiments were used to investigate the mechanisms involved. Dose-dependent spermatogenic damage was observed in male rats receiving 50, 100 and 200 mg/kg arecoline, with reduced sperm counts and quality, higher testicular MDA and lower activity of antioxidant enzymes superoxide dismutase (SOD), catalase (CAT), and glutathione peroxidase (GPx). Molecular docking predicted a possible interaction between arecoline and Notch1. qRT-PCR and Western blot analyses showed that the expression of Notch1 and its ligands, Jagged-1 and Dll-1, was downregulated in testicular tissues and GC-1 cells following arecoline exposure. Notch1 expression was strongly positively correlated with seminiferous tubule diameter and seminiferous epithelium height. In vitro, arecoline induced ROS accumulation, inhibited proliferation and promoted apoptosis in GC-1 cells. Rescue experiments showed that the Notch activator valproic acid, used to enhance Notch signaling, alleviated arecoline-induced toxicity, whereas Notch inhibitor FLI-06 worsened cell injury. These findings support a role for altered Notch signaling and oxidative stress in arecoline-induced spermatogenic injury and provide insight into the molecular mechanisms of its reproductive toxicity.",
+    "keywords": [
+      "arecoline",
+      "notch signaling pathway",
+      "oxidative stress",
+      "reproductive toxicology",
+      "spermatogenesis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Male",
+      "*Oxidative Stress/drug effects",
+      "*Spermatogenesis/drug effects",
+      "*Arecoline/toxicity/adverse effects",
+      "Rats",
+      "*Signal Transduction/drug effects",
+      "*Testis/drug effects/metabolism/pathology/injuries",
+      "Rats, Sprague-Dawley",
+      "*Receptor, Notch1/metabolism/genetics",
+      "Apoptosis/drug effects",
+      "Molecular Docking Simulation",
+      "Cell Line",
+      "Reactive Oxygen Species/metabolism",
+      "*Receptors, Notch/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Yan-Qi",
+        "Li, Wen-Xing",
+        "Ge, Pan",
+        "Lv, Mo-Qi",
+        "Sun, Ying",
+        "Chen, Qing",
+        "Zhang, Jian",
+        "Sun, Rui-Fang",
+        "Zhou, Dang-Xia",
+        "Liu, Ming"
+      ],
+      "short_names": [
+        "Yang YQ",
+        "Li WX",
+        "Ge P",
+        "Lv MQ",
+        "Sun Y",
+        "Chen Q",
+        "Zhang J",
+        "Sun RF",
+        "Zhou DX",
+        "Liu M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Obstetrics and Gynecoloy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710004, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China.",
+        "Department of Neurosurgery, Xi'an Jiaotong University Medical College First Affiliated Hospital, Xi'an 710061, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China.",
+        "Department of Obstetrics and Gynecoloy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710004, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China.",
+        "Department of Obstetrics and Gynecoloy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710004, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Yan-Qi",
+        "short_name": "Yang YQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecoloy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710004, China.",
+          "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wen-Xing",
+        "short_name": "Li WX",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Xi'an Jiaotong University Medical College First Affiliated Hospital, Xi'an 710061, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Pan",
+        "short_name": "Ge P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Mo-Qi",
+        "short_name": "Lv MQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Ying",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Qing",
+        "short_name": "Chen Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecoloy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710004, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jian",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Rui-Fang",
+        "short_name": "Sun RF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Dang-Xia",
+        "short_name": "Zhou DX",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, School of Basic Medical Sciences, Health Science Center, Xi'an Jiaotong University, Xi'an 710061, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ming",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecoloy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710004, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43027976"
+    ],
+    "review": [
+      "43027976"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

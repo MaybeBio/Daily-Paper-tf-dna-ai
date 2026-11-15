@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42998251",
+    "doi": "10.1002/jbt.71173",
+    "title": "Smokeless Tobacco-Associated Nitrosamines Impact on Aryl Hydrocarbon Receptor: In Silico and In Vitro Study."
+  },
+  "content": {
+    "abstract": "Smokeless tobacco (SLT) consumption is a potential health threat around the globe, predominantly in South Asian Countries. SLT products contain several carcinogens, most notably including tobacco-specific nitrosamines (TSNAs). Aryl hydrocarbon receptor (AhR), significantly higher in oral squamous cell carcinoma, is responsible for the recognition of toxic compounds and their elimination by increasing the expression of Cytochrome-P450 enzymes. However, the impact of TSNAs on AhR and AhR-related pathways remains unclear. In this work, we investigate the interaction between AhR and various TSNAs present in SLT products by molecular docking and further validate the effects of aqueous extracts (STEs) of these three SLT products on oral cancer cells (CAL-27) and human embryonic kidney cells (HEK-293). TSNA molecules docked at the classical 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) binding site of AhR. The docking results revealed the comparative binding affinity of all TSNAs molecules against AhR. Accordingly, agonist TCDD and NAT showed the highest and lowest binding affinity against AhR, respectively. Furthermore, STE exposure led to an increase in cell proliferation at low doses, whereas at high doses, inhibition of proliferation was observed against both cell lines. STE treatment showed an increase in ROS production at low doses, indicating cell transformation. AhR and AhR-dependent gene (CYP1A1, CYP1B1, Arnt, and GST) expressions were elevated upon exposure to STE. Therefore, induction of the AhR signalling network by STE exposure may be pathogenetically involved in oral carcinogenesis and future research on designing an appropriate inhibitor against AhR during SLT consumption can assist in the management of oral cancer.",
+    "keywords": [
+      "Aryl hydrocarbon receptor",
+      "Cytochrome-P450",
+      "smokeless tobacco",
+      "tobacco-specific nitrosamines"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Receptors, Aryl Hydrocarbon/metabolism/chemistry",
+      "*Nitrosamines/chemistry/pharmacology/toxicity",
+      "*Molecular Docking Simulation",
+      "*Tobacco, Smokeless/adverse effects/toxicity",
+      "HEK293 Cells",
+      "Cell Line, Tumor",
+      "*Basic Helix-Loop-Helix Proteins/metabolism/chemistry",
+      "Mouth Neoplasms/metabolism/pathology",
+      "Cytochrome P-450 CYP1A1"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sajid, Mohammad",
+        "Verma, Ved Vrat",
+        "Rawat, Varun",
+        "Srivastava, Sonal",
+        "Sharma, Pragya",
+        "Bharadwaj, Mausumi"
+      ],
+      "short_names": [
+        "Sajid M",
+        "Verma VV",
+        "Rawat V",
+        "Srivastava S",
+        "Sharma P",
+        "Bharadwaj M"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4787-1092",
+        "ORCID: 0000-0002-2596-2578",
+        "ORCID: 0009-0003-8858-4863",
+        "ORCID: 0000-0003-3696-4007",
+        "ORCID: 0000-0002-7996-4333"
+      ],
+      "affiliations": [
+        "Division of Molecular Genetics and Biochemistry, Molecular Biology Group, ICMR-National Institute of Cancer Prevention and Research, Noida, Uttar Pradesh, India.",
+        "Department of Biotechnology, School of Engineering and Technology, Noida International University, Greater Noida, Uttar Pradesh, India.",
+        "School of Biotechnology, Gautam Buddha University, Greater Noida, Uttar Pradesh, India.",
+        "Division of Molecular Genetics and Biochemistry, Molecular Biology Group, ICMR-National Institute of Cancer Prevention and Research, Noida, Uttar Pradesh, India.",
+        "Molecular Biology Group, ICMR-National Institute of Cancer Prevention and Research, Noida, Uttar Pradesh, India.",
+        "Division of Molecular Genetics and Biochemistry, Molecular Biology Group, ICMR-National Institute of Cancer Prevention and Research, Noida, Uttar Pradesh, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, Uttar Pradesh, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sajid, Mohammad",
+        "short_name": "Sajid M",
+        "identifiers": [
+          "0000-0003-4787-1092"
+        ],
+        "affiliations": [
+          "Division of Molecular Genetics and Biochemistry, Molecular Biology Group, ICMR-National Institute of Cancer Prevention and Research, Noida, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Verma, Ved Vrat",
+        "short_name": "Verma VV",
+        "identifiers": [
+          "0000-0002-2596-2578"
+        ],
+        "affiliations": [
+          "Department of Biotechnology, School of Engineering and Technology, Noida International University, Greater Noida, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Rawat, Varun",
+        "short_name": "Rawat V",
+        "identifiers": [
+          "0009-0003-8858-4863"
+        ],
+        "affiliations": [
+          "School of Biotechnology, Gautam Buddha University, Greater Noida, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Srivastava, Sonal",
+        "short_name": "Srivastava S",
+        "identifiers": [
+          "0000-0003-3696-4007"
+        ],
+        "affiliations": [
+          "Division of Molecular Genetics and Biochemistry, Molecular Biology Group, ICMR-National Institute of Cancer Prevention and Research, Noida, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Sharma, Pragya",
+        "short_name": "Sharma P",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology Group, ICMR-National Institute of Cancer Prevention and Research, Noida, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Bharadwaj, Mausumi",
+        "short_name": "Bharadwaj M",
+        "identifiers": [
+          "0000-0002-7996-4333"
+        ],
+        "affiliations": [
+          "Division of Molecular Genetics and Biochemistry, Molecular Biology Group, ICMR-National Institute of Cancer Prevention and Research, Noida, Uttar Pradesh, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, Uttar Pradesh, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biochemical and molecular toxicology"
+    ],
+    "journal_abbrev": [
+      "J Biochem Mol Toxicol"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-15 09:05:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42998251"
+    ],
+    "review": [
+      "42998251"
+    ],
+    "pmc": [
+      "13744387"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/smokelesstobacco.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Smokeless Tobacco"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42998251/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/jbt.71173",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GST+Mu2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1774",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

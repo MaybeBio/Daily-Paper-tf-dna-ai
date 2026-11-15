@@ -1,0 +1,182 @@
+{
+  "identity": {
+    "pmid": "43012722",
+    "doi": "10.1021/acs.jafc.6c02986",
+    "title": "20(S)-Protopanaxadiol Targets HMGB1 to Inhibit Inflammasome Activation and Ameliorate Acute Lung Injury."
+  },
+  "content": {
+    "abstract": "20(S)-Protopanaxadiol (PPD), a major intestinal metabolite of ginsenosides from Panax ginseng, possesses anti-inflammatory properties, yet its direct molecular targets are poorly defined. This study investigated the protective effects of PPD against acute lung injury (ALI) and its potential mechanism. Using LPS-challenged immortalized mouse bone-marrow-derived macrophages (iBMDMs) and ALI mouse models, limited proteolysis-mass spectrometry identified HMGB1 as the primary binding target. PPD blocked inflammasome activation and interrupted HMGB1-TLR4 interaction. Molecular docking, dynamics simulations, and site mutagenesis verified that PPD stably binds the HMGB1 B-box domain. In vivo, PPD mitigated pulmonary damage, alleviated alveolar edema and inflammatory infiltration, lowered proinflammatory cytokines, and restrained HMGB1 secretion. In conclusion, PPD directly targets HMGB1 to block HMGB1-TLR4 inflammatory signaling. These data suggest PPD can serve as a promising functional food constituent for ALI prevention.",
+    "keywords": [
+      "Acute Lung Injury",
+      "HMGB1",
+      "NLRP3 inflammasome",
+      "Protopanaxadiol",
+      "TLR4"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Acute Lung Injury/drug therapy/genetics/immunology",
+      "*Sapogenins/administration & dosage/chemistry",
+      "*HMGB1 Protein/genetics/immunology/chemistry",
+      "Mice",
+      "Macrophages/drug effects/immunology",
+      "Toll-Like Receptor 4/genetics/immunology",
+      "*Inflammasomes/genetics/immunology/drug effects",
+      "Humans",
+      "Mice, Inbred C57BL",
+      "Male",
+      "Panax/chemistry",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Junyao",
+        "Li, Jing",
+        "Dai, Jiawei",
+        "Hu, Jianping",
+        "Wang, Yuhan",
+        "Yan, Pengrui",
+        "Wang, Honggang",
+        "Hu, Weicheng"
+      ],
+      "short_names": [
+        "Li J",
+        "Li J",
+        "Dai J",
+        "Hu J",
+        "Wang Y",
+        "Yan P",
+        "Wang H",
+        "Hu W"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7367-3968",
+        "ORCID: 0000-0002-6730-811X"
+      ],
+      "affiliations": [
+        "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China.",
+        "Key Laboratory of Medicinal and Edible Plants Resources Development of Sichuan Education Department, School of Pharmacy, Chengdu University, Chengdu610106, China.",
+        "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China.",
+        "Key Laboratory of Medicinal and Edible Plants Resources Development of Sichuan Education Department, School of Pharmacy, Chengdu University, Chengdu610106, China.",
+        "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China.",
+        "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China.",
+        "Department of Gastroenterology, The Affiliated Huaian No.1 People's Hospital of Nanjing Medical University, Huaian223300, China.",
+        "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Junyao",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jing",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Medicinal and Edible Plants Resources Development of Sichuan Education Department, School of Pharmacy, Chengdu University, Chengdu610106, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Jiawei",
+        "short_name": "Dai J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Jianping",
+        "short_name": "Hu J",
+        "identifiers": [
+          "0000-0001-7367-3968"
+        ],
+        "affiliations": [
+          "Key Laboratory of Medicinal and Edible Plants Resources Development of Sichuan Education Department, School of Pharmacy, Chengdu University, Chengdu610106, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuhan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Pengrui",
+        "short_name": "Yan P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Honggang",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, The Affiliated Huaian No.1 People's Hospital of Nanjing Medical University, Huaian223300, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Weicheng",
+        "short_name": "Hu W",
+        "identifiers": [
+          "0000-0002-6730-811X"
+        ],
+        "affiliations": [
+          "School of Basic Medicine, Faculty of Medicine, Yangzhou University, Yangzhou225009, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Nov 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:37",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43012722"
+    ],
+    "review": [
+      "43012722"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c02986",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

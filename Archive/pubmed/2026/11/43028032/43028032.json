@@ -1,0 +1,166 @@
+{
+  "identity": {
+    "pmid": "43028032",
+    "doi": "10.3390/ijms27219785",
+    "title": "Inositol-Dependent Alleviation of Lithium-Induced Embryonic Neurotoxicity in Mice Through the GSK3beta/beta-Catenin/CyclinD1 Pathway."
+  },
+  "content": {
+    "abstract": "Lithium carbonate (Li(2)CO(3)) is a first-line pharmacotherapy for bipolar disorder (BPD) in female patients of childbearing age, although it is associated with embryonic teratogenicity. Lithium exposure in batteries and pharmaceuticals has been a toxicity factor for women's reproductive health in energy, environment, and fitness fields. Neural tube defects (NTDs) are the severest reproductive outcome of maternal Li(2)CO(3) exposure. Currently, there is a lack of effective prevention for Li(2)CO(3) neurotoxicity. Our previous study revealed that lithium-induced murine NTDs correlated with enhanced proliferation and impaired inositol biosynthesis. In this study, 400 mg/kg inositol was used to treat the lithium-induced murine NTDs after calculating the toxicity using ADMETlab 3.0 and Deep-PK. We found that inositol supplementation ameliorated fetal neural phenotypes, crown-rump length, and body weight and rescued aberrant cell proliferation and dysregulated the GSK3beta/beta-catenin/CyclinD1 pathway in both animal and cellular models. The affinity of GSK3beta-inositol interaction was analyzed and validated using molecular dynamics and surface plasmon resonance. GSK3beta-edited cell models further revealed that inositol altered GSK3beta post-transcriptional status and phosphorylation, consequently modulating the GSK3beta/beta-catenin/CyclinD1 signaling cascade. Overall, our study clarified that inositol alleviates lithium-induced NTDs via the GSK3beta/beta-catenin/CyclinD1 pathway, revealed the direct molecular interaction between inositol and GSK3beta, and highlighted the potential of inositol as a therapeutic prevention against lithium-induced embryonic neurotoxicity for childbearing female BPD patients.",
+    "keywords": [
+      "GSK3beta/beta-catenin/CyclinD1 pathway",
+      "embryonic",
+      "inositol",
+      "intervention",
+      "lithium carbonate",
+      "neurotoxicity"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Inositol/pharmacology",
+      "*Glycogen Synthase Kinase 3 beta/metabolism/genetics",
+      "*beta Catenin/metabolism",
+      "Mice",
+      "Female",
+      "*Cyclin D1/metabolism",
+      "*Lithium Carbonate/toxicity/adverse effects",
+      "Signal Transduction/drug effects",
+      "*Neural Tube Defects/chemically induced/metabolism/drug therapy/prevention & control",
+      "Cell Proliferation/drug effects",
+      "*Neurotoxicity Syndromes/metabolism/drug therapy/etiology",
+      "*Lithium/toxicity",
+      "Pregnancy",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Shen",
+        "Guo, Jin",
+        "Wang, Xiuwei",
+        "Guan, Zhen",
+        "Zhu, Zhiqiang",
+        "Yang, Aiyun",
+        "Wang, Jianhua"
+      ],
+      "short_names": [
+        "Li S",
+        "Guo J",
+        "Wang X",
+        "Guan Z",
+        "Zhu Z",
+        "Yang A",
+        "Wang J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5143-0826",
+        "ORCID: 0000-0002-0586-4372"
+      ],
+      "affiliations": [
+        "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China.",
+        "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China.",
+        "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China.",
+        "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China.",
+        "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China.",
+        "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China.",
+        "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Shen",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jin",
+        "short_name": "Guo J",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiuwei",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0000-0001-5143-0826"
+        ],
+        "affiliations": [
+          "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Zhen",
+        "short_name": "Guan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhiqiang",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Aiyun",
+        "short_name": "Yang A",
+        "identifiers": [],
+        "affiliations": [
+          "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jianhua",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0000-0002-0586-4372"
+        ],
+        "affiliations": [
+          "Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Yabao Road, Chaoyang District, Beijing 100020, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43028032"
+    ],
+    "review": [
+      "43028032"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

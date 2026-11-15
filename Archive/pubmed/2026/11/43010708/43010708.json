@@ -1,0 +1,125 @@
+{
+  "identity": {
+    "pmid": "43010708",
+    "doi": "10.1002/cmdc.70571",
+    "title": "Molecular Dynamics Simulations Indicate Inhibitor-Induced Closure of the TEAD-YAP Interface 2."
+  },
+  "content": {
+    "abstract": "The interaction of TEAD with its cofactor YAP plays a crucial role in cancer. Several inhibitors have been described as binding to the P-site of TEAD, without directly interacting with the TEAD-YAP interfaces. However, the mechanism of action of those inhibitors remains not fully understood. In this study, we conducted an extensive analysis of available X-ray structures and found that allosteric effects of cocrystalized inhibitors in TEAD cannot be explained by the static information provided by these experimental structures. We then performed molecular dynamics simulations, which are consistent with inhibitors populating a closed conformation in between Y361 and S328, located at the YAP-TEAD binding interface 2. This effect is consistent among different inhibitors and different TEAD subtypes. Our simulations also suggest that YAP binding appears to be associated with the opening of this region, consistent with the effect of palmitic acid. These results support the hypothesis that P-site binders not only restrict protein dynamics but may also inhibit YAP binding by allosterically modulating YAP-TEAD interface 2.",
+    "keywords": [
+      "TEAD",
+      "computational chemistry",
+      "inhibitors",
+      "molecular dynamics",
+      "protein-protein inhibitors"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Transcription Factors/antagonists & inhibitors/metabolism/chemistry",
+      "Humans",
+      "TEA Domain Transcription Factors",
+      "*Adaptor Proteins, Signal Transducing/antagonists & inhibitors/metabolism/chemistry",
+      "Protein Binding",
+      "YAP-Signaling Proteins",
+      "Binding Sites/drug effects",
+      "Crystallography, X-Ray",
+      "*DNA-Binding Proteins/antagonists & inhibitors/metabolism/chemistry",
+      "Molecular Structure"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kaiser, Jesko",
+        "Gunera, Jakub",
+        "Heinrich, Timo"
+      ],
+      "short_names": [
+        "Kaiser J",
+        "Gunera J",
+        "Heinrich T"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6429-0911",
+        "ORCID: 0000-0001-9120-8410"
+      ],
+      "affiliations": [
+        "Medicinal Chemistry & Drug Design, Merck Healthcare KGaA, Darmstadt, Germany.",
+        "Medicinal Chemistry & Drug Design, Merck Healthcare KGaA, Darmstadt, Germany.",
+        "Medicinal Chemistry & Drug Design, Merck Healthcare KGaA, Darmstadt, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kaiser, Jesko",
+        "short_name": "Kaiser J",
+        "identifiers": [
+          "0000-0002-6429-0911"
+        ],
+        "affiliations": [
+          "Medicinal Chemistry & Drug Design, Merck Healthcare KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Gunera, Jakub",
+        "short_name": "Gunera J",
+        "identifiers": [],
+        "affiliations": [
+          "Medicinal Chemistry & Drug Design, Merck Healthcare KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Heinrich, Timo",
+        "short_name": "Heinrich T",
+        "identifiers": [
+          "0000-0001-9120-8410"
+        ],
+        "affiliations": [
+          "Medicinal Chemistry & Drug Design, Merck Healthcare KGaA, Darmstadt, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ChemMedChem"
+    ],
+    "journal_abbrev": [
+      "ChemMedChem"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:33",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43010708"
+    ],
+    "review": [
+      "43010708"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/cmdc.70571",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

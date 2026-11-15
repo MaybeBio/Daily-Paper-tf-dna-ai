@@ -1,0 +1,177 @@
+{
+  "identity": {
+    "pmid": "43008076",
+    "doi": "10.1093/jpp/rgag140",
+    "title": "Eupalinolide I derivative EJM alleviates experimental hyperuricemia through STAT1-associated regulation of intestinal inflammation and gut microbiota."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Hyperuricemia (HUA) is increasingly recognized as a systemic disorder involving metabolic dysregulation and chronic inflammation, with emerging evidence implicating the intestine as a key extra-renal site of urate handling. However, the molecular mechanisms linking intestinal inflammation, urate transport, and immune signaling in HUA remain incompletely understood. AIM: This study aimed to evaluate the anti-hyperuricemic effects of EJM, a synthetic derivative of eupalinolide I, and to explore its potential mechanisms with a particular focus on intestinal inflammation, urate transport, and immune-related signaling pathways. METHODS: HUA was induced in mice using potassium oxonate, yeast extract, and fructose. The effects of EJM were assessed via serum biochemistry, histopathology, Western blotting, and 16S rRNA sequencing. The direct target of EJM was identified using human proteome microarray and validated by cellular thermal shift assay and molecular docking. RESULTS: EJM significantly reduced serum uric acid levels and alleviated renal and intestinal pathological injury in hyperuricemic mice. Proteome microarray screening, molecular docking, and cellular thermal shift assay supported STAT1 as a binding target of EJM. EJM treatment was associated with attenuation of intestinal IFN-gamma/JAK/STAT1 pathway activation and reduced levels of pro-inflammatory cytokines, including IFN-gamma, IL-17A, IL-6, and TNF-alpha. These changes were accompanied by coordinated regulation of urate transporters: EJM downregulated renal URAT1 and GLUT9, reduced intestinal GLUT9, and upregulated ABCG2 in both kidney and intestine, thereby favoring urate excretion. In addition, EJM treatment partially reversed HUA-associated gut microbiota dysbiosis, with changes in microbial taxa related to intestinal inflammation and urate metabolism. CONCLUSION: EJM exhibits anti-hyperuricemic activity in experimental HUA. The findings suggest that STAT1-associated intestinal inflammatory regulation and urate transport modulation may contribute to its pharmacological effects, with gut microbiota changes occurring in parallel. Further functional validation is required to establish the causal roles of STAT1 signaling and microbiota remodeling.",
+    "keywords": [
+      "STAT1",
+      "gut microbiota",
+      "hyperuricemia",
+      "intestinal inflammation",
+      "uric acid transporters"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*STAT1 Transcription Factor/metabolism",
+      "Mice",
+      "*Hyperuricemia/drug therapy/metabolism",
+      "*Gastrointestinal Microbiome/drug effects",
+      "Male",
+      "Humans",
+      "Uric Acid/blood/metabolism",
+      "*Inflammation/drug therapy/metabolism",
+      "Disease Models, Animal",
+      "Signal Transduction/drug effects",
+      "Intestines/drug effects/pathology",
+      "Organic Anion Transporters/metabolism",
+      "Molecular Docking Simulation",
+      "Mice, Inbred C57BL"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yan, Lilin",
+        "Zhu, Zhimin",
+        "Xu, Yuanjian",
+        "Lin, Yudong",
+        "Xu, Zhaohui",
+        "Zhou, Mingmei"
+      ],
+      "short_names": [
+        "Yan L",
+        "Zhu Z",
+        "Xu Y",
+        "Lin Y",
+        "Xu Z",
+        "Zhou M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2552-4754"
+      ],
+      "affiliations": [
+        "Shanghai Traditional Chinese Medicine Integrated Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200082, China.",
+        "Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China.",
+        "Department of Traditional Chinese Medicine, Bao shan Branch of Renji Hospital Affilated to Medical College of Shanghai Jiaotong University (Dachang Hospital of Baoshan District of Shanghai), Shanghai 200444, China.",
+        "Department of Research, Hangzhou E&J Biomedical Technology Co., Ltd., Hangzhou 310000, China.",
+        "Shanghai Traditional Chinese Medicine Integrated Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200082, China.",
+        "Innovative Chinese Medicine Research Institute, Engineering Research Center of Modern Preparation Technology of Traditional Chinese Medicine, Ministry of Education, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China.",
+        "Shanghai Traditional Chinese Medicine Integrated Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200082, China.",
+        "Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yan, Lilin",
+        "short_name": "Yan L",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Traditional Chinese Medicine Integrated Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200082, China.",
+          "Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhimin",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Traditional Chinese Medicine, Bao shan Branch of Renji Hospital Affilated to Medical College of Shanghai Jiaotong University (Dachang Hospital of Baoshan District of Shanghai), Shanghai 200444, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yuanjian",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Research, Hangzhou E&J Biomedical Technology Co., Ltd., Hangzhou 310000, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yudong",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Traditional Chinese Medicine Integrated Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200082, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Zhaohui",
+        "short_name": "Xu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Innovative Chinese Medicine Research Institute, Engineering Research Center of Modern Preparation Technology of Traditional Chinese Medicine, Ministry of Education, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Mingmei",
+        "short_name": "Zhou M",
+        "identifiers": [
+          "0000-0002-2552-4754"
+        ],
+        "affiliations": [
+          "Shanghai Traditional Chinese Medicine Integrated Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200082, China.",
+          "Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of pharmacy and pharmacology"
+    ],
+    "journal_abbrev": [
+      "J Pharm Pharmacol"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 18:06",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43008076"
+    ],
+    "review": [
+      "43008076"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-STAT1-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/jpp/article-lookup/doi/10.1093/jpp/rgag140",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

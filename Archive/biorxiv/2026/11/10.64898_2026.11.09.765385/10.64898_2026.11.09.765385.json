@@ -1,0 +1,161 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.09.765385",
+  "title": "The SOX9 C-terminus encodes a transferable cBAF-recruitment module for enhancer remodeling and cell-state control",
+  "doi": "10.64898/2026.11.09.765385",
+  "abstract": "Transcription factors select genomic targets, but how they recruit chromatin remodelers to convert DNA occupancy into cell-state-specific accessibility remains unclear. Here, we identify an intrinsically disordered SOX9 C-terminal module that recruits SMARCB1-containing canonical BAF (cBAF) to stem-like enhancers that open during APC-mutant adenoma formation. Acute, reversible SOX9 degradation displaces cBAF from ~80% of co-bound enhancers, exceeding effects on pBAF and ncBAF, and collapses accessibility and stem-like identity; SOX9 re-expression restores these features. C-terminal truncation preserves DNA binding but disrupts cBAF engagement and chromatin opening. Enforced SMARCB1 docking to truncated SOX9 partially restores cBAF recruitment, accessibility, stem-like transcription, and organoid self-renewal, identifying remodeler recruitment as a limiting effector function. The isolated C-terminus supports higher-order cBAF assembly and, when fused to dCas9 as COMET, redirects endogenous cBAF to targeted loci to open chromatin. Disordered TF regions can therefore encode transferable instructions that deploy specific remodeling complexes to control cell state.",
+  "authors": [
+    "Raghawan AK",
+    "Li Z",
+    "Huang Y",
+    "Wang X",
+    "Doan P",
+    "Gudipudi AC",
+    "Conway C",
+    "Kositbovornchai S",
+    "Hsiang E",
+    "Lie PYP",
+    "Cleary JM",
+    "Sethi NS"
+  ],
+  "published_date": "2026-11-12",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765385",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765385.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1366117",
+    "raw_record": {
+      "id": "PPR1366117",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.09.765385",
+      "title": "The SOX9 C-terminus encodes a transferable cBAF-recruitment module for enhancer remodeling and cell-state control",
+      "authorString": "Raghawan AK, Li Z, Huang Y, Wang X, Doan P, Gudipudi AC, Conway C, Kositbovornchai S, Hsiang E, Lie PYP, Cleary JM, Sethi NS.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Raghawan AK",
+            "lastName": "Raghawan",
+            "firstName": "Akhouri",
+            "initials": "AK"
+          },
+          {
+            "fullName": "Li Z",
+            "lastName": "Li",
+            "firstName": "Zhixin",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Huang Y",
+            "lastName": "Huang",
+            "firstName": "Yingbo",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Wang X",
+            "lastName": "Wang",
+            "firstName": "Xiaolu",
+            "initials": "X"
+          },
+          {
+            "fullName": "Doan P",
+            "lastName": "Doan",
+            "firstName": "Paul",
+            "initials": "P"
+          },
+          {
+            "fullName": "Gudipudi AC",
+            "lastName": "Gudipudi",
+            "firstName": "Anoushka",
+            "initials": "AC"
+          },
+          {
+            "fullName": "Conway C",
+            "lastName": "Conway",
+            "firstName": "Caroline",
+            "initials": "C"
+          },
+          {
+            "fullName": "Kositbovornchai S",
+            "lastName": "Kositbovornchai",
+            "firstName": "Supakrit",
+            "initials": "S"
+          },
+          {
+            "fullName": "Hsiang E",
+            "lastName": "Hsiang",
+            "firstName": "Evan",
+            "initials": "E"
+          },
+          {
+            "fullName": "Lie PYP",
+            "lastName": "Lie",
+            "firstName": "Pearl",
+            "initials": "PYP"
+          },
+          {
+            "fullName": "Cleary JM",
+            "lastName": "Cleary",
+            "firstName": "James",
+            "initials": "JM"
+          },
+          {
+            "fullName": "Sethi NS",
+            "lastName": "Sethi",
+            "firstName": "Nilay",
+            "initials": "NS"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Transcription factors select genomic targets, but how they recruit chromatin remodelers to convert DNA occupancy into cell-state-specific accessibility remains unclear. Here, we identify an intrinsically disordered SOX9 C-terminal module that recruits SMARCB1-containing canonical BAF (cBAF) to stem-like enhancers that open during APC-mutant adenoma formation. Acute, reversible SOX9 degradation displaces cBAF from ~80% of co-bound enhancers, exceeding effects on pBAF and ncBAF, and collapses accessibility and stem-like identity; SOX9 re-expression restores these features. C-terminal truncation preserves DNA binding but disrupts cBAF engagement and chromatin opening. Enforced SMARCB1 docking to truncated SOX9 partially restores cBAF recruitment, accessibility, stem-like transcription, and organoid self-renewal, identifying remodeler recruitment as a limiting effector function. The isolated C-terminus supports higher-order cBAF assembly and, when fused to dCas9 as COMET, redirects endogenous cBAF to targeted loci to open chromatin. Disordered TF regions can therefore encode transferable instructions that deploy specific remodeling complexes to control cell state.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.11.09.765385"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-13",
+      "firstPublicationDate": "2026-11-12",
+      "firstIndexDate": "2026-11-13",
+      "hasEvaluations": "N"
+    }
+  }
+}

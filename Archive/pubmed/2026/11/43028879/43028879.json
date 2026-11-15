@@ -1,0 +1,151 @@
+{
+  "identity": {
+    "pmid": "43028879",
+    "doi": "10.3390/plants15213268",
+    "title": "MicroRNA Gatekeepers: Integrating Growth, Development, and Stress Adaptation in Cotton."
+  },
+  "content": {
+    "abstract": "As the primary cash crop for natural fiber, cotton develops under sophisticated endogenous genetic programs, with biotic and abiotic stresses continuously driving its adaptive evolution. MicroRNAs (miRNAs) are post-transcriptional regulators that modulate gene expression via target mRNA cleavage, translational repression, and mediation of DNA methylation. miRNAs target transcription factors and hormone signaling pathways to regulate cotton plant architecture and fiber development. In addition, miRNAs mitigate biotic and abiotic stresses through ROS, lignin, and hormone pathways, as well as by forming competing endogenous RNA (ceRNA) modules with long noncoding RNAs (lncRNAs). This review establishes an miRNA-centered regulatory framework that coordinates cotton growth, development, and stress resistance. A series of technologies, including multi-omics combined with machine learning, gene overexpression, STTM, MIM, MIGS, CRISPR editing, foliar dsRNA spraying, and bionanocarriers, are proposed to facilitate the breeding of cotton varieties with high yield, superior fiber quality, and broad-spectrum stress tolerance.",
+    "keywords": [
+      "MicroRNA",
+      "abiotic stress",
+      "biotic stress",
+      "cotton",
+      "developmental control"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Jiarui",
+        "Wang, Xuan",
+        "Qin, Jiawang",
+        "Wu, Yifan",
+        "Wei, Mengyao",
+        "Li, Chaofan",
+        "Jia, Yanfeng"
+      ],
+      "short_names": [
+        "Li J",
+        "Wang X",
+        "Qin J",
+        "Wu Y",
+        "Wei M",
+        "Li C",
+        "Jia Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-8672-623X",
+        "ORCID: 0000-0002-5030-2651"
+      ],
+      "affiliations": [
+        "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China.",
+        "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China.",
+        "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China.",
+        "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China.",
+        "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China.",
+        "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China.",
+        "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Jiarui",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xuan",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0009-0000-8672-623X"
+        ],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Jiawang",
+        "short_name": "Qin J",
+        "identifiers": [],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yifan",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Mengyao",
+        "short_name": "Wei M",
+        "identifiers": [],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China."
+        ]
+      },
+      {
+        "full_name": "Li, Chaofan",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Yanfeng",
+        "short_name": "Jia Y",
+        "identifiers": [
+          "0000-0002-5030-2651"
+        ],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumqi 830046, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plants (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Plants (Basel)"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43028879"
+    ],
+    "review": [
+      "43028879"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

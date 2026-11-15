@@ -1,0 +1,200 @@
+{
+  "identity": {
+    "pmid": "43029319",
+    "doi": "10.3390/molecules31214007",
+    "title": "Isoliquiritigenin Modulates Quorum Sensing-Associated Neutrophil Extracellular Trap Formation in COPD Isolate Pseudomonas aeruginosa."
+  },
+  "content": {
+    "abstract": "We characterize a virulent COPD isolate, P. aeruginosa RS85, as a potential inducer of NET, and demonstrate the ameliorating impacts of isoliquiritigenin (ISL) on bacterial quorum sensing (QS) and neutrophil responses. Low doses of ISL exhibited anti-quorum sensing (AQS) activities on P. aeruginosa RS85 and PAO1, while its high dose was found to be bactericidal. Significantly high amounts of ROS and NETosis were observed in neutrophils when treated with the live cells and secretome of clinical P. aeruginosa, whereas P. aeruginosa PAO1-JP2 elicited markedly reduced responses. RS85 secretome promoted pulmonary NET formation, recruitment of inflammatory cells, alveolar destruction, and emphysema-like pathology in mouse lungs in vivo. The introduction of ISL inhibited cell- and secretome-mediated ROS and NETosis to the levels observed in PAO1-JP2. ISL treatment constrained NETosis, the co-localization of myeloperoxidase and citrullinated histone H3, lung inflammatory damage and structural damage in vivo. The molecular docking of ISL with bacterial QS (LasR and RhlR) and neutrophil NADPH oxidase assembly (p47phox and NOX2) proteins showed strong ligand binding, substantiating interference in QS signaling and ROS generation pathways. This study identifies potential QS-regulated secretory virulence in clinical P. aeruginosa driving NETosis, and demonstrates the ISL-mediated amelioration of NETs and bacterial QS.",
+    "keywords": [
+      "Chronic Obstructive Pulmonary Disease",
+      "NETosis",
+      "Pseudomonas aeruginosa",
+      "isoliquiritigenin",
+      "quorum sensing"
+    ],
+    "mesh_terms": [
+      "*Pseudomonas aeruginosa/drug effects/isolation & purification/pathogenicity",
+      "*Quorum Sensing/drug effects",
+      "*Chalcones/pharmacology/chemistry",
+      "*Extracellular Traps/drug effects/metabolism",
+      "Animals",
+      "Humans",
+      "Neutrophils/drug effects/metabolism",
+      "Reactive Oxygen Species/metabolism",
+      "*Pulmonary Disease, Chronic Obstructive/microbiology/drug therapy/metabolism",
+      "Mice",
+      "Bacterial Proteins/metabolism/chemistry",
+      "*Pseudomonas Infections/drug therapy/microbiology",
+      "Molecular Docking Simulation",
+      "NADPH Oxidases/metabolism",
+      "Trans-Activators/metabolism/chemistry",
+      "Lung/pathology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dhanyashree, Honagodu Ravichandra",
+        "Charavu, Rakshitha",
+        "Hameed, Asif",
+        "Karthika, Kizhakkumkara",
+        "Mynalli, Adarsh Basavaraj",
+        "Surya, Suprith",
+        "Bhandary, Yashodhar Prabhakar",
+        "Shastry, Rajesh Padumane"
+      ],
+      "short_names": [
+        "Dhanyashree HR",
+        "Charavu R",
+        "Hameed A",
+        "Karthika K",
+        "Mynalli AB",
+        "Surya S",
+        "Bhandary YP",
+        "Shastry RP"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-3115-8016",
+        "ORCID: 0000-0003-4445-7080",
+        "ORCID: 0009-0002-4788-3579",
+        "ORCID: 0000-0003-2706-2714",
+        "ORCID: 0000-0002-9753-6746",
+        "ORCID: 0000-0002-2121-3561",
+        "ORCID: 0000-0001-8627-9759"
+      ],
+      "affiliations": [
+        "Division of Microbiology and Biotechnology, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Division of Cell Biology and Molecular Genetics, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Division of Microbiology and Biotechnology, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Anaerobic & Translational Genomics Centre (ATGC), Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Caenorhabditis elegans Laboratory Facility (CeLF), Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Division of Microbiology and Biotechnology, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Department of Respiratory Medicine, Yenepoya Medical College Hospital, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Advanced Surgical Skill ENhancement Division (ASSEND), Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Division of Cell Biology and Molecular Genetics, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Division of Microbiology and Biotechnology, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Anaerobic & Translational Genomics Centre (ATGC), Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+        "Caenorhabditis elegans Laboratory Facility (CeLF), Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dhanyashree, Honagodu Ravichandra",
+        "short_name": "Dhanyashree HR",
+        "identifiers": [
+          "0009-0005-3115-8016"
+        ],
+        "affiliations": [
+          "Division of Microbiology and Biotechnology, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+        ]
+      },
+      {
+        "full_name": "Charavu, Rakshitha",
+        "short_name": "Charavu R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell Biology and Molecular Genetics, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+        ]
+      },
+      {
+        "full_name": "Hameed, Asif",
+        "short_name": "Hameed A",
+        "identifiers": [
+          "0000-0003-4445-7080"
+        ],
+        "affiliations": [
+          "Division of Microbiology and Biotechnology, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+          "Anaerobic & Translational Genomics Centre (ATGC), Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+          "Caenorhabditis elegans Laboratory Facility (CeLF), Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+        ]
+      },
+      {
+        "full_name": "Karthika, Kizhakkumkara",
+        "short_name": "Karthika K",
+        "identifiers": [
+          "0009-0002-4788-3579"
+        ],
+        "affiliations": [
+          "Division of Microbiology and Biotechnology, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+        ]
+      },
+      {
+        "full_name": "Mynalli, Adarsh Basavaraj",
+        "short_name": "Mynalli AB",
+        "identifiers": [
+          "0000-0003-2706-2714"
+        ],
+        "affiliations": [
+          "Department of Respiratory Medicine, Yenepoya Medical College Hospital, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+        ]
+      },
+      {
+        "full_name": "Surya, Suprith",
+        "short_name": "Surya S",
+        "identifiers": [
+          "0000-0002-9753-6746"
+        ],
+        "affiliations": [
+          "Advanced Surgical Skill ENhancement Division (ASSEND), Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+        ]
+      },
+      {
+        "full_name": "Bhandary, Yashodhar Prabhakar",
+        "short_name": "Bhandary YP",
+        "identifiers": [
+          "0000-0002-2121-3561"
+        ],
+        "affiliations": [
+          "Division of Cell Biology and Molecular Genetics, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+        ]
+      },
+      {
+        "full_name": "Shastry, Rajesh Padumane",
+        "short_name": "Shastry RP",
+        "identifiers": [
+          "0000-0001-8627-9759"
+        ],
+        "affiliations": [
+          "Division of Microbiology and Biotechnology, Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+          "Anaerobic & Translational Genomics Centre (ATGC), Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India.",
+          "Caenorhabditis elegans Laboratory Facility (CeLF), Yenepoya Research Centre, Yenepoya (Deemed to Be University), Deralakatte, Mangalore 575018, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Nov 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43029319"
+    ],
+    "review": [
+      "43029319"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

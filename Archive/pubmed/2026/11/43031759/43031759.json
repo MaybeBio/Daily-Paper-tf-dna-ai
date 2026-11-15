@@ -1,0 +1,89 @@
+{
+  "identity": {
+    "pmid": "43031759",
+    "doi": "10.3389/fphar.2026.1955945",
+    "title": "Machine-learning-assisted target prioritization and experimental validation of the neoeriocitrin-mTOR axis in impaired osteogenic differentiation."
+  },
+  "content": {
+    "abstract": "Neoeriocitrin (NEO) is a citrus-derived flavonoid with potential osteoprotective activity, but its pharmacological targets and mechanisms in impaired osteogenic differentiation remain unclear. Osteoporosis-related differentially expressed genes were intersected with predicted NEO targets, and least absolute shrinkage and selection operator regression, random forest, and support vector machine analyses consistently prioritized MTOR for mechanistic investigation. Molecular docking predicted a favorable binding pose of NEO at the 12-kDa FK506-binding protein (FKBP12)-mTOR FKBP12-rapamycin-binding (FRB) interface, while the cellular thermal shift assay (CETSA) demonstrated increased cellular thermal stability of mTOR following NEO treatment, supporting an mTOR-associated intracellular effect. In dexamethasone-treated bone marrow mesenchymal stem cells, NEO dose-dependently restored alkaline phosphatase activity, mineralized nodule formation, and the expression of runt-related transcription factor 2 (RUNX2), osteopontin (OPN), and alkaline phosphatase (ALP). NEO also enhanced autophagic flux, increased the microtubule-associated protein 1 light chain 3 beta (LC3B)-II/LC3B-I ratio, reduced p62 expression, and suppressed dexamethasone-induced phosphorylation of mechanistic target of rapamycin (mTOR) and ribosomal protein S6 kinase 1 (S6K1). Pharmacological inhibition of autophagy with 3-methyladenine (3-MA) and mTOR overexpression both attenuated the pro-osteogenic effects of NEO. Collectively, these findings support an mTORC1-associated S6K1 signaling mechanism linking NEO treatment to autophagy regulation and osteogenic differentiation. NEO may therefore represent a candidate natural compound for further preclinical investigation in osteoporosis-related bone loss.",
+    "keywords": [
+      "autophagy",
+      "mTOR",
+      "machine learning",
+      "neoeriocitrin",
+      "osteogenic differentiation",
+      "osteoporosis",
+      "target validation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yuhao",
+        "Luo, Jianguang"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Luo J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Spinal Surgery Department, Ningbo Zhenhai People's Hospital (Ningbo Seventh Hospital), Ningbo City, Zhenhai District, China.",
+        "Spinal Surgery Department, Ningbo Zhenhai People's Hospital (Ningbo Seventh Hospital), Ningbo City, Zhenhai District, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yuhao",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Spinal Surgery Department, Ningbo Zhenhai People's Hospital (Ningbo Seventh Hospital), Ningbo City, Zhenhai District, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Jianguang",
+        "short_name": "Luo J",
+        "identifiers": [],
+        "affiliations": [
+          "Spinal Surgery Department, Ningbo Zhenhai People's Hospital (Ningbo Seventh Hospital), Ningbo City, Zhenhai District, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in pharmacology"
+    ],
+    "journal_abbrev": [
+      "Front Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:33",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43031759"
+    ],
+    "review": [
+      "43031759"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

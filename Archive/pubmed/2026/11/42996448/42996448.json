@@ -1,0 +1,136 @@
+{
+  "identity": {
+    "pmid": "42996448",
+    "doi": "10.3389/fimmu.2026.1924426",
+    "title": "Carbonic anhydrase 4 restrains dual TLR4-NF-kappaB/IRF3 innate immune signaling and epithelial-mesenchymal transition in methotrexate-induced pulmonary fibrosis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Methotrexate (MTX)-induced pulmonary fibrosis (MTX-PF) is the most severe and frequently irreversible manifestation of MTX pulmonary toxicity, yet the molecular target and signaling circuitry linking drug exposure to fibrosis remain undefined, hampering diagnosis and targeted intervention. METHODS: We integrated network toxicology, an ensemble of 112 machine-learning classifiers and SHapley Additive exPlanations (SHAP) with six GEO cohorts to nominate fibrotic-lung genes, which were intersected with predicted MTX targets to prioritize candidates relevant to MTX-PF. Lead candidates were validated by molecular docking, 100-ns molecular dynamics simulation, MM-PBSA binding free energy calculation and surface plasmon resonance (SPR). In vivo MTX-induced mouse models and in vitro BEAS-2B assays, including the Transwell migration/invasion, EdU proliferation, immunofluorescence, RT-qPCR, Western blotting, CA4 and TLR4 overexpression, and a CA4/TLR4 co-overexpression rescue experiment, were performed to assess the regulatory role of the top-ranked gene. RESULTS: Carbonic anhydrase 4 (CA4) ranked first by SHAP importance (0.120) and diagnostic performance (AUC = 0.879); the Ridge model discriminated training and validation cohorts (AUC = 0.930, 0.897 and 0.864). MTX bound stably to CA4 in silico (Vina -7.078 kcal/mol; MM-PBSA DeltaG(bind) -76.5 kJ/mol), and SPR detected concentration-dependent binding to recombinant CA4 (K(D) = 6.25 muM), identifying CA4 as a candidate direct binding partner. In MTX-treated mice, CA4 was downregulated while TLR4, collagen deposition and serum TNF-alpha, IL-6, IL-1beta, IFN-alpha and IFN-beta were elevated. In BEAS-2B cells, CA4 overexpression suppressed migration, invasion and proliferation, reversed MTX-induced upregulation of TLR4, NF-kappaB, IRF3, VIM, FN1 and COL1A1, and restored E-cadherin. Forced TLR4 overexpression reversed the protective effect of CA4 and re-established the inflammatory and mesenchymal phenotype. CONCLUSION: In MTX-PF, MTX directly binds CA4 in vitro. CA4 loss accompanies coordinate upregulation of the TLR4-NF-kappaB/IRF3 axis and an EMT program coupling epithelial injury to fibrogenesis, and CA4 restoration reverses this program in epithelial cells. Although TLR4 gain-of-function abrogated CA4-mediated suppression, its causal necessity remains untested. Given that TLR4 signaling is context-dependent and can facilitate inflammation resolution in some fibrosis models, therapeutic blockade requires careful attention to cell type and timing. CA4 thus represents a candidate molecular correlate and experimental target, pending clinical and in vivo validation.",
+    "keywords": [
+      "TLR4-NF-kappaB/IRF3 signaling",
+      "carbonic anhydrase 4",
+      "epithelial-mesenchymal transition",
+      "methotrexate-induced pulmonary fibrosis",
+      "network toxicology"
+    ],
+    "mesh_terms": [
+      "*Toll-Like Receptor 4/metabolism",
+      "Animals",
+      "*Pulmonary Fibrosis/chemically induced/pathology/metabolism/immunology",
+      "*Epithelial-Mesenchymal Transition/drug effects",
+      "Signal Transduction/immunology",
+      "*NF-kappa B/metabolism",
+      "Mice",
+      "Humans",
+      "*Methotrexate/adverse effects",
+      "*Immunity, Innate",
+      "Male",
+      "Molecular Docking Simulation",
+      "Disease Models, Animal"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Ying",
+        "Fan, Rui"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Fan R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pulmonary Medicine, Xiangyang Hospital affiliated to Hubei University of Chinese Medicine, Xiangyang, Hubei, China.",
+        "Hubei Provincial Clinical Research Center for Integrative Medicine in Cancer Green Therapy, Xiangyang, Hubei, China.",
+        "Department of Respiratory and Critical Care Medicine, Shandong Provincial Hospital, Jinan, Shandong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Ying",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary Medicine, Xiangyang Hospital affiliated to Hubei University of Chinese Medicine, Xiangyang, Hubei, China.",
+          "Hubei Provincial Clinical Research Center for Integrative Medicine in Cancer Green Therapy, Xiangyang, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Rui",
+        "short_name": "Fan R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Shandong Provincial Hospital, Jinan, Shandong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-15 09:05:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42996448"
+    ],
+    "review": [
+      "42996448"
+    ],
+    "pmc": [
+      "13739562"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/pulmonaryfibrosis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Pulmonary Fibrosis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42996448/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1924426",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "identity": {
+    "pmid": "43002322",
+    "doi": "10.1007/s12031-026-02625-7",
+    "title": "Integrative Network Pharmacology and Transcriptomic Analysis Prioritizes CCR1 and C5AR1 as Candidate Thromboinflammatory Targets Shared by Panax notoginseng Saponins and Stroke-Relevant Drugs in Ischemic Stroke."
+  },
+  "content": {
+    "abstract": "Thromboinflammation is a central pathological process contributing to secondary brain injury after ischemic stroke (IS). Panax notoginseng saponins (PNS) exert pleiotropic anti-inflammatory, antithrombotic, and vascular effects, but the molecular convergence between PNS-associated pharmacology and stroke-relevant conventional agents remains incompletely characterized. We integrated network pharmacology, bulk transcriptomic datasets, single-cell RNA sequencing, regulatory-network analysis, and structure-based molecular docking to prioritize candidate targets shared by PNS and an exploratory screening panel of 16 stroke-relevant pharmacological agents. Predicted drug and PNS targets were intersected with IS-associated differentially expressed genes (DEGs), followed by network analysis, independent cross-dataset expression assessment, gene-set enrichment analysis (GSEA), transcription-factor (TF) prediction with co-expression analysis, myeloid-cell sub-clustering, and GNINA docking. The screening framework yielded 79 shared predicted pharmacological targets and 10 disease-associated candidates: ITK, CDK2, C5AR1, VDR, S1PR2, KIF11, CCR1, FAP, PRKCD, and MAOA. CCR1 and C5AR1 were prioritized because they combined high network connectivity with consistent disease-associated expression across the analyzed datasets and strong links to thromboinflammatory pathways. BATF2 and SPI1 expression positively correlated with both C5AR1 and CCR1 in GSE56267. Myeloid sub-clustering further showed that C5ar1 was broadly distributed across stroke-associated microglial and monocyte/macrophage states, whereas Ccr1 was more restricted to activated inflammatory and infiltrating myeloid populations. GNINA docking of all fourteen network-defined receptor-ligand systems identified five complexes with docking affinity scores between - 8.06 and - 10.94 kcal/mol (ginsenosides Rd and Re at CCR1; notoginsenoside R1, ginsenoside Rg1, and ginsenoside Rd at C5AR1). Collectively, these analyses prioritize CCR1 and C5AR1 as convergent candidate thromboinflammatory nodes shared by PNS-associated and stroke-relevant pharmacological target spaces. The findings are hypothesis-generating and do not establish pharmacological synergy, direct receptor coupling, or causal therapeutic mechanisms.",
+    "keywords": [
+      "Panax notoginseng saponins",
+      "C5AR1",
+      "CCR1",
+      "Ischemic stroke",
+      "Network pharmacology",
+      "Single-cell transcriptomics",
+      "Thromboinflammation"
+    ],
+    "mesh_terms": [
+      "*Receptors, CCR1/metabolism/genetics/chemistry",
+      "*Panax notoginseng/chemistry",
+      "*Ischemic Stroke/drug therapy/metabolism/genetics",
+      "*Saponins/pharmacology/therapeutic use/chemistry",
+      "Humans",
+      "*Receptor, Anaphylatoxin C5a/metabolism/genetics/chemistry",
+      "Network Pharmacology",
+      "Animals",
+      "Molecular Docking Simulation",
+      "*Anti-Inflammatory Agents/pharmacology/therapeutic use"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Genhui",
+        "Ye, Ying",
+        "Zheng, Ronghui",
+        "Xie, Qian",
+        "Li, Fei",
+        "Yang, Wei"
+      ],
+      "short_names": [
+        "Chen G",
+        "Ye Y",
+        "Zheng R",
+        "Xie Q",
+        "Li F",
+        "Yang W"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-8449-8017",
+        "ORCID: 0009-0004-7078-424X",
+        "ORCID: 0000-0003-2138-5563"
+      ],
+      "affiliations": [
+        "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China. chengenhuid@163.com.",
+        "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China.",
+        "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China.",
+        "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China.",
+        "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China. 17563241@qq.com.",
+        "College of Environmental Sciences and Engineering, Peking University, Beijing, 100871, P.R. China. dreammyeverydream@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Genhui",
+        "short_name": "Chen G",
+        "identifiers": [
+          "0009-0004-8449-8017"
+        ],
+        "affiliations": [
+          "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China. chengenhuid@163.com."
+        ]
+      },
+      {
+        "full_name": "Ye, Ying",
+        "short_name": "Ye Y",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Ronghui",
+        "short_name": "Zheng R",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xie, Qian",
+        "short_name": "Xie Q",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Fei",
+        "short_name": "Li F",
+        "identifiers": [
+          "0009-0004-7078-424X"
+        ],
+        "affiliations": [
+          "Chongqing University Qianjiang Hospital (Qianjiang Central Hospital of Chongqing), 360 South Section of Zhengzhou Road, Qianjiang District, Chongqing, 409000, P.R. China. 17563241@qq.com."
+        ]
+      },
+      {
+        "full_name": "Yang, Wei",
+        "short_name": "Yang W",
+        "identifiers": [
+          "0000-0003-2138-5563"
+        ],
+        "affiliations": [
+          "College of Environmental Sciences and Engineering, Peking University, Beijing, 100871, P.R. China. dreammyeverydream@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular neuroscience : MN"
+    ],
+    "journal_abbrev": [
+      "J Mol Neurosci"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 17:30",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43002322"
+    ],
+    "review": [
+      "43002322"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/ischemicstroke.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Ischemic Stroke"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s12031-026-02625-7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-999",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

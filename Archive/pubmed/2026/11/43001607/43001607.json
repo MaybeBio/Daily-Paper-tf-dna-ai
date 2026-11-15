@@ -1,0 +1,148 @@
+{
+  "identity": {
+    "pmid": "43001607",
+    "doi": "10.1002/pro.70855",
+    "title": "The Scm FCS finger binds the Pcl Tudor domain to link canonical PRC1 and PRC2.1 in Drosophila."
+  },
+  "content": {
+    "abstract": "Canonical Polycomb Repressive Complex 1 (PRC1) was previously reported to selectively associate with Polycomb Repressive Complex 2.1 (PRC2.1) in cross-linking-based affinity purification experiments from Drosophila embryos, but the molecular basis of this interaction has remained unresolved. Here, we established an affinity-purification strategy using cryo-milled Drosophila embryos that recovers intact canonical PRC1 together with the complete PRC2.1 complex without chemical cross-linking. Using AlphaFold3 to systematically model interactions between canonical PRC1 and PRC2.1 subunits, we identified a single high-confidence interface between the FCS finger of the canonical PRC1 accessory subunit Sex comb on midleg (Scm) and the atypical Tudor domain of the PRC2.1 accessory subunit Polycomblike (Pcl). Recombinant Scm FCS finger and Pcl Tudor domain formed a stable complex in vitro, as demonstrated by size-exclusion chromatography and native mass spectrometry. Structure-guided mutagenesis validated the predicted interface: point mutations in either interaction partner abolished complex formation, whereas complementary charge-reversal mutations restored binding. These findings identify the Scm-Pcl interaction as the molecular basis for the selective association between canonical PRC1 and PRC2.1 in Drosophila and reveal that communication between these complexes is mediated by a direct interaction between these accessory subunits.",
+    "keywords": [
+      "Drosophila",
+      "FCS zinc finger",
+      "PRC1",
+      "PRC2",
+      "Polycomb",
+      "Tudor domain"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Drosophila Proteins/chemistry/metabolism/genetics",
+      "*Polycomb Repressive Complex 1/chemistry/metabolism/genetics",
+      "*Polycomb Repressive Complex 2/chemistry/metabolism/genetics",
+      "Protein Binding",
+      "Tudor Domain",
+      "Models, Molecular",
+      "*Drosophila melanogaster/metabolism/chemistry/genetics",
+      "Histone-Lysine N-Methyltransferase",
+      "Polycomb-Group Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yesil, Berfin",
+        "Steigenberger, Barbara",
+        "Bonnet, Jacques",
+        "Muller, Jurg"
+      ],
+      "short_names": [
+        "Yesil B",
+        "Steigenberger B",
+        "Bonnet J",
+        "Muller J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0124-9719",
+        "ORCID: 0000-0002-0458-6964",
+        "ORCID: 0000-0003-2391-4641"
+      ],
+      "affiliations": [
+        "Max-Planck Institute of Biochemistry, Laboratory of Chromatin Biology, Martinsried, Germany.",
+        "Max-Planck Institute of Biochemistry, Mass Spectrometry Core Facility, Martinsried, Germany.",
+        "Max-Planck Institute of Biochemistry, Laboratory of Chromatin Biology, Martinsried, Germany.",
+        "Max-Planck Institute of Biochemistry, Laboratory of Chromatin Biology, Martinsried, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yesil, Berfin",
+        "short_name": "Yesil B",
+        "identifiers": [
+          "0000-0002-0124-9719"
+        ],
+        "affiliations": [
+          "Max-Planck Institute of Biochemistry, Laboratory of Chromatin Biology, Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Steigenberger, Barbara",
+        "short_name": "Steigenberger B",
+        "identifiers": [],
+        "affiliations": [
+          "Max-Planck Institute of Biochemistry, Mass Spectrometry Core Facility, Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Bonnet, Jacques",
+        "short_name": "Bonnet J",
+        "identifiers": [
+          "0000-0002-0458-6964"
+        ],
+        "affiliations": [
+          "Max-Planck Institute of Biochemistry, Laboratory of Chromatin Biology, Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Müller, Jürg",
+        "short_name": "Müller J",
+        "identifiers": [
+          "0000-0003-2391-4641"
+        ],
+        "affiliations": [
+          "Max-Planck Institute of Biochemistry, Laboratory of Chromatin Biology, Martinsried, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 11:43",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43001607"
+    ],
+    "review": [
+      "43001607"
+    ],
+    "pmc": [
+      "13746325"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43001607/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70855",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "identity": {
+    "pmid": "43028257",
+    "doi": "10.3390/ijms272110013",
+    "title": "Activity of Fluoro-Substituted 3,5-Di[(E)-Benzylidene]piperidin-4-Ones with N-Arylsulfonyl Appendages Against KRAS-Mutant Pancreatic Ductal Adenocarcinoma Cells."
+  },
+  "content": {
+    "abstract": "KRAS-mutant pancreatic ductal adenocarcinoma (PDAC) is characterized by a high mortality that still lacks efficient therapies. Monoketone-based bisarylidene curcuminoid derivatives have shown promising activities against various PDAC models. Based on our previous findings on anticancer-active N-acryloyl-modified piperidin-4-one derivatives, we replaced the reactive acryloyl moiety by a series of N-arylsulfonyl bis-difluoro/trifluoromethylbenzylidene piperidin-4-one derivatives and tested them for antiproliferative activity against KRAS-mutant PDAC cells. Furthermore, apoptosis induction based on caspase-3/7 activation and STAT3 inhibition were investigated for the most promising compound. Notably, the N-tosyl derivative 3a with 4-trifluoromethyl substituents at the benzylidene rings exhibited the highest antiproliferative activities against PDAC cells (IC(50) = 0.22-0.26 microM, 48 h). Derivative 3a also strongly induced apoptosis in PDAC cells and suppressed STAT3 activation/phosphorylation, which was supported by molecular docking of this curcuminoid into the SH2 domain of STAT3 and by 3a-STAT3 binding confirmed using CETSA in MiaPaCa-2 cells. These findings identify compound 3a as a promising lead for further preclinical evaluation in KRAS-mutant PDAC models and in other STAT3-dependent cancer types.",
+    "keywords": [
+      "anticancer agents",
+      "apoptosis",
+      "curcumin",
+      "pancreatic ductal adenocarcinoma",
+      "sulfonamide"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Carcinoma, Pancreatic Ductal/genetics/drug therapy/metabolism/pathology",
+      "Apoptosis/drug effects",
+      "*Pancreatic Neoplasms/genetics/drug therapy/metabolism/pathology",
+      "STAT3 Transcription Factor/metabolism",
+      "*Proto-Oncogene Proteins p21(ras)/genetics",
+      "Cell Line, Tumor",
+      "*Antineoplastic Agents/pharmacology/chemistry",
+      "Cell Proliferation/drug effects",
+      "*Mutation",
+      "*Piperidines/pharmacology/chemistry",
+      "Molecular Docking Simulation",
+      "Caspase 3/metabolism",
+      "Structure-Activity Relationship"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ghosh, Hindole",
+        "Azaz, Duha Qamar",
+        "Saxena, Addhyan",
+        "Bodenhausen, Nicole",
+        "Schobert, Rainer",
+        "Biersack, Bernhard",
+        "Dandawate, Prasad"
+      ],
+      "short_names": [
+        "Ghosh H",
+        "Azaz DQ",
+        "Saxena A",
+        "Bodenhausen N",
+        "Schobert R",
+        "Biersack B",
+        "Dandawate P"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-9426-0893",
+        "ORCID: 0000-0002-8413-4342",
+        "ORCID: 0000-0001-7305-346X",
+        "ORCID: 0000-0002-1141-3703"
+      ],
+      "affiliations": [
+        "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA.",
+        "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA.",
+        "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA.",
+        "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA.",
+        "Organic Chemistry 1, University of Bayreuth, Universitaetsstrasse 30, 95440 Bayreuth, Germany.",
+        "Organic Chemistry 1, University of Bayreuth, Universitaetsstrasse 30, 95440 Bayreuth, Germany.",
+        "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ghosh, Hindole",
+        "short_name": "Ghosh H",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA."
+        ]
+      },
+      {
+        "full_name": "Azaz, Duha Qamar",
+        "short_name": "Azaz DQ",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA."
+        ]
+      },
+      {
+        "full_name": "Saxena, Addhyan",
+        "short_name": "Saxena A",
+        "identifiers": [
+          "0009-0009-9426-0893"
+        ],
+        "affiliations": [
+          "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA."
+        ]
+      },
+      {
+        "full_name": "Bodenhausen, Nicole",
+        "short_name": "Bodenhausen N",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA."
+        ]
+      },
+      {
+        "full_name": "Schobert, Rainer",
+        "short_name": "Schobert R",
+        "identifiers": [
+          "0000-0002-8413-4342"
+        ],
+        "affiliations": [
+          "Organic Chemistry 1, University of Bayreuth, Universitaetsstrasse 30, 95440 Bayreuth, Germany."
+        ]
+      },
+      {
+        "full_name": "Biersack, Bernhard",
+        "short_name": "Biersack B",
+        "identifiers": [
+          "0000-0001-7305-346X"
+        ],
+        "affiliations": [
+          "Organic Chemistry 1, University of Bayreuth, Universitaetsstrasse 30, 95440 Bayreuth, Germany."
+        ]
+      },
+      {
+        "full_name": "Dandawate, Prasad",
+        "short_name": "Dandawate P",
+        "identifiers": [
+          "0000-0002-1141-3703"
+        ],
+        "affiliations": [
+          "Cancer Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Nov 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43028257"
+    ],
+    "review": [
+      "43028257"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "identity": {
+    "pmid": "43020029",
+    "doi": "10.1016/j.cell.2026.09.041",
+    "title": "Circuit-aligned specialization of human basal ganglia astrocytes."
+  },
+  "content": {
+    "abstract": "Astrocytes shape synapses and circuits, yet their diversity within the human basal ganglia remains poorly defined. Integrating single-nucleus transcriptomic and epigenomic profiling with spatial transcriptomics, we identify three anatomically organized astrocyte subgroups-striatal gray matter (GM), extra-striatal GM, and white matter (WM)-distinguished by neurotransmitter transporter expression and synapse-associated programs that reflect afferent input. These molecular distinctions generalize brain-wide, separating telencephalic from non-telencephalic astrocytes, with LHX2 marking telencephalic astrocyte identity across species. Within the striatum (STR), dorsal and ventral populations align with distinct microcircuits; a ventral population maps to the nucleus accumbens mediodorsal shell alongside specialized neuronal subtypes, a pattern conserved in nonhuman primates. A deep learning sequence model identifies subgroup-specific enhancer codes and recovers established transcription factor motif logic from published enhancer-AAV datasets, providing a foundation for targeted viral vector design. These findings define intersecting axes of human astrocyte specialization and offer a framework for cell-type-specific dissection of basal ganglia circuits.",
+    "keywords": [
+      "DNA methylation",
+      "astrocyte-synapse interactions",
+      "basal ganglia",
+      "chromatin accessibility",
+      "enhancer-AAV",
+      "glial heterogeneity",
+      "single-nucleus multiomics",
+      "striatum"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Astrocytes/metabolism/cytology",
+      "Animals",
+      "*Basal Ganglia/cytology/metabolism",
+      "Enhancer Elements, Genetic",
+      "Synapses/metabolism",
+      "Neurons/metabolism",
+      "Transcription Factors/metabolism",
+      "Male"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fu, Yuanyuan",
+        "Kempynck, Niklas",
+        "Ding, Wubin",
+        "Turner, Meghan A",
+        "Garcia, Aaron D",
+        "Schmitz, Matthew T",
+        "Close, Jennie",
+        "Kapen, Inkar",
+        "Hewitt, Madeleine",
+        "Seeman, Stephanie C",
+        "Long, Brian",
+        "Ding, Song-Lin",
+        "Ho, Windy",
+        "Mahoney, Joseph T",
+        "Mich, John K",
+        "Levi, Boaz P",
+        "Klein, Amit",
+        "Behrens, Maria Margarita",
+        "Ecker, Joseph",
+        "Aerts, Stein",
+        "Johansen, Nelson J",
+        "Hodge, Rebecca D",
+        "Lein, Ed S",
+        "Bakken, Trygve E"
+      ],
+      "short_names": [
+        "Fu Y",
+        "Kempynck N",
+        "Ding W",
+        "Turner MA",
+        "Garcia AD",
+        "Schmitz MT",
+        "Close J",
+        "Kapen I",
+        "Hewitt M",
+        "Seeman SC",
+        "Long B",
+        "Ding SL",
+        "Ho W",
+        "Mahoney JT",
+        "Mich JK",
+        "Levi BP",
+        "Klein A",
+        "Behrens MM",
+        "Ecker J",
+        "Aerts S",
+        "Johansen NJ",
+        "Hodge RD",
+        "Lein ES",
+        "Bakken TE"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Laboratory of Computational Biology, VIB Center for AI & Computational Biology, Leuven, Belgium; VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium; Department of Human Genetics, KU Leuven, Leuven, Belgium.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Allen Institute, Brain Science, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Science, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Science, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Science, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Laboratory of Computational Biology, VIB Center for AI & Computational Biology, Leuven, Belgium; VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium; Department of Human Genetics, KU Leuven, Leuven, Belgium.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA. Electronic address: trygveb@alleninstitute.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fu, Yuanyuan",
+        "short_name": "Fu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Kempynck, Niklas",
+        "short_name": "Kempynck N",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Computational Biology, VIB Center for AI & Computational Biology, Leuven, Belgium; VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium; Department of Human Genetics, KU Leuven, Leuven, Belgium."
+        ]
+      },
+      {
+        "full_name": "Ding, Wubin",
+        "short_name": "Ding W",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Turner, Meghan A",
+        "short_name": "Turner MA",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Science, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Garcia, Aaron D",
+        "short_name": "Garcia AD",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Schmitz, Matthew T",
+        "short_name": "Schmitz MT",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Close, Jennie",
+        "short_name": "Close J",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Kapen, Inkar",
+        "short_name": "Kapen I",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Hewitt, Madeleine",
+        "short_name": "Hewitt M",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Science, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Seeman, Stephanie C",
+        "short_name": "Seeman SC",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Science, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Long, Brian",
+        "short_name": "Long B",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Science, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Ding, Song-Lin",
+        "short_name": "Ding SL",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Ho, Windy",
+        "short_name": "Ho W",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Mahoney, Joseph T",
+        "short_name": "Mahoney JT",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Mich, John K",
+        "short_name": "Mich JK",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Levi, Boaz P",
+        "short_name": "Levi BP",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Klein, Amit",
+        "short_name": "Klein A",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Behrens, Maria Margarita",
+        "short_name": "Behrens MM",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Ecker, Joseph",
+        "short_name": "Ecker J",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Aerts, Stein",
+        "short_name": "Aerts S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Computational Biology, VIB Center for AI & Computational Biology, Leuven, Belgium; VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium; Department of Human Genetics, KU Leuven, Leuven, Belgium."
+        ]
+      },
+      {
+        "full_name": "Johansen, Nelson J",
+        "short_name": "Johansen NJ",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Hodge, Rebecca D",
+        "short_name": "Hodge RD",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Lein, Ed S",
+        "short_name": "Lein ES",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Bakken, Trygve E",
+        "short_name": "Bakken TE",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA. Electronic address: trygveb@alleninstitute.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell"
+    ],
+    "journal_abbrev": [
+      "Cell"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 23:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43020029"
+    ],
+    "review": [
+      "43020029"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

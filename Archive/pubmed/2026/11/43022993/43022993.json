@@ -1,0 +1,133 @@
+{
+  "identity": {
+    "pmid": "43022993",
+    "doi": "10.1016/j.synbio.2026.10.011",
+    "title": "Computational and experimental analysis for the mismatched DNA recognition mechanism of TaqMutS."
+  },
+  "content": {
+    "abstract": "DNA holds great potential as a next-generation information storage material due to its high density, stability and low energy consumption. However, high synthesis errors severely limit its practical implementation. Enzymatic error correction based on Thermus aquaticus MutS (TaqMutS) is efficient and straightforward, whereas its severe non-specific binding to perfectly matched DNA drastically decreases the correction performance. In this work, we systematically analyzed the mechanism of mismatched DNA recognition by TaqMutS through alanine scanning mutagenesis, homologous substitution mutations and molecular dynamics simulations. The results revealed that TaqMutS recognized mismatched sites by sensing the local conformational strain of DNA. Specifically, a cooperative push-pull mechanism mediated by residues S57 and D472 modulated the pi-stacking interactions between the key recognition residue F39 and DNA. Meanwhile, the electrostatic synergistic effects of residues K61 and R473 effectively regulated the non-specific DNA binding of TaqMutS. Based on these findings, two mutants (V57S and K61H) were constructed, which exhibited enhanced binding efficiency for mismatched DNA and reduced affinity for perfectly matched DNA. Collectively, this study provided useful error-correction tools for high-efficiency DNA synthesis and laid an important theoretical foundation for the rational design of mismatched DNA recognition proteins.",
+    "keywords": [
+      "DNA synthesis",
+      "Error correction",
+      "Mismatched DNA recognition",
+      "Molecular dynamics simulations",
+      "TaqMutS"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Wenyan",
+        "Ding, Yiyang",
+        "Sun, Haojie",
+        "Li, Yuxuan",
+        "Liang, Xiao",
+        "Li, Quanshun"
+      ],
+      "short_names": [
+        "Jiang W",
+        "Ding Y",
+        "Sun H",
+        "Li Y",
+        "Liang X",
+        "Li Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Wenyan",
+        "short_name": "Jiang W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yiyang",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Haojie",
+        "short_name": "Sun H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yuxuan",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Xiao",
+        "short_name": "Liang X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Li, Quanshun",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun, 130012, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Synthetic and systems biotechnology"
+    ],
+    "journal_abbrev": [
+      "Synth Syst Biotechnol"
+    ],
+    "pub_date": "2027 May",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 11:29",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43022993"
+    ],
+    "review": [
+      "43022993"
+    ],
+    "pmc": [
+      "13756796"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

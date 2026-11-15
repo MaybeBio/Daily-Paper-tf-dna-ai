@@ -1,0 +1,249 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.09.765386",
+  "title": "Why don't transcription factors exploit inter-nucleotide correlations in binding motifs? Evolution of information encoding strategies on DNA",
+  "doi": "10.64898/2026.11.09.765386",
+  "abstract": "Transcription factors have been shown to predominantly rely on independent contributions from each position of their target sequence motifs, even though sequence motifs can encode information through correlations among nucleotide positions. As a result, the position-weight matrix, a simple modeling approach that assumes independence among positions, has long since become the dominant model of TF-DNA binding. Why evolution would favor this comparatively simple strategy, known as single locus information (SI), over a correlation-based one remains unaddressed. Here, we use analytical derivations, numerical approaches and evolutionary simulations to show that SI is intrinsically more robust to mutation than correlated (multi-locus) encodings and is therefore indirectly favored under selection for functional transcriptional regulatory networks. At the same time, we show that SI smooths the affinity landscape, ensuring the evolvability of regulatory interactions. We find the same marked bias toward SI in the genetic code, suggesting that the preference for SI is not specific to transcriptional regulation, but may be a general property of biological codes that must reliably store information on DNA in the face of mutational noise.",
+  "authors": [
+    "Emmanuel Mekasha",
+    "Elia Mascolo",
+    "Ivan Erill"
+  ],
+  "published_date": "2026-11-10",
+  "updated_date": "2026-11-10T23:20:17Z",
+  "journal": "bioRxiv",
+  "category": "Evolutionary Biology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765386",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765386.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Evolutionary Biology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Evolutionary Biology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ],
+        "date-time": "2026-11-11T00:01:37Z",
+        "timestamp": 1794355297051,
+        "version": "4.9.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "group-title": "Evolutionary Biology",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                10
+              ]
+            ],
+            "date-time": "2026-11-10T00:00:00Z",
+            "timestamp": 1794268800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Spanish Ministry of Science, Innovation and Universities (MICIU)",
+          "id": [
+            {
+              "id": "https://ror.org/05r0vyz12",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "U.S. National Science Foundation",
+          "id": [
+            {
+              "id": "https://ror.org/021nxhr62",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "Merck Data Science for Observational Research Program"
+        },
+        {
+          "name": "Austrian Academy of Sciences",
+          "id": [
+            {
+              "id": "https://ror.org/03anc3s24",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Transcription factors have been shown to predominantly rely on independent contributions from each position of their target sequence motifs, even though sequence motifs can encode information through correlations among nucleotide positions. As a result, the position-weight matrix, a simple modeling approach that assumes independence among positions, has long since become the dominant model of TF-DNA binding. Why evolution would favor this comparatively simple strategy, known as single locus information (SI), over a correlation-based one remains unaddressed. Here, we use analytical derivations, numerical approaches and evolutionary simulations to show that SI is intrinsically more robust to mutation than correlated (multi-locus) encodings and is therefore indirectly favored under selection for functional transcriptional regulatory networks. At the same time, we show that SI smooths the affinity landscape, ensuring the evolvability of regulatory interactions. We find the same marked bias toward SI in the genetic code, suggesting that the preference for SI is not specific to transcriptional regulation, but may be a general property of biological codes that must reliably store information on DNA in the face of mutational noise.</jats:p>",
+      "DOI": "10.64898/2026.11.09.765386",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ],
+        "date-time": "2026-11-10T23:20:17Z",
+        "timestamp": 1794352817000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Why don't transcription factors exploit inter-nucleotide correlations in binding motifs? Evolution of information encoding strategies on DNA"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Emmanuel",
+          "family": "Mekasha",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Maryland, Baltimore County;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2977-7844",
+          "authenticated-orcid": false,
+          "given": "Elia",
+          "family": "Mascolo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Science and Technology Austria;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7280-7191",
+          "authenticated-orcid": false,
+          "given": "Ivan",
+          "family": "Erill",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Universitat Autònoma de Barcelona"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.09.765386",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ],
+        "date-time": "2026-11-10T23:20:18Z",
+        "timestamp": 1794352818000
+      },
+      "score": 141.16035,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.09.765386"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.11.09.765386",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

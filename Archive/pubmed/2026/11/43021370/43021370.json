@@ -1,0 +1,259 @@
+{
+  "identity": {
+    "pmid": "43021370",
+    "doi": "10.1186/s13046-026-03806-3",
+    "title": "ELF3 (E74 like ETS transcription factor 3) promotes tumor growth and autophagy in pancreatic cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Despite the research progress of the past decades, the prognosis for pancreatic ductal adenocarcinoma remains poor. Identifying novel targets and exploring the underlying mechanisms is therefore of great importance. ELF3 (E74 like ETS transcription factor 3) is a member of the E-twenty-six (ETS) family and previous studies suggest that ELF3 may play a promoting role in malignant epithelial tumor; however, the effect and exact mechanism have not been determined in pancreatic cancer. METHODS: ELF3 expression and its prognostic relevance in pancreatic cancer were analyzed using clinical datasets. The role of ELF3 in autophagy regulation was evaluated using molecular and cellular approaches in vitro and in vivo. Computer-aided drug design was performed to identify potential ELF3 inhibitors, whose anti-tumor efficacy was subsequently evaluated. RESULTS: In the present study, it is observed that high expression of ELF3 leads to a poor overall survival in pancreatic cancer patients. Functional experiments demonstrated that knockdown of ELF3 blocks autophagy. In addition, SRT2183 was identified as a potential ELF3 inhibitor using molecular docking. In vitro and in vivo results showed that SRT2183 blocks autophagy and exerts anti-carcinoma effect. CONCLUSIONS: These findings demonstrate that ELF3 promotes autophagy through transcriptional regulation of ATG10 and identify ELF3 as a potential therapeutic target in pancreatic cancer. SRT2183, an ELF3-targeting compound that suppresses autophagic flux and tumor growth, represents a promising candidate for further therapeutic development.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Pancreatic Neoplasms/pathology/genetics/metabolism/drug therapy",
+      "*Autophagy",
+      "*Transcription Factors/genetics/metabolism/chemistry/antagonists & inhibitors",
+      "Animals",
+      "*Proto-Oncogene Proteins c-ets/genetics/metabolism/chemistry/antagonists & inhibitors",
+      "*DNA-Binding Proteins/genetics/metabolism/chemistry/antagonists & inhibitors",
+      "Cell Line, Tumor",
+      "Mice",
+      "Cell Proliferation",
+      "Prognosis",
+      "Gene Expression Regulation, Neoplastic",
+      "Xenograft Model Antitumor Assays",
+      "Molecular Docking Simulation",
+      "Female"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shang, Yuru",
+        "Zhang, Pingping",
+        "Yang, Yanhui",
+        "Fan, Yibao",
+        "Yang, Zhichao",
+        "Sun, Hongshi",
+        "Wang, Jia",
+        "Yu, Zhengming",
+        "Wu, Jiale",
+        "Wang, Wenxu",
+        "Kahlert, Ulf Dietrich",
+        "Sethi, Gautam",
+        "Linnebacher, Michael",
+        "Chen, Zhe-Sheng",
+        "Klionsky, Daniel J",
+        "Zhang, Xianbin"
+      ],
+      "short_names": [
+        "Shang Y",
+        "Zhang P",
+        "Yang Y",
+        "Fan Y",
+        "Yang Z",
+        "Sun H",
+        "Wang J",
+        "Yu Z",
+        "Wu J",
+        "Wang W",
+        "Kahlert UD",
+        "Sethi G",
+        "Linnebacher M",
+        "Chen ZS",
+        "Klionsky DJ",
+        "Zhang X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China.",
+        "Guangdong Key Laboratory for Biomedical Measurements and Ultrasound Imaging, School of Biomedical Engineering, National-Regional Key Technology Engineering Laboratory for Medical Ultrasound, Shenzhen University Medical School, Shenzhen, China.",
+        "Department of Gastroenterology, Changhai Hospital, Naval Medical University, Shanghai, China.",
+        "Department of Trauma Surgery, The First Affiliated Hospital, College of Clinical Medicine, Henan University of Science and Technology, Luoyang, China.",
+        "Department of General Surgery, Molecular Oncology and Immunotherapy, Rostock University Medical Center, Rostock, Germany.",
+        "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China.",
+        "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China.",
+        "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China.",
+        "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China.",
+        "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China.",
+        "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China.",
+        "Molecular and Experimental Surgery, Clinic for General-, Visceral-, Vascular-, and Transplant-Surgery, Medical Faculty, University Hospital Magdeburg, Research Campus STIMULATE, University of Magdeburg, Magdeburg, Germany.",
+        "Department of Pharmacology and NUS Centre for Cancer Research, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.",
+        "Department of General Surgery, Molecular Oncology and Immunotherapy, Rostock University Medical Center, Rostock, Germany.",
+        "Department of Pharmaceutical Sciences, College of Pharmacy and Health Sciences, St. John's University, Queens, USA.",
+        "Life Sciences Institute and Department of Molecular, Cellular and Developmental Biology, University of Michigan, Ann Arbor, USA.",
+        "Traditional Medicine Translational Research Center, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China. zhangxianbin@hotmail.com.",
+        "Center for Medical Artificial Intelligence, Shandong University of Traditional Chinese Medicine, Qingdao Academy of Chinese Medical Sciences, Shandong University of Traditional Chinese Medicine, Qingdao Key Laboratory of Artificial Intelligence Technology for Chinese Medicine, Qingdao, China. zhangxianbin@hotmail.com.",
+        "College of Chinese Materia Medica, Xinjiang University of Traditional Chinese Medicine, Kashi, China. zhangxianbin@hotmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shang, Yuru",
+        "short_name": "Shang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China.",
+          "Guangdong Key Laboratory for Biomedical Measurements and Ultrasound Imaging, School of Biomedical Engineering, National-Regional Key Technology Engineering Laboratory for Medical Ultrasound, Shenzhen University Medical School, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Pingping",
+        "short_name": "Zhang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Changhai Hospital, Naval Medical University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yanhui",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Trauma Surgery, The First Affiliated Hospital, College of Clinical Medicine, Henan University of Science and Technology, Luoyang, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Yibao",
+        "short_name": "Fan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Molecular Oncology and Immunotherapy, Rostock University Medical Center, Rostock, Germany."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhichao",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Hongshi",
+        "short_name": "Sun H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jia",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Zhengming",
+        "short_name": "Yu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiale",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wenxu",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, South China Hospital, Medical School, Shenzhen University, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Kahlert, Ulf Dietrich",
+        "short_name": "Kahlert UD",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular and Experimental Surgery, Clinic for General-, Visceral-, Vascular-, and Transplant-Surgery, Medical Faculty, University Hospital Magdeburg, Research Campus STIMULATE, University of Magdeburg, Magdeburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Sethi, Gautam",
+        "short_name": "Sethi G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and NUS Centre for Cancer Research, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Linnebacher, Michael",
+        "short_name": "Linnebacher M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Molecular Oncology and Immunotherapy, Rostock University Medical Center, Rostock, Germany."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhe-Sheng",
+        "short_name": "Chen ZS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, College of Pharmacy and Health Sciences, St. John's University, Queens, USA."
+        ]
+      },
+      {
+        "full_name": "Klionsky, Daniel J",
+        "short_name": "Klionsky DJ",
+        "identifiers": [],
+        "affiliations": [
+          "Life Sciences Institute and Department of Molecular, Cellular and Developmental Biology, University of Michigan, Ann Arbor, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xianbin",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Traditional Medicine Translational Research Center, Institute of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, China. zhangxianbin@hotmail.com.",
+          "Center for Medical Artificial Intelligence, Shandong University of Traditional Chinese Medicine, Qingdao Academy of Chinese Medical Sciences, Shandong University of Traditional Chinese Medicine, Qingdao Key Laboratory of Artificial Intelligence Technology for Chinese Medicine, Qingdao, China. zhangxianbin@hotmail.com.",
+          "College of Chinese Materia Medica, Xinjiang University of Traditional Chinese Medicine, Kashi, China. zhangxianbin@hotmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of experimental & clinical cancer research : CR"
+    ],
+    "journal_abbrev": [
+      "J Exp Clin Cancer Res"
+    ],
+    "pub_date": "2026 Aug 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 05:35",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43021370"
+    ],
+    "review": [
+      "43021370"
+    ],
+    "pmc": [
+      "13757040"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

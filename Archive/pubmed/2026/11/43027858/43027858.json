@@ -1,0 +1,146 @@
+{
+  "identity": {
+    "pmid": "43027858",
+    "doi": "10.3390/ijms27219608",
+    "title": "Single-Cell Transcriptomic and Regulatory Network Analyses Identify a Putative HNF4A-OXR1 Association Linked to Podocyte Mitochondrial Dysfunction in Diabetic Kidney Disease."
+  },
+  "content": {
+    "abstract": "Podocyte injury is a central pathological event in diabetic kidney disease (DKD), but the mitochondrial regulatory mechanisms underlying podocyte dysfunction remain incompletely defined. We integrated single-nucleus RNA-seq data from human renal biopsies in GSE195460 with podocyte-specific differential expression, functional enrichment, mitochondrial gene annotation, co-expression network analysis, machine learning feature selection, pseudotime analysis, in silico knockout, transcription factor enrichment, motif analysis, and molecular docking; findings were externally evaluated in GSE209781. Podocytes showed prominent disease-associated transcriptomic perturbation, with 677 exploratory cell-level differentially expressed genes and enrichment of cytoskeletal, adhesion, developmental, oxidative phosphorylation, and metabolic pathways. Thirty-one mitochondrial-related differentially expressed genes were identified, and OXR1 was prioritized as a candidate regulatory hub based on consistent downregulation, network centrality, machine learning selection, and external validation. HNF4A was predicted as an upstream regulator linked to OXR1 and other mitochondrial targets. In silico OXR1 perturbation increased the predicted injured-state probability from 15% to 82%, while promoter motif analysis provided additional computational support for a putative HNF4A-OXR1 regulatory relationship. These findings highlight OXR1 as a candidate associated with podocyte mitochondrial dysfunction in DKD and suggest a putative HNF4A-OXR1 regulatory relationship.",
+    "keywords": [
+      "HNF4A",
+      "OXR1",
+      "diabetic kidney disease",
+      "mitochondrial dysfunction",
+      "network medicine",
+      "podocyte",
+      "single-cell RNA sequencing"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Podocytes/metabolism/pathology",
+      "*Diabetic Nephropathies/genetics/metabolism/pathology",
+      "*Mitochondria/metabolism/genetics/pathology",
+      "*Hepatocyte Nuclear Factor 4/metabolism/genetics",
+      "*Gene Regulatory Networks",
+      "Single-Cell Gene Expression Analysis",
+      "*Transcriptome",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Zhenkun",
+        "Jiang, Shimin",
+        "Cui, Wen",
+        "Zhou, Jiahui",
+        "Li, Wenge"
+      ],
+      "short_names": [
+        "Yang Z",
+        "Jiang S",
+        "Cui W",
+        "Zhou J",
+        "Li W"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-6028-9364",
+        "ORCID: 0000-0001-5265-7395",
+        "ORCID: 0000-0002-4749-1009"
+      ],
+      "affiliations": [
+        "Department of Nephrology, China-Japan Friendship Hospital, Beijing 100029, China.",
+        "China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100730, China.",
+        "Department of Nephrology, China-Japan Friendship Hospital, Beijing 100029, China.",
+        "China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100730, China.",
+        "Health Science Center, Peking University, Beijing 100191, China.",
+        "Department of Nephrology, China-Japan Friendship Hospital, Beijing 100029, China.",
+        "China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100730, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Zhenkun",
+        "short_name": "Yang Z",
+        "identifiers": [
+          "0009-0009-6028-9364"
+        ],
+        "affiliations": [
+          "Department of Nephrology, China-Japan Friendship Hospital, Beijing 100029, China.",
+          "China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100730, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Shimin",
+        "short_name": "Jiang S",
+        "identifiers": [
+          "0000-0001-5265-7395"
+        ],
+        "affiliations": [
+          "Department of Nephrology, China-Japan Friendship Hospital, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Wen",
+        "short_name": "Cui W",
+        "identifiers": [],
+        "affiliations": [
+          "China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100730, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jiahui",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "Health Science Center, Peking University, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wenge",
+        "short_name": "Li W",
+        "identifiers": [
+          "0000-0002-4749-1009"
+        ],
+        "affiliations": [
+          "Department of Nephrology, China-Japan Friendship Hospital, Beijing 100029, China.",
+          "China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100730, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43027858"
+    ],
+    "review": [
+      "43027858"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

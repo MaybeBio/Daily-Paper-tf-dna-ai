@@ -1,0 +1,196 @@
+{
+  "identity": {
+    "pmid": "42995993",
+    "doi": "10.64898/2026.10.19.760300",
+    "title": "Design of synthetic activators for programmable gene expression."
+  },
+  "content": {
+    "abstract": "Transcription factors control gene expression by recruiting transcriptional coactivators through intrinsically disordered transcriptional activation domains (TADs), whose weak and promiscuous interactions make it difficult to establish quantitative relationships between coactivator recruitment and transcriptional output, and to precisely modulate gene expression. To overcome this limitation, we set out to design coactivator-recruiting proteins using AlphaFold3-predicted TAD-coactivator interactions as a guide. We developed a high-throughput functional screening platform in mammalian cells and identified over 300 well folded nanomolar affinity binders to the transcription coactivators Mediator (multiple subunits), BRD4, NCOA, and p300; targeted interface mutations enabled systematic tuning of their binding affinities. Using a panel of p300 binders spanning nanomolar to micromolar affinities, we found an ultrasensitive relationship between coactivator-binding affinity and transcriptional output, with a sharp transcriptional activation threshold at  approximately 500 nM. Incorporating p300 binder designs into CRISPRa yielded compact synthetic effectors that drove stronger activation than VPR across multiple genomic loci with minimal detectable cytotoxicity. Combining p300- and Mediator-specific binders further enhanced transcription, revealing functional synergy between these coactivators. Together, our work establishes a quantitative framework linking coactivator-binding affinity to transcriptional output and provides compact synthetic effectors for programmable gene activation.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Wei",
+        "Jiao, Ruopu",
+        "Coventry, Brian",
+        "Qu, Xiangli",
+        "Bauer, Magnus",
+        "Tran, Long",
+        "Tcheau, Tabitha",
+        "Wu, Kejia",
+        "Song, Zihao",
+        "Roullier, Nicole",
+        "Li, Xinting",
+        "Glasscock, Cameron",
+        "Hilton, Isaac B",
+        "Baker, David"
+      ],
+      "short_names": [
+        "Chen W",
+        "Jiao R",
+        "Coventry B",
+        "Qu X",
+        "Bauer M",
+        "Tran L",
+        "Tcheau T",
+        "Wu K",
+        "Song Z",
+        "Roullier N",
+        "Li X",
+        "Glasscock C",
+        "Hilton IB",
+        "Baker D"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Wei",
+        "short_name": "Chen W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jiao, Ruopu",
+        "short_name": "Jiao R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Coventry, Brian",
+        "short_name": "Coventry B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Qu, Xiangli",
+        "short_name": "Qu X",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bauer, Magnus",
+        "short_name": "Bauer M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tran, Long",
+        "short_name": "Tran L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tcheau, Tabitha",
+        "short_name": "Tcheau T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wu, Kejia",
+        "short_name": "Wu K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Song, Zihao",
+        "short_name": "Song Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Roullier, Nicole",
+        "short_name": "Roullier N",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Xinting",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Glasscock, Cameron",
+        "short_name": "Glasscock C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hilton, Isaac B",
+        "short_name": "Hilton IB",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Baker, David",
+        "short_name": "Baker D",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-15 09:05:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42995993"
+    ],
+    "review": [
+      "42995993"
+    ],
+    "pmc": [
+      "13738603"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42995993/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1240",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.19.760300",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

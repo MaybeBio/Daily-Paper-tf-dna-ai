@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "43018766",
+    "doi": "10.1007/s00431-026-07609-8",
+    "title": "A noninvasive risk stratification prediction model for neuroblastoma through integration of multidimensional clinical indicators."
+  },
+  "content": {
+    "abstract": "Current neuroblastoma (NB) risk classification relies partly on tumor tissue-derived information, which may be unavailable in patients who cannot undergo biopsy or surgical resection. Therefore, this study aimed to develop a non-invasive prediction model for NB risk classification by integrating a liquid biopsy biomarker with routinely available clinical indicators. A total of 141 treatment-naive patients with NB were included and divided into a training cohort (n = 100) and a held-out testing cohort (n = 41). Six pretreatment predictors, including age, sex, lactate dehydrogenase (LDH), neuron-specific enolase (NSE), image-defined risk factors (IDRFs), and circulating plasma MYCN amplification status, were incorporated into 11 machine-learning algorithms. Model development and selection were performed exclusively in the training cohort using repeated nested cross-validation with patient-level out-of-fold predictions. Random forest (RF) achieved the best overall performance, with an area under the receiver operating characteristic curve (AUC) of 0.952 (95% CI, 0.906-0.998), an accuracy of 91%, and a Brier score of 0.079. Decision curve analysis showed positive net benefit across the prespecified threshold range of 15%-50%, while SHapley Additive Explanations (SHAP) analysis identified IDRFs, NSE, and LDH as the leading contributors to model predictions. After model locking, the RF model retained good discrimination in the held-out testing cohort, with an AUC of 0.890 (95% CI, 0.791-0.989), a sensitivity of 84.2%, and a Brier score of 0.140. CONCLUSION: These findings support the feasibility of combining circulating MYCN status with routine clinical variables to provide a non-tissue-based approach for assisting NB risk classification. WHAT IS KNOWN: * Current NB risk classification incorporates clinical, imaging, histopathological, and molecular information, some of which requires tumor tissue and may be unavailable before biopsy or surgery. WHAT IS NEW: * This study developed and independently tested a non-invasive machine-learning model integrating circulating plasma MYCN amplification status with five routinely available clinical indicators, achieving an AUC of 0.952 during nested cross-validation in the training cohort and an AUC of 0.890 in the held-out testing cohort.",
+    "keywords": [
+      "MYCN",
+      "Liquid biopsy",
+      "Machine learning",
+      "Neuroblastoma",
+      "Random forest",
+      "Risk classification"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Neuroblastoma/diagnosis/blood/pathology",
+      "Female",
+      "Risk Assessment/methods",
+      "Male",
+      "Infant",
+      "Biomarkers, Tumor/blood",
+      "Random Forest",
+      "Child, Preschool",
+      "Predictive Learning Models",
+      "N-Myc Proto-Oncogene Protein/blood",
+      "Machine Learning",
+      "Prediction Algorithms",
+      "Classification Algorithms",
+      "Liquid Biopsy",
+      "Risk Factors",
+      "ROC Curve",
+      "Child",
+      "L-Lactate Dehydrogenase/blood",
+      "Phosphopyruvate Hydratase/blood"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Mengxin",
+        "Zhang, Yingyu",
+        "Zhang, Xianwei",
+        "Zhao, Liang",
+        "Wu, Yuxuan",
+        "Zhang, Man",
+        "Ren, Jianying",
+        "Wu, Yongjun",
+        "Zhang, Jie",
+        "Zhang, Wancun"
+      ],
+      "short_names": [
+        "Zhang M",
+        "Zhang Y",
+        "Zhang X",
+        "Zhao L",
+        "Wu Y",
+        "Zhang M",
+        "Ren J",
+        "Wu Y",
+        "Zhang J",
+        "Zhang W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China.",
+        "College of Public Health, Zhengzhou University, Zhengzhou, 450001, P. R. China.",
+        "Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China.",
+        "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China.",
+        "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China.",
+        "Department of Anesthesiology and Perioperative Medicine, People's Hospital of Zhengzhou University, Henan Provincial People's Hospital, Zhengzhou, 450003, China.",
+        "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China.",
+        "School of Basic Medical Sciences, Shanxi Medical University, Taiyuan, 030006, China.",
+        "College of Public Health, Zhengzhou University, Zhengzhou, 450001, P. R. China.",
+        "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China. stzhangj@263.net.",
+        "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China. zhangwancun@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Mengxin",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China.",
+          "College of Public Health, Zhengzhou University, Zhengzhou, 450001, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yingyu",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Henan Key Laboratory of Rare Diseases, Endocrinology and Metabolism Center, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xianwei",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Liang",
+        "short_name": "Zhao L",
+        "identifiers": [],
+        "affiliations": [
+          "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yuxuan",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology and Perioperative Medicine, People's Hospital of Zhengzhou University, Henan Provincial People's Hospital, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Man",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Jianying",
+        "short_name": "Ren J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shanxi Medical University, Taiyuan, 030006, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yongjun",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Public Health, Zhengzhou University, Zhengzhou, 450001, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jie",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China. stzhangj@263.net."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wancun",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Health Commission of Henan Province Key Laboratory for Precision Diagnosis and Treatment of Pediatric Tumor, Henan Province Key Laboratory of Children's Genetic and Developmental Diseases, Henan International Joint Laboratory for Prevention and Treatment of Pediatric Disease, Children's Hospital Affiliated to Zhengzhou University, Zhengzhou, 450018, China. zhangwancun@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "European journal of pediatrics"
+    ],
+    "journal_abbrev": [
+      "Eur J Pediatr"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 18:48",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43018766"
+    ],
+    "review": [
+      "43018766"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/neuroblastoma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Neuroblastoma"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00431-026-07609-8",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

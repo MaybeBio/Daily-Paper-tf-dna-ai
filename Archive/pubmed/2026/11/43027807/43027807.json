@@ -1,0 +1,188 @@
+{
+  "identity": {
+    "pmid": "43027807",
+    "doi": "10.3390/ijms27219557",
+    "title": "Discovery of Novel HDAC8 Inhibitors Through Shape-Based Virtual Screening: Experimental Validation and Characterization of a Promising Quinoline-Based Hit Scaffold."
+  },
+  "content": {
+    "abstract": "Histone deacetylase 8 (HDAC8) is overexpressed in several solid tumors and, unlike other Class I HDACs, functions independently of large corepressor complexes, making it an attractive target for structure-based drug design. Here, we aimed to identify novel natural compounds capable of targeting the human HDAC8 catalytic site. A library of 307,814 natural products from ZINC15 was screened by shape-based virtual screening using five structurally diverse co-crystallized HDAC8 ligands as templates, followed by molecular docking and Molecular Mechanics-Generalized Born Surface Area (MM-GBSA) binding free energy calculations. Seven commercially available hits were selected for enzymatic validation, leading to the identification of 4-((7-methoxyquinolin-4-yl)amino)benzamide (ZINC000054202375, compound 2) as a promising HDAC8 inhibitor. In vitro antiproliferative assays across multiple human solid tumor cell lines demonstrated significant growth inhibition by compound 2, further supported by colony formation assays. Mechanistic studies using label-free live-cell imaging, Annexin V staining, DAPI (4',6-diamidino-2-phenylindole) nuclear morphology, and DCFDA (2',7'-dichlorodihydrofluorescein diacetate) assays revealed membrane blebbing, mitotic failure, increased reactive oxygen species, and nuclear fragmentation, consistent with apoptosis induction. Finally, 1 mus molecular dynamics simulations supported the formation of a persistent ligand-receptor interaction network within the HDAC8 catalytic pocket. Overall, compound 2 represents a promising non-hydroxamate hit scaffold with promising HDAC8 inhibitory activity, serving as a starting point for the development of novel HDAC-targeted anticancer agents.",
+    "keywords": [
+      "HDAC8 inhibitors",
+      "natural compounds",
+      "shape virtual screening"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Histone Deacetylase Inhibitors/pharmacology/chemistry",
+      "*Repressor Proteins/antagonists & inhibitors/chemistry/metabolism",
+      "Molecular Docking Simulation",
+      "*Quinolines/chemistry/pharmacology",
+      "*Histone Deacetylases/chemistry/metabolism",
+      "Cell Line, Tumor",
+      "Cell Proliferation/drug effects",
+      "Molecular Dynamics Simulation",
+      "Antineoplastic Agents/pharmacology/chemistry",
+      "Catalytic Domain",
+      "*Drug Discovery",
+      "Structure-Activity Relationship"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gargano, Adriana",
+        "Gonzalez-Bakker, Aday",
+        "Puerta, Adrian",
+        "Maggisano, Valentina",
+        "Bulotta, Stefania",
+        "Rocca, Roberta",
+        "Padron, Jose M",
+        "Alcaro, Stefano"
+      ],
+      "short_names": [
+        "Gargano A",
+        "Gonzalez-Bakker A",
+        "Puerta A",
+        "Maggisano V",
+        "Bulotta S",
+        "Rocca R",
+        "Padron JM",
+        "Alcaro S"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-3102-7988",
+        "ORCID: 0000-0002-9792-5194",
+        "ORCID: 0000-0002-7975-1960",
+        "ORCID: 0000-0002-0680-7097",
+        "ORCID: 0000-0001-6268-6552",
+        "ORCID: 0000-0002-0437-358X"
+      ],
+      "affiliations": [
+        "Dipartimento di Scienze della Salute, Universita \"Magna Graecia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy.",
+        "Associazione CRISEA-Centro di Ricerca e Servizi Avanzati per l'Innovazione Rurale, Localita Condoleo, 88055 Belcastro, Italy.",
+        "BioLab, Instituto Universitario de Bio-Organica \"Antonio Gonzalez\", Universidad de la Laguna, C/Astrofisico Francisco Sanchez 2, 38206 La Laguna, Spain.",
+        "Institute of Biological and Chemical Systems-Functional Molecular Systems, Karlsruhe Institute of Technology (KIT), 76344 Eggenstein-Leopoldshafen, Germany.",
+        "Dipartimento di Scienze della Salute, Universita \"Magna Graecia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy.",
+        "Dipartimento di Scienze della Salute, Universita \"Magna Graecia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy.",
+        "Dipartimento di Scienze della Salute, Universita \"Magna Graecia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy.",
+        "BioLab, Instituto Universitario de Bio-Organica \"Antonio Gonzalez\", Universidad de la Laguna, C/Astrofisico Francisco Sanchez 2, 38206 La Laguna, Spain.",
+        "Dipartimento di Scienze della Salute, Universita \"Magna Graecia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy.",
+        "Associazione CRISEA-Centro di Ricerca e Servizi Avanzati per l'Innovazione Rurale, Localita Condoleo, 88055 Belcastro, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gargano, Adriana",
+        "short_name": "Gargano A",
+        "identifiers": [
+          "0009-0006-3102-7988"
+        ],
+        "affiliations": [
+          "Dipartimento di Scienze della Salute, Università \"Magna Græcia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy.",
+          "Associazione CRISEA-Centro di Ricerca e Servizi Avanzati per l'Innovazione Rurale, Località Condoleo, 88055 Belcastro, Italy."
+        ]
+      },
+      {
+        "full_name": "González-Bakker, Aday",
+        "short_name": "González-Bakker A",
+        "identifiers": [
+          "0000-0002-9792-5194"
+        ],
+        "affiliations": [
+          "BioLab, Instituto Universitario de Bio-Orgánica \"Antonio González\", Universidad de la Laguna, C/Astrofísico Francisco Sánchez 2, 38206 La Laguna, Spain."
+        ]
+      },
+      {
+        "full_name": "Puerta, Adrián",
+        "short_name": "Puerta A",
+        "identifiers": [
+          "0000-0002-7975-1960"
+        ],
+        "affiliations": [
+          "Institute of Biological and Chemical Systems-Functional Molecular Systems, Karlsruhe Institute of Technology (KIT), 76344 Eggenstein-Leopoldshafen, Germany."
+        ]
+      },
+      {
+        "full_name": "Maggisano, Valentina",
+        "short_name": "Maggisano V",
+        "identifiers": [],
+        "affiliations": [
+          "Dipartimento di Scienze della Salute, Università \"Magna Græcia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy."
+        ]
+      },
+      {
+        "full_name": "Bulotta, Stefania",
+        "short_name": "Bulotta S",
+        "identifiers": [],
+        "affiliations": [
+          "Dipartimento di Scienze della Salute, Università \"Magna Græcia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy."
+        ]
+      },
+      {
+        "full_name": "Rocca, Roberta",
+        "short_name": "Rocca R",
+        "identifiers": [
+          "0000-0002-0680-7097"
+        ],
+        "affiliations": [
+          "Dipartimento di Scienze della Salute, Università \"Magna Græcia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy."
+        ]
+      },
+      {
+        "full_name": "Padrón, José M",
+        "short_name": "Padrón JM",
+        "identifiers": [
+          "0000-0001-6268-6552"
+        ],
+        "affiliations": [
+          "BioLab, Instituto Universitario de Bio-Orgánica \"Antonio González\", Universidad de la Laguna, C/Astrofísico Francisco Sánchez 2, 38206 La Laguna, Spain."
+        ]
+      },
+      {
+        "full_name": "Alcaro, Stefano",
+        "short_name": "Alcaro S",
+        "identifiers": [
+          "0000-0002-0437-358X"
+        ],
+        "affiliations": [
+          "Dipartimento di Scienze della Salute, Università \"Magna Græcia\" di Catanzaro, Campus Universitario \"S. Venuta\", Viale Europa, 88100 Catanzaro, Italy.",
+          "Associazione CRISEA-Centro di Ricerca e Servizi Avanzati per l'Innovazione Rurale, Località Condoleo, 88055 Belcastro, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43027807"
+    ],
+    "review": [
+      "43027807"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

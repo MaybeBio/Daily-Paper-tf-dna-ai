@@ -1,0 +1,174 @@
+{
+  "identity": {
+    "pmid": "43022617",
+    "doi": "10.1021/acsomega.6c06583",
+    "title": "Agnuside from Vitex negundo L. Attenuates Hepatocellular Lipid Accumulation: Association with the AMPK/SREBP1/FASN/HMGCR/PPARalpha/UCP2 Signaling Network."
+  },
+  "content": {
+    "abstract": "Vitex negundo L. (VN) is a medicinal plant known for its anti-inflammatory and hepatoprotective properties, commonly used as a vegetable in northeastern Indian communities. However, its role in treating nonalcoholic fatty liver disease (NAFLD) is still underexplored. This study evaluates the therapeutic potential of VN and its bioactive compounds in reducing lipid accumulation in CC1 hepatocytes. A crude extract of VN and its n-butanol fraction (VNBU) were tested on palmitate-induced CC1 hepatocytes to evaluate lipid accumulation. Key compounds Agnuside, 5-hydroxy-3,6,7,3́,4́-pentamethoxyflavone, and Vitexilactone were isolated. Agnuside's effects on lipogenesis, cholesterol accumulation, and fatty acid oxidation were assessed using biochemical assays and Western blot analysis. Molecular docking and dynamics simulations were conducted to explore its interactions with 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGCR). Agnuside treatment was associated with reduced lipid accumulation by modulating Adenosine monophosphate-activated protein kinase (AMPK), HMGCR, Sterol regulatory element-binding transcription factor 1 (SREBP1), Fatty acid synthase (FASN), Peroxisome Proliferator-activated receptors (PPARalpha), and uncoupling protein (UCP2), suggesting a favorable shift in lipid metabolism. Computational studies indicated that Agnuside binds stably to HMGCR, similar to statins. In summary, these findings suggest that VN and Agnuside exert protective effects in hepatocytes, accompanied by favorable shifts in lipid metabolism markers. Further studies are needed to confirm the causal role of this signaling network.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saikia, Abhipsha",
+        "Ahmed, Semim Akhtar",
+        "Saikia, Kangkon",
+        "Sarma, Pranamika",
+        "Basumatary, Devi",
+        "Mukherjee, Ashis K",
+        "Borah, Jagat Chandra",
+        "Bala, Asis"
+      ],
+      "short_names": [
+        "Saikia A",
+        "Ahmed SA",
+        "Saikia K",
+        "Sarma P",
+        "Basumatary D",
+        "Mukherjee AK",
+        "Borah JC",
+        "Bala A"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2999-1517",
+        "ORCID: 0000-0001-9869-858X",
+        "ORCID: 0000-0001-6876-2659",
+        "ORCID: 0000-0002-2148-2331"
+      ],
+      "affiliations": [
+        "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India. RINGGOLD: 163940",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India.",
+        "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India. RINGGOLD: 163940",
+        "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India. RINGGOLD: 163940",
+        "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India. RINGGOLD: 163940",
+        "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India. RINGGOLD: 163940",
+        "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India. RINGGOLD: 163940",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India.",
+        "Department of Molecular Biology and Biotechnology, Tezpur University, Tezpur, Assam 784028, India.",
+        "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India. RINGGOLD: 163940",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India.",
+        "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research (NIPER), Guwahati, Assam 781101, India.",
+        "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India. RINGGOLD: 163940",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saikia, Abhipsha",
+        "short_name": "Saikia A",
+        "identifiers": [],
+        "affiliations": [
+          "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Semim Akhtar",
+        "short_name": "Ahmed SA",
+        "identifiers": [],
+        "affiliations": [
+          "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India."
+        ]
+      },
+      {
+        "full_name": "Saikia, Kangkon",
+        "short_name": "Saikia K",
+        "identifiers": [],
+        "affiliations": [
+          "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India."
+        ]
+      },
+      {
+        "full_name": "Sarma, Pranamika",
+        "short_name": "Sarma P",
+        "identifiers": [],
+        "affiliations": [
+          "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India."
+        ]
+      },
+      {
+        "full_name": "Basumatary, Devi",
+        "short_name": "Basumatary D",
+        "identifiers": [
+          "0000-0003-2999-1517"
+        ],
+        "affiliations": [
+          "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India."
+        ]
+      },
+      {
+        "full_name": "Mukherjee, Ashis K",
+        "short_name": "Mukherjee AK",
+        "identifiers": [
+          "0000-0001-9869-858X"
+        ],
+        "affiliations": [
+          "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India.",
+          "Department of Molecular Biology and Biotechnology, Tezpur University, Tezpur, Assam 784028, India."
+        ]
+      },
+      {
+        "full_name": "Borah, Jagat Chandra",
+        "short_name": "Borah JC",
+        "identifiers": [
+          "0000-0001-6876-2659"
+        ],
+        "affiliations": [
+          "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India.",
+          "Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research (NIPER), Guwahati, Assam 781101, India."
+        ]
+      },
+      {
+        "full_name": "Bala, Asis",
+        "short_name": "Bala A",
+        "identifiers": [
+          "0000-0002-2148-2331"
+        ],
+        "affiliations": [
+          "Life Sciences Division, Institute of Advanced Study in Science & Technology, Guwahati, Assam 781035, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 11:29",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43022617"
+    ],
+    "review": [
+      "43022617"
+    ],
+    "pmc": [
+      "13757082"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

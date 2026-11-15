@@ -1,0 +1,137 @@
+{
+  "identity": {
+    "pmid": "42996895",
+    "doi": "10.1155/ijog/3008549",
+    "title": "Transcriptomic Identification of Candidate Biomarkers Associated With Vascular Calcification-Related Signaling Pathways in Immunoglobulin A Nephropathy."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Immunoglobulin A nephropathy (IgAN) is one of the most prevalent primary glomerular diseases globally. This study is aimed at identifying candidate biomarkers associated with vascular calcification-related signaling pathways in IgAN and at investigating their potential biological associations. METHODS: This was an observational bioinformatics study based on public transcriptomic datasets. Vascular calcification-related genes (VCRGs) were defined based on selected KEGG signaling pathways. Data were obtained from public databases. Candidate biomarkers were identified via differential analysis, machine learning, and cross-compartment external expression assessment. Enrichment analysis, immune infiltration, regulatory networks, computational drug prediction, and computational N6-methyladenosine (m6A) site prediction were used to explore the potential biological context of the candidate biomarkers. RESULTS: Differential analysis identified 348 differentially expressed genes (DEGs). By intersecting these DEGs with VCRGs, 30 candidate genes were obtained. JUN, FOS, and COL1A2 were finally identified as candidate biomarkers, and these genes were mainly associated with the \"Nagashima EGF signaling\" and \"Nagashima NRG1 signaling.\" Six differential immune cell types (e.g., M2 macrophages) differed significantly between the IgAN and control groups. Spearman analysis showed that COL1A2 was negatively correlated with resting natural killer (NK) cells (cor = -0.57, p < 0.05); and FOS was positively correlated with resting NK cells (cor = 0.72, p < 0.01). BRD4, MAZ, and CTCF were computationally predicted as shared candidate transcription factors (TFs). A regulatory association involving hsa-miR-139-5p and FOS was also predicted. Troglitazone was predicted to target JUN. High-confidence m6A modification sites were computationally predicted in all three candidate biomarkers. These findings were considered exploratory and hypothesis generating. CONCLUSION: JUN, FOS, and COL1A2 were identified as IgAN-associated candidate biomarkers linked to vascular calcification-related signaling pathway genes, providing exploratory biological insights into the potential molecular links between IgAN and calcification-related signaling.",
+    "keywords": [
+      "IgAN",
+      "candidate biomarkers",
+      "immunoglobulin A nephropathy",
+      "machine learning",
+      "vascular calcification-related pathways"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cheng, LiJuan",
+        "Xin, ZiJin",
+        "Zhao, XinLi",
+        "Wang, JingFeng"
+      ],
+      "short_names": [
+        "Cheng L",
+        "Xin Z",
+        "Zhao X",
+        "Wang J"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-6773-2167"
+      ],
+      "affiliations": [
+        "Department of Nephrology and Immunology Shenzhen Qianhai Shekou Free Trade Zone Hospital Shenzhen China skhosp.cn.",
+        "Department of Nephrology and Immunology Shenzhen Qianhai Shekou Free Trade Zone Hospital Shenzhen China skhosp.cn.",
+        "Department of Nephrology and Immunology Shenzhen Qianhai Shekou Free Trade Zone Hospital Shenzhen China skhosp.cn.",
+        "School of Pharmaceutical Business Guangdong Pharmaceutical University Guangzhou China gdpu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cheng, LiJuan",
+        "short_name": "Cheng L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology and Immunology Shenzhen Qianhai Shekou Free Trade Zone Hospital Shenzhen China skhosp.cn."
+        ]
+      },
+      {
+        "full_name": "Xin, ZiJin",
+        "short_name": "Xin Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology and Immunology Shenzhen Qianhai Shekou Free Trade Zone Hospital Shenzhen China skhosp.cn."
+        ]
+      },
+      {
+        "full_name": "Zhao, XinLi",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology and Immunology Shenzhen Qianhai Shekou Free Trade Zone Hospital Shenzhen China skhosp.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, JingFeng",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0009-0000-6773-2167"
+        ],
+        "affiliations": [
+          "School of Pharmaceutical Business Guangdong Pharmaceutical University Guangzhou China gdpu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of genomics"
+    ],
+    "journal_abbrev": [
+      "Int J Genomics"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-15 09:05:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42996895"
+    ],
+    "review": [
+      "42996895"
+    ],
+    "pmc": [
+      "13740682"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42996895/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/ijog/3008549",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-807",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

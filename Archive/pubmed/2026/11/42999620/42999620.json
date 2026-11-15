@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "42999620",
+    "doi": "10.21037/tlcr-2026-0927",
+    "title": "Single-cell and spatial transcriptome analyses unveil that MYH11 links stemness to immunotherapy resistance in non-small cell lung cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Immunotherapy is an essential treatment strategy for lung cancer, yet resistance to it is often unavoidable, resulting in treatment failure and poor prognosis. The cancer stem cell (CSC) theory offers a valuable perspective for understanding tumor metastasis and resistance to immunotherapy. However, there is a scarcity of multi-omics studies that identify tumor stemness subpopulations and their associated signaling pathways. In this study, we combined single-cell RNA sequencing (scRNA-seq) with spatial transcriptomics sequencing (ST-seq) to identify a myosin heavy chain 11 (MYH11)-high stemness subpopulation linked to immunotherapy resistance. METHODS: We conducted quality control and removed batch effects from two scRNA-seq datasets, then annotated cell types using established marker genes. Malignant cells were distinguished from epithelial cells with fastCNV. Stemness subpopulations were identified using a machine learning-derived messenger RNA (mRNA) stemness index (mRNAsi) and CytoTRACE analysis. To functionally characterize the stemness subpopulation, we employed Monocle3 pseudotime trajectory analysis, CellChat cell-cell communication analysis, and predicted transcription factors (TFs). We also performed consensus clustering on bulk RNA sequencing (RNA-seq) data, followed by immune-related scoring, immune cell deconvolution, and drug sensitivity prediction. Clinical validation was achieved through multiplex immunofluorescence (mIF) and immunohistochemistry (IHC). Experimental validation included short hairpin RNA (shRNA)-mediated MYH11 knockdown, real-time quantitative reverse transcription PCR (qRT-PCR) and western blot analyses, and tumor sphere formation assays to assess cancer stemness. RESULTS: We identified nine major cell types and found a significant enrichment of epithelial cells in tumors resistant to immunotherapy. Using fastCNV, we identified malignant cells and defined seven malignant cell subtypes based on stemness scoring. Notably, the Stem-subtype was significantly enriched in resistant tumors. Functional analysis showed that the Stem-subtype could differentiate into other malignant cell subtypes, with a strong enrichment in the NOTCH signaling pathway. Analysis of fibroblast subpopulations revealed that MYH11 (+) fibroblasts were closely linked to the Stem-subtype, collectively contributing to immunotherapy resistance. Consensus clustering identified two stemness-related subtypes, with Stemness I associated with poor prognosis. Immune scoring and immune cell analysis further indicated an unfavorable response to immunotherapy in Stemness I. Drug sensitivity prediction identified potential therapeutic agents, and in silico knockout experiments revealed downstream target genes. Validation with clinical samples confirmed that MYH11-high cancer cells were closely correlated with exhausted CD8(+) T cell infiltration and poor immunotherapy outcomes. Experimental validation demonstrated that MYH11 knockdown significantly reduced the expression levels of CXCL12 and TUBA1A, as well as the expression of core NOTCH pathway genes. Furthermore, the tumor sphere-forming capacity was markedly suppressed. CONCLUSIONS: In summary, our multi-omics analysis revealed a MYH11-high malignant cell stemness subpopulation and a MYH11 (+) fibroblast subpopulation, both of which are closely linked to immunotherapy resistance and poor prognosis in lung cancer.",
+    "keywords": [
+      "Single-cell RNA sequencing (scRNA-seq)",
+      "myosin heavy chain 11 (MYH11)",
+      "non-small cell lung cancer (NSCLC)",
+      "spatial transcriptomics sequencing (ST-seq)",
+      "stemness"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xie, Yujie",
+        "Xue, Yinyin",
+        "Lai, Dongmei",
+        "Zhang, Xiang",
+        "Li, Guosheng",
+        "Zhou, Qinghua"
+      ],
+      "short_names": [
+        "Xie Y",
+        "Xue Y",
+        "Lai D",
+        "Zhang X",
+        "Li G",
+        "Zhou Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+        "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China.",
+        "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+        "Department of Medical Oncology, Cancer Center, West China Hospital, Sichuan University, Chengdu, China.",
+        "Department of Oncology, Gaozhou People's Hospital Affiliated to Guangdong Medical University, Maoming, China.",
+        "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+        "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China.",
+        "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+        "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China.",
+        "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+        "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xie, Yujie",
+        "short_name": "Xie Y",
+        "identifiers": [],
+        "affiliations": [
+          "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+          "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Yinyin",
+        "short_name": "Xue Y",
+        "identifiers": [],
+        "affiliations": [
+          "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+          "Department of Medical Oncology, Cancer Center, West China Hospital, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Dongmei",
+        "short_name": "Lai D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Gaozhou People's Hospital Affiliated to Guangdong Medical University, Maoming, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiang",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+          "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Guosheng",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": [
+          "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+          "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Qinghua",
+        "short_name": "Zhou Q",
+        "identifiers": [],
+        "affiliations": [
+          "Lung Cancer Center, West China Hospital of Sichuan University, Chengdu, China.",
+          "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Translational lung cancer research"
+    ],
+    "journal_abbrev": [
+      "Transl Lung Cancer Res"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 10:33",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999620"
+    ],
+    "review": [
+      "42999620"
+    ],
+    "pmc": [
+      "13743461"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42999620/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.21037/tlcr-2026-0927",
+        "provider": "AME Publishing Company",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3842",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

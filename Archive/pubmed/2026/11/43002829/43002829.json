@@ -1,0 +1,191 @@
+{
+  "identity": {
+    "pmid": "43002829",
+    "doi": "10.1016/j.biopha.2026.120028",
+    "title": "Formononetin disrupts MRSA biofilm via potential SarA-associated regulatory modulation."
+  },
+  "content": {
+    "abstract": "Biofilm formation is a crucial aspect of Methicillin-resistant Staphylococcus aureus (MRSA) pathogenesis and contributes to its resistance against conventional antibiotics. This study reports the identification of a bioactive molecule, formononetin, from Glycyrrhiza glabra L., that is effective against MRSA. Formononetin significantly inhibited biofilm formation, disrupted sessile biofilm, and reduced the hemolytic activity of MRSA in a dose-dependent manner. Formononetin also increased the survival rate of MRSA-infected G. mellonella larvae by decreasing the bacterial load and increasing melanization. The combination of formononetin with antibiotics, like oxacillin, ampicillin, and streptomycin, showed a fractional inhibitory concentration index (FICI) </= 0.5, which indicates a synergistic effect. Molecular docking studies showed formononetin can bind to the global regulator, SarA, with an estimated binding score of -6.176 kcal/mol. Further, the aspartate residue (D20) in SarA was identified as a binding site for formononetin. Microscale thermophoresis and electrophoretic mobility shift assay of the SarAD20A mutant showed reduced affinity towards formononetin without affecting its DNA-binding activity compared to its wild-type counterpart. Further, proteomic profiling of MRSA upon treatment with formononetin showed significant modulation of SarA and SarA-related pathways, such as scdA and agrC. Our findings suggest that formononetin holds promise as a natural agent for combating MRSA biofilm.",
+    "keywords": [
+      "Antimicrobial",
+      "Biofilm",
+      "Formononetin",
+      "LC-MS/MS",
+      "MRSA",
+      "SarA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Borah, Atlanta",
+        "Jena, Jashaswi Priyadarshini",
+        "Vijay, Macha",
+        "Okram, Annie",
+        "M, Gowtham",
+        "P, Niveditha",
+        "Barbuddhe, Sukhadeo B",
+        "Hegde, Nagendra R",
+        "Rawool, Deepak B",
+        "Srivastava, Anand"
+      ],
+      "short_names": [
+        "Borah A",
+        "Jena JP",
+        "Vijay M",
+        "Okram A",
+        "M G",
+        "P N",
+        "Barbuddhe SB",
+        "Hegde NR",
+        "Rawool DB",
+        "Srivastava A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India.",
+        "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India; Regional Centre for Biotechnology (RCB), Faridabad, India.",
+        "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India; Regional Centre for Biotechnology (RCB), Faridabad, India.",
+        "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India.",
+        "Indian Council of Agricultural Research - National Meat Research Institute (NMRI), Hyderabad, India.",
+        "Indian Council of Agricultural Research - National Meat Research Institute (NMRI), Hyderabad, India.",
+        "Indian Council of Agricultural Research - National Meat Research Institute (NMRI), Hyderabad, India.",
+        "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India; Regional Centre for Biotechnology (RCB), Faridabad, India.",
+        "Indian Council of Agricultural Research - National Meat Research Institute (NMRI), Hyderabad, India.",
+        "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India; Regional Centre for Biotechnology (RCB), Faridabad, India. Electronic address: anand@niab.org.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Borah, Atlanta",
+        "short_name": "Borah A",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India."
+        ]
+      },
+      {
+        "full_name": "Jena, Jashaswi Priyadarshini",
+        "short_name": "Jena JP",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India; Regional Centre for Biotechnology (RCB), Faridabad, India."
+        ]
+      },
+      {
+        "full_name": "Vijay, Macha",
+        "short_name": "Vijay M",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India; Regional Centre for Biotechnology (RCB), Faridabad, India."
+        ]
+      },
+      {
+        "full_name": "Okram, Annie",
+        "short_name": "Okram A",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India."
+        ]
+      },
+      {
+        "full_name": "M, Gowtham",
+        "short_name": "M G",
+        "identifiers": [],
+        "affiliations": [
+          "Indian Council of Agricultural Research - National Meat Research Institute (NMRI), Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "P, Niveditha",
+        "short_name": "P N",
+        "identifiers": [],
+        "affiliations": [
+          "Indian Council of Agricultural Research - National Meat Research Institute (NMRI), Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "Barbuddhe, Sukhadeo B",
+        "short_name": "Barbuddhe SB",
+        "identifiers": [],
+        "affiliations": [
+          "Indian Council of Agricultural Research - National Meat Research Institute (NMRI), Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "Hegde, Nagendra R",
+        "short_name": "Hegde NR",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India; Regional Centre for Biotechnology (RCB), Faridabad, India."
+        ]
+      },
+      {
+        "full_name": "Rawool, Deepak B",
+        "short_name": "Rawool DB",
+        "identifiers": [],
+        "affiliations": [
+          "Indian Council of Agricultural Research - National Meat Research Institute (NMRI), Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "Srivastava, Anand",
+        "short_name": "Srivastava A",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Research Innovation Council - National Institute of Animal Biotechnology (BRIC-NIAB), Gachibowli, Hyderabad, Telangana 500032, India; Regional Centre for Biotechnology (RCB), Faridabad, India. Electronic address: anand@niab.org.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+    ],
+    "journal_abbrev": [
+      "Biomed Pharmacother"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 23:27",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43002829"
+    ],
+    "review": [
+      "43002829"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0753-3322(26)01064-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0753-3322(26)01064-4",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

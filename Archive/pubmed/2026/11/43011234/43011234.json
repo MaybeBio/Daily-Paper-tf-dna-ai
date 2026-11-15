@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "43011234",
+    "doi": "10.1093/nargab/lqag140",
+    "title": "scMINA: an interpretable workflow for paired scRNA-scATAC multiome integration and regulatory prioritization."
+  },
+  "content": {
+    "abstract": "Single-cell multiomic technologies that jointly profile transcriptomic and epigenomic states provide unprecedented opportunities to investigate cellular heterogeneity and gene regulatory mechanisms in complex diseases. However, analysis of paired single-cell RNA-seq (scRNA-seq) and chromatin accessibility (scATAC-seq) data remains computationally challenging due to modality-specific technical variation, integration complexity, and limited interpretability of downstream regulatory inference. Here, we present scMINA (single-cell Multimodal Integration and Network Attribution), a modular and interpretable analytical workflow for the analysis of paired single-cell multiome datasets. scMINA comprises coordinated modules for multimodal integration, technical covariate correction, and regulatory feature prioritization, enabling systematic characterization of cellular states across transcriptomic and epigenomic modalities. In addition, scMINA incorporates explainable artificial intelligence-based attribution strategies to prioritize candidate genes and transcription factors associated with cell-state heterogeneity and disease-related regulatory alterations. We applied scMINA to the single-cell multiome data from the Seattle Alzheimer's Disease Brain Cell Atlas, where the workflow robustly resolved major glial cell populations and identified regulatory features associated with Alzheimer's disease pathology. By coupling multimodal integration with interpretable regulatory prioritization, scMINA provides a practical workflow for systematic analysis and biological interpretation of paired scRNA-seq and scATAC-seq datasets.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Multiomics",
+      "*Single-Cell Analysis/methods",
+      "Single-Cell Gene Expression Analysis",
+      "Workflow",
+      "Alzheimer Disease/genetics/pathology/metabolism",
+      "*Software",
+      "*RNA-Seq/methods",
+      "Gene Regulatory Networks",
+      "Chromatin/genetics/metabolism",
+      "*RNA, Small Cytoplasmic/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Shuwen",
+        "Hu, Hongru",
+        "Wang, Xue",
+        "Xiong, Chengjie",
+        "Kanekiyo, Takahisa",
+        "Asmann, Yan W",
+        "Ren, Yingxue"
+      ],
+      "short_names": [
+        "Zhang S",
+        "Hu H",
+        "Wang X",
+        "Xiong C",
+        "Kanekiyo T",
+        "Asmann YW",
+        "Ren Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0044-4499",
+        "ORCID: 0000-0003-4529-5722"
+      ],
+      "affiliations": [
+        "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN 55905, United States.",
+        "Integrative Genetics and Genomics, University of California, Davis, CA 95616, United States.",
+        "Department of Quantitative Health Sciences, Mayo Clinic, Jacksonville, FL 32224, United States.",
+        "Division of Biostatistics, Washington University School of Medicine, St. Louis, MO 63110, United States.",
+        "Department of Neuroscience, Mayo Clinic, Jacksonville, FL 32224, United States.",
+        "Department of Quantitative Health Sciences, Mayo Clinic, Jacksonville, FL 32224, United States.",
+        "Department of Quantitative Health Sciences, Mayo Clinic, Jacksonville, FL 32224, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Shuwen",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN 55905, United States."
+        ]
+      },
+      {
+        "full_name": "Hu, Hongru",
+        "short_name": "Hu H",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Genetics and Genomics, University of California, Davis, CA 95616, United States."
+        ]
+      },
+      {
+        "full_name": "Wang, Xue",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Quantitative Health Sciences, Mayo Clinic, Jacksonville, FL 32224, United States."
+        ]
+      },
+      {
+        "full_name": "Xiong, Chengjie",
+        "short_name": "Xiong C",
+        "identifiers": [
+          "0000-0003-0044-4499"
+        ],
+        "affiliations": [
+          "Division of Biostatistics, Washington University School of Medicine, St. Louis, MO 63110, United States."
+        ]
+      },
+      {
+        "full_name": "Kanekiyo, Takahisa",
+        "short_name": "Kanekiyo T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neuroscience, Mayo Clinic, Jacksonville, FL 32224, United States."
+        ]
+      },
+      {
+        "full_name": "Asmann, Yan W",
+        "short_name": "Asmann YW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Quantitative Health Sciences, Mayo Clinic, Jacksonville, FL 32224, United States."
+        ]
+      },
+      {
+        "full_name": "Ren, Yingxue",
+        "short_name": "Ren Y",
+        "identifiers": [
+          "0000-0003-4529-5722"
+        ],
+        "affiliations": [
+          "Department of Quantitative Health Sciences, Mayo Clinic, Jacksonville, FL 32224, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "NAR genomics and bioinformatics"
+    ],
+    "journal_abbrev": [
+      "NAR Genom Bioinform"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:37",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43011234"
+    ],
+    "review": [
+      "43011234"
+    ],
+    "pmc": [
+      "13748873"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43011234/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nargab/article-lookup/doi/10.1093/nargab/lqag140",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

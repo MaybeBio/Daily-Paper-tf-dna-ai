@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "43015361",
+    "doi": "10.1038/s42003-026-11239-z",
+    "title": "P53-assisted METTL14-mediated m(6)A modification of SLC7A11 drives ferroptosis and inflammation in polycystic ovary syndrome."
+  },
+  "content": {
+    "abstract": "Polycystic ovary syndrome (PCOS) is characterized by chronic inflammation and follicular arrest, yet the molecular drivers linking these pathologies to granulosa cell (GC) death remain elusive. Here, we identify a ferroptosis-inflammation cascade as a critical determinant of ovarian dysfunction in PCOS. We demonstrate that the N(6)-methyladenosine (m(6)A) methyltransferase METTL14 is aberrantly upregulated in human PCOS GCs, correlating with oxidative damage. Mechanistically, we uncover a non-canonical paradigm where upregulated P53 functions as an essential RNA-binding cofactor, recruiting METTL14 to the SLC7A11 transcript. Validated by AlphaFold3 modeling, this METTL14-p53 complex catalyzes SLC7A11 m(6)A hypermethylation and mRNA destabilization. The resulting SLC7A11 deficiency dismantles antioxidant defenses, driving ferroptosis and amplifying local inflammation. Crucially, in a DHEA-induced PCOS rat model, genetic ablation of Tp53 severed this pathogenic axis, restoring redox balance, suppressing inflammation, and reversing the polycystic phenotype. Collectively, our findings reveal a pivotal epigenetic mechanism linking m(6)A reprogramming, iron-dependent cell death, and inflammation, highlighting the METTL14-p53-SLC7A11 axis as a therapeutic target in PCOS.",
+    "keywords": [],
+    "mesh_terms": [
+      "Female",
+      "Animals",
+      "Humans",
+      "*Polycystic Ovary Syndrome/genetics/metabolism/pathology",
+      "*Tumor Suppressor Protein p53/metabolism/genetics",
+      "*Ferroptosis/genetics",
+      "*Inflammation/genetics/metabolism",
+      "*Methyltransferases/metabolism/genetics",
+      "RNA Methylation",
+      "*Amino Acid Transport System y+/metabolism/genetics",
+      "Rats",
+      "Granulosa Cells/metabolism/pathology",
+      "Epitranscriptome"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Xiaohong",
+        "Lin, Jing",
+        "Ning, Peng",
+        "Liu, Dekun",
+        "Zhang, Ruibing",
+        "Chi, Zhoulin",
+        "Zeng, Yahan",
+        "Yu, Zheng",
+        "Yu, Shuguang",
+        "Yang, Sha"
+      ],
+      "short_names": [
+        "Chen X",
+        "Lin J",
+        "Ning P",
+        "Liu D",
+        "Zhang R",
+        "Chi Z",
+        "Zeng Y",
+        "Yu Z",
+        "Yu S",
+        "Yang S"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9108-5852"
+      ],
+      "affiliations": [
+        "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Guangxi University of Traditional Chinese Medicine, Nanning, China.",
+        "Guangxi University of Traditional Chinese Medicine, Nanning, China.",
+        "The First Affiliated Hospital of Guangxi University of Chinese Medicine, Nanning, China.",
+        "Guangxi University of Traditional Chinese Medicine, Nanning, China.",
+        "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Guangxi University of Traditional Chinese Medicine, Nanning, China.",
+        "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+        "Chengdu University of Traditional Chinese Medicine, Chengdu, China. ysg@cdutcm.edu.cn.",
+        "Acupuncture and Chronobiology Key Laboratory of Sichuan Province, Chengdu, China. ysg@cdutcm.edu.cn.",
+        "Chengdu University of Traditional Chinese Medicine, Chengdu, China. yangsha@cdutcm.edu.cn.",
+        "Key Laboratory of Acupuncture for Senile Disease (Chengdu University of TCM), Ministry of Education, Chengdu, China. yangsha@cdutcm.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Xiaohong",
+        "short_name": "Chen X",
+        "identifiers": [
+          "0000-0001-9108-5852"
+        ],
+        "affiliations": [
+          "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+          "Guangxi University of Traditional Chinese Medicine, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Jing",
+        "short_name": "Lin J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi University of Traditional Chinese Medicine, Nanning, China.",
+          "The First Affiliated Hospital of Guangxi University of Chinese Medicine, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Ning, Peng",
+        "short_name": "Ning P",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi University of Traditional Chinese Medicine, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dekun",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ruibing",
+        "short_name": "Zhang R",
+        "identifiers": [],
+        "affiliations": [
+          "Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Chi, Zhoulin",
+        "short_name": "Chi Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi University of Traditional Chinese Medicine, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Yahan",
+        "short_name": "Zeng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Zheng",
+        "short_name": "Yu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Chengdu University of Traditional Chinese Medicine, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Shuguang",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "Chengdu University of Traditional Chinese Medicine, Chengdu, China. ysg@cdutcm.edu.cn.",
+          "Acupuncture and Chronobiology Key Laboratory of Sichuan Province, Chengdu, China. ysg@cdutcm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Sha",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "Chengdu University of Traditional Chinese Medicine, Chengdu, China. yangsha@cdutcm.edu.cn.",
+          "Key Laboratory of Acupuncture for Senile Disease (Chengdu University of TCM), Ministry of Education, Chengdu, China. yangsha@cdutcm.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Communications biology"
+    ],
+    "journal_abbrev": [
+      "Commun Biol"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 05:29",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43015361"
+    ],
+    "review": [
+      "43015361"
+    ],
+    "pmc": [
+      "13755424"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/polycysticovarysyndrome.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Polycystic Ovary Syndrome"
+      },
+      {
+        "url": "https://doi.org/10.1038/s42003-026-11239-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.10.765632",
+  "title": "RNA Small-Molecule Binding-Site Prediction by Integrating RNA Language Models and Structural Geometry",
+  "doi": "10.64898/2026.11.10.765632",
+  "abstract": "RNAs are emerging as promising therapeutic targets, and small-molecule binding can modulate their structure and function, creating opportunities for therapeutic development. Accurate identification of RNA–small-molecule binding sites is therefore important for understanding RNA–ligand interactions and facilitating RNA-targeted drug discovery. However, the structural complexity of RNA and the limited availability of experimentally characterized RNA–ligand complexes pose challenges for computational binding-site prediction. In this study, we propose RSMBind, a graph attention-based deep learning framework for nucleotide-level prediction of RNA–small-molecule binding sites. The model integrates geometric descriptors of the local three-dimensional environment with pretrained RNA language model embeddings to capture complementary structural and sequence information. We investigate three pretrained RNA language models—RNA-BERT, ERNIE-RNA and RNA-FM—and assess the contributions of sequence representations and geometric features through feature-level ablation experiments. The model is developed using the TR60 and HARIBOSS datasets and evaluated on four independent benchmark datasets: RB9, TE18, TL12 and JL10. RSMBind achieves the highest MCC among the compared methods on three of the four benchmarks, with relative improvements of 17.1% on RB9, 7.2% on TL12 and 16.0% on JL10 over the best previously reported results, while achieving competitive performance on TE18. Furthermore, RSMBind retains predictive capability when using only pretrained RNA language model embeddings, highlighting their potential utility when explicit tertiary structural features are unavailable. Structural analysis indicates differences in prediction performance across RNA structural regions, with loop-associated binding sites generally being captured more effectively than those embedded within stem regions. Additionally, 100 ns molecular dynamics simulations of selected RNA–ligand complexes provide insights into the relationship between predicted binding probabilities and dynamic ligand proximity, further highlighting the role of conformational dynamics in evaluating structure-based predictions. The source code is available at [ https://github.com/sharma-nandita/RSMBind ].",
+  "authors": [
+    "Nandita Sharma",
+    "Pralay Mitra"
+  ],
+  "published_date": "2026-11-11",
+  "updated_date": "2026-11-11T14:30:18Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765632",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765632.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T12:21:47Z",
+        "timestamp": 1794658907030,
+        "version": "4.9.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 25,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                11
+              ]
+            ],
+            "date-time": "2026-11-11T00:00:00Z",
+            "timestamp": 1794355200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  RNAs are emerging as promising therapeutic targets, and small-molecule binding can modulate their structure and function, creating opportunities for therapeutic development. Accurate identification of RNA–small-molecule binding sites is therefore important for understanding RNA–ligand interactions and facilitating RNA-targeted drug discovery. However, the structural complexity of RNA and the limited availability of experimentally characterized RNA–ligand complexes pose challenges for computational binding-site prediction. In this study, we propose RSMBind, a graph attention-based deep learning framework for nucleotide-level prediction of RNA–small-molecule binding sites. The model integrates geometric descriptors of the local three-dimensional environment with pretrained RNA language model embeddings to capture complementary structural and sequence information. We investigate three pretrained RNA language models—RNA-BERT, ERNIE-RNA and RNA-FM—and assess the contributions of sequence representations and geometric features through feature-level ablation experiments. The model is developed using the TR60 and HARIBOSS datasets and evaluated on four independent benchmark datasets: RB9, TE18, TL12 and JL10. RSMBind achieves the highest MCC among the compared methods on three of the four benchmarks, with relative improvements of 17.1% on RB9, 7.2% on TL12 and 16.0% on JL10 over the best previously reported results, while achieving competitive performance on TE18. Furthermore, RSMBind retains predictive capability when using only pretrained RNA language model embeddings, highlighting their potential utility when explicit tertiary structural features are unavailable. Structural analysis indicates differences in prediction performance across RNA structural regions, with loop-associated binding sites generally being captured more effectively than those embedded within stem regions. Additionally, 100 ns molecular dynamics simulations of selected RNA–ligand complexes provide insights into the relationship between predicted binding probabilities and dynamic ligand proximity, further highlighting the role of conformational dynamics in evaluating structure-based predictions. The source code is available at [\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/sharma-nandita/RSMBind\">https://github.com/sharma-nandita/RSMBind</jats:ext-link>\n                  ].\n                </jats:p>",
+      "DOI": "10.64898/2026.11.10.765632",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ],
+        "date-time": "2026-11-11T14:30:18Z",
+        "timestamp": 1794407418000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "RNA Small-Molecule Binding-Site Prediction by Integrating RNA Language Models and Structural Geometry"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2191-8462",
+          "authenticated-orcid": false,
+          "given": "Nandita",
+          "family": "Sharma",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Centre for Computational and Data Sciences, Indian Institute of Technology Kharagpur, Kharagpur, West Bengal 721302, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4119-3788",
+          "authenticated-orcid": false,
+          "given": "Pralay",
+          "family": "Mitra",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, Kharagpur, West Bengal 721302, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jmedchem.4c01330"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17460441.2024.2313455"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/9780470015902.a0001339.pub2"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41573-022-00521-4"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.drudis.2025.104366"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/srep09179"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/srep19016"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/bty345"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btaa1092"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bib/bbac486"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.4c01264"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bib/bbad482"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmb.2025.169010"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btaf447"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bib/bbaf489"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.16",
+          "unstructured": "C. Sun , L. Zhang , L. Zhang , Y. Song , B. Ma , and Y. Wang , “GATRsite: RNA-Ligand Binding Sites Prediction Using Graph Attention Convolution Network and Pre-trained RNA Language Model.”"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bib/bbaf713"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.21888291"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gky949"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btac483"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nargab/lqac012"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-025-64972-0"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2022.08.06.503062"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.24",
+          "unstructured": "S. Brody , U. Alon , and E. Yahav , “How Attentive are Graph Attention Networks?,” Jan. 2022, [Online]. Available: http://arxiv.org/abs/2105.14491"
+        },
+        {
+          "key": "2026111403300797000_2026.11.10.765632v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.1710.10903"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.10.765632",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T11:30:16Z",
+        "timestamp": 1794655816000
+      },
+      "score": 113.77235,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.10.765632"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ]
+      },
+      "references-count": 25,
+      "URL": "https://doi.org/10.64898/2026.11.10.765632",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

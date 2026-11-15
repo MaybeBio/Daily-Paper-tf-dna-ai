@@ -1,0 +1,171 @@
+{
+  "identity": {
+    "pmid": "43012827",
+    "doi": "10.1097/MD.0000000000051139",
+    "title": "Comprehensive identification of lactate metabolism-related genes in recurrent spontaneous abortion: An observational study integrating bioinformatics and experimental validation."
+  },
+  "content": {
+    "abstract": "Recurrent spontaneous abortion (RSA) is a complex multifactorial disease. Lactate metabolism (LM) has been implicated in RSA pathogenesis, but the underlying molecular mechanisms remain unclear. This observational study aimed to identify key LM-related genes (LM-RGs) in RSA and explore their potential regulatory mechanisms and therapeutic targets. The study combined bioinformatics analysis with experimental validation. The training dataset GSE26787 and validation dataset GSE165004 were obtained from the Gene Expression Omnibus database. Differentially expressed genes were identified using the limma package. Candidate LM-RGs were obtained by intersecting differentially expressed genes with 262 LM-RGs from the Gene Set Enrichment Analysis database. Hub genes were identified through protein-protein interaction network analysis using the CytoHubba plugin (National Cheng Kung University). Key genes were further screened using Boruta and random forest machine learning algorithms, followed by expression validation in both Gene Expression Omnibus datasets. Reverse transcription-quantitative polymerase chain reaction was performed on 10 RSA and 10 control endometrial samples to validate key gene expression. Gene set enrichment analysis and gene set variation analysis were conducted to explore functional pathways. Regulatory networks involving microRNAs, long noncoding RNAs, and transcription factors were constructed, and potential therapeutic drugs were predicted using the Drug Signatures Database. CALR (upregulated) and PIEZO1 (downregulated) were identified as key genes in RSA and were functionally linked to pathways such as cytokine signaling. Furthermore, we delineated a regulatory network governing these genes, implicating the long noncoding RNA X-inactive specific transcript and shared transcription factors, including MYC proto-oncogene, bHLH transcription factor and vitamin D receptor. We propose several candidate drugs, including estradiol, predicted to target both CALR and PIEZO1. This study identifies CALR and PIEZO1 as key LM-RGs in RSA, with significant dysregulation confirmed in clinical samples. These genes are involved in cytokine signaling pathways and are regulated by complex molecular networks. The identification of common targeting drugs provides a foundation for developing novel therapeutic strategies for RSA. Further studies are warranted to validate these findings and explore their clinical applications.",
+    "keywords": [
+      "key genes",
+      "lactate metabolism",
+      "machine learning",
+      "molecular regulatory network",
+      "recurrent spontaneous abortion"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "*Computational Biology/methods",
+      "*Lactic Acid/metabolism",
+      "Pregnancy",
+      "Gene Regulatory Networks",
+      "Protein Interaction Maps/genetics",
+      "Proto-Oncogene Mas",
+      "*Abortion, Habitual/genetics/metabolism",
+      "Gene Expression Profiling",
+      "Databases, Genetic",
+      "MicroRNAs/genetics",
+      "RNA, Long Noncoding/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Daili",
+        "Chen, Lin",
+        "Zheng, Huiling",
+        "Huang, Zhi",
+        "Lai, Ting"
+      ],
+      "short_names": [
+        "Tang D",
+        "Chen L",
+        "Zheng H",
+        "Huang Z",
+        "Lai T"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-0155-3393",
+        "ORCID: 0009-0009-0504-4284",
+        "ORCID: 0009-0007-0683-7476",
+        "ORCID: 0009-0001-2753-5414",
+        "ORCID: 0009-0001-3351-6308"
+      ],
+      "affiliations": [
+        "Department of Eugenics and Genetics, Guiyang Maternity and Child Health Hospital, Guiyang, Guizhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Daili",
+        "short_name": "Tang D",
+        "identifiers": [
+          "0009-0000-0155-3393"
+        ],
+        "affiliations": [
+          "Department of Eugenics and Genetics, Guiyang Maternity and Child Health Hospital, Guiyang, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Lin",
+        "short_name": "Chen L",
+        "identifiers": [
+          "0009-0009-0504-4284"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zheng, Huiling",
+        "short_name": "Zheng H",
+        "identifiers": [
+          "0009-0007-0683-7476"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Huang, Zhi",
+        "short_name": "Huang Z",
+        "identifiers": [
+          "0009-0001-2753-5414"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lai, Ting",
+        "short_name": "Lai T",
+        "identifiers": [
+          "0009-0001-3351-6308"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Medicine"
+    ],
+    "journal_abbrev": [
+      "Medicine (Baltimore)"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:37",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43012827"
+    ],
+    "review": [
+      "43012827"
+    ],
+    "pmc": [
+      "13727185"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43012827/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CALR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-33",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.ovid.com/10.1097/MD.0000000000051139",
+        "provider": "Wolters Kluwer",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

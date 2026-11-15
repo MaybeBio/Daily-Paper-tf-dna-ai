@@ -1,0 +1,366 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.07.765118",
+  "title": "CPDD: Adapting an autoregressive DNA language model for bidirectional phage genome modeling",
+  "doi": "10.64898/2026.11.07.765118",
+  "abstract": "Autoregressive DNA language models generate sequences efficiently from left to right, but many genome-analysis and sequence-editing problems are naturally conditioned on both flanks. We introduce CreatiPhage , a 144.5M-parameter autoregressive DNA language model for bacteriophages, and its diffusion extension, CreatiPhage Diffusion DNA-LM (CPDD) . CPDD is a 147.5M-parameter bidirectional discrete diffusion model initialized from the six-epoch CreatiPhage checkpoint. CPDD retains the pretrained Transformer, block attention residuals, and Engram conditional memory, while introducing non-causal attention, a MASK-aware base-5 Engram, centered depthwise convolution, and position-aligned nucleotide readout. Training combines masked and GIDD-style uniformly substituted bases with nucleotide- and amino-acid-level losses over a 10 kb, 32 kb, and whole-source context curriculum. On a screened panel of 522 phage CDSs, CPDD achieves higher random-mask restoration accuracy than a comparable diffusion model and performs well above codon-level references. In a mixed-corruption test, it restores 42.4% of visible incorrect bases. Frozen CPDD representations also support infA fitness prediction and seven-class phage virion protein subtype classification. Controlled evaluations further characterize how restoration depends on visible context and identify opportunities to improve longer-range sequence recovery. Together, these results support scaffold-conditioned sequence modeling as a step towards modular design of phage genomes.",
+  "authors": [
+    "Hao Ding",
+    "Nannan Wu",
+    "Tianyi Qiu"
+  ],
+  "published_date": "2026-11-10",
+  "updated_date": "2026-11-10T12:05:20Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.07.765118",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.07.765118.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T08:27:26Z",
+        "timestamp": 1794644846886,
+        "version": "4.9.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 25,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                10
+              ]
+            ],
+            "date-time": "2026-11-10T00:00:00Z",
+            "timestamp": 1794268800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Shanghai Pioneer Program",
+          "award": [
+            "26XF3200200, 26XF3200600"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "26XF3200200, 26XF3200600"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Autoregressive DNA language models generate sequences efficiently from left to right, but many genome-analysis and sequence-editing problems are naturally conditioned on both flanks. We introduce\n                  <jats:bold>CreatiPhage</jats:bold>\n                  , a 144.5M-parameter autoregressive DNA language model for bacteriophages, and its diffusion extension,\n                  <jats:bold>CreatiPhage Diffusion DNA-LM (CPDD)</jats:bold>\n                  . CPDD is a 147.5M-parameter bidirectional discrete diffusion model initialized from the six-epoch CreatiPhage checkpoint. CPDD retains the pretrained Transformer, block attention residuals, and Engram conditional memory, while introducing non-causal attention, a MASK-aware base-5 Engram, centered depthwise convolution, and position-aligned nucleotide readout. Training combines masked and GIDD-style uniformly substituted bases with nucleotide- and amino-acid-level losses over a 10 kb, 32 kb, and whole-source context curriculum. On a screened panel of 522 phage CDSs, CPDD achieves higher random-mask restoration accuracy than a comparable diffusion model and performs well above codon-level references. In a mixed-corruption test, it restores 42.4% of visible incorrect bases. Frozen CPDD representations also support\n                  <jats:italic>infA</jats:italic>\n                  fitness prediction and seven-class phage virion protein subtype classification. Controlled evaluations further characterize how restoration depends on visible context and identify opportunities to improve longer-range sequence recovery. Together, these results support scaffold-conditioned sequence modeling as a step towards modular design of phage genomes.\n                </jats:p>",
+      "DOI": "10.64898/2026.11.07.765118",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ],
+        "date-time": "2026-11-10T12:05:20Z",
+        "timestamp": 1794312320000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "CPDD: Adapting an autoregressive DNA language model for bidirectional phage genome modeling"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0001-1866-7183",
+          "authenticated-orcid": false,
+          "given": "Hao",
+          "family": "Ding",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "CreatiPhage Biotechnology Co., Ltd"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1244-0030",
+          "authenticated-orcid": false,
+          "given": "Nannan",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "CreatiPhage Biotechnology Co., Ltd"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tianyi",
+          "family": "Qiu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Clinical Science, Zhongshan Hospital, Fudan University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.1",
+          "first-page": "43177",
+          "article-title": "HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution",
+          "volume": "36",
+          "year": "2023",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ado9336"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-024-53759-4"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btab083"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41592-024-02523-z"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.6",
+          "first-page": "17981",
+          "article-title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+          "volume": "34",
+          "year": "2021",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.7",
+          "first-page": "130136",
+          "article-title": "Simple and Effective Masked Diffusion Language Models",
+          "volume": "37",
+          "year": "2024",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Nie, S. , Zhu, F. , You, Z. , Zhang, X. , Ou, J. , Hu, J. , et al. Large Language Diffusion Models. Advances in Neural Information Processing Systems, 38, 2025.",
+          "DOI": "10.52202/085713-1689"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.9",
+          "unstructured": "Gong, S. , Agarwal, S. , Zhang, Y. , Ye, J. , Zheng, L. , Li, M. , et al. Scaling Diffusion Language Models via Adaptation from Autoregressive Models. In International Conference on Learning Representations, 2025."
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.10",
+          "year": "2026",
+          "journal-title": "D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.11",
+          "unstructured": "Hou, Y. , Long, W. , Su, H. , Feng, J. , and Zhang, Y. PhaGen: masked diffusion for bacteriophage genome analysis and fast genome-scale generation. Public model implementation, pretrained weights, and project page, 2026. URL https://ai4nucleome.github.io/PhaGen/. Accessed 5 November 2026."
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.12",
+          "year": "2026",
+          "journal-title": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.13",
+          "year": "2026",
+          "journal-title": "Attention Residuals"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.14",
+          "first-page": "61810",
+          "article-title": "Generalized Interpolating Discrete Diffusion",
+          "volume": "267",
+          "year": "2025",
+          "journal-title": "Proceedings of the 42nd International Conference on Machine Learning"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41564-021-00928-6"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2021.01.029"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41587-023-01953-y"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ade2574"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.19",
+          "unstructured": "Hou, Y. , Long, W. , Su, H. , Feng, J. , and Zhang, Y. PhaGen: code, evaluation data and results. Zenodo, 2026. URL https://zenodo.org/records/23477083."
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cels.2016.11.004"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btad229"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13059-016-0997-x"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2105-11-119"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.3988"
+        },
+        {
+          "key": "2026111400000888000_2026.11.07.765118v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nargab/lqab067"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.07.765118",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T08:00:20Z",
+        "timestamp": 1794643220000
+      },
+      "score": 80.53808,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.07.765118"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "references-count": 25,
+      "URL": "https://doi.org/10.64898/2026.11.07.765118",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

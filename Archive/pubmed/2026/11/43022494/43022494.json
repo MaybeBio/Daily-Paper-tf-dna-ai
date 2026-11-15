@@ -1,0 +1,100 @@
+{
+  "identity": {
+    "pmid": "43022494",
+    "doi": "10.22038/ajp.2026.27611",
+    "title": "The protective role of apigenin against cadmium toxicity: study of metallothionein gene expression and antioxidant enzyme activity in mouse testicular tissue."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: The present research explored how apigenin may exert a protective role against cadmium toxicity by evaluating the expression of metallothioneins (Mts) and metal regulatory transcription factor 1 (Mtf1) genes, along with assessing the activity of antioxidant enzymes Superoxide dismutase (Sod), Glutathione peroxidase (Gpx), and Catalase (Cat) in testicular tissue of male mice, followed by bioinformatics analysis. MATERIALS AND METHODS: Within this experimental setup, male Balb/C mice received administration of cadmium and apigenin for 14 consecutive days. Mt1, Mt2, and Mtf1 gene expression, as well as Sod, Gpx, and Cat antioxidant enzyme activities, were measured in the testis. Molecular docking and gene network analysis were employed to investigate apigenin-metallothionein interactions and their associated gene connections. RESULTS: The expression of Mt1 and Mt2 genes was markedly elevated in the cadmium-treated group; however, apigenin administration significantly attenuated this up-regulation. In the case of Mtf1, cadmium exposure enhanced its expression, while apigenin exerted no noticeable effect. Moreover, cadmium treatment led to a reduction in the activity of Sod, Gpx, and Cat enzymes, whereas their activities were improved when apigenin was co-administered. Molecular docking revealed that apigenin interacted with both Mt1 and Mt2 proteins in the primary binding sites of the proteins. GeneMANIA revealed links between the three target genes and 20 others, mainly through physical interactions and co-expression, suggesting direct interaction and co-regulation. CONCLUSION: Apigenin can regulate the expression of metallothionein genes and preserve the activity of antioxidant enzymes Sod, Gpx, and Cat in mice subjected to cadmium exposure.",
+    "keywords": [
+      "Antioxidant enzymes",
+      "Apigenin",
+      "Cadmium",
+      "Metallothionein",
+      "Testis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zarei, Zahra",
+        "Karimian, Mohammad",
+        "Davoodi, Parisa"
+      ],
+      "short_names": [
+        "Zarei Z",
+        "Karimian M",
+        "Davoodi P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biology, Faculty of Science, University of Mazandaran, Babolsar, Mazandaran, Iran.",
+        "Department of Cellular and Molecular Biology, Faculty of Science, University of Mazandaran, Babolsar, Mazandaran, Iran.",
+        "Department of Biology, Faculty of Science, University of Mazandaran, Babolsar, Mazandaran, Iran."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zarei, Zahra",
+        "short_name": "Zarei Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Faculty of Science, University of Mazandaran, Babolsar, Mazandaran, Iran."
+        ]
+      },
+      {
+        "full_name": "Karimian, Mohammad",
+        "short_name": "Karimian M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Biology, Faculty of Science, University of Mazandaran, Babolsar, Mazandaran, Iran."
+        ]
+      },
+      {
+        "full_name": "Davoodi, Parisa",
+        "short_name": "Davoodi P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Faculty of Science, University of Mazandaran, Babolsar, Mazandaran, Iran."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Avicenna journal of phytomedicine"
+    ],
+    "journal_abbrev": [
+      "Avicenna J Phytomed"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 11:29",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43022494"
+    ],
+    "review": [
+      "43022494"
+    ],
+    "pmc": [
+      "13755811"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

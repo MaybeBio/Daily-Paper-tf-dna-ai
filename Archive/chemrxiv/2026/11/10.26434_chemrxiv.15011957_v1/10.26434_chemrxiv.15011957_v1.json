@@ -1,0 +1,204 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15011957/v1",
+  "title": "Fine-Tuning a Graph-Transformer ADMET Model Improves Half-Life and Plasma Protein Binding Concordance",
+  "doi": "10.26434/chemrxiv.15011957/v1",
+  "abstract": "Absorption, distribution, metabolism, excretion, and toxicity (ADMET) models are usually judged on predefined benchmark splits. Those splits are useful, but they do not show whether a model reproduces the pharmacokinetic (PK) numbers that are actually reported for individual drugs. Here we compared ADMET-AI with a fine-tuned NV-KERMT-70M-v2 model (“KERMT”) on the same Therapeutics Data Commons (TDC)-aligned endpoint definitions. KERMT was fine-tuned in two stages: a protocol check on the ChEMBL multitask (ChEMBL-MT) data set, then TDC-aligned regression and classification fine-tuning on merged ChEMBL, Biogen, ExpansionRx/OpenADMET and TDC data. Two retrospective literature comparisons were run. The first used a curated 25-drug oncology panel: for half-life (n = 17) KERMT cut mean absolute error (MAE) from 46.81 to 16.83 h (paired Wilcoxon p = 0.0046, Holm-adjusted p = 0.0139, closer for 13 of 17 drugs); volume of distribution at steady state (VDss, n = 12) and hepatocyte clearance (n = 17) showed no statistically supported difference. The second, reported here for the first time, is an expanded three-way comparison of 53 oncology drugs × 3 endpoints (159 drug-endpoint rows) against curated literature and label values. On the 48 drugs with a usable half-life reference, KERMT more than halved the error (MAE 19.43 vs 43.38 h; median absolute error 12.01 vs 35.30 h; geometric mean fold error, GMFE, 2.72 vs 3.69; within 2-fold 41.0% vs 25.0%), was closer for 34 of 48 drugs (70.8%; 95% confidence interval, CI, 55.9-83.0%), and the paired Wilcoxon test was significant (p = 0.0002; Holm-adjusted p = 0.0004). The advantage persisted after each model's systematic bias was removed (p = 0.0004), so it is not a simple scale offset: ADMET-AI over-predicted half-life for 35 of 48 drugs (mean bias +29.20 h) whereas KERMT was mildly conservative (-13.79 h). For plasma protein binding ratio (PPBR, n = 21) KERMT had lower MAE (7.05 vs 9.44 percentage points) and the only statistically significant rank agreement with literature seen anywhere in this study (Spearman ρ = 0.540, p = 0.012, vs 0.400, p = 0.073), but the paired error difference was not significant (p = 0.157). One endpoint failed outright and we state it plainly: KERMT VDss predictions collapsed to near-baseline behaviour. They occupied a narrow band (46 of 53 drugs between 0 and 10 L/kg; standard deviation 3.64 vs 6.71 L/kg for ADMET-AI), no drug in the panel had an assay-matched VDss reference, and on the six drugs with an approximate reference the per-drug KERMT predictions (MAE 2.18 L/kg) were no better than replacing the entire model with one constant (MAE 2.14 L/kg) and worse than a no-information baseline (1.71 L/kg). KERMT VDss output should therefore not be used. A deliberately strict control bounds the positive findings as well: against a structure-blind constant predictor built by leave-one-out from the reference values, KERMT was statistically indistinguishable on both endpoints (half-life MAE 19.43 vs 16.07 h, p = 0.051; PPBR 7.05 vs 7.24 percentage points, p = 0.812), while ADMET-AI was significantly worse than that constant for half-life (p < 0.0001). We therefore make no claim of accurate numerical point prediction; the supported claims are that fine-tuning removes ADMET-AI's large systematic half-life error and that the PPBR rank correlation is compound-specific signal a constant cannot possess. Physically impossible values occurred in 16 of 159 KERMT rows and 21 of 159 ADMET-AI rows. Across 30 classification endpoints, mean inter-model Pearson correlation was 0.711 and mean binary agreement at 0.5 was 89%, which measures similarity, not accuracy. This version does not yet include official Therapeutics Data Commons benchmark-group evaluation of the fine-tuned models, replicate training seeds, or a training-set overlap audit; those gaps are declared explicitly rather than left implicit. The overall conclusion is endpoint-specific: fine-tuned KERMT is a materially better-calibrated half-life and plasma-protein-binding predictor than ADMET-AI on this panel, it is not yet a demonstrated ranking model for half-life, and its VDss head is unusable.",
+  "authors": [
+    "Basel Mansour",
+    "Chetan Anand P",
+    "Binil Benny",
+    "Sifat Ahmed",
+    "Shayoni Dutta",
+    "Daniel Kei Takahashi"
+  ],
+  "published_date": "2026-11-10",
+  "updated_date": "2026-11-11T07:14:40Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15011957/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15011957/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ],
+        "date-time": "2026-11-11T07:26:14Z",
+        "timestamp": 1794381974571,
+        "version": "4.9.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Absorption, distribution, metabolism, excretion, and toxicity (ADMET) models are usually judged on predefined benchmark splits. Those splits are useful, but they do not show whether a model reproduces the pharmacokinetic (PK) numbers that are actually reported for individual drugs. Here we compared ADMET-AI with a fine-tuned NV-KERMT-70M-v2 model (“KERMT”) on the same Therapeutics Data Commons (TDC)-aligned endpoint definitions. KERMT was fine-tuned in two stages: a protocol check on the ChEMBL multitask (ChEMBL-MT) data set, then TDC-aligned regression and classification fine-tuning on merged ChEMBL, Biogen, ExpansionRx/OpenADMET and TDC data. Two retrospective literature comparisons were run. The first used a curated 25-drug oncology panel: for half-life (n = 17) KERMT cut mean absolute error (MAE) from 46.81 to 16.83 h (paired Wilcoxon p = 0.0046, Holm-adjusted p = 0.0139, closer for 13 of 17 drugs); volume of distribution at steady state (VDss, n = 12) and hepatocyte clearance (n = 17) showed no statistically supported difference. The second, reported here for the first time, is an expanded three-way comparison of 53 oncology drugs × 3 endpoints (159 drug-endpoint rows) against curated literature and label values. On the 48 drugs with a usable half-life reference, KERMT more than halved the error (MAE 19.43 vs 43.38 h; median absolute error 12.01 vs 35.30 h; geometric mean fold error, GMFE, 2.72 vs 3.69; within 2-fold 41.0% vs 25.0%), was closer for 34 of 48 drugs (70.8%; 95% confidence interval, CI, 55.9-83.0%), and the paired Wilcoxon test was significant (p = 0.0002; Holm-adjusted p = 0.0004). The advantage persisted after each model's systematic bias was removed (p = 0.0004), so it is not a simple scale offset: ADMET-AI over-predicted half-life for 35 of 48 drugs (mean bias +29.20 h) whereas KERMT was mildly conservative (-13.79 h). For plasma protein binding ratio (PPBR, n = 21) KERMT had lower MAE (7.05 vs 9.44 percentage points) and the only statistically significant rank agreement with literature seen anywhere in this study (Spearman ρ = 0.540, p = 0.012, vs 0.400, p = 0.073), but the paired error difference was not significant (p = 0.157). One endpoint failed outright and we state it plainly: KERMT VDss predictions collapsed to near-baseline behaviour. They occupied a narrow band (46 of 53 drugs between 0 and 10 L/kg; standard deviation 3.64 vs 6.71 L/kg for ADMET-AI), no drug in the panel had an assay-matched VDss reference, and on the six drugs with an approximate reference the per-drug KERMT predictions (MAE 2.18 L/kg) were no better than replacing the entire model with one constant (MAE 2.14 L/kg) and worse than a no-information baseline (1.71 L/kg). KERMT VDss output should therefore not be used. A deliberately strict control bounds the positive findings as well: against a structure-blind constant predictor built by leave-one-out from the reference values, KERMT was statistically indistinguishable on both endpoints (half-life MAE 19.43 vs 16.07 h, p = 0.051; PPBR 7.05 vs 7.24 percentage points, p = 0.812), while ADMET-AI was significantly worse than that constant for half-life (p &lt; 0.0001). We therefore make no claim of accurate numerical point prediction; the supported claims are that fine-tuning removes ADMET-AI's large systematic half-life error and that the PPBR rank correlation is compound-specific signal a constant cannot possess. Physically impossible values occurred in 16 of 159 KERMT rows and 21 of 159 ADMET-AI rows. Across 30 classification endpoints, mean inter-model Pearson correlation was 0.711 and mean binary agreement at 0.5 was 89%, which measures similarity, not accuracy. This version does not yet include official Therapeutics Data Commons benchmark-group evaluation of the fine-tuned models, replicate training seeds, or a training-set overlap audit; those gaps are declared explicitly rather than left implicit. The overall conclusion is endpoint-specific: fine-tuned KERMT is a materially better-calibrated half-life and plasma-protein-binding predictor than ADMET-AI on this panel, it is not yet a demonstrated ranking model for half-life, and its VDss head is unusable.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15011957/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ],
+        "date-time": "2026-11-11T07:14:40Z",
+        "timestamp": 1794381280000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Fine-Tuning a Graph-Transformer ADMET Model Improves Half-Life and Plasma Protein Binding Concordance"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-9036-338X",
+          "authenticated-orcid": true,
+          "given": "Basel",
+          "family": "Mansour",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Chetan Anand",
+          "family": "P",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Binil",
+          "family": "Benny",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sifat",
+          "family": "Ahmed",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shayoni",
+          "family": "Dutta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniel Kei",
+          "family": "Takahashi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15011957/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ],
+        "date-time": "2026-11-11T07:14:40Z",
+        "timestamp": 1794381280000
+      },
+      "score": 115.781944,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011957/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15011957/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            10
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

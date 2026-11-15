@@ -1,0 +1,210 @@
+{
+  "identity": {
+    "pmid": "43029281",
+    "doi": "10.3390/molecules31213968",
+    "title": "Atractylenolide II Alleviates 5-Fluorouracil-Induced Intestinal Toxicity Through Potentially Targeting the TLR4-Mediated MYD88/NF-kappaB Signaling Pathway: An Integrated In Silico and In Vitro Study."
+  },
+  "content": {
+    "abstract": "5-Fluorouracil (5-FU) is a potent compound in anti-tumor chemotherapy; however, its clinical utility is hampered by dose-limiting intestinal toxicity. Atractylenolide II (AT-II), a bioactive sesquiterpene derived from Atractylodis Rhizoma, has reported anti-inflammatory and cytoprotective activities. In this study, we employed an integrated strategy combining chemical characterization, computational pharmacology, and in vitro experiments to investigate the protective effect of AT-II against 5-FU-induced intestinal toxicity and clarify its potential target-associated mechanism. UHPLC-QE-MS was applied to profile the constituents of Atractylodis Rhizoma, with AT-II subjected to subsequent computational and experimental analyses. ADMET evaluation, network pharmacology, molecular docking, 100 ns molecular dynamic (MD) simulation and DFT calculation were performed to predict druggability, candidate targets and molecular interaction features. TLR4 and HIF1A were screened as hub candidates. MD simulations revealed that the AT-II-TLR4 complex exhibited much better conformational stability than AT-II-HIF1A. DFT calculations suggested that the lactone moiety of AT-II exhibits pronounced electron-rich features. The DARTS assay provided evidence for a potential interaction between AT-II and TLR4. In IEC-6 cells, 20 muM AT-II rescued 5-FU-impaired cell viability, decreased the release of pro-inflammatory IL-1beta, IL-6 and TNF-alpha, and suppressed the TLR4/MYD88/NF-kappaB inflammatory cascade by inhibiting NF-kappaB p65 phosphorylation. Taken together, these results suggest that AT-II protects against 5-FU-induced intestinal toxicity, probably via modulation of TLR4 and downstream MYD88/NF-kappaB inflammatory signaling, offering preliminary in vitro evidence for developing AT-II to ameliorate chemotherapy-associated intestinal toxicity.",
+    "keywords": [
+      "5-fluorouracil",
+      "TLR4",
+      "atractylenolide II",
+      "intestinal toxicity"
+    ],
+    "mesh_terms": [
+      "*Fluorouracil/adverse effects/toxicity",
+      "*Toll-Like Receptor 4/metabolism",
+      "*Lactones/pharmacology/chemistry",
+      "*Sesquiterpenes/pharmacology/chemistry",
+      "*NF-kappa B/metabolism",
+      "Animals",
+      "*Signal Transduction/drug effects",
+      "Molecular Docking Simulation",
+      "Rats",
+      "*Myeloid Differentiation Factor 88/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Intestines/drug effects",
+      "Cell Line",
+      "Computer Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Yangzhi",
+        "Jia, Ru",
+        "Liu, Yue",
+        "Liu, Pengpeng",
+        "Xu, Huiying",
+        "Liu, Yue",
+        "Chen, Yuxin",
+        "Huan, Jingyu",
+        "Yu, Haoran",
+        "Qu, Yang",
+        "Cai, Qian"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Jia R",
+        "Liu Y",
+        "Liu P",
+        "Xu H",
+        "Liu Y",
+        "Chen Y",
+        "Huan J",
+        "Yu H",
+        "Qu Y",
+        "Cai Q"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-7347-1457",
+        "ORCID: 0000-0002-9943-0910",
+        "ORCID: 0000-0001-6746-5513"
+      ],
+      "affiliations": [
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Gansu Medical College, Pingliang 744000, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China.",
+        "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Yangzhi",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Ru",
+        "short_name": "Jia R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yue",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Gansu Medical College, Pingliang 744000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Pengpeng",
+        "short_name": "Liu P",
+        "identifiers": [
+          "0009-0005-7347-1457"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Huiying",
+        "short_name": "Xu H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yue",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yuxin",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Huan, Jingyu",
+        "short_name": "Huan J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Haoran",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Qu, Yang",
+        "short_name": "Qu Y",
+        "identifiers": [
+          "0000-0002-9943-0910"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Qian",
+        "short_name": "Cai Q",
+        "identifiers": [
+          "0000-0001-6746-5513"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Liaoning University of Traditional Chinese Medicine, Dalian 116600, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43029281"
+    ],
+    "review": [
+      "43029281"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

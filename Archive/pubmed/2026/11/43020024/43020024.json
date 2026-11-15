@@ -1,0 +1,750 @@
+{
+  "identity": {
+    "pmid": "43020024",
+    "doi": "10.1016/j.cell.2026.09.008",
+    "title": "Single-cell analysis of chromatin state and transcriptome in the human basal ganglia."
+  },
+  "content": {
+    "abstract": "The basal ganglia are central to motor control, learning, emotion, and reward processing, and their dysfunction contributes to many neurological and psychiatric disorders. Here, we generated a single-cell multi-omic atlas of histone modifications and transcriptomes across eight basal ganglia regions from neurotypical human donors. This atlas resolved cell-type- and region-specific landscapes of active and repressive candidate cis-regulatory elements and delineated gene regulatory networks underlying cell identity. We found that the combinatorial expression of homeobox transcription factors provides distinctive molecular descriptors of neuronal cell identities in the basal ganglia. Integration with matched MERFISH spatial transcriptomics further uncovered regional heterogeneity in epigenomic and transcriptional programs. Finally, we used this atlas to interpret noncoding risk variants associated with neuropsychiatric disorders and to construct a deep-learning model that predicts gene regulatory activities and variant effects. Together, this work provides a multimodal regulatory framework for understanding human basal ganglia organization, evolution, and disease genetics.",
+    "keywords": [
+      "EpiBRAIN",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K9me3",
+      "Paired-Tag",
+      "epigenome",
+      "histone modifications",
+      "neuropsychiatric disorders",
+      "sequence-to-function models",
+      "single-cell multi-omics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Basal Ganglia/metabolism/cytology",
+      "*Chromatin/metabolism/genetics",
+      "*Transcriptome/genetics",
+      "*Single-Cell Analysis/methods",
+      "Histones/metabolism",
+      "Neurons/metabolism",
+      "Histone Code",
+      "Transcription Factors/metabolism",
+      "Gene Regulatory Networks",
+      "Single-Cell Gene Expression Analysis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chang, Lei",
+        "Li, Kai",
+        "Xie, Yang",
+        "Zhong, Guojie",
+        "Rink, Jonathan A",
+        "Baez-Becerra, Cindy Tatiana",
+        "Lie, Audrey",
+        "Indralingam, Hannah S",
+        "Loe, Timothy",
+        "Dong, Keyi",
+        "Gao, Xiaomeng",
+        "Wang, Zhaoning",
+        "Zu, Songpeng",
+        "Kern, Joseph Colin",
+        "Zhao, Zoey",
+        "Boone, Eric",
+        "Flores, Jesus",
+        "Monell, Alexander",
+        "Olness, Jacqueline",
+        "Barragan, Cesar",
+        "Osgood, Emma",
+        "Owens, William",
+        "Schenker-Ahmed, Natalie",
+        "Zhang, Wenjin",
+        "Liu, Di",
+        "Barcoma, Ariana S",
+        "Willier, Jackson K",
+        "Knutson, Kyle W",
+        "Russo, Kaitlyn G",
+        "Liu, Jiayi",
+        "Cho, Silvia",
+        "Arzavala, Jessica",
+        "Young, Carissa K",
+        "Sundaram, Guha V",
+        "Manning, Austin C",
+        "Sanchez, Yareli",
+        "Bikkina, Aleksandra",
+        "Berry, Jillian V",
+        "O'Connor, Carolyn",
+        "Liem, Michelle",
+        "Marrin, Mikayla V",
+        "Rose, Cynthia",
+        "Alt, Shane N",
+        "Zhu, Chenxu",
+        "Zemke, Nathan R",
+        "Ding, Wubin",
+        "Klein, Amit",
+        "Fu, Yuanyuan",
+        "Johansen, Nelson",
+        "Bakken, Trygve E",
+        "Hodge, Rebecca D",
+        "Keene, C Dirk",
+        "Lein, Ed S",
+        "Li, Daofeng",
+        "Zhu, Quan",
+        "Wang, Ting",
+        "Xu, Xiangmin",
+        "Ecker, Joseph R",
+        "Behrens, M Margarita",
+        "Ren, Bing"
+      ],
+      "short_names": [
+        "Chang L",
+        "Li K",
+        "Xie Y",
+        "Zhong G",
+        "Rink JA",
+        "Baez-Becerra CT",
+        "Lie A",
+        "Indralingam HS",
+        "Loe T",
+        "Dong K",
+        "Gao X",
+        "Wang Z",
+        "Zu S",
+        "Kern JC",
+        "Zhao Z",
+        "Boone E",
+        "Flores J",
+        "Monell A",
+        "Olness J",
+        "Barragan C",
+        "Osgood E",
+        "Owens W",
+        "Schenker-Ahmed N",
+        "Zhang W",
+        "Liu D",
+        "Barcoma AS",
+        "Willier JK",
+        "Knutson KW",
+        "Russo KG",
+        "Liu J",
+        "Cho S",
+        "Arzavala J",
+        "Young CK",
+        "Sundaram GV",
+        "Manning AC",
+        "Sanchez Y",
+        "Bikkina A",
+        "Berry JV",
+        "O'Connor C",
+        "Liem M",
+        "Marrin MV",
+        "Rose C",
+        "Alt SN",
+        "Zhu C",
+        "Zemke NR",
+        "Ding W",
+        "Klein A",
+        "Fu Y",
+        "Johansen N",
+        "Bakken TE",
+        "Hodge RD",
+        "Keene CD",
+        "Lein ES",
+        "Li D",
+        "Zhu Q",
+        "Wang T",
+        "Xu X",
+        "Ecker JR",
+        "Behrens MM",
+        "Ren B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; New York Genome Center, New York, NY 10013, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; New York Genome Center, New York, NY 10013, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; New York Genome Center, New York, NY 10013, USA.",
+        "New York Genome Center, New York, NY 10013, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Department of Genetics, The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO 63110, USA.",
+        "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Department of Pathology and Laboratory Medicine, University of California, Irvine, Irvine, CA 92697, USA.",
+        "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "New York Genome Center, New York, NY 10013, USA; Department of Systems and Computational Biomedicine, Weill Cornell Medicine, New York, NY 10021, USA.",
+        "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA; Bioinformatics and Systems Biology Program, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Department of Pathology, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Allen Institute, Brain Health, Seattle, WA 98109, USA.",
+        "Department of Genetics, The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO 63110, USA.",
+        "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA.",
+        "Department of Genetics, The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO 63110, USA; McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO 63108, USA.",
+        "Department of Anatomy and Neurobiology, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA; Department of Microbiology and Molecular Genetics, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA; Department of Biomedical Engineering, University of California, Irvine, Irvine, CA 92697, USA; Department of Computer Science, University of California, Irvine, Irvine, CA 92697, USA; Center for Neural Circuit Mapping, University of California, Irvine, Irvine, CA 92697, USA.",
+        "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+        "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA. Electronic address: mbehrens@salk.edu.",
+        "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; New York Genome Center, New York, NY 10013, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, Vagelos Institute for Basic Biomedical Research, New York, NY 10032, USA. Electronic address: bren@nygenome.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chang, Lei",
+        "short_name": "Chang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; New York Genome Center, New York, NY 10013, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Kai",
+        "short_name": "Li K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; New York Genome Center, New York, NY 10013, USA."
+        ]
+      },
+      {
+        "full_name": "Xie, Yang",
+        "short_name": "Xie Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; New York Genome Center, New York, NY 10013, USA."
+        ]
+      },
+      {
+        "full_name": "Zhong, Guojie",
+        "short_name": "Zhong G",
+        "identifiers": [],
+        "affiliations": [
+          "New York Genome Center, New York, NY 10013, USA."
+        ]
+      },
+      {
+        "full_name": "Rink, Jonathan A",
+        "short_name": "Rink JA",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Báez-Becerra, Cindy Tatiana",
+        "short_name": "Báez-Becerra CT",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Lie, Audrey",
+        "short_name": "Lie A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Indralingam, Hannah S",
+        "short_name": "Indralingam HS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Loe, Timothy",
+        "short_name": "Loe T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Dong, Keyi",
+        "short_name": "Dong K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Gao, Xiaomeng",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhaoning",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Zu, Songpeng",
+        "short_name": "Zu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Kern, Joseph Colin",
+        "short_name": "Kern JC",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zoey",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Boone, Eric",
+        "short_name": "Boone E",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Flores, Jesus",
+        "short_name": "Flores J",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Monell, Alexander",
+        "short_name": "Monell A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Olness, Jacqueline",
+        "short_name": "Olness J",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Barragan, Cesar",
+        "short_name": "Barragan C",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Osgood, Emma",
+        "short_name": "Osgood E",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Owens, William",
+        "short_name": "Owens W",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Schenker-Ahmed, Natalie",
+        "short_name": "Schenker-Ahmed N",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wenjin",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO 63110, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Di",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Barcoma, Ariana S",
+        "short_name": "Barcoma AS",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Willier, Jackson K",
+        "short_name": "Willier JK",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Knutson, Kyle W",
+        "short_name": "Knutson KW",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Russo, Kaitlyn G",
+        "short_name": "Russo KG",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiayi",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Cho, Silvia",
+        "short_name": "Cho S",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Arzavala, Jessica",
+        "short_name": "Arzavala J",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Young, Carissa K",
+        "short_name": "Young CK",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Sundaram, Guha V",
+        "short_name": "Sundaram GV",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Manning, Austin C",
+        "short_name": "Manning AC",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Sanchez, Yareli",
+        "short_name": "Sanchez Y",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Bikkina, Aleksandra",
+        "short_name": "Bikkina A",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Berry, Jillian V",
+        "short_name": "Berry JV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, University of California, Irvine, Irvine, CA 92697, USA."
+        ]
+      },
+      {
+        "full_name": "O'Connor, Carolyn",
+        "short_name": "O'Connor C",
+        "identifiers": [],
+        "affiliations": [
+          "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Liem, Michelle",
+        "short_name": "Liem M",
+        "identifiers": [],
+        "affiliations": [
+          "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Marrin, Mikayla V",
+        "short_name": "Marrin MV",
+        "identifiers": [],
+        "affiliations": [
+          "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Rose, Cynthia",
+        "short_name": "Rose C",
+        "identifiers": [],
+        "affiliations": [
+          "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Alt, Shane N",
+        "short_name": "Alt SN",
+        "identifiers": [],
+        "affiliations": [
+          "Flow Cytometry Core Facility, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Zhu, Chenxu",
+        "short_name": "Zhu C",
+        "identifiers": [],
+        "affiliations": [
+          "New York Genome Center, New York, NY 10013, USA; Department of Systems and Computational Biomedicine, Weill Cornell Medicine, New York, NY 10021, USA."
+        ]
+      },
+      {
+        "full_name": "Zemke, Nathan R",
+        "short_name": "Zemke NR",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Ding, Wubin",
+        "short_name": "Ding W",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Klein, Amit",
+        "short_name": "Klein A",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA; Bioinformatics and Systems Biology Program, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Fu, Yuanyuan",
+        "short_name": "Fu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Johansen, Nelson",
+        "short_name": "Johansen N",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Bakken, Trygve E",
+        "short_name": "Bakken TE",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Hodge, Rebecca D",
+        "short_name": "Hodge RD",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Keene, C Dirk",
+        "short_name": "Keene CD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Lein, Ed S",
+        "short_name": "Lein ES",
+        "identifiers": [],
+        "affiliations": [
+          "Allen Institute, Brain Health, Seattle, WA 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Daofeng",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO 63110, USA."
+        ]
+      },
+      {
+        "full_name": "Zhu, Quan",
+        "short_name": "Zhu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Epigenomics, University of California, San Diego, La Jolla, CA 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Ting",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO 63110, USA; McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO 63108, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiangmin",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Neurobiology, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA; Department of Microbiology and Molecular Genetics, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA; Department of Biomedical Engineering, University of California, Irvine, Irvine, CA 92697, USA; Department of Computer Science, University of California, Irvine, Irvine, CA 92697, USA; Center for Neural Circuit Mapping, University of California, Irvine, Irvine, CA 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Ecker, Joseph R",
+        "short_name": "Ecker JR",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Analysis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA."
+        ]
+      },
+      {
+        "full_name": "Behrens, M Margarita",
+        "short_name": "Behrens MM",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA. Electronic address: mbehrens@salk.edu."
+        ]
+      },
+      {
+        "full_name": "Ren, Bing",
+        "short_name": "Ren B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA 92093, USA; New York Genome Center, New York, NY 10013, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, Vagelos Institute for Basic Biomedical Research, New York, NY 10032, USA. Electronic address: bren@nygenome.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell"
+    ],
+    "journal_abbrev": [
+      "Cell"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 23:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43020024"
+    ],
+    "review": [
+      "43020024"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-LBX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

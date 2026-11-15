@@ -1,0 +1,205 @@
+{
+  "identity": {
+    "pmid": "43008078",
+    "doi": "10.1093/jpp/rgag139",
+    "title": "Tiliroside reverses cisplatin resistance in non-small cell lung cancer via targeting IL-17RA to downregulate JAK2/STAT3 signaling."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: Cisplatin resistance in non-small cell lung cancer (NSCLC) is closely associated with inflammation. This study investigates whether tiliroside, a bioactive flavonoid exhibiting potent anti-inflammatory properties, can sensitize both NSCLC and its cisplatin-resistant variants to cisplatin treatment. METHODS: The reversal of cisplatin resistance and synergistic interactions between tiliroside and cisplatin were evaluated in vitro using cell proliferation, apoptosis, and comet assays, and in vivo via mouse xenograft models. Underlying mechanisms were elucidated through transcriptomic analysis and rescue experiments, while direct target engagement was characterized using molecular docking, cellular thermal shift assays, and biolayer interferometry. KEY FINDINGS: Tiliroside synergistically reversed both intrinsic and acquired cisplatin resistance in vitro and in vivo. Transcriptomic analysis revealed upregulated IL-17A and IL-17RA expression, alongside activated IL-17 signaling, in cisplatin-resistant A549 cells. Target investigations demonstrated that tiliroside directly binds to IL-17RA, downregulating its expression and subsequently inhibiting the downstream IL-17/JAK2/STAT3 pathway. Furthermore, human recombinant IL-17A and IL-6 counteracted the inhibitory effects of tiliroside on STAT3 activation and its ability to enhance cisplatin sensitivity. CONCLUSIONS: IL-17RA represents a promising clinical target for overcoming cisplatin resistance in NSCLC. Tiliroside could serve as a valuable chemosensitizer by directly targeting IL-17RA to inhibit JAK2/STAT3 signaling.",
+    "keywords": [
+      "IL-17RA",
+      "JAK2/STAT3",
+      "NSCLC",
+      "cisplatin resistance",
+      "tiliroside"
+    ],
+    "mesh_terms": [
+      "*Cisplatin/pharmacology",
+      "Humans",
+      "*STAT3 Transcription Factor/metabolism",
+      "*Carcinoma, Non-Small-Cell Lung/drug therapy/pathology/metabolism",
+      "*Drug Resistance, Neoplasm/drug effects",
+      "*Lung Neoplasms/drug therapy/pathology/metabolism",
+      "Animals",
+      "*Janus Kinase 2/metabolism",
+      "Signal Transduction/drug effects",
+      "*Flavonoids/pharmacology",
+      "Down-Regulation/drug effects",
+      "Interleukin-17/metabolism",
+      "Mice",
+      "A549 Cells",
+      "Antineoplastic Agents/pharmacology",
+      "*Receptors, Interleukin-17/metabolism",
+      "Cell Proliferation/drug effects",
+      "Xenograft Model Antitumor Assays",
+      "Apoptosis/drug effects",
+      "Mice, Nude",
+      "Molecular Docking Simulation",
+      "Cell Line, Tumor",
+      "Drug Synergism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Guanqing",
+        "Wang, Xinhao",
+        "Wang, Yue",
+        "Liu, Huan",
+        "Xie, Qiqiang",
+        "Li, Xin",
+        "Xu, Maolei",
+        "Zhou, Ling"
+      ],
+      "short_names": [
+        "Zhang G",
+        "Wang X",
+        "Wang Y",
+        "Liu H",
+        "Xie Q",
+        "Li X",
+        "Xu M",
+        "Zhou L"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1812-4127"
+      ],
+      "affiliations": [
+        "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China.",
+        "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China.",
+        "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China.",
+        "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China.",
+        "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China.",
+        "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China.",
+        "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China.",
+        "State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100871, PR China.",
+        "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Guanqing",
+        "short_name": "Zhang G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xinhao",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yue",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China."
+        ]
+      },
+      {
+        "full_name": "Liu, Huan",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China."
+        ]
+      },
+      {
+        "full_name": "Xie, Qiqiang",
+        "short_name": "Xie Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Xin",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China."
+        ]
+      },
+      {
+        "full_name": "Xu, Maolei",
+        "short_name": "Xu M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China.",
+          "State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100871, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Ling",
+        "short_name": "Zhou L",
+        "identifiers": [
+          "0000-0003-1812-4127"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Key Laboratory of Prescription Effect and Clinical Evaluation of State Administration of Traditional Chinese Medicine of China, Shandong Medical and Pharmaceutical University, Yantai Shandong 264003, PR China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of pharmacy and pharmacology"
+    ],
+    "journal_abbrev": [
+      "J Pharm Pharmacol"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 18:06",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43008078"
+    ],
+    "review": [
+      "43008078"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1252",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/jpp/article-lookup/doi/10.1093/jpp/rgag139",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

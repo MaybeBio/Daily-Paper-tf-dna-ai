@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "pmid": "43006149",
+    "doi": "10.1093/nar/gkag1140",
+    "title": "PlantPAN 5.0: updated database for integrating multiomics evidence and exploring multilayered transcriptional regulatory networks in plants."
+  },
+  "content": {
+    "abstract": "Plant Promoter Analysis Navigator (PlantPAN) 5.0 (https://plantpan.itps.ncku.edu.tw/) is an integrated multiomics resource for investigating plant cis-regulatory elements and transcriptional regulatory networks. This release expands genome annotations and promoter sequences to 240 species and provides 71 040 transcription factor (TF) annotations and 7762 nonredundant binding matrices. Its companion database, PCBase 3.0, substantially expands ChIP-seq data and newly incorporates ATAC-seq, bisulfite-sequencing, and four Hi-C-based chromatin interaction datasets for Arabidopsis thaliana. The new Differential Analysis function enables comparison of TF binding, chromatin accessibility, and DNA methylation across conditions. The redesigned Promoter Analysis interface provides TF family-level statistics, with a Pattern Overview panel integrating TF-binding site (TFBS) densities, plant DNA large language model-predicted open-chromatin regions, CpG-rich regions, and tandem repeats. Two new modules are introduced: (i) Transcriptome Regulatory Analysis and Coexpression, where candidate regulatory TFs and shared cis-elements in gene sets are prioritized through differential expression and coexpression analysis, and (ii) Interaction Topology Analysis for Chromatin and TFs, where chromatin interaction regions are integrated to reveal potentially coregulated genes and their shared TFs and predicted TFBSs. A Dockerized package enables large-scale local promoter analyses, with data privacy. Therefore, PlantPAN 5.0 is a comprehensive framework for discovering plant transcriptional regulatory mechanisms.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Chien-Wen",
+        "Wang, Wen-Lin",
+        "Chow, Chi-Nga",
+        "Tseng, Kuan-Chieh",
+        "Shen, Yen-Lin",
+        "Tsao, Ting-Wei",
+        "Chien, Yu-Han",
+        "Lee, Tzong-Yi",
+        "Chang, Wen-Chi"
+      ],
+      "short_names": [
+        "Yang CW",
+        "Wang WL",
+        "Chow CN",
+        "Tseng KC",
+        "Shen YL",
+        "Tsao TW",
+        "Chien YH",
+        "Lee TY",
+        "Chang WC"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-0283-7712",
+        "ORCID: 0000-0002-0347-1516"
+      ],
+      "affiliations": [
+        "NCKU-AS Graduate Program in Translational Agricultural Sciences, College of Biosciences and Biotechnology, National Cheng Kung University, Tainan 70101, Taiwan.",
+        "Institute of Tropical Plant Sciences and Microbiology, National Cheng Kung University, Tainan 70101, Taiwan.",
+        "Institute of Bioinformatics and Systems Biology, College of Engineering Bioscience, National Yang Ming Chiao Tung University, Hsinchu 300, Taiwan.",
+        "Institute of Tropical Plant Sciences and Microbiology, National Cheng Kung University, Tainan 70101, Taiwan.",
+        "Institute of Tropical Plant Sciences and Microbiology, National Cheng Kung University, Tainan 70101, Taiwan.",
+        "NCKU-AS Graduate Program in Translational Agricultural Sciences, College of Biosciences and Biotechnology, National Cheng Kung University, Tainan 70101, Taiwan.",
+        "Department of Biotechnology and Bioindustry Sciences, National Cheng Kung University, Tainan 701, Taiwan.",
+        "Institute of Bioinformatics and Systems Biology, College of Engineering Bioscience, National Yang Ming Chiao Tung University, Hsinchu 300, Taiwan.",
+        "Cancer and Immunology Research Center, National Yang Ming Chiao Tung University, Taipei 112, Taiwan.",
+        "Center for Intelligent Drug Systems and Smart Bio-devices (IDS2B), National Yang Ming Chiao Tung University, Hsinchu 300, Taiwan.",
+        "NCKU-AS Graduate Program in Translational Agricultural Sciences, College of Biosciences and Biotechnology, National Cheng Kung University, Tainan 70101, Taiwan.",
+        "Institute of Tropical Plant Sciences and Microbiology, National Cheng Kung University, Tainan 70101, Taiwan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Chien-Wen",
+        "short_name": "Yang CW",
+        "identifiers": [],
+        "affiliations": [
+          "NCKU-AS Graduate Program in Translational Agricultural Sciences, College of Biosciences and Biotechnology, National Cheng Kung University, Tainan 70101, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Wang, Wen-Lin",
+        "short_name": "Wang WL",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Tropical Plant Sciences and Microbiology, National Cheng Kung University, Tainan 70101, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chow, Chi-Nga",
+        "short_name": "Chow CN",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Bioinformatics and Systems Biology, College of Engineering Bioscience, National Yang Ming Chiao Tung University, Hsinchu 300, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Tseng, Kuan-Chieh",
+        "short_name": "Tseng KC",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Tropical Plant Sciences and Microbiology, National Cheng Kung University, Tainan 70101, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Shen, Yen-Lin",
+        "short_name": "Shen YL",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Tropical Plant Sciences and Microbiology, National Cheng Kung University, Tainan 70101, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Tsao, Ting-Wei",
+        "short_name": "Tsao TW",
+        "identifiers": [],
+        "affiliations": [
+          "NCKU-AS Graduate Program in Translational Agricultural Sciences, College of Biosciences and Biotechnology, National Cheng Kung University, Tainan 70101, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chien, Yu-Han",
+        "short_name": "Chien YH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Bioindustry Sciences, National Cheng Kung University, Tainan 701, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lee, Tzong-Yi",
+        "short_name": "Lee TY",
+        "identifiers": [
+          "0009-0002-0283-7712"
+        ],
+        "affiliations": [
+          "Institute of Bioinformatics and Systems Biology, College of Engineering Bioscience, National Yang Ming Chiao Tung University, Hsinchu 300, Taiwan.",
+          "Cancer and Immunology Research Center, National Yang Ming Chiao Tung University, Taipei 112, Taiwan.",
+          "Center for Intelligent Drug Systems and Smart Bio-devices (IDS2B), National Yang Ming Chiao Tung University, Hsinchu 300, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chang, Wen-Chi",
+        "short_name": "Chang WC",
+        "identifiers": [
+          "0000-0002-0347-1516"
+        ],
+        "affiliations": [
+          "NCKU-AS Graduate Program in Translational Agricultural Sciences, College of Biosciences and Biotechnology, National Cheng Kung University, Tainan 70101, Taiwan.",
+          "Institute of Tropical Plant Sciences and Microbiology, National Cheng Kung University, Tainan 70101, Taiwan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 11:36",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43006149"
+    ],
+    "review": [
+      "43006149"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag1140",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

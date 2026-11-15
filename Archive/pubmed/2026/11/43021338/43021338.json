@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "43021338",
+    "doi": "10.1186/s12943-026-02774-8",
+    "title": "IGF2BP3 promotes M2 macrophage polarization and ESCC progression by increasing USP36-mediated beta-catenin stabilization."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Esophageal squamous cell carcinoma is a highly aggressive malignancy with poor prognosis that is characterized by an immunosuppressive tumor microenvironment that critically contributes to tumor progression and therapeutic resistance. RNA-binding proteins are emerging regulators of cancer biology; however, their role in shaping the tumor immune microenvironment of esophageal squamous cell carcinoma remains largely unexplored. This study aimed to investigate the function and mechanism of the RNA-binding protein IGF2BP3 in esophageal squamous cell carcinoma progression and immune modulation. METHODS: Single-cell RNA sequencing datasets including esophageal squamous cell carcinoma and adjacent normal tissues were integrated to identify dysregulated RNA-binding proteins. The functional role of IGF2BP3 was evaluated using in vitro assays, organoid models, and immunocompetent and immunodeficient mouse models. RNA immunoprecipitation, polysome profiling, ubiquitination assays, and luciferase reporter assays were employed to elucidate the underlying molecular mechanisms. Immune cell infiltration was analyzed by flow cytometry, immunohistochemistry, and multiplex immunofluorescence. Virtual screening, biolayer interferometry, and molecular docking were used to identify small-molecule inhibitors of IGF2BP3. Statistical analyses included Student's t tests, one-way analysis of variance, Kaplan‒Meier survival analysis, and correlation analyses. RESULTS: IGF2BP3 was specifically overexpressed in epithelial tumor cells, exhibited progressively increasing expression during esophageal squamous cell carcinoma progression, and correlated with poor clinical outcomes. IGF2BP3 promoted tumor growth by activating Wnt signaling through the stabilization of beta-catenin. Mechanistically, IGF2BP3 increased the translation of the deubiquitinase USP36 without altering the stability of its messenger RNA, leading to the USP36-mediated deubiquitination and stabilization of beta-catenin. Activation of beta-catenin signaling increased the transcription and secretion of transforming growth factor beta, which promoted the polarization of macrophages toward the immunosuppressive M2 phenotype. Pharmacological inhibition of IGF2BP3 with digoxin disrupted the IGF2BP3-USP36-beta-catenin axis, reduced transforming growth factor beta production, suppressed tumor growth, and increased the efficacy of paclitaxel and PD-1 blockade in preclinical models. CONCLUSIONS: This study identifies IGF2BP3 as a critical posttranscriptional regulator that links oncogenic signaling to immune suppression in esophageal squamous cell carcinoma. Targeting IGF2BP3 represents a promising therapeutic strategy to remodel the tumor microenvironment and improve responses to chemotherapy and immunotherapy.",
+    "keywords": [
+      "Esophageal squamous cell carcinoma",
+      "IGF2BP3",
+      "Macrophage polarization",
+      "RNA-binding protein",
+      "TGF-beta",
+      "beta-catenin"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*beta Catenin/metabolism",
+      "Animals",
+      "*RNA-Binding Proteins/metabolism/genetics/chemistry",
+      "*Esophageal Squamous Cell Carcinoma/pathology/metabolism/genetics",
+      "Mice",
+      "*Esophageal Neoplasms/pathology/metabolism/genetics",
+      "Disease Progression",
+      "Cell Line, Tumor",
+      "Gene Expression Regulation, Neoplastic",
+      "Tumor Microenvironment",
+      "*Macrophages/metabolism/immunology",
+      "Cell Proliferation",
+      "Protein Stability"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tian, Zhongxian",
+        "Zhou, Yongjia",
+        "Zhao, Yunpeng",
+        "Li, Peiwei",
+        "Ding, Yi",
+        "Tang, Guoshuo",
+        "Zhao, Yunfei",
+        "Cui, Qingkun",
+        "Li, Peichao",
+        "Pedersen, Lotte Bang",
+        "Jiang, Ning",
+        "Wu, Honglei",
+        "Zhao, Xiaogang"
+      ],
+      "short_names": [
+        "Tian Z",
+        "Zhou Y",
+        "Zhao Y",
+        "Li P",
+        "Ding Y",
+        "Tang G",
+        "Zhao Y",
+        "Cui Q",
+        "Li P",
+        "Pedersen LB",
+        "Jiang N",
+        "Wu H",
+        "Zhao X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China.",
+        "Institute of Medical Sciences, The Second Qilu Hospital of Shandong University, Shandong, Jinan, China.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China.",
+        "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China.",
+        "Department of Biology, University of Copenhagen, Copenhagen, Denmark. lbpedersen@bio.ku.dk.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China. sdujiangning@163.com.",
+        "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China. sdujiangning@163.com.",
+        "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China. sdujiangning@163.com.",
+        "Department of Gastroenterology, The Second Qilu Hospital of Shandong University, Shandong, Jinan, China. whl20011996@163.com.",
+        "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China. zhaoxiaogang@sdu.edu.cn.",
+        "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China. zhaoxiaogang@sdu.edu.cn.",
+        "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China. zhaoxiaogang@sdu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tian, Zhongxian",
+        "short_name": "Tian Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+          "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China.",
+          "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yongjia",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+          "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China.",
+          "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yunpeng",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+          "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China.",
+          "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Peiwei",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China.",
+          "Institute of Medical Sciences, The Second Qilu Hospital of Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yi",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Guoshuo",
+        "short_name": "Tang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yunfei",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Qingkun",
+        "short_name": "Cui Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Peichao",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China.",
+          "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China.",
+          "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Pedersen, Lotte Bang",
+        "short_name": "Pedersen LB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Copenhagen, Copenhagen, Denmark. lbpedersen@bio.ku.dk."
+        ]
+      },
+      {
+        "full_name": "Jiang, Ning",
+        "short_name": "Jiang N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China. sdujiangning@163.com.",
+          "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China. sdujiangning@163.com.",
+          "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China. sdujiangning@163.com."
+        ]
+      },
+      {
+        "full_name": "Wu, Honglei",
+        "short_name": "Wu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, The Second Qilu Hospital of Shandong University, Shandong, Jinan, China. whl20011996@163.com."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xiaogang",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Qilu Hospital of Shandong University, Shandong University, Shandong, Jinan, China. zhaoxiaogang@sdu.edu.cn.",
+          "Key Laboratory of Basic Research and Clinical Transformation of Thoracic Tumors in Shandong Provincial Colleges and Universities, Shandong University, Shandong, Jinan, China. zhaoxiaogang@sdu.edu.cn.",
+          "Key Laboratory of Precision Diagnosis and Treatment of Lung Tumors in Shandong Provincial Medicine and Health, Shandong University, Shandong, Jinan, China. zhaoxiaogang@sdu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cancer"
+    ],
+    "journal_abbrev": [
+      "Mol Cancer"
+    ],
+    "pub_date": "2026 Aug 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 05:35",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43021338"
+    ],
+    "review": [
+      "43021338"
+    ],
+    "pmc": [
+      "13761112"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

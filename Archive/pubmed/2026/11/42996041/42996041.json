@@ -1,0 +1,108 @@
+{
+  "identity": {
+    "pmid": "42996041",
+    "doi": "10.64898/2026.10.19.760167",
+    "title": "SP1 tethers NR2F2 to drive atrial cardiomyocyte identity."
+  },
+  "content": {
+    "abstract": "Human heart development is guided by complex gene regulatory networks (GRNs), which are difficult to unravel and differ from that in animal models. In this study, we use a systematic approach to identify gene interactions driving human fetal atrial cardiomyocyte identity. We inferred GRNs for atrial and ventricular cardiomyocytes from human fetal single-cell RNA-seq and ATAC-seq data, predicting transcription factors that differentially regulate atrial vs. ventricular cardiomyocyte identity. Comparison of GRNs constrained by ATAC-seq vs. promoter annotations revealed that during human heart development, the canonical transcription factor for atrial specification, NR2F2, drives atrial genes not directly but by interacting with SP1. The predicted NR2F2-SP1 relationship at atrial gene promoters was supported with AlphaFold predictions of biophysical tethering and comparison with previous ChIP-seq data. These predictions were experimentally validated in human iPSC-derived atrial cardiomyocyte differentiation, which was suppressed by SP1 knockdown. Further, proximity ligation experiments validated the physical interaction of NR2F2 and SP1 in the nucleus, coincident with atrial identity. This study reveals SP1 as a transcription factor necessary for atrial cardiomyocyte identity in human development, helping to coordinate the effects of NR2F2. Furthermore, comparing GRNs based on current and potential epigenetic state offers a novel systematic approach to study interactions between transcription factors, which is key to understanding complex GRNs.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gergen, Payton N",
+        "Clark, Alexander P",
+        "Saucerman, Jeffrey J"
+      ],
+      "short_names": [
+        "Gergen PN",
+        "Clark AP",
+        "Saucerman JJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5200-6573",
+        "ORCID: 0000-0001-9464-8374"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Gergen, Payton N",
+        "short_name": "Gergen PN",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Clark, Alexander P",
+        "short_name": "Clark AP",
+        "identifiers": [
+          "0000-0002-5200-6573"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Saucerman, Jeffrey J",
+        "short_name": "Saucerman JJ",
+        "identifiers": [
+          "0000-0001-9464-8374"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-15 09:05:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42996041"
+    ],
+    "review": [
+      "42996041"
+    ],
+    "pmc": [
+      "13738652"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42996041/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.19.760167",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

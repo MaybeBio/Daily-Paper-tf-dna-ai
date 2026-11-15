@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "43001922",
+    "doi": "10.1021/acs.jcim.6c02197",
+    "title": "Drugging Pockets at the Surface of c-MYC Oncoproteins Revealed by Well-Tempered Metadynamics."
+  },
+  "content": {
+    "abstract": "The MYC oncogene encodes a master transcription factor essential for regulating cellular homeostasis, growth, and metabolism. However, its deregulation is involved in up to 70% of human cancers, where it drives uncontrolled cellular proliferation. Structurally, MYC is characterized by an N-terminal transactivation domain and a C-terminal bHLHLZ domain critical for DNA binding and dimerization with MAX. Despite its clinical significance, MYC has remained historically \"undruggable\" due to its intrinsically disordered structure and the absence of traditional binding pockets. In this study, we combined all-atom Molecular Dynamics and well-tempered metadynamics simulations to map the conformational landscape of a MYC motif in aqueous ionic solution. The selected energy-minimized structures exhibit stable conformations and drugging pockets, providing structural foundations for targetting c-MYC. Furthermore, both the electrostatic potential and docking results for the obtained structure and the MYC inhibitor's 10074-G5 demonstrated excellent fit, highlighting its potential as a drug target. This inhibitor, introduced in several previously unpublished drugging pockets, maintained a steady binding to MYC over unbiased trajectories lasting 1 mus. These findings provide a previously uncharacterized structural foundation for the design of innovative therapeutic interventions, such as small-molecule inhibitors or peptides aimed at disrupting oncogenic MYC activity.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Proto-Oncogene Proteins c-myc/chemistry/antagonists & inhibitors/metabolism",
+      "*Molecular Dynamics Simulation",
+      "Humans",
+      "Binding Sites",
+      "Molecular Docking Simulation",
+      "Protein Conformation",
+      "Static Electricity",
+      "Oligopeptides/pharmacology/chemistry",
+      "Thermodynamics",
+      "Oxadiazoles"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ge, Yanhong",
+        "Lu, Huixia",
+        "Marti, Jordi"
+      ],
+      "short_names": [
+        "Ge Y",
+        "Lu H",
+        "Marti J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2731-5283",
+        "ORCID: 0000-0002-3721-9634"
+      ],
+      "affiliations": [
+        "Department of Physics, Universitat Politecnica de Catalunya-Barcelona Tech (UPC), Campus Nord UPC, Barcelona08034, Spain.",
+        "Department of Physics, Universitat Politecnica de Catalunya-Barcelona Tech (UPC), Campus Nord UPC, Barcelona08034, Spain.",
+        "Institut de Ciencia de Materials de Barcelona (ICMAB-CSIC), Carrer dels Til.lers, Cerdanyola del Valles08193, Spain.",
+        "Department of Physics, Universitat Politecnica de Catalunya-Barcelona Tech (UPC), Campus Nord UPC, Barcelona08034, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ge, Yanhong",
+        "short_name": "Ge Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Universitat Politècnica de Catalunya-Barcelona Tech (UPC), Campus Nord UPC, Barcelona08034, Spain."
+        ]
+      },
+      {
+        "full_name": "Lu, Huixia",
+        "short_name": "Lu H",
+        "identifiers": [
+          "0000-0003-2731-5283"
+        ],
+        "affiliations": [
+          "Department of Physics, Universitat Politècnica de Catalunya-Barcelona Tech (UPC), Campus Nord UPC, Barcelona08034, Spain.",
+          "Institut de Ciència de Materials de Barcelona (ICMAB-CSIC), Carrer dels Til·lers, Cerdanyola del Vallès08193, Spain."
+        ]
+      },
+      {
+        "full_name": "Marti, Jordi",
+        "short_name": "Marti J",
+        "identifiers": [
+          "0000-0002-3721-9634"
+        ],
+        "affiliations": [
+          "Department of Physics, Universitat Politècnica de Catalunya-Barcelona Tech (UPC), Campus Nord UPC, Barcelona08034, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 11:43",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43001922"
+    ],
+    "review": [
+      "43001922"
+    ],
+    "pmc": [
+      "13753514"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43001922/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c02197",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

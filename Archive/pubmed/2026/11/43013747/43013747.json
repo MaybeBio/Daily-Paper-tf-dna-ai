@@ -1,0 +1,153 @@
+{
+  "identity": {
+    "pmid": "43013747",
+    "doi": "10.1080/1547691X.2026.2753613",
+    "title": "Impaired IFN-gamma/STAT1-associated immune regulation contributes to 4-nonylphenol-aggravated allergic rhinitis."
+  },
+  "content": {
+    "abstract": "4-Nonylphenol (4-NP) is a persistent endocrine-disrupting chemical, but its role in allergic rhinitis (AR) remains poorly understood. The study here integrated human transcriptomics, network toxicology, single-cell analysis, molecular modeling, and experimental validation to investigate the mechanisms underlying 4-NP-aggravated AR. Network analysis identified four shared candidates, e.g., CDKN1A, SKIL, IFNG, and B4GALT1. In an independent cohort, IFNG and SKIL were down-regulated in AR, whereas CDKN1A was increased. Single-cell analysis showed that IFNG was mainly expressed in T-cells. Molecular docking predicted the strongest interaction between 4-NP and IFNgamma (-6.4 kcal/mol), and a 50-ns molecular dynamics simulation supported the stability of the predicted complex. In human nasal epithelial progenitor cells (HNEPC), 4-NP increased IL1B, TNF, and IL6 expression. In house dust mite (HDM)-induced AR mice, 4-NP co-exposure increased nasal rubbing, eosinophilic inflammation, T(H)2 responses, IL-4 production, and inflammatory gene expression, while reducing Ifng expression, T(H)1 cells, and STAT1 phosphorylation. Recombinant IFNgamma partially reversed the T(H)1/T(H)2 imbalance and reduced eosinophilic inflammation and IL-4 levels. These findings suggest that 4-NP aggravates AR in association with impaired IFNgamma/STAT1-related immune regulation and enhanced nasal epithelial inflammation.",
+    "keywords": [
+      "4-Nonylphenol",
+      "IFN-gamma/STAT1 signaling",
+      "Th1/Th2 imbalance",
+      "allergic rhinitis",
+      "immunotoxicant",
+      "nasal epithelial inflammation",
+      "network toxicology"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Animals",
+      "*Interferon-gamma/metabolism/genetics",
+      "*Rhinitis, Allergic/immunology/chemically induced",
+      "*Phenols/immunology/toxicity",
+      "Mice",
+      "*STAT1 Transcription Factor/metabolism",
+      "Disease Models, Animal",
+      "Female",
+      "Pyroglyphidae/immunology",
+      "*Nasal Mucosa/immunology/pathology",
+      "Th1 Cells/immunology",
+      "Molecular Docking Simulation",
+      "Th2 Cells/immunology",
+      "Signal Transduction"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Zhuojun",
+        "Li, Jing",
+        "Chen, Xixi",
+        "Liu, Yehai"
+      ],
+      "short_names": [
+        "Li Z",
+        "Li J",
+        "Chen X",
+        "Liu Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Otolaryngology, Head and Neck Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, China.",
+        "The First School of Clinical Medicine, Anhui Medical University, Hefei, China.",
+        "School of Basic Medicine, Anhui Medical University, Hefei, China.",
+        "Department of Otolaryngology, Head and Neck Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, China.",
+        "The First School of Clinical Medicine, Anhui Medical University, Hefei, China.",
+        "Department of Otolaryngology, Head and Neck Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Zhuojun",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Otolaryngology, Head and Neck Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, China.",
+          "The First School of Clinical Medicine, Anhui Medical University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jing",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Anhui Medical University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xixi",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Otolaryngology, Head and Neck Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, China.",
+          "The First School of Clinical Medicine, Anhui Medical University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yehai",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Otolaryngology, Head and Neck Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of immunotoxicology"
+    ],
+    "journal_abbrev": [
+      "J Immunotoxicol"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 17:31",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43013747"
+    ],
+    "review": [
+      "43013747"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/1547691X.2026.2753613?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-AKR1B1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-570",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

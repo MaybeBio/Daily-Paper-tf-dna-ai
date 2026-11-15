@@ -1,0 +1,158 @@
+{
+  "identity": {
+    "pmid": "43027728",
+    "doi": "10.3390/ijms27219476",
+    "title": "Genome-Wide Characterization of the CAMTA Gene Family in Paulownia fortunei and Potential Role of PfCAMTA5 in Salt-Stress Responses."
+  },
+  "content": {
+    "abstract": "Calmodulin-binding transcription activator (CAMTA) transcription factors play key roles in plant stress responses, but their functions in Paulownia fortunei remain largely unknown. Here, we identified eight CAMTA family genes in P. fortunei and investigated their structural features, evolutionary relationships, and expression patterns under salt stress. All PfCAMTA proteins contain the conserved CG-1, ANK, and IQ domains, although their gene structures and physicochemical properties differ. Phylogenetic and synteny analyses revealed close paralogous pairs and orthologous relationships with Arabidopsis CAMTAs. Under salt stress, the eight PfCAMTA genes displayed distinct tissue-specific expression patterns, with PfCAMTA5 emerging as the most prominent salt-responsive candidate, showing broad induction across tissues and the highest transcript abundance. Molecular docking and Y2H assays suggested a potential interaction between PfCAMTA5 and the salt-responsive calcium sensor PfCML28. Transient overexpression of PfCAMTA5 in tobacco improved salt tolerance, as reflected by enhanced photosynthesis, higher antioxidant enzyme activities, and reduced membrane damage, and up-regulation of stress-responsive genes. Together, these findings suggest that PfCAMTA5 may play a potential role in salt tolerance and provide a foundation for further investigation of the CAMTA-mediated salt stress regulatory network in P. fortunei.",
+    "keywords": [
+      "CAMTA gene family",
+      "Paulownia fortunei",
+      "gene function",
+      "salt stress"
+    ],
+    "mesh_terms": [
+      "Gene Expression Regulation, Plant",
+      "*Salt Stress/genetics",
+      "Phylogeny",
+      "*Plant Proteins/genetics/metabolism/chemistry",
+      "*Salt Tolerance/genetics",
+      "*Multigene Family",
+      "*Lamiales/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cao, Yabing",
+        "Sun, He",
+        "Liu, Chunyang",
+        "Liu, Jie",
+        "Cao, Shenquan",
+        "Zhao, Zhenli"
+      ],
+      "short_names": [
+        "Cao Y",
+        "Sun H",
+        "Liu C",
+        "Liu J",
+        "Cao S",
+        "Zhao Z"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-4717-2044",
+        "ORCID: 0000-0002-1665-9585",
+        "ORCID: 0000-0002-6605-1949"
+      ],
+      "affiliations": [
+        "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China.",
+        "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China.",
+        "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China.",
+        "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Life Sciences, Henan Agricultural University, Zhengzhou 450046, China.",
+        "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cao, Yabing",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+          "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Sun, He",
+        "short_name": "Sun H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+          "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chunyang",
+        "short_name": "Liu C",
+        "identifiers": [
+          "0009-0007-4717-2044"
+        ],
+        "affiliations": [
+          "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+          "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jie",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+          "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Shenquan",
+        "short_name": "Cao S",
+        "identifiers": [
+          "0000-0002-1665-9585"
+        ],
+        "affiliations": [
+          "College of Life Sciences, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhenli",
+        "short_name": "Zhao Z",
+        "identifiers": [
+          "0000-0002-6605-1949"
+        ],
+        "affiliations": [
+          "Institute of Paulownia, Henan Agricultural University, Zhengzhou 450046, China.",
+          "College of Forestry, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43027728"
+    ],
+    "review": [
+      "43027728"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

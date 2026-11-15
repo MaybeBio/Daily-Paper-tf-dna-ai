@@ -1,0 +1,191 @@
+{
+  "identity": {
+    "pmid": "43027691",
+    "doi": "10.3390/ijms27219437",
+    "title": "Novel Palladium(II) beta-Diketonate Complexes: Synthesis, Dual Antimicrobial/Anticancer Activity, and Molecular Insights into DNA/Protein Interactions."
+  },
+  "content": {
+    "abstract": "This study reports the synthesis and biological evaluation of four novel palladium(II) complexes (B1-B4) with O,O-bidentate beta-diketo ester ligands. Spectroscopic characterization confirmed their structures, while biological assays revealed substituent-dependent activity. Complexes B3 and B4 showed the most consistent antimicrobial activity, with minimum inhibitory concentrations (MICs) of 312-1200 muM across the tested microorganisms. B3 exhibited the highest antiproliferative potency, with IC(50) values of 2.3, 5.2, and 5.4 muM against K-562, HeLa, and HaCaT cells, respectively. However, its selectivity varied with the cell model, reaching a selectivity index (SI) of 5.17 against K-562 cells relative to MRC-5 fibroblasts and 2.35 relative to HaCaT cells. B2 showed a more moderate activity profile, with some selectivity towards K-562 cells. Flow-cytometric analysis revealed increased sub-G0/G1 populations following treatment, consistent with the induction of apoptosis. Biophysical assays and molecular docking indicated structure-dependent interactions with DNA, while fluorescence studies revealed differences in the apparent binding affinities of the complexes toward human serum albumin (HSA). These findings highlight the influence of ligand structure on the biological activity and biomolecular interactions of palladium(II) complexes, identifying B3 as the most promising candidate for further investigation based on its antiproliferative potency and selectivity.",
+    "keywords": [
+      "DNA and protein binding study",
+      "anticancer activity",
+      "antimicrobial activity",
+      "molecular docking",
+      "palladium(II) complexes",
+      "beta-diketo ester"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Palladium/chemistry",
+      "*Antineoplastic Agents/pharmacology/chemistry/chemical synthesis",
+      "Molecular Docking Simulation",
+      "*DNA/metabolism/chemistry",
+      "*Coordination Complexes/pharmacology/chemistry/chemical synthesis",
+      "*Anti-Infective Agents/pharmacology/chemistry/chemical synthesis",
+      "Cell Proliferation/drug effects",
+      "Protein Binding",
+      "Microbial Sensitivity Tests",
+      "HeLa Cells",
+      "Cell Line, Tumor",
+      "Apoptosis/drug effects",
+      "Serum Albumin, Human/metabolism/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Trifunovic Stevanovic, Marija",
+        "Joksimovic, Nenad",
+        "Petronijevic, Jelena",
+        "Stojanovic, Snezana",
+        "Dordevic, Sladana",
+        "Stankovic, Jelena Antic",
+        "Bufan, Biljana",
+        "Bozic, Dragana D"
+      ],
+      "short_names": [
+        "Trifunovic Stevanovic M",
+        "Joksimovic N",
+        "Petronijevic J",
+        "Stojanovic S",
+        "Dordevic S",
+        "Stankovic JA",
+        "Bufan B",
+        "Bozic DD"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3365-6762",
+        "ORCID: 0000-0003-3427-5427",
+        "ORCID: 0000-0003-0894-2118",
+        "ORCID: 0000-0003-0194-3927",
+        "ORCID: 0000-0002-0348-4368",
+        "ORCID: 0000-0003-1861-5700",
+        "ORCID: 0000-0002-5373-5540"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovica 12, 34000 Kragujevac, Serbia.",
+        "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovica 12, 34000 Kragujevac, Serbia.",
+        "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovica 12, 34000 Kragujevac, Serbia.",
+        "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovica 12, 34000 Kragujevac, Serbia.",
+        "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovica 12, 34000 Kragujevac, Serbia.",
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, University of Belgrade, Vojvode Stepe 450, 11221 Belgrade, Serbia.",
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, University of Belgrade, Vojvode Stepe 450, 11221 Belgrade, Serbia.",
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, University of Belgrade, Vojvode Stepe 450, 11221 Belgrade, Serbia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Trifunović Stevanović, Marija",
+        "short_name": "Trifunović Stevanović M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovića 12, 34000 Kragujevac, Serbia."
+        ]
+      },
+      {
+        "full_name": "Joksimović, Nenad",
+        "short_name": "Joksimović N",
+        "identifiers": [
+          "0000-0003-3365-6762"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovića 12, 34000 Kragujevac, Serbia."
+        ]
+      },
+      {
+        "full_name": "Petronijević, Jelena",
+        "short_name": "Petronijević J",
+        "identifiers": [
+          "0000-0003-3427-5427"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovića 12, 34000 Kragujevac, Serbia."
+        ]
+      },
+      {
+        "full_name": "Stojanović, Snežana",
+        "short_name": "Stojanović S",
+        "identifiers": [
+          "0000-0003-0894-2118"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovića 12, 34000 Kragujevac, Serbia."
+        ]
+      },
+      {
+        "full_name": "Đorđević, Slađana",
+        "short_name": "Đorđević S",
+        "identifiers": [
+          "0000-0003-0194-3927"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, University of Kragujevac, Radoja Domanovića 12, 34000 Kragujevac, Serbia."
+        ]
+      },
+      {
+        "full_name": "Stanković, Jelena Antić",
+        "short_name": "Stanković JA",
+        "identifiers": [
+          "0000-0002-0348-4368"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, University of Belgrade, Vojvode Stepe 450, 11221 Belgrade, Serbia."
+        ]
+      },
+      {
+        "full_name": "Bufan, Biljana",
+        "short_name": "Bufan B",
+        "identifiers": [
+          "0000-0003-1861-5700"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, University of Belgrade, Vojvode Stepe 450, 11221 Belgrade, Serbia."
+        ]
+      },
+      {
+        "full_name": "Božić, Dragana D",
+        "short_name": "Božić DD",
+        "identifiers": [
+          "0000-0002-5373-5540"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, University of Belgrade, Vojvode Stepe 450, 11221 Belgrade, Serbia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43027691"
+    ],
+    "review": [
+      "43027691"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

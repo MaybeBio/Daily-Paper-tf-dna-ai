@@ -1,0 +1,205 @@
+{
+  "identity": {
+    "pmid": "43012433",
+    "doi": "10.1002/jbt.71137",
+    "title": "Targeting TLR2 to Overcome Autophagy-Dependent Chemoresistance in Gastric Cancer: Integrating Molecular Docking, Mechanistic Validation, and Therapeutic Evaluation."
+  },
+  "content": {
+    "abstract": "Chemoresistance remains a major barrier to effective treatment of gastric cancer (GC), particularly in advanced disease, where cytotoxic chemotherapy often yields limited and transient responses. The present study provides integrated computational and experimental evidence that targeting TLR2 using repurposed small-molecule inhibitors can overcome autophagy-dependent chemoresistance in gastric adenocarcinoma cells. A library comprising 1555 FDA-approved drugs was sourced from the DrugBank database, virtual screening was executed, and two compounds, Nilotinib (DB04868) and Lomitapide (DB08827), achieved affinities </= -10 kcal/mol. Chemoresistant GC cells were developed, and experimental assessment was performed using cell proliferation assay, apoptosis assay, real-time PCR, and western blot analysis. Nilotinib and Lomitapide significantly reduced the proliferation but increased the apoptosis of chemoresistant GC cells. Additionally, Nilotinib and lomitapide reduced the mRNA and protein levels of autophagy-related factors, LC3B, Beclin-1, and p62/SQSTM1, and activated transcription factors in chemoresistant GC cells. In conclusion, our results suggest that combining TLR2-targeted agents with standard chemotherapy could be a promising strategy to overcome refractory disease in GC.",
+    "keywords": [
+      "TLR2",
+      "autophagy",
+      "chemoresistance",
+      "gastric cancer",
+      "molecular docking"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Stomach Neoplasms/drug therapy/metabolism/pathology",
+      "*Autophagy/drug effects",
+      "*Drug Resistance, Neoplasm/drug effects",
+      "*Molecular Docking Simulation",
+      "Cell Line, Tumor",
+      "*Toll-Like Receptor 2/metabolism/antagonists & inhibitors/chemistry",
+      "*Pyrimidines/pharmacology/chemistry",
+      "*Antineoplastic Agents/pharmacology/chemistry",
+      "Apoptosis/drug effects",
+      "*Adenocarcinoma/drug therapy/metabolism",
+      "*Neoplasm Proteins/metabolism/antagonists & inhibitors",
+      "Cell Proliferation/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zheng, Kuanheng",
+        "Lei, Xinjian",
+        "Lin, Bin",
+        "Yang, Qianhong",
+        "He, Cong",
+        "Gao, Jin",
+        "Li, Feng"
+      ],
+      "short_names": [
+        "Zheng K",
+        "Lei X",
+        "Lin B",
+        "Yang Q",
+        "He C",
+        "Gao J",
+        "Li F"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9305-3907"
+      ],
+      "affiliations": [
+        "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+        "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zheng, Kuanheng",
+        "short_name": "Zheng K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+          "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Lei, Xinjian",
+        "short_name": "Lei X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+          "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Bin",
+        "short_name": "Lin B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+          "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Qianhong",
+        "short_name": "Yang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+          "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "He, Cong",
+        "short_name": "He C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+          "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jin",
+        "short_name": "Gao J",
+        "identifiers": [
+          "0000-0002-9305-3907"
+        ],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+          "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Li, Feng",
+        "short_name": "Li F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery Zone 2, Ningde Clinical Medical College of Fujian Medical University, Ningde City, Fujian, China.",
+          "Department of Gastrointestinal Surgery, Ningde Municipal Hospital, Ningde City, Fujian, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biochemical and molecular toxicology"
+    ],
+    "journal_abbrev": [
+      "J Biochem Mol Toxicol"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:37",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43012433"
+    ],
+    "review": [
+      "43012433"
+    ],
+    "pmc": [
+      "13753654"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/stomachcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Stomach Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43012433/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/jbt.71137",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

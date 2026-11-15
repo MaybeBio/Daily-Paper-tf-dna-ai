@@ -1,0 +1,111 @@
+{
+  "identity": {
+    "pmid": "43025426",
+    "doi": "10.1016/j.cels.2026.101781",
+    "title": "Multi-omics-constrained kinetic models quantify pathway rewiring and predict metabolic vulnerabilities in BRCA1-deficient ovarian cancer."
+  },
+  "content": {
+    "abstract": "Time-resolved, network-wide consequences of cancer metabolic reprogramming remain poorly understood. We built multi-omics-constrained, near-genome-scale kinetic ensembles for isogenic BRCA1 wild-type and BRCA1-mutant ovarian cancer cells. Covering over 2,100 reactions, the ensembles enabled uncertainty-quantified simulations of nutrient, metabolite, and enzyme perturbations. Metabolic control analysis identified 28 enzyme-mediated vulnerabilities; 24 are linked to experimental or approved DrugBank compounds, whereas four lack documented drug associations. Independent DepMap data supported a subset of these candidates. All 28 emerged directly from the mechanistic model structure and multi-omics constraints, with no calibration to known drug targets or cancer-dependency data. Simulations of thymidylate synthase, hexokinase, and triokinase inhibition predicted target- and physiology-specific changes in pathway use, energy metabolism, and a shared ceramide-linked stress response. Mapping predicted enzyme-activity shifts to BRCA1-associated transcription factors suggested regulatory routes underlying differences between the two states. These ensembles provide a reusable framework for time-resolved, mechanistic hypothesis generation across cancers and other diseases. A record of this paper's transparent peer review process is included in the supplemental information.",
+    "keywords": [
+      "computational biology",
+      "drug target analysis",
+      "dynamic systems",
+      "kinetic models",
+      "multi-omics data integration",
+      "ovarian cancer cell lines",
+      "systems biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Toumpe, Ilias",
+        "Masid, Maria",
+        "Hatzimanikatis, Vassily",
+        "Miskovic, Ljubisa"
+      ],
+      "short_names": [
+        "Toumpe I",
+        "Masid M",
+        "Hatzimanikatis V",
+        "Miskovic L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Computational Systems Biotechnology, Ecole Polytechnique Federale de Lausanne (EPFL), 1015 Lausanne, Switzerland.",
+        "Ludwig Institute for Cancer Research, Department of Oncology, University of Lausanne, Lausanne University Hospital (CHUV), 1011 Lausanne, Switzerland. Electronic address: maria.masidbarcon@unil.ch.",
+        "Laboratory of Computational Systems Biotechnology, Ecole Polytechnique Federale de Lausanne (EPFL), 1015 Lausanne, Switzerland. Electronic address: vassily.hatzimanikatis@epfl.ch.",
+        "Laboratory of Computational Systems Biotechnology, Ecole Polytechnique Federale de Lausanne (EPFL), 1015 Lausanne, Switzerland; AI center, EPFL, 1015 Lausanne, Switzerland. Electronic address: ljubisa.miskovic@epfl.ch."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Toumpe, Ilias",
+        "short_name": "Toumpe I",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Computational Systems Biotechnology, École Polytechnique Fédérale de Lausanne (EPFL), 1015 Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Masid, Maria",
+        "short_name": "Masid M",
+        "identifiers": [],
+        "affiliations": [
+          "Ludwig Institute for Cancer Research, Department of Oncology, University of Lausanne, Lausanne University Hospital (CHUV), 1011 Lausanne, Switzerland. Electronic address: maria.masidbarcon@unil.ch."
+        ]
+      },
+      {
+        "full_name": "Hatzimanikatis, Vassily",
+        "short_name": "Hatzimanikatis V",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Computational Systems Biotechnology, École Polytechnique Fédérale de Lausanne (EPFL), 1015 Lausanne, Switzerland. Electronic address: vassily.hatzimanikatis@epfl.ch."
+        ]
+      },
+      {
+        "full_name": "Miskovic, Ljubisa",
+        "short_name": "Miskovic L",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Computational Systems Biotechnology, École Polytechnique Fédérale de Lausanne (EPFL), 1015 Lausanne, Switzerland; AI center, EPFL, 1015 Lausanne, Switzerland. Electronic address: ljubisa.miskovic@epfl.ch."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell systems"
+    ],
+    "journal_abbrev": [
+      "Cell Syst"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 01:35",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43025426"
+    ],
+    "review": [
+      "43025426"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

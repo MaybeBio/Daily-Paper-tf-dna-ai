@@ -1,0 +1,132 @@
+{
+  "identity": {
+    "pmid": "42998179",
+    "doi": "10.1007/s00709-026-02288-6",
+    "title": "Trimetazidine hydrochloride-induced seed germination can effectively alleviate drought stress and salt stress damage in rapeseed seedlings."
+  },
+  "content": {
+    "abstract": "Drought and salt stress are major constraints limiting rapeseed yield and production. Trimetazidine hydrochloride (TMZ) is a metabolic regulator. Previous studies showed that TMZ treatment significantly activated the antioxidant system in rapeseed. In this study, we investigated the effects of different concentrations of TMZ on drought and salt stress tolerance in germinating oilseed rape via phenotypic, physiological and transcriptomic analyses. Results showed that seed priming with TMZ for 7 days significantly inhibited rapeseed growth. Seeds were germinated under TMZ induction for 3 days to cotyledon emergence, followed by drought and salt stress simulation using 20% PEG-6000 and 200 mmol/L NaCl. TMZ priming notably enhanced seedling stress tolerance, with 80 mg/L being the most effective. After seed germination at this concentration under drought stress, the seedling water content increased by 28.49%, while the relative electrical conductivity decreased by 72.83%, compared with seedlings germinated with clean water. Under salt stress, th​e malondialdehyde (MDA) content and relative ​conductivity of seedlings were reduced by 35.64% and 61.34%, respectively, relative to the clear water germination control. TMZ treatment alone also significantly activated the antioxidant system. Time-series transcriptome analysis showed that differentially expressed genes (DEGs) at CK vs. Q12 group were enriched in photosynthesis, energy metabolism, phenylpropanoid biosynthesis, and signal transduction. TMZ repressed auxin (IAA) and gibberellin (GA) signaling but promoted jasmonic acid (JA) pathway. Transcription factor (TF) analysis showed that MYB-related was the largest TF family in both CK vs. Q4 group and CK vs. Q12 group, CCA1 was identified as the core hub gene.",
+    "keywords": [
+      "CCA1",
+      "Drought stress",
+      "Rapeseed",
+      "Salt stress",
+      "Seed priming",
+      "Trimetazidine hydrochloride"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Long, Jinjia",
+        "Xu, Benbo",
+        "Xu, Jinsong",
+        "Zhang, Xuekun"
+      ],
+      "short_names": [
+        "Long J",
+        "Xu B",
+        "Xu J",
+        "Zhang X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "MARA Key Laboratory of Sustainable Crop Production in the Middle Reaches of the Yangtze River (Co-Construction by Ministry and Province), Hubei Key Laboratory of Waterlogging Disaster and Agricultural Use of Wetland, College of Agriculture, Yangtze University, Jingzhou, China.",
+        "MARA Key Laboratory of Sustainable Crop Production in the Middle Reaches of the Yangtze River (Co-Construction by Ministry and Province), Hubei Key Laboratory of Waterlogging Disaster and Agricultural Use of Wetland, College of Agriculture, Yangtze University, Jingzhou, China.",
+        "MARA Key Laboratory of Sustainable Crop Production in the Middle Reaches of the Yangtze River (Co-Construction by Ministry and Province), Hubei Key Laboratory of Waterlogging Disaster and Agricultural Use of Wetland, College of Agriculture, Yangtze University, Jingzhou, China. xujinsong@yangtzeu.edu.cn.",
+        "MARA Key Laboratory of Sustainable Crop Production in the Middle Reaches of the Yangtze River (Co-Construction by Ministry and Province), Hubei Key Laboratory of Waterlogging Disaster and Agricultural Use of Wetland, College of Agriculture, Yangtze University, Jingzhou, China. zhang.xk@139.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Long, Jinjia",
+        "short_name": "Long J",
+        "identifiers": [],
+        "affiliations": [
+          "MARA Key Laboratory of Sustainable Crop Production in the Middle Reaches of the Yangtze River (Co-Construction by Ministry and Province), Hubei Key Laboratory of Waterlogging Disaster and Agricultural Use of Wetland, College of Agriculture, Yangtze University, Jingzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Benbo",
+        "short_name": "Xu B",
+        "identifiers": [],
+        "affiliations": [
+          "MARA Key Laboratory of Sustainable Crop Production in the Middle Reaches of the Yangtze River (Co-Construction by Ministry and Province), Hubei Key Laboratory of Waterlogging Disaster and Agricultural Use of Wetland, College of Agriculture, Yangtze University, Jingzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jinsong",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "MARA Key Laboratory of Sustainable Crop Production in the Middle Reaches of the Yangtze River (Co-Construction by Ministry and Province), Hubei Key Laboratory of Waterlogging Disaster and Agricultural Use of Wetland, College of Agriculture, Yangtze University, Jingzhou, China. xujinsong@yangtzeu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xuekun",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "MARA Key Laboratory of Sustainable Crop Production in the Middle Reaches of the Yangtze River (Co-Construction by Ministry and Province), Hubei Key Laboratory of Waterlogging Disaster and Agricultural Use of Wetland, College of Agriculture, Yangtze University, Jingzhou, China. zhang.xk@139.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protoplasma"
+    ],
+    "journal_abbrev": [
+      "Protoplasma"
+    ],
+    "pub_date": "2026 Nov 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-15 09:05:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42998179"
+    ],
+    "review": [
+      "42998179"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00709-026-02288-6",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CHKA-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "43000379",
+    "doi": "10.1186/s13046-026-03805-4",
+    "title": "Development of a cell-penetrating peptide for intracellular delivery of a biologically active HPV E6 inhibitor in cervical cancer cells."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The E6 oncoprotein of high-risk human papillomaviruses (HPVs) promotes cervical carcinogenesis by forming a complex with the ubiquitin ligase E6AP to mediate p53 proteasomal degradation. A 15-amino-acid peptide (pep11) was shown to disrupt the HPV16 E6/E6AP complex, to restore p53 stability and to induce apoptosis in HPV16-positive cancer cells. In this study, a short cell-penetrating peptide (CPP) was conjugated to the pep11 N-terminus to improve its solubility and intracellular delivery in HPV-positive cancer cells. METHODS: CPP-pep11 was synthesized using Boc chemistry. The interactions of CPP-pep11 with HPV16 and HPV18 E6 were modelled using AlphaFold2, while peptide structures were characterised by NMR spectroscopy. HPV16-positive SiHa and HPV18-positive C4-I cervical cancer cells were treated with CPP-pep11 (0.5-20 microM) for 24-72 h. Effects on proliferation and clonogenicity were assessed using xCELLigence and colony formation assays. Peptide uptake and localization were analysed by confocal microscopy and differential cell fractionation, while p53 expression and viability were evaluated by Western blotting and cytotoxicity assays. RESULTS: AlphaFold2 modelling suggested that CPP-pep11 can interact with both HPV16 E6 and HPV18 E6, with a more stable predicted binding to HPV16 E6. CPP-pep11 was soluble in water at 20 microM and, according to NMR analysis, predominantly adopted a disordered conformation. CPP-pep11 efficiently entered the SiHa and C4-I cell membranes, mainly localised to the cytoplasm at lower concentrations (0.5-5 microM) and to the nucleus at higher concentrations (10-20 microM). CPP-pep11 induced dose- and time-dependent inhibition of proliferation, with a significant reduction in colony formation in both cell lines. Treatment also restored p53 levels at 48 and 72 h, consistent with disruption of E6-mediated degradation. CONCLUSIONS: In conclusion, CPP-pep11 is a novel peptide-based inhibitor of HPV16 E6 and HPV18 E6 with therapeutic potential in HPV-associated malignancies by restoring p53 levels and inhibiting cancer cell proliferation.",
+    "keywords": [
+      "Cervical carcinoma",
+      "HPV 18 E6, cell penetrating peptide, CPP",
+      "Human papillomavirus type 16 E6, HPV16 E6",
+      "Oncosuppressor p53",
+      "Ubiquitination"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Cell-Penetrating Peptides/chemistry/pharmacology/administration & dosage",
+      "Female",
+      "*Oncogene Proteins, Viral/antagonists & inhibitors/chemistry/metabolism",
+      "*Uterine Cervical Neoplasms/drug therapy/virology/metabolism/pathology",
+      "*Repressor Proteins/antagonists & inhibitors/chemistry/metabolism",
+      "Cell Line, Tumor",
+      "*DNA-Binding Proteins/antagonists & inhibitors/chemistry",
+      "Human papillomavirus 16",
+      "Papillomavirus Infections/virology/drug therapy",
+      "Apoptosis/drug effects",
+      "Cell Proliferation/drug effects",
+      "Tumor Suppressor Protein p53/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dassi, Luisa",
+        "Tornesello, Anna Lucia",
+        "Vincenzi, Marian",
+        "Leone, Marilisa",
+        "Ingangi, Vincenzo",
+        "Lu, Wuyuan",
+        "Cerasuolo, Andrea",
+        "Pecchillo Cimmino, Tiziana",
+        "Amiranda, Sara",
+        "Napolitano, Mariapia",
+        "Tirino, Palma",
+        "Tuccillo, Franca Maria",
+        "Buonaguro, Luigi",
+        "De Gregorio, Vincenza",
+        "Imparato, Giorgia",
+        "Buonaguro, Franco Maria",
+        "Tornesello, Maria Lina"
+      ],
+      "short_names": [
+        "Dassi L",
+        "Tornesello AL",
+        "Vincenzi M",
+        "Leone M",
+        "Ingangi V",
+        "Lu W",
+        "Cerasuolo A",
+        "Pecchillo Cimmino T",
+        "Amiranda S",
+        "Napolitano M",
+        "Tirino P",
+        "Tuccillo FM",
+        "Buonaguro L",
+        "De Gregorio V",
+        "Imparato G",
+        "Buonaguro FM",
+        "Tornesello ML"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Innovative Immunological Models Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy. a.tornesello@istitutotumori.na.it.",
+        "Institute of Biostructures and Bioimaging, National Research Council of Italy (IBB-CNR), Napoli, Italy.",
+        "Institute of Biostructures and Bioimaging, National Research Council of Italy (IBB-CNR), Napoli, Italy.",
+        "Preclinical Models of Tumor Progression Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Shanghai Institute of Infectious Disease and Biosecurity, School of Basic Medical Sciences, Shanghai Medical College, Fudan University, Shanghai, China.",
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Innovative Immunological Models Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Department of Biology, University of Naples \"Federico II\", Via Cinthia, Napoli, Italy.",
+        "Center for Advanced Biomaterials for Healthcare, Istituto Italiano Di Tecnologia-IIT, Napoli, Italy.",
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy.",
+        "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy. m.tornesello@istitutotumori.na.it."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dassi, Luisa",
+        "short_name": "Dassi L",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Tornesello, Anna Lucia",
+        "short_name": "Tornesello AL",
+        "identifiers": [],
+        "affiliations": [
+          "Innovative Immunological Models Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy. a.tornesello@istitutotumori.na.it."
+        ]
+      },
+      {
+        "full_name": "Vincenzi, Marian",
+        "short_name": "Vincenzi M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biostructures and Bioimaging, National Research Council of Italy (IBB-CNR), Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Leone, Marilisa",
+        "short_name": "Leone M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biostructures and Bioimaging, National Research Council of Italy (IBB-CNR), Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Ingangi, Vincenzo",
+        "short_name": "Ingangi V",
+        "identifiers": [],
+        "affiliations": [
+          "Preclinical Models of Tumor Progression Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Lu, Wuyuan",
+        "short_name": "Lu W",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Infectious Disease and Biosecurity, School of Basic Medical Sciences, Shanghai Medical College, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Cerasuolo, Andrea",
+        "short_name": "Cerasuolo A",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Pecchillo Cimmino, Tiziana",
+        "short_name": "Pecchillo Cimmino T",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Amiranda, Sara",
+        "short_name": "Amiranda S",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Napolitano, Mariapia",
+        "short_name": "Napolitano M",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Tirino, Palma",
+        "short_name": "Tirino P",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Tuccillo, Franca Maria",
+        "short_name": "Tuccillo FM",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Buonaguro, Luigi",
+        "short_name": "Buonaguro L",
+        "identifiers": [],
+        "affiliations": [
+          "Innovative Immunological Models Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "De Gregorio, Vincenza",
+        "short_name": "De Gregorio V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Naples \"Federico II\", Via Cinthia, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Imparato, Giorgia",
+        "short_name": "Imparato G",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Advanced Biomaterials for Healthcare, Istituto Italiano Di Tecnologia-IIT, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Buonaguro, Franco Maria",
+        "short_name": "Buonaguro FM",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy."
+        ]
+      },
+      {
+        "full_name": "Tornesello, Maria Lina",
+        "short_name": "Tornesello ML",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biology and Viral Oncology Unit, Istituto Nazionale Tumori IRCCS Fondazione G. Pascale, Napoli, Italy. m.tornesello@istitutotumori.na.it."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of experimental & clinical cancer research : CR"
+    ],
+    "journal_abbrev": [
+      "J Exp Clin Cancer Res"
+    ],
+    "pub_date": "2026 Aug 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 11:02",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43000379"
+    ],
+    "review": [
+      "43000379"
+    ],
+    "pmc": [
+      "13746660"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://jeccr.biomedcentral.com/articles/10.1186/s13046-026-03805-4",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://screening.iarc.fr/atlashisto.php",
+        "provider": "International Agency for Research on Cancer - Screening Group",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Histopathology and cytopathology of the uterine cervix - digital atlas"
+      },
+      {
+        "url": "https://medlineplus.gov/cervicalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cervical Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43000379/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cervicalcancer.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cervical Cancer"
+      }
+    ],
+    "text_mined": []
+  }
+}

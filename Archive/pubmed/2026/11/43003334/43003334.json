@@ -1,0 +1,179 @@
+{
+  "identity": {
+    "pmid": "43003334",
+    "doi": "10.1016/j.ejphar.2026.179545",
+    "title": "Sinomenine prevents monocrotaline-induced pulmonary arterial hypertension by inhibiting osteopontin-mediated PASMC phenotypic switching."
+  },
+  "content": {
+    "abstract": "Pulmonary arterial hypertension (PAH) is a life-threatening disease driven by progressive pulmonary vascular remodeling, and aberrant phenotypic transition of pulmonary arterial smooth muscle cells (PASMCs) serves as the core pathological driver of disease deterioration. Sinomenine (SIN), a structurally defined isoquinoline alkaloid isolated from Sinomenium acutum (Thunb.) Rehder & E.H.Wilson, exhibits anti-inflammatory, vascular-protective, and anti-remodeling activities. Nevertheless, the exact molecular mechanism by which SIN regulates PASMC dysfunction to prevent PAH remains unclear. In vivo, SIN administration significantly attenuated MCT-induced PAH, right ventricular hypertrophy and pulmonary vascular remodeling in rats. In vitro, SIN effectively suppressed platelet-derived growth factor-BB (PDGF-BB)-triggered proliferation, migration and phenotypic switching of PASMCs. RNA-sequencing coupled with KEGG enrichment analysis further identified the ECM-receptor interaction pathway as the key signaling cascade dysregulated by MCT, with osteopontin (OPN) validated as the central functional target of SIN. OPN overexpression recapitulated the pro-remodeling effects of PDGF-BB in PASMCs, and such abnormal phenotypes were prevented by SIN. Molecular docking and cellular thermal shift assay demonstrated that SIN binds to NF-kappaB, a transcription factor of OPN, and suppresses PDGF-BB-induced NF-kappaB activation. This study uncovers a novel mechanism of SIN against PAH and highlights OPN as a critical mediator of its protective effects.",
+    "keywords": [
+      "ECM-receptor interaction",
+      "Osteopontin",
+      "Phenotypic switching",
+      "Pulmonary arterial hypertension",
+      "Sinomenine"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zeng, Zhenhua",
+        "Chen, Ziyi",
+        "Liu, Jianxin",
+        "Xu, Wen",
+        "Qin, Yao",
+        "Lin, Xinyi",
+        "Wu, Weihua",
+        "Zhou, Hua",
+        "Huang, Xiaoyang"
+      ],
+      "short_names": [
+        "Zeng Z",
+        "Chen Z",
+        "Liu J",
+        "Xu W",
+        "Qin Y",
+        "Lin X",
+        "Wu W",
+        "Zhou H",
+        "Huang X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China.",
+        "School of Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, China.",
+        "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China.",
+        "Chinese Medicine Guangdong Laboratory (Hengqin Laboratory), State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Provincial Key Laboratory of Chinese Medicine for Prevention and Treatment of Refractory Chronic Diseases, Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou, 510006, China; International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangdong, 519000, China.",
+        "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China.",
+        "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China.",
+        "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China; School of Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, China. Electronic address: wwh815@hotmail.com.",
+        "Chinese Medicine Guangdong Laboratory (Hengqin Laboratory), State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Provincial Key Laboratory of Chinese Medicine for Prevention and Treatment of Refractory Chronic Diseases, Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou, 510006, China; International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangdong, 519000, China. Electronic address: gutcmzhs@hotmail.com.",
+        "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China. Electronic address: Huangxy@hnmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zeng, Zhenhua",
+        "short_name": "Zeng Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Ziyi",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jianxin",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Wen",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": [
+          "Chinese Medicine Guangdong Laboratory (Hengqin Laboratory), State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Provincial Key Laboratory of Chinese Medicine for Prevention and Treatment of Refractory Chronic Diseases, Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou, 510006, China; International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangdong, 519000, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Yao",
+        "short_name": "Qin Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Xinyi",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Weihua",
+        "short_name": "Wu W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China; School of Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, China. Electronic address: wwh815@hotmail.com."
+        ]
+      },
+      {
+        "full_name": "Zhou, Hua",
+        "short_name": "Zhou H",
+        "identifiers": [],
+        "affiliations": [
+          "Chinese Medicine Guangdong Laboratory (Hengqin Laboratory), State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Provincial Key Laboratory of Chinese Medicine for Prevention and Treatment of Refractory Chronic Diseases, Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou, 510006, China; International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangdong, 519000, China. Electronic address: gutcmzhs@hotmail.com."
+        ]
+      },
+      {
+        "full_name": "Huang, Xiaoyang",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Sciences and Biomedical Research Institute, Hunan Medical College, Huaihua, 418000, Hunan, China. Electronic address: Huangxy@hnmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "European journal of pharmacology"
+    ],
+    "journal_abbrev": [
+      "Eur J Pharmacol"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 23:27",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43003334"
+    ],
+    "review": [
+      "43003334"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0014-2999(26)01027-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SPP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

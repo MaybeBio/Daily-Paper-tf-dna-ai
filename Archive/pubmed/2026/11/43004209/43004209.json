@@ -1,0 +1,141 @@
+{
+  "identity": {
+    "pmid": "43004209",
+    "doi": "10.1186/s12859-026-06563-4",
+    "title": "Helixpr: a helix-aware periodic representation of DNA sequence for enhancer identification."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Enhancers are distal cis-regulatory elements that play essential roles in gene regulation, development, and disease. Although numerous computational methods have been developed for enhancer identification, commonly used DNA encoding strategies, such as one-hot and k-mer representations, typically treat DNA as a linear symbolic sequence. This simplification ignores the intrinsic geometry of the DNA double helix, where nucleotides are organized along a periodic three-dimensional structure with a helical repeat of approximately 10-11 base pairs. To address this limitation, we propose HelixPR (Helix-aware Periodic Representation), a biologically motivated DNA sequence representation for enhancer identification. RESULTS: HelixPR augments per-nucleotide one-hot encoding with a sinusoidal periodic encoding using a period of [Formula: see text] base pairs. It further incorporates a global nucleotide-composition token to capture sequence-level compositional information complementary to local nucleotide patterns. Together, these components form a compact, interpretable, and information-preserving representation of DNA sequences. Combined with a lightweight one-dimensional convolutional neural network, HelixPR achieved competitive performance across benchmark datasets. On Liu's benchmark, HelixPR achieved an accuracy of 0.8434 and a Matthews correlation coefficient of 0.6874 for enhancer identification. For enhancer strength classification, HelixPR achieved an accuracy of 0.8400 and an AUC of 0.9346, outperforming baseline methods. On Basith's benchmark, HelixPR obtained a mean balanced accuracy of 0.9778, substantially outperforming existing methods. Further analysis showed that HelixPR supports closed-form decoding and that HelixPR-highlighted regions are enriched for known transcription-factor binding motifs, supporting both the interpretability and biological relevance of the proposed representation. CONCLUSIONS: These results suggest that incorporating the periodic structure of the DNA double helix can improve enhancer modeling. By combining nucleotide identity, helical periodicity, and global compositional information, HelixPR offers a biologically grounded framework for enhancer identification and related regulatory sequence prediction tasks.",
+    "keywords": [
+      "Convolutional neural network",
+      "DNA periodicity",
+      "DNA sequence representation",
+      "Enhancer identification",
+      "Positional encoding"
+    ],
+    "mesh_terms": [
+      "*Enhancer Elements, Genetic",
+      "*Sequence Analysis, DNA/methods",
+      "*DNA/chemistry/genetics",
+      "*Computational Biology/methods",
+      "Algorithms",
+      "Base Sequence",
+      "Convolutional Neural Networks"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Xiang",
+        "Kang, Jiayi",
+        "Sun, Nan",
+        "Yau, S S-T"
+      ],
+      "short_names": [
+        "Shi X",
+        "Kang J",
+        "Sun N",
+        "Yau SS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Mathematical Sciences, Tsinghua University, Beijing, 100084, People's Republic of China.",
+        "Hetao Institute of Mathematics and Interdisciplinary Sciences (HIMIS), Shenzhen, 518000, Guangdong, People's Republic of China.",
+        "Beijing Institute of Mathematical Sciences and Applications (BIMSA), Beijing, 101408, People's Republic of China.",
+        "Department of Mathematical Sciences, Tsinghua University, Beijing, 100084, People's Republic of China. yau@uic.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Xiang",
+        "short_name": "Shi X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematical Sciences, Tsinghua University, Beijing, 100084, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Kang, Jiayi",
+        "short_name": "Kang J",
+        "identifiers": [],
+        "affiliations": [
+          "Hetao Institute of Mathematics and Interdisciplinary Sciences (HIMIS), Shenzhen, 518000, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Sun, Nan",
+        "short_name": "Sun N",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Institute of Mathematical Sciences and Applications (BIMSA), Beijing, 101408, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yau, S S-T",
+        "short_name": "Yau SS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematical Sciences, Tsinghua University, Beijing, 100084, People's Republic of China. yau@uic.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC bioinformatics"
+    ],
+    "journal_abbrev": [
+      "BMC Bioinformatics"
+    ],
+    "pub_date": "2026 Aug 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 11:31",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43004209"
+    ],
+    "review": [
+      "43004209"
+    ],
+    "pmc": [
+      "13749817"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-026-06563-4",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43004209/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3409",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

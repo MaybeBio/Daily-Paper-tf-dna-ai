@@ -1,0 +1,174 @@
+{
+  "identity": {
+    "pmid": "42997443",
+    "doi": "10.7717/peerj.21863",
+    "title": "Identifying potential targets in endothelial to mesenchymal transition-mediated atherosclerosis using bioinformatics and machine learning."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Endothelial to mesenchymal transition (EndMT) is a key driver of atherosclerosis (AS). This study integrated multiple RNA transcriptomic and single-cell transcriptomic datasets to identify shared gene expression signatures between EndMT and AS. METHODS: GEO expression profiles were analyzed via differential expression, weighted gene co-expression network analysis (WGCNA), and functional enrichment analyses. A Random Forest model evaluated key genes, validating their expression and diagnostic performance. Single-cell RNA sequencing (scRNA-seq) further assessed their expression patterns, and a Transcription Factor (TF)-mRNA-miRNA regulatory network. RESULTS: Fifteen overlapping genes were identified, from which six candidates were screened through a Protein-Protein Interaction (PPI) network and validated in vitro. The application of a Random Forest model identified two key hub genes, CCL5 and IL1B, which were significantly upregulated. Their diagnostic Area Under the Curve (AUC) was >0.7 when assessed separately and increased to >0.85 in a combined model. Three shared TFs (NFKBIA, NFKB1, RELA) of the Nuclear Factor-kappa B (NF-kappaB) pathway were identified, highlighting its central role in disease progression. CONCLUSIONS: CCL5 and IL1B are key genes potentially regulating EndMT-mediated AS via inflammatory pathways including Nucleotide-binding oligomerization domain-like (NOD-like) receptor, Tumor Necrosis Factor (TNF), and NF-kappaB signaling, offering promising diagnostic and therapeutic targets for AS.",
+    "keywords": [
+      "Atherosclerosis",
+      "Bioinformatics",
+      "Endothelial to mesenchymal transition (EndMT)",
+      "Machine learning"
+    ],
+    "mesh_terms": [
+      "*Endothelial-Mesenchymal Transition/genetics",
+      "*Atherosclerosis/genetics/metabolism",
+      "Humans",
+      "*Machine Learning",
+      "*Computational Biology/methods",
+      "Gene Regulatory Networks",
+      "Gene Expression Profiling",
+      "Protein Interaction Maps",
+      "Transcriptome",
+      "Chemokine CCL5/genetics/metabolism",
+      "Interleukin-1beta/genetics",
+      "MicroRNAs/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hou, Zhengjun",
+        "Chen, Sihan",
+        "Cui, Yuliang",
+        "Ma, Qinfeng",
+        "Chen, Jiandong",
+        "Shu, Kunxian"
+      ],
+      "short_names": [
+        "Hou Z",
+        "Chen S",
+        "Cui Y",
+        "Ma Q",
+        "Chen J",
+        "Shu K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Chongqing University of Post and Telecommunications, Chongqing, China.",
+        "Chongqing University of Post and Telecommunications, Chongqing, China.",
+        "Chongqing Industry Polytechnic University, Chongqing, China.",
+        "Chongqing Blood Center, Chongqing, China.",
+        "Chongqing University of Post and Telecommunications, Chongqing, China.",
+        "Chongqing University of Post and Telecommunications, Chongqing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hou, Zhengjun",
+        "short_name": "Hou Z",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University of Post and Telecommunications, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Sihan",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University of Post and Telecommunications, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Yuliang",
+        "short_name": "Cui Y",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Industry Polytechnic University, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Qinfeng",
+        "short_name": "Ma Q",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Blood Center, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jiandong",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University of Post and Telecommunications, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Shu, Kunxian",
+        "short_name": "Shu K",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University of Post and Telecommunications, Chongqing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PeerJ"
+    ],
+    "journal_abbrev": [
+      "PeerJ"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-15 09:05:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42997443"
+    ],
+    "review": [
+      "42997443"
+    ],
+    "pmc": [
+      "13741981"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/atherosclerosis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Atherosclerosis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42997443/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7717/peerj.21863",
+        "provider": "PeerJ, Inc.",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

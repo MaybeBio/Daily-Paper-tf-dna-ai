@@ -1,0 +1,168 @@
+{
+  "identity": {
+    "pmid": "42999972",
+    "doi": "10.1002/anie.4133117",
+    "title": "Evolution-Inspired Multi-Objective Bayesian Optimization for Protein Engineering."
+  },
+  "content": {
+    "abstract": "Protein engineering requires efficient navigation of vast sequence spaces under limited evaluation budgets, especially when multiple properties must be optimized simultaneously. We developed evolution-inspired multi-objective Bayesian optimization (EvoMOBO), an active-learning framework that integrates path-dependent sequence generation, global candidate competition, and explicit multi-objective optimization, enabling efficient prioritization of high-value variants without exhaustive library enumeration. Compared with state-of-the-art methods on complete steroid receptor DNA-binding domain (DBD) and ParD3 antitoxin landscapes, EvoMOBO achieved greater target-region enrichment while maintaining sequence diversity across two- and three-objective tasks. In the DBD landscape, optimization guided by simulation-derived geometric descriptors enriched variants with satisfactory experimental performance without experimental labels. Building on this validation, we applied EvoMOBO to two enzyme-engineering tasks using mechanistic descriptors, with experiments reserved for final validation. For an old yellow enzyme from Geobacillus kaustophilus, probabilities of substrate binding and reaction preorganization guided optimization of a non-native oxidative dehydrogenation, yielding a variant that increased substrate conversion from 17.5% to 95%. For a formate oxidase from Aspergillus oryzae, stability-related descriptors identified aggregation-resistant variants that nearly doubled diethyl phthalate degradation in a photoenzymatic cascade. Together, these results demonstrate robust multi-objective optimization by EvoMOBO and show that mechanism-derived descriptors can effectively guide protein engineering toward experimentally improved functions.",
+    "keywords": [
+      "active learning",
+      "directed evolution",
+      "mechanism-derived descriptors",
+      "multi-objective Bayesian optimization",
+      "protein engineering"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wen, Kai",
+        "Wang, Sirui",
+        "Sun, Yixin",
+        "Li, Shiwen",
+        "Wang, Mengsong",
+        "Liu, Haoyang",
+        "Li, Quanshun",
+        "Zhu, Jingxuan"
+      ],
+      "short_names": [
+        "Wen K",
+        "Wang S",
+        "Sun Y",
+        "Li S",
+        "Wang M",
+        "Liu H",
+        "Li Q",
+        "Zhu J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4115-7552",
+        "ORCID: 0000-0002-3730-6623"
+      ],
+      "affiliations": [
+        "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China.",
+        "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China.",
+        "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China.",
+        "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China.",
+        "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China.",
+        "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China.",
+        "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China.",
+        "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wen, Kai",
+        "short_name": "Wen K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Sirui",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yixin",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shiwen",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Mengsong",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Haoyang",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Li, Quanshun",
+        "short_name": "Li Q",
+        "identifiers": [
+          "0000-0002-4115-7552"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Jingxuan",
+        "short_name": "Zhu J",
+        "identifiers": [
+          "0000-0002-3730-6623"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, Jilin University, Changchun, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Angewandte Chemie (International ed. in English)"
+    ],
+    "journal_abbrev": [
+      "Angew Chem Int Ed Engl"
+    ],
+    "pub_date": "2026 Nov 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 18:34",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999972"
+    ],
+    "review": [
+      "42999972"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/anie.4133117",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

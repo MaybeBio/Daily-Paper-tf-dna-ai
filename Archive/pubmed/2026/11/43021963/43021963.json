@@ -1,0 +1,204 @@
+{
+  "identity": {
+    "pmid": "43021963",
+    "doi": "10.3389/fcell.2026.1961567",
+    "title": "Integrative machine learning analysis of bulk and single-nucleus RNA sequencing reveals key cell types and biomarkers driving MASH-associated fibrosis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Metabolic dysfunction-associated steatohepatitis (MASH) increases the risk of cirrhosis and liver cancer, with liver fibrosis being the primary determinant of adverse outcomes. However, the molecular mechanisms driving fibrosis progression in MASH remains incompletely understood. METHODS: We integrated four bulk RNA-seq datasets into a merged cohort (MergeCohort) and analyzed one single-nucleus RNA-seq (snRNA-seq) dataset. Robust Rank Aggregation (RRA), WGCNA and machine learning were combined to identify core genes associated with MASH fibrosis. Additionally, we established MASH mice model induced by methionine-choline-deficient (MCD) diet, and further check the expression of hub genes through quantitative real-time PCR (qRT-PCR). Single-nucleus transcriptomic profiling of liver tissues from MASH patients across distinct fibrosis stages was investigated to delineate cellular heterogeneity, reconstruct intercellular communication networks, and characterize key transcription factors (TFs) as well as receptor-ligand interactions involved in MASH-associated fibrosis. RESULTS: Based on the MergeCohort, we detected two key gene network modules associated with fibrosis progression in MASH through WGCNA. By integrating machine learning algorithms, we discovered seven core genes (CAPN6, FAP, KRT23, SOX4, STMN2, TAGLN and VWF) showing favorable discriminatory capability for fibrosis stage, achieving an area under the curve (AUC) of 0.81 (95% CI 0.69-0.93) in a distinct external cohort. Moreover, CAPN6, FAP and KRT23 showed directionally consistent upregulation in the liver tissues of MASH mouse model induced by MCD diet. Subsequently, applying cell-type deconvolution analysis, we assigned the predominant cell types (hepatic stellate cells (HSCs), cholangiocytes, hepatocytes and macrophages) to the key WGCNA modules. At the single-nucleus level, we identified FGF13(+) cholangiocytes and SAAs(+) hepatocytes subpopulations. Transcription factor regulon analysis identified key TFs (CREB5 and STAT3), which may play potential regulatory roles in FGF13(+) cholangiocytes and SAAs(+) hepatocytes. Cell-cell communication analysis further revealed crucial ligand-receptor pairs between HSCs and FGF13(+) cholangiocytes (VEGFA_NRP1 and APP_CD74 axes), SAAs(+) hepatocytes and HSCs (RSPO3_LGR4 and IGF1_IGF1R axes), SAAs(+) hepatocytes and macrophages (TNFSF14_TNFRSF14 and SELE_CD44 axes) associated with the progression of liver fibrosis in MASH. CONCLUSION: This combined approach defines molecular signatures related to MASH fibrosis that may inform the development of novel therapeutic strategies and serve as a tissue signature associated with advanced fibrosis in MASH.",
+    "keywords": [
+      "MASH-associated fibrosis",
+      "TFs",
+      "cell state",
+      "intercellular communication",
+      "machine learning",
+      "snRNA-seq"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Junjie",
+        "Wang, Junjie",
+        "Shen, Yan",
+        "Zhang, Yirong",
+        "Luo, Zimeng",
+        "Kong, Xinyao",
+        "Li, Wang",
+        "Luo, Juan",
+        "Xu, Fei",
+        "Wan, Shaogui"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Wang J",
+        "Shen Y",
+        "Zhang Y",
+        "Luo Z",
+        "Kong X",
+        "Li W",
+        "Luo J",
+        "Xu F",
+        "Wan S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+        "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+        "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+        "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+        "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+        "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+        "School of Public Health and Health Management, Gannan Medical University, Ganzhou, China.",
+        "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+        "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+        "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+        "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+        "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+        "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+        "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+        "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+        "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+        "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+        "School of Medical and Information Engineering, Gannan Medical University, Ganzhou, China.",
+        "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+        "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+        "Department of Hepatology, The Affiliated Fifth People's Hospital of Ganzhou, Gannan Medical University, Ganzhou, China.",
+        "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+        "School of Medical Technology, Gannan Medical University, Ganzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Junjie",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+          "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+          "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Junjie",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+          "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+          "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Yan",
+        "short_name": "Shen Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health and Health Management, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yirong",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+          "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+          "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Zimeng",
+        "short_name": "Luo Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+          "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+          "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Kong, Xinyao",
+        "short_name": "Kong X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases (Ministry of Education), Gannan Medical University, Ganzhou, China.",
+          "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+          "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wang",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+          "School of Medical and Information Engineering, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Juan",
+        "short_name": "Luo J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medicine, Gannan Medical University, Ganzhou, China.",
+          "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Fei",
+        "short_name": "Xu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hepatology, The Affiliated Fifth People's Hospital of Ganzhou, Gannan Medical University, Ganzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Shaogui",
+        "short_name": "Wan S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Genomics and Precision Medicine, Gannan Medical University, Ganzhou, China.",
+          "School of Medical Technology, Gannan Medical University, Ganzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cell and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Dev Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 05:35",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43021963"
+    ],
+    "review": [
+      "43021963"
+    ],
+    "pmc": [
+      "13754731"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

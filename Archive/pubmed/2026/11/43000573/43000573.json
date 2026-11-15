@@ -1,0 +1,338 @@
+{
+  "identity": {
+    "pmid": "43000573",
+    "doi": "10.1007/s12035-026-06296-8",
+    "title": "Integrated Multi-omics Reveals Molecular Signatures of Rett Syndrome, Informing Future Biomarker Discovery."
+  },
+  "content": {
+    "abstract": "Rett syndrome (RTT) is a severe neurodevelopmental disorder primarily caused by pathogenic variants in the X-linked methyl-CpG-binding protein 2 (MECP2) gene. Despite numerous clinical trials being conducted, there are limited disease-modifying options available for individuals with RTT. This paucity of effective treatments can in part be attributed to the lack of clinically useful biomarkers that can objectively assess treatment response. Moreover, diagnosis of RTT continues to be clinical, when clinical manifestations are apparent, precluding early therapeutic approaches. Thus, clinical biomarkers of disease stage could improve diagnosis and enable real-time monitoring of response to treatment, providing the earliest possible indications of therapeutic efficacy. Given MeCP2's role as a key regulator of gene transcription, we used an untargeted omics approach to evaluate transcriptomic, proteomic, and metabolic profiles in blood from individuals with RTT (n = 9) and age- and sex-matched controls (n = 8). In addition to characterising differential expression at each omic layer, to understand the shared biology and coordinated molecular signals across all omic datasets, we used the unsupervised machine learning framework Multi-Omics Factor Analysis version 2 (MOFA2). The individual omic data consisted of a robust upregulation of genes involved in ribosomal structure and translation together with a downregulation in vesicle trafficking genes. An upregulation in ribosomal machinery and mitochondrial function together with a concomitant downregulation of critical epigenetic regulators, immune-signalling molecules, and cytoskeletal structural anchors was observed in the proteomics, which was supported by the phosphoproteomics. Notably, plasma metabolomics pointed towards alterations in energy substrates and lipid/cholesterol handling, suggesting systemic downstream consequences of primary intracellular disturbances. The integrated MOFA2 data supported the individual omic data revealing a central disease axis principally shaped by the proteome and transcriptome and supported by the metabolome and phosphoproteome, identifying potential biomarkers, including latent biological processes that distinguish RTT from controls (Latent Factor 1) and correlates of clinical severity (Latent Factor 2). Overall, our data reveal a distinctive 'disease state' molecular signature that distinguishes individuals with RTT from controls, where the findings in RTT blood cells are consistent with previously reported altered translational and mitochondrial function and disrupted chromatin regulation, cytoskeletal dynamics, and metabolic signalling. Our integrated multi-omics analyses revealed that PBMC's LTN1, ATRX, CHD8, SPTB, DMTN, PRF1, CD40LG, and PTPRCAP and plasma glutamate are the most promising disease-state (complementary diagnostic) candidate biomarkers while sphingomyelin, RTN3, and MMP1 appear to be the most suitable biomarkers of disease severity. Here, we demonstrate that blood from individuals with RTT reflects the molecular systemic consequences of MeCP2 dysfunction.",
+    "keywords": [
+      "Biomarker",
+      "Blood",
+      "MeCP2",
+      "Neurodevelopment",
+      "Omics",
+      "Rett syndrome"
+    ],
+    "mesh_terms": [
+      "*Rett Syndrome/genetics/metabolism/blood",
+      "Humans",
+      "*Multiomics",
+      "*Biomarkers/metabolism/blood",
+      "Proteomics/methods",
+      "Female",
+      "Methyl-CpG-Binding Protein 2/genetics",
+      "Transcriptome"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Issar, Jasmeen Kaur",
+        "Hertzog, Ashley",
+        "Pang, Ignatius",
+        "Graham, Mark E",
+        "Aryamanesh, Nader",
+        "Riley, Lisa G",
+        "Piras, Ignazio S",
+        "Hansen, Nathaniel P",
+        "Finney, Caitlin A",
+        "Shvetcov, Artur",
+        "Gloss, Brian",
+        "Bandodkar, Sushil",
+        "Dale, Russell C",
+        "Sun, Qin",
+        "Ellaway, Carolyn",
+        "Tolun, Adviye A",
+        "Ho, Gladys",
+        "Kaufmann, Walter E",
+        "Gold, Wendy A"
+      ],
+      "short_names": [
+        "Issar JK",
+        "Hertzog A",
+        "Pang I",
+        "Graham ME",
+        "Aryamanesh N",
+        "Riley LG",
+        "Piras IS",
+        "Hansen NP",
+        "Finney CA",
+        "Shvetcov A",
+        "Gloss B",
+        "Bandodkar S",
+        "Dale RC",
+        "Sun Q",
+        "Ellaway C",
+        "Tolun AA",
+        "Ho G",
+        "Kaufmann WE",
+        "Gold WA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1808-0646"
+      ],
+      "affiliations": [
+        "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+        "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+        "NSW Biochemical Genetics Service, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+        "Australian Proteome Analysis Facility, Macquarie University, Sydney, NSW, Australia.",
+        "Biomedical Proteomics, Children's Medical Research Institute, The University of Sydney, Sydney, NSW, Australia.",
+        "Bioinformatics Group, Children's Medical Research Institute, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+        "Early Detection and Prevention Division, Translational Genomics Research Institute, Phoenix, AZ, USA.",
+        "Early Detection and Prevention Division, Translational Genomics Research Institute, Phoenix, AZ, USA.",
+        "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "Translational Dementia Research Group, Westmead Institute for Medical Research, Sydney, Australia.",
+        "Department of Psychological Medicine, Sydney Children's Hospitals Network, Sydney, NSW, Australia.",
+        "Discipline of Psychiatry and Mental Health, School of Clinical Medicine, Faculty of Medicine and Health, University of New South Wales, Sydney, NSW, Australia.",
+        "Westmead Research Hub, Westmead Institute for Medical Research, Sydney, NSW, Australia.",
+        "Department of Biochemistry, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+        "The Children's Hospital at Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+        "The Children's Hospital at Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "Department of Molecular & Human Genetics, Baylor College of Medicine, Houston, USA.",
+        "Baylor Genetics, Houston, USA.",
+        "The Children's Hospital at Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "Genetic Metabolic Disorders Service, Sydney Children's Hospitals Network, Sydney, NSW, Australia.",
+        "NSW Biochemical Genetics Service, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+        "The Children's Hospital at Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+        "Department of Molecular Genetics, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+        "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA, USA.",
+        "Department of Neurology, Boston Children's Hospital, Boston, MA, USA.",
+        "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia. Wendy.gold@sydney.edu.au.",
+        "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia. Wendy.gold@sydney.edu.au."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Issar, Jasmeen Kaur",
+        "short_name": "Issar JK",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+          "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Hertzog, Ashley",
+        "short_name": "Hertzog A",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+          "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+          "NSW Biochemical Genetics Service, The Children's Hospital at Westmead, Westmead, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Pang, Ignatius",
+        "short_name": "Pang I",
+        "identifiers": [],
+        "affiliations": [
+          "Australian Proteome Analysis Facility, Macquarie University, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Graham, Mark E",
+        "short_name": "Graham ME",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Proteomics, Children's Medical Research Institute, The University of Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Aryamanesh, Nader",
+        "short_name": "Aryamanesh N",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Group, Children's Medical Research Institute, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Riley, Lisa G",
+        "short_name": "Riley LG",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+          "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Piras, Ignazio S",
+        "short_name": "Piras IS",
+        "identifiers": [],
+        "affiliations": [
+          "Early Detection and Prevention Division, Translational Genomics Research Institute, Phoenix, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Hansen, Nathaniel P",
+        "short_name": "Hansen NP",
+        "identifiers": [],
+        "affiliations": [
+          "Early Detection and Prevention Division, Translational Genomics Research Institute, Phoenix, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Finney, Caitlin A",
+        "short_name": "Finney CA",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+          "Translational Dementia Research Group, Westmead Institute for Medical Research, Sydney, Australia."
+        ]
+      },
+      {
+        "full_name": "Shvetcov, Artur",
+        "short_name": "Shvetcov A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychological Medicine, Sydney Children's Hospitals Network, Sydney, NSW, Australia.",
+          "Discipline of Psychiatry and Mental Health, School of Clinical Medicine, Faculty of Medicine and Health, University of New South Wales, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Gloss, Brian",
+        "short_name": "Gloss B",
+        "identifiers": [],
+        "affiliations": [
+          "Westmead Research Hub, Westmead Institute for Medical Research, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Bandodkar, Sushil",
+        "short_name": "Bandodkar S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+          "The Children's Hospital at Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Dale, Russell C",
+        "short_name": "Dale RC",
+        "identifiers": [],
+        "affiliations": [
+          "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+          "The Children's Hospital at Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Sun, Qin",
+        "short_name": "Sun Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular & Human Genetics, Baylor College of Medicine, Houston, USA.",
+          "Baylor Genetics, Houston, USA."
+        ]
+      },
+      {
+        "full_name": "Ellaway, Carolyn",
+        "short_name": "Ellaway C",
+        "identifiers": [],
+        "affiliations": [
+          "The Children's Hospital at Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia.",
+          "Genetic Metabolic Disorders Service, Sydney Children's Hospitals Network, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Tolun, Adviye A",
+        "short_name": "Tolun AA",
+        "identifiers": [],
+        "affiliations": [
+          "NSW Biochemical Genetics Service, The Children's Hospital at Westmead, Westmead, NSW, Australia.",
+          "The Children's Hospital at Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Ho, Gladys",
+        "short_name": "Ho G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Genetics, The Children's Hospital at Westmead, Westmead, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Kaufmann, Walter E",
+        "short_name": "Kaufmann WE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA, USA.",
+          "Department of Neurology, Boston Children's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Gold, Wendy A",
+        "short_name": "Gold WA",
+        "identifiers": [
+          "0000-0003-1808-0646"
+        ],
+        "affiliations": [
+          "School of Medical Sciences (Neuroscience), The Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia. Wendy.gold@sydney.edu.au.",
+          "Kids Neuroscience Centre, Kids Research, The Children's Hospital at Westmead, Westmead, NSW, Australia. Wendy.gold@sydney.edu.au."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular neurobiology"
+    ],
+    "journal_abbrev": [
+      "Mol Neurobiol"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 11:03",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43000573"
+    ],
+    "review": [
+      "43000573"
+    ],
+    "pmc": [
+      "13745417"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/rettsyndrome.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Rett Syndrome"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43000573/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s12035-026-06296-8",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

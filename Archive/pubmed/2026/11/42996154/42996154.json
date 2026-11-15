@@ -1,0 +1,202 @@
+{
+  "identity": {
+    "pmid": "42996154",
+    "doi": "10.3389/fimmu.2026.1964912",
+    "title": "Integrated pharmacology and validation reveal Formononetin upregulates GSTM2 to modulate prostate cancer immune microenvironment via ROS/STAT3-driven chemokine reprogramming."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Prostate cancer (PCa) is responsible for a substantial proportion of male cancer cases worldwide. Biochemical recurrence (BCR) representing a critical challenge in its disease management. Formononetin, a natural isoflavone derived from traditional Chinese medicine, has demonstrated potential anticancer properties. We sought to determine the translational potential of Formononetin-targeted molecules in PCa. METHODS: A list of putative targets of Formononetin were identified through five public databases. Overlapping candidates underwent further refinement using an ensemble of bioinformatics tools, encompassing differential expression profiling, co-expression network construction, and multiple machine-learning classifiers. Docked complexes and complementary analyses were subjected to evaluate the binding stability. To functionally validate GSTM2, we assessed its functional role on PCa cell growth, motility, and invasiveness in vitro, as well as the expression of CXCL10 and CCL22 chemokines. RESULTS: Integrative analysis identified 413 Formononetin targets, with overlapped 335 PCa-associated genes. Through weighted gene co-expression network analysis and differential expression analysis, 22 candidate genes were identified as Formononetin-related genes in PCa. Machine learning algorithms and survival analysis further suggested GSTM2 as the most important target. GSTM2 was positively correlated with enhanced immune infiltration and sensitivity to Bicalutamide. Single-cell analysis revealed that GSTM2-positive malignant cells exhibited upregulated glutathione metabolism and suppressed respiratory burst pathways. Stable complex formation between Formononetin and GSTM2 was demonstrated by computational docking. Cell-based assays demonstrated that Formononetin upregulated GSTM2 and inhibited PCa malignancy in a GSTM2-required manner. In terms of mechanism, Formononetin attenuated ROS levels and suppressed STAT3 phosphorylation via GSTM2, leading to reprogramming of chemokine expression characterized by upregulated CXCL10 and downregulated CCL22. CONCLUSION: Formononetin reprograms chemokine expression through the GSTM2-ROS-STAT3 axis to regulate the immune microenvironment, suggesting that it might have immune-modulating effects and is worth further in vivo studies.",
+    "keywords": [
+      "GSTM2",
+      "biochemical recurrence",
+      "chemokine",
+      "formononetin",
+      "network pharmacology",
+      "oxidative stress",
+      "prostate cancer"
+    ],
+    "mesh_terms": [
+      "Male",
+      "*Isoflavones/pharmacology",
+      "*STAT3 Transcription Factor/metabolism",
+      "*Prostatic Neoplasms/immunology/drug therapy/metabolism/pathology/genetics",
+      "*Tumor Microenvironment/drug effects/immunology",
+      "Humans",
+      "Reactive Oxygen Species/metabolism",
+      "*Glutathione Transferase/genetics/metabolism",
+      "Gene Expression Regulation, Neoplastic/drug effects",
+      "Up-Regulation/drug effects",
+      "*Chemokines/metabolism",
+      "Cell Line, Tumor",
+      "Signal Transduction/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Tianlun",
+        "Zhou, Yu",
+        "He, Fangkai",
+        "Wu, Yufan",
+        "Tang, Shiyun",
+        "Zhu, Zhouhan",
+        "Qian, Wei"
+      ],
+      "short_names": [
+        "Yu T",
+        "Zhou Y",
+        "He F",
+        "Wu Y",
+        "Tang S",
+        "Zhu Z",
+        "Qian W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Clinical Laboratory, Kunshan Rehabilitation Hospital, Kunshan, China.",
+        "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+        "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+        "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+        "Department of Urology, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+        "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+        "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+        "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+        "Kunshan Key Laboratory of Immune Regulation in Health and Disease, Kunshan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Tianlun",
+        "short_name": "Yu T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Kunshan Rehabilitation Hospital, Kunshan, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yu",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China."
+        ]
+      },
+      {
+        "full_name": "He, Fangkai",
+        "short_name": "He F",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yufan",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+          "Department of Urology, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Shiyun",
+        "short_name": "Tang S",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhouhan",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Wei",
+        "short_name": "Qian W",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, Kunshan Hospital of Traditional Chinese Medicine, Kunshan Affiliated Hospital of Nanjing University of Chinese Medicine, Kunshan, China.",
+          "Kunshan Key Laboratory of Immune Regulation in Health and Disease, Kunshan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-15 09:05:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42996154"
+    ],
+    "review": [
+      "42996154"
+    ],
+    "pmc": [
+      "13739512"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/prostatecancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Prostate Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42996154/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GST+Mu2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1964912",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

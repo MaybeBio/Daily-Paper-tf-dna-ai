@@ -1,0 +1,166 @@
+{
+  "identity": {
+    "pmid": "43015701",
+    "doi": "10.1186/s12906-026-05519-8",
+    "title": "Shenfu Injection attenuates isoproterenol-induced heart failure partly through modulation of the TNF-alpha/TNFR1/NF-kappaB signaling pathway."
+  },
+  "content": {
+    "abstract": "Shenfu injection (SFI) is widely used for heart failure (HF), but its cardioprotective mechanism remains incompletely understood. In this study, an isoproterenol-induced HF rat model, H9c2 cell injury model, network pharmacology, GEO analysis, molecular docking, and molecular dynamics simulations were integrated to explore the mechanism of SFI. In rats, SFI improved cardiac function, with the medium-dose group increasing LVEF from 62.03 +/- 5.89% in the ISO group to 79.33 +/- 2.62% and LVFS from 29.68 +/- 3.97% to 43.03 +/- 2.49%. SFI also reduced NT-proBNP, inflammatory cytokines, and myocardial apoptosis. In H9c2 cells, 4 per thousand SFI improved ISO-induced cell injury and reduced apoptosis and inflammatory responses. Network pharmacology and GEO analysis indicated enrichment of the TNF signaling pathway, and molecular simulation suggested potential interactions between candidate SFI-related compounds and targets in the TNF-alpha/TNFR1/NF-kappaB axis. These findings suggest that SFI attenuates HF-related cardiac injury partly by suppressing inflammation and apoptosis through modulation of the TNF-alpha/TNFR1/NF-kappaB signaling pathway.",
+    "keywords": [
+      "Heart failure",
+      "Molecular docking",
+      "Molecular dynamics simulations",
+      "Network pharmacology",
+      "TNF-alpha/TNFR1/NF-kappaB signaling pathway"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Drugs, Chinese Herbal/pharmacology",
+      "Rats",
+      "*NF-kappa B/metabolism",
+      "*Heart Failure/drug therapy/chemically induced",
+      "Signal Transduction/drug effects",
+      "*Tumor Necrosis Factor-alpha/metabolism",
+      "Isoproterenol",
+      "Male",
+      "Receptors, Tumor Necrosis Factor, Type I/metabolism",
+      "Rats, Sprague-Dawley",
+      "Apoptosis/drug effects",
+      "Molecular Docking Simulation",
+      "Cell Line"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Zhiqiang",
+        "Zhao, Zhenyu",
+        "Li, Weijun",
+        "Hu, Zhixi",
+        "Ye, Jiahao"
+      ],
+      "short_names": [
+        "Wang Z",
+        "Zhao Z",
+        "Li W",
+        "Hu Z",
+        "Ye J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Changsha, 410208, China.",
+        "Provincial Key Laboratory of TCM Diagnostics, Hunan University of Chinese Medicine, Changsha, China.",
+        "Provincial Key Laboratory of TCM Diagnostics, Hunan University of Chinese Medicine, Changsha, China.",
+        "Institute of TCM Diagnosis, Hunan University of Chinese Medicine, Changsha, China. 003405@hnucm.edu.cn.",
+        "Institute of TCM Diagnosis, Hunan University of Chinese Medicine, Changsha, China. 20193211@stu.hnucm.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Zhiqiang",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Integrated Chinese and Western Medicine, Hunan University of Chinese Medicine, Changsha, 410208, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhenyu",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Provincial Key Laboratory of TCM Diagnostics, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Li, Weijun",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Provincial Key Laboratory of TCM Diagnostics, Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Zhixi",
+        "short_name": "Hu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of TCM Diagnosis, Hunan University of Chinese Medicine, Changsha, China. 003405@hnucm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Ye, Jiahao",
+        "short_name": "Ye J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of TCM Diagnosis, Hunan University of Chinese Medicine, Changsha, China. 20193211@stu.hnucm.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC complementary medicine and therapies"
+    ],
+    "journal_abbrev": [
+      "BMC Complement Med Ther"
+    ],
+    "pub_date": "2026 Aug 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 05:29",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43015701"
+    ],
+    "review": [
+      "43015701"
+    ],
+    "pmc": [
+      "13756902"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmccomplementmedtherapies.biomedcentral.com/articles/10.1186/s12906-026-05519-8",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/heartfailure.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Heart Failure"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GZMA-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-2658",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "identity": {
+    "pmid": "43019861",
+    "doi": "10.1016/j.psj.2026.107997",
+    "title": "Integration of genotyping by sequencing and machine learning for genome-wide identification of informative markers for body weight in broiler chickens."
+  },
+  "content": {
+    "abstract": "Identifying associations between single nucleotide polymorphisms (SNPs) and economically important traits is fundamental to modern poultry breeding programs. However, genome-wide studies based on commercial high-density SNP arrays are often prohibitively expensive, particularly for large populations and in resource-limited settings. Therefore, this study employed a cost-effective genotyping-by-sequencing (GBS) approach combined with two ensemble machine learning algorithms, Random Forest (RF) and Gradient Boosting Machine (GBM), to identify informative markers of body weight (BW) at hatch, 3 weeks (BW3), and 6 weeks (BW6) of age in broiler chickens derived from reciprocal crosses between the commercial Arian line and native Urmia chicken. A total of 368 birds were genotyped using GBS, and 312 second-generation (F(2)) birds with complete phenotypic records were utilized for genomic screening and machine learning analyses. The hyperparameters of both machine learning algorithms were optimized using a grid search with three-fold cross-validation. The combined application of RF and GBM identified several informative SNP markers located on chromosomes 1, 4, 13, 17, 19, 20, and 24. Positional candidate genes located within these genomic regions included platelet-derived growth factor D (PDGFD), KIRRE-like nephrin family adhesion molecule 3 (KIRREL3), ETS proto-oncogene 1, transcription factor (ETS1), acyl-CoA synthetase long-chain family member 1 (ACSL1), diacylglycerol O-acyltransferase 2 (DGAT2), and selenophosphate synthetase 1 (SEPHS1). Gene Ontology enrichment analysis indicated that these genes are involved in biological processes related to the regulation of protein degradation, immune responses, and lipid metabolism. These findings demonstrate the potential of integrating cost-effective GBS with machine learning approaches to identify genomic regions and informative markers for body weight in broiler chickens, providing valuable genomic resources for future breeding and genetic improvement programs.",
+    "keywords": [
+      "Candidate genes",
+      "Gradient boosting",
+      "Random forest",
+      "Single nucleotide polymorphism"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bani Saadat, Hossein",
+        "Vaez Torshizi, Rasoul",
+        "Masoudi, Ali Akbar"
+      ],
+      "short_names": [
+        "Bani Saadat H",
+        "Vaez Torshizi R",
+        "Masoudi AA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Animal Science, Faculty of Agriculture, Tarbiat Modares University, Tehran, Islamic Republic of Iran.",
+        "Department of Animal Science, Faculty of Agriculture, Tarbiat Modares University, Tehran, Islamic Republic of Iran. Electronic address: rasoult@modares.ac.ir.",
+        "Department of Animal Science, Faculty of Agriculture, Tarbiat Modares University, Tehran, Islamic Republic of Iran."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bani Saadat, Hossein",
+        "short_name": "Bani Saadat H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal Science, Faculty of Agriculture, Tarbiat Modares University, Tehran, Islamic Republic of Iran."
+        ]
+      },
+      {
+        "full_name": "Vaez Torshizi, Rasoul",
+        "short_name": "Vaez Torshizi R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal Science, Faculty of Agriculture, Tarbiat Modares University, Tehran, Islamic Republic of Iran. Electronic address: rasoult@modares.ac.ir."
+        ]
+      },
+      {
+        "full_name": "Masoudi, Ali Akbar",
+        "short_name": "Masoudi AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal Science, Faculty of Agriculture, Tarbiat Modares University, Tehran, Islamic Republic of Iran."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Poultry science"
+    ],
+    "journal_abbrev": [
+      "Poult Sci"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 23:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43019861"
+    ],
+    "review": [
+      "43019861"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0032-5791(26)01631-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-305",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/ps/article-lookup/doi/10.1016/j.psj.2026.107997",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

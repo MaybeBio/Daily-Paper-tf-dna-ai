@@ -1,0 +1,117 @@
+{
+  "identity": {
+    "pmid": "43006955",
+    "doi": "10.1021/acs.jctc.6c01541",
+    "title": "Predicting Ternary Complex Stability through Binding Free-Energy Calculations in the Geometric Route."
+  },
+  "content": {
+    "abstract": "Molecular glue-induced targeted protein degradation is a powerful emerging therapeutic modality that exploits the ubiquitin-proteasome degradation pathway to break down proteins associated with disease proliferation. At the structural level, degradation proceeds through the formation of a ternary complex induced by small molecules between the target protein and an E3 ligase. Unlike PROTACs, molecular glues do not require a chemical linker and tend to stabilize preexisting native protein-protein interactions. Computational screening of novel glues is challenging, in large part due to the complexity and high degree of cooperativity involved in the formation of the ternary complex interface. Here, we present a rigorous Molecular Dynamics-based simulation protocol that uses Umbrella Sampling to calculate the ternary complex binding free energy. The protocol follows a geometric thermodynamic cycle with conformational and Boresch-style orientational restraints to drive the system from bound to unbound. Our framework successfully predicts the effect of single-point interface mutations on the relative stability of the CK1alpha-lenalidomide-CRBN ternary complex (R2 = 0.95 compared to experimental binding affinities). We also study a series of systems related to the BRD4 degraders IBG1 and IBG3, which recruit the DCAF16 E3 ligase. We rank various complexes engaging DCAF16 by their binding free energies and achieve an ordering that is consistent with the trends observed in biophysical assays. Of particular note is our ability to assert the reliance of BRD4 selectivity on a single interfacial glycine residue, which alternative, reduced-sampling MM/GBSA or HADDOCK scoring methodologies fail to achieve. Overall, our protocol shows promise as a generalizable approach to ranking ternary complexes by thermodynamic stability, potentially aiding in the identification of potent new degraders.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Thermodynamics",
+      "*Molecular Dynamics Simulation",
+      "Protein Binding",
+      "Humans",
+      "Protein Stability",
+      "*Ubiquitin-Protein Ligases/chemistry/metabolism",
+      "Bromodomain Containing Proteins",
+      "Transcription Factors/chemistry/metabolism",
+      "Cell Cycle Proteins/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tan, Benedict",
+        "Ciulli, Alessio",
+        "Michel, Julien"
+      ],
+      "short_names": [
+        "Tan B",
+        "Ciulli A",
+        "Michel J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8654-1670",
+        "ORCID: 0000-0003-0360-1760"
+      ],
+      "affiliations": [
+        "EaStCHEM School of Chemistry, University of Edinburgh, EdinburghEH9 3FJ, U.K.",
+        "Centre for Targeted Protein Degradation, School of Life Sciences, University of Dundee, DundeeDD1 5JJ, U.K.",
+        "EaStCHEM School of Chemistry, University of Edinburgh, EdinburghEH9 3FJ, U.K."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tan, Benedict",
+        "short_name": "Tan B",
+        "identifiers": [],
+        "affiliations": [
+          "EaStCHEM School of Chemistry, University of Edinburgh, EdinburghEH9 3FJ, U.K."
+        ]
+      },
+      {
+        "full_name": "Ciulli, Alessio",
+        "short_name": "Ciulli A",
+        "identifiers": [
+          "0000-0002-8654-1670"
+        ],
+        "affiliations": [
+          "Centre for Targeted Protein Degradation, School of Life Sciences, University of Dundee, DundeeDD1 5JJ, U.K."
+        ]
+      },
+      {
+        "full_name": "Michel, Julien",
+        "short_name": "Michel J",
+        "identifiers": [
+          "0000-0003-0360-1760"
+        ],
+        "affiliations": [
+          "EaStCHEM School of Chemistry, University of Edinburgh, EdinburghEH9 3FJ, U.K."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 11:36",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43006955"
+    ],
+    "review": [
+      "43006955"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jctcce/article-lookup/doi/10.1021/acs.jctc.6c01541",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

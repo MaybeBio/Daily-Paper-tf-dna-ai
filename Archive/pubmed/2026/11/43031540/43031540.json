@@ -1,0 +1,146 @@
+{
+  "identity": {
+    "pmid": "43031540",
+    "doi": "10.1093/jpp/rgag143",
+    "title": "Scoparone attenuates ethanol-induced hepatocellular injury through PI3K/Akt-mediated regulation of oxidative stress and apoptosis."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: Scoparone (SCO) has demonstrated hepatoprotective potential in previous studies, whereas its molecular mechanisms against alcohol-associated liver disease (ALD) remain unclear. This study investigated the protective effects and underlying mechanisms of SCO in ethanol-induced HepG2 cells. METHODS: Network pharmacology and molecular docking were employed to predict the potential targets and signaling pathways of SCO against ALD. Ethanol-induced HepG2 cells were used to validate the predicted mechanisms by biochemical assays, flow cytometry, immunofluorescence staining, quantitative real-time polymerase chain reaction and western blotting. KEY FINDINGS: Network pharmacology identified 109 overlapping targets between SCO and ALD, with the phosphoinositide 3-kinase/protein kinase B (PI3K/Akt) signaling pathway emerging as a key pathway. SCO enhanced alcohol metabolism, attenuated oxidative stress, restored mitochondrial membrane potential, and suppressed ethanol-induced apoptosis. Mechanistically, SCO activated PI3K/Akt signaling, thereby enhancing nuclear factor erythroid 2-related factor 2/heme oxygenase-1 (Nrf2/HO-1) antioxidant signaling and suppressing the phosphorylated forkhead box O1 (FoxO1)/FoxO1-associated apoptotic signaling. These protective effects were markedly reversed by the PI3K inhibitor LY294002. CONCLUSIONS: SCO protects against ethanol-induced hepatocyte injury by activating the PI3K/Akt signaling pathway, thereby enhancing Nrf2/HO-1-mediated antioxidant defense and suppressing FoxO1-associated apoptotic signaling. These findings provide preliminary mechanistic evidence supporting further preclinical investigation of SCO in alcohol-associated liver injury.",
+    "keywords": [
+      "FoxO1",
+      "Nrf2",
+      "PI3K/Akt signaling",
+      "alcohol-associated liver disease",
+      "apoptosis",
+      "scoparone"
+    ],
+    "mesh_terms": [
+      "*Apoptosis/drug effects",
+      "*Proto-Oncogene Proteins c-akt/metabolism",
+      "*Oxidative Stress/drug effects",
+      "Humans",
+      "*Ethanol/toxicity/adverse effects",
+      "Signal Transduction/drug effects",
+      "Hep G2 Cells",
+      "NF-E2-Related Factor 2/metabolism",
+      "*Coumarins/pharmacology",
+      "Forkhead Box Protein O1/metabolism",
+      "*Liver Diseases, Alcoholic/drug therapy/metabolism/prevention & control",
+      "Phosphatidylinositol 3-Kinases/metabolism",
+      "Membrane Potential, Mitochondrial/drug effects",
+      "Molecular Docking Simulation",
+      "Phosphatidylinositol 3-Kinase/metabolism",
+      "Heme Oxygenase-1/metabolism",
+      "Antioxidants/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wei, Min",
+        "Qi, Weiwei",
+        "Fang, Yu",
+        "Chen, Zhen",
+        "Gao, Ya"
+      ],
+      "short_names": [
+        "Wei M",
+        "Qi W",
+        "Fang Y",
+        "Chen Z",
+        "Gao Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4024-9524",
+        "ORCID: 0000-0002-2672-8898"
+      ],
+      "affiliations": [
+        "Department of Pharmacy, The Third People's Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China.",
+        "Department of Pharmacy, The Third People's Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China.",
+        "Department of Pharmacy, The Third People's Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China.",
+        "Department of Pharmacy, The Third People's Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China.",
+        "Key Laboratory of Pharmacology for Prevention and Treatment of High Incidence Diseases in Guangxi Higher Education Institutions, Guilin Medical University, Guilin 541199, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wei, Min",
+        "short_name": "Wei M",
+        "identifiers": [
+          "0000-0003-4024-9524"
+        ],
+        "affiliations": [
+          "Department of Pharmacy, The Third People's Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China."
+        ]
+      },
+      {
+        "full_name": "Qi, Weiwei",
+        "short_name": "Qi W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, The Third People's Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Yu",
+        "short_name": "Fang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, The Third People's Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhen",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, The Third People's Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Ya",
+        "short_name": "Gao Y",
+        "identifiers": [
+          "0000-0002-2672-8898"
+        ],
+        "affiliations": [
+          "Key Laboratory of Pharmacology for Prevention and Treatment of High Incidence Diseases in Guangxi Higher Education Institutions, Guilin Medical University, Guilin 541199, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of pharmacy and pharmacology"
+    ],
+    "journal_abbrev": [
+      "J Pharm Pharmacol"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43031540"
+    ],
+    "review": [
+      "43031540"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

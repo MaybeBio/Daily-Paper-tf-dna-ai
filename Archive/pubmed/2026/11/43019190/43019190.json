@@ -1,0 +1,199 @@
+{
+  "identity": {
+    "pmid": "43019190",
+    "doi": "10.1038/s41598-026-65881-y",
+    "title": "Integrated in silico assessment of the regulatory and structural consequences of pulmonary tuberculosis-associated SP110 polymorphisms."
+  },
+  "content": {
+    "abstract": "The molecular mechanisms underlying conflicting findings of association of SP110 single nucleotide polymorphisms (SNPs) with susceptibility to pulmonary tuberculosis (PTB) remain unclear. We selected ten SP110 SNPs from publicly available genomic databases, based on prior PTB association and minor allele frequencies exceeding 1% in African populations and identified in a Ugandan cohort with PTB. We then applied in silico multi-tool framework, incorporating deep-learning splice predictors including SpliceAI, Pangolin, and AlphaGenome, to evaluate the regulatory and functional consequences of the SNPs on transcription factor binding, RNA splicing, RNA secondary structure, and protein-level effects. The model captured population-relevant SP110 variations rather than a directly genotyped Ugandan cohort. Our analysis revealed allele-specific gains and losses involving transcription factors TFAP2A, TFAP2C, TP63, Zfx, and IRF1, suggesting modulation of regulatory potential through altered transcription factor binding motifs. However, SpliceAI and Pangolin uniformly predicted low splice-disruptive effects across both exonic and intronic variants, while multiple protein pathogenicity tools consistently classified missense and stop-gained variants as benign or tolerated. RNA secondary structure analysis predicted that most variants preserved global thermodynamic stability. From our findings, SP110 variants are unlikely to exert major effects through splicing disruption or protein destabilization but may contribute to functional diversity through subtle regulatory mechanisms, including transcription factor binding modulation and RNA structural reorganization. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1038/s41598-026-65881-y.",
+    "keywords": [
+      "Immune regulation",
+      "In silico functional analysis",
+      "RNA secondary structure",
+      "SP110",
+      "Single-nucleotide polymorphisms",
+      "Transcription factor binding"
+    ],
+    "mesh_terms": [
+      "*Polymorphism, Single Nucleotide",
+      "Humans",
+      "*Tuberculosis, Pulmonary/genetics",
+      "*Minor Histocompatibility Antigens/genetics/chemistry",
+      "Computer Simulation",
+      "*Genetic Predisposition to Disease",
+      "RNA Splicing",
+      "Transcription Factors/metabolism",
+      "Gene Frequency",
+      "Nuclear Proteins"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kyabaggu, Denis S",
+        "Ssekagiri, Alfred",
+        "Katagirya, Eric",
+        "Bagaya, Bernard S",
+        "Joloba, Moses L",
+        "Andia-Biraro, Irene",
+        "Kateete, David Patrick",
+        "Mayanja-Kizza, Harriet",
+        "Nakiyingi, Lydia"
+      ],
+      "short_names": [
+        "Kyabaggu DS",
+        "Ssekagiri A",
+        "Katagirya E",
+        "Bagaya BS",
+        "Joloba ML",
+        "Andia-Biraro I",
+        "Kateete DP",
+        "Mayanja-Kizza H",
+        "Nakiyingi L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1826-5459"
+      ],
+      "affiliations": [
+        "Department of Immunology and Molecular Biology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda.",
+        "Department of Immunology and Molecular Biology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda.",
+        "Department of Immunology and Molecular Biology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda.",
+        "Ministry of Health, Kampala, Uganda.",
+        "Department of Medical Microbiology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda.",
+        "Department of Medicine, School of Medicine, Makerere University College of Health Sciences, Kampala, Uganda.",
+        "Department of Immunology and Molecular Biology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda.",
+        "Department of Medicine, School of Medicine, Makerere University College of Health Sciences, Kampala, Uganda.",
+        "Department of Medicine, School of Medicine, Makerere University College of Health Sciences, Kampala, Uganda."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kyabaggu, Denis S",
+        "short_name": "Kyabaggu DS",
+        "identifiers": [
+          "0000-0002-1826-5459"
+        ],
+        "affiliations": [
+          "Department of Immunology and Molecular Biology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda."
+        ]
+      },
+      {
+        "full_name": "Ssekagiri, Alfred",
+        "short_name": "Ssekagiri A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology and Molecular Biology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda."
+        ]
+      },
+      {
+        "full_name": "Katagirya, Eric",
+        "short_name": "Katagirya E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology and Molecular Biology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda."
+        ]
+      },
+      {
+        "full_name": "Bagaya, Bernard S",
+        "short_name": "Bagaya BS",
+        "identifiers": [],
+        "affiliations": [
+          "Ministry of Health, Kampala, Uganda."
+        ]
+      },
+      {
+        "full_name": "Joloba, Moses L",
+        "short_name": "Joloba ML",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Microbiology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda."
+        ]
+      },
+      {
+        "full_name": "Andia-Biraro, Irene",
+        "short_name": "Andia-Biraro I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, School of Medicine, Makerere University College of Health Sciences, Kampala, Uganda."
+        ]
+      },
+      {
+        "full_name": "Kateete, David Patrick",
+        "short_name": "Kateete DP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology and Molecular Biology, School of Biomedical Sciences, Makerere University College of Health Sciences, Kampala, Uganda."
+        ]
+      },
+      {
+        "full_name": "Mayanja-Kizza, Harriet",
+        "short_name": "Mayanja-Kizza H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, School of Medicine, Makerere University College of Health Sciences, Kampala, Uganda."
+        ]
+      },
+      {
+        "full_name": "Nakiyingi, Lydia",
+        "short_name": "Nakiyingi L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, School of Medicine, Makerere University College of Health Sciences, Kampala, Uganda."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Scientific reports"
+    ],
+    "journal_abbrev": [
+      "Sci Rep"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 18:48",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43019190"
+    ],
+    "review": [
+      "43019190"
+    ],
+    "pmc": [
+      "13736213"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/tuberculosis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Tuberculosis"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41598-026-65881-y",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "43018093",
+    "doi": "10.1002/iid3.70586",
+    "title": "Jiawei Duhuo Jisheng Mixture Alleviates Knee Osteoarthritis via Inhibition of TLR4/MyD88/NF-kappaB Signaling and Is Associated With Gut Microbiota Alterations."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: To evaluate the chondroprotective effects of Jiawei Duhuo Jisheng Mixture (JDJM) in KOA and to determine whether JDJM modulates the TLR4/MyD88/NF-kappaB axis and is associated with gut microbiota alterations. METHODS: A KOA model was established in New Zealand rabbits using a modified Videman method (n = 36). Animals were assigned to a blank control group (n = 6) or underwent modeling and were then randomized into the model, JDJM low-, medium-, or high-dose, and positive control groups (n = 6/group). Treatments were administered intragastrically for 6 weeks. Cartilage histopathology, evaluated by H&E staining and OARSI scoring, constituted the primary histopathological assessment, with the OARSI score serving as the quantitative primary endpoint. Secondary mechanistic outcomes included serum inflammatory cytokines and TLR4/MyD88/NF-kappaB-related measures in cartilage tissue, including NF-kappaB p65 nuclear translocation. In vitro, primary rabbit chondrocytes were exposed to IL-1beta-induced inflammatory stimulation to provide supportive mechanistic evidence through assessment of cell viability, apoptosis, inflammatory mediators, and pathway-related molecules. Molecular docking was additionally performed to explore potential interactions between identified JDJM constituents and TLR4/MD-2, MyD88, and NF-kappaB p65. Fecal 16S rRNA sequencing and related gut microbiota analyses were considered exploratory. RESULTS: Compared with the model group, JDJM attenuated cartilage histopathological damage and reduced OARSI scores, while decreasing serum levels of pro-inflammatory cytokines (IL-1beta, IL-6, TNF-alpha, and IFN-gamma). In cartilage tissue, JDJM reduced TLR4, MyD88, and NF-kappaB expression and suppressed NF-kappaB p65 nuclear translocation. In vitro, JDJM increased the viability of IL-1beta-stimulated chondrocytes, reduced apoptosis, and decreased the release of inflammatory mediators. Molecular docking revealed distinct docking profiles of JDJM constituents against TLR4/MD-2, MyD88, and NF-kappaB p65. 16S rRNA sequencing indicated a shift in gut microbiota composition in the KOA model. Following JDJM treatment, microbiota composition was modulated, and several bacterial genera showed significant correlations with inflammatory markers and pathway-related molecules. CONCLUSION: JDJM exerted anti-inflammatory and chondroprotective effects in in vivo KOA models and in vitro primary chondrocytes. These effects may be mediated, at least in part, by inhibition of the TLR4/MyD88/NF-kappaB signaling axis. The observed microbiota changes suggest that the gut-joint axis may contribute to the overall effects, although causal relationships require further validation.",
+    "keywords": [
+      "Jiawei Duhuo Jisheng Mixture",
+      "TLR4/MyD88/NF-kappaB",
+      "cartilage degeneration",
+      "gut microbiota",
+      "inflammatory cytokines",
+      "knee osteoarthritis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Toll-Like Receptor 4/metabolism",
+      "Rabbits",
+      "*Myeloid Differentiation Factor 88/metabolism",
+      "Signal Transduction/drug effects",
+      "*Gastrointestinal Microbiome/drug effects",
+      "*NF-kappa B/metabolism",
+      "*Drugs, Chinese Herbal/pharmacology/therapeutic use",
+      "Chondrocytes/drug effects/metabolism",
+      "*Osteoarthritis, Knee/drug therapy/metabolism/pathology/microbiology",
+      "Male",
+      "Disease Models, Animal",
+      "Cytokines/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Jin",
+        "Wen, Zhi",
+        "Ye, Zifeng",
+        "Qiu, Liguo",
+        "Xia, Guang",
+        "Tan, Xuyi",
+        "Guo, Tikang",
+        "Tang, Yong",
+        "Lu, Min",
+        "Xu, Xiaotong",
+        "Kuang, Gaoyan"
+      ],
+      "short_names": [
+        "Wu J",
+        "Wen Z",
+        "Ye Z",
+        "Qiu L",
+        "Xia G",
+        "Tan X",
+        "Guo T",
+        "Tang Y",
+        "Lu M",
+        "Xu X",
+        "Kuang G"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-9396-3477",
+        "ORCID: 0000-0002-1242-7541",
+        "ORCID: 0000-0002-9418-9742",
+        "ORCID: 0009-0000-0673-621X"
+      ],
+      "affiliations": [
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Hunan University of Medicine General Hospital, Huaihua, China.",
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Affliated Hospital of Hunan Academy of Traditional Chinese Medicine, Changsha, China.",
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+        "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Jin",
+        "short_name": "Wu J",
+        "identifiers": [
+          "0009-0008-9396-3477"
+        ],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Zhi",
+        "short_name": "Wen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan University of Medicine General Hospital, Huaihua, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Zifeng",
+        "short_name": "Ye Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Liguo",
+        "short_name": "Qiu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Guang",
+        "short_name": "Xia G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Xuyi",
+        "short_name": "Tan X",
+        "identifiers": [],
+        "affiliations": [
+          "Affliated Hospital of Hunan Academy of Traditional Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Tikang",
+        "short_name": "Guo T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Yong",
+        "short_name": "Tang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Min",
+        "short_name": "Lu M",
+        "identifiers": [
+          "0000-0002-1242-7541"
+        ],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiaotong",
+        "short_name": "Xu X",
+        "identifiers": [
+          "0000-0002-9418-9742"
+        ],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China.",
+          "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Kuang, Gaoyan",
+        "short_name": "Kuang G",
+        "identifiers": [
+          "0009-0000-0673-621X"
+        ],
+        "affiliations": [
+          "Department of Orthopedic Surgery, The First Hospital of Hunan University of Chinese Medicine, Changsha, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Immunity, inflammation and disease"
+    ],
+    "journal_abbrev": [
+      "Immun Inflamm Dis"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 11:32",
+    "fetched_at": "2026-11-15 09:04:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43018093"
+    ],
+    "review": [
+      "43018093"
+    ],
+    "pmc": [
+      "13756838"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/iid3.70586",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
