@@ -1,0 +1,311 @@
+{
+  "identity": {
+    "pmid": "43042552",
+    "doi": "10.1093/nar/gkag1152",
+    "title": "Live-cell imaging reveals two modes of TERRA association with telomeres and the dynamics of TERRA R-loops."
+  },
+  "content": {
+    "abstract": "Telomeres are transcribed into TERRA long non-coding RNAs. When associating with telomeres, TERRA can regulate telomere maintenance by semiconservative DNA replication, telomerase and homology-directed repair (HDR). In addition, TERRA alters telomeric structure and protein composition. Yet, the molecular mechanisms and dynamics by which TERRA associates with telomeres remain elusive. To investigate TERRA-telomere interactions, we combine PP7 stem-loop TERRA tagging, genome editing and live-cell imaging. Using a deep-learning method for spot detection and single-particle tracking analysis, we demonstrate that TERRA associates with telomeres through two distinct modes. On one hand, TERRA interacts frequently and transiently with the telomeric shelterin protein TRF2. On the other hand, TERRA engages in long-lasting interactions which persist from seconds to several minutes forming R-loops with telomeric DNA. TERRA R-loops preferentially occur at short telomeres, and their formation requires factors involved in HDR, but not TRF2. Altogether, we reveal two parallel mechanisms of TERRA recruitment to telomeres, which differ substantially in their dynamics and structure, and we elucidate the dynamics of telomeric R-loops. Our findings provide a framework for understanding TERRA-triggered telomere functions during aging and carcinogenesis.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Telomere/metabolism/genetics/chemistry",
+      "Telomeric Repeat Binding Protein 2/metabolism/genetics",
+      "*R-Loop Structures/genetics",
+      "Humans",
+      "*RNA, Long Noncoding/metabolism/genetics",
+      "*Transcription Factors/metabolism/genetics",
+      "DNA Replication/genetics",
+      "Recombinational DNA Repair",
+      "DNA/genetics/metabolism",
+      "DNA-Binding Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kyriacou, Eftychia",
+        "Voigt, Franka",
+        "Lunardi, Thomas",
+        "Dominguez Mantes, Albert",
+        "Weigert, Martin",
+        "Chao, Jeffrey A",
+        "Lingner, Joachim"
+      ],
+      "short_names": [
+        "Kyriacou E",
+        "Voigt F",
+        "Lunardi T",
+        "Dominguez Mantes A",
+        "Weigert M",
+        "Chao JA",
+        "Lingner J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9515-0367",
+        "ORCID: 0000-0002-5895-9156",
+        "ORCID: 0000-0002-2853-5803"
+      ],
+      "affiliations": [
+        "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne 1015, Switzerland.",
+        "Department of Molecular Life Sciences, University of Zurich, Zurich 8057, Switzerland.",
+        "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne 1015, Switzerland.",
+        "Institute of Bioengineering, School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne 1015, Switzerland.",
+        "Brain Mind Institute, School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne 1015, Switzerland.",
+        "Institute of Bioengineering, School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne 1015, Switzerland.",
+        "Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI), TU Dresden, Dresden 01069, Germany.",
+        "Friedrich Miescher Institute for Biomedical Research, Basel 4056, Switzerland.",
+        "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne 1015, Switzerland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kyriacou, Eftychia",
+        "short_name": "Kyriacou E",
+        "identifiers": [],
+        "affiliations": [
+          "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne 1015, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Voigt, Franka",
+        "short_name": "Voigt F",
+        "identifiers": [
+          "0000-0001-9515-0367"
+        ],
+        "affiliations": [
+          "Department of Molecular Life Sciences, University of Zurich, Zurich 8057, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Lunardi, Thomas",
+        "short_name": "Lunardi T",
+        "identifiers": [],
+        "affiliations": [
+          "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne 1015, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Dominguez Mantes, Albert",
+        "short_name": "Dominguez Mantes A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Bioengineering, School of Life Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne 1015, Switzerland.",
+          "Brain Mind Institute, School of Life Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne 1015, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Weigert, Martin",
+        "short_name": "Weigert M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Bioengineering, School of Life Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne 1015, Switzerland.",
+          "Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI), TU Dresden, Dresden 01069, Germany."
+        ]
+      },
+      {
+        "full_name": "Chao, Jeffrey A",
+        "short_name": "Chao JA",
+        "identifiers": [
+          "0000-0002-5895-9156"
+        ],
+        "affiliations": [
+          "Friedrich Miescher Institute for Biomedical Research, Basel 4056, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Lingner, Joachim",
+        "short_name": "Lingner J",
+        "identifiers": [
+          "0000-0002-2853-5803"
+        ],
+        "affiliations": [
+          "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne 1015, Switzerland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 12:41",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43042552",
+      "41914496",
+      "40624280",
+      "40219969",
+      "33057192",
+      "34432566",
+      "39189448",
+      "37246640",
+      "37930826",
+      "39342869",
+      "35704191",
+      "36265486",
+      "34112789",
+      "25359189",
+      "33082515",
+      "28666126",
+      "24529708",
+      "31405990",
+      "36142374",
+      "32084415",
+      "29658398",
+      "31777915",
+      "36980890",
+      "37191774",
+      "35385755",
+      "39082275",
+      "39313323",
+      "41325773",
+      "31723267",
+      "37991243",
+      "33568696",
+      "38461301",
+      "36399511",
+      "29979997",
+      "37756323",
+      "24084588",
+      "34883513",
+      "36265488",
+      "19716786",
+      "38445359",
+      "40404855",
+      "32026548",
+      "29602239",
+      "24525824",
+      "25012820",
+      "40849907",
+      "25926849",
+      "36184605",
+      "31728577",
+      "29134494",
+      "21399625",
+      "43013124",
+      "34021146",
+      "22780456",
+      "38865460",
+      "24523222",
+      "37046839",
+      "24586793",
+      "37060569",
+      "28666128",
+      "30615937",
+      "30875900",
+      "29235471",
+      "32357278",
+      "28943299",
+      "29637701",
+      "42977825",
+      "41439025",
+      "41026782",
+      "38587189",
+      "24074956",
+      "38088000",
+      "32151584",
+      "25257515",
+      "30735171",
+      "19528237",
+      "27958374",
+      "27604461",
+      "36513120",
+      "29569051",
+      "24120135",
+      "37887339",
+      "41051373",
+      "31756221",
+      "33749516",
+      "25678850",
+      "34205454",
+      "43047940",
+      "25845889",
+      "33176153",
+      "15169917",
+      "31807754",
+      "25675958",
+      "28216226",
+      "38180812",
+      "38976968",
+      "39283143",
+      "23049077",
+      "31836759",
+      "38086788"
+    ],
+    "review": [
+      "43042552",
+      "34432566",
+      "39342869",
+      "32084415",
+      "36980890",
+      "29979997",
+      "38445359",
+      "25926849",
+      "31728577",
+      "43013124",
+      "24523222",
+      "37046839",
+      "30615937",
+      "30875900",
+      "29637701",
+      "42977825",
+      "38088000",
+      "32151584",
+      "25257515",
+      "25678850",
+      "43047940"
+    ],
+    "pmc": [
+      "13774878"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43042552/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TERF2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-956",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag1152",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

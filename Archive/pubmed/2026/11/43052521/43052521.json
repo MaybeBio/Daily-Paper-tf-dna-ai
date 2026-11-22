@@ -1,0 +1,345 @@
+{
+  "identity": {
+    "pmid": "43052521",
+    "doi": "10.1038/s41594-026-01919-z",
+    "title": "PIC-NIC reveals that DNA mechanical strain impacts transcription factor recognition."
+  },
+  "content": {
+    "abstract": "DNA is not merely a linear code of bases, but a mechanically constrained polymer whose backbone continuity restricts the conformations accessible during protein recognition. Yet, although base-sequence preferences have been extensively mapped across human transcription factor (TF) families, we lack comparable maps of how TFs read backbone continuity and DNA mechanics, leaving these layers of recognition poorly understood. Here we introduce PIC-NIC, a high-throughput platform that uses site-specific backbone nicks to perturb DNA mechanics while preserving base identity and minimizing accompanying chemical changes. Across 15 TFs spanning eight structural families, PIC-NIC reveals a highly position-dependent response to backbone disruption: most positions are permissive, whereas nicking at mechanically sensitive sites can substantially reshape binding. Mechanistic analyses integrating PIC-NIC maps with freshly determined TF-DNA structures, structural comparisons, binding kinetics and molecular simulations show that sensitive positions often coincide with strain-adapted DNA geometries, including Hoogsteen conformations, whose relaxation can enhance binding or rewire sequence specificity. Genomic single-strand breaks and repair maps further suggest that TF retention at nicked DNA may influence local repair-factor accessibility. Together, these findings systematically map DNA backbone mechanics as a position-resolved layer of TF recognition across diverse protein families, showing how this layer can reshape binding specificity and may influence repair-factor accessibility.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yao, Yumi Minyi",
+        "O'Hagan, Michael P",
+        "Onoon, Karn",
+        "Givon, Lihee",
+        "Hamer-Rogotner, Shelly",
+        "Salinas, Raul",
+        "Nithun, Raj V",
+        "Kessler, Naama",
+        "Jbara, Muhammad",
+        "Dym, Orly",
+        "Pipatpolkai, Tanadet",
+        "Schumacher, Maria A",
+        "Afek, Ariel"
+      ],
+      "short_names": [
+        "Yao YM",
+        "O'Hagan MP",
+        "Onoon K",
+        "Givon L",
+        "Hamer-Rogotner S",
+        "Salinas R",
+        "Nithun RV",
+        "Kessler N",
+        "Jbara M",
+        "Dym O",
+        "Pipatpolkai T",
+        "Schumacher MA",
+        "Afek A"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-7762-9731",
+        "ORCID: 0009-0006-3101-2858",
+        "ORCID: 0000-0001-9011-683X",
+        "ORCID: 0000-0002-8445-2543",
+        "ORCID: 0000-0002-4206-5908",
+        "ORCID: 0000-0001-5396-4784",
+        "ORCID: 0000-0002-5264-1120",
+        "ORCID: 0000-0001-8584-9879"
+      ],
+      "affiliations": [
+        "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel.",
+        "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel.",
+        "Department of Biology, Faculty of Science, Mahidol University, Bangkok, Thailand.",
+        "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel.",
+        "Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel.",
+        "Department of Biochemistry, Duke University School of Medicine, Durham, NC, USA.",
+        "School of Chemistry, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv, Israel.",
+        "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel.",
+        "School of Chemistry, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv, Israel.",
+        "Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel.",
+        "School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore, Singapore.",
+        "Department of Biochemistry, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel. ariel.afek@weizmann.ac.il."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yao, Yumi Minyi",
+        "short_name": "Yao YM",
+        "identifiers": [
+          "0009-0002-7762-9731"
+        ],
+        "affiliations": [
+          "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel."
+        ]
+      },
+      {
+        "full_name": "O'Hagan, Michael P",
+        "short_name": "O'Hagan MP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel."
+        ]
+      },
+      {
+        "full_name": "Onoon, Karn",
+        "short_name": "Onoon K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Faculty of Science, Mahidol University, Bangkok, Thailand."
+        ]
+      },
+      {
+        "full_name": "Givon, Lihee",
+        "short_name": "Givon L",
+        "identifiers": [
+          "0009-0006-3101-2858"
+        ],
+        "affiliations": [
+          "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel."
+        ]
+      },
+      {
+        "full_name": "Hamer-Rogotner, Shelly",
+        "short_name": "Hamer-Rogotner S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel."
+        ]
+      },
+      {
+        "full_name": "Salinas, Raul",
+        "short_name": "Salinas R",
+        "identifiers": [
+          "0000-0001-9011-683X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Nithun, Raj V",
+        "short_name": "Nithun RV",
+        "identifiers": [
+          "0000-0002-8445-2543"
+        ],
+        "affiliations": [
+          "School of Chemistry, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv, Israel."
+        ]
+      },
+      {
+        "full_name": "Kessler, Naama",
+        "short_name": "Kessler N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel."
+        ]
+      },
+      {
+        "full_name": "Jbara, Muhammad",
+        "short_name": "Jbara M",
+        "identifiers": [
+          "0000-0002-4206-5908"
+        ],
+        "affiliations": [
+          "School of Chemistry, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv, Israel."
+        ]
+      },
+      {
+        "full_name": "Dym, Orly",
+        "short_name": "Dym O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel."
+        ]
+      },
+      {
+        "full_name": "Pipatpolkai, Tanadet",
+        "short_name": "Pipatpolkai T",
+        "identifiers": [
+          "0000-0001-5396-4784"
+        ],
+        "affiliations": [
+          "School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Schumacher, Maria A",
+        "short_name": "Schumacher MA",
+        "identifiers": [
+          "0000-0002-5264-1120"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Afek, Ariel",
+        "short_name": "Afek A",
+        "identifiers": [
+          "0000-0001-8584-9879"
+        ],
+        "affiliations": [
+          "Department of Chemical and Structural Biology, Weizmann Institute of Science, Rehovot, Israel. ariel.afek@weizmann.ac.il."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature structural & molecular biology"
+    ],
+    "journal_abbrev": [
+      "Nat Struct Mol Biol"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052521",
+      "42183351",
+      "40631206",
+      "41405863",
+      "42996014",
+      "42134988",
+      "41510230",
+      "42251035",
+      "25775564",
+      "36888663",
+      "43015487",
+      "26550823",
+      "41371343",
+      "28167566",
+      "21557082",
+      "26285121",
+      "41159612",
+      "36123148",
+      "22189060",
+      "11048951",
+      "42099803",
+      "37990674",
+      "42431955",
+      "40287827",
+      "23812975",
+      "36043696",
+      "29326300",
+      "33340452",
+      "35978548",
+      "28479135",
+      "38966997",
+      "31689433",
+      "25129887",
+      "26291518",
+      "40777328",
+      "30395339",
+      "41308636",
+      "42932644",
+      "42475469",
+      "7602584",
+      "36943132",
+      "22863142",
+      "35261972",
+      "25313048",
+      "39605368",
+      "40598892",
+      "39463949",
+      "38352411",
+      "32101712",
+      "36322688",
+      "27567672",
+      "26490019",
+      "26413153",
+      "24078250",
+      "40205063",
+      "20061574",
+      "37805453",
+      "25720775",
+      "28726847",
+      "18411210",
+      "33087930",
+      "10373369",
+      "22955984",
+      "24353316",
+      "15165850",
+      "41993504",
+      "11371159",
+      "35799193",
+      "24214955",
+      "40874594",
+      "16267080",
+      "20074831",
+      "41518500",
+      "37529293",
+      "28750606",
+      "8385350",
+      "20158869",
+      "39033307",
+      "31486892",
+      "18725950",
+      "11800559",
+      "37090616",
+      "39605530",
+      "31518879",
+      "12126620",
+      "41512979",
+      "39975040",
+      "42597241",
+      "25957350",
+      "9819202",
+      "40903577",
+      "41247408",
+      "32778600",
+      "23320072",
+      "19088121",
+      "11170417",
+      "26195629",
+      "28849563",
+      "41863075",
+      "42990448"
+    ],
+    "review": [
+      "43052521",
+      "21557082",
+      "31689433",
+      "25129887",
+      "20074831"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41594-026-01919-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

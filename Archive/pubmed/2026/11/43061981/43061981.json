@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "43061981",
+    "doi": "10.1021/acssynbio.6c00837",
+    "title": "CKAN-SDBPI: Single-Stranded and Double-Stranded DNA-Binding Protein Identifier Using Convolutional Kolmogorov-Arnold Network with Local and Global-Features Fusion."
+  },
+  "content": {
+    "abstract": "Single-stranded and double-stranded DNA-binding proteins play essential roles in DNA metabolism, regulation, and genome maintenance; however, accurate computational identification of these proteins remains challenging due to limited feature representation, complex sequence function relationships, and imbalanced classification distributions. Here, we propose CKAN-SDBPI, a multimodal deep learning framework that integrates global contextual protein representations with local structural-frequency descriptors for SSB/DSB protein identification. The proposed CKAN-SDBPI employs Ankh protein language model embeddings to capture global sequence information and RECM-DWT descriptors to characterize local structural-frequency patterns. These complementary representations are fused through a Convolutional Kolmogorov-Arnold Network (CKAN) to learn nonlinear interactions between heterogeneous feature spaces, while the SMOTETomek strategy is incorporated to improve balanced learning under class imbalance. CKAN-SDBPI was comprehensively evaluated using 5-fold cross-validation, an independent PDB401 test dataset, comparison with existing state-of-the-art predictors, and extensive ablation analyses. CKAN-SDBPI achieved robust predictive performance across validation experiments and demonstrated improved generalization capability on the independent test dataset. The independent evaluation showed that the proposed framework achieved an accuracy of 86.06%, MCC of 0.6238, AUC of 0.8911, and AUPRC of 0.9623. Moreover, ablation studies confirmed the contributions of SMOTETomek-based imbalance handling and CKAN-driven nonlinear feature fusion to the overall performance. Overall, these findings support CKAN-SDBPI as a promising computational method for sequence-based discrimination between SSBs and DSBs.",
+    "keywords": [
+      "CKAN",
+      "RECM-DWT",
+      "ankh",
+      "drug discovery",
+      "single-stranded and double-stranded DNA-binding protein"
+    ],
+    "mesh_terms": [
+      "*DNA-Binding Proteins/chemistry/metabolism/genetics",
+      "Deep Learning",
+      "*DNA, Single-Stranded/metabolism",
+      "DNA/metabolism",
+      "*Computational Biology/methods",
+      "Convolutional Neural Networks"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Arshad, Kamran",
+        "Arif, Muhammad",
+        "Yu, Dong-Jun"
+      ],
+      "short_names": [
+        "Arshad K",
+        "Arif M",
+        "Yu DJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-0941-0999",
+        "ORCID: 0000-0002-6786-8053"
+      ],
+      "affiliations": [
+        "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing210094, China.",
+        "College of Science and Engineering, Hammad Bin Khalefa University, Doha34110, Qatar.",
+        "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing210094, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Arshad, Kamran",
+        "short_name": "Arshad K",
+        "identifiers": [
+          "0009-0006-0941-0999"
+        ],
+        "affiliations": [
+          "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing210094, China."
+        ]
+      },
+      {
+        "full_name": "Arif, Muhammad",
+        "short_name": "Arif M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Science and Engineering, Hammad Bin Khalefa University, Doha34110, Qatar."
+        ]
+      },
+      {
+        "full_name": "Yu, Dong-Jun",
+        "short_name": "Yu DJ",
+        "identifiers": [
+          "0000-0002-6786-8053"
+        ],
+        "affiliations": [
+          "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing210094, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43061981",
+      "41796374",
+      "31888057",
+      "28606086",
+      "32946833",
+      "42941859",
+      "41739380",
+      "42757144",
+      "41686649",
+      "39214282",
+      "25474071",
+      "41532285",
+      "36503892",
+      "31693872",
+      "41232885",
+      "40302345",
+      "41762162",
+      "41206398",
+      "41749211",
+      "41791267",
+      "42281397",
+      "38856168",
+      "41399733",
+      "42151225",
+      "42916609",
+      "41257586",
+      "41564724",
+      "38975896",
+      "41844874",
+      "39270885",
+      "41172803",
+      "42721445",
+      "42862867",
+      "40754881",
+      "41168713",
+      "40439671",
+      "22976174",
+      "42347131",
+      "41977286",
+      "41557578",
+      "36139026",
+      "42709528",
+      "41566703",
+      "39900285",
+      "42634172",
+      "38316843",
+      "41748602",
+      "42173967",
+      "31513916",
+      "42334640",
+      "42475469",
+      "42826573",
+      "40646507",
+      "41905267",
+      "42222381",
+      "41921797",
+      "41023673",
+      "42862533",
+      "42464502",
+      "42625104",
+      "41731742",
+      "42074175",
+      "43004209",
+      "39576667",
+      "33267753",
+      "41299450",
+      "40613943",
+      "32920048",
+      "42896101",
+      "39714563",
+      "41803281",
+      "42050415",
+      "42157243",
+      "42242678",
+      "41285097",
+      "40119803",
+      "40258183",
+      "41677811",
+      "42526193",
+      "42898259",
+      "38844961",
+      "42420330",
+      "40811188",
+      "42229773",
+      "33837387",
+      "40934273",
+      "41283958",
+      "41886347",
+      "42814775",
+      "11000276",
+      "42321270",
+      "35378437",
+      "42716164",
+      "40889326",
+      "41495146",
+      "41634737",
+      "41318360",
+      "43052718",
+      "42947994",
+      "42842783"
+    ],
+    "review": [
+      "43061981",
+      "36139026"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

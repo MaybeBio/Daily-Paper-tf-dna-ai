@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "43055446",
+    "doi": "10.1021/acs.jpcb.6c06537",
+    "title": "Solvation-Mediated Effects of Contact Mutations on p53-DNA Binding Dynamics and Energetics."
+  },
+  "content": {
+    "abstract": "The tumor suppressor protein p53 is a sequence-specific transcription factor whose DNA-binding domain (DBD) is essential for maintaining genomic stability. Mutations at residues that directly contact DNA frequently impair DNA recognition and are strongly associated with tumorigenesis. In this study, we performed atomistic molecular dynamics (MD) simulations to investigate the impact of frequent contact mutations (R248Q, R248W, R273C, and R273H) on the dynamics, energetics, and hydration properties of the p53-DNA complex. Comparative analysis of wild-type (WT) and mutant complexes reveals that these mutations perturb hydrogen-bonding and electrostatic interaction networks and alter the solvation environment at the DNA-binding interface, leading to less favorable binding free energies, as quantified by alchemical free energy calculations. Analysis of interfacial water dynamics shows that water molecules in the WT complex are more ordered and long-lived, forming stable water bridges that reinforce protein-DNA contacts. The mutations are accompanied by changes in the interfacial hydration network, including mutation-dependent variations in water-bridge occupancy, water mobility, rotational dynamics, and H-bond relaxation lifetimes. These molecular changes are associated with altered solvation contributions and reduced binding affinity in the mutant systems.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*DNA/chemistry/metabolism",
+      "*Tumor Suppressor Protein p53/genetics/chemistry/metabolism",
+      "Mutation",
+      "Hydrogen Bonding",
+      "Thermodynamics",
+      "Protein Binding",
+      "Water/chemistry",
+      "Solvents/chemistry",
+      "Static Electricity",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gaikwad, Vikram",
+        "Venugopal, Pushyaraga P",
+        "Chakrabarti, Rajarshi"
+      ],
+      "short_names": [
+        "Gaikwad V",
+        "Venugopal PP",
+        "Chakrabarti R"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-9451-2786",
+        "ORCID: 0000-0002-8843-8423",
+        "ORCID: 0000-0002-0785-1508"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Indian Institute of Technology Bombay, Mumbai400076, India.",
+        "Department of Chemistry, Indian Institute of Technology Bombay, Mumbai400076, India.",
+        "Department of Chemistry, Indian Institute of Technology Bombay, Mumbai400076, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gaikwad, Vikram",
+        "short_name": "Gaikwad V",
+        "identifiers": [
+          "0009-0003-9451-2786"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology Bombay, Mumbai400076, India."
+        ]
+      },
+      {
+        "full_name": "Venugopal, Pushyaraga P",
+        "short_name": "Venugopal PP",
+        "identifiers": [
+          "0000-0002-8843-8423"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology Bombay, Mumbai400076, India."
+        ]
+      },
+      {
+        "full_name": "Chakrabarti, Rajarshi",
+        "short_name": "Chakrabarti R",
+        "identifiers": [
+          "0000-0002-0785-1508"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology Bombay, Mumbai400076, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Nov 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 11:31",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43055446",
+      "39737749",
+      "26442703",
+      "22110706",
+      "41947758",
+      "11917017",
+      "26244575",
+      "40504558",
+      "40464633",
+      "42460888",
+      "39264222",
+      "18996393",
+      "36555140",
+      "30388364",
+      "31881526",
+      "30160791",
+      "21561095",
+      "42089576",
+      "28836764",
+      "39378441",
+      "11846571",
+      "21976981",
+      "22197648",
+      "20113312",
+      "34478701",
+      "21076775",
+      "26579714",
+      "16768444",
+      "39603375",
+      "22311606",
+      "24253321",
+      "28410371",
+      "11463612",
+      "22803791",
+      "39635719",
+      "26477317",
+      "30339916",
+      "41606807",
+      "40446511",
+      "41904276",
+      "28871352",
+      "10512804",
+      "27082784",
+      "23385423",
+      "31952808",
+      "28813011",
+      "35234033",
+      "39276108",
+      "27592836",
+      "28126403",
+      "11183777",
+      "34612239",
+      "10071187",
+      "35659507",
+      "20658568",
+      "11237602",
+      "40905359",
+      "20847049",
+      "7696496",
+      "22872098",
+      "25484111",
+      "30047829",
+      "30420502",
+      "20124408",
+      "10411893",
+      "41733211",
+      "25495540",
+      "31216622",
+      "8023157",
+      "15095863",
+      "41610648",
+      "40816097",
+      "28821854",
+      "42289042",
+      "23974096",
+      "41131660",
+      "24249099",
+      "20411978",
+      "21339981",
+      "42777742",
+      "11162114",
+      "20690690",
+      "27604871",
+      "34403252",
+      "24797088",
+      "37072394",
+      "19731376",
+      "23863845",
+      "19485380",
+      "26995783",
+      "11913374",
+      "42555301",
+      "40725138",
+      "9439992",
+      "33315226",
+      "39589174",
+      "11152481",
+      "18260640",
+      "17824689",
+      "29652801"
+    ],
+    "review": [
+      "43055446"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jpcbfk/article-lookup/doi/10.1021/acs.jpcb.6c06537",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

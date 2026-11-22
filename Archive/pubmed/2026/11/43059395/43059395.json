@@ -1,0 +1,290 @@
+{
+  "identity": {
+    "pmid": "43059395",
+    "doi": "10.3892/mmr.2026.14079",
+    "title": "From network pharmacology to experimental verification: Angelica sinensis and its key constituent beta‑sitosterol exert anti‑liver cancer effects through the p53 signaling pathway."
+  },
+  "content": {
+    "abstract": "Liver cancer remains a major cause of cancer mortality and the limited benefit of existing therapies leaves a clear need for new therapeutic agents. Although Angelica sinensis (AS) shows broad antitumor potential, its mechanistic basis against liver cancer remains unclear. The present study revealed that AS reduced the viability, proliferation and migration of the HepG2 human liver cancer cell line. Network pharmacology pointed to several putative targets including insulin, peroxisome proliferator‑activated receptor gamma, nuclear factor kappaB subunit 1, estrogen receptor 1 and albumin. By combining molecular docking, molecular dynamics simulation and Cell Counting Kit‑8 cell viability screening, beta‑sitosterol (BS) was identified from the candidate compounds of AS for further study, based on its stable interactions with central targets and its strong antiproliferative activity against HepG2 cells in vitro. Mechanistic assays of BS revealed that its anti‑liver cancer effect was mediated through the p53 pathway. BS treatment increased the proportion of apoptotic cells, together with increased expression of the tumor suppressor protein p53 and the pro‑apoptotic proteins Bax and Caspase‑3, and reduced expression of the anti‑apoptotic protein Bcl‑2. Co‑treatment with pifithrin‑alpha hydrobromide, a p53 inhibitor, partly reduced the proportion of apoptotic cells and partly reversed these changes in protein expression, confirming a p53‑dependent mechanism. The present study clarified the mechanisms by which AS, and its active component BS, suppress the proliferation and migration of liver cancer cells and trigger apoptosis through the modulation of the p53 pathway. These results support AS and BS as promising leads for development of plant‑derived therapies against liver cancer.",
+    "keywords": [
+      "Angelica sinensis",
+      "apoptosis",
+      "liver cancer",
+      "p53 signaling pathway",
+      "beta‑sitosterol"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Sitosterols/pharmacology/chemistry",
+      "*Tumor Suppressor Protein p53/metabolism",
+      "*Signal Transduction/drug effects",
+      "*Liver Neoplasms/metabolism/drug therapy/pathology",
+      "*Angelica sinensis/chemistry",
+      "Hep G2 Cells",
+      "Apoptosis/drug effects",
+      "Cell Proliferation/drug effects",
+      "Cell Movement/drug effects",
+      "Network Pharmacology",
+      "Molecular Docking Simulation",
+      "Cell Survival/drug effects",
+      "*Antineoplastic Agents, Phytogenic/pharmacology/chemistry",
+      "Molecular Dynamics Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Du, Ying",
+        "Song, Yang",
+        "Fan, Yuting",
+        "Li, Weitong",
+        "Zhang, Yuxin",
+        "Shen, Haotian",
+        "Tang, Bin",
+        "Wang, Jinhui",
+        "Deng, Fengmei",
+        "Cheng, Li"
+      ],
+      "short_names": [
+        "Du Y",
+        "Song Y",
+        "Fan Y",
+        "Li W",
+        "Zhang Y",
+        "Shen H",
+        "Tang B",
+        "Wang J",
+        "Deng F",
+        "Cheng L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China.",
+        "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China.",
+        "College of Laboratory Medicine, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China.",
+        "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China.",
+        "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China.",
+        "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China.",
+        "Department of Ultrasound Medicine, The First Affiliated Hospital of Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China.",
+        "School of Pharmacy, Harbin Medical University, Harbin, Heilongjiang 150081, P.R. China.",
+        "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China.",
+        "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Du, Ying",
+        "short_name": "Du Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Song, Yang",
+        "short_name": "Song Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Fan, Yuting",
+        "short_name": "Fan Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Laboratory Medicine, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Weitong",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuxin",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Shen, Haotian",
+        "short_name": "Shen H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Tang, Bin",
+        "short_name": "Tang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound Medicine, The First Affiliated Hospital of Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jinhui",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Harbin Medical University, Harbin, Heilongjiang 150081, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Deng, Fengmei",
+        "short_name": "Deng F",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Li",
+        "short_name": "Cheng L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medical Sciences, Chengdu Medical College, Chengdu, Sichuan 610500, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular medicine reports"
+    ],
+    "journal_abbrev": [
+      "Mol Med Rep"
+    ],
+    "pub_date": "2027 Jan",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 05:31",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43059395",
+      "41219344",
+      "42129454",
+      "40615101",
+      "39256453",
+      "30272369",
+      "41568474",
+      "39093467",
+      "30119188",
+      "43017541",
+      "41483318",
+      "39981895",
+      "38032489",
+      "40902811",
+      "42214227",
+      "28673807",
+      "40603406",
+      "40543694",
+      "28035355",
+      "41650503",
+      "30896802",
+      "42958669",
+      "42689980",
+      "41546862",
+      "38446216",
+      "40886867",
+      "38467318",
+      "39427522",
+      "40322038",
+      "29363722",
+      "40266298",
+      "41490553",
+      "41542898",
+      "41293954",
+      "30942462",
+      "37054823",
+      "41160117",
+      "41328606",
+      "40098908",
+      "39917915",
+      "42794757",
+      "42595923",
+      "40992267",
+      "40425675",
+      "27177208",
+      "34614446",
+      "30569137",
+      "42653330",
+      "34655668",
+      "40206492",
+      "42201344",
+      "42607380",
+      "31979361",
+      "40255473",
+      "40233887",
+      "42808385",
+      "40310511",
+      "42488189",
+      "40086489",
+      "38850960",
+      "41558058",
+      "42336026",
+      "40259252",
+      "40461235",
+      "38901205",
+      "32749126",
+      "38675723",
+      "41866007",
+      "31786862",
+      "40398092",
+      "40413339",
+      "38885333",
+      "38243957",
+      "42087421",
+      "41840525",
+      "42341860",
+      "39342122",
+      "41603923",
+      "38830298",
+      "28098861",
+      "24386256",
+      "38504574",
+      "29067453",
+      "35850814",
+      "32901874",
+      "40383338",
+      "38204258",
+      "39307810",
+      "38941043",
+      "38638040",
+      "26585176",
+      "27179035",
+      "32824273",
+      "30132535",
+      "31128995",
+      "40634475",
+      "40849803",
+      "38909826",
+      "40913985",
+      "40331978"
+    ],
+    "review": [
+      "43059395"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

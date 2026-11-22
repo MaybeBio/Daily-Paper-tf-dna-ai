@@ -1,0 +1,302 @@
+{
+  "identity": {
+    "pmid": "43052851",
+    "doi": "10.1186/s12884-026-09863-y",
+    "title": "Potential of FGF2 and GIPR as immunological biomarkers and therapeutic targets in recurrent pregnancy loss."
+  },
+  "content": {
+    "abstract": "Recurrent pregnancy loss (RPL) is a complex obstetric complication whose immunological mechanisms remain incompletely understood. This study aimed to identify immune-related biomarkers for RPL by integrating the GSE165004 dataset with immune-related genes from the MSigDB database. A total of 234 immune-related differentially expressed genes (IDEGs) were identified, which were enriched in pathways such as natural killer cell-mediated cytotoxicity, JAK-STAT signaling, and chemokine signaling. Using machine learning algorithms (LASSO, SVM-RFE, RF), four hub genes-FGF2, TINAGL1, CKLF, and GIPR-were screened. Among them, FGF2 and GIPR were significantly downregulated in the RPL group (P < 0.05). Diagnostic efficacy was evaluated using ROC curves, and a nomogram was constructed. Immune cell infiltration analysis via CIBERSORT revealed that FGF2 showed a negative correlation with monocyte infiltration, whereas GIPR was positively correlated with resting dendritic cells (P < 0.05), suggesting their involvement in modulating the immune microenvironment. Upstream regulator analysis using NetworkAnalyst predicted that FGF2 may be regulated by miRNAs such as miR-15a-5p, while GIPR was associated with transcription factors SP1/SP3. Validation using single-cell transcriptomics and preliminary clinical samples (RT-qPCR/WB) confirmed the downregulation of FGF2 and GIPR in RPL (P < 0.05). In conclusion, our findings suggest that altered FGF2 and GIPR expression may be associated with immune dysregulation in RPL and warrant further functional investigation. These findings provide preliminary insights for potential immunotherapeutic strategies in RPL, although larger-scale validation and functional studies are needed.",
+    "keywords": [
+      "FGF2",
+      "GIPR",
+      "Immunological biomarkers",
+      "Machine learning",
+      "Recurrent pregnancy loss"
+    ],
+    "mesh_terms": [
+      "Female",
+      "Humans",
+      "*Abortion, Habitual/immunology/genetics",
+      "Pregnancy",
+      "Biomarkers/metabolism",
+      "*Fibroblast Growth Factor 2/genetics/metabolism",
+      "Down-Regulation",
+      "Gene Expression Profiling",
+      "Dendritic Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Liuyi",
+        "Wang, Jian",
+        "Huang, Hongmei",
+        "Huang, Xiaoqin",
+        "Huang, Limin",
+        "Huang, Huitian",
+        "Huang, Fengdie",
+        "Wei, Yulan",
+        "Dong, Mingyou",
+        "Wei, Bixiao"
+      ],
+      "short_names": [
+        "Huang L",
+        "Wang J",
+        "Huang H",
+        "Huang X",
+        "Huang L",
+        "Huang H",
+        "Huang F",
+        "Wei Y",
+        "Dong M",
+        "Wei B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Baise Key Laboratory of Precision Molecular Diogrostic Medicine, Affiliated Souhwest Hospital of Youjiang Medical University for Nationalies, Guangxi, 533000, Baise, China.",
+        "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+        "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+        "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Youjiang Medical University for Nationalities, 533000, Baise, China.",
+        "Department of Anesthesiology, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+        "Department of Gynecology, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+        "Department of Anesthesiology, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+        "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+        "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+        "Department of Obstetrics, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+        "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Youjiang Medical University for Nationalities, 533000, Baise, China. mydong@ymun.edu.cn.",
+        "Baise Key Laboratory of Precision Molecular Diogrostic Medicine, Affiliated Souhwest Hospital of Youjiang Medical University for Nationalies, Guangxi, 533000, Baise, China. 15077688508@ymun.edu.cn.",
+        "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China. 15077688508@ymun.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Liuyi",
+        "short_name": "Huang L",
+        "identifiers": [],
+        "affiliations": [
+          "Baise Key Laboratory of Precision Molecular Diogrostic Medicine, Affiliated Souhwest Hospital of Youjiang Medical University for Nationalies, Guangxi, 533000, Baise, China.",
+          "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jian",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China.",
+          "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Youjiang Medical University for Nationalities, 533000, Baise, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Hongmei",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Baise People's Hospital, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xiaoqin",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology, Baise People's Hospital, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Limin",
+        "short_name": "Huang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Baise People's Hospital, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Huitian",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Fengdie",
+        "short_name": "Huang F",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Yulan",
+        "short_name": "Wei Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Baise People's Hospital, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Mingyou",
+        "short_name": "Dong M",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Youjiang Medical University for Nationalities, 533000, Baise, China. mydong@ymun.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wei, Bixiao",
+        "short_name": "Wei B",
+        "identifiers": [],
+        "affiliations": [
+          "Baise Key Laboratory of Precision Molecular Diogrostic Medicine, Affiliated Souhwest Hospital of Youjiang Medical University for Nationalies, Guangxi, 533000, Baise, China. 15077688508@ymun.edu.cn.",
+          "Clinical Laboratory, Baise People's Hospital, Baise, Guangxi, 533000, China. 15077688508@ymun.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC pregnancy and childbirth"
+    ],
+    "journal_abbrev": [
+      "BMC Pregnancy Childbirth"
+    ],
+    "pub_date": "2026 Aug 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052851",
+      "37691920",
+      "42327749",
+      "42013197",
+      "37400532",
+      "39225907",
+      "42998257",
+      "40275506",
+      "41120378",
+      "41146237",
+      "41044520",
+      "40450232",
+      "39923360",
+      "42642681",
+      "40692778",
+      "42123445",
+      "40659771",
+      "39754246",
+      "42243611",
+      "40948775",
+      "41948339",
+      "40421018",
+      "39400681",
+      "39697326",
+      "42750328",
+      "42446964",
+      "32487076",
+      "37007565",
+      "41942343",
+      "42183235",
+      "41826854",
+      "40494171",
+      "42083957",
+      "42708302",
+      "41388523",
+      "43012827",
+      "42976568",
+      "39507054",
+      "41132349",
+      "40368512",
+      "42128965",
+      "39375405",
+      "42981373",
+      "38802191",
+      "38839020",
+      "38253297",
+      "41080564",
+      "41000384",
+      "41591671",
+      "42302029",
+      "40151199",
+      "41291841",
+      "38951833",
+      "39586719",
+      "42309513",
+      "41479901",
+      "42565562",
+      "33719810",
+      "37622114",
+      "42553137",
+      "42306043",
+      "42656300",
+      "41307047",
+      "41331828",
+      "42154423",
+      "42320531",
+      "40826718",
+      "40374866",
+      "40619516",
+      "40406620",
+      "39142001",
+      "22505054",
+      "36118846",
+      "42913103",
+      "38305600",
+      "40751792",
+      "41665627",
+      "43017065",
+      "41436831",
+      "42233387",
+      "41432483",
+      "42292668",
+      "41703488",
+      "41268559",
+      "36745296",
+      "37732314",
+      "39444455",
+      "41200172",
+      "41345488",
+      "42136650",
+      "41438105",
+      "42247642",
+      "40559927",
+      "40746552",
+      "42515815",
+      "41858783",
+      "40453984",
+      "39263286",
+      "42317364",
+      "41425547"
+    ],
+    "review": [
+      "43052851",
+      "38802191",
+      "41665627"
+    ],
+    "pmc": [
+      "13779940"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-026-09863-y",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

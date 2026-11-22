@@ -1,0 +1,248 @@
+{
+  "identity": {
+    "pmid": "43046632",
+    "doi": "10.1080/0886022X.2026.2760009",
+    "title": "Exploring the role of HNF1B in the pathogenesis of autosomal dominant polycystic kidney disease (ADPKD): an integrative bioinformatics study."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: Hepatocyte nuclear factor 1 beta (HNF1beta) is crucial for renal tubule development, and its mutation causes renal cysts. However, its role in autosomal dominant polycystic kidney disease (ADPKD) remains unclear. This study explored the mechanism of hepatocyte nuclear factor 1-beta gene (HNF1B) in ADPKD using integrative bioinformatics analysis. METHODS: HNF1B expression was evaluated in ADPKD transcriptome datasets and validated via immunofluorescence in a 3D Madin-Darby canine kidney cell cyst model cultured over a 12-day timeframe (analyzed on days 4, 6, 8, 10, and 12). Based on HNF1B median expression, ADPKD tissues were divided into high- and low-expression groups for differential and enrichment analyses. Upstream transcription factors and binding sites were predicted using UCSC and JASPAR databases. Finally, cMAP and L1000FWD were used to screen therapeutic small molecules targeting HNF1beta, followed by molecular docking. RESULTS: HNF1B was significantly downregulated in ADPKD tissues (p = 0.017) and correlated with cyst progression (p < 0.001), which was consistent with the 3D model findings (p < 0.001). Low HNF1B expression was associated with transcriptomic signatures reflecting activation of the wingless-related integration site (Wnt) and transforming growth factor-beta (TGF-beta) pathways and inhibition of the peroxisome proliferator-activated receptor (PPAR) pathway. POU3F3, HNF4A, and TFAP2B were identified as potential upstream transcription factors. Mocetinostat (binding energy = -8.2 kcal/mol) and wortmannin (binding energy = -7.7 kcal/mol) showed stable binding to HNF1beta. CONCLUSION: HNF1B expression is significantly negatively correlated with cyst progression, suggesting a potential protective role in ADPKD, and its downregulation associates with pathways driving cyst progression.",
+    "keywords": [
+      "Bioinformatics",
+      "autosomal dominant polycystic kidney disease",
+      "hepatocyte nuclear factor 1 beta",
+      "pathogenesis",
+      "therapy"
+    ],
+    "mesh_terms": [
+      "*Hepatocyte Nuclear Factor 1-beta/genetics/metabolism",
+      "Animals",
+      "Dogs",
+      "*Polycystic Kidney, Autosomal Dominant/genetics/pathology/metabolism",
+      "Computational Biology",
+      "Humans",
+      "Madin Darby Canine Kidney Cells",
+      "Molecular Docking Simulation",
+      "Down-Regulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cao, Wenlong",
+        "Yao, Ye",
+        "Chen, Yiwen",
+        "Wang, Yuqin",
+        "Xiong, Jing"
+      ],
+      "short_names": [
+        "Cao W",
+        "Yao Y",
+        "Chen Y",
+        "Wang Y",
+        "Xiong J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0476-3198"
+      ],
+      "affiliations": [
+        "Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Gynecologic Oncology, Women's Hospital, School of Medicine, Zhejiang University, Hangzhou, China.",
+        "Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cao, Wenlong",
+        "short_name": "Cao W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Ye",
+        "short_name": "Yao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yiwen",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuqin",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecologic Oncology, Women's Hospital, School of Medicine, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Jing",
+        "short_name": "Xiong J",
+        "identifiers": [
+          "0000-0003-0476-3198"
+        ],
+        "affiliations": [
+          "Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Renal failure"
+    ],
+    "journal_abbrev": [
+      "Ren Fail"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 05:33",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43046632",
+      "41501598",
+      "24129831",
+      "32151678",
+      "35759739",
+      "39472935",
+      "22504005",
+      "31330507",
+      "19346236",
+      "32799196",
+      "40013955",
+      "38370308",
+      "28676447",
+      "30242840",
+      "34638853",
+      "32238474",
+      "39432926",
+      "22174924",
+      "32068086",
+      "36546837",
+      "16141466",
+      "27190325",
+      "41840489",
+      "33549515",
+      "36794754",
+      "37340642",
+      "34155062",
+      "34551202",
+      "41632353",
+      "40300563",
+      "26139440",
+      "28993480",
+      "31395386",
+      "40474483",
+      "27871310",
+      "42426887",
+      "29687770",
+      "33886581",
+      "32724471",
+      "35918147",
+      "28104302",
+      "39172111",
+      "40101851",
+      "32427692",
+      "34806449",
+      "41563804",
+      "37823195",
+      "1333294",
+      "42640700",
+      "42296046",
+      "25961459",
+      "30097458",
+      "34465607",
+      "34315885",
+      "25934702",
+      "30768374",
+      "37720991",
+      "36804411",
+      "24040285",
+      "31141402",
+      "38621633",
+      "39062520",
+      "27165822",
+      "31773180",
+      "41564666",
+      "41643210",
+      "33166182",
+      "35979967",
+      "23864113",
+      "29561186",
+      "18753297",
+      "21804086",
+      "40578685",
+      "28077374",
+      "31186083",
+      "41474392",
+      "28577853",
+      "39753194",
+      "24489795",
+      "34162733",
+      "19259356",
+      "24116661",
+      "38534333",
+      "31879244",
+      "36273656",
+      "33046531",
+      "25573755",
+      "35906293",
+      "40200735",
+      "40789372",
+      "41481368",
+      "34815804",
+      "34886911",
+      "30463078",
+      "8223698",
+      "26946416",
+      "30249452",
+      "34716241",
+      "12631108",
+      "40768842"
+    ],
+    "review": [
+      "43046632",
+      "28676447",
+      "32068086",
+      "34155062",
+      "32427692",
+      "39753194"
+    ],
+    "pmc": [
+      "13784230"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/0886022X.2026.2760009?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "identity": {
+    "pmid": "43062791",
+    "doi": "10.1007/s12539-026-00890-z",
+    "title": "A Hierarchical KAN-Augmented Graph Convolutional Model for Inferring Cell-Type-Specific Gene Regulations in Single-Cell Omics."
+  },
+  "content": {
+    "abstract": "Accurate inference of gene regulatory networks (GRNs) from single-cell RNA-seq data remains challenging due to the complexity of transcription factor (TF)-target interactions and the difficulty in capturing both local and global regulatory dependencies. Here, we present GeneKAN, a novel deep learning framework that integrates multiscale graph convolution with Kolmogorov-Arnold Networks (KANs) for robust GRN inference. GeneKAN employs a kernel-based graph convolution module to hierarchically encode gene representations, while KANs model high-order, interpretable TF-target relationships through learnable spline activations. Benchmarking against eleven existing models, and seven scRNA-seq datasets from BEELINE, including diverse cell types, species, and ground-truth networks (ChIP-seq, STRING, LOF/GOF), demonstrates that our proposed GeneKAN achieves state-of-the-art performance in both AUROC and AUPRC. Ablation studies of the proposed model confirm the necessity of each component. Biological validation on human hepatocyte and lung cancer datasets reveals that GeneKAN not only recovers known regulatory interactions with high precision but also identifies functionally relevant hub genes and oncogenic pathways. GeneKAN thus offers a powerful, interpretable, and scalable solution for GRN reconstruction under real-world conditions of data sparsity and noise, with significant potential for advancing systems biology and precision medicine.",
+    "keywords": [
+      "Gene regulatory network inference",
+      "Graph convolutional network",
+      "Kolmogorov-Arnold networks",
+      "Multiscale learning",
+      "scRNA-seq"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Binhua",
+        "Mao, Mengyao",
+        "Wang, Jingyu",
+        "Zhou, Fengfeng"
+      ],
+      "short_names": [
+        "Tang B",
+        "Mao M",
+        "Wang J",
+        "Zhou F"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4744-5835"
+      ],
+      "affiliations": [
+        "College of Information Science and Engineering & Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing, 213200, Jiangsu, China. bh.tang@hhu.edu.cn.",
+        "Shanghai Key Laboratory of Data Science, Fudan University, Shanghai, 200438, China. bh.tang@hhu.edu.cn.",
+        "College of Information Science and Engineering & Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing, 213200, Jiangsu, China.",
+        "College of Information Science and Engineering & Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing, 213200, Jiangsu, China.",
+        "College of Computer Science and Technology & Key Laboratory of Symbolic Computation and Knowledge Engineering (Ministry of Education of China), Jilin University, Changchun, 130012, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Binhua",
+        "short_name": "Tang B",
+        "identifiers": [
+          "0000-0003-4744-5835"
+        ],
+        "affiliations": [
+          "College of Information Science and Engineering & Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing, 213200, Jiangsu, China. bh.tang@hhu.edu.cn.",
+          "Shanghai Key Laboratory of Data Science, Fudan University, Shanghai, 200438, China. bh.tang@hhu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Mao, Mengyao",
+        "short_name": "Mao M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Science and Engineering & Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing, 213200, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jingyu",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Science and Engineering & Key Laboratory of Maritime Intelligent Cyberspace Technology (Ministry of Education of China), Hohai University, Nanjing, 213200, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Fengfeng",
+        "short_name": "Zhou F",
+        "identifiers": [],
+        "affiliations": [
+          "College of Computer Science and Technology & Key Laboratory of Symbolic Computation and Knowledge Engineering (Ministry of Education of China), Jilin University, Changchun, 130012, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Interdisciplinary sciences, computational life sciences"
+    ],
+    "journal_abbrev": [
+      "Interdiscip Sci"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 17:32",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43062791",
+      "37985457",
+      "40251476",
+      "42928020",
+      "41883144",
+      "35961023",
+      "42265576",
+      "40654959",
+      "41288963",
+      "40062616",
+      "42475469",
+      "41554051",
+      "41544912",
+      "39975293",
+      "42653305",
+      "41317402",
+      "39934680",
+      "42560939",
+      "30547796",
+      "38261340",
+      "38342857",
+      "40662821",
+      "38950180",
+      "42614561",
+      "41067887",
+      "39417321",
+      "38980373",
+      "41206950",
+      "42886592",
+      "37686146",
+      "40708222",
+      "37085776",
+      "39535258",
+      "39960893",
+      "42918896",
+      "41052197",
+      "41300707",
+      "39062480",
+      "41896196",
+      "40116659",
+      "42093817",
+      "41043336",
+      "42632029",
+      "41329984",
+      "42458246",
+      "37897702",
+      "35062026",
+      "39944798",
+      "40699953",
+      "39708840",
+      "42799699",
+      "42721176",
+      "43060182",
+      "39401117",
+      "40956752",
+      "38896510",
+      "37703293",
+      "41871930",
+      "42901905",
+      "42316003",
+      "39487083",
+      "42837364",
+      "42337558",
+      "40993718",
+      "40682757",
+      "42335450",
+      "38653489",
+      "42059479",
+      "42225598",
+      "40730661",
+      "35692809",
+      "38396909",
+      "41489955",
+      "40811242",
+      "32174324",
+      "41354912",
+      "41674874",
+      "41534143",
+      "36168811",
+      "42061403",
+      "39694856",
+      "39605181",
+      "36626328",
+      "37004161",
+      "37016281",
+      "42308421",
+      "37939200",
+      "40983951",
+      "41643202",
+      "42752548",
+      "42776880",
+      "38744843",
+      "42024938",
+      "41675529",
+      "38217125",
+      "43062793",
+      "40591481",
+      "40426257",
+      "40797190",
+      "40415678"
+    ],
+    "review": [
+      "43062791",
+      "42632029"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

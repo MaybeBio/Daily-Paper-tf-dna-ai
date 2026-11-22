@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "43035801",
+    "doi": "10.1186/s13148-026-02222-w",
+    "title": "Integrative computational evaluation of tazemetostat for ARID1A-deficient anaplastic thyroid cancer via predicted polypharmacology and epigenetic target engagement."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Anaplastic thyroid carcinoma (ATC) is a rare, highly aggressive malignancy with limited therapeutic options, due largely to rapid metastasis and treatment resistance. A potential vulnerability in a subset of ATC cases is the loss of ARID1A, a core subunit of the SWI/SNF chromatin remodeling complex, which induces a synthetic lethal dependency on EZH2, the catalytic subunit of the opposing PRC2 complex. Although tazemetostat was previously approved for selected cancers, recent safety concerns and market withdrawal have limited its direct clinical applicability; nevertheless, it remains a clinically characterized EZH2 inhibitor useful for mechanistic interrogation of ARID1A-EZH2 dependency. This study used tazemetostat as a mechanistic computational probe to evaluate EZH2-centered vulnerability and predicted protein interactions in ARID1A-deficient thyroid cancer. RESULTS: Through network pharmacology, we identified five hub targets central to ARID1A-deficient thyroid cancer progression: EZH2, EGFR, MAPK1, GSK3B, and CYP3A4. Molecular docking predicted favorable binding of tazemetostat to all targets, with docking scores ranging from DeltaG =  - 9.04 kcal/mol (EZH2) to - 13.27 kcal/mol (EGFR). Triplicate molecular dynamics simulations supported overall pose stability across the five complexes, with target-dependent inter-replica variability. Statistical analysis indicated the strongest inter-replica consistency for EZH2 and MAPK1, whereas CYP3A4, EGFR, and GSK3B showed significant replica-level differences despite maintaining stable overall trajectory behavior. CONCLUSIONS: Our findings support tazemetostat as a mechanistic computational probe for investigating EZH2-centered vulnerability in ARID1A-deficient anaplastic thyroid cancer, with predicted binding to EZH2 and additional cancer-relevant proteins. These results suggest potential polypharmacology; however, docking and MD simulations demonstrate binding stability rather than confirmed functional inhibition or pathway modulation. Experimental validation will be required to establish the biological significance of these predicted interactions.",
+    "keywords": [
+      "ARID1A-deficient thyroid cancer",
+      "EZH2 inhibition",
+      "Epigenetic therapy",
+      "Molecular docking",
+      "Molecular dynamics simulation",
+      "Tazemetostat"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*DNA-Binding Proteins",
+      "*Transcription Factors/genetics/deficiency",
+      "*Thyroid Carcinoma, Anaplastic/drug therapy/genetics",
+      "Molecular Docking Simulation",
+      "Enhancer of Zeste Homolog 2 Protein/antagonists & inhibitors/metabolism",
+      "*Morpholines/pharmacology/therapeutic use",
+      "*Pyridones/pharmacology/therapeutic use/chemistry",
+      "*Biphenyl Compounds/pharmacology",
+      "*Benzamides/pharmacology/therapeutic use/chemistry",
+      "Epigenesis, Genetic/drug effects",
+      "*Thyroid Neoplasms/drug therapy/genetics",
+      "Nuclear Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Haoyong, Zhang",
+        "Cheng, Qian"
+      ],
+      "short_names": [
+        "Haoyong Z",
+        "Cheng Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Thyroid and Breast Surgery, Zhuji People's Hospital, Zhuji, Zhejiang Province, China.",
+        "Department of Thyroid and Breast Surgery, Xinchang County People's Hospital, Shaoxing, Zhejiang Province, China.",
+        "Department of Thyroid and Breast Surgery, Zhuji People's Hospital, Zhuji, Zhejiang Province, China. Qiancheng1005@outlook.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Haoyong, Zhang",
+        "short_name": "Haoyong Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thyroid and Breast Surgery, Zhuji People's Hospital, Zhuji, Zhejiang Province, China.",
+          "Department of Thyroid and Breast Surgery, Xinchang County People's Hospital, Shaoxing, Zhejiang Province, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Qian",
+        "short_name": "Cheng Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thyroid and Breast Surgery, Zhuji People's Hospital, Zhuji, Zhejiang Province, China. Qiancheng1005@outlook.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinical epigenetics"
+    ],
+    "journal_abbrev": [
+      "Clin Epigenetics"
+    ],
+    "pub_date": "2026 Aug 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 05:32",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43035801",
+      "29087303",
+      "38315003",
+      "30138427",
+      "41147659",
+      "42209314",
+      "33103538",
+      "40794452",
+      "33709777",
+      "30297712",
+      "32093567",
+      "42225614",
+      "32506298",
+      "41898517",
+      "33311453",
+      "34802040",
+      "31970877",
+      "37175580",
+      "36854530",
+      "42619032",
+      "32264965",
+      "38833522",
+      "38520556",
+      "32302562",
+      "27135271",
+      "34210752",
+      "28292935",
+      "34449935",
+      "33922336",
+      "21289264",
+      "35852858",
+      "39365901",
+      "32723346",
+      "42879386",
+      "42785137",
+      "41237543",
+      "42475469",
+      "25686104",
+      "38165007",
+      "42511745",
+      "39969739",
+      "39516467",
+      "41882006",
+      "41676914",
+      "41736412",
+      "31766881",
+      "26552009",
+      "41803859",
+      "40526876",
+      "40815358",
+      "38242973",
+      "41710887",
+      "42642931",
+      "42140904",
+      "40464712",
+      "40543550",
+      "41504013",
+      "40825195",
+      "40169782",
+      "42607488",
+      "40369482",
+      "32525136",
+      "27555605",
+      "27391784",
+      "41940910",
+      "33289402",
+      "42257802",
+      "40944978",
+      "38623968",
+      "34655667",
+      "29515677",
+      "37634215",
+      "37747726",
+      "40048009",
+      "33632299",
+      "40748748",
+      "41273284",
+      "42956582",
+      "42599162",
+      "34493171",
+      "42651805",
+      "26027790",
+      "38640588",
+      "29650362",
+      "40676786",
+      "41720062",
+      "39293534",
+      "35715861",
+      "30924726",
+      "34904909",
+      "24419754",
+      "40333189",
+      "35588752",
+      "30112706",
+      "30025943",
+      "31615655",
+      "33565092",
+      "34159682",
+      "34987057",
+      "30338896"
+    ],
+    "review": [
+      "43035801",
+      "33103538",
+      "38520556",
+      "32723346",
+      "41736412",
+      "40526876",
+      "33289402",
+      "42257802",
+      "40048009",
+      "42599162",
+      "26027790",
+      "30112706",
+      "30025943",
+      "33565092"
+    ],
+    "pmc": [
+      "13772518"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-026-02222-w",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/thyroidcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Thyroid Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43035801/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-11",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-802",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

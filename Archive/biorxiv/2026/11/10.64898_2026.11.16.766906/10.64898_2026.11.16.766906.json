@@ -1,0 +1,297 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.16.766906",
+  "title": "Pharmacophore-Inspired Virtual Receptor: Generating Realistic Peptide Binding Data for Machine Learning",
+  "doi": "10.64898/2026.11.16.766906",
+  "abstract": "VReceptor is a virtual receptor simulation framework that generates realistic, sequence-dependent binding data for peptide-based therapeutics. It combines pharmacophore-inspired weighting schemes with amino acid similarity metrics to evaluate peptide design strategies in a controlled environment. Validation using the Prolactin-Releasing Peptide (PrRP) dataset confirms VReceptor’s ability to approximate binding behaviours and optimize experimental planning. This framework empowers researchers in computational peptide design and active learning workflows while high-lighting areas for further refinement.",
+  "authors": [
+    "Kilian Conde-Frieboes",
+    "Carsten Stahlhut"
+  ],
+  "published_date": "2026-11-17",
+  "updated_date": "2026-11-17T18:10:11Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766906",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766906.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            21
+          ]
+        ],
+        "date-time": "2026-11-21T05:14:46Z",
+        "timestamp": 1795238086450,
+        "version": "4.10.3"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 13,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                17
+              ]
+            ],
+            "date-time": "2026-11-17T00:00:00Z",
+            "timestamp": 1794873600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>VReceptor is a virtual receptor simulation framework that generates realistic, sequence-dependent binding data for peptide-based therapeutics. It combines pharmacophore-inspired weighting schemes with amino acid similarity metrics to evaluate peptide design strategies in a controlled environment. Validation using the Prolactin-Releasing Peptide (PrRP) dataset confirms VReceptor’s ability to approximate binding behaviours and optimize experimental planning. This framework empowers researchers in computational peptide design and active learning workflows while high-lighting areas for further refinement.</jats:p>",
+      "DOI": "10.64898/2026.11.16.766906",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ],
+        "date-time": "2026-11-17T18:10:11Z",
+        "timestamp": 1794939011000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Pharmacophore-Inspired Virtual Receptor: Generating Realistic Peptide Binding Data for Machine Learning"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5303-4448",
+          "authenticated-orcid": false,
+          "given": "Kilian",
+          "family": "Conde-Frieboes",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "AI & Digital Innovation, Novo Nordisk A/S"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6445-6010",
+          "authenticated-orcid": false,
+          "given": "Carsten",
+          "family": "Stahlhut",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "AI & Digital Innovation, Novo Nordisk A/S"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "issue": "3",
+          "key": "2026112020250856000_2026.11.16.766906v1.1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1798",
+          "DOI": "10.3390/ijms25031798",
+          "article-title": "Virtual screening of peptide libraries: The search for peptide-based therapeutics using computational tools",
+          "volume": "25",
+          "year": "2024",
+          "journal-title": "International Journal of Molecular Sciences"
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "P. Ehrlich . Über die constitution des diphtheriegiftes. Deutsche Medizinische Wochenschrift, pages 597–600, 1898.",
+          "DOI": "10.1055/s-0029-1204471"
+        },
+        {
+          "issue": "5",
+          "key": "2026112020250856000_2026.11.16.766906v1.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1269",
+          "DOI": "10.1021/ci5000533",
+          "article-title": "Setting the record straight: The origin of the pharmacophore concept",
+          "volume": "54",
+          "year": "2014",
+          "journal-title": "Journal of Chemical Information and Modeling"
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.4",
+          "first-page": "140478",
+          "article-title": "A survey and benchmark of high-dimensional bayesian optimization of discrete sequences",
+          "volume": "37",
+          "year": "2024",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.5",
+          "unstructured": "M. Gonzalez-Duque , S. Bartels , R. Michael , Y. Zainchkovskyy , S. Hauberg , and W. Boomsma . Poli: A library for discrete objective functions. https://github.com/MachineLearningLifeScience/poli?tab=readme-ov-file, 2024. Accessed: October 14, 2025."
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0035495"
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.7",
+          "doi-asserted-by": "crossref",
+          "first-page": "433",
+          "DOI": "10.1016/j.tifs.2023.06.023",
+          "article-title": "Strengths and limitations of in silico tools to assess physicochemical properties, bioactivity, and bioavailability of food-derived peptides",
+          "volume": "138",
+          "year": "2023",
+          "journal-title": "Trends in Food Science & Technology"
+        },
+        {
+          "issue": "16",
+          "key": "2026112020250856000_2026.11.16.766906v1.8",
+          "doi-asserted-by": "crossref",
+          "first-page": "8497",
+          "DOI": "10.1021/acs.jcim.5c01084",
+          "article-title": "Pep-pcbench is a comprehensive benchmarking framework for protein–peptide complex structure prediction",
+          "volume": "65",
+          "year": "2025",
+          "journal-title": "Journal of Chemical Information and Modeling"
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-024-07487-W"
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Veronika Pražienková , Andrea Popelová , Jaroslav Kuneš , and Lenka Maletín-ská . Prolactin-releasing peptide: Physiological and pharmacological properties. International Journal of Molecular Sciences, 20(21), 2019.",
+          "DOI": "10.3390/ijms20215297"
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jm9700575"
+        },
+        {
+          "issue": "1",
+          "key": "2026112020250856000_2026.11.16.766906v1.12",
+          "doi-asserted-by": "crossref",
+          "first-page": "e2408",
+          "DOI": "10.1002/pst.2408",
+          "article-title": "Potency assay variability estimation in practice",
+          "volume": "24",
+          "year": "2025",
+          "journal-title": "Pharmaceutical Statistics"
+        },
+        {
+          "key": "2026112020250856000_2026.11.16.766906v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1162/neco.1997.9.8.1735"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.16.766906",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            21
+          ]
+        ],
+        "date-time": "2026-11-21T04:25:15Z",
+        "timestamp": 1795235115000
+      },
+      "score": 96.436165,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.16.766906"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "references-count": 13,
+      "URL": "https://doi.org/10.64898/2026.11.16.766906",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

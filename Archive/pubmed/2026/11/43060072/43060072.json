@@ -1,0 +1,198 @@
+{
+  "identity": {
+    "pmid": "43060072",
+    "doi": "10.64898/2026.11.07.765086",
+    "title": "Nucleobase-Specific Recognition of DNA by Protamine."
+  },
+  "content": {
+    "abstract": "Protamines-arginine (Arg)-rich, intrinsically disordered proteins (IDPs)-replace histones to compact DNA in the sperm nucleus. While folded domains can bind DNA site-specifically, whether IDPs exhibit DNA-sequence specificity remains open. Here, we used all-atom molecular dynamics simulations to characterize protamine-DNA binding. Eight copies of salmon protamine (33 residues with 21 Arg) rapidly wrap around a 35-bp DNA molecule. In addition to salt bridges with DNA phosphates, Arg hydrogen-bonds with multiple nucleobases on both strands or the same strand. At the major groove, protamine prefers GC over AT by a 2.6-to-1 ratio, with guanine's O6 and N7 atoms as hydrogen-bond acceptors; the preference is especially strong at G-tracts. This selectivity reverses at the minor groove, where AT overtakes GC by a 2.1-to-1 margin. The net effect is a moderate bias for GC over AT in protamine-base interactions. Additional simulations with 20-bp DNA molecules and free-energy calculations reinforce these observations. For experimental validation, we designed DNA sequences with 0-40% GC content. Protamine-DNA mixtures form aggregates, with an increasing propensity at higher GC content and upon shuffling into G-tracts. This work demonstrates that IDPs can bind DNA in a nucleobase-specific manner, with implications for protamine-mediated transcription silencing and remodeling of paternal chromatin.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dhiman, Anshika",
+        "Mudiyanselage, Hashini Ekanayake",
+        "Zhou, Huan-Xiang"
+      ],
+      "short_names": [
+        "Dhiman A",
+        "Mudiyanselage HE",
+        "Zhou HX"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9020-0302"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Dhiman, Anshika",
+        "short_name": "Dhiman A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mudiyanselage, Hashini Ekanayake",
+        "short_name": "Mudiyanselage HE",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhou, Huan-Xiang",
+        "short_name": "Zhou HX",
+        "identifiers": [
+          "0000-0001-9020-0302"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060072",
+      "39469863",
+      "33754735",
+      "40631816",
+      "14990583",
+      "37960891",
+      "40727667",
+      "9020982",
+      "21994948",
+      "8913863",
+      "12912999",
+      "42933998",
+      "29117517",
+      "17935330",
+      "7096440",
+      "25264147",
+      "31502527",
+      "37599788",
+      "10824973",
+      "36440140",
+      "17903313",
+      "34293303",
+      "23912807",
+      "21435240",
+      "10966796",
+      "38106194",
+      "41052587",
+      "36168289",
+      "34904892",
+      "1214804",
+      "9309219",
+      "32245406",
+      "9305988",
+      "1167334",
+      "28594167",
+      "10334208",
+      "12666173",
+      "20232937",
+      "42744825",
+      "26429923",
+      "25580618",
+      "35629349",
+      "15113212",
+      "24634207",
+      "21446742",
+      "22750979",
+      "37071034",
+      "8024562",
+      "11162114",
+      "39920086",
+      "36601576",
+      "41354937",
+      "9195889",
+      "2156516",
+      "10677850",
+      "29044822",
+      "39431064",
+      "34328301",
+      "42430502",
+      "9545374",
+      "838721",
+      "6641728",
+      "41159612",
+      "30169968",
+      "20658568",
+      "9819202",
+      "41332532",
+      "21443493",
+      "1339484",
+      "35900356",
+      "9020981",
+      "21042738",
+      "20641478",
+      "37040351",
+      "16965539",
+      "32946929",
+      "22789106",
+      "25207671",
+      "7479690",
+      "17190573",
+      "9341127",
+      "27624927",
+      "8344286",
+      "30353731",
+      "11502170",
+      "42927771",
+      "10506559",
+      "15024099",
+      "29651936",
+      "12113475",
+      "25658035",
+      "20690690",
+      "1381962",
+      "8664299",
+      "2261474",
+      "15095345",
+      "8527670",
+      "19364735",
+      "10091119",
+      "17208950"
+    ],
+    "review": [
+      "43060072",
+      "40727667",
+      "17903313",
+      "28594167",
+      "37071034",
+      "41354937",
+      "1339484",
+      "35900356",
+      "20641478",
+      "29651936"
+    ],
+    "pmc": [
+      "13779262"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

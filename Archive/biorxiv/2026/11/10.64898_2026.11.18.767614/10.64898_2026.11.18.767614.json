@@ -1,0 +1,367 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.18.767614",
+  "title": "Proteome-scale inference of transcription factor binding motifs from predicted protein-DNA structures",
+  "doi": "10.64898/2026.11.18.767614",
+  "abstract": "Transcription factors (TFs) control development and cell identity by binding sequence-specific DNA motifs, yet the binding specificities of most TFs remain unknown because experimental binding assays do not scale. In zebrafish, only one-third of TFs have assigned motifs, nearly all inferred by homology from human or mouse experimental data. Here we present a proteome-scale computational screen that infers DNA-binding specificity from predicted protein-DNA structures. We use AlphaFold3 to model zebrafish TFs with candidate motif sequences derived from accessible chromatin, then use NA-MPNN to infer the DNA motifs from the most confident predictions. Across 210 TFs with experimentally characterized orthologs, predicted motifs match the known motif for 44%. Propagated through sequence clusters, these predictions form ZebraMotif, a motif database for all 2,543 zebrafish TFs. ZebraMotif covers 2.8 times as many TFs as CisBP's zebrafish collection and links accessible regulatory elements to candidate upstream regulators genome-wide. Because the approach requires only a proteome and a set of candidate motifs, it is applicable to any species lacking experimental binding data.",
+  "authors": [
+    "Benjamin Iovino",
+    "Nash Bulaong",
+    "Louis Boahene",
+    "William Law",
+    "Nathan Hammond",
+    "Mark Potts",
+    "Rosio Alvarez",
+    "Joseph L DeRisi",
+    "John Pak",
+    "Yang Joon Kim",
+    "Loic Alain Royer"
+  ],
+  "published_date": "2026-11-19",
+  "updated_date": "2026-11-19T22:35:13Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767614",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767614.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T23:16:08Z",
+        "timestamp": 1795130168003,
+        "version": "4.10.3"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2026-11-19T00:00:00Z",
+            "timestamp": 1795046400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00knt4f32",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Transcription factors (TFs) control development and cell identity by binding sequence-specific DNA motifs, yet the binding specificities of most TFs remain unknown because experimental binding assays do not scale. In zebrafish, only one-third of TFs have assigned motifs, nearly all inferred by homology from human or mouse experimental data. Here we present a proteome-scale computational screen that infers DNA-binding specificity from predicted protein-DNA structures. We use AlphaFold3 to model zebrafish TFs with candidate motif sequences derived from accessible chromatin, then use NA-MPNN to infer the DNA motifs from the most confident predictions. Across 210 TFs with experimentally characterized orthologs, predicted motifs match the known motif for 44%. Propagated through sequence clusters, these predictions form ZebraMotif, a motif database for all 2,543 zebrafish TFs. ZebraMotif covers 2.8 times as many TFs as CisBP's zebrafish collection and links accessible regulatory elements to candidate upstream regulators genome-wide. Because the approach requires only a proteome and a set of candidate motifs, it is applicable to any species lacking experimental binding data.</jats:p>",
+      "DOI": "10.64898/2026.11.18.767614",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T22:35:13Z",
+        "timestamp": 1795127713000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Proteome-scale inference of transcription factor binding motifs from predicted protein-DNA structures"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0007-6512-4214",
+          "authenticated-orcid": false,
+          "given": "Benjamin",
+          "family": "Iovino",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nash",
+          "family": "Bulaong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Louis",
+          "family": "Boahene",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "William",
+          "family": "Law",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nathan",
+          "family": "Hammond",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mark",
+          "family": "Potts",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rosio",
+          "family": "Alvarez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4611-9205",
+          "authenticated-orcid": false,
+          "given": "Joseph L",
+          "family": "DeRisi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2998-9735",
+          "authenticated-orcid": false,
+          "given": "John",
+          "family": "Pak",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1742-5657",
+          "authenticated-orcid": false,
+          "given": "Yang Joon",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9991-9724",
+          "authenticated-orcid": false,
+          "given": "Loic Alain",
+          "family": "Royer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biohub, Redwood City, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.18.767614",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T22:35:14Z",
+        "timestamp": 1795127714000
+      },
+      "score": 153.14838,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.18.767614"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.11.18.767614",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

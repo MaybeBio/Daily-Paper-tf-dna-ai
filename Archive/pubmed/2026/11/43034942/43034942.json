@@ -1,0 +1,344 @@
+{
+  "identity": {
+    "pmid": "43034942",
+    "doi": "10.1007/s11033-026-13162-2",
+    "title": "Aryl hydrocarbon receptor cytoplasmic retention by p27;Kip1 in senescent astrocytes."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The aryl hydrocarbon receptor (AhR) regulates neurodevelopment, immune responses, and cellular homeostasis. Despite increased availability of endogenous ligands during aging and neurodegeneration, AhR transcriptional activity may decline through mechanisms that remain unclear. We investigated AhR dysfunction and its association with the cyclin-dependent kinase inhibitor p27 in senescent human astrocytes. METHODS AND RESULTS: SVG p12 human astrocytes were exposed to hydrogen peroxide (50 or 100 microM, 30 min) to induce senescence-associated features and evaluated over 72 h. The AhR ligand indole-3-propionic acid (IPA; 200 microM) was administered after oxidative stress. Cellular assays included at least three independent experiments. AhR localization and signaling, p27 association, and senescence-associated phenotypes were evaluated using microscopy, gene expression analysis, protein assays, and molecular docking. Senescence was associated with cytoplasmic redistribution of AhR and reduced expression of its target gene, cytochrome P450 1A1 (CYP1A1). Increased cytoplasmic p27 accumulation coincided with greater AhR colocalization, and co-immunoprecipitation supported their association. Molecular docking suggested that acidic conditions could stabilize the AhR-p27 complex. IPA increased nuclear AhR localization, CYP1A1 expression, and proliferation while reducing senescence-associated beta-galactosidase activity. CONCLUSIONS: These findings suggest that p27-associated cytoplasmic retention may impair AhR signaling during astrocyte senescence despite ligand availability. IPA treatment after oxidative stress attenuated the development of senescence-associated features. Modulating AhR localization and its association with p27 may offer a therapeutic avenue for age-related neurological disorders, although causality and therapeutic relevance require further investigation.",
+    "keywords": [
+      "Aryl hydrocarbon receptor",
+      "Astrocytes",
+      "Cellular senescence",
+      "Indole-3-propionic acid",
+      "Oxidative stress",
+      "p27"
+    ],
+    "mesh_terms": [
+      "*Astrocytes/metabolism",
+      "Humans",
+      "*Cyclin-Dependent Kinase Inhibitor p27/metabolism/genetics",
+      "*Receptors, Aryl Hydrocarbon/metabolism/genetics",
+      "*Cellular Senescence/drug effects/physiology",
+      "Oxidative Stress/drug effects",
+      "Cytoplasm/metabolism",
+      "Signal Transduction",
+      "Cytochrome P-450 CYP1A1/metabolism/genetics",
+      "*Basic Helix-Loop-Helix Proteins/metabolism",
+      "Hydrogen Peroxide/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Juarez-Solano, Alan Hipolito",
+        "Rosales-Hernandez, Martha Cecilia",
+        "Velazquez-Toledano, Jazziel",
+        "Tenorio-Barrera, Ivan",
+        "Perez-Osorio, Ivan Nicolas",
+        "Rodriguez-Perez, Citlali Ekaterina",
+        "Martinez-Coria, Hilda",
+        "Escudero-Lourdes, Claudia",
+        "Salgado-Delgado, Roberto C",
+        "Torres-Ramos, Monica Adriana"
+      ],
+      "short_names": [
+        "Juarez-Solano AH",
+        "Rosales-Hernandez MC",
+        "Velazquez-Toledano J",
+        "Tenorio-Barrera I",
+        "Perez-Osorio IN",
+        "Rodriguez-Perez CE",
+        "Martinez-Coria H",
+        "Escudero-Lourdes C",
+        "Salgado-Delgado RC",
+        "Torres-Ramos MA"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-0649-2296",
+        "ORCID: 0000-0003-0012-580X",
+        "ORCID: 0000-0002-6776-7375",
+        "ORCID: 0009-0003-6557-1461",
+        "ORCID: 0000-0002-5946-5318",
+        "ORCID: 0000-0002-6337-7951",
+        "ORCID: 0000-0002-0335-8564",
+        "ORCID: 0000-0002-4597-1420",
+        "ORCID: 0000-0002-5230-962X",
+        "ORCID: 0000-0002-8900-4037"
+      ],
+      "affiliations": [
+        "Direccion de Investigacion, Instituto Nacional de Neurologia y Neurocirugia, Ciudad de Mexico, Mexico.",
+        "Ciencia Traslacional, laboratorio 4, Centro de Investigacion sobre el Envejecimiento del Centro de Investigacion y de Estudios Avanzados, sede sur, Ciudad de Mexico, Mexico.",
+        "Posgrado en Ciencias Farmacobiologicas, Facultad de Ciencias Quimicas, Universidad Autonoma de San Luis Potosi, San Luis Potosi, Mexico.",
+        "Laboratorio de Biofisica y Biocatalisis, Seccion de Estudios de Posgrado e Investigacion, Escuela Superior de Medicina, Instituto Politecnico Nacional, Ciudad de Mexico, Mexico.",
+        "Laboratorio de Biofisica y Biocatalisis, Seccion de Estudios de Posgrado e Investigacion, Escuela Superior de Medicina, Instituto Politecnico Nacional, Ciudad de Mexico, Mexico.",
+        "Ciencia Traslacional, laboratorio 4, Centro de Investigacion sobre el Envejecimiento del Centro de Investigacion y de Estudios Avanzados, sede sur, Ciudad de Mexico, Mexico.",
+        "Laboratorio de Inmunologia, Instituto de Investigaciones Biomedicas, Universidad Nacional Autonoma de Mexico, Ciudad de Mexico, Mexico.",
+        "Direccion de Investigacion, Instituto Nacional de Neurologia y Neurocirugia, Ciudad de Mexico, Mexico.",
+        "Departamento de Fisiologia, Facultad de Medicina, Universidad Nacional Autonoma de Mexico, Ciudad de Mexico, Mexico.",
+        "Posgrado en Ciencias Farmacobiologicas, Facultad de Ciencias Quimicas, Universidad Autonoma de San Luis Potosi, San Luis Potosi, Mexico.",
+        "Laboratorio de Inmunotoxicologia, Facultad de Ciencias Quimicas, Universidad Autonoma de San Luis Potosi, San Luis Potosi, Mexico.",
+        "Laboratorio de Neuroanatomia Funcional y Ritmos Biologicos, Facultad de Ciencias, Universidad Autonoma de San Luis Potosi, San Luis Potosi, Mexico.",
+        "Direccion de Investigacion, Instituto Nacional de Neurologia y Neurocirugia, Ciudad de Mexico, Mexico. monica.atorres@ciencias.unam.mx.",
+        "Ciencia Traslacional, laboratorio 4, Centro de Investigacion sobre el Envejecimiento del Centro de Investigacion y de Estudios Avanzados, sede sur, Ciudad de Mexico, Mexico. monica.atorres@ciencias.unam.mx.",
+        "Facultad de Ciencias, Universidad Nacional Autonoma de Mexico, Ciudad de Mexico, Mexico. monica.atorres@ciencias.unam.mx."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Juárez-Solano, Alan Hipólito",
+        "short_name": "Juárez-Solano AH",
+        "identifiers": [
+          "0009-0003-0649-2296"
+        ],
+        "affiliations": [
+          "Dirección de Investigación, Instituto Nacional de Neurología y Neurocirugía, Ciudad de México, México.",
+          "Ciencia Traslacional, laboratorio 4, Centro de Investigación sobre el Envejecimiento del Centro de Investigación y de Estudios Avanzados, sede sur, Ciudad de México, México.",
+          "Posgrado en Ciencias Farmacobiológicas, Facultad de Ciencias Químicas, Universidad Autónoma de San Luis Potosí, San Luis Potosí, México."
+        ]
+      },
+      {
+        "full_name": "Rosales-Hernández, Martha Cecilia",
+        "short_name": "Rosales-Hernández MC",
+        "identifiers": [
+          "0000-0003-0012-580X"
+        ],
+        "affiliations": [
+          "Laboratorio de Biofísica y Biocatálisis, Sección de Estudios de Posgrado e Investigación, Escuela Superior de Medicina, Instituto Politécnico Nacional, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Velazquez-Toledano, Jazziel",
+        "short_name": "Velazquez-Toledano J",
+        "identifiers": [
+          "0000-0002-6776-7375"
+        ],
+        "affiliations": [
+          "Laboratorio de Biofísica y Biocatálisis, Sección de Estudios de Posgrado e Investigación, Escuela Superior de Medicina, Instituto Politécnico Nacional, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Tenorio-Barrera, Iván",
+        "short_name": "Tenorio-Barrera I",
+        "identifiers": [
+          "0009-0003-6557-1461"
+        ],
+        "affiliations": [
+          "Ciencia Traslacional, laboratorio 4, Centro de Investigación sobre el Envejecimiento del Centro de Investigación y de Estudios Avanzados, sede sur, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Pérez-Osorio, Iván Nicolás",
+        "short_name": "Pérez-Osorio IN",
+        "identifiers": [
+          "0000-0002-5946-5318"
+        ],
+        "affiliations": [
+          "Laboratorio de Inmunología, Instituto de Investigaciones Biomédicas, Universidad Nacional Autónoma de México, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Rodríguez-Pérez, Citlali Ekaterina",
+        "short_name": "Rodríguez-Pérez CE",
+        "identifiers": [
+          "0000-0002-6337-7951"
+        ],
+        "affiliations": [
+          "Dirección de Investigación, Instituto Nacional de Neurología y Neurocirugía, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Martínez-Coria, Hilda",
+        "short_name": "Martínez-Coria H",
+        "identifiers": [
+          "0000-0002-0335-8564"
+        ],
+        "affiliations": [
+          "Departamento de Fisiología, Facultad de Medicina, Universidad Nacional Autónoma de México, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Escudero-Lourdes, Claudia",
+        "short_name": "Escudero-Lourdes C",
+        "identifiers": [
+          "0000-0002-4597-1420"
+        ],
+        "affiliations": [
+          "Posgrado en Ciencias Farmacobiológicas, Facultad de Ciencias Químicas, Universidad Autónoma de San Luis Potosí, San Luis Potosí, México.",
+          "Laboratorio de Inmunotoxicología, Facultad de Ciencias Químicas, Universidad Autónoma de San Luis Potosí, San Luis Potosí, México."
+        ]
+      },
+      {
+        "full_name": "Salgado-Delgado, Roberto C",
+        "short_name": "Salgado-Delgado RC",
+        "identifiers": [
+          "0000-0002-5230-962X"
+        ],
+        "affiliations": [
+          "Laboratorio de Neuroanatomía Funcional y Ritmos Biológicos, Facultad de Ciencias, Universidad Autónoma de San Luis Potosí, San Luis Potosí, México."
+        ]
+      },
+      {
+        "full_name": "Torres-Ramos, Mónica Adriana",
+        "short_name": "Torres-Ramos MA",
+        "identifiers": [
+          "0000-0002-8900-4037"
+        ],
+        "affiliations": [
+          "Dirección de Investigación, Instituto Nacional de Neurología y Neurocirugía, Ciudad de México, México. monica.atorres@ciencias.unam.mx.",
+          "Ciencia Traslacional, laboratorio 4, Centro de Investigación sobre el Envejecimiento del Centro de Investigación y de Estudios Avanzados, sede sur, Ciudad de México, México. monica.atorres@ciencias.unam.mx.",
+          "Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México, México. monica.atorres@ciencias.unam.mx."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology reports"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Rep"
+    ],
+    "pub_date": "2026 Nov 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/15 17:31",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43034942",
+      "28103884",
+      "24355420",
+      "35735777",
+      "31812582",
+      "24161567",
+      "24885022",
+      "28189647",
+      "42484694",
+      "20132803",
+      "28710019",
+      "39320969",
+      "39480548",
+      "42506718",
+      "42474233",
+      "42667892",
+      "24161444",
+      "42664535",
+      "40257057",
+      "25178717",
+      "21498875",
+      "25668756",
+      "32017483",
+      "19158084",
+      "39207053",
+      "39907700",
+      "39929862",
+      "15537747",
+      "32316498",
+      "23288144",
+      "18065768",
+      "40294436",
+      "27041069",
+      "26441083",
+      "17720764",
+      "34782204",
+      "25690886",
+      "24806346",
+      "16111922",
+      "29164305",
+      "25082669",
+      "15621696",
+      "24535918",
+      "15210858",
+      "22978700",
+      "12024042",
+      "29238104",
+      "35619220",
+      "41519495",
+      "32526934",
+      "9788873",
+      "32409577",
+      "41961102",
+      "9418899",
+      "28481916",
+      "20106948",
+      "42108558",
+      "42874775",
+      "37480978",
+      "18755850",
+      "24302727",
+      "28618207",
+      "28972393",
+      "18022818",
+      "31543430",
+      "28192119",
+      "34698116",
+      "40532857",
+      "39832710",
+      "26944194",
+      "25349783",
+      "19126602",
+      "24727683",
+      "32907554",
+      "40945864",
+      "28812970",
+      "40854476",
+      "37895177",
+      "21666223",
+      "37890551",
+      "42160504",
+      "41187973",
+      "19470599",
+      "39034811",
+      "19448134",
+      "37566085",
+      "41956157",
+      "38062420",
+      "31026283",
+      "12237327",
+      "21732638",
+      "22686307",
+      "39465158",
+      "23997114",
+      "24091107",
+      "33488929",
+      "42521003",
+      "22138065",
+      "16093525",
+      "17141280"
+    ],
+    "review": [
+      "43034942",
+      "37480978"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11033-026-13162-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1237",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

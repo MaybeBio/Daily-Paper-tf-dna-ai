@@ -1,0 +1,356 @@
+{
+  "identity": {
+    "pmid": "43052283",
+    "doi": "10.1038/s41467-026-78692-6",
+    "title": "Structural basis of TACO1 function in mitochondrial translation elongation."
+  },
+  "content": {
+    "abstract": "Protein synthesis depends on specialized regulatory factors to overcome difficult-to-translate sequences during elongation that cause ribosomal stalling. In human mitochondria, this function is carried out by TACO1 (Translation activator of COX1). Here, we report the cryo-electron microscopy structure of human TACO1 bound to the mitoribosome, revealing its mechanistic role as a dedicated elongation regulator. Unlike the prokaryotic elongation factor EF-P and the eukaryotic eIF5A, which bind the ribosomal E site and stabilize P-site tRNA to facilitate peptide bond formation, TACO1 adopts a distinct strategy. It binds near the A site, closely interacting with the Sarcin Ricin loop and the L7/L12 stalk, similar to general translation elongation factors, such as EF-Tumt and mtEF-G1mt, and contacts the A-site tRNA. Using AlphaFold analysis and molecular dynamics simulations, we further show how a series of conformational changes allow its N-terminal domain to reorient and transiently engage with the A-site tRNA via a conserved and functionally critical basic amino acid patch. The bacterial homolog of TACO1, namely YebC2, shares the structural features required for its function. Overall, we present an evolutionarily conserved mechanism employed by TACO1 to enhance mitochondrial translation efficiency.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Cryoelectron Microscopy",
+      "*Mitochondrial Proteins/metabolism/chemistry/genetics",
+      "*Mitochondria/metabolism",
+      "*Peptide Chain Elongation, Translational",
+      "RNA, Transfer/metabolism",
+      "Molecular Dynamics Simulation",
+      "Protein Binding",
+      "Peptide Elongation Factors/metabolism",
+      "Transcription Factors"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Singh, Vivek",
+        "Gallenstein, Raven",
+        "Wanes, George",
+        "Shiriaev, Dmitri Igorevich",
+        "Shcherbinina, Evgeniia",
+        "Gopalakrishna, Shreekara",
+        "Amahong, Kuerbannisha",
+        "Mohanty, Udayan",
+        "Sarshad, Aishe A",
+        "Whitford, Paul C",
+        "Khawaja, Anas",
+        "Rorbach, Joanna"
+      ],
+      "short_names": [
+        "Singh V",
+        "Gallenstein R",
+        "Wanes G",
+        "Shiriaev DI",
+        "Shcherbinina E",
+        "Gopalakrishna S",
+        "Amahong K",
+        "Mohanty U",
+        "Sarshad AA",
+        "Whitford PC",
+        "Khawaja A",
+        "Rorbach J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4656-3362",
+        "ORCID: 0009-0007-8605-7938",
+        "ORCID: 0000-0002-8555-0292",
+        "ORCID: 0000-0002-8778-974X",
+        "ORCID: 0000-0001-7153-5959",
+        "ORCID: 0000-0001-7104-2265",
+        "ORCID: 0000-0002-9721-7454",
+        "ORCID: 0000-0002-2891-2840"
+      ],
+      "affiliations": [
+        "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden.",
+        "Department of Chemistry, Boston College, Chestnut Hill, MA, USA.",
+        "Center for Theoretical Biological Physics, Northeastern University, Boston, MA, USA.",
+        "Department of Physics, Northeastern University, Boston, MA, USA.",
+        "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden.",
+        "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, Gothenburg, Sweden.",
+        "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, Gothenburg, Sweden.",
+        "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden.",
+        "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, Gothenburg, Sweden.",
+        "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, Gothenburg, Sweden.",
+        "Department of Chemistry, Boston College, Chestnut Hill, MA, USA.",
+        "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, Gothenburg, Sweden.",
+        "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, Gothenburg, Sweden.",
+        "Center for Theoretical Biological Physics, Northeastern University, Boston, MA, USA. p.whitford@neu.edu.",
+        "Department of Physics, Northeastern University, Boston, MA, USA. p.whitford@neu.edu.",
+        "Department of Chemical Engineering, Northeastern University, Boston, MA, USA. p.whitford@neu.edu.",
+        "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden. anas.khawaja@ki.se.",
+        "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden. joanna.rorbach@ki.se."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Singh, Vivek",
+        "short_name": "Singh V",
+        "identifiers": [
+          "0000-0003-4656-3362"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Gallenstein, Raven",
+        "short_name": "Gallenstein R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Boston College, Chestnut Hill, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Wanes, George",
+        "short_name": "Wanes G",
+        "identifiers": [
+          "0009-0007-8605-7938"
+        ],
+        "affiliations": [
+          "Center for Theoretical Biological Physics, Northeastern University, Boston, MA, USA.",
+          "Department of Physics, Northeastern University, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Shiriaev, Dmitri Igorevich",
+        "short_name": "Shiriaev DI",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Shcherbinina, Evgeniia",
+        "short_name": "Shcherbinina E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, Gothenburg, Sweden.",
+          "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Gopalakrishna, Shreekara",
+        "short_name": "Gopalakrishna S",
+        "identifiers": [
+          "0000-0002-8555-0292"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Amahong, Kuerbannisha",
+        "short_name": "Amahong K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, Gothenburg, Sweden.",
+          "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Mohanty, Udayan",
+        "short_name": "Mohanty U",
+        "identifiers": [
+          "0000-0002-8778-974X"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Boston College, Chestnut Hill, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Sarshad, Aishe A",
+        "short_name": "Sarshad AA",
+        "identifiers": [
+          "0000-0001-7153-5959"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, Gothenburg, Sweden.",
+          "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Whitford, Paul C",
+        "short_name": "Whitford PC",
+        "identifiers": [
+          "0000-0001-7104-2265"
+        ],
+        "affiliations": [
+          "Center for Theoretical Biological Physics, Northeastern University, Boston, MA, USA. p.whitford@neu.edu.",
+          "Department of Physics, Northeastern University, Boston, MA, USA. p.whitford@neu.edu.",
+          "Department of Chemical Engineering, Northeastern University, Boston, MA, USA. p.whitford@neu.edu."
+        ]
+      },
+      {
+        "full_name": "Khawaja, Anas",
+        "short_name": "Khawaja A",
+        "identifiers": [
+          "0000-0002-9721-7454"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden. anas.khawaja@ki.se."
+        ]
+      },
+      {
+        "full_name": "Rorbach, Joanna",
+        "short_name": "Rorbach J",
+        "identifiers": [
+          "0000-0002-2891-2840"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden. joanna.rorbach@ki.se."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052283",
+      "41663403",
+      "41446151",
+      "39036954",
+      "32737313",
+      "29100052",
+      "32602580",
+      "30089917",
+      "19424157",
+      "14757048",
+      "16337596",
+      "12370014",
+      "22459262",
+      "23527033",
+      "17033963",
+      "17070545",
+      "19696344",
+      "29453282",
+      "9878430",
+      "24033548",
+      "28588135",
+      "20435138",
+      "8834773",
+      "34127662",
+      "33555093",
+      "27319982",
+      "34815343",
+      "32061931",
+      "33243891",
+      "16929303",
+      "24389465",
+      "17179748",
+      "18342885",
+      "32812867",
+      "28886684",
+      "37247699",
+      "27092003",
+      "24402910",
+      "24324168",
+      "19716793",
+      "10395923",
+      "33300043",
+      "2455872",
+      "39134711",
+      "40419126",
+      "33878294",
+      "20691699",
+      "38569462",
+      "15616587",
+      "34330903",
+      "24335280",
+      "32878986",
+      "31537648",
+      "39900920",
+      "26670735",
+      "786622",
+      "1009951",
+      "16113240",
+      "40215226",
+      "12370017",
+      "30184468",
+      "19154738",
+      "18672904",
+      "27906160",
+      "6133002",
+      "383483",
+      "4519646",
+      "31397432",
+      "21152913",
+      "29229848",
+      "2037589",
+      "32268098",
+      "1730707",
+      "32011712",
+      "42282756",
+      "19122150",
+      "14622005",
+      "17086976",
+      "7563124",
+      "23603806",
+      "7657623",
+      "36617428",
+      "23727608",
+      "11099376",
+      "33056988",
+      "10368288",
+      "182140",
+      "33790014",
+      "32234471",
+      "33259811",
+      "8901554",
+      "26715760",
+      "17130126",
+      "20070887",
+      "10746742",
+      "41339860",
+      "42240621",
+      "28342293",
+      "39303786",
+      "32589965"
+    ],
+    "review": [
+      "43052283",
+      "12370014",
+      "28886684",
+      "24402910",
+      "38569462",
+      "12370017",
+      "31397432",
+      "32011712",
+      "17086976"
+    ],
+    "pmc": [
+      "13782522"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78692-6",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

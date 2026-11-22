@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "43049173",
+    "doi": "10.1080/07391102.2026.2761986",
+    "title": "Ionization- and iron-tuned recognition of icaritin by albumin and transferrin: from spectrofluorimetry to multiscale modeling."
+  },
+  "content": {
+    "abstract": "Serum transport proteins critically influence the pharmacokinetics and systemic bioavailability of polyphenolic compounds; however, the molecular determinants governing their recognition of ionizable flavonoids remain insufficiently understood. Herein, the interaction of icaritin (ICT), a prenylated flavonoid with promising pharmacological activity, with bovine serum albumin (BSA) and transferrin (Tf) was investigated using an integrated spectrofluorimetric and multiscale computational approach. Fluorescence quenching experiments confirmed stable complex formation with both proteins. ICT exhibited strong affinity toward BSA (Ka = 5.76 x 10(5)-1.12 x 10(7) M(-1)) and Tf (K(a) = 5.07 x 10(7)-2.49 x 10(8) M(-1)), with distinct recognition mechanisms. Site-marker experiments revealed warfarin-dependent changes in the apparent BSA-ICT binding parameters without conclusively identifying a preferred binding site, while Tf binding was strongly influenced by both ligand ionization and iron-loading state. Molecular docking, molecular dynamics simulations and MM/GBSA-MM/PBSA calculations demonstrated that neutral and monoanionic ICT species predominate under physiological conditions, with the monoanionic form displaying enhanced protein affinity. Additional ONIOM (Our Own N-layered Integrated Molecular Orbital and Molecular Mechanics) QM/MM calculations supported the electronic stabilization of the protein-ligand complexes. The obtained results demonstrate that ICT recognition by BSA and Tf in the investigated model systems depends on ligand ionization, protein architecture and the iron-loading state of transferrin, providing a molecular basis for understanding ICT-protein interactions and their potential relevance to serum protein binding.",
+    "keywords": [
+      "Icaritin",
+      "ONIOM",
+      "bovine serum albumin",
+      "molecular docking",
+      "molecular dynamics",
+      "transferrin"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Milisavljevic, Kristina",
+        "Mrkalic, Emina",
+        "Kaluderovic, Goran N",
+        "Milanovic, Ziko"
+      ],
+      "short_names": [
+        "Milisavljevic K",
+        "Mrkalic E",
+        "Kaluderovic GN",
+        "Milanovic Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute for Information Technologies, University of Kragujevac, Kragujevac, Serbia.",
+        "Department of Chemistry, Faculty of Science, University of Kragujevac, Kragujevac, Serbia.",
+        "Institute for Information Technologies, University of Kragujevac, Kragujevac, Serbia.",
+        "Department of Engineering and Natural Sciences, University of Applied Sciences Merseburg, Merseburg, Germany.",
+        "Institute for Information Technologies, University of Kragujevac, Kragujevac, Serbia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Milisavljević, Kristina",
+        "short_name": "Milisavljević K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Information Technologies, University of Kragujevac, Kragujevac, Serbia.",
+          "Department of Chemistry, Faculty of Science, University of Kragujevac, Kragujevac, Serbia."
+        ]
+      },
+      {
+        "full_name": "Mrkalić, Emina",
+        "short_name": "Mrkalić E",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Information Technologies, University of Kragujevac, Kragujevac, Serbia."
+        ]
+      },
+      {
+        "full_name": "Kaluđerović, Goran N",
+        "short_name": "Kaluđerović GN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Engineering and Natural Sciences, University of Applied Sciences Merseburg, Merseburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Milanović, Žiko",
+        "short_name": "Milanović Ž",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Information Technologies, University of Kragujevac, Kragujevac, Serbia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biomolecular structure & dynamics"
+    ],
+    "journal_abbrev": [
+      "J Biomol Struct Dyn"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 11:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43049173",
+      "42449203",
+      "41681149",
+      "27497200",
+      "40533629",
+      "38596890",
+      "27450299",
+      "41958090",
+      "37349936",
+      "41367345",
+      "40732335",
+      "42786864",
+      "35279499",
+      "40865813",
+      "41253193",
+      "38064964",
+      "30124142",
+      "43036520",
+      "40199882",
+      "30055454",
+      "35347772",
+      "41118130",
+      "31883206",
+      "42004332",
+      "40252367",
+      "28612369",
+      "28792461",
+      "38309006",
+      "39084139",
+      "41795257",
+      "42753635",
+      "31382111",
+      "42644341",
+      "29908138",
+      "37098825",
+      "31973869",
+      "29777928",
+      "27664380",
+      "42165692",
+      "35139760",
+      "29676099",
+      "33603022",
+      "38981287",
+      "32480277",
+      "28039847",
+      "26146359",
+      "20404192",
+      "37956472",
+      "31200302",
+      "42983184",
+      "37925954",
+      "30701606",
+      "40845604",
+      "29902757",
+      "38442614",
+      "42959737",
+      "31355368",
+      "42889520",
+      "28377238",
+      "30865872",
+      "27418394",
+      "26882128",
+      "39746215",
+      "26773261",
+      "39029202",
+      "21142219",
+      "35583491",
+      "41178195",
+      "28345378",
+      "26300521",
+      "29702339",
+      "42475469",
+      "33228044",
+      "38761474",
+      "33894572",
+      "24061159",
+      "37379766",
+      "40556003",
+      "29119261",
+      "38761495",
+      "32959848",
+      "37257323",
+      "36974960",
+      "32000060",
+      "29600590",
+      "32679511",
+      "37244028",
+      "30016096",
+      "28753530",
+      "32120287",
+      "33870854",
+      "26688207",
+      "27999283",
+      "24392106",
+      "39562073",
+      "42650819",
+      "39423554",
+      "42429787",
+      "21273024",
+      "20937032"
+    ],
+    "review": [
+      "43049173"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/07391102.2026.2761986?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

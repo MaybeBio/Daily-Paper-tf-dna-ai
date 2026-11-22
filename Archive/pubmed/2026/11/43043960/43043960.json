@@ -1,0 +1,386 @@
+{
+  "identity": {
+    "pmid": "43043960",
+    "doi": "10.1371/journal.pcbi.1014828",
+    "title": "Exploring the mechanism of oxfendazole in inhibiting osteosarcoma-induced osteolysis based on single-cell RNA seqsuencing."
+  },
+  "content": {
+    "abstract": "Osteosarcoma-associated osteolysis represents a major obstacle in the management of osteosarcoma. Within the osteolytic microenvironment, interactions between osteoclasts and tumor cells facilitate tumor proliferation and metastatic dissemination, and contribute to the development of pathological fractures. However, conventional osteoclast-targeting agents are insufficient to effectively suppress osteosarcoma-driven bone resorption. In this study, single-cell RNA sequencing was performed to identify critical regulators involved in osteoclast differentiation in the context of osteosarcoma. Using the Beyondcell platform, drugs targeting osteoclast-related signaling pathways were screened, and oxfendazole (OFN) was identified as a potential therapeutic candidate, with ANXA2 recognized as a key associated target. In vitro osteoclastogenesis assays and an in vivo tibial orthotopic osteosarcoma model demonstrated that oral administration of OFN via gavage effectively suppressed osteoclast formation and osteolytic activity, as confirmed by micro-CT and histopathological analyses. But OFN alone did not significantly inhibit osteosarcoma growth but effectively reduced osteoclast-mediated osteolysis. In addition, qRT-PCR and immunohistochemistry confirmed that OFN downregulates ANXA2 expression in vitro and in vivo, thereby impairing osteoclast differentiation. Molecular dynamics simulations combined with in-vitro validation further suggested that OFN may interact with the transcription factor ZNF530, leading to reduced ANXA2 transcription. In conclusion, the integration of single-cell RNA sequencing with the Beyondcell algorithm enabled the identification of OFN as a potent candidate agent for osteosarcoma-induced osteolysis. OFN attenuates osteoclastogenesis and bone resorption by suppressing ANXA2 expression. These findings provide preclinical evidence supporting the therapeutic potential of OFN in the treatment of osteosarcoma-associated osteolysis.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Osteosarcoma/drug therapy/genetics/complications",
+      "*Osteolysis/drug therapy/etiology/genetics",
+      "Animals",
+      "Osteoclasts/drug effects/metabolism",
+      "Mice",
+      "Humans",
+      "Cell Line, Tumor",
+      "*Bone Neoplasms/drug therapy/genetics",
+      "Single-Cell Analysis/methods",
+      "Osteogenesis/drug effects",
+      "RNA-Seq",
+      "Cell Differentiation/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Miao, Jifeng",
+        "Wang, Pintian",
+        "Feng, Wenyu",
+        "Quan, Haiyi",
+        "Lin, Yunhua",
+        "Wei, Gejin",
+        "Meng, Fake",
+        "Li, Shanhang",
+        "Yang, Mingxiu",
+        "Ning, Binyuan",
+        "Deng, Jingxin",
+        "Xiong, Liang",
+        "Hu, Jianming",
+        "Liu, Yun",
+        "Wei, Qingjun"
+      ],
+      "short_names": [
+        "Miao J",
+        "Wang P",
+        "Feng W",
+        "Quan H",
+        "Lin Y",
+        "Wei G",
+        "Meng F",
+        "Li S",
+        "Yang M",
+        "Ning B",
+        "Deng J",
+        "Xiong L",
+        "Hu J",
+        "Liu Y",
+        "Wei Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7745-1083",
+        "ORCID: 0009-0006-7190-6469"
+      ],
+      "affiliations": [
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Surgery, 923RD Hospital of PLA, Nanning, China.",
+        "Department of Spinal Surgery, The People's Hospital of Chongzuo, Chongzuo, China.",
+        "Department of Bone and Soft Tissue Tumor Surgery, Affiliated Tumor Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Miao, Jifeng",
+        "short_name": "Miao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Pintian",
+        "short_name": "Wang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Wenyu",
+        "short_name": "Feng W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Quan, Haiyi",
+        "short_name": "Quan H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yunhua",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Gejin",
+        "short_name": "Wei G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Surgery, 923RD Hospital of PLA, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Fake",
+        "short_name": "Meng F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Surgery, The People's Hospital of Chongzuo, Chongzuo, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shanhang",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bone and Soft Tissue Tumor Surgery, Affiliated Tumor Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Mingxiu",
+        "short_name": "Yang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Ning, Binyuan",
+        "short_name": "Ning B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Jingxin",
+        "short_name": "Deng J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Liang",
+        "short_name": "Xiong L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Jianming",
+        "short_name": "Hu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yun",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0002-7745-1083"
+        ],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Qingjun",
+        "short_name": "Wei Q",
+        "identifiers": [
+          "0009-0006-7190-6469"
+        ],
+        "affiliations": [
+          "Department of Spinal Bone Diseases Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+          "Department of Bone and Joint Diseases Surger, Second Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 17:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43043960",
+      "24443409",
+      "38558446",
+      "32550895",
+      "42101722",
+      "41174632",
+      "30317692",
+      "42849685",
+      "38728920",
+      "30025412",
+      "27838465",
+      "30536376",
+      "31205855",
+      "41740690",
+      "41801602",
+      "32226538",
+      "39936154",
+      "22574935",
+      "17121910",
+      "42365695",
+      "41124944",
+      "33859780",
+      "41868178",
+      "41963483",
+      "28088671",
+      "39701944",
+      "42462530",
+      "32976685",
+      "42700783",
+      "31328430",
+      "38479545",
+      "30857415",
+      "33934091",
+      "29656074",
+      "31020651",
+      "32722851",
+      "29459582",
+      "37877147",
+      "42418040",
+      "38901204",
+      "30815894",
+      "42574989",
+      "26743690",
+      "28965856",
+      "29130485",
+      "40398705",
+      "32488049",
+      "40913865",
+      "24125472",
+      "26363136",
+      "41692348",
+      "35077015",
+      "26965104",
+      "39098645",
+      "25016282",
+      "39150492",
+      "22913338",
+      "27787522",
+      "40834910",
+      "15476591",
+      "41905451",
+      "37828580",
+      "42837793",
+      "28731198",
+      "24950468",
+      "35588014",
+      "34815788",
+      "42142793",
+      "41935464",
+      "26861247",
+      "34801352",
+      "32103436",
+      "38579642",
+      "28681916",
+      "38522564",
+      "30469456",
+      "42229859",
+      "32200293",
+      "32527985",
+      "40319819",
+      "34080298",
+      "33156278",
+      "42166537",
+      "29932225",
+      "29775898",
+      "34738623",
+      "32363719",
+      "40999989",
+      "22090419",
+      "36906288",
+      "18852142",
+      "29192233",
+      "42612482",
+      "34004213",
+      "17883947",
+      "29946319",
+      "21955294",
+      "40081616",
+      "30515812",
+      "29274286"
+    ],
+    "review": [
+      "43043960"
+    ],
+    "pmc": [
+      "13777120"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/bonecancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Bone Cancer"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014828",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43043960/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-462",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

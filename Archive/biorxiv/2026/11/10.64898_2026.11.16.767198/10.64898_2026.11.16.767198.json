@@ -1,0 +1,692 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.16.767198",
+  "title": "SOX4 suppresses vascular calcification via DNA-binding-independent regulation of the USP10–HNRNPC–WNT5A axis",
+  "doi": "10.64898/2026.11.16.767198",
+  "abstract": "Background Vascular smooth muscle cell (VSMC) osteogenic differentiation drives vascular calcification, yet the endogenous mechanisms that restrain this transition remain poorly defined. SOX4 has recently emerged as a regulator of phenotype switching in endothelial and epithelial cells, but whether it governs VSMC fate and vascular calcification is unknown. Methods SOX4 expression was examined in human calcified arteries, in vitamin D3 (VitD3)-treated mouse aortas and in phosphate-treated human aortic smooth muscle cells. Loss- and gain-of-function experiments, an HMG-box-deleted SOX4 mutant, co-immunoprecipitation combined with mass spectrometry, ubiquitination and protein stability assays, RNA immunoprecipitation sequencing and mRNA decay assays were combined with VSMC-specific Sox4 knockout mice and pharmacological WNT5A inhibition. Results SOX4 protein was upregulated in calcified VSMCs and arteries, yet SOX4 loss aggravated and SOX4 overexpression attenuated VSMC osteogenic differentiation. A SOX4 mutant lacking the HMG-box retained anti-calcific activity, placing the function outside DNA binding. SOX4 interacted with HNRNPC and attenuated the HNRNPC–USP10 association, promoting K48-linked ubiquitination and proteasomal degradation of HNRNPC. HNRNPC bound WNT5A mRNA and was required for its stability, so that SOX4 reduced WNT5A expression. VSMC-specific Sox4 deletion aggravated VitD3-induced aortic calcification together with HNRNPC and WNT5A upregulation. Strengthening this braking axis with the WNT5A antagonist BOX5 attenuated VSMC osteogenic differentiation in vitro and vascular calcification in vivo in both genotypes, identifying WNT5A as a pharmacologically accessible node downstream of SOX4 loss. Conclusions SOX4 restrains VSMC osteogenic differentiation through post-transcriptional control of cell fate, defining a SOX4–HNRNPC–WNT5A axis and identifying it as a pharmacologically accessible target for vascular calcification.",
+  "authors": [
+    "Junbo Chen",
+    "He Cai",
+    "Xiaoyu Jin",
+    "Yi Li",
+    "Yingyi Zhu",
+    "Kefan Ma",
+    "He Liu",
+    "Xiaolong Zhu",
+    "Luyang Yu",
+    "Cong Qiu"
+  ],
+  "published_date": "2026-11-17",
+  "updated_date": "2026-11-17T17:05:15Z",
+  "journal": "bioRxiv",
+  "category": "Cell Biology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767198",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767198.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Cell Biology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Cell Biology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            20
+          ]
+        ],
+        "date-time": "2026-11-20T15:21:36Z",
+        "timestamp": 1795188096835,
+        "version": "4.10.3"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "group-title": "Cell Biology",
+      "reference-count": 51,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                17
+              ]
+            ],
+            "date-time": "2026-11-17T00:00:00Z",
+            "timestamp": 1794873600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Vascular smooth muscle cell (VSMC) osteogenic differentiation drives vascular calcification, yet the endogenous mechanisms that restrain this transition remain poorly defined. SOX4 has recently emerged as a regulator of phenotype switching in endothelial and epithelial cells, but whether it governs VSMC fate and vascular calcification is unknown.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>\n                    SOX4 expression was examined in human calcified arteries, in vitamin D3 (VitD3)-treated mouse aortas and in phosphate-treated human aortic smooth muscle cells. Loss- and gain-of-function experiments, an HMG-box-deleted SOX4 mutant, co-immunoprecipitation combined with mass spectrometry, ubiquitination and protein stability assays, RNA immunoprecipitation sequencing and mRNA decay assays were combined with VSMC-specific\n                    <jats:italic>Sox4</jats:italic>\n                    knockout mice and pharmacological WNT5A inhibition.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    SOX4 protein was upregulated in calcified VSMCs and arteries, yet SOX4 loss aggravated and SOX4 overexpression attenuated VSMC osteogenic differentiation. A SOX4 mutant lacking the HMG-box retained anti-calcific activity, placing the function outside DNA binding. SOX4 interacted with HNRNPC and attenuated the HNRNPC–USP10 association, promoting K48-linked ubiquitination and proteasomal degradation of HNRNPC. HNRNPC bound WNT5A mRNA and was required for its stability, so that SOX4 reduced WNT5A expression. VSMC-specific\n                    <jats:italic>Sox4</jats:italic>\n                    deletion aggravated VitD3-induced aortic calcification together with HNRNPC and WNT5A upregulation. Strengthening this braking axis with the WNT5A antagonist BOX5 attenuated VSMC osteogenic differentiation\n                    <jats:italic>in vitro</jats:italic>\n                    and vascular calcification\n                    <jats:italic>in vivo</jats:italic>\n                    in both genotypes, identifying WNT5A as a pharmacologically accessible node downstream of SOX4 loss.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>SOX4 restrains VSMC osteogenic differentiation through post-transcriptional control of cell fate, defining a SOX4–HNRNPC–WNT5A axis and identifying it as a pharmacologically accessible target for vascular calcification.</jats:p>\n                </jats:sec>",
+      "DOI": "10.64898/2026.11.16.767198",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ],
+        "date-time": "2026-11-17T17:05:15Z",
+        "timestamp": 1794935115000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "SOX4 suppresses vascular calcification via DNA-binding-independent regulation of the USP10–HNRNPC–WNT5A axis"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Junbo",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "MOE Laboratory of Biosystems Homeostasis & Protection, College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China"
+            },
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "He",
+          "family": "Cai",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Laboratory of Biosystems Homeostasis & Protection, College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China"
+            },
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaoyu",
+          "family": "Jin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Laboratory of Biosystems Homeostasis & Protection, College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yi",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Laboratory of Biosystems Homeostasis & Protection, College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China"
+            },
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yingyi",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Laboratory of Biosystems Homeostasis & Protection, College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China"
+            },
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kefan",
+          "family": "Ma",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Laboratory of Biosystems Homeostasis & Protection, College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China"
+            },
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "He",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            },
+            {
+              "name": "Department of Cardiology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaolong",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Laboratory of Biosystems Homeostasis & Protection, College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China"
+            },
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1301-6285",
+          "authenticated-orcid": false,
+          "given": "Luyang",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            },
+            {
+              "name": "Department of Cardiology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China"
+            },
+            {
+              "name": "Cancer Center, Zhejiang University, Hangzhou, 310058, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cong",
+          "family": "Qiu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Laboratory of Biosystems Homeostasis & Protection, College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China"
+            },
+            {
+              "name": "HMU-ZJU Joint Laboratory for Molecular Intervention of Cardiovascular Disease, Heilongjiang Provincial Key Laboratory of Cardiovascular Disease Intervention, School of Basic Medical Sciences, Harbin Medical University, Harbin 150081, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/cvr/cvy010"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "551",
+          "DOI": "10.1161/CIRCRESAHA.125.326520",
+          "article-title": "TRIM16 Mediates K63-Linked Ubiquitination of DAB2 to Facilitate Vascular Calcification",
+          "volume": "137",
+          "year": "2025",
+          "journal-title": "Circ Res"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI150051"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.tcm.2014.10.021"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.5",
+          "doi-asserted-by": "crossref",
+          "first-page": "8074",
+          "DOI": "10.1038/s41467-025-63462-7",
+          "article-title": "NEXN protects against vascular calcification by promoting SERCA2 SUMOylation and stabilization",
+          "volume": "16",
+          "year": "2025",
+          "journal-title": "Nat Commun"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jin J , He Y , Guo J , Pan Q , Wei X , Xu C , Qi Z , Li Q , Ma S , Lin J . BACH1 controls hepatic insulin signaling and glucose homeostasis in mice. Nat Commun. 2023:8428.",
+          "DOI": "10.1038/s41467-023-44088-z"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zhang X , Wang P , Liu LH , Zhang QT , Lv YQ , Yang HR , Hou YM , Li N , Cheng J , Wang ZY . Interleukin enhancer binding factor 3 exacerbates cardiac inflammation and injury following myocardial infarction by inhibiting Lys48-linked ubiquitination on HNRNPA2B1 in macrophages. Cell Mol Immunol. 2026:654–672.",
+          "DOI": "10.1038/s41423-026-01417-8"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/CIRCULATIONAHA.121.057620"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ccr.2013.04.020"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1016/j.jare.2022.02.017",
+          "article-title": "SOX4 is a novel phenotypic regulator of endothelial cells in atherosclerosis revealed by single-cell analysis",
+          "volume": "43",
+          "year": "2023",
+          "journal-title": "J Adv Res"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI184115"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkac652"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-021-22717-9"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/ATVBAHA.115.306091"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/circresaha.123.323365"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI170369"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-024-47413-2"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI175972"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chiang HY , Chu PH , Chen SC , Lee TH . MFG-E8 promotes osteogenic transdifferentiation of smooth muscle cells and vascular calcification by regulating TGF-beta1 signaling. Commun Biol. 2022;5:364.",
+          "DOI": "10.1038/s42003-022-03313-z"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "e70271",
+          "DOI": "10.1096/fj.202401649RR",
+          "article-title": "O-GlcNAc transferase promotes vascular smooth muscle calcification through modulating Wnt/beta-catenin signaling",
+          "volume": "38",
+          "year": "2024",
+          "journal-title": "FASEB J"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2016.01.009"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.22",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sun J , Xiong Y , Jiang K , Xin B , Jiang T , Wei R , Zou Y , Tan H , Jiang T , Yang A . Hypoxia-sensitive long noncoding RNA CASC15 promotes lung tumorigenesis by regulating the SOX4/beta-catenin axis. J Exp Clin Cancer Res. 2021;40:12.",
+          "DOI": "10.1186/s13046-020-01806-5"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/circresaha.121.319745"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "658",
+          "DOI": "10.1093/cvr/cvae035",
+          "article-title": "Smooth muscle cell-specific matrix metalloproteinase 3 deletion reduces osteogenic transformation and medial artery calcification",
+          "volume": "120",
+          "year": "2024",
+          "journal-title": "Cardiovasc Res"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1210/er.2002-0025"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M111.297028"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.27",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chen Q , Jin M , Zhu J , Xiao Q , Zhang L . Functions of heterogeneous nuclear ribonucleoproteins in stem cell potency and differentiation. Biomed Res Int. 2013;2013:623978.",
+          "DOI": "10.1155/2013/623978"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wang Y , Yang T , Li Q , Zheng Z , Liao L , Cen J , Chen W , Luo J , Xu Y , Zhou M , Zhang J . circASAP1 induces renal clear cell carcinoma ferroptosis by binding to HNRNPC and thereby regulating GPX4. Mol Cancer. 2025;24:1.",
+          "DOI": "10.1186/s12943-024-02122-8"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.29",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Xia X , Liu X , Chai R , Xu Q , Luo Z , Gu J , Jin Y , Hu T , Yu C , Du B . USP10 exacerbates neointima formation by stabilizing Skp2 protein in vascular smooth muscle cells. J Biol Chem. 2021;297:101258.",
+          "DOI": "10.1016/j.jbc.2021.101258"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/CIRCULATIONAHA.123.063760"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.31",
+          "doi-asserted-by": "crossref",
+          "first-page": "2388",
+          "DOI": "10.7150/ijbs.88313",
+          "article-title": "Cancer-derived exosomal lncRNA SNHG3 promotes the metastasis of colorectal cancer through hnRNPC-mediating RNA stability of beta-catenin",
+          "volume": "20",
+          "year": "2024",
+          "journal-title": "Int J Biol Sci"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.32",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chen JJ , Lu TZ , Wang T , Yan WH , Zhong FY , Qu XH , Gong XC , Li JG , Tou FF , Jiang LP , Han XJ . The m6A reader HNRNPC promotes glioma progression by enhancing the stability of IRAK1 mRNA through the MAPK pathway. Cell Death Dis. 2024;15:390.",
+          "DOI": "10.1038/s41419-024-06736-0"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.33",
+          "first-page": "e2412196",
+          "article-title": "hnRNPC Functions with HuR to Regulate Alternative Splicing in an m6A-Dependent Manner and is Essential for Meiosis",
+          "volume": "12",
+          "year": "2025",
+          "journal-title": "Adv Sci (Weinh"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.34",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zheng Z , Zeng X , Zhu Y , Leng M , Zhang Z , Wang Q , Liu X , Zeng S , Xiao Y , Hu C . CircPPAP2B controls metastasis of clear cell renal cell carcinoma via HNRNPC-dependent alternative splicing and targeting the miR-182-5p/CYP1B1 axis. Mol Cancer. 2024;23:4.",
+          "DOI": "10.1186/s12943-023-01912-w"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.35",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Liu YY , Xia M , Chen ZB , Liao YD , Zhang CY , Yuan L , Pan YW , Huang H , Lu HW , Yao SZ . HNRNPC mediates lymphatic metastasis of cervical cancer through m6A-dependent alternative splicing of FOXM1. Cell Death Dis. 2024;15:732.",
+          "DOI": "10.1038/s41419-024-07108-4"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "275",
+          "DOI": "10.1182/blood.2024026848",
+          "article-title": "HNRNPC and m6A RNA methylation control oncogenic transcription and metabolism in T-cell leukemia",
+          "volume": "146",
+          "year": "2025",
+          "journal-title": "Blood"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ncomms2087"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI134431"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.39",
+          "doi-asserted-by": "crossref",
+          "first-page": "5248",
+          "DOI": "10.1016/j.ymthe.2025.06.039",
+          "article-title": "Targeting WNT5A noncanonical signaling attenuates renal fibrosis progression in acute kidney injury",
+          "volume": "33",
+          "year": "2025",
+          "journal-title": "Mol Ther"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.40",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Liu D , Du J , Xie H , Tian H , Lu L , Zhang C , Xu GT , Zhang J . Wnt5a/beta-catenin-mediated epithelial-mesenchymal transition: a key driver of subretinal fibrosis in neovascular age-related macular degeneration. J Neuroinflammation. 2024;21:75.",
+          "DOI": "10.1186/s12974-024-03068-w"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.41",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wu J , Xu H , Wang S , Weng H , Luo Z , Ou G , Chen Y , Xu L , So KF , Deng L . Regular exercise ameliorates high-fat diet-induced depressive-like behaviors by activating hippocampal neuronal autophagy and enhancing synaptic plasticity. Cell Death Dis. 2024;15:737.",
+          "DOI": "10.1038/s41419-024-07132-4"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jacc.2021.06.049"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/ATVBAHA.121.316252"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.44",
+          "doi-asserted-by": "crossref",
+          "first-page": "e2310909",
+          "DOI": "10.1001/jamanetworkopen.2023.10909",
+          "article-title": "Progression of Vascular Calcification and Clinical Outcomes in Patients Receiving Maintenance Dialysis",
+          "volume": "6",
+          "year": "2023",
+          "journal-title": "JAMA Netw Open"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.45",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bin S , Xinyi F , Huan P , Xiaoqin Z , Jiming W , Yi H , Ziyue L , Xiaochun Z , Zhouqi L , Bangwei Z . SOX4 as a potential therapeutic target for pathological cardiac hypertrophy. Eur J Pharmacol. 2023;958:176071.",
+          "DOI": "10.1016/j.ejphar.2023.176071"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jcp.29918"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.47",
+          "doi-asserted-by": "crossref",
+          "first-page": "1872",
+          "DOI": "10.1161/ATVBAHA.125.322549",
+          "article-title": "NAMPT Is A Novel Inhibitor of Vascular Calcification in Chronic Kidney Disease",
+          "volume": "45",
+          "year": "2025",
+          "journal-title": "Arterioscler Thromb Vasc Biol"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.48",
+          "doi-asserted-by": "crossref",
+          "first-page": "4961",
+          "DOI": "10.1038/s41598-018-23353-y",
+          "article-title": "Ucma/GRP inhibits phosphate-induced vascular smooth muscle cell calcification via SMAD-dependent BMP signalling",
+          "volume": "8",
+          "year": "2018",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-026-71084-w"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0810147106"
+        },
+        {
+          "key": "2026112006500559000_2026.11.16.767198v1.51",
+          "first-page": "359",
+          "article-title": "SOX4 regulates invasion of bladder cancer cells via repression of WNT5a",
+          "volume": "55",
+          "year": "2019",
+          "journal-title": "Int J Oncol"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.16.767198",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            20
+          ]
+        ],
+        "date-time": "2026-11-20T14:50:14Z",
+        "timestamp": 1795186214000
+      },
+      "score": 109.6976,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.16.767198"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "references-count": 51,
+      "URL": "https://doi.org/10.64898/2026.11.16.767198",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

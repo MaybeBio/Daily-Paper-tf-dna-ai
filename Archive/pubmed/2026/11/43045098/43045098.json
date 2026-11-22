@@ -1,0 +1,306 @@
+{
+  "identity": {
+    "pmid": "43045098",
+    "doi": "10.19540/j.cnki.cjcmm.20260601.703",
+    "title": "[Mechanism of Jiangxinwei Compound improving chronic obstructive pulmonary disease by regulating ferroptosis based on network pharmacology and experimental validation]."
+  },
+  "content": {
+    "abstract": "Based on network pharmacology and molecular docking, this study investigated the mechanism of action of Jiangxinwei Compound, which was composed of Zingiberis Rhizoma, Asari Radix et Rhizoma, and Schisandrae Chinensis Fructus. Through dually targeting the glycogen synthase kinase-3beta(GSK-3beta)/nuclear factor erythroid 2-related factor 2(NRF2)/glutathione peroxidase 4(GPX4) axis, and prostaglandin-endoperoxide synthase 2(PTGS2), the compound inhibited ferroptosis, enhanced antioxidant capacity, and alleviated chronic obstructive pulmonary disease(COPD). In this study, a COPD rat model was established by combining lipopolysaccharide(LPS) and cigarette smoke(CS). Forty-eight rats were randomly divided into a blank group, a model group, a dexamethasone group, and Jiangxinwei Compound groups with low, medium, and high doses, with eight rats per group. After intervention, body weights, lung function, histopathology, inflammatory markers, and ferroptosis markers were assessed. Western blot and immunofluorescence were used to detect the protein expressions of PTGS2, phosphorylated-GSK-3beta(p-GSK-3beta), NRF2, and GPX4 in lung tissue, while real-time quantitative polymerase chain reaction(RT-qPCR) was used to measure the corresponding mRNA levels. The results show that, compared with the model group, the Jiangxinwei Compound groups exhibit significantly improved lung function, alleviated pathological injury of lung tissue, reduced levels of the inflammatory cytokines, such as interleukin-6(IL-6) and tumor necrosis factor-alpha(TNF-alpha) in bronchoalveolar lavage fluid(BALF), decreased levels of ferroptosis markers including reactive oxygen species(ROS), malondialdehyde(MDA), and ferrous ion(Fe~(2+)) in lung tissue, and increased level of the antioxidant indicator reduced glutathione(GSH). Western blot and qPCR also reveal that the Jiangxinwei Compound downregulates PTGS2 expression and upregulates p-GSK-3beta, NRF2, and GPX4 expression. The RT-qPCR results show that Jiangxinwei Compound downregulates the mRNA expression of PTGS2 and upregulates those of NRF2 and GPX4. In summary, the Jiangxinwei Compound effectively ameliorates lung dysfunction and inflammation in COPD rats, and its mechanism of action may involve dual targeting of the GSK-3beta/NRF2/GPX4 axis and PTGS2, thereby inhibiting ferroptosis and enhancing antioxidant capacity in lung tissue.",
+    "keywords": [
+      "COPD",
+      "GSK-3beta/NRF2/GPX4",
+      "Jiangxinwei Compound",
+      "PTGS2",
+      "ferroptosis",
+      "oxidative stress"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Drugs, Chinese Herbal/administration & dosage",
+      "Rats",
+      "Network Pharmacology",
+      "*Ferroptosis/drug effects",
+      "Male",
+      "*Pulmonary Disease, Chronic Obstructive/drug therapy/metabolism/genetics/physiopathology",
+      "Rats, Sprague-Dawley",
+      "Cyclooxygenase 2/metabolism/genetics",
+      "Glycogen Synthase Kinase 3 beta/metabolism/genetics",
+      "NF-E2-Related Factor 2/genetics/metabolism",
+      "Humans",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Cheng-Ye",
+        "Yu, Li-Qiu",
+        "Sun, Xin",
+        "Wei, Jian-Lin",
+        "Li, Meng-Fan",
+        "Cui, Wen-Jie",
+        "An, Xue-Jing",
+        "Zhang, Jia-Yu",
+        "Wang, Zhui-En",
+        "Yang, Yi"
+      ],
+      "short_names": [
+        "Chen CY",
+        "Yu LQ",
+        "Sun X",
+        "Wei JL",
+        "Li MF",
+        "Cui WJ",
+        "An XJ",
+        "Zhang JY",
+        "Wang ZE",
+        "Yang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China.",
+        "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Cheng-Ye",
+        "short_name": "Chen CY",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Li-Qiu",
+        "short_name": "Yu LQ",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xin",
+        "short_name": "Sun X",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Jian-Lin",
+        "short_name": "Wei JL",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Li, Meng-Fan",
+        "short_name": "Li MF",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Wen-Jie",
+        "short_name": "Cui WJ",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "An, Xue-Jing",
+        "short_name": "An XJ",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jia-Yu",
+        "short_name": "Zhang JY",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhui-En",
+        "short_name": "Wang ZE",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yi",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Medical and Pharmaceutical University Yantai 264003, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica"
+    ],
+    "journal_abbrev": [
+      "Zhongguo Zhong Yao Za Zhi"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 23:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43045098",
+      "42869827",
+      "39307771",
+      "39523094",
+      "42543340",
+      "42392751",
+      "40889519",
+      "42979932",
+      "41987446",
+      "38615654",
+      "40962721",
+      "38845495",
+      "37987130",
+      "42184495",
+      "41508216",
+      "34934311",
+      "42015776",
+      "31898571",
+      "38750986",
+      "42281538",
+      "39910464",
+      "41687318",
+      "42011616",
+      "36167232",
+      "40350871",
+      "41184109",
+      "40350883",
+      "41558707",
+      "40066086",
+      "37827295",
+      "40490825",
+      "41814798",
+      "42815595",
+      "41958127",
+      "39292340",
+      "37605161",
+      "42033558",
+      "38114118",
+      "43045134",
+      "41496854",
+      "42000629",
+      "42464548",
+      "27480657",
+      "40191262",
+      "34402290",
+      "35988428",
+      "42032961",
+      "42045023",
+      "32920133",
+      "41443917",
+      "21717156",
+      "39167283",
+      "40378934",
+      "41840883",
+      "42447185",
+      "26485917",
+      "39965709",
+      "40316154",
+      "40222690",
+      "41814739",
+      "32642794",
+      "41015803",
+      "37392674",
+      "41365194",
+      "42688597",
+      "40614460",
+      "39307769",
+      "40613296",
+      "34751118",
+      "39222758",
+      "41814742",
+      "39957162",
+      "41839580",
+      "39681488",
+      "31315730",
+      "41121022",
+      "39929629",
+      "39807342",
+      "34856477",
+      "39041134",
+      "38621978",
+      "26704155",
+      "41539091",
+      "40903063",
+      "40201998",
+      "37366125",
+      "41814826",
+      "40085199",
+      "39652902",
+      "38178661",
+      "41508238",
+      "39701802",
+      "30585452",
+      "40819945",
+      "40897231",
+      "34942457",
+      "37752041",
+      "34699317",
+      "40886473",
+      "41084429"
+    ],
+    "review": [
+      "43045098"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/copd.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COPD"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PTGS2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

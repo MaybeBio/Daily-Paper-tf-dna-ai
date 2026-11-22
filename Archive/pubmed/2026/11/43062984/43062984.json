@@ -1,0 +1,285 @@
+{
+  "identity": {
+    "pmid": "43062984",
+    "doi": "10.1093/jpp/rgag151",
+    "title": "Malva parviflora leaves ameliorated cisplatin nephrotoxicity by targeting PPAR-alpha, HMGB-1/TLR-4, and TNFR-1/RIPK1/RIPK3/MLKL axes."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: This study aimed to assess the nephroptotective activity of Malva parviflora L. leaves extract (MPLE) against the potent anticancer, cisplatin. METHODS: MPLE was chemically profiled using liquid chromatography-quadrupole time-of-flight tandem mass spectrometry and different in vitro analyses. Then, its activity was assessed in vivo model at low and high dose levels (250 and 500 mg/kg). Finally, molecular docking elucidated the key bioactive metabolites in MPLE. KEY FINDINGS: 101 metabolites of diverse chemical classes were identified in MPLE. MPLE had total phenolics and total flavonoids of 10.6 +/- 0.2, 6.5 +/- 0.1 mug gallic acid equivalent/mg extract, mug quercetin equivalent/mg extract, respectively. Moreover, it was effective in different in vitro antioxidant assays. In vivo model, MPLE reduced the elevation in creatinine, blood urea nitrogen, cystatin C and renal content of neutrophil gelatinase-associated lipocalin and kidney injury molecule-1. Mechanistically, MPLE halted oxidative stress, inflammation, and necroptosis by targeting peroxisome proliferator-activated receptor-alpha (PPAR-alpha), HMGB-1/TLR-4, and downregulation of TNFR-1/RIPK1/RIPK3/MLKL axes, respectively. The ameliorative activity was further supported by the histopathological examination. Molecular docking elucidated that 8-hydroxy flavonoids, e.g. gossypetin and hypolaetin, had a high affinity, to the molecular targets PPAR-alpha, tumor necrosis factor alpha, and tumor necrosis factor receptor 1. CONCLUSIONS: MPLE is a multi-target nephroprotective agent against cisplatin. Further pharmacological and clinical studies are needed before its integration in clinical studies.",
+    "keywords": [
+      "Malva parviflora",
+      "cisplatin",
+      "necroptosis",
+      "nephroprotective"
+    ],
+    "mesh_terms": [
+      "*Cisplatin/toxicity/adverse effects",
+      "Animals",
+      "Plant Leaves/chemistry",
+      "*Plant Extracts/pharmacology/isolation & purification",
+      "PPAR alpha/metabolism",
+      "HMGB1 Protein/metabolism",
+      "*Malva/chemistry",
+      "Molecular Docking Simulation",
+      "Toll-Like Receptor 4/metabolism",
+      "Receptors, Tumor Necrosis Factor, Type I/metabolism",
+      "Male",
+      "Oxidative Stress/drug effects",
+      "Antioxidants/pharmacology",
+      "Antineoplastic Agents/toxicity",
+      "Kidney/drug effects/pathology/metabolism",
+      "Signal Transduction/drug effects",
+      "Mice"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Khalil, Mohammed Nabil Ahmed",
+        "Rabie, Mostafa Adel",
+        "Mohamed, Ahmed Fathi",
+        "Eltanany, Basma Mahmoud",
+        "Pont, Laura",
+        "Benavente, Fernando",
+        "El Motayam, Amira Kamal"
+      ],
+      "short_names": [
+        "Khalil MNA",
+        "Rabie MA",
+        "Mohamed AF",
+        "Eltanany BM",
+        "Pont L",
+        "Benavente F",
+        "El Motayam AK"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1134-1164",
+        "ORCID: 0000-0001-9488-2320",
+        "ORCID: 0000-0002-7678-0643",
+        "ORCID: 0000-0002-1803-962X",
+        "ORCID: 0000-0003-0520-0450",
+        "ORCID: 0000-0002-1688-1477",
+        "ORCID: 0000-0001-5742-7126"
+      ],
+      "affiliations": [
+        "Department of Pharmacognosy, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt.",
+        "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt.",
+        "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt.",
+        "Department of Pharmacology and Toxicology, Faculty of Pharmacy, King Salman International University (KSIU), Obour St., Ras Sedr, South Sinai 46612, Egypt.",
+        "Department of Pharmaceutical Analytical Chemistry, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt.",
+        "Department of Chemical Engineering and Analytical Chemistry, Institute for Research on Nutrition and Food Safety (INSA.UB), University of Barcelona, Carrer Marti i Franques 1-11, 08028, Barcelona, Spain.",
+        "Serra Hunter Program, Generalitat de Catalunya, 08007 Barcelona, Spain.",
+        "Department of Chemical Engineering and Analytical Chemistry, Institute for Research on Nutrition and Food Safety (INSA.UB), University of Barcelona, Carrer Marti i Franques 1-11, 08028, Barcelona, Spain.",
+        "Department of Pharmacognosy, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Khalil, Mohammed Nabil Ahmed",
+        "short_name": "Khalil MNA",
+        "identifiers": [
+          "0000-0002-1134-1164"
+        ],
+        "affiliations": [
+          "Department of Pharmacognosy, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt."
+        ]
+      },
+      {
+        "full_name": "Rabie, Mostafa Adel",
+        "short_name": "Rabie MA",
+        "identifiers": [
+          "0000-0001-9488-2320"
+        ],
+        "affiliations": [
+          "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt."
+        ]
+      },
+      {
+        "full_name": "Mohamed, Ahmed Fathi",
+        "short_name": "Mohamed AF",
+        "identifiers": [
+          "0000-0002-7678-0643"
+        ],
+        "affiliations": [
+          "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt.",
+          "Department of Pharmacology and Toxicology, Faculty of Pharmacy, King Salman International University (KSIU), Obour St., Ras Sedr, South Sinai 46612, Egypt."
+        ]
+      },
+      {
+        "full_name": "Eltanany, Basma Mahmoud",
+        "short_name": "Eltanany BM",
+        "identifiers": [
+          "0000-0002-1803-962X"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Analytical Chemistry, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt."
+        ]
+      },
+      {
+        "full_name": "Pont, Laura",
+        "short_name": "Pont L",
+        "identifiers": [
+          "0000-0003-0520-0450"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering and Analytical Chemistry, Institute for Research on Nutrition and Food Safety (INSA·UB), University of Barcelona, Carrer Martí i Franquès 1-11, 08028, Barcelona, Spain.",
+          "Serra Húnter Program, Generalitat de Catalunya, 08007 Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Benavente, Fernando",
+        "short_name": "Benavente F",
+        "identifiers": [
+          "0000-0002-1688-1477"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering and Analytical Chemistry, Institute for Research on Nutrition and Food Safety (INSA·UB), University of Barcelona, Carrer Martí i Franquès 1-11, 08028, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "El Motayam, Amira Kamal",
+        "short_name": "El Motayam AK",
+        "identifiers": [
+          "0000-0001-5742-7126"
+        ],
+        "affiliations": [
+          "Department of Pharmacognosy, Faculty of Pharmacy, Cairo University, Kasr El Aini St., Cairo 11562, Egypt."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of pharmacy and pharmacology"
+    ],
+    "journal_abbrev": [
+      "J Pharm Pharmacol"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 17:32",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43062984",
+      "39490430",
+      "38361048",
+      "30119252",
+      "40345103",
+      "31926251",
+      "31315969",
+      "42766218",
+      "37442489",
+      "32673708",
+      "29217496",
+      "31152701",
+      "27780138",
+      "40853502",
+      "42391880",
+      "40752598",
+      "32387231",
+      "42376529",
+      "31146106",
+      "42302947",
+      "38909496",
+      "33049997",
+      "25184746",
+      "42097338",
+      "30798126",
+      "29024717",
+      "40107942",
+      "31197431",
+      "41361550",
+      "42262669",
+      "32169782",
+      "29155898",
+      "42379538",
+      "41534753",
+      "38403004",
+      "31234591",
+      "39469724",
+      "42829133",
+      "40318271",
+      "24001301",
+      "39978533",
+      "28738532",
+      "29200200",
+      "39566023",
+      "38731418",
+      "32378560",
+      "40768867",
+      "28686978",
+      "40728195",
+      "40793985",
+      "31291963",
+      "41192355",
+      "28064632",
+      "41999298",
+      "27224243",
+      "41844019",
+      "41558388",
+      "38675549",
+      "32209424",
+      "38529813",
+      "39506243",
+      "34253216",
+      "30206656",
+      "24025684",
+      "42012660",
+      "22571266",
+      "26062799",
+      "25488130",
+      "31376360",
+      "42638233",
+      "40684492",
+      "41955698",
+      "28703736",
+      "41785409",
+      "39025164",
+      "41962267",
+      "40578675",
+      "27649238",
+      "41097169",
+      "26613959",
+      "25561092",
+      "29752894",
+      "22551254",
+      "31244366",
+      "41524844",
+      "39987517",
+      "34032977",
+      "40192335",
+      "41638458",
+      "22987311",
+      "26536032",
+      "32856312",
+      "39374881",
+      "24521009",
+      "42359648",
+      "30077837",
+      "27273121",
+      "39596166",
+      "31014901",
+      "18380170"
+    ],
+    "review": [
+      "43062984",
+      "41999298"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

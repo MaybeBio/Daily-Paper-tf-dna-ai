@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "43058500",
+    "doi": "10.1186/s12876-026-05239-w",
+    "title": "Single-cell and spatial transcriptomics reveal glycolytic remodeling and ENO1-associated metabolic vulnerability in hepatoblastoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Hepatoblastoma (HB) is the most common malignant liver tumor in children; however, the contribution of glycolytic metabolic reprogramming to HB development and progression remains incompletely characterized. METHODS: We integrated single-cell RNA sequencing and spatial transcriptomic datasets of HB from the GEO database. Glycometabolic pathway activity was quantified using scMetabolism, and pseudotime and transcription factor activity analyses were performed to characterize regulatory programs associated with glycolytic reprogramming. CellChat and spatial transcriptomics were applied to examine predicted tumor-immune communication. hdWGCNA combined with differential expression analysis was used to prioritize glycolysis-associated genes. ENO1 was further evaluated by in silico network perturbation, two independent shRNAs in vitro, and computational compound prioritization followed by molecular docking and a 100-ns molecular dynamics simulation. RESULTS: The single-cell atlas resolved 10 major cell types and revealed elevated glycolysis/gluconeogenesis pathway scores in malignant epithelial cells. Pseudotime analysis showed increasing glycolytic activity along the inferred epithelial trajectory. CellChat predicted enhanced MDK-NCL communication between Glyco_High tumor cells and neutrophils, while spatial analysis showed regional concordance between MDK/NCL co-expression and high-glycolysis areas. hdWGCNA identified three glycolysis-associated candidate genes: ENO1, AKR1A1, and AHCY. In silico ENO1 perturbation was associated with altered inferred regulatory activity of approximately 2.1% of genes. Two independent ENO1-targeting shRNAs produced concordant reductions in proliferation, colony formation, lactate production, and glucose consumption in HepG2 and Huh6 cells. BRD-K14653796 was computationally prioritized, and the modeled ENO1-compound complex remained conformationally stable under the specified simulation conditions. CONCLUSIONS: This study characterizes glycolytic heterogeneity in HB at single-cell and spatial resolution and nominates ENO1 as a candidate metabolic vulnerability in CNV-high putative malignant epithelial cells. It also highlights a computationally predicted MDK-NCL-associated tumor-immune communication pattern and provides testable hypotheses for future preclinical validation.",
+    "keywords": [
+      "ENO1",
+      "Glycolysis",
+      "Hepatoblastoma",
+      "Single-cell transcriptomics",
+      "Spatial transcriptomics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Hepatoblastoma/genetics/metabolism",
+      "*Phosphopyruvate Hydratase/genetics/metabolism",
+      "*Glycolysis/genetics",
+      "*Tumor Suppressor Proteins/genetics/metabolism",
+      "*DNA-Binding Proteins/genetics/metabolism",
+      "*Liver Neoplasms/genetics/metabolism",
+      "Metabolic Reprogramming",
+      "Spatial Transcriptomics",
+      "Single-Cell Analysis",
+      "Gluconeogenesis/genetics",
+      "Single-Cell Gene Expression Analysis",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Xiongwei",
+        "Zhou, Pingping",
+        "Wu, Siyan",
+        "Zhang, Zhengshou",
+        "Jian, Xuemin"
+      ],
+      "short_names": [
+        "Wu X",
+        "Zhou P",
+        "Wu S",
+        "Zhang Z",
+        "Jian X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Surgical Oncology, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China.",
+        "Department of Pediatric Surgery, Affiliated Hospital of Qingdao University, Qingdao, China.",
+        "Department of Surgical Oncology, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China.",
+        "Department of Critical Care Medicine, Qingdao Traditional Chinese Medicine Hospital (Qingdao Hiser Hospital Affiliated to Qingdao University), Qingdao, China.",
+        "NHC Key Laboratory of Nuclear Technology Medical Transformation, Mianyang Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Mianyang, China. jian13238440365@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Xiongwei",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgical Oncology, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Pingping",
+        "short_name": "Zhou P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Surgery, Affiliated Hospital of Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Siyan",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgical Oncology, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhengshou",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Critical Care Medicine, Qingdao Traditional Chinese Medicine Hospital (Qingdao Hiser Hospital Affiliated to Qingdao University), Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Jian, Xuemin",
+        "short_name": "Jian X",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Nuclear Technology Medical Transformation, Mianyang Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Mianyang, China. jian13238440365@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC gastroenterology"
+    ],
+    "journal_abbrev": [
+      "BMC Gastroenterol"
+    ],
+    "pub_date": "2026 Aug 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 05:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43058500",
+      "42717115",
+      "42131349",
+      "41917876",
+      "40764361",
+      "42595076",
+      "42142700",
+      "42486346",
+      "41088215",
+      "42585781",
+      "42709341",
+      "39689434",
+      "42371343",
+      "40507914",
+      "42495647",
+      "41716413",
+      "42923340",
+      "39147318",
+      "41168198",
+      "32226539",
+      "39380054",
+      "25887760",
+      "42689981",
+      "40790564",
+      "40983627",
+      "37800625",
+      "42523085",
+      "39503165",
+      "37334727",
+      "42321826",
+      "42340494",
+      "41849075",
+      "41771848",
+      "42671335",
+      "41953013",
+      "41410498",
+      "41382193",
+      "42304476",
+      "33067426",
+      "40396179",
+      "28548950",
+      "41430698",
+      "42614523",
+      "42166004",
+      "42624838",
+      "34312368",
+      "40121292",
+      "38840205",
+      "42136962",
+      "42670058",
+      "42195019",
+      "41902335",
+      "42837794",
+      "37980488",
+      "42338981",
+      "41771574",
+      "36494582",
+      "41451236",
+      "42510881",
+      "29497031",
+      "37810778",
+      "42625209",
+      "41694378",
+      "42945225",
+      "31218757",
+      "42196455",
+      "40234326",
+      "41736104",
+      "42263871",
+      "43063789",
+      "41705236",
+      "42611083",
+      "35316145",
+      "41063235",
+      "42279338",
+      "41514669",
+      "42052835",
+      "42903126",
+      "42997265",
+      "34000466",
+      "26882120",
+      "43028149",
+      "43042022",
+      "39914449",
+      "40688093",
+      "25951350",
+      "30582908",
+      "41987092",
+      "42385356",
+      "39446384",
+      "39948547",
+      "40618698",
+      "39828712",
+      "42079653",
+      "42265520",
+      "41812066",
+      "42270806",
+      "42107066",
+      "41764959",
+      "40865843"
+    ],
+    "review": [
+      "43058500",
+      "42196455"
+    ],
+    "pmc": [
+      "13786673"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

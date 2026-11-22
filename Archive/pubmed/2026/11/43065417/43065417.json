@@ -1,0 +1,357 @@
+{
+  "identity": {
+    "pmid": "43065417",
+    "doi": "10.3389/fimmu.2026.1952064",
+    "title": "Immediate early response 3 promotes airway epithelial inflammation and represents a therapeutic target in chronic obstructive pulmonary disease."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Chronic obstructive pulmonary disease (COPD) is characterized by persistent airway inflammation, yet clinically useful biomarkers and mechanistically validated therapeutic targets remain limited. Here, we aimed to identify and functionally validate smoke-responsive regulators of airway epithelial inflammation in COPD and establish an interpretable prediction framework by integrating population-based clinical data, multi-omics analyses, genetic causal inference, and experimental validation. METHODS: Complementary clinical and molecular investigations used separate populations. Interpretable machine-learning models classified recorded COPD status in CHARLS, with validation across survey waves. Independent lung transcriptomic analyses integrated differential expression, co-expression networks, 113 machine-learning configurations, and single-cell profiling. Two-sample Mendelian randomization examined genetically predicted IER3 expression in relation to FEV(1)/FVC. Functional effects of IER3 were evaluated through AAV-mediated silencing in cigarette-smoke-exposed mice and siRNA knockdown in cigarette-smoke-extract-stimulated bronchial epithelial cells. Drug screening and molecular simulations prioritized candidate compounds for further investigation. RESULTS: The support vector machine achieved the best predictive performance for COPD risk (test AUC = 0.821; temporal validation AUC = 0.829). Multi-omics analyses consistently identified IER3 as a central COPD-associated gene within an inflammation-enriched transcriptional network. A six-gene diagnostic signature demonstrated robust external performance (AUC = 0.882 and 0.836), with IER3 and ATF3 emerging as the most reproducible biomarkers across independent cohorts. Single-cell analysis localized IER3 predominantly to airway epithelial cells and macrophages and revealed enhanced epithelial-macrophage communication in COPD. Mendelian randomization supported a causal association between genetically predicted IER3 expression and impaired lung function (IVW beta = -0.042, P < 0.001). Experimental studies further demonstrated that cigarette smoke induced epithelial IER3 expression, whereas IER3 silencing suppressed pro-inflammatory cytokine production, reduced inflammatory-cell recruitment, alleviated lung injury, and partially restored pulmonary function. Drug-repurposing analysis nominated IMD-0354 as a potential candidate modulator of the IER3-associated inflammatory axis. CONCLUSIONS: We developed an interpretable machine-learning framework for COPD risk prediction and identified IER3 as a candidate mediator of airway epithelial inflammation. Integrated evidence supports its involvement in smoke-induced inflammatory amplification and potential contribution to impaired lung function, highlighting IER3 as a potential therapeutic target warranting further mechanistic and clinical validation.",
+    "keywords": [
+      "IER3",
+      "airway epithelium",
+      "airway inflammation",
+      "chronic obstructive pulmonary disease",
+      "multi-omics"
+    ],
+    "mesh_terms": [
+      "*Pulmonary Disease, Chronic Obstructive/metabolism/etiology/drug therapy/genetics",
+      "Humans",
+      "Animals",
+      "Mice",
+      "Inflammation",
+      "*Membrane Proteins/genetics/metabolism",
+      "*Activating Transcription Factor 3/genetics/metabolism",
+      "Male",
+      "*Respiratory Mucosa/metabolism/pathology/immunology",
+      "Epithelial Cells/metabolism",
+      "Biomarkers",
+      "Female",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Yuanlan",
+        "Hu, Zhengyu",
+        "Wang, Wenjing",
+        "Wu, Mindan",
+        "Cui, Yachao",
+        "Chen, Zemin",
+        "Jin, Xuan",
+        "Huang, Wenfeng",
+        "Yan, Jiawei",
+        "Zhang, Feng",
+        "Yin, Wenguang",
+        "Cui, Jieda",
+        "Zhu, Leqing",
+        "Ran, Pixin",
+        "Dai, Jianwei"
+      ],
+      "short_names": [
+        "Yang Y",
+        "Hu Z",
+        "Wang W",
+        "Wu M",
+        "Cui Y",
+        "Chen Z",
+        "Jin X",
+        "Huang W",
+        "Yan J",
+        "Zhang F",
+        "Yin W",
+        "Cui J",
+        "Zhu L",
+        "Ran P",
+        "Dai J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Guangzhou Medical University-Guangzhou Institute of Biomedicine and Health (GMU-GIBH) Joint School of Life Sciences, Guangzhou Medical University, Guangzhou, China.",
+        "General Hospital of Ningxia Medical University, Yinchuan, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "Affiliated Cancer Hospital and Institute of Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Guangzhou Medical University-Guangzhou Institute of Biomedicine and Health (GMU-GIBH) Joint School of Life Sciences, Guangzhou Medical University, Guangzhou, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Guangzhou Medical University-Guangzhou Institute of Biomedicine and Health (GMU-GIBH) Joint School of Life Sciences, Guangzhou Medical University, Guangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Yuanlan",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Medical University-Guangzhou Institute of Biomedicine and Health (GMU-GIBH) Joint School of Life Sciences, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Zhengyu",
+        "short_name": "Hu Z",
+        "identifiers": [],
+        "affiliations": [
+          "General Hospital of Ningxia Medical University, Yinchuan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wenjing",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+          "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Mindan",
+        "short_name": "Wu M",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+          "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Yachao",
+        "short_name": "Cui Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+          "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zemin",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+          "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Xuan",
+        "short_name": "Jin X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Wenfeng",
+        "short_name": "Huang W",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Cancer Hospital and Institute of Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Jiawei",
+        "short_name": "Yan J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Medical University-Guangzhou Institute of Biomedicine and Health (GMU-GIBH) Joint School of Life Sciences, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Feng",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+          "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Wenguang",
+        "short_name": "Yin W",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+          "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Jieda",
+        "short_name": "Cui J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Leqing",
+        "short_name": "Zhu L",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Ran, Pixin",
+        "short_name": "Ran P",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou National Laboratory, Guangzhou International BioIsland, Guangzhou, Guangdong, China.",
+          "State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Diseases, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Jianwei",
+        "short_name": "Dai J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Medical University-Guangzhou Institute of Biomedicine and Health (GMU-GIBH) Joint School of Life Sciences, Guangzhou Medical University, Guangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/21 05:43",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43065417",
+      "42435052",
+      "42631563",
+      "40269868",
+      "42197164",
+      "43065562",
+      "39097839",
+      "42974151",
+      "35774797",
+      "41177411",
+      "40720940",
+      "23471465",
+      "23370438",
+      "31060565",
+      "42338607",
+      "31801023",
+      "41965679",
+      "42176907",
+      "41184109",
+      "26201096",
+      "28185985",
+      "34742298",
+      "42536689",
+      "42489718",
+      "27935962",
+      "41486269",
+      "32013930",
+      "43065558",
+      "29205062",
+      "23597004",
+      "42306043",
+      "33045470",
+      "36115169",
+      "41217457",
+      "24368768",
+      "29616282",
+      "41254304",
+      "42305536",
+      "21663649",
+      "29535511",
+      "41724861",
+      "37812881",
+      "42724664",
+      "41868721",
+      "42849827",
+      "42630541",
+      "41791616",
+      "41588511",
+      "42941971",
+      "42085848",
+      "40964458",
+      "27409149",
+      "42470888",
+      "42602962",
+      "40453984",
+      "39577218",
+      "26861788",
+      "41739808",
+      "30641028",
+      "41485499",
+      "29507104",
+      "41739708",
+      "31237014",
+      "35550579",
+      "38342401",
+      "42413667",
+      "42577419",
+      "42033558",
+      "23349803",
+      "40000498",
+      "40763656",
+      "42448278",
+      "41673839",
+      "42694321",
+      "41788971",
+      "41611834",
+      "39580967",
+      "42698073",
+      "38712759",
+      "41101549",
+      "34210319",
+      "40707280",
+      "42961086",
+      "42889849",
+      "42891304",
+      "28863172",
+      "33037614",
+      "40765678",
+      "40280536",
+      "42558367",
+      "40640787",
+      "38587806",
+      "42022800",
+      "38594707",
+      "36267325",
+      "41186507",
+      "39346628",
+      "41020432",
+      "41036501",
+      "28026993"
+    ],
+    "review": [
+      "43065417"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

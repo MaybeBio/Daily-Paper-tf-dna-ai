@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "43064000",
+    "doi": "10.1016/j.ibmb.2026.104694",
+    "title": "DBP K210 deacetylation suppresses BmNPV proliferation and promotes apoptosis associated with altered BmIAP regulation."
+  },
+  "content": {
+    "abstract": "The DNA-binding protein DBP, encoded by ORF16 of Bombyx mori nucleopolyhedrovirus (BmNPV), is a single-stranded DNA-binding protein expressed early during infection and is essential for efficient viral replication. Although DBP has been proposed to function as a transcriptional regulator, the mechanisms governing its activity remain poorly understood. In our previous study, a quantitative acetylproteomic analysis identified acetylation at lysine 210 (K210) of DBP during BmNPV infection, with its acetylation level increasing approximately 1.7-fold at 36 h post-infection. To investigate the functional significance of this modification, we generated a DBP deficient BmNPV mutant and BmNPV mutants carrying DBP substitutions designed to mimic acetylation or deacetylation at K210. No infectious virus production was detected following loss of DBP, whereas the K210 deacetylation-mimetic mutant showed markedly reduced progeny virus production, accompanied by reduced viral DNA replication and expression of the viral genes examined. Chromatin immunoprecipitation sequencing (ChIP-seq) analysis revealed that the K210 deacetylation-mimetic mutation altered the genomic binding profile of DBP and was associated with changes in host genes involved in apoptosis and cell-cycle regulation. Among them, the binding ability to the apoptosis inhibitor BmIAP decreased after the deacetylation simulation mutation. ChIP-qPCR confirmed DBP enrichment at the IAP promoter, while dual-luciferase assays demonstrated that K210 deacetylation reduced IAP promoter activity. Consistent with these findings, the DBP deacetylation-mimetic mutant increased caspase-3 activity and the expression of the pro-apoptotic genes examined while reducing that of an anti-apoptotic gene. Importantly, overexpression of BmIAP partially attenuated caspase-3 activity and the changes in apoptosis-related transcript levels associated with expression of the DBP deacetylation-mimetic mutant, supporting a contributory role for BmIAP in the observed apoptotic phenotype. Together, these findings support a regulatory role for DBP K210 acetylation in BmNPV replication and suggest that DBP K210 deacetylation is associated with enhanced apoptotic responses, at least partly through modulation of BmIAP expression, providing new insights into the molecular interplay between baculoviruses and their insect hosts.",
+    "keywords": [
+      "BmIAP",
+      "BmNPV",
+      "Bombyx mori",
+      "DBP",
+      "deacetylation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Siyi",
+        "Sun, Yidong",
+        "Li, Wenjing",
+        "Tariq, Komal",
+        "Gao, Jie",
+        "Wang, Dajin",
+        "Miao, Meng",
+        "Yu, Wei"
+      ],
+      "short_names": [
+        "Yang S",
+        "Sun Y",
+        "Li W",
+        "Tariq K",
+        "Gao J",
+        "Wang D",
+        "Miao M",
+        "Yu W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China.",
+        "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China.",
+        "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China.",
+        "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China.",
+        "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China.",
+        "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China.",
+        "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China.",
+        "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China. Electronic address: yuwei@zstu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Siyi",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yidong",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wenjing",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Tariq, Komal",
+        "short_name": "Tariq K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jie",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Dajin",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Miao, Meng",
+        "short_name": "Miao M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Wei",
+        "short_name": "Yu W",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China; Zhejiang Provincial Key Laboratory of Silkworm Bioreactor and Biomedicine, Hangzhou, China. Electronic address: yuwei@zstu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Insect biochemistry and molecular biology"
+    ],
+    "journal_abbrev": [
+      "Insect Biochem Mol Biol"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 23:38",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43064000",
+      "30697933",
+      "42648397",
+      "34350621",
+      "42669400",
+      "36963947",
+      "27414795",
+      "42556707",
+      "37896861",
+      "34565154",
+      "31621968",
+      "33679433",
+      "35380867",
+      "41752627",
+      "39948826",
+      "38288491",
+      "36950884",
+      "34314811",
+      "36410583",
+      "34442307",
+      "37207976",
+      "25912089",
+      "24698834",
+      "38335442",
+      "30947109",
+      "28624519",
+      "39150688",
+      "30869181",
+      "31615392",
+      "42032854",
+      "34442273",
+      "38537687",
+      "9525636",
+      "37802442",
+      "27374057",
+      "9126260",
+      "41549647",
+      "35921953",
+      "22559085",
+      "39971070",
+      "31116759",
+      "36142194",
+      "31610263",
+      "31153462",
+      "29150924",
+      "31102755",
+      "11341966",
+      "35905762",
+      "34940186",
+      "39442813",
+      "29377233",
+      "27614700",
+      "37144516",
+      "36773793",
+      "36572165",
+      "40274170",
+      "38616030",
+      "39733516",
+      "36560640",
+      "42445854",
+      "34058216",
+      "39277373",
+      "16442141",
+      "35060217",
+      "30904731",
+      "31998272",
+      "41240538",
+      "27168061",
+      "41598933",
+      "41849704",
+      "39814281",
+      "35254132",
+      "27640438",
+      "33130268",
+      "41901696",
+      "38488318",
+      "25502928",
+      "35867410",
+      "32971727",
+      "26497116",
+      "9847313",
+      "32623793",
+      "35955502",
+      "36054174",
+      "21175250",
+      "27806111",
+      "34446199",
+      "19100790",
+      "25914115",
+      "40662753",
+      "36842745",
+      "30229292",
+      "33535067",
+      "35062262",
+      "36142290",
+      "42352356",
+      "12727338",
+      "19389468",
+      "12457979",
+      "18611420"
+    ],
+    "review": [
+      "43064000"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

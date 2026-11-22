@@ -1,0 +1,227 @@
+{
+  "identity": {
+    "pmid": "43043713",
+    "doi": "10.1073/pnas.2613269123",
+    "title": "Evolution, information content, and optimality of gene regulatory architectures."
+  },
+  "content": {
+    "abstract": "Evolution of genetic regulatory sequences is shaped by their genotype-phenotype map, but this map itself can evolve via changes in the molecular machinery that reads out the regulatory sequences. Using population genetics theory, we derive a maximization principle, which implies that genotype-phenotype maps will evolve to associate fit phenotypes with larger numbers of possible genotypes. Mathematically, this builds on analogies between population genetics and statistical physics, as well as optimal coding in information theory. The results are particularly interesting in the context of transcriptional regulation, where optimal values of certain parameters that determine the gene regulatory architecture can be derived even without a complete knowledge of the molecular mechanisms involved. We illustrate the theory using a simplified model of transcription factor (TF) binding to cis-regulatory elements (CREs): the fraction of possible CREs across the entire genotype space that bind a given TF evolves to match the fraction of CREs under selection to bind that TF. Similar \"frequency matching\" results are expected to emerge generically, because selection implicitly moves the entire regulatory architecture toward a fitness maximum, determining the \"replicated genotype-phenotype map\" for all CREs, while it simultaneously adapts toward individually fit CREs on that map. We discuss the subtleties and limitations of the theory related to biophysical constraints and the need for mutational robustness. Last, our theory suggests a possible mathematical definition for evolvability with predictive power that can be tested in evolutionary simulations and, ultimately, in comparative genetics studies.",
+    "keywords": [
+      "chromatin",
+      "evolvability",
+      "genotype-phenotype maps",
+      "information and free-fitness theory",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [
+      "*Evolution, Molecular",
+      "*Models, Genetic",
+      "Transcription Factors/metabolism/genetics",
+      "Phenotype",
+      "Genotype",
+      "*Gene Expression Regulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Barton, Nicholas H",
+        "Tkacik, Gasper"
+      ],
+      "short_names": [
+        "Barton NH",
+        "Tkacik G"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8548-5240",
+        "ORCID: 0000-0002-6699-1455"
+      ],
+      "affiliations": [
+        "Institute of Science and Technology Austria, Klosterneuburg AT-3400, Austria. ROR: https://ror.org/03gnh5541",
+        "Institute of Science and Technology Austria, Klosterneuburg AT-3400, Austria. ROR: https://ror.org/03gnh5541"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Barton, Nicholas H",
+        "short_name": "Barton NH",
+        "identifiers": [
+          "0000-0002-8548-5240"
+        ],
+        "affiliations": [
+          "Institute of Science and Technology Austria, Klosterneuburg AT-3400, Austria."
+        ]
+      },
+      {
+        "full_name": "Tkačik, Gašper",
+        "short_name": "Tkačik G",
+        "identifiers": [
+          "0000-0002-6699-1455"
+        ],
+        "affiliations": [
+          "Institute of Science and Technology Austria, Klosterneuburg AT-3400, Austria."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Nov 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 17:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43043713",
+      "42107304",
+      "41985221",
+      "42475469",
+      "25173845",
+      "29228219",
+      "40750066",
+      "24793533",
+      "29676774",
+      "27082741",
+      "22075113",
+      "18617989",
+      "25313130",
+      "28333240",
+      "41628884",
+      "29321269",
+      "29321270",
+      "41397131",
+      "26673387",
+      "29581298",
+      "26609063",
+      "27866169",
+      "17439608",
+      "41318325",
+      "42478686",
+      "37491910",
+      "37851522",
+      "28679667",
+      "38043588",
+      "21462316",
+      "26451700",
+      "33789344",
+      "35264797",
+      "24097306",
+      "18601514",
+      "31362726",
+      "40729530",
+      "40715711",
+      "26937652",
+      "34092214",
+      "34752445",
+      "33074101",
+      "42172291",
+      "31261769",
+      "32034628",
+      "38536880",
+      "23303791",
+      "34617196",
+      "37256290",
+      "28709941",
+      "28251865",
+      "34837823",
+      "18704158",
+      "27821071",
+      "39098381",
+      "23912807",
+      "42014066",
+      "17188715",
+      "34486522",
+      "22969419",
+      "40905948",
+      "35175900",
+      "12777501",
+      "37620617",
+      "30583805",
+      "37117168",
+      "40369872",
+      "39939177",
+      "28855262",
+      "21225054",
+      "23373974",
+      "41906094",
+      "25390641",
+      "11069142",
+      "39481633",
+      "19910494",
+      "37070537",
+      "32486956",
+      "25361952",
+      "12355260",
+      "14756343",
+      "25442502",
+      "22954408",
+      "24223579",
+      "38949447",
+      "38187729",
+      "42140663",
+      "12411608",
+      "24689750",
+      "28565291",
+      "17705779",
+      "17494759",
+      "19652184",
+      "22252387",
+      "31335870",
+      "38753011",
+      "25520296",
+      "25901014",
+      "17244365",
+      "34276769"
+    ],
+    "review": [
+      "43043713",
+      "42107304",
+      "41985221",
+      "26673387",
+      "41318325",
+      "28679667",
+      "31261769",
+      "34617196",
+      "34837823",
+      "12777501",
+      "30583805",
+      "39481633",
+      "14756343"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2613269123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "identity": {
+    "pmid": "43035496",
+    "doi": "10.1038/s41467-026-78441-9",
+    "title": "Decomposing multi-scale dynamic regulation from single-cell multiomics with scMagnify."
+  },
+  "content": {
+    "abstract": "Deciphering the highly coupled regulatory circuits that drive cellular dynamics remains a fundamental goal in biology. However, capturing the multi-scale time-lagged dynamics and combinatorial regulatory logic of gene regulation remains challenging. Here we present scMagnify, a deep-learning-based framework that leverages chromatin accessibility and gene expression via Granger causality to reconstruct and decompose multi-scale gene regulatory networks (GRNs). Diverse benchmarks demonstrate scMagnify's favorable performance. scMagnify employs tensor decomposition to identify combinatorial TF modules and their activation profiles across multiple time-lags. We applied scMagnify to human hematopoiesis and mouse pancreas development, where it recovered known lineage-driving regulators and provided further insights into the combinatorial logic underlying cell fate decisions. Furthermore, in the context of kidney injury, scMagnify's intercellular communication module mapped key signaling-to-transcription cascades linking microenvironment cues to pathological epithelial cell changes. In summary, scMagnify provides a robust computational framework for dissecting the multi-scale regulatory logic that governs complex biological processes in development and disease.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "Humans",
+      "Multiomics",
+      "Mice",
+      "*Gene Regulatory Networks",
+      "*Single-Cell Analysis/methods",
+      "Pancreas/metabolism/growth & development",
+      "Hematopoiesis/genetics",
+      "Gene Expression Regulation",
+      "Chromatin/metabolism",
+      "Transcription Factors/metabolism",
+      "*Computational Biology/methods",
+      "Single-Cell Gene Expression Analysis"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Xufeng",
+        "Yan, Xi",
+        "Shen, Bihan",
+        "Wang, Heqi",
+        "Tang, Zhixuan",
+        "Zang, Yan",
+        "Lin, Ping",
+        "Zhang, Haibing",
+        "Li, Yu",
+        "Li, Hong"
+      ],
+      "short_names": [
+        "Chen X",
+        "Yan X",
+        "Shen B",
+        "Wang H",
+        "Tang Z",
+        "Zang Y",
+        "Lin P",
+        "Zhang H",
+        "Li Y",
+        "Li H"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-6122-2164",
+        "ORCID: 0009-0005-6464-8230",
+        "ORCID: 0000-0003-4592-2554",
+        "ORCID: 0009-0000-4239-9177",
+        "ORCID: 0009-0007-5446-0837",
+        "ORCID: 0000-0001-6910-5933",
+        "ORCID: 0000-0001-5679-9980"
+      ],
+      "affiliations": [
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China. liyu@sinh.ac.cn.",
+        "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China. lihong01@sinh.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Xufeng",
+        "short_name": "Chen X",
+        "identifiers": [
+          "0009-0008-6122-2164"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Xi",
+        "short_name": "Yan X",
+        "identifiers": [
+          "0009-0005-6464-8230"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Bihan",
+        "short_name": "Shen B",
+        "identifiers": [
+          "0000-0003-4592-2554"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Heqi",
+        "short_name": "Wang H",
+        "identifiers": [
+          "0009-0000-4239-9177"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Zhixuan",
+        "short_name": "Tang Z",
+        "identifiers": [
+          "0009-0007-5446-0837"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zang, Yan",
+        "short_name": "Zang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Ping",
+        "short_name": "Lin P",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Haibing",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yu",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0001-6910-5933"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China. liyu@sinh.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Hong",
+        "short_name": "Li H",
+        "identifiers": [
+          "0000-0001-5679-9980"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China. lihong01@sinh.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 05:32",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43035496",
+      "41643202",
+      "42475469",
+      "38653489",
+      "42243114",
+      "41093852",
+      "40707940",
+      "41067887",
+      "40633682",
+      "40062616",
+      "42248920",
+      "41498638",
+      "42074532",
+      "42928020",
+      "41315351",
+      "37365273",
+      "40598278",
+      "38940155",
+      "42013480",
+      "40063068",
+      "39376034",
+      "42837364",
+      "32188700",
+      "41300707",
+      "35976093",
+      "38652107",
+      "31985403",
+      "42635227",
+      "38123534",
+      "42059479",
+      "39207727",
+      "42547851",
+      "36064320",
+      "41526381",
+      "41288963",
+      "39833103",
+      "41984780",
+      "40029523",
+      "41518505",
+      "42734741",
+      "41554051",
+      "38980373",
+      "25707768",
+      "39062480",
+      "42560939",
+      "41317402",
+      "37749269",
+      "41183107",
+      "39679439",
+      "41266355",
+      "42901905",
+      "36965484",
+      "42799699",
+      "40037709",
+      "41436831",
+      "37788349",
+      "42650039",
+      "38092913",
+      "40210438",
+      "41951735",
+      "37889053",
+      "41125875",
+      "40240358",
+      "39843737",
+      "39581871",
+      "42586061",
+      "37537351",
+      "33170214",
+      "41632825",
+      "42752548",
+      "39742806",
+      "37244909",
+      "42119563",
+      "41254784",
+      "41723114",
+      "42681324",
+      "42436193",
+      "41801512",
+      "41588477",
+      "28052084",
+      "42527907",
+      "40095604",
+      "41269283",
+      "41596454",
+      "37178817",
+      "27580035",
+      "41493424",
+      "42061403",
+      "42100854",
+      "42891116",
+      "41000825",
+      "40011786",
+      "39082647",
+      "21637747",
+      "40247122",
+      "40251476",
+      "40753156",
+      "34292930",
+      "42715336",
+      "25416748"
+    ],
+    "review": [
+      "43035496",
+      "42074532",
+      "37365273",
+      "42013480",
+      "39207727",
+      "42734741",
+      "42681324"
+    ],
+    "pmc": [
+      "13771027"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78441-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43035496/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

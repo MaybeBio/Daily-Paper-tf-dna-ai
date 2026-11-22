@@ -1,0 +1,518 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.15.766769",
+  "title": "Savant: A Fast, Structure-Free Binding Affinity Predictor For Protein-Ligand Drug Screening",
+  "doi": "10.64898/2026.11.15.766769",
+  "abstract": "Protein –ligand binding affinity determines which of many candidate molecules is worth synthesizing and assaying, making it the central measurement in early drug discovery. Binding affinity is commonly expressed as the dissociation constant, an equilibrium measure that indicates how easily a complex separates into its components. AI-based generative chemistry and make-on-demand chemical catalogs now produce molecules faster than rigorous method can evaluate them. Leading computational methods co-fold the complex before scoring the binding affinity between the protein and the ligand, which provides high accuracy but requires a graphics processing unit (GPU) and substantial time for every pair evaluated. Here we present Savant, a machine learning model that estimates the dissociation constant using only the protein’s amino acid sequence and the ligand’s structure written as a line of text (SMILES). Savant needs no 3-dimensional folded structure, no docking, and no GPU. To test Savant fairly, we built a bench-mark designed to prevent any training data to leak into the testing set, drawing only on measurements published after the training data was assembled and on molecules chemically unlike anything the model had seen. On an independent benchmark, Savant ranks ahead of every other 3-dimensional structure-free method. Savant is designed to rank compounds against a single protein, and performs as well as other methods that require a GPU, while running only on a central processing unit (CPU). Thus, Savant can screen libraries of 100,000 compounds in minutes with commodity hardware.",
+  "authors": [
+    "Sayal Guirales-Medrano",
+    "Colby T. Ford",
+    "Daniel Janies"
+  ],
+  "published_date": "2026-11-17",
+  "updated_date": "2026-11-21T04:55:12Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766769",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766769.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            22
+          ]
+        ],
+        "date-time": "2026-11-22T09:12:57Z",
+        "timestamp": 1795338777628,
+        "version": "4.10.3"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 57,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                17
+              ]
+            ],
+            "date-time": "2026-11-17T00:00:00Z",
+            "timestamp": 1794873600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Protein –ligand binding affinity determines which of many candidate molecules is worth synthesizing and assaying, making it the central measurement in early drug discovery. Binding affinity is commonly expressed as the dissociation constant, an equilibrium measure that indicates how easily a complex separates into its components. AI-based generative chemistry and make-on-demand chemical catalogs now produce molecules faster than rigorous method can evaluate them. Leading computational methods co-fold the complex before scoring the binding affinity between the protein and the ligand, which provides high accuracy but requires a graphics processing unit (GPU) and substantial time for every pair evaluated.</jats:p>\n                <jats:p>Here we present Savant, a machine learning model that estimates the dissociation constant using only the protein’s amino acid sequence and the ligand’s structure written as a line of text (SMILES). Savant needs no 3-dimensional folded structure, no docking, and no GPU. To test Savant fairly, we built a bench-mark designed to prevent any training data to leak into the testing set, drawing only on measurements published after the training data was assembled and on molecules chemically unlike anything the model had seen. On an independent benchmark, Savant ranks ahead of every other 3-dimensional structure-free method.</jats:p>\n                <jats:p>Savant is designed to rank compounds against a single protein, and performs as well as other methods that require a GPU, while running only on a central processing unit (CPU). Thus, Savant can screen libraries of 100,000 compounds in minutes with commodity hardware.</jats:p>",
+      "DOI": "10.64898/2026.11.15.766769",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            21
+          ]
+        ],
+        "date-time": "2026-11-21T04:55:12Z",
+        "timestamp": 1795236912000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Savant: A Fast, Structure-Free Binding Affinity Predictor For Protein-Ligand Drug Screening"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1472-2261",
+          "authenticated-orcid": false,
+          "given": "Sayal",
+          "family": "Guirales-Medrano",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Center for Computational Intelligence to Predict Health and Environmental Risks (CIPHER), University of North Carolina at Charlotte, USA"
+            },
+            {
+              "name": "Department of Bioinformatics and Genomics, University of North Carolina at Charlotte, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7859-3622",
+          "authenticated-orcid": false,
+          "given": "Colby T.",
+          "family": "Ford",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Computational Intelligence to Predict Health and Environmental Risks (CIPHER), University of North Carolina at Charlotte, USA"
+            },
+            {
+              "name": "Department of Bioinformatics and Genomics, University of North Carolina at Charlotte, USA"
+            },
+            {
+              "name": "Silico Biosciences and Tuple LLC, Charlotte, NC USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7890-9906",
+          "authenticated-orcid": false,
+          "given": "Daniel",
+          "family": "Janies",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Computational Intelligence to Predict Health and Environmental Risks (CIPHER), University of North Carolina at Charlotte, USA"
+            },
+            {
+              "name": "Department of Bioinformatics and Genomics, University of North Carolina at Charlotte, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2020.1166"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jhealeco.2016.01.012"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrd3681"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrd3078"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-019-0917-9"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-020-2117-z"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.2c01253"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13321-017-0235-x"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.0c00915"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-05905-z"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev.biophys.36.040306.132550"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1359-6446(04)03069-7"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jm050362n"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.8b00545"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ja512751q"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.0c00900"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-024-07487-w"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2024.11.19.624167"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2025.06.14.659707"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.20",
+          "article-title": "DiffDock: Diffusion steps, twists, and turns for molecular docking",
+          "year": "2023",
+          "journal-title": "In International Conference on Learning Representations (ICLR)"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.89386"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/bty593"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btaa921"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btaa880"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2220778120"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s42256-022-00605-1"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2024.02.08.575577"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ade2574"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.29",
+          "unstructured": "EvolutionaryScale Team. ESM cambrian (ESM-C): Scaling protein language models. EvolutionaryScale; open weights and code, 2024. No peer-reviewed paper at the 2024 release; Zenodo software DOI cited for reproducibility."
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2010.09885"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2209.01712"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.32",
+          "article-title": "Therapeutics data commons: Machine learning datasets and tasks for drug discovery and development",
+          "journal-title": "In Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track, 2021"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0220113"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.7b00403"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.8b00712"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jmedchem.2c00487"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s42256-023-00756-9"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jm300131x"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2939672.2939785"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.40",
+          "first-page": "507",
+          "article-title": "Why do tree-based models still outperform deep learning on typical tabular data?",
+          "volume": "35",
+          "year": "2022",
+          "journal-title": "In Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.inffus.2021.11.011"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/10943420221121804"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkv1072"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jm030580l"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btu626"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gks966"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/prot.20512"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ci100050t"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkr777"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkad1004"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ci400084k"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/bty816"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ci600426e"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037//0033-2909.87.2.245"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.55",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lyuwei Wang and Jianlin Cheng . PLABench: Data for leakage-controlled benchmarking reveals generalization limits of deep learning for protein–ligand binding affinity prediction. Zenodo, 2026.",
+          "DOI": "10.64898/2026.09.17.752433"
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.56",
+          "unstructured": "Lyuwei Wang and Jianlin Cheng . PLABench: A leakage-controlled benchmark for protein–ligand binding affinity prediction. Zenodo, version 1.0.1, 2026."
+        },
+        {
+          "key": "2026112200554508000_2026.11.15.766769v1.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-026-74130-9"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.11.15.766769",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            22
+          ]
+        ],
+        "date-time": "2026-11-22T08:55:52Z",
+        "timestamp": 1795337752000
+      },
+      "score": 97.43161,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.11.15.766769"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "references-count": 57,
+      "URL": "https://doi.org/10.64898/2026.11.15.766769",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "identity": {
+    "pmid": "43053193",
+    "doi": "10.1186/s13058-026-02370-0",
+    "title": "Pathomics-based prediction of natural regulatory T cell infiltration in breast cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Natural regulatory T cells (nTregs) are a key immunosuppressive component of the tumor microenvironment (TME), but their assessment typically requires specialized molecular assays. This study aimed to develop and validate a deep learning-based pathomics model to predict nTregs infiltration directly from routine hematoxylin and eosin (H&E)-stained whole slide images (WSI) of breast cancer and evaluate its prognostic significance. METHODS: Data from 1097 breast cancer patients in The Cancer Genome Atlas (TCGA) were analyzed. A cohort of 928 patients with complete RNA-seq data was used to establish the prognostic value of nTregs (estimated by ImmuneCellAI). A subset of 791 patients with matched high-quality H&E-stained WSI was randomly split into training (n = 633) and validation (n = 158) cohorts. A total of 1488 quantitative pathomic features were extracted. After feature selection via minimum Redundancy Maximum Relevance (mRMR) and Recursive Feature Elimination (RFE), a Gradient Boosting Machine (GBM) classifier was trained to predict high versus low nTregs status, generating a continuous Pathomics Score (PS). The PS was validated against FOXP3 immunohistochemistry (IHC) and evaluated for its association with overall survival (OS). Multi-omics analyses explored the underlying biology of PS-defined groups. RESULTS: High nTregs infiltration was an independent predictor of poor OS (HR = 1.58, 95% CI 1.10-2.28, p = 0.013). The GBM model achieved an area under the receiver operating characteristic curve (AUC-ROC) of 0.81 (95% CI 0.78-0.85) in the training cohort and 0.72 (95% CI 0.63-0.80) in the validation cohort. The PS showed a strong correlation with FOXP3(+) cell density (p < 0.001) and was independently associated with worse OS (HR = 1.68, 95% CI 1.15-2.46, p = 0.008). Patients with high PS exhibited a distinct transcriptomic signature enriched for immune activation pathways (e.g., estrogen responses) and upregulated immune checkpoint genes (e.g., CD276, TNFSF4, TNFSF9), alongside an immunosuppressive microenvironment characterized by increased nTregs and M2-like macrophage estimates. CONCLUSION: We developed and validated a pathomics model that non-invasively predicts nTregs infiltration and patient prognosis from standard H&E images. The PS serves as a novel, accessible digital biomarker that captures the complexity of an inflamed yet immunosuppressive TME and has the potential to augment clinical decision-making, particularly in resource-limited settings.",
+    "keywords": [
+      "Breast cancer",
+      "FOXP3",
+      "Machine learning",
+      "Natural regulatory T cells (nTregs)",
+      "Pathomics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "*Breast Neoplasms/pathology/immunology/mortality/genetics",
+      "*T-Lymphocytes, Regulatory/immunology/metabolism",
+      "Tumor Microenvironment/immunology",
+      "Prognosis",
+      "*Lymphocytes, Tumor-Infiltrating/immunology/metabolism/pathology",
+      "Deep Learning",
+      "Forkhead Transcription Factors/metabolism",
+      "Biomarkers, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Yuanbing",
+        "Pan, Yanming",
+        "Cui, Manlu",
+        "Li, Jingtao",
+        "Yang, Qinlian",
+        "Huang, Linfei",
+        "Pan, Dai",
+        "Li, Qiuyun"
+      ],
+      "short_names": [
+        "Xu Y",
+        "Pan Y",
+        "Cui M",
+        "Li J",
+        "Yang Q",
+        "Huang L",
+        "Pan D",
+        "Li Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China.",
+        "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China.",
+        "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China.",
+        "Department of Prevention and Health Care, Hebei General Hospital, Shijiazhuang, 050000, Hebei, China.",
+        "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China.",
+        "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China.",
+        "Department of Ultrasound, Guangxi Hospital Division of The First Affiliated Hospital, Sun Yat-Sen University, Nanning, 530021, Guangxi, China. orrange910@163.com.",
+        "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China. 930248@sr.gxmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Yuanbing",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Yanming",
+        "short_name": "Pan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Manlu",
+        "short_name": "Cui M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jingtao",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Prevention and Health Care, Hebei General Hospital, Shijiazhuang, 050000, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Qinlian",
+        "short_name": "Yang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Linfei",
+        "short_name": "Huang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Dai",
+        "short_name": "Pan D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ultrasound, Guangxi Hospital Division of The First Affiliated Hospital, Sun Yat-Sen University, Nanning, 530021, Guangxi, China. orrange910@163.com."
+        ]
+      },
+      {
+        "full_name": "Li, Qiuyun",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, Guangxi Medical University Cancer Hospital, Nanning, 530021, Guangxi, China. 930248@sr.gxmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Breast cancer research : BCR"
+    ],
+    "journal_abbrev": [
+      "Breast Cancer Res"
+    ],
+    "pub_date": "2026 Aug 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43053193",
+      "42026805",
+      "40840227",
+      "39299554",
+      "42724470",
+      "42253972",
+      "38753243",
+      "40344565",
+      "41629429",
+      "33602289",
+      "42715652",
+      "41113125",
+      "41368643",
+      "30120041",
+      "41436831",
+      "42556474",
+      "41488652",
+      "41421034",
+      "25193543",
+      "41491840",
+      "41381302",
+      "40636126",
+      "41798945",
+      "39286147",
+      "41135313",
+      "38260829",
+      "39455880",
+      "41798925",
+      "41140446",
+      "41337795",
+      "22495453",
+      "23599540",
+      "38388379",
+      "41656832",
+      "42359574",
+      "41649179",
+      "41074005",
+      "39507529",
+      "34006632",
+      "41809834",
+      "40614660",
+      "39956271",
+      "41883034",
+      "41872824",
+      "42601689",
+      "38376584",
+      "42183194",
+      "41233664",
+      "40497786",
+      "39678866",
+      "41809565",
+      "38749538",
+      "38287356",
+      "42305453",
+      "34795663",
+      "34659224",
+      "34255349",
+      "42244292",
+      "41601635",
+      "38956384",
+      "42910514",
+      "37520246",
+      "40224950",
+      "34536743",
+      "32714316",
+      "41091832",
+      "39730892",
+      "38557926",
+      "40725242",
+      "42729487",
+      "38780888",
+      "40887934",
+      "38649280",
+      "39906743",
+      "35774776",
+      "39579248",
+      "38887294",
+      "42494157",
+      "37478528",
+      "30176944",
+      "36405735",
+      "40690457",
+      "40781753",
+      "29621426",
+      "41121364",
+      "28885584",
+      "39724105",
+      "41117836",
+      "41343093",
+      "42183191",
+      "40496857",
+      "37596527",
+      "34233259",
+      "40777041",
+      "39813341",
+      "40406140",
+      "33753452",
+      "27566250",
+      "28388539",
+      "34698394"
+    ],
+    "review": [
+      "43053193",
+      "36405735"
+    ],
+    "pmc": [
+      "13783576"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-026-02370-0",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TNFSF9-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

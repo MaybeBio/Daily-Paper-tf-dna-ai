@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "43062770",
+    "doi": "10.1007/s10735-026-11014-8",
+    "title": "Neiyi prescription of QIU activates ferroptosis to alleviate endometriosis via tumor protein 53."
+  },
+  "content": {
+    "abstract": "Neiyi prescription of QIU (NYPQ) treated endometriosis (Ems). This study aims to explore the molecular mechanism of NYPQ in Ems treatment. Ems model rats were treated with NYPQ (6.3, 12.5 and 25 g/kg), p53 activator (Parthenolide/PTL) and inhibitor (pifithrin-micro/PFTmicro), ferroptosis inhibitor (ferrostatin-1/Fer-1) and inducer (erastin). Hematoxylin-eosin staining, immunohistochemistry, Western blot, and transmission electron microscopes were used for pathology and ferroptosis evaluation. Malondialdehyde (MDA), the System Xc-glutathione, ferrous ion (Fe(2+)) and reactive oxygen species (ROS) levels were measured using commercial kits. NYPQ activated p53 and ferroptosis signaling pathways in a dose-dependent manner. NYPQ and PTL both decreased lesion volume, glutathione level and expressions of solute carrier family 7 member 11 and glutathione peroxidase 4 while improving tissue pathological damage, activating expressions of p53, prostaglandin-endoperoxide synthase 2, and NADPH oxidase 1, and increasing MDA, Fe(2+) and ROS levels. Additionally, Fer-1 partially reversed the excitatory effects of PTL on ferroptosis. Fer-1 and PFTmicro both exacerbated Ems symptoms meanwhile weakened ferroptosis. Notably, they antagonized improving effect of NYPQ on Ems and activation of ferroptosis. Moreover, the combination of erastin with PFTmicro reversed the inhibition of PFTmicro on NYPQ treating Ems, meanwhile activating ferroptosis. Molecular docking predicted that icariin may interact with p53 and acts as a candidate active component of NYPQ. This study highlights the beneficial effects of p53 signaling pathway activation and NYPQ induced ferroptosis on Ems therapy.",
+    "keywords": [
+      "Endometriosis",
+      "Ferroptosis",
+      "Traditional Chinese medicine",
+      "Tumor protein 53"
+    ],
+    "mesh_terms": [
+      "Female",
+      "*Ferroptosis/drug effects",
+      "Animals",
+      "*Tumor Suppressor Protein p53/metabolism",
+      "*Drugs, Chinese Herbal/pharmacology/therapeutic use",
+      "Reactive Oxygen Species/metabolism",
+      "*Endometriosis/drug therapy/metabolism/pathology",
+      "Rats",
+      "Glutathione/metabolism",
+      "Signal Transduction/drug effects",
+      "Rats, Sprague-Dawley",
+      "Malondialdehyde/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Hui",
+        "Zhou, Xiaoqing",
+        "Mei, Shanshan",
+        "Mao, Peiyu",
+        "Shi, Xinhe",
+        "Yang, Huadi"
+      ],
+      "short_names": [
+        "Li H",
+        "Zhou X",
+        "Mei S",
+        "Mao P",
+        "Shi X",
+        "Yang H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China.",
+        "The First Clinical College of Zhejiang Chinese Medical University, Hangzhou, China.",
+        "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China.",
+        "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China.",
+        "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China.",
+        "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China. 88mummy@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Hui",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiaoqing",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical College of Zhejiang Chinese Medical University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Mei, Shanshan",
+        "short_name": "Mei S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Peiyu",
+        "short_name": "Mao P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Xinhe",
+        "short_name": "Shi X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Huadi",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics, The First Affiliated Hospital of Zhejiang Chinese Medical University, No. 54, Youdian Road, Hangzhou, 310006, Zhejiang, China. 88mummy@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular histology"
+    ],
+    "journal_abbrev": [
+      "J Mol Histol"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 17:32",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43062770",
+      "35366690",
+      "40464516",
+      "41687318",
+      "42543340",
+      "41354015",
+      "42000005",
+      "40825694",
+      "39307744",
+      "38837315",
+      "41047052",
+      "42392751",
+      "41187650",
+      "42698143",
+      "41558707",
+      "42486819",
+      "40437575",
+      "40490825",
+      "42869839",
+      "38652227",
+      "42464548",
+      "39307771",
+      "39181279",
+      "39072683",
+      "40246251",
+      "37315642",
+      "40516745",
+      "38845495",
+      "41920257",
+      "38679154",
+      "37748635",
+      "41814763",
+      "41443917",
+      "42880424",
+      "39681481",
+      "40214929",
+      "40288885",
+      "39971368",
+      "41946579",
+      "39800242",
+      "41814826",
+      "42811993",
+      "41448369",
+      "37553011",
+      "41736424",
+      "41365194",
+      "42103085",
+      "39978273",
+      "41619865",
+      "42869827",
+      "41429385",
+      "40316154",
+      "38641076",
+      "39153053",
+      "33508368",
+      "41065914",
+      "39243105",
+      "42869843",
+      "41241001",
+      "40915372",
+      "42492799",
+      "40187624",
+      "40673298",
+      "40513923",
+      "42886409",
+      "39642461",
+      "41405315",
+      "40693808",
+      "38114118",
+      "39547097",
+      "40109469",
+      "41713813",
+      "40532799",
+      "40205608",
+      "38636375",
+      "41299196",
+      "39701679",
+      "41230084",
+      "42032961",
+      "37839303",
+      "35997859",
+      "33351681",
+      "42543668",
+      "37987130",
+      "41839581",
+      "41477983",
+      "39909592",
+      "39383632",
+      "42186752",
+      "40903063",
+      "39392483",
+      "39686792",
+      "42550316",
+      "42314807",
+      "41636120",
+      "41579273",
+      "39354361",
+      "40222690",
+      "39307820",
+      "43045097"
+    ],
+    "review": [
+      "43062770"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

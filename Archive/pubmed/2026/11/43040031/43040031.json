@@ -1,0 +1,352 @@
+{
+  "identity": {
+    "pmid": "43040031",
+    "doi": "10.1038/s41596-026-01458-3",
+    "title": "Predictive modeling of single-cell transcriptomic dynamics with Dynamo."
+  },
+  "content": {
+    "abstract": "Single-cell RNA sequencing (scRNA-seq) provides a powerful means to investigate cell fate dynamics during development and disease. However, existing computational approaches-such as RNA velocity-are often limited to qualitative and descriptive insights. We previously presented Dynamo, a machine learning framework that leverages noisy RNA velocity estimates to learn analytical and predictive vector fields of gene expression dynamics. These learned vector fields enable a suite of novel, quantitative analyses, including mapping the geometry of cell state transitions, identifying dynamic features of differentiation trajectories, inferring gene regulatory networks, predicting optimal paths and transcription factor cocktails for cellular reprogramming, and simulating in silico genetic perturbations. Here we provide a comprehensive protocol for applying Dynamo across four distinct data types and five downstream analyses, demonstrating its versatility in handling conventional and metabolic-labeling-enabled scRNA-seq, multiomic datasets and even datasets without velocity information. We also show that Dynamo can predict cell fate diversions following genetic perturbations and accurately identify key transcription factors that enable lineage transitions in the hematopoietic system. By enabling predictive modeling from single-cell data, our protocol aims to empower the development of generative and predictive models of single-cell genomics. While typical RNA velocity vector field analyses can be completed in less than an hour, the nine case studies in the Protocol can be completed in ~7 h and 35 min. The Protocol is designed for researchers with basic familiarity in scRNA-seq analysis and Python programming, although no advanced coding expertise is required.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zeng, Zehua",
+        "Yu, Sichao",
+        "Ni, Ke",
+        "Zhang, Yan",
+        "Shin, Ukyeon",
+        "Huang, Cinlong",
+        "Cao, Natalie",
+        "Weissman, Jonathan",
+        "Ellison, David",
+        "Xing, Jianhua",
+        "Qiu, Xiaojie"
+      ],
+      "short_names": [
+        "Zeng Z",
+        "Yu S",
+        "Ni K",
+        "Zhang Y",
+        "Shin U",
+        "Huang C",
+        "Cao N",
+        "Weissman J",
+        "Ellison D",
+        "Xing J",
+        "Qiu X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2109-0418",
+        "ORCID: 0000-0002-5437-9963",
+        "ORCID: 0000-0002-2267-8408",
+        "ORCID: 0009-0007-4405-5854",
+        "ORCID: 0009-0002-6405-2590",
+        "ORCID: 0009-0006-9761-6881",
+        "ORCID: 0000-0003-2445-670X",
+        "ORCID: 0000-0002-3700-8765",
+        "ORCID: 0000-0002-7881-5395"
+      ],
+      "affiliations": [
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA, USA.",
+        "Department of Computer Science, Stanford University, Stanford, CA, USA.",
+        "Whitehead Institute for Biomedical Research, Cambridge, MA, USA.",
+        "Joint CMU-Pitt PhD Program in Computational Biology, University of Pittsburgh, Pittsburgh, PA, USA.",
+        "Joint CMU-Pitt PhD Program in Computational Biology, University of Pittsburgh, Pittsburgh, PA, USA.",
+        "Whitehead Institute for Biomedical Research, Cambridge, MA, USA.",
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA, USA.",
+        "Department of Computer Science, Stanford University, Stanford, CA, USA.",
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA, USA.",
+        "Department of Computer Science, Stanford University, Stanford, CA, USA.",
+        "Whitehead Institute for Biomedical Research, Cambridge, MA, USA.",
+        "Infrastructure Solution Group, Lenovo, Raleigh, NC, USA.",
+        "Joint CMU-Pitt PhD Program in Computational Biology, University of Pittsburgh, Pittsburgh, PA, USA. xing1@pitt.edu.",
+        "UPMC-Hillman Cancer Center, University of Pittsburgh, Pittsburgh, PA, USA. xing1@pitt.edu.",
+        "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA, USA. xing1@pitt.edu.",
+        "Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, PA, USA. xing1@pitt.edu.",
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA. xiaojie@stanford.edu.",
+        "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA, USA. xiaojie@stanford.edu.",
+        "Department of Computer Science, Stanford University, Stanford, CA, USA. xiaojie@stanford.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zeng, Zehua",
+        "short_name": "Zeng Z",
+        "identifiers": [
+          "0000-0002-2109-0418"
+        ],
+        "affiliations": [
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA.",
+          "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA, USA.",
+          "Department of Computer Science, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Sichao",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ni, Ke",
+        "short_name": "Ni K",
+        "identifiers": [
+          "0000-0002-5437-9963"
+        ],
+        "affiliations": [
+          "Joint CMU-Pitt PhD Program in Computational Biology, University of Pittsburgh, Pittsburgh, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yan",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0002-2267-8408"
+        ],
+        "affiliations": [
+          "Joint CMU-Pitt PhD Program in Computational Biology, University of Pittsburgh, Pittsburgh, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Shin, Ukyeon",
+        "short_name": "Shin U",
+        "identifiers": [
+          "0009-0007-4405-5854"
+        ],
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Cinlong",
+        "short_name": "Huang C",
+        "identifiers": [
+          "0009-0002-6405-2590"
+        ],
+        "affiliations": [
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA.",
+          "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA, USA.",
+          "Department of Computer Science, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Cao, Natalie",
+        "short_name": "Cao N",
+        "identifiers": [
+          "0009-0006-9761-6881"
+        ],
+        "affiliations": [
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA.",
+          "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA, USA.",
+          "Department of Computer Science, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Weissman, Jonathan",
+        "short_name": "Weissman J",
+        "identifiers": [
+          "0000-0003-2445-670X"
+        ],
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ellison, David",
+        "short_name": "Ellison D",
+        "identifiers": [],
+        "affiliations": [
+          "Infrastructure Solution Group, Lenovo, Raleigh, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Xing, Jianhua",
+        "short_name": "Xing J",
+        "identifiers": [
+          "0000-0002-3700-8765"
+        ],
+        "affiliations": [
+          "Joint CMU-Pitt PhD Program in Computational Biology, University of Pittsburgh, Pittsburgh, PA, USA. xing1@pitt.edu.",
+          "UPMC-Hillman Cancer Center, University of Pittsburgh, Pittsburgh, PA, USA. xing1@pitt.edu.",
+          "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA, USA. xing1@pitt.edu.",
+          "Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, PA, USA. xing1@pitt.edu."
+        ]
+      },
+      {
+        "full_name": "Qiu, Xiaojie",
+        "short_name": "Qiu X",
+        "identifiers": [
+          "0000-0002-7881-5395"
+        ],
+        "affiliations": [
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA. xiaojie@stanford.edu.",
+          "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA, USA. xiaojie@stanford.edu.",
+          "Department of Computer Science, Stanford University, Stanford, CA, USA. xiaojie@stanford.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature protocols"
+    ],
+    "journal_abbrev": [
+      "Nat Protoc"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 05:32",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43040031",
+      "35108499",
+      "42475469",
+      "40973591",
+      "42635227",
+      "41758996",
+      "41257571",
+      "37524958",
+      "40660409",
+      "42742132",
+      "41984780",
+      "41229398",
+      "40062616",
+      "39738101",
+      "41461643",
+      "41972591",
+      "42024670",
+      "35489382",
+      "42464099",
+      "37985457",
+      "37244909",
+      "42928020",
+      "41183511",
+      "34220932",
+      "41033661",
+      "40970097",
+      "42040898",
+      "42837408",
+      "40739511",
+      "40596854",
+      "42950828",
+      "31068142",
+      "42119563",
+      "37012448",
+      "40251476",
+      "42428023",
+      "40731055",
+      "39570626",
+      "41998716",
+      "39062480",
+      "42074532",
+      "38980373",
+      "36733262",
+      "42126634",
+      "41643202",
+      "40362602",
+      "40662821",
+      "36629404",
+      "39877092",
+      "42185831",
+      "40515392",
+      "41272432",
+      "37426065",
+      "42681526",
+      "41408153",
+      "38019344",
+      "39975293",
+      "37566049",
+      "40764361",
+      "38181891",
+      "40038714",
+      "39180857",
+      "42391613",
+      "41065575",
+      "38976751",
+      "41611959",
+      "41773942",
+      "42094425",
+      "41353326",
+      "39418984",
+      "42395443",
+      "42003657",
+      "42671929",
+      "34954425",
+      "35086932",
+      "42092184",
+      "40609640",
+      "37708894",
+      "39677694",
+      "41826830",
+      "41896196",
+      "39762897",
+      "41455555",
+      "41288963",
+      "41300707",
+      "40771813",
+      "33835452",
+      "41632825",
+      "30574498",
+      "42391245",
+      "39504481",
+      "34193535",
+      "37686146",
+      "41000980",
+      "42248920",
+      "42436415",
+      "40422408",
+      "42332576",
+      "41716413",
+      "39711533"
+    ],
+    "review": [
+      "43040031",
+      "40973591",
+      "41758996",
+      "40970097",
+      "42074532",
+      "42681526",
+      "38019344",
+      "37566049",
+      "42391613",
+      "41611959",
+      "41353326",
+      "41455555",
+      "30574498",
+      "40422408"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41596-026-01458-3",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

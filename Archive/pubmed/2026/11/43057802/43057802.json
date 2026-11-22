@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "pmid": "43057802",
+    "doi": "10.1016/j.lssr.2026.10.009",
+    "title": "Ellagic acid counteracts ionizing radiation-induced stress resistance decline and lifespan reduction through DAF-16/SKN-1-mediated pathways in C. elegans."
+  },
+  "content": {
+    "abstract": "Ionizing radiation (IR) exposure in deep space environments has emerged as a serious health concern, as it induces persistent oxidative stress and chronic inflammation, ultimately reducing lifespan. Dietary intervention with natural bioactive compounds presents a promising radioprotective strategy. In this study, we demonstrate that ellagic acid (EA) effectively restores lifespan and enhances stress resistance in Caenorhabditis elegans after extremely high-dose IR exposure. Specifically, EA mitigates reactive oxygen species (ROS) accumulation and reduces oxidative damage levels in C. elegans exposed to high-dose IR, through upregulating antioxidant and innate immune gene expression, and enhancing antioxidant enzyme activity. Molecular docking analyses suggested that EA can probably interact with the transcription factors DAF-16 and SKN-1. Through GFP reporter and loss-of-function experiments, we demonstrated that EA promotes the nuclear accumulation of DAF-16 and SKN-1, thereby triggering downstream antioxidant and immune pathways that collectively enhance stress resistance and mitigate lifespan reduction in C. elegans exposed to high-dose IR. Overall, this work identifies EA as a promising plant-derived natural polyphenolic compound and establish a mechanistic basis for its potential development as a radioprotective intervention.",
+    "keywords": [
+      "Ellagic acid",
+      "Immune Response",
+      "Ionizing radiation",
+      "Lifespan",
+      "Stress resistance"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Caenorhabditis elegans/radiation effects/drug effects/metabolism/physiology",
+      "*Caenorhabditis elegans Proteins/metabolism",
+      "*Forkhead Transcription Factors/metabolism",
+      "*Longevity/drug effects/radiation effects",
+      "*Transcription Factors/metabolism",
+      "*DNA-Binding Proteins/metabolism",
+      "Oxidative Stress/drug effects/radiation effects",
+      "*Ellagic Acid/pharmacology",
+      "Radiation, Ionizing",
+      "*Radiation-Protective Agents/pharmacology",
+      "Reactive Oxygen Species/metabolism",
+      "Signal Transduction/drug effects",
+      "Antioxidants/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Ge",
+        "Zhao, Lei",
+        "Xuanyuan, Yujie",
+        "Han, Zhicheng",
+        "Xu, Xiaoying",
+        "Mi, Dong",
+        "Sun, Yeqing"
+      ],
+      "short_names": [
+        "Zhang G",
+        "Zhao L",
+        "Xuanyuan Y",
+        "Han Z",
+        "Xu X",
+        "Mi D",
+        "Sun Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Environmental Systems Biology, College of Environmental Science and Engineering, Dalian Maritime University, Dalian, Liaoning, 116026, China.",
+        "Institute of Environmental Systems Biology, College of Environmental Science and Engineering, Dalian Maritime University, Dalian, Liaoning, 116026, China. Electronic address: zhaol@dlmu.edu.cn.",
+        "Institute of Environmental Systems Biology, College of Environmental Science and Engineering, Dalian Maritime University, Dalian, Liaoning, 116026, China.",
+        "Liaoning Provincial Institute of Measurement, Shenyang, Liaoning, 110004, China.",
+        "Department of Radiotherapy Oncology, The Second Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116021, China. Electronic address: xiaoyingxu73@aliyun.com.",
+        "College of Science, Dalian Maritime University, Dalian, Liaoning, 116026, China. Electronic address: mid@dlmu.edu.cn.",
+        "Institute of Environmental Systems Biology, College of Environmental Science and Engineering, Dalian Maritime University, Dalian, Liaoning, 116026, China. Electronic address: yqsun@dlmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Ge",
+        "short_name": "Zhang G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Environmental Systems Biology, College of Environmental Science and Engineering, Dalian Maritime University, Dalian, Liaoning, 116026, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Lei",
+        "short_name": "Zhao L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Environmental Systems Biology, College of Environmental Science and Engineering, Dalian Maritime University, Dalian, Liaoning, 116026, China. Electronic address: zhaol@dlmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xuanyuan, Yujie",
+        "short_name": "Xuanyuan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Environmental Systems Biology, College of Environmental Science and Engineering, Dalian Maritime University, Dalian, Liaoning, 116026, China."
+        ]
+      },
+      {
+        "full_name": "Han, Zhicheng",
+        "short_name": "Han Z",
+        "identifiers": [],
+        "affiliations": [
+          "Liaoning Provincial Institute of Measurement, Shenyang, Liaoning, 110004, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiaoying",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiotherapy Oncology, The Second Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, 116021, China. Electronic address: xiaoyingxu73@aliyun.com."
+        ]
+      },
+      {
+        "full_name": "Mi, Dong",
+        "short_name": "Mi D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Science, Dalian Maritime University, Dalian, Liaoning, 116026, China. Electronic address: mid@dlmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Sun, Yeqing",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Environmental Systems Biology, College of Environmental Science and Engineering, Dalian Maritime University, Dalian, Liaoning, 116026, China. Electronic address: yqsun@dlmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Life sciences in space research"
+    ],
+    "journal_abbrev": [
+      "Life Sci Space Res (Amst)"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 23:29",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43057802",
+      "41187536",
+      "30710163",
+      "33881421",
+      "42492260",
+      "39354761",
+      "31401497",
+      "37742572",
+      "42379452",
+      "24964141",
+      "41408474",
+      "36234702",
+      "40466506",
+      "28434978",
+      "35041882",
+      "31799533",
+      "39674829",
+      "31669661",
+      "29605769",
+      "23736695",
+      "40973886",
+      "41730400",
+      "30238944",
+      "42843481",
+      "41828469",
+      "39528176",
+      "42166864",
+      "33124727",
+      "33924155",
+      "42084774",
+      "38754743",
+      "42777983",
+      "28612944",
+      "39740706",
+      "40922660",
+      "43024199",
+      "42486040",
+      "34836223",
+      "39197398",
+      "31379987",
+      "31286949",
+      "27370100",
+      "42070156",
+      "28954389",
+      "32535316",
+      "35016885",
+      "41453542",
+      "32074508",
+      "42585373",
+      "31206890",
+      "34374387",
+      "32285078",
+      "38930783",
+      "41926550",
+      "32161088",
+      "35988813",
+      "41830534",
+      "30004006",
+      "42018048",
+      "35237385",
+      "31766103",
+      "27090484",
+      "39353373",
+      "26899496",
+      "42762352",
+      "40333562",
+      "39483065",
+      "25644181",
+      "36921677",
+      "26592451",
+      "42275699",
+      "42304897",
+      "42616013",
+      "22041455",
+      "42799910",
+      "36662174",
+      "30423886",
+      "41414713",
+      "40260541",
+      "42616001",
+      "42943656",
+      "30668421",
+      "34675482",
+      "28397803",
+      "35279029",
+      "24835194",
+      "41283785",
+      "30031267",
+      "42938379",
+      "38705496",
+      "26236426",
+      "27554775",
+      "35119578",
+      "31039619",
+      "38632209",
+      "31948007",
+      "32469357",
+      "41242472",
+      "35366456",
+      "40602899"
+    ],
+    "review": [
+      "43057802"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2214-5524(26)00137-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3972",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

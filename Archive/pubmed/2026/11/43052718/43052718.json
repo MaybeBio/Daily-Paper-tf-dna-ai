@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "43052718",
+    "doi": "10.1186/s12859-026-06616-8",
+    "title": "MAMTF: a method for predicting transcription factor binding sites combining state-space modeling and adaptive feature fusion."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Transcription factor binding sites (TFBSs) are short sequences on DNA that can be recognized and bound by specific transcription factors (TFs). Accurate identification of TFBSs is crucial for decoding gene regulatory mechanisms and understanding cellular functions. Traditional machine learning-based methods rely on manually designed features, making it difficult to fully uncover the complex patterns within DNA sequences. In recent years, deep learning methods have demonstrated significant advantages in TFBSs prediction. However, existing methods still have shortcomings in terms of local and global feature extraction as well as feature fusion. RESULTS: To address these issues, we propose a deep learning method, MAMTF, designed to integrate local and global DNA features to improve the performance of TFBSs prediction. This method uses a multiscale convolutional neural network to extract local sequence features, employs a bidirectional Mamba architecture to capture long-range dependencies, and designs a cross-gated fusion module to achieve deep interaction between different features. On 165 ChIP-seq datasets encompassing 29 transcription factor (TF) categories, MAMTF achieves a macro-averaged ACC (0.819), ROC-AUC (0.895) and PR-AUC (0.900) over the 29 TF categories, showing promising prediction ability. CONCLUSIONS: Experimental results show that MAMTF outperforms other six methods in predicting TFBSs, exhibiting optimal and stable performance on 29 TF categories, providing a new tool for accurate TFBSs prediction.",
+    "keywords": [
+      "Feature fusion",
+      "Mamba",
+      "Multiscale convolution",
+      "Transcription factor binding sites"
+    ],
+    "mesh_terms": [
+      "*Transcription Factors/metabolism",
+      "Binding Sites",
+      "*Computational Biology/methods",
+      "*Deep Learning",
+      "Chromatin Immunoprecipitation Sequencing",
+      "DNA/metabolism/chemistry",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Han",
+        "Luo, Junwei",
+        "Shen, Xiaohe",
+        "Luo, Fen"
+      ],
+      "short_names": [
+        "Zhang H",
+        "Luo J",
+        "Shen X",
+        "Luo F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Software, Henan Polytechnic University, Jiaozuo, 454003, China.",
+        "School of Software, Henan Polytechnic University, Jiaozuo, 454003, China. luojunwei@hpu.edu.cn.",
+        "First Clinical Medical College, Zhengzhou University, Zhengzhou, 450001, China.",
+        "School of Software, Henan Polytechnic University, Jiaozuo, 454003, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Han",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Software, Henan Polytechnic University, Jiaozuo, 454003, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Junwei",
+        "short_name": "Luo J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Software, Henan Polytechnic University, Jiaozuo, 454003, China. luojunwei@hpu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Shen, Xiaohe",
+        "short_name": "Shen X",
+        "identifiers": [],
+        "affiliations": [
+          "First Clinical Medical College, Zhengzhou University, Zhengzhou, 450001, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Fen",
+        "short_name": "Luo F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Software, Henan Polytechnic University, Jiaozuo, 454003, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC bioinformatics"
+    ],
+    "journal_abbrev": [
+      "BMC Bioinformatics"
+    ],
+    "pub_date": "2026 Aug 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052718",
+      "40914877",
+      "39350338",
+      "40102719",
+      "40889326",
+      "34929739",
+      "38701417",
+      "37328639",
+      "36748992",
+      "34272562",
+      "41634097",
+      "39701486",
+      "30835229",
+      "42099803",
+      "40334196",
+      "38733561",
+      "33498086",
+      "33372147",
+      "34613923",
+      "38236675",
+      "40702706",
+      "34752400",
+      "27567672",
+      "36155619",
+      "35263332",
+      "34073774",
+      "31634140",
+      "34174819",
+      "36094959",
+      "28750606",
+      "38732207",
+      "35652477",
+      "31336830",
+      "32770026",
+      "38798191",
+      "29993783",
+      "41325984",
+      "39107889",
+      "38643066",
+      "32960766",
+      "31372637",
+      "41645436",
+      "30447332",
+      "33767912",
+      "34664074",
+      "39402535",
+      "42145197",
+      "41791267",
+      "41564724",
+      "42475469",
+      "28961686",
+      "39214282",
+      "24039567",
+      "19956545",
+      "36057196",
+      "21059262",
+      "26285121",
+      "40065237",
+      "33522898",
+      "24927817",
+      "25957350",
+      "25775564",
+      "41257600",
+      "24564277",
+      "35462009",
+      "26818008",
+      "40848288",
+      "42235009",
+      "35681170",
+      "18627598",
+      "31406384",
+      "32976105",
+      "28849563",
+      "22784574",
+      "32946398",
+      "40411397",
+      "24942981",
+      "40302345",
+      "36049552",
+      "33837387",
+      "35042722",
+      "41035197",
+      "20158869",
+      "23522376",
+      "27503086",
+      "40646689",
+      "38179749",
+      "41920894",
+      "40684093",
+      "38397134",
+      "21124945",
+      "23282203",
+      "29617876",
+      "41601205",
+      "41527854",
+      "27871221",
+      "24472686",
+      "30578913",
+      "42928020",
+      "38599417"
+    ],
+    "review": [
+      "43052718",
+      "35652477",
+      "30447332"
+    ],
+    "pmc": [
+      "13779910"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-026-06616-8",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PGR-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

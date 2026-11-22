@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "43057455",
+    "doi": "10.1016/j.envpol.2026.129582",
+    "title": "Integration of Network Toxicology and Transcriptomic Data: Exploring Molecular Associations Between Polystyrene Microplastics Exposure and Metabolic Dysfunction-Associated Steatohepatitis."
+  },
+  "content": {
+    "abstract": "Polystyrene microplastics (PS-MPs), persistent and bioaccumulative environmental pollutants detected in human tissues, have been increasingly associated with hepatic oxidative stress and inflammatory disturbances; however, their potential molecular relevance in metabolic dysfunction-associated steatohepatitis (MASH) remains vague. In this study, we applied a systems-level integrative framework combining transcriptomic analysis, network toxicology, immune profiling, and molecular docking to explore the overlap between genes with curated chemical-gene interactions involving polystyrene in the Comparative Toxicogenomics Database (CTD) and differentially expressed genes in human MASH liver tissues. By intersecting MASH-associated differentially expressed genes from the Gene Expression Omnibus with polystyrene-related genes curated in the CTD, we identified 80 candidate genes representing an overlap between curated polystyrene-gene interaction records and disease-related transcriptional alterations. Functional enrichment and protein-protein interaction analyses further prioritized eight hub genes (MYC, ATF3, CXCL2, IL18, NOS2, SOD2, FASN, and ARG1) that were consistently associated with inflammatory signaling, oxidative stress regulation, and metabolic dysregulation. Immune infiltration analysis indicated close association of the hub genes expression with characteristic immune remodeling patterns in MASH. Upstream regulatory analysis identified several transcription factors (TFs) potentially involved in coordinating hub gene expression, among which JUN/AP-1 emerged as a central regulatory node linking inflammation, oxidative stress, and metabolism-related programs. Molecular docking analysis provided structural support for the potential physical feasibility of interactions between a polystyrene pentamer and the selected TFs. Collectively, these findings establish a systems-level framework integrating CTD-curated polystyrene-gene interaction information with key transcriptional and immunometabolic features of MASH, generating testable hypotheses about the potential molecular relevance of PS-MPs to MASH for future mechanistic studies and environmental health risk assessment.",
+    "keywords": [
+      "Metabolic dysfunction-associated steatohepatitis",
+      "Molecular docking",
+      "Network toxicology",
+      "Polystyrene microplastics",
+      "Transcriptomic analysis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Linbing",
+        "Wu, Jiarui",
+        "Ren, Yuerong",
+        "Wang, Xinya",
+        "Gao, Qingyao",
+        "Sun, Suju"
+      ],
+      "short_names": [
+        "Zhang L",
+        "Wu J",
+        "Ren Y",
+        "Wang X",
+        "Gao Q",
+        "Sun S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China.",
+        "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China.",
+        "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China.",
+        "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China.",
+        "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China.",
+        "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China. Electronic address: 16800853@hebmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Linbing",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiarui",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Yuerong",
+        "short_name": "Ren Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xinya",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Qingyao",
+        "short_name": "Gao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Suju",
+        "short_name": "Sun S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Occupational Health and Environmental Health, School of Public Health, Hebei Medical University, Shijiazhuang, 050017, China; Hebei Key Laboratory of Environment and Population Health, Shijiazhuang, 050017, China. Electronic address: 16800853@hebmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Environmental pollution (Barking, Essex : 1987)"
+    ],
+    "journal_abbrev": [
+      "Environ Pollut"
+    ],
+    "pub_date": "2026 Nov 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 23:29",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43057455",
+      "42263869",
+      "41895505",
+      "42265520",
+      "42292825",
+      "42450300",
+      "41847139",
+      "42233387",
+      "42616073",
+      "42952571",
+      "42650141",
+      "41591671",
+      "41722245",
+      "43052049",
+      "41512780",
+      "42775123",
+      "42767134",
+      "41733140",
+      "42694440",
+      "42642681",
+      "42825974",
+      "40292075",
+      "42609119",
+      "39605886",
+      "40804795",
+      "41261566",
+      "42450069",
+      "42599654",
+      "42884168",
+      "41611834",
+      "42511975",
+      "40360670",
+      "42113191",
+      "42263871",
+      "42475469",
+      "42940370",
+      "42743802",
+      "42410645",
+      "42631563",
+      "38017425",
+      "42501686",
+      "40559927",
+      "42088521",
+      "42485796",
+      "42968020",
+      "42032347",
+      "41533020",
+      "42428344",
+      "42450190",
+      "40467639",
+      "38987612",
+      "42123445",
+      "42471019",
+      "42276391",
+      "40406118",
+      "42482916",
+      "42018200",
+      "42565562",
+      "38319987",
+      "42859261",
+      "42708302",
+      "43017093",
+      "42921216",
+      "42501685",
+      "42053674",
+      "42846532",
+      "42634507",
+      "41970276",
+      "41851254",
+      "42223712",
+      "41764607",
+      "42741553",
+      "42486346",
+      "43042173",
+      "42528928",
+      "40289127",
+      "41226680",
+      "42421348",
+      "41636759",
+      "42535174",
+      "41251871",
+      "42701175",
+      "42572137",
+      "42759461",
+      "42497141",
+      "42364336",
+      "40884426",
+      "39556279",
+      "42761201",
+      "42530073",
+      "42024670",
+      "40683423",
+      "42653779",
+      "42843039",
+      "40532306",
+      "41142238",
+      "41714375",
+      "40574839",
+      "41105646",
+      "41529475"
+    ],
+    "review": [
+      "43057455"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0269-7491(26)01952-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ARG1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3893",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

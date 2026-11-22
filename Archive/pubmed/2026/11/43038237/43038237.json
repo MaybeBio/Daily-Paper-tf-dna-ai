@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "43038237",
+    "doi": "10.1371/journal.pone.0362493",
+    "title": "Toddalolactone inhibits the activation of fibroblasts in skin fibrosis by regulating MAOA."
+  },
+  "content": {
+    "abstract": "Skin fibrosis is characterized by excessive deposition of extracellular matrix driven by activated fibroblasts, leading to varying degrees of patient discomfort, deformity, disability, and even death. In vitro studies using mouse primary skin fibroblasts (PSFs) and patient-derived primary keloid fibroblasts (KFs) demonstrated that toddalolactone (Tod) significantly inhibited fibroblast proliferation, migration, and activation and suppressed the TGF-beta1/Smad and TGF-beta1/non-Smad pathways in these cells. In a bleomycin (BLM)-induced mouse model of skin fibrosis, Tod treatment significantly reduced dermal thickness and collagen deposition in mouse skin, decreased skin hydroxyproline content, and inhibited fibroblast activation as well as the TGF-beta1/Smad and TGF-beta1/non-Smad pathways in vivo. In a keloid xenograft mouse model, Tod treatment significantly reduced the relative weight of keloids in mice. Histopathological analysis revealed that Tod alleviated the degree of keloid fibrosis and collagen aggregation while inhibiting fibroblast activation in keloid tissue. Furthermore, molecular docking identified monoamine oxidase A (MAOA) as a potential target of Tod. Cellular thermal shift assays and MAOA knockdown using siRNA in PSFs and KFs demonstrated that Tod inhibits the TGF-beta1 pathway and suppresses fibroblast activation by inhibiting MAOA. Collectively, the findings reveal that Tod regulates the TGF-beta1/Smad and TGF-beta1/non-Smad pathways through inhibiting MAOA, thereby affecting skin fibroblast activation and alleviating skin fibrosis.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Fibroblasts/drug effects/metabolism/pathology",
+      "Humans",
+      "Transforming Growth Factor beta1/metabolism",
+      "Fibrosis/drug therapy",
+      "*Skin/pathology/drug effects/metabolism",
+      "Mice",
+      "*Monoamine Oxidase/metabolism/genetics/chemistry",
+      "*Keloid/pathology/drug therapy/metabolism",
+      "Signal Transduction/drug effects",
+      "Cell Proliferation/drug effects",
+      "Male",
+      "Molecular Docking Simulation",
+      "Cell Movement/drug effects",
+      "Bleomycin",
+      "Smad Proteins/metabolism",
+      "Cells, Cultured"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yongping",
+        "Li, Shimeng",
+        "Song, Hao",
+        "Yang, Cheng"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Li S",
+        "Song H",
+        "Yang C"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4004-1707"
+      ],
+      "affiliations": [
+        "Frontier Science Center for Synthetic Biology (Ministry of Education), Key Laboratory of Systems Bioengineering, and School of Synthetic Biology and Biomanufacturing, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Nankai University, Tianjin, China.",
+        "Frontier Science Center for Synthetic Biology (Ministry of Education), Key Laboratory of Systems Bioengineering, and School of Synthetic Biology and Biomanufacturing, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Nankai University, Tianjin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yongping",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Frontier Science Center for Synthetic Biology (Ministry of Education), Key Laboratory of Systems Bioengineering, and School of Synthetic Biology and Biomanufacturing, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shimeng",
+        "short_name": "Li S",
+        "identifiers": [
+          "0000-0003-4004-1707"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Song, Hao",
+        "short_name": "Song H",
+        "identifiers": [],
+        "affiliations": [
+          "Frontier Science Center for Synthetic Biology (Ministry of Education), Key Laboratory of Systems Bioengineering, and School of Synthetic Biology and Biomanufacturing, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Cheng",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Nankai University, Tianjin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 17:33",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43038237",
+      "38906511",
+      "40082519",
+      "27525969",
+      "40619039",
+      "39589029",
+      "31288014",
+      "33433355",
+      "40173005",
+      "39024326",
+      "22540338",
+      "32317186",
+      "34783198",
+      "40069312",
+      "41737799",
+      "42696338",
+      "27339758",
+      "35441708",
+      "34439906",
+      "33315500",
+      "42774172",
+      "39615217",
+      "33436666",
+      "28458155",
+      "40571139",
+      "25120737",
+      "38762147",
+      "28192879",
+      "40319830",
+      "29374548",
+      "31706003",
+      "21967214",
+      "42530078",
+      "41784830",
+      "39513311",
+      "41008517",
+      "36608994",
+      "42762718",
+      "40088035",
+      "41831246",
+      "40381666",
+      "24981855",
+      "39245184",
+      "31954164",
+      "29328420",
+      "20717830",
+      "41289748",
+      "29544542",
+      "33896391",
+      "25031017",
+      "30854687",
+      "32325772",
+      "38951964",
+      "31125560",
+      "39105875",
+      "41958270",
+      "35785413",
+      "29846215",
+      "33671452",
+      "35441794",
+      "33155239",
+      "28498357",
+      "34048784",
+      "37091895",
+      "30341526",
+      "39571732",
+      "42400973",
+      "41347324",
+      "35405613",
+      "33940030",
+      "40055124",
+      "39354547",
+      "42918379",
+      "28364627",
+      "28946191",
+      "40788381",
+      "36847714",
+      "26054450",
+      "40818661",
+      "26629012",
+      "19120328",
+      "38492983",
+      "34978504",
+      "41833636",
+      "40315640",
+      "22033529",
+      "25683490",
+      "42487137",
+      "22451267",
+      "23177217",
+      "38874804",
+      "30082522",
+      "24250248",
+      "38641575",
+      "24471776",
+      "41748048",
+      "25674226",
+      "26010495",
+      "39140804",
+      "27774992"
+    ],
+    "review": [
+      "43038237"
+    ],
+    "pmc": [
+      "13773324"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0362493",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43038237/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

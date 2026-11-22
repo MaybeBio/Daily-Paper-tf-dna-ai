@@ -1,0 +1,294 @@
+{
+  "identity": {
+    "pmid": "43055838",
+    "doi": "10.1007/s12035-026-06318-5",
+    "title": "Time Between Learning Events Shapes Functional Connectivity in Spatial Memory: A Brain-Wide Analysis."
+  },
+  "content": {
+    "abstract": "A substantial body of research indicates that spaced training, characterized by longer inter-trial intervals between training epochs, consistently outperforms massed training in promoting durable memory. To investigate the neural mechanisms underlying this difference, we quantified c-Fos expression across 126 brain regions and mapped network activity following both spatial and cue-based learning under massed and spaced training protocols. While both training regimens (spaced and massed) and memory types (spatial and cue-based) produced small-world networks with similar overall topology, they differed in the functional organization of specific circuits. Massed spatial training preferentially activated hippocampal-thalamic and claustrum-basal ganglia-thalamic pathways. In contrast, spaced spatial training promoted stronger cortico-thalamic interactions and enhanced communication between the hippocampus and basal ganglia, indicating a shift toward a more integrated, cortically mediated network. These findings suggest that temporal spacing of training reorganizes memory-related brain networks, enhancing cortical-thalamic dynamics to support more efficient spatial memory. Finally, spaced networks were more sensitive to targeted disruptions of key connector hubs-identified through betweenness centrality analysis-than massed networks, pointing to a potential systems-level trade-off.",
+    "keywords": [
+      "Functional connectivity",
+      "Graph theory",
+      "Mice",
+      "Neural networks",
+      "Spacing effect",
+      "Spatial learning"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Spatial Memory/physiology",
+      "*Brain/physiology",
+      "Time Factors",
+      "Male",
+      "Mice, Inbred C57BL",
+      "Neural Pathways/physiology",
+      "*Learning/physiology",
+      "Proto-Oncogene Proteins c-fos/metabolism",
+      "*Nerve Net/physiology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "di Sturmeck, Tommaso Gosetti",
+        "Bergamo, Sebastiano",
+        "Mastrorilli, Valentina",
+        "Patrizi, Annarita",
+        "Nuzzi, Davide",
+        "Pezzulo, Giovanni",
+        "Del Ferraro, Gino",
+        "Rinaldi, Arianna",
+        "Mele, Andrea"
+      ],
+      "short_names": [
+        "di Sturmeck TG",
+        "Bergamo S",
+        "Mastrorilli V",
+        "Patrizi A",
+        "Nuzzi D",
+        "Pezzulo G",
+        "Del Ferraro G",
+        "Rinaldi A",
+        "Mele A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3155-5610"
+      ],
+      "affiliations": [
+        "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy.",
+        "\"Bio@SNS\" Laboratory of Biology, Scuola Normale Superiore, Pisa, Italy.",
+        "Present Address: Department of Physiology and Pharmacology \"V. Erspamer\", Sapienza University of Rome, Rome, Italy.",
+        "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy.",
+        "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy.",
+        "Institute of Biochemistry and Cell Biology, National Research Council (CNR), Monterotondo, RM, Italy.",
+        "Department of Neurobiology, Interdisciplinary Centre for Neurosciences (IZN), Heidelberg University, Heidelberg, Germany.",
+        "Institute of Cognitive Sciences and Technologies, National Research Council, Rome, Italy.",
+        "Institute of Cognitive Sciences and Technologies, National Research Council, Rome, Italy.",
+        "Swiss Data Science Center, EPFL and ETH Zurich, Zurich, Switzerland.",
+        "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy.",
+        "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy. andrea.mele@uniroma1.it."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "di Sturmeck, Tommaso Gosetti",
+        "short_name": "di Sturmeck TG",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy.",
+          "\"Bio@SNS\" Laboratory of Biology, Scuola Normale Superiore, Pisa, Italy.",
+          "Present Address: Department of Physiology and Pharmacology \"V. Erspamer\", Sapienza University of Rome, Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Bergamo, Sebastiano",
+        "short_name": "Bergamo S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Mastrorilli, Valentina",
+        "short_name": "Mastrorilli V",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy.",
+          "Institute of Biochemistry and Cell Biology, National Research Council (CNR), Monterotondo, RM, Italy."
+        ]
+      },
+      {
+        "full_name": "Patrizi, Annarita",
+        "short_name": "Patrizi A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, Interdisciplinary Centre for Neurosciences (IZN), Heidelberg University, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Nuzzi, Davide",
+        "short_name": "Nuzzi D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Cognitive Sciences and Technologies, National Research Council, Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Pezzulo, Giovanni",
+        "short_name": "Pezzulo G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Cognitive Sciences and Technologies, National Research Council, Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Del Ferraro, Gino",
+        "short_name": "Del Ferraro G",
+        "identifiers": [],
+        "affiliations": [
+          "Swiss Data Science Center, EPFL and ETH Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Rinaldi, Arianna",
+        "short_name": "Rinaldi A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Mele, Andrea",
+        "short_name": "Mele A",
+        "identifiers": [
+          "0000-0002-3155-5610"
+        ],
+        "affiliations": [
+          "Center for Research in Neurobiology-D. Bovet, Department of Biology and Biotechnologies \"Charles Darwin\", Sapienza University of Rome, Rome, Italy. andrea.mele@uniroma1.it."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular neurobiology"
+    ],
+    "journal_abbrev": [
+      "Mol Neurobiol"
+    ],
+    "pub_date": "2026 Nov 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 17:33",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43055838",
+      "32565407",
+      "42475469",
+      "40123281",
+      "25680583",
+      "31424720",
+      "12037179",
+      "29953904",
+      "28488186",
+      "33262247",
+      "25195980",
+      "31919427",
+      "31036763",
+      "28666957",
+      "40189125",
+      "37587232",
+      "40169798",
+      "11029651",
+      "41275018",
+      "28213065",
+      "34301824",
+      "41813837",
+      "8950099",
+      "40873287",
+      "24623776",
+      "28951163",
+      "30061189",
+      "39658543",
+      "28174333",
+      "12405955",
+      "28426969",
+      "25154600",
+      "40113948",
+      "32360929",
+      "24367076",
+      "39731002",
+      "41150161",
+      "28330743",
+      "26748021",
+      "28432141",
+      "31067263",
+      "28392406",
+      "27353970",
+      "40259540",
+      "28292834",
+      "39241900",
+      "37669938",
+      "40032133",
+      "42983498",
+      "40367722",
+      "27046111",
+      "40608816",
+      "42989827",
+      "19882649",
+      "30459228",
+      "31285301",
+      "11918290",
+      "31518769",
+      "42658268",
+      "27102086",
+      "32798679",
+      "32038159",
+      "30478034",
+      "22090478",
+      "38798004",
+      "30116860",
+      "29028135",
+      "42405921",
+      "26047523",
+      "40022219",
+      "24315832",
+      "27307234",
+      "26844322",
+      "27685777",
+      "25724761",
+      "42304477",
+      "28961235",
+      "29098688",
+      "24565926",
+      "30543856",
+      "11156196",
+      "42767933",
+      "28279356",
+      "20594357",
+      "18023984",
+      "31182707",
+      "39732221",
+      "34131030",
+      "40898026",
+      "22503778",
+      "41771236",
+      "21677179",
+      "33185985",
+      "42155875",
+      "27903719",
+      "41125448",
+      "32753513",
+      "41088450",
+      "35288176",
+      "29989183"
+    ],
+    "review": [
+      "43055838",
+      "25195980"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s12035-026-06318-5",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

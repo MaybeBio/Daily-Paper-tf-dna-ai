@@ -1,0 +1,335 @@
+{
+  "identity": {
+    "pmid": "43060036",
+    "doi": "10.64898/2026.10.30.763198",
+    "title": "Machine learning guided design of strong transcriptional activation domains."
+  },
+  "content": {
+    "abstract": "Artificial intelligence has accelerated the design of structured proteins, but it remains difficult to design functional intrinsically disordered proteins because of weak structural constraints and poorly defined sequence-to-function relationships (1) . Activation domains (ADs), transcription factor regions that recruit coactivators, are an excellent test case for the de novo design of intrinsically disordered sequences. ADs are one of the oldest groups of functional intrinsically disordered sequences (2) and designed ADs have applications in synthetic biology, biotechnology, and agriculture. We computationally generated 500,000 candidate sequences that resembled known ADs and predicted AD function with extant machine learning models, including three neural networks. From high-scoring sequences, we selected 18,750 for experimental validation in yeast. Surprisingly, >90% of the 16,770 well-measured sequences function as ADs. Sequences predicted to be active by multiple models were stronger, motivating development of a fast and accurate consensus AD predictor, MADRIGAL. A number of our designed ADs retain functionality across fungi, plants, and human cells. This work illustrates a generalizable paradigm for incorporating sequence-to-function models into the design loop to efficiently generate functional intrinsically disordered sequences.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zintel, Marissa A",
+        "LeBlanc, Claire J",
+        "Kotha, Sanjana R",
+        "Soriano, Melvin",
+        "Bansal, Rishaan J",
+        "Aguilera, Daniel",
+        "Majidi, Touss",
+        "Ornelas, Izaiah",
+        "Kirkpatrick, Liam D",
+        "Udupa, Aditya",
+        "Hu, Gean",
+        "Agarwal, Pooja",
+        "Lam, Angelica W Y",
+        "Nunez, James K",
+        "Shih, Patrick M",
+        "Sozzani, Rosangela",
+        "Strader, Lucia C",
+        "Staller, Max V"
+      ],
+      "short_names": [
+        "Zintel MA",
+        "LeBlanc CJ",
+        "Kotha SR",
+        "Soriano M",
+        "Bansal RJ",
+        "Aguilera D",
+        "Majidi T",
+        "Ornelas I",
+        "Kirkpatrick LD",
+        "Udupa A",
+        "Hu G",
+        "Agarwal P",
+        "Lam AWY",
+        "Nunez JK",
+        "Shih PM",
+        "Sozzani R",
+        "Strader LC",
+        "Staller MV"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-4670-5272",
+        "ORCID: 0000-0001-9094-5697"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Zintel, Marissa A",
+        "short_name": "Zintel MA",
+        "identifiers": [
+          "0009-0008-4670-5272"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "LeBlanc, Claire J",
+        "short_name": "LeBlanc CJ",
+        "identifiers": [
+          "0000-0001-9094-5697"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kotha, Sanjana R",
+        "short_name": "Kotha SR",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Soriano, Melvin",
+        "short_name": "Soriano M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bansal, Rishaan J",
+        "short_name": "Bansal RJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Aguilera, Daniel",
+        "short_name": "Aguilera D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Majidi, Touss",
+        "short_name": "Majidi T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ornelas, Izaiah",
+        "short_name": "Ornelas I",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kirkpatrick, Liam D",
+        "short_name": "Kirkpatrick LD",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Udupa, Aditya",
+        "short_name": "Udupa A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hu, Gean",
+        "short_name": "Hu G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Agarwal, Pooja",
+        "short_name": "Agarwal P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lam, Angelica W Y",
+        "short_name": "Lam AWY",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nuñez, James K",
+        "short_name": "Nuñez JK",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shih, Patrick M",
+        "short_name": "Shih PM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sozzani, Rosangela",
+        "short_name": "Sozzani R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Strader, Lucia C",
+        "short_name": "Strader LC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Staller, Max V",
+        "short_name": "Staller MV",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060036",
+      "33904398",
+      "32416068",
+      "42475469",
+      "23912807",
+      "39020176",
+      "42607673",
+      "42782706",
+      "42519045",
+      "39214280",
+      "39484498",
+      "39755236",
+      "29759983",
+      "43062557",
+      "10966808",
+      "38710202",
+      "40081192",
+      "29507182",
+      "38073129",
+      "42527600",
+      "18831774",
+      "38056064",
+      "42995993",
+      "38431892",
+      "35120642",
+      "24898915",
+      "41278656",
+      "33304713",
+      "42478686",
+      "31299122",
+      "37961106",
+      "37745555",
+      "36321557",
+      "38808365",
+      "25122681",
+      "37986812",
+      "34235484",
+      "17391016",
+      "38109289",
+      "39677729",
+      "36959451",
+      "30135358",
+      "41232529",
+      "29655986",
+      "38866009",
+      "27679670",
+      "19402914",
+      "42828724",
+      "41993527",
+      "33001599",
+      "41261132",
+      "30866736",
+      "40897171",
+      "38053335",
+      "35934050",
+      "38766093",
+      "42427316",
+      "34418423",
+      "41981910",
+      "41346856",
+      "25287424",
+      "33421906",
+      "42647377",
+      "38459060",
+      "42978922",
+      "29562181",
+      "34390736",
+      "42421755",
+      "41082321",
+      "37883249",
+      "32859072",
+      "32295482",
+      "34905691",
+      "27175900",
+      "36933821",
+      "39888268",
+      "34179096",
+      "36908253",
+      "42670877",
+      "42231905",
+      "29577850",
+      "31264965",
+      "36272675",
+      "34480923",
+      "33562347",
+      "42358483",
+      "39576583",
+      "24027208",
+      "41419011",
+      "40131954",
+      "40756902",
+      "19067583",
+      "38097100",
+      "37498545",
+      "41579411",
+      "40971691",
+      "32702119",
+      "42805095",
+      "40149012",
+      "34731479"
+    ],
+    "review": [
+      "43060036",
+      "39214280",
+      "40081192",
+      "38056064",
+      "36321557",
+      "36959451",
+      "29655986",
+      "27679670",
+      "42828724",
+      "33001599",
+      "40897171",
+      "34418423",
+      "25287424",
+      "33421906",
+      "42978922",
+      "34390736",
+      "34905691",
+      "39888268",
+      "42231905",
+      "33562347",
+      "24027208",
+      "38097100",
+      "41579411",
+      "42805095"
+    ],
+    "pmc": [
+      "13780563"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

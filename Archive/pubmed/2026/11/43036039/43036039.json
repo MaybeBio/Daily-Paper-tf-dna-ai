@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "43036039",
+    "doi": "10.1002/advs.78754",
+    "title": "GPCR-Mediated Regulation of Cytochrome P450 Drives Sulfoxaflor Resistance in Aphis gossypii Glover."
+  },
+  "content": {
+    "abstract": "Rapid evolution of insecticide resistance threatens agricultural productivity. While the fundamental molecular and biochemical mechanisms underlying resistance are well documented, the regulatory processes governing resistance-associated genes, particularly those involving signal-regulated transcription factors, remain poorly understood. Here, we investigated trans-regulation of cytochrome P450 genes associated with sulfoxaflor resistance in Aphis gossypii Glover. Our findings suggest that G protein-coupled receptor (GPCR)-associated signaling and cAMP response element binding protein contribute to resistance-associated P450 gene regulation. FISH and RT-qPCR demonstrate that DopR1 transcripts are enriched in the epidermis, and beta-1A transcripts are enriched in the head. Molecular docking, heterologous expression, and biolayer interferometry assays demonstrate that DopR1 and beta-1A participate in cellular recognition or response to sulfoxaflor and activate downstream cAMP signaling. Silencing DopR1 and beta-1A reduced cAMP content, PKA activity, P450 enzyme activity, and resistance-related P450 expression, thereby enhancing aphid sensitivity to sulfoxaflor. Inhibitor-based suppression, pathway gene silencing, and dual-luciferase reporter assays implicated AC-2, AC-5, PKA-4, PKA-7, CRTC, and CREB in regulating critical resistance-related genes, especially CYP6CY19. Furthermore, functional validation using transgenic Drosophila melanogaster expressing CYP6CY13 and CYP6CY19 demonstrated increased sulfoxaflor tolerance. Collectively, these findings support a working model linking GPCR-associated signaling to the regulation of selected resistance-associated P450 genes in A. gossypii.",
+    "keywords": [
+      "Aphis gossypii",
+      "G protein-coupled receptor",
+      "P450",
+      "Regulatory mechanisms",
+      "Sulfoxaflor resistance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lv, Haixiang",
+        "Li, Xuchao",
+        "Yang, Chengzhi",
+        "Guo, Zhimin",
+        "Huang, Yang",
+        "He, Shun",
+        "Wan, Hu",
+        "Li, Jianhong",
+        "Bass, Chris",
+        "Ma, Kangsheng"
+      ],
+      "short_names": [
+        "Lv H",
+        "Li X",
+        "Yang C",
+        "Guo Z",
+        "Huang Y",
+        "He S",
+        "Wan H",
+        "Li J",
+        "Bass C",
+        "Ma K"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-0416-0303",
+        "ORCID: 0000-0003-4551-0744",
+        "ORCID: 0000-0002-8123-3759",
+        "ORCID: 0000-0003-4354-9231",
+        "ORCID: 0000-0002-2590-1492",
+        "ORCID: 0000-0003-2619-4520"
+      ],
+      "affiliations": [
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "Centre for Ecology and Conservation, University of Exeter, Penryn, UK.",
+        "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lv, Haixiang",
+        "short_name": "Lv H",
+        "identifiers": [
+          "0009-0002-0416-0303"
+        ],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuchao",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Chengzhi",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Zhimin",
+        "short_name": "Guo Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yang",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "He, Shun",
+        "short_name": "He S",
+        "identifiers": [
+          "0000-0003-4551-0744"
+        ],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Hu",
+        "short_name": "Wan H",
+        "identifiers": [
+          "0000-0002-8123-3759"
+        ],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jianhong",
+        "short_name": "Li J",
+        "identifiers": [
+          "0000-0003-4354-9231"
+        ],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Bass, Chris",
+        "short_name": "Bass C",
+        "identifiers": [
+          "0000-0002-2590-1492"
+        ],
+        "affiliations": [
+          "Centre for Ecology and Conservation, University of Exeter, Penryn, UK."
+        ]
+      },
+      {
+        "full_name": "Ma, Kangsheng",
+        "short_name": "Ma K",
+        "identifiers": [
+          "0000-0003-2619-4520"
+        ],
+        "affiliations": [
+          "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Nov 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 05:32",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43036039",
+      "31153470",
+      "36265537",
+      "41623618",
+      "37717675",
+      "26656663",
+      "33899308",
+      "30033005",
+      "29891371",
+      "33877846",
+      "35092151",
+      "37690634",
+      "28955787",
+      "39904427",
+      "33923504",
+      "39408947",
+      "40641058",
+      "41700785",
+      "41086698",
+      "31378359",
+      "32327610",
+      "35735835",
+      "30363391",
+      "32527429",
+      "38329423",
+      "28463435",
+      "34737138",
+      "32980055",
+      "36067017",
+      "28911734",
+      "29183611",
+      "37532343",
+      "36165284",
+      "39708853",
+      "31605421",
+      "36796701",
+      "42249579",
+      "34119222",
+      "35202811",
+      "30572243",
+      "35715031",
+      "41856473",
+      "39769522",
+      "40542553",
+      "31484301",
+      "42565562",
+      "28334129",
+      "40346596",
+      "41461425",
+      "39277377",
+      "26778436",
+      "30768168",
+      "38959045",
+      "25140535",
+      "34014075",
+      "40507990",
+      "31615139",
+      "41974106",
+      "31456272",
+      "27005728",
+      "39838942",
+      "41326073",
+      "30488546",
+      "42264731",
+      "29797492",
+      "39477591",
+      "37748309",
+      "36464369",
+      "22113869",
+      "27670668",
+      "29608693",
+      "35216472",
+      "12210727",
+      "40274271",
+      "25987224",
+      "32527432",
+      "35460755",
+      "33518055",
+      "31540185",
+      "36822295",
+      "41898976",
+      "25283874",
+      "36474079",
+      "25262705",
+      "37683749",
+      "28874659",
+      "36834582",
+      "42392719",
+      "42958693",
+      "35899798",
+      "25615818",
+      "31855381",
+      "36355949",
+      "40197819",
+      "42020365",
+      "27989834",
+      "36775219",
+      "17213386",
+      "21853033",
+      "21127058"
+    ],
+    "review": [
+      "43036039",
+      "25987224"
+    ],
+    "pmc": [
+      "13771410"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43036039/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CALR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-33",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

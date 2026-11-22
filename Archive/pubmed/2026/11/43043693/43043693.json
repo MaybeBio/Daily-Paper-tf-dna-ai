@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "43043693",
+    "doi": "10.1073/pnas.2602243123",
+    "title": "Molecular interactions underlying selective partitioning of clients into MED1 and FUS condensates."
+  },
+  "content": {
+    "abstract": "Biomolecular condensates selectively recruit and exclude proteins, and this partitioning is sometimes dictated by their intrinsically disordered regions. Factors that determine partitioning include client-scaffold interactions and stabilization of the scaffold network within the condensate, yet a molecular and predictive understanding has not been fully achieved. Here, we used coarse-grained molecular dynamics simulations to elucidate molecular interactions between two types of nuclear proteins as scaffolds: the charge-rich disordered region of Mediator 1 (MED1) and the aromatic-rich disordered region of Fused in Sarcoma (FUS), in mixtures with client intrinsically disordered regions from six different proteins. We show distinct partitioning into the MED1 and FUS condensates, while the presence of RNA in both dilute and dense phases modulated client partitioning. Favorable client-scaffold interaction energies within condensates were associated with client partitioning, while client-scaffold interactions competed with scaffold self-interactions. Analysis of interaction energies of individual residues revealed that the interactions were localized to specific sequence regions: charged blocks for interactions with MED1, and dispersed aromatic residues for interactions with FUS. Using residue-resolved interaction energies from our molecular dynamics simulations, we developed sequence-based predictors of client partitioning into MED1 and FUS condensates. Our prediction approach for partitioning can be extended to other biomolecules, offering a framework to analyze their partitioning in cellular environments.",
+    "keywords": [
+      "biomolecular condensate",
+      "coarse-grained molecular dynamics simulation",
+      "intrinsically disordered proteins",
+      "selective partitioning"
+    ],
+    "mesh_terms": [
+      "*RNA-Binding Protein FUS/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Mediator Complex Subunit 1/chemistry/metabolism",
+      "Humans",
+      "*Biomolecular Condensates/chemistry/metabolism",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yasuda, Ikki",
+        "Yamamoto, Eiji",
+        "Yasuoka, Kenji",
+        "Lindorff-Larsen, Kresten"
+      ],
+      "short_names": [
+        "Yasuda I",
+        "Yamamoto E",
+        "Yasuoka K",
+        "Lindorff-Larsen K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6183-862X",
+        "ORCID: 0000-0002-8813-5297",
+        "ORCID: 0000-0002-4750-6039"
+      ],
+      "affiliations": [
+        "Department of Biology, Structural Biology and NMR Laboratory, Linderstrom-Lang Centre for Protein Science, University of Copenhagen, Copenhagen 2200, Denmark. ROR: https://ror.org/035b05819",
+        "Department of Mechanical Engineering, Keio University, Yokohama, Kanagawa 223-8522, Japan. ROR: https://ror.org/02kn6nx58",
+        "Department of System Design Engineering, Keio University, Yokohama, Kanagawa 223-8522, Japan. ROR: https://ror.org/02kn6nx58",
+        "Department of Mechanical Engineering, Keio University, Yokohama, Kanagawa 223-8522, Japan. ROR: https://ror.org/02kn6nx58",
+        "Department of Biology, Structural Biology and NMR Laboratory, Linderstrom-Lang Centre for Protein Science, University of Copenhagen, Copenhagen 2200, Denmark. ROR: https://ror.org/035b05819"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yasuda, Ikki",
+        "short_name": "Yasuda I",
+        "identifiers": [
+          "0000-0002-6183-862X"
+        ],
+        "affiliations": [
+          "Department of Biology, Structural Biology and NMR Laboratory, Linderstrøm-Lang Centre for Protein Science, University of Copenhagen, Copenhagen 2200, Denmark.",
+          "Department of Mechanical Engineering, Keio University, Yokohama, Kanagawa 223-8522, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamamoto, Eiji",
+        "short_name": "Yamamoto E",
+        "identifiers": [
+          "0000-0002-8813-5297"
+        ],
+        "affiliations": [
+          "Department of System Design Engineering, Keio University, Yokohama, Kanagawa 223-8522, Japan."
+        ]
+      },
+      {
+        "full_name": "Yasuoka, Kenji",
+        "short_name": "Yasuoka K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mechanical Engineering, Keio University, Yokohama, Kanagawa 223-8522, Japan."
+        ]
+      },
+      {
+        "full_name": "Lindorff-Larsen, Kresten",
+        "short_name": "Lindorff-Larsen K",
+        "identifiers": [
+          "0000-0002-4750-6039"
+        ],
+        "affiliations": [
+          "Department of Biology, Structural Biology and NMR Laboratory, Linderstrøm-Lang Centre for Protein Science, University of Copenhagen, Copenhagen 2200, Denmark."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Nov 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 17:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43043693",
+      "40857360",
+      "40794831",
+      "40009520",
+      "42788291",
+      "39486437",
+      "42055532",
+      "33307683",
+      "34862761",
+      "40229261",
+      "40747072",
+      "39232584",
+      "34487489",
+      "41667469",
+      "39071308",
+      "40693919",
+      "35727989",
+      "41535729",
+      "37134270",
+      "37408305",
+      "41360394",
+      "34767801",
+      "40521608",
+      "36883003",
+      "40985078",
+      "34648275",
+      "35126984",
+      "40842365",
+      "41415473",
+      "40672301",
+      "42350353",
+      "41662498",
+      "42949963",
+      "41691373",
+      "41629604",
+      "38383656",
+      "38832749",
+      "41238911",
+      "36603581",
+      "37399327",
+      "41481439",
+      "40093099",
+      "42260147",
+      "39535884",
+      "42465321",
+      "42425985",
+      "38591689",
+      "36004748",
+      "37468629",
+      "34759379",
+      "35762716",
+      "42207631",
+      "41933903",
+      "39826710",
+      "34598583",
+      "40654645",
+      "37890778",
+      "36798393",
+      "40667294",
+      "41083871",
+      "30926670",
+      "41169547",
+      "41865079",
+      "29677513",
+      "41670285",
+      "43049326",
+      "41700935",
+      "40781776",
+      "41351266",
+      "39801048",
+      "40614690",
+      "42965002",
+      "40748104",
+      "41203642",
+      "41794289",
+      "42933777",
+      "40172489",
+      "40913895",
+      "42230638",
+      "41342450",
+      "42475937",
+      "34090478",
+      "40195119",
+      "38971830",
+      "39537752",
+      "41840875",
+      "40877270",
+      "34890409",
+      "36993212",
+      "35297101",
+      "42939636",
+      "39636939",
+      "40848932",
+      "40768359",
+      "42816535",
+      "33302617",
+      "42818309",
+      "39356108",
+      "41023446",
+      "34516126"
+    ],
+    "review": [
+      "43043693",
+      "34767801",
+      "37399327",
+      "40614690",
+      "42933777",
+      "40172489",
+      "40913895",
+      "42475937"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2602243123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

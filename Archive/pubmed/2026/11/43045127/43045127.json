@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "43045127",
+    "doi": "10.19540/j.cnki.cjcmm.20260714.703",
+    "title": "[Mechanisms of Shenghui Decoction in activating PPARalpha to promote microglial phagocytosis and degradation of Abeta]."
+  },
+  "content": {
+    "abstract": "This study aimed to elucidate the potential mechanisms by which Shenghui Decoction(SHD) promotes microglial cells to phagocytose and degrade surrounding deposited beta-amyloid protein(Abeta) through the peroxisome proliferator-activated receptor alpha(PPARalpha)/transcription factor EB(TFEB) signaling pathway. Multiple approaches, including Western blot, real-time quantitative PCR(RT-qPCR), molecular docking, reporter gene assays, and immunofluorescence, were employed for verification. Mouse microglial cells(BV2 cells) were divided into the control group, model group, positive control(WY14643) group, and SHD low-, medium-, and high-dose groups(50, 100, and 200 mug.mL~(-1)), respectively. An Abeta-induced BV2 cell injury model was established, and different reagents were added according to group assignment. BV2 cell viability was assessed using the MTT assay. Fluorescently labeled Abeta_(1-42)(FAM-Abeta_(1-42))was used to evaluate Abeta phagocytosis and degradation in each group. Reporter gene assays were performed to determine the transcriptional activities of PPARalpha and TFEB. RT-qPCR was conducted to detect the expression of low-density lipoprotein receptor(LDLR), autophagy-related genes 5 and 7(Atg5 and Atg7), and lysosome-associated membrane protein 2(LAMP2). Western blot was used to determine the expression levels of PPARalpha, LDLR, TFEB nuclear translocation, microtubule-associated protein 1 light chain 3 Ⅰ and Ⅱ(LC3Ⅰ and LC3Ⅱ), P62, and LAMP2 proteins. Immunofluorescence was employed to further validate TFEB nuclear translocation. Molecular docking analysis was conducted to evaluate the binding between SHD active constituents and the ligand-binding domain of PPARalpha. The results showed that SHD had no significant effect on BV2 cell viability at concentrations of 50-300 mug.mL~(-1). SHD enhanced Abeta phagocytosis and degradation, upregulated LDLR expression, significantly increased the nuclear translocation and expression levels of PPARalpha and nuclear TFEB proteins, and enhanced the transcriptional activities of PPARalpha and TFEB. SHD significantly upregulated the expression of the autophagy-related genes Atg5 and Atg7 and the lysosome-related gene LAMP2, increased the protein expression levels of LC3Ⅱ/LC3Ⅰ and LAMP2, and significantly decreased P62 protein expression. Molecular docking results indicated that 50 active constituents in SHD could bind to the ligand-binding domain of PPARalpha and form stable hydrogen bonds, with binding energies &lt;-5 kcal.mol~(-1). In summary, SHD improves the autophagic-lysosomal function in BV2 cells, thereby facilitating the phagocytosis and degradation of Abeta. This underlying mechanism is likely associated with the activation of the PPARalpha/TFEB signaling pathway.The findings of this study help elucidate the modern scientific connotation of SHD and may provide a rational therapeutic strategy for the clinical prevention and treatment of Alzheimer's disease.",
+    "keywords": [
+      "Alzheimer's disease",
+      "PPARalpha",
+      "Shenghui Decoction",
+      "autophagy",
+      "microglia"
+    ],
+    "mesh_terms": [
+      "*Microglia/drug effects/metabolism/cytology",
+      "Animals",
+      "*Drugs, Chinese Herbal/pharmacology",
+      "Mice",
+      "*PPAR alpha/metabolism/genetics",
+      "*Phagocytosis/drug effects",
+      "*Amyloid beta-Peptides/metabolism/genetics",
+      "Cell Line",
+      "Signal Transduction/drug effects",
+      "Autophagy/drug effects",
+      "Humans"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yu-Min",
+        "Wang, Min",
+        "Huang, Yan-Li",
+        "Xu, Dai-Yu",
+        "Gao, Gai",
+        "Zhang, Xiao-Wei",
+        "Zhang, Zhen-Qiang",
+        "Xie, Zhi-Shen"
+      ],
+      "short_names": [
+        "Wang YM",
+        "Wang M",
+        "Huang YL",
+        "Xu DY",
+        "Gao G",
+        "Zhang XW",
+        "Zhang ZQ",
+        "Xie ZS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China.",
+        "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China.",
+        "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China.",
+        "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China.",
+        "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China.",
+        "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China.",
+        "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China.",
+        "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yu-Min",
+        "short_name": "Wang YM",
+        "identifiers": [],
+        "affiliations": [
+          "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Min",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yan-Li",
+        "short_name": "Huang YL",
+        "identifiers": [],
+        "affiliations": [
+          "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Dai-Yu",
+        "short_name": "Xu DY",
+        "identifiers": [],
+        "affiliations": [
+          "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Gai",
+        "short_name": "Gao G",
+        "identifiers": [],
+        "affiliations": [
+          "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiao-Wei",
+        "short_name": "Zhang XW",
+        "identifiers": [],
+        "affiliations": [
+          "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhen-Qiang",
+        "short_name": "Zhang ZQ",
+        "identifiers": [],
+        "affiliations": [
+          "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Zhi-Shen",
+        "short_name": "Xie ZS",
+        "identifiers": [],
+        "affiliations": [
+          "Collaborative Innovation Center of Research and Development on the Whole Industry Chain of Yu-Yao in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China Collaborative Innovation Center of Prevention and Treatment of Major Diseases by Chinese and Western Medicine in Henan Province, Henan University of Chinese Medicine Zhengzhou 450046, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica"
+    ],
+    "journal_abbrev": [
+      "Zhongguo Zhong Yao Za Zhi"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 23:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43045127",
+      "36809694",
+      "36164880",
+      "32512069",
+      "30898012",
+      "30523761",
+      "39787692",
+      "29845511",
+      "41508178",
+      "41192695",
+      "36471943",
+      "42343519",
+      "40754372",
+      "37682502",
+      "27060963",
+      "33404280",
+      "42805352",
+      "37864249",
+      "34074054",
+      "38939931",
+      "38008888",
+      "38636999",
+      "42184497",
+      "36036098",
+      "37580742",
+      "34699252",
+      "26338325",
+      "41796616",
+      "30335591",
+      "42785531",
+      "28387679",
+      "42543371",
+      "42636682",
+      "34817332",
+      "42340476",
+      "41260547",
+      "28073413",
+      "39437446",
+      "41673711",
+      "39929612",
+      "42165414",
+      "37258433",
+      "40832968",
+      "40151116",
+      "25750174",
+      "27209302",
+      "39929611",
+      "23816988",
+      "26368054",
+      "30894069",
+      "41814823",
+      "28941188",
+      "38423408",
+      "39394703",
+      "39978277",
+      "30309416",
+      "40175501",
+      "37992796",
+      "39929613",
+      "41216966",
+      "33682314",
+      "39805790",
+      "39923958",
+      "32037089",
+      "42869812",
+      "40275171",
+      "39733799",
+      "36719671",
+      "34332287",
+      "40138784",
+      "42981748",
+      "39391949",
+      "42693057",
+      "37802769",
+      "42494065",
+      "41621577",
+      "23830905",
+      "22353164",
+      "42660828",
+      "38401031",
+      "40440957",
+      "35701825",
+      "29393440",
+      "38580189",
+      "25976650",
+      "42020342",
+      "40350876",
+      "26080426",
+      "39663580",
+      "23827971",
+      "36571218",
+      "38812205",
+      "39665609",
+      "28769785",
+      "33406386",
+      "37072933",
+      "40515882",
+      "40542425",
+      "40350952",
+      "42431281"
+    ],
+    "review": [
+      "43045127",
+      "23827971"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-OTUB1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-689",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "43059758",
+    "doi": "10.64898/2026.11.09.765385",
+    "title": "The SOX9 C-terminus encodes a transferable cBAF-recruitment module for enhancer remodeling and cell-state control."
+  },
+  "content": {
+    "abstract": "Transcription factors select genomic targets, but how they recruit chromatin remodelers to convert DNA occupancy into cell-state-specific accessibility remains unclear. Here, we identify an intrinsically disordered SOX9 C-terminal module that recruits SMARCB1-containing canonical BAF (cBAF) to stem-like enhancers that open during APC -mutant adenoma formation. Acute, reversible SOX9 degradation displaces cBAF from  approximately 80% of co-bound enhancers, exceeding effects on pBAF and ncBAF, and collapses accessibility and stem-like identity; SOX9 re-expression restores these features. C-terminal truncation preserves DNA binding but disrupts cBAF engagement and chromatin opening. Enforced SMARCB1 docking to truncated SOX9 partially restores cBAF recruitment, accessibility, stem-like transcription, and organoid self-renewal, identifying remodeler recruitment as a limiting effector function. The isolated C-terminus supports higher-order cBAF assembly and, when fused to dCas9 as COMET, redirects endogenous cBAF to targeted loci to open chromatin. Disordered TF regions can therefore encode transferable instructions that deploy specific remodeling complexes to control cell state. HIGHLIGHTS: The SOX9 C-terminal IDR recruits cBAF to adenoma-emergent enhancersSMARCB1 is required for SOX9-dependent enhancer accessibility and stem identity Forced SMARCB1 docking restores stem-like enhancer state and self-renewal to SOX9 (DeltaC) The isolated SOX9 module is sufficient to open chromatin via endogenous cBAF.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Raghawan, Akhouri K",
+        "Li, Zhixin",
+        "Wang, Xiaolu",
+        "Huang, Yingbo",
+        "Doan, Paul",
+        "Gudipudi, Anoushka C",
+        "Conway, Caroline",
+        "Kositbovornchai, Supakrit",
+        "Hsiang, Evan",
+        "Lie, Pearl Y P",
+        "Cleary, James M",
+        "Sethi, Nilay S"
+      ],
+      "short_names": [
+        "Raghawan AK",
+        "Li Z",
+        "Wang X",
+        "Huang Y",
+        "Doan P",
+        "Gudipudi AC",
+        "Conway C",
+        "Kositbovornchai S",
+        "Hsiang E",
+        "Lie PYP",
+        "Cleary JM",
+        "Sethi NS"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Raghawan, Akhouri K",
+        "short_name": "Raghawan AK",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Zhixin",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Xiaolu",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Huang, Yingbo",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Doan, Paul",
+        "short_name": "Doan P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gudipudi, Anoushka C",
+        "short_name": "Gudipudi AC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Conway, Caroline",
+        "short_name": "Conway C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kositbovornchai, Supakrit",
+        "short_name": "Kositbovornchai S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hsiang, Evan",
+        "short_name": "Hsiang E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lie, Pearl Y P",
+        "short_name": "Lie PYP",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cleary, James M",
+        "short_name": "Cleary JM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sethi, Nilay S",
+        "short_name": "Sethi NS",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43059758",
+      "41771870",
+      "37790495",
+      "37788668",
+      "37315534",
+      "41381493",
+      "42377898",
+      "38102116",
+      "39209535",
+      "38956169",
+      "42875463",
+      "40695292",
+      "41657245",
+      "41423472",
+      "39732119",
+      "42999446",
+      "35681054",
+      "38843835",
+      "35022313",
+      "42951962",
+      "41193430",
+      "38883782",
+      "42182290",
+      "30397315",
+      "38712286",
+      "36536103",
+      "41279405",
+      "38427563",
+      "37922452",
+      "41116019",
+      "33712604",
+      "41129262",
+      "39730061",
+      "27382057",
+      "36153585",
+      "41017120",
+      "42926445",
+      "22537144",
+      "33501917",
+      "37028419",
+      "41068120",
+      "34078620",
+      "38113003",
+      "42427522",
+      "34571027",
+      "39732845",
+      "42571864",
+      "40475509",
+      "35976093",
+      "40780491",
+      "34716243",
+      "30461303",
+      "35217218",
+      "28428261",
+      "28323209",
+      "38016477",
+      "39625239",
+      "41642679",
+      "32251664",
+      "28279198",
+      "39013863",
+      "41556087",
+      "35390276",
+      "20484372",
+      "41175859",
+      "24351654",
+      "34386776",
+      "38735044",
+      "41659470",
+      "40479714",
+      "31543342",
+      "33558757",
+      "33434575",
+      "29272704",
+      "38126767",
+      "34270961",
+      "41390837",
+      "40672303",
+      "38049663",
+      "41576938",
+      "38124496",
+      "41694361",
+      "30146478",
+      "39747144",
+      "31862843",
+      "37922870",
+      "21415370",
+      "36711459",
+      "33986538",
+      "34071089",
+      "25799994",
+      "18390577",
+      "29848589",
+      "34273410",
+      "10980415",
+      "42973178",
+      "37949841",
+      "41512915",
+      "9858536",
+      "35539431"
+    ],
+    "review": [
+      "43059758",
+      "42571864",
+      "28323209",
+      "38016477",
+      "32251664"
+    ],
+    "pmc": [
+      "13778895"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

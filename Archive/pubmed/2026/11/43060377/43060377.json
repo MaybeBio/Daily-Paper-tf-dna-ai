@@ -1,0 +1,204 @@
+{
+  "identity": {
+    "pmid": "43060377",
+    "doi": "10.64898/2026.10.29.762992",
+    "title": "Predicting single-molecule chromatin distribution from DNA sequence."
+  },
+  "content": {
+    "abstract": "Genome regulation unfolds through dynamic and stochastic single-molecule events. Deep learning models that read gene regulatory activities from DNA sequences have markedly advanced our ability to predict cell-population-level averages. However, they cannot capture the full spectrum of heterogeneity and dynamics at the single-molecule level, which directly reflect the underlying mechanisms of genome regulation. Here, we introduce a sequence-to-distribution (S2d) framework that directly models the entire probabilistic distribution of single-molecule chromatin states from DNA sequence alone. We used this framework to train Mola, a model of single-molecule chromatin accessibility. We harness Mola to investigate sequence-based regulatory code and mechanisms for multiple aspects of chromatin regulation at the single-molecule level. By quantifying sequence-driven nucleosome regulation, we reveal distinct modes of transcription factor engagement with nucleosomes, including a novel nucleosome-trapping factor, ZNF146. We characterized the sequence determinants governing the +1 nucleosome after transcription start sites and identified YY1 as the strongest +1 nucleosome-positioning factor. Leveraging long-context single-molecule modeling, we further discovered a shared sequence basis for the co-accessibility of regulatory elements and the co-footprinting of transcription factors. Joint prediction of DNA methylation and accessibility reveals a sequence-driven bimodal state mediated by methylation-sensitive transcription factors. Beyond static single-molecule snapshots, the S2d framework can generate pseudo-dynamic trajectories of chromatin states and propose a roadmap toward genome-wide chromatin dynamics. Moreover, we showed that Mola can predict and interpret the effects of genetic variants at the single-molecule level, revealing how sequence changes reshape distal regulatory coordination. Together, this sequence-to-distribution framework lays the foundation for understanding how genomic sequence encodes stochastic and dynamic genome regulation, and how genetic variation changes it, one molecule at a time.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Ruoyu",
+        "Jin, Junru",
+        "Pott, Sebastian",
+        "Zhou, Jian"
+      ],
+      "short_names": [
+        "Wang R",
+        "Jin J",
+        "Pott S",
+        "Zhou J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4118-6150"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Ruoyu",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jin, Junru",
+        "short_name": "Jin J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pott, Sebastian",
+        "short_name": "Pott S",
+        "identifiers": [
+          "0000-0002-4118-6150"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhou, Jian",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060377",
+      "42475469",
+      "41039779",
+      "42990375",
+      "31201211",
+      "32042188",
+      "39896524",
+      "42926558",
+      "12596908",
+      "42056506",
+      "23572549",
+      "38830772",
+      "33191916",
+      "41096905",
+      "21747402",
+      "37236433",
+      "33576335",
+      "34125875",
+      "37782664",
+      "36758546",
+      "22354995",
+      "23511541",
+      "38676941",
+      "20015349",
+      "22960375",
+      "12527297",
+      "41296722",
+      "41308636",
+      "31136738",
+      "33413545",
+      "30258225",
+      "39631398",
+      "39572230",
+      "31510655",
+      "36927507",
+      "36430966",
+      "42586070",
+      "26771136",
+      "37956271",
+      "41924246",
+      "26305225",
+      "42949763",
+      "42981441",
+      "30113318",
+      "20078849",
+      "37294468",
+      "33263279",
+      "33074101",
+      "40114377",
+      "27046080",
+      "41365655",
+      "30861354",
+      "37696956",
+      "18615586",
+      "22908247",
+      "28902852",
+      "42642588",
+      "37532472",
+      "24163369",
+      "30518654",
+      "40795153",
+      "41126326",
+      "26818008",
+      "32728250",
+      "24068556",
+      "36723807",
+      "25529773",
+      "21269520",
+      "39549698",
+      "25494698",
+      "24889621",
+      "23958656",
+      "42395488",
+      "31053165",
+      "38826400",
+      "18989395",
+      "39757199",
+      "36443798",
+      "20003404",
+      "20886052",
+      "31015380",
+      "40731031",
+      "20824081",
+      "42282682",
+      "32973041",
+      "17466507",
+      "35830792",
+      "19598227",
+      "32404364",
+      "24673249",
+      "26578577",
+      "43020033",
+      "22955617",
+      "25563930",
+      "20232931",
+      "31419979",
+      "42401553",
+      "36807071",
+      "36043696",
+      "36807067"
+    ],
+    "review": [
+      "43060377",
+      "12596908",
+      "21747402",
+      "37294468",
+      "18615586",
+      "25529773",
+      "39757199",
+      "31015380"
+    ],
+    "pmc": [
+      "13780608"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

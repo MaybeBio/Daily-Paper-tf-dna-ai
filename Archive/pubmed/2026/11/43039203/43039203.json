@@ -1,0 +1,285 @@
+{
+  "identity": {
+    "pmid": "43039203",
+    "doi": "10.1016/j.jnutbio.2026.110547",
+    "title": "Hepatoprotective effects of neohesperidin against acetaminophen-induced acute liver injury through modulation of EGFR signaling."
+  },
+  "content": {
+    "abstract": "Acetaminophen (APAP) overdose is a major cause of acute liver injury (ALI), yet effective therapies remain limited. Neohesperidin (Neo), a citrus-derived flavonoid glycoside, has recognized antioxidant and anti-inflammatory activities, but its role in APAP-induced hepatotoxicity is unclear. Here, APAP-induced ALI mice and APAP-treated AML12 hepatocytes were used to evaluate the hepatoprotective effects of Neo. Network pharmacology and molecular docking were performed to explore potential targets, and epidermal growth factor receptor (EGFR) signaling was further examined using pharmacological activation and gene silencing. Neo markedly alleviated APAP-induced liver injury, as shown by reduced alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels, improved histopathology, and enhanced hepatocyte viability. Neo also restored redox homeostasis, increased antioxidant enzyme activities, reduced reactive oxygen species accumulation, attenuated inflammatory responses, and suppressed endoplasmic reticulum (ER) stress via the protein kinase R-like ER kinase (PERK)- activating transcription factor 4 (ATF4) pathway. Mechanistically, EGFR was identified as a potential target associated with Neo-mediated protection. Neo reduced APAP-induced EGFR phosphorylation in vivo and in vitro, whereas EGFR activation largely abolished its protective effects. EGFR silencing also alleviated APAP-induced hepatocyte injury. Overall, Neo protects against APAP-induced ALI, at least partly through modulation of EGFR signaling, accompanied by attenuation of oxidative stress, inflammation, and ER stress.",
+    "keywords": [
+      "Acetaminophen",
+      "Acute liver injury",
+      "EGFR signaling",
+      "Endoplasmic reticulum stress",
+      "Neohesperidin"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lai, Shanglei",
+        "Fu, Ai",
+        "Dong, Fan",
+        "Yu, Jundi",
+        "Wang, Keyi",
+        "Zeng, Yibo",
+        "Ding, Bin",
+        "Yu, Wangqin",
+        "Ding, Qinchao"
+      ],
+      "short_names": [
+        "Lai S",
+        "Fu A",
+        "Dong F",
+        "Yu J",
+        "Wang K",
+        "Zeng Y",
+        "Ding B",
+        "Yu W",
+        "Ding Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Medical Research Center, Shaoxing People's Hospital, Shaoxing 312000, Zhejiang, China.",
+        "School of Life Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China; Institute of Hepatology and Epidemiology, Affiliated Hangzhou Xixi Hospital, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China.",
+        "School of Public Health, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China.",
+        "School of Public Health, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China.",
+        "School of Public Health, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China.",
+        "School of Life Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China.",
+        "School of Life Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China.",
+        "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China.",
+        "School of Public Health, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China. Electronic address: dingqinchao@zcmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lai, Shanglei",
+        "short_name": "Lai S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Research Center, Shaoxing People's Hospital, Shaoxing 312000, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Ai",
+        "short_name": "Fu A",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China; Institute of Hepatology and Epidemiology, Affiliated Hangzhou Xixi Hospital, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Fan",
+        "short_name": "Dong F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jundi",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Keyi",
+        "short_name": "Wang K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Yibo",
+        "short_name": "Zeng Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Bin",
+        "short_name": "Ding B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Wangqin",
+        "short_name": "Yu W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Qinchao",
+        "short_name": "Ding Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Zhejiang Chinese Medical University, Hangzhou 310053, Zhejiang, China. Electronic address: dingqinchao@zcmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of nutritional biochemistry"
+    ],
+    "journal_abbrev": [
+      "J Nutr Biochem"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 23:29",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43039203",
+      "37267857",
+      "42481131",
+      "31645120",
+      "36097583",
+      "41887383",
+      "40957543",
+      "37556956",
+      "41151450",
+      "42459050",
+      "24590984",
+      "41966027",
+      "41764620",
+      "23665281",
+      "42325912",
+      "40051561",
+      "36779633",
+      "30818140",
+      "30630510",
+      "36126895",
+      "29621733",
+      "41838132",
+      "37209606",
+      "32222641",
+      "41386555",
+      "40811614",
+      "41207540",
+      "33657990",
+      "42510896",
+      "23661004",
+      "30030101",
+      "42346403",
+      "36115150",
+      "32863309",
+      "39060559",
+      "41173313",
+      "32946962",
+      "32259676",
+      "36841099",
+      "36723004",
+      "29730296",
+      "42462527",
+      "39313515",
+      "36035360",
+      "26721592",
+      "28123000",
+      "33532182",
+      "29802827",
+      "35526796",
+      "30597971",
+      "35126160",
+      "33516931",
+      "42397441",
+      "28429935",
+      "32037847",
+      "35278889",
+      "26002582",
+      "30235447",
+      "36567664",
+      "38943970",
+      "33571619",
+      "31214283",
+      "42638417",
+      "41603285",
+      "31132129",
+      "34409550",
+      "41448365",
+      "24951965",
+      "40651730",
+      "36068777",
+      "41472557",
+      "37989029",
+      "37663051",
+      "34193673",
+      "28524081",
+      "32009027",
+      "39870009",
+      "29136249",
+      "27891510",
+      "29574133",
+      "30466610",
+      "32172946",
+      "35514074",
+      "28430162",
+      "38599475",
+      "39244559",
+      "36259797",
+      "41455169",
+      "40339610",
+      "27562556",
+      "35285202",
+      "28081632",
+      "36923240",
+      "31600996",
+      "28209544",
+      "32425778",
+      "33436521",
+      "28152447",
+      "34816363",
+      "38039903"
+    ],
+    "review": [
+      "43039203"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0955-2863(26)00297-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-11",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-802",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

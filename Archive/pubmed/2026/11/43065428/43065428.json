@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "43065428",
+    "doi": "10.3389/fendo.2026.1996027",
+    "title": "Molecular mechanisms underlying phenotypic overlap and AI-misclassification in rare bone diseases: Insights from SHOX-related signaling pathways in endochondral ossification."
+  },
+  "content": {
+    "abstract": "The diagnosis of rare bone diseases (RBDs) is challenged by their heterogeneity and rare occurrence. However, correct and timely diagnosis is highly relevant for the best therapeutic outcome of patients. We regarded two AI-approaches developed by the Bone2Gene project that aim to support the diagnostic process by assigning hand radiographs to RBDs. We noticed a predominant misclassification of several RBDs into the group of SHOX-related short stature. To find potential genetic explanations for this overlap, we performed a literature research for SHOX-related signaling in endochondral ossification and connections to the signaling underlying other RBDs. We found that SHOX activates the expression of the structural protein aggrecan (ACAN) and represses FGFR3-induced RAS/RAF/MAPK signaling, displaying signaling connections to ACAN-related growth disorder as well as Hypochondroplasia and Achondroplasia, respectively. Additionally, we conclude that the high phenotypic variety of SHOX-related short stature also contributes to the misclassification of RBDs that do not show a direct connection to SHOX-related signaling. Overall, we deepened our understanding of the occurrence of misclassification in both Bone2Gene approaches. Complemented with genetic testing, Bone2Gene can be a valuable tool in the diagnostic process of RBDs.",
+    "keywords": [
+      "SHOX",
+      "SHOX-related signaling pathways",
+      "artificial intelligence",
+      "bone classification",
+      "endochondral ossification",
+      "growth plate development",
+      "rare bone diseases"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Signal Transduction",
+      "*Osteogenesis/genetics",
+      "*Short Stature Homeobox Protein/genetics/metabolism",
+      "Phenotype",
+      "*Rare Diseases/genetics/metabolism/diagnosis/classification",
+      "*Bone Diseases/genetics/metabolism/diagnosis/classification",
+      "Receptor, Fibroblast Growth Factor, Type 3/metabolism",
+      "Limb Deformities, Congenital/genetics",
+      "Bone and Bones/abnormalities",
+      "Dwarfism",
+      "Lordosis"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fischer, Isabel",
+        "Bialdiga, Sina",
+        "Schmidt, Philipp",
+        "Bolmer, Eike",
+        "Javanmardi, Behnam",
+        "Mohnike, Klaus",
+        "Schanze, Denny"
+      ],
+      "short_names": [
+        "Fischer I",
+        "Bialdiga S",
+        "Schmidt P",
+        "Bolmer E",
+        "Javanmardi B",
+        "Mohnike K",
+        "Schanze D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany.",
+        "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany.",
+        "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany.",
+        "Institute for Genomic Statistics and Bioinformatics, University of Bonn, Bonn, Germany.",
+        "Institute for Genomic Statistics and Bioinformatics, University of Bonn, Bonn, Germany.",
+        "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany.",
+        "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fischer, Isabel",
+        "short_name": "Fischer I",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Bialdiga, Sina",
+        "short_name": "Bialdiga S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Schmidt, Philipp",
+        "short_name": "Schmidt P",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Bolmer, Eike",
+        "short_name": "Bolmer E",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Genomic Statistics and Bioinformatics, University of Bonn, Bonn, Germany."
+        ]
+      },
+      {
+        "full_name": "Javanmardi, Behnam",
+        "short_name": "Javanmardi B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Genomic Statistics and Bioinformatics, University of Bonn, Bonn, Germany."
+        ]
+      },
+      {
+        "full_name": "Mohnike, Klaus",
+        "short_name": "Mohnike K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Schanze, Denny",
+        "short_name": "Schanze D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, University Hospital Magdeburg, Otto von Guericke University, Magdeburg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in endocrinology"
+    ],
+    "journal_abbrev": [
+      "Front Endocrinol (Lausanne)"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/21 05:43",
+    "fetched_at": "2026-11-22 09:36:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43065428",
+      "22903874",
+      "40581757",
+      "21273290",
+      "37695807",
+      "25244068",
+      "35438268",
+      "12476453",
+      "38070826",
+      "30626445",
+      "23149434",
+      "24229583",
+      "42755462",
+      "30681580",
+      "37832088",
+      "32932528",
+      "42230379",
+      "23726269",
+      "40178985",
+      "24715719",
+      "41762373",
+      "9811582",
+      "24411048",
+      "41956799",
+      "26716907",
+      "32295321",
+      "24630288",
+      "33051983",
+      "29080836",
+      "31048079",
+      "27485793",
+      "42650460",
+      "28181399",
+      "27987249",
+      "39967053",
+      "29330548",
+      "41121704",
+      "10749976",
+      "20301394",
+      "16807223",
+      "25114206",
+      "29681095",
+      "24421874",
+      "41184854",
+      "31731208",
+      "28763161",
+      "34740356",
+      "11030412",
+      "25616962",
+      "18797583",
+      "34672771",
+      "25809207",
+      "31834863",
+      "17922307",
+      "42713069",
+      "28802681",
+      "42234372",
+      "21057185",
+      "23045425",
+      "28768959",
+      "36672881",
+      "30762251",
+      "24292534",
+      "23304810",
+      "41091812",
+      "26867606",
+      "27355317",
+      "25483930",
+      "26350084",
+      "40671115",
+      "20673820",
+      "37750395",
+      "33143726",
+      "42475469",
+      "30168875",
+      "9887329",
+      "33850126",
+      "22367969",
+      "42613584",
+      "19898608",
+      "29150894",
+      "14871928",
+      "30332396",
+      "34133497",
+      "42077444",
+      "14557470",
+      "30933954",
+      "17182655",
+      "31219618",
+      "34922328",
+      "29254682",
+      "10549307",
+      "40662877",
+      "37526276",
+      "24650027",
+      "33511985",
+      "22045636",
+      "10626546",
+      "41106030",
+      "15145945"
+    ],
+    "review": [
+      "43065428",
+      "25244068",
+      "30681580",
+      "37832088",
+      "24411048",
+      "33051983",
+      "42650460",
+      "27987249",
+      "20301394",
+      "16807223",
+      "25114206",
+      "29681095",
+      "18797583",
+      "17922307",
+      "42713069",
+      "42234372",
+      "30762251",
+      "24292534",
+      "27355317",
+      "37750395",
+      "10549307",
+      "24650027",
+      "22045636"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

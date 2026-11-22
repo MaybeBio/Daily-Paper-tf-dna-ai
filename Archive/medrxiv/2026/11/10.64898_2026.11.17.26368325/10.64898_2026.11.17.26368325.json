@@ -1,0 +1,98 @@
+{
+  "source": "medrxiv",
+  "source_id": "10.64898/2026.11.17.26368325",
+  "title": "Complementary DNA-contact and domain-destabilizing mechanisms of PAX9 and MSX1 variants in non-syndromic tooth agenesis: an AlphaFold 3, ThermoMPNN, and AlphaGenome study",
+  "doi": "10.64898/2026.11.17.26368325",
+  "abstract": "Missense variants in the DNA-binding domains of PAX9 and MSX1 cause non-syndromic tooth agenesis, yet most substitutions remain variants of uncertain significance. We investigated the structural mechanisms of 39 pathogenic missense variants in the PAX9 paired domain (n = 32) and MSX1 homeodomain (n = 7) alongside 77 non-coding/splice ClinVar variants. We modelled protein-DNA complexes with AlphaFold 3, estimated folding stability changes (ΔΔG) with ThermoMPNN, and compared pathogenic variants with gnomAD v4 domain variants. AlphaFold 3 confidence metrics and mutant interfaces were insensitive to point mutations. Instead, pathogenic PAX9 variants acted through two complementary mechanisms relative to recurrent population controls: loss of direct DNA contact (< 4 Å; 50% vs 17%; p = 0.0025) or domain destabilization (median ΔΔG 1.17 vs 0.34 kcal/mol; p = 4.6×10 -5 ). Leave-one-out cross-validation selected a stable rule (DNA contact or ΔΔG ≥ 1.5 kcal/mol; apparent sensitivity 84%, specificity 79%) concordant with published DNA-binding assays for five of eight PAX9 mutants; canonical AlphaMissense (> 0.564) showed 8%-21% specificity across both domains. Mechanism did not predict missing teeth, whereas missense variants were milder than null alleles (p = 0.001). AlphaGenome matched SpliceAI and jointly prioritized seven intronic variants.",
+  "authors": [
+    "Vono FM",
+    "Santos VG",
+    "de Toledo AN"
+  ],
+  "published_date": "2026-11-19",
+  "updated_date": "",
+  "journal": "medRxiv",
+  "category": "",
+  "landing_url": "https://www.medrxiv.org/content/10.64898/2026.11.17.26368325",
+  "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.11.17.26368325.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"transcription factor binding\" OR \"transcription factor binding site\" OR \"TF binding\" OR TFBS OR \"DNA binding\" OR \"DNA-binding\" OR \"DNA-binding protein\" OR \"protein-DNA interaction\" OR \"protein-DNA binding\" OR \"DNA-binding factor\" OR \"DNA-binding site\" OR \"DNA binding site\" OR \"protein-DNA binding site\" OR \"zinc finger\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"convolutional neural network\" OR transformer OR \"language model\" OR \"foundation model\" OR \"diffusion model\" OR generative OR \"flow matching\" OR alphafold OR esmfold OR rosetta OR \"molecular dynamics\" OR simulation OR docking)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1373792",
+    "raw_record": {
+      "id": "PPR1373792",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.17.26368325",
+      "title": "Complementary DNA-contact and domain-destabilizing mechanisms of PAX9 and MSX1 variants in non-syndromic tooth agenesis: an AlphaFold 3, ThermoMPNN, and AlphaGenome study",
+      "authorString": "Vono FM, Santos VG, de Toledo AN.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Vono FM",
+            "lastName": "Vono",
+            "firstName": "Filipe Martins",
+            "initials": "FM"
+          },
+          {
+            "fullName": "Santos VG",
+            "lastName": "Santos",
+            "firstName": "Valeria Gonzaga",
+            "initials": "VG"
+          },
+          {
+            "fullName": "de Toledo AN",
+            "lastName": "de Toledo",
+            "firstName": "Andre Naufel",
+            "initials": "AN"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Missense variants in the DNA-binding domains of PAX9 and MSX1 cause non-syndromic tooth agenesis, yet most substitutions remain variants of uncertain significance. We investigated the structural mechanisms of 39 pathogenic missense variants in the PAX9 paired domain (n = 32) and MSX1 homeodomain (n = 7) alongside 77 non-coding/splice ClinVar variants. We modelled protein-DNA complexes with AlphaFold 3, estimated folding stability changes (ΔΔG) with ThermoMPNN, and compared pathogenic variants with gnomAD v4 domain variants. AlphaFold 3 confidence metrics and mutant interfaces were insensitive to point mutations. Instead, pathogenic PAX9 variants acted through two complementary mechanisms relative to recurrent population controls: loss of direct DNA contact (< 4 Å; 50% vs 17%; p = 0.0025) or domain destabilization (median ΔΔG 1.17 vs 0.34 kcal/mol; p = 4.6×10  -5 ). Leave-one-out cross-validation selected a stable rule (DNA contact or ΔΔG ≥ 1.5 kcal/mol; apparent sensitivity 84%, specificity 79%) concordant with published DNA-binding assays for five of eight PAX9 mutants; canonical AlphaMissense (> 0.564) showed 8%-21% specificity across both domains. Mechanism did not predict missing teeth, whereas missense variants were milder than null alleles (p = 0.001). AlphaGenome matched SpliceAI and jointly prioritized seven intronic variants.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "medRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.11.17.26368325"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-21",
+      "firstPublicationDate": "2026-11-19",
+      "firstIndexDate": "2026-11-21",
+      "hasEvaluations": "N"
+    }
+  }
+}
